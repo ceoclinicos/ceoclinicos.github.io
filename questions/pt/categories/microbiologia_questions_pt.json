@@ -1,0 +1,2424 @@
+{
+  "questions": [
+    {
+      "question": "Qual é a estrutura básica de uma bactéria?",
+      "options": [
+        "Núcleo, citoplasma, membrana celular",
+        "Parede celular, membrana citoplasmática, citoplasma, material genético",
+        "Membrana nuclear, organelas, citoplasma",
+        "Cápsula, núcleo, mitocôndrias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As bactérias são procariontes e sua estrutura básica inclui: parede celular, membrana citoplasmática, citoplasma e material genético (DNA circular) sem núcleo verdadeiro."
+    },
+    {
+      "question": "Que tipo de microrganismo é o vírus?",
+      "options": [
+        "Procarioto",
+        "Eucarioto",
+        "Fúngico",
+        "Acelular"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os vírus são entidades acelulares que não possuem estrutura celular própria. Eles são parasitas obrigatórios que precisam infectar as células para se replicarem."
+    },
+    {
+      "question": "Qual é o método mais comum de reprodução em bactérias?",
+      "options": [
+        "Fissão binária",
+        "Esporulação",
+        "Gemação",
+        "Mitose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A fissão binária é o método mais comum de reprodução assexuada em bactérias, onde uma bactéria se divide em duas células-filhas idênticas."
+    },
+    {
+      "question": "Que estrutura permite que as bactérias se movam?",
+      "options": [
+        "Cápsula",
+        "Flagelos",
+        "Pili",
+        "Fímbrias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Flagelos são estruturas filamentosas que permitem a movimentação das bactérias. Podem ser monotrich, lophotric, anfitrich ou peritrich."
+    },
+    {
+      "question": "Qual é a principal diferença entre bactérias Gram positivas e Gram negativas?",
+      "options": [
+        "A cor da mancha",
+        "A estrutura da parede celular",
+        "tamanho da célula",
+        "A forma das bactérias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As bactérias Gram-positivas possuem uma parede celular espessa de peptidoglicano, enquanto as bactérias Gram-negativas possuem uma parede fina e uma membrana externa adicional."
+    },
+    {
+      "question": "O que é um biofilme bacteriano?",
+      "options": [
+        "Uma colônia de bactérias isoladas",
+        "Uma comunidade de bactérias aderidas a uma superfície",
+        "uma bactéria individual",
+        "Um tipo de esporo bacteriano"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Um biofilme é uma comunidade de microrganismos que aderem a uma superfície e estão incorporados em uma matriz de substâncias poliméricas extracelulares."
+    },
+    {
+      "question": "Qual é o mecanismo de resistência aos antibióticos mais comum?",
+      "options": [
+        "Mutação ribossomo",
+        "Produção de enzimas inativadoras",
+        "Mudança na permeabilidade da membrana",
+        "Alteração do metabolismo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A produção de enzimas inativadoras (como as β-lactamases) é um dos mecanismos mais comuns de resistência a antibióticos em bactérias."
+    },
+    {
+      "question": "O que é esporulação em bactérias?",
+      "options": [
+        "Um tipo de reprodução sexuada",
+        "Um mecanismo de sobrevivência em condições adversas",
+        "Um processo de divisão celular",
+        "Uma forma de troca genética"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A esporulação é um mecanismo de sobrevivência que permite que certas bactérias formem esporos resistentes quando as condições ambientais são desfavoráveis."
+    },
+    {
+      "question": "Qual é a principal função do pili nas bactérias?",
+      "options": [
+        "Adesão e conjugação",
+        "Movimento",
+        "Respirando",
+        "Digestão"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pili são estruturas filamentosas que permitem aderência a superfícies e conjugação bacteriana (transferência de material genético entre bactérias)."
+    },
+    {
+      "question": "Que tipo de microrganismo é Candida albicans?",
+      "options": [
+        "Bactéria",
+        "Vírus",
+        "Fungo",
+        "Protozoário"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Candida albicans é um fungo oportunista que pode causar candidíase, principalmente em indivíduos imunocomprometidos."
+    },
+    {
+      "question": "Qual é a temperatura ideal para o crescimento da maioria das bactérias patogênicas humanas?",
+      "options": [
+        "20-25°C",
+        "37ºC",
+        "45-50°C",
+        "60°C"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A maioria das bactérias patogênicas humanas cresce idealmente a 37°C, que é a temperatura do corpo humano."
+    },
+    {
+      "question": "O que é transformação bacteriana?",
+      "options": [
+        "Mudança de forma bacteriana",
+        "Aquisição de DNA do meio ambiente",
+        "divisão celular",
+        "formação de esporos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A transformação é um mecanismo de transferência horizontal de genes onde as bactérias adquirem DNA livre do meio ambiente."
+    },
+    {
+      "question": "Qual é a função da cápsula bacteriana?",
+      "options": [
+        "Proteção contra fagocitose",
+        "Movimento",
+        "Respirando",
+        "Reprodução"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A cápsula bacteriana protege as bactérias contra a fagocitose pelas células do sistema imunológico e facilita a aderência às superfícies."
+    },
+    {
+      "question": "O que é um plasmídeo?",
+      "options": [
+        "um tipo de bactéria",
+        "DNA extracromossômico circular",
+        "Uma estrutura de parede celular",
+        "Um tipo de esporo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Um plasmídeo é uma molécula circular de DNA extracromossômico que pode se replicar independentemente do cromossomo bacteriano e pode conter genes de resistência."
+    },
+    {
+      "question": "Qual é a diferença entre bactérias aeróbicas e anaeróbicas?",
+      "options": [
+        "tamanho da célula",
+        "A necessidade de oxigênio para crescer",
+        "A forma das bactérias",
+        "A cor da mancha"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As bactérias aeróbicas necessitam de oxigênio para crescer, enquanto os anaeróbios não podem crescer na presença de oxigênio ou não necessitam dele."
+    },
+    {
+      "question": "O que é conjugação bacteriana?",
+      "options": [
+        "Transferência de DNA entre bactérias através de contato direto",
+        "Um tipo de reprodução assexuada",
+        "formação de esporos",
+        "divisão celular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A conjugação é um processo horizontal de transferência de genes em que uma bactéria doadora transfere DNA para uma bactéria receptora por meio de contato direto."
+    },
+    {
+      "question": "Qual é a função das fímbrias bacterianas?",
+      "options": [
+        "Movimento",
+        "Adesão a superfícies",
+        "Respirando",
+        "Reprodução"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As fímbrias são estruturas curtas e numerosas que permitem que as bactérias adiram às superfícies, facilitando a colonização."
+    },
+    {
+      "question": "O que é um bacteriófago?",
+      "options": [
+        "Uma bactéria patogênica",
+        "Um vírus que infecta bactérias",
+        "um tipo de cogumelo",
+        "uma estrutura bacteriana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Um bacteriófago (ou fago) é um vírus que infecta especificamente bactérias, utilizando-as como hospedeiras para sua replicação."
+    },
+    {
+      "question": "Qual é a importância médica da resistência aos antibióticos?",
+      "options": [
+        "Dificulta o tratamento de infecções",
+        "Melhora a eficácia dos antibióticos",
+        "Reduz efeitos colaterais",
+        "Acelera a cura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A resistência aos antibióticos é um grave problema de saúde pública que dificulta o tratamento de infecções e pode levar a falhas terapêuticas."
+    },
+    {
+      "question": "Qual é a microbiota normal?",
+      "options": [
+        "Microrganismos que normalmente habitam o corpo humano",
+        "Bactérias patogênicas",
+        "vírus infecciosos",
+        "Fungos patogênicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A microbiota normal são os microrganismos que normalmente habitam diferentes partes do corpo humano e contribuem para a manutenção da saúde."
+    },
+    {
+      "question": "Qual é a estrutura fundamental de uma partícula viral?",
+      "options": [
+        "Mitocôndrias e parede celular",
+        "Núcleo e casca de proteína",
+        "Membrana plasmática simples",
+        "Ribossomos e citoplasma"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Uma partícula viral, ou vírion, consiste essencialmente em um núcleo de ácido nucleico (DNA ou RNA) rodeado por uma camada protetora feita de proteínas, conhecida como capsídeo."
+    },
+    {
+      "question": "Que tipo de ácido nucléico é encontrado em um vírus?",
+      "options": [
+        "Somente DNA de fita dupla",
+        "Somente RNA de fita simples",
+        "DNA ou RNA, nunca ambos",
+        "Sempre tem DNA e RNA"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os vírus são únicos porque o seu centro (“núcleo”) é constituído por um único tipo de ácido nucleico: pode ser DNA (ácido desoxirribonucléico) ou RNA (ácido ribonucléico), mas nunca possuem os dois simultaneamente."
+    },
+    {
+      "question": "Como os vírus são considerados fora de um hospedeiro vivo?",
+      "options": [
+        "Organismos vivos dormentes",
+        "formas de vida autossustentáveis",
+        "Parasitas metabólicos ativos",
+        "Estruturas inertes ou sem vida"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Quando um vírus está fora da célula hospedeira, ele pode infectar, é metabolicamente inerte e é considerado uma estrutura não viva. Ele só se reproduz usando a maquinaria celular de outro organismo."
+    },
+    {
+      "question": "Qual é o nome genérico dos vermes parasitas?",
+      "options": [
+        "Artrópodes",
+        "Helmintos",
+        "Protozoários",
+        "Ciliados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vermes parasitas de importância médica e estudados em microbiologia são chamados coletivamente de helmintos. Estes são divididos principalmente em vermes achatados e redondos."
+    },
+    {
+      "question": "De que é composto o envelope viral, se presente?",
+      "options": [
+        "Uma camada de carboidratos",
+        "Uma camada lipídica adicional",
+        "Proteínas extras do capsídeo",
+        "peptidoglicano rígido"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alguns vírus possuem uma camada adicional, externa à capa protéica, conhecida como envelope. Este envelope é formado por uma membrana lipídica e normalmente é adquirido da membrana da célula hospedeira."
+    },
+    {
+      "question": "O que o crescimento de microrganismos requer?",
+      "options": [
+        "Elementos químicos e energia",
+        "Somente luz solar direta",
+        "Temperatura muito alta",
+        "Sistemas de transporte passivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para crescer e desempenhar outras funções essenciais à vida, os microrganismos necessitam tanto dos elementos químicos necessários para construir os seus componentes como da energia para impulsionar estas reações de síntese."
+    },
+    {
+      "question": "Como todos os organismos vivos obtêm energia?",
+      "options": [
+        "Através de reações de hidrólise",
+        "Somente pela fotossíntese",
+        "Através de reações de oxidação",
+        "Usando apenas calor ambiente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Todos os organismos, dos mais simples aos mais complexos, utilizam reações de oxidação para obter a energia necessária aos seus processos vitais e metabólicos."
+    },
+    {
+      "question": "Que estrutura celular falta aos vírus, o que os torna acelulares?",
+      "options": [
+        "A parede celular da quitina",
+        "A estrutura de uma célula viva",
+        "O flagelo para o movimento",
+        "Vacúolos de armazenamento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Os vírus são considerados acelulares porque carecem da estrutura celular básica que define os seres vivos (membrana, citoplasma, organelas, etc.). São estruturas muito mais simples."
+    },
+    {
+      "question": "Qual é o processo que decompõe os nutrientes no metabolismo?",
+      "options": [
+        "síntese de proteínas",
+        "Utilização de energia",
+        "A decomposição de substâncias nutricionais",
+        "transporte ativo na membrana"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para gerar os elementos constituintes da vida, os microrganismos primeiro decompõem as substâncias nutritivas, liberando energia e fragmentos moleculares que são então utilizados na síntese de novas substâncias."
+    },
+    {
+      "question": "Qual é um dos dois principais grupos de vermes helmintos?",
+      "options": [
+        "Protozoários e bolores",
+        "Achatado e redondo",
+        "Espiroquetas e cocos",
+        "Cianobactérias e fungos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Os helmintos são classificados principalmente em dois grupos morfológicos: vermes achatados (como cestóides e trematódeos) e vermes redondos (nematóides)."
+    },
+    {
+      "question": "Que tipo de bactéria realiza reações de oxidação com a luz?",
+      "options": [
+        "Bactérias Gram positivas",
+        "Bactérias nitrificantes",
+        "Bactérias ácido-resistentes",
+        "Cianobactérias fotossintéticas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "As cianobactérias são bactérias fotossintéticas que utilizam a energia luminosa para causar reações de oxidação, processo fundamental para a obtenção de energia nelas."
+    },
+    {
+      "question": "Qual é a principal forma pela qual um vírus é considerado vivo?",
+      "options": [
+        "Quando é cristalizado no ar",
+        "Quando se multiplica dentro das células",
+        "Quando tem sua cobertura proteica",
+        "Contendo apenas DNA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Os vírus só são considerados formas vivas ou ativas quando conseguem entrar na célula hospedeira e utilizar seu maquinário para se multiplicar, comportando-se como parasitas intracelulares obrigatórios."
+    },
+    {
+      "question": "O que todas as células vivas têm para suas funções?",
+      "options": [
+        "Apenas um envelope lipídico",
+        "Apenas ribossomos 80S",
+        "RNA e DNA ambos os tipos",
+        "Grandes estruturas de quitina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ao contrário dos vírus, todas as células vivas são unidades auto-suficientes que possuem necessariamente ambos os tipos de ácidos nucleicos, RNA e DNA, para realizar as suas funções genéticas e químicas."
+    },
+    {
+      "question": "O que os nutrientes são liberados durante a decomposição?",
+      "options": [
+        "Fragmentos e energia",
+        "Proteínas estruturais",
+        "enzimas inativadas",
+        "Água destilada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Quando as substâncias nutrientes são decompostas pelos microrganismos, estes libertam fragmentos de moléculas que são os blocos de construção e, principalmente, libertam a energia necessária para as reações de síntese (anabolismo)."
+    },
+    {
+      "question": "Qual é o objetivo médico da microbiologia?",
+      "options": [
+        "Estudo das estrelas",
+        "Produção de antibióticos",
+        "projeto de construção",
+        "Criação de combustível"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Um dos interesses da microbiologia é o desenvolvimento de métodos de combate às infecções, o que inclui a produção de substâncias como antibióticos e vacinas."
+    },
+    {
+      "question": "Cestódeos e trematódeos pertencem a qual grupo?",
+      "options": [
+        "parasitas multicelulares",
+        "lombrigas",
+        "Protozoários flagelados",
+        "bactérias pleomórficas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tanto os cestóides (vermes chatos) quanto os trematódeos são tipos de vermes parasitas multicelulares, especificamente subgrupos de helmintos achatados."
+    },
+    {
+      "question": "O que os microbiologistas precisam saber para compreender as funções?",
+      "options": [
+        "astronomia estelar",
+        "propriedades físicas",
+        "Os princípios da química",
+        "Dinâmica climática"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O conhecimento da química é essencial para compreender as funções dos microrganismos, como agem na natureza, como causam doenças e como interagem com o meio ambiente."
+    },
+    {
+      "question": "O que é usado a partir dos fragmentos moleculares resultantes?",
+      "options": [
+        "Para construir novas substâncias",
+        "Para gerar novos gases",
+        "Para resfriar o citoplasma",
+        "Para se livrar do DNA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Uma vez decompostos os nutrientes, os fragmentos das moléculas resultantes são utilizados juntamente com a energia liberada para construir ou sintetizar novas substâncias, que são os componentes constituintes do microrganismo."
+    },
+    {
+      "question": "O que os vírus devem fazer para se reproduzir?",
+      "options": [
+        "Realize a respiração celular",
+        "Use maquinaria celular hospedeira",
+        "Sintetize sua própria parede",
+        "Tenha um núcleo diferenciado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Os vírus são incapazes de se reproduzir; Eles devem infectar uma célula e usar seu maquinário (como ribossomos e enzimas) para replicar seu ácido nucleico e sintetizar suas proteínas, produzindo novos vírions."
+    },
+    {
+      "question": "Qual é o termo para lombrigas em microbiologia?",
+      "options": [
+        "cestóides",
+        "Trematódeos",
+        "Nematóides",
+        "Protozoários"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dentro da classificação dos helmintos, as lombrigas são chamadas de nematóides e constituem um grupo de parasitas multicelulares de grande importância no campo da medicina."
+    },
+    {
+      "question": "Qual partícula nuclear não tem carga elétrica?",
+      "options": [
+        "Próton",
+        "Elétron",
+        "Íon",
+        "Nêutron"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O nêutron é uma partícula subatômica encontrada no núcleo do átomo e que, por definição, possui carga elétrica neutra (zero)."
+    },
+    {
+      "question": "O que determina o número atômico de um átomo?",
+      "options": [
+        "Os elétrons",
+        "O peso atômico",
+        "Os isótopos",
+        "O número de prótons"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O número atômico é definido pelo número de prótons contidos no núcleo do átomo. Todos os átomos com o mesmo número de prótons pertencem ao mesmo elemento químico."
+    },
+    {
+      "question": "Qual é o número máximo de elétrons no segundo orbital?",
+      "options": [
+        "dois elétrons",
+        "dez elétrons",
+        "oito elétrons",
+        "dezoito elétrons"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Em um átomo, os orbitais estão dispostos em camadas. O primeiro orbital contém no máximo dois elétrons, enquanto o segundo e o terceiro orbitais podem conter até oito elétrons cada."
+    },
+    {
+      "question": "Que característica diferencia os isótopos de um elemento?",
+      "options": [
+        "A carga eletrônica",
+        "O número de prótons",
+        "O número de nêutrons",
+        "o número atômico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Isótopos são átomos do mesmo elemento que possuem o mesmo número de prótons, mas diferem no número de nêutrons, causando uma diferença em seu peso atômico."
+    },
+    {
+      "question": "Quando um átomo é considerado quimicamente inerte?",
+      "options": [
+        "Ter menos da metade",
+        "Quando está incompleto",
+        "Quando seu orbital externo estiver completo",
+        "Ao perder elétrons"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Um átomo é estável ou quimicamente inerte quando seu orbital de elétrons mais externo está completamente cheio, impedindo-o de reagir com outros átomos."
+    },
+    {
+      "question": "Como é formada uma ligação química iônica?",
+      "options": [
+        "Compartilhando um par de elétrons",
+        "Atração de cargas opostas de íons",
+        "Atração entre átomos de hidrogênio",
+        "União de átomos de carbono"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Uma ligação iônica é uma forte atração entre íons de carga oposta (cátions e ânions), que ocorre depois que um átomo cede elétrons e o outro os ganha."
+    },
+    {
+      "question": "Qual é o nome de um átomo que ganha elétrons?",
+      "options": [
+        "cátion",
+        "Nêutron",
+        "Próton",
+        "ânion"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Quando um átomo isolado ganha elétrons, ele adquire uma carga global negativa. Um átomo (ou grupo de átomos) com carga negativa é chamado de ânion."
+    },
+    {
+      "question": "O que acontece quando uma única ligação covalente se forma?",
+      "options": [
+        "Transferência de um elétron",
+        "Compartilhando um único par de elétrons",
+        "Atração de cargas opostas",
+        "Compartilhando três pares de elétrons"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Uma ligação covalente é formada por dois átomos compartilhando um ou mais pares de elétrons. Uma única ligação covalente envolve especificamente o compartilhamento de um único par de elétrons."
+    },
+    {
+      "question": "Quais elementos estão frequentemente envolvidos nas ligações de hidrogênio?",
+      "options": [
+        "Carbono e Enxofre",
+        "Cloro e Sódio",
+        "Cálcio e Potássio",
+        "Oxigênio e Nitrogênio"
+      ],
+      "correctAnswer": 4,
+      "explanation": "As ligações de hidrogênio são normalmente formadas quando um átomo de hidrogênio ligado covalentemente a um átomo de **oxigênio** ou **nitrogênio** é atraído por outro átomo de oxigênio ou nitrogênio."
+    },
+    {
+      "question": "Qual é a principal função das ligações de hidrogênio em moléculas complexas?",
+      "options": [
+        "Unir átomos para formar moléculas",
+        "Formar íons com carga oposta",
+        "Atuam como pontes intermoleculares",
+        "Transferir elétrons de valência"
+      ],
+      "correctAnswer": 3,
+      "explanation": "As ligações de hidrogênio não unem átomos para formar moléculas, mas servem como pontes entre diferentes moléculas (como a água) ou entre várias partes da mesma molécula (como nas proteínas e nos ácidos nucléicos)."
+    },
+    {
+      "question": "Como é definido um mol de uma substância?",
+      "options": [
+        "Seu peso atômico em gramas",
+        "Peso molecular em miligramas",
+        "O número total de prótons",
+        "Seu peso molecular expresso em gramas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O mol é uma unidade usada para relacionar o nível molecular com o nível laboratorial. Um mol de uma substância é o seu peso molecular expresso em gramas."
+    },
+    {
+      "question": "Que tipo de reação química absorve mais energia do que libera?",
+      "options": [
+        "Intercâmbio",
+        "Síntese",
+        "Decomposição",
+        "reação endergônica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Uma reação química que absorve mais energia do que libera é chamada de reação endergônica, onde 'endo' significa para dentro."
+    },
+    {
+      "question": "A que grupo de reações metabólicas pertence a síntese?",
+      "options": [
+        "Catabolismo",
+        "homeostase",
+        "Anabolismo",
+        "Decomposição"
+      ],
+      "correctAnswer": 3,
+      "explanation": "As reações de síntese, nas quais átomos ou moléculas são combinados para formar estruturas maiores, são chamadas coletivamente de anabolismo nos organismos vivos."
+    },
+    {
+      "question": "Qual é o papel principal das reações de decomposição?",
+      "options": [
+        "Forme novos links",
+        "Libera mais energia do que absorvida",
+        "Dividir moléculas grandes em pequenas",
+        "Armazenar energia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "As reações de decomposição quebram ligações e geralmente dividem moléculas grandes em moléculas, íons ou átomos menores. Estas também são chamadas de reações catabólicas."
+    },
+    {
+      "question": "Como é chamada uma molécula que tem uma distribuição desigual de cargas?",
+      "options": [
+        "Molécula apolar",
+        "molécula inerte",
+        "Molécula iônica",
+        "molécula polar"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Qualquer molécula com uma distribuição de carga tão desigual, como a molécula de água (que tem uma região de oxigênio ligeiramente negativa e uma região de hidrogênio ligeiramente positiva), é chamada de molécula polar."
+    },
+    {
+      "question": "Qual valor de pH indica que uma solução é ácida?",
+      "options": [
+        "exatamente sete",
+        "Maior que quatorze",
+        "menos de sete",
+        "Maior que sete"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na escala de pH, se o valor for inferior a 7, a solução é ácida, o que significa que a concentração de íons hidrogênio (extH^+) é alta."
+    },
+    {
+      "question": "Que elementos os compostos orgânicos devem sempre conter?",
+      "options": [
+        "Oxigênio e Nitrogênio",
+        "Sódio e Cloro",
+        "Carbono e Hidrogênio",
+        "Cálcio e Fósforo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os compostos orgânicos são um tipo de molécula que se mantém unida predominantemente por ligações covalentes e sempre contém átomos de carbono e hidrogênio."
+    },
+    {
+      "question": "Qual grupo funcional confere propriedades ácidas por ser fonte de íons hidrogênio?",
+      "options": [
+        "Hidroxila",
+        "Amino",
+        "Sulfidrila",
+        "Carboxila"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O grupo funcional carboxila (ext-COOH) é uma fonte de íons hidrogênio, portanto as moléculas que o contêm possuem propriedades ácidas."
+    },
+    {
+      "question": "Qual é a principal função estrutural dos lipídios na célula?",
+      "options": [
+        "Forme o núcleo",
+        "Armazenar informações genéticas",
+        "Formação de membranas plasmáticas",
+        "Fornece rigidez"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A principal função dos lipídios (como os fosfolipídios) é a formação de membranas plasmáticas que envolvem as células, regulando a passagem de nutrientes e resíduos."
+    },
+    {
+      "question": "Qual é o nome da ligação que une os aminoácidos nas proteínas?",
+      "options": [
+        "ligação covalente",
+        "ligação de hidrogênio",
+        "ligação iônica",
+        "ligação peptídica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "As ligações entre aminoácidos para formar peptídeos ou polipeptídeos (proteínas) são chamadas de ligações peptídicas. Sua formação libera uma molécula de água (síntese por desidratação)."
+    },
+    {
+      "question": "Qual par de bases NÃO forma ligações de hidrogênio no DNA?",
+      "options": [
+        "Adenina e timina",
+        "Guanina e citosina",
+        "Guanina e timina",
+        "Citosina e adenina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na dupla hélice do DNA, a adenina (purina) emparelha apenas com a timina (pirimidina) e a guanina (purina) emparelha apenas com a citosina (pirimidina). Portanto, Guanina e Timina não se ligam."
+    },
+    {
+      "question": "Qual base nitrogenada substitui a timina no RNA?",
+      "options": [
+        "Adenina",
+        "Guanina",
+        "Citosina",
+        "Uracila"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O ácido ribonucleico (RNA) se distingue do DNA, entre outras coisas, porque utiliza a base Uracila (U) em vez de Timina (T)."
+    },
+    {
+      "question": "Qual é a principal molécula transportadora de energia celular?",
+      "options": [
+        "Glicose",
+        "Trifosfato de adenosina",
+        "ácido desoxirribonucléico",
+        "Ribose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O trifosfato de adenosina (ATP) é a molécula essencial que armazena a energia liberada pelas reações químicas e a fornece nas reações que a requerem."
+    },
+    {
+      "question": "Qual é a menor unidade de um elemento químico?",
+      "options": [
+        "O átomo",
+        "A molécula",
+        "O próton",
+        "O nêutron"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O átomo é a unidade fundamental de um elemento químico que preserva suas propriedades e participa de reações químicas."
+    },
+    {
+      "question": "Por que a água é um excelente solvente nas células?",
+      "options": [
+        "Tem um grande peso",
+        "Seu pH é neutro",
+        "Forma ligações iônicas",
+        "É uma molécula polar"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A água é uma molécula polar (possui cargas parciais) que lhe permite envolver e dissolver eficazmente outras moléculas polares e iões, funcionando como um excelente solvente."
+    },
+    {
+      "question": "Qual valor de pH indica a acidez de uma solução?",
+      "options": [
+        "Menos de 7",
+        "Igual a 7",
+        "Maior que 7",
+        "Perto de 14"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A escala de pH mede a concentração de íons H+; um valor inferior a 7 indica que a solução é ácida, enquanto um valor superior a 7 indica alcalinidade."
+    },
+    {
+      "question": "Que elementos os compostos orgânicos sempre contêm?",
+      "options": [
+        "Oxigênio e nitrogênio",
+        "Enxofre e fosfato",
+        "sódio e potássio",
+        "Carbono e hidrogênio"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Por definição, um composto orgânico é aquele que sempre contém os elementos carbono e hidrogênio, muitas vezes ligados a outros, como oxigênio e nitrogênio."
+    },
+    {
+      "question": "Qual é o elemento constituinte das proteínas?",
+      "options": [
+        "Aminoácidos",
+        "Nucleotídeos",
+        "Glicerol",
+        "ácidos graxos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Os aminoácidos são pequenas moléculas que se unem por meio de ligações peptídicas para formar as grandes cadeias polipeptídicas que constituem as proteínas."
+    },
+    {
+      "question": "Como é formada uma ligação peptídica entre aminoácidos?",
+      "options": [
+        "Síntese de desidratação",
+        "Reação de hidrólise",
+        "Troca iônica",
+        "Oxidação"
+      ],
+      "correctAnswer": 1,
+      "explanation": "As ligações peptídicas são formadas pela união de aminoácidos por meio de um processo conhecido como síntese de desidratação (ou condensação), onde uma molécula de água é removida."
+    },
+    {
+      "question": "O que caracteriza a insolubilidade lipídica?",
+      "options": [
+        "Seja solúvel em água",
+        "tem açúcares",
+        "Compor DNA",
+        "Sua insolubilidade em água"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os lipídios (gorduras, fosfolipídios, esteróides) são um grupo diversificado de compostos orgânicos cuja principal característica comum é serem hidrofóbicos, ou seja, insolúveis em água."
+    },
+    {
+      "question": "Qual é o açúcar que compõe os nucleotídeos do DNA?",
+      "options": [
+        "Ribose",
+        "Frutose",
+        "Desoxirribose",
+        "Glicose"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O DNA (ácido desoxirribonucléico) recebe o nome do açúcar de cinco carbonos que faz parte de cada um de seus nucleotídeos, a desoxirribose."
+    },
+    {
+      "question": "De que é feita a espinha dorsal da dupla hélice do DNA?",
+      "options": [
+        "bases nitrogenadas",
+        "açúcar e fosfato",
+        "Aminoácidos",
+        "Apenas desoxirribose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A estrutura da dupla hélice do DNA assemelha-se a uma escada torcida onde a “espinha dorsal” (ou corrimão) é formada pela combinação alternada de grupos açúcar (desoxirribose) e fosfato."
+    },
+    {
+      "question": "Que tipo de ligação mantém as duas fitas de DNA unidas?",
+      "options": [
+        "ligação de hidrogênio",
+        "ligação iônica",
+        "ligação covalente",
+        "ligação peptídica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "As duas cadeias de nucleotídeos que formam o DNA são mantidas juntas por ligações de hidrogênio ou pontes que são estabelecidas entre as bases nitrogenadas complementares (AT e GC)."
+    },
+    {
+      "question": "O que é um lipídio saturado em termos de ligações?",
+      "options": [
+        "Possui três ácidos",
+        "Possui ligações duplas",
+        "É insolúvel",
+        "Sem ligações duplas CC"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Um lipídio saturado é caracterizado por possuir ácidos graxos sem ligações duplas entre os átomos de carbono, o que os torna mais compactos e possuem maior ponto de fusão."
+    },
+    {
+      "question": "O que são isômeros em bioquímica?",
+      "options": [
+        "Fórmula química diferente",
+        "Minha fórmula, outra estrutura",
+        "grandes polímeros",
+        "Monômeros"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Isômeros são moléculas que compartilham exatamente a mesma fórmula química (o mesmo número e tipo de átomos), mas possuem estrutura e propriedades físicas ou químicas diferentes."
+    },
+    {
+      "question": "Qual é a estrutura mais comum das moléculas de RNA?",
+      "options": [
+        "cadeia única",
+        "Hélice dupla",
+        "Quatro hélices",
+        "estrutura quaternária"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O RNA (ácido ribonucleico) geralmente ocorre como uma fita simples (fita simples), ao contrário do DNA que possui uma fita dupla."
+    },
+    {
+      "question": "Que reação separa grandes moléculas orgânicas usando água?",
+      "options": [
+        "Síntese",
+        "Desidratação",
+        "Hidrólise",
+        "Condensação"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A hidrólise é uma reação de decomposição que envolve a dissociação de moléculas de água para separar os monômeros de um polímero ou macromolécula."
+    },
+    {
+      "question": "Em que o ATP é convertido quando libera energia útil para a célula?",
+      "options": [
+        "No ADN",
+        "em glicose",
+        "Em AMP",
+        "Na ADP"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O ATP (trifosfato de adenosina) libera uma grande quantidade de energia utilizável quando o terceiro grupo fosfato é hidrolisado, tornando-se ADP (difosfato de adenosina) e fosfato inorgânico."
+    },
+    {
+      "question": "De quais três componentes principais é feito um nucleotídeo?",
+      "options": [
+        "Glicose, água, base",
+        "ribose, fosfato, proteína",
+        "Pentose, fosfato, base",
+        "Açúcar, lipídios, sal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Um nucleotídeo, a unidade repetitiva de ácidos nucléicos (DNA e RNA), é composto de três partes: um açúcar de cinco carbonos (pentose), um grupo fosfato e uma base contendo nitrogênio."
+    },
+    {
+      "question": "Como é chamada a capacidade de combinação de um átomo?",
+      "options": [
+        "Valência",
+        "Isotopia",
+        "Peso atômico",
+        "Número atômico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Valência é a capacidade de combinação de um átomo, ou seja, o número de ligações químicas que ele pode formar com outros átomos para completar seus orbitais eletrônicos mais distantes do núcleo."
+    },
+    {
+      "question": "Que tipo de microscópio permite observar as estruturas internas de uma seção delgada?",
+      "options": [
+        "Óptica de campo brilhante",
+        "Digitalização Eletrônica (MEB)",
+        "Transmissão Eletrônica (MET)",
+        "Contraste de Fase Óptico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O Microscópio Eletrônico de Transmissão (TEM) utiliza um feixe de elétrons que passa pela amostra, permitindo a visualização dos detalhes internos das seções ultrafinas."
+    },
+    {
+      "question": "Que tipo de imagem é obtida com o microscópio eletrônico de varredura?",
+      "options": [
+        "Núcleos planares bidimensionais",
+        "Ácidos nucleicos estruturais",
+        "Contraste de luz refletida",
+        "Superfície celular tridimensional"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O Microscópio Eletrônico de Varredura (MEV) funciona escaneando a superfície com elétrons primários, resultando em uma imagem com aparência tridimensional de estruturas externas."
+    },
+    {
+      "question": "Qual é o componente fundamental da parede celular bacteriana?",
+      "options": [
+        "ácido teicóico",
+        "membrana plasmática",
+        "Lipopolissacarídeo (LPS)",
+        "Peptidoglicano"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O peptidoglicano, também conhecido como mureína, é um polímero exclusivo das bactérias que forma uma rede rígida e protetora ao redor da célula."
+    },
+    {
+      "question": "Qual monossacarídeo é conhecido pelo nome latino *murus* (parede)?",
+      "options": [
+        "Ácido N-acetilmurâmico (NAM)",
+        "Glicose",
+        "N-acetilglucosamina (NAG)",
+        "Frutose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O ácido N-acetilmurâmico (NAM) é um derivado da glicose e um componente essencial do peptidoglicano, daí o seu nome relacionado à parede celular."
+    },
+    {
+      "question": "Qual desses monossacarídeos forma o dissacarídeo do peptidoglicano?",
+      "options": [
+        "N-acetilglucosamina (NAG)",
+        "ácido hialurônico",
+        "ácido siálico",
+        "N-acetilgalactosamina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O dissacarídeo peptidoglicano repetitivo é formado pela união alternada de N-acetilglucosamina (NAG) e ácido N-acetilmurâmico (NAM)."
+    },
+    {
+      "question": "O que une as fileiras vizinhas do esqueleto de carboidratos?",
+      "options": [
+        "ligações de hidrogênio",
+        "Polipeptídeos",
+        "lipídios complexos",
+        "Ligações iônicas fortes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As fileiras de carboidratos (fração glucana) são ligadas entre si por cadeias polipeptídicas (fração peptídica), formando uma malha."
+    },
+    {
+      "question": "Qual arranjo de aminoácidos é específico do peptidoglicano?",
+      "options": [
+        "Somente formato L",
+        "Padrão alternado de formas D e L",
+        "Apenas formato D",
+        "Formato de anel cíclico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As cadeias laterais tetrapeptídicas do peptidoglicano são únicas porque contêm um padrão alternado de aminoácidos nas formas D e L, algo raro em outras proteínas."
+    },
+    {
+      "question": "A qual monossacarídeo estão ligadas as cadeias laterais tetrapeptídicas?",
+      "options": [
+        "N-acetilglucosamina (NAG)",
+        "ácido teicóico",
+        "Glicose",
+        "Ácido N-acetilmurâmico (NAM)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "As cadeias laterais tetrapeptídicas, compostas por quatro aminoácidos, estão ligadas ao ácido N-acetilmurâmico (NAM) na estrutura do peptidoglicano."
+    },
+    {
+      "question": "Que forma de aminoácidos é encontrada na maioria das outras proteínas?",
+      "options": [
+        "Formulário D",
+        "Forma S",
+        "Formulário R",
+        "Formal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Ao contrário do peptidoglicano, quase todos os aminoácidos que constituem as proteínas em todos os outros organismos correspondem à forma canhota (L)."
+    },
+    {
+      "question": "Qual é a principal função do peptidoglicano na célula?",
+      "options": [
+        "Transporte de nutrientes",
+        "Proteção contra lise osmótica",
+        "síntese de proteínas",
+        "Armazenamento de energia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A rigidez do peptidoglicano atua como uma parede forte que resiste à alta pressão interna da célula, evitando seu rompimento (lise)."
+    },
+    {
+      "question": "Aproximadamente quantos açúcares constituem uma série de glicanos?",
+      "options": [
+        "De 1 a 5 açúcares",
+        "De 10 a 65 açúcares",
+        "De 100 a 200 açúcares",
+        "Mais de 500 açúcares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As cadeias de N-acetilglucosamina e ácido N-acetilmurâmico que formam a “espinha dorsal” dos carboidratos variam em comprimento de 10 a 65 açúcares."
+    },
+    {
+      "question": "O que diferencia o MET de outros microscópios em seu funcionamento?",
+      "options": [
+        "Use luz polarizada",
+        "Use lentes eletromagnéticas",
+        "Mostra apenas a superfície",
+        "Requer muita preparação"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Os microscópios eletrônicos (TEM e SEM) usam lentes eletromagnéticas para focar e amplificar o feixe de elétrons, e não lentes de vidro como as ópticas."
+    },
+    {
+      "question": "Que termo descreve bactérias com formato esférico?",
+      "options": [
+        "Espíritos",
+        "Bacilos",
+        "Vibrios",
+        "Cocos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os cocos são bactérias que possuem morfologia esférica, enquanto os bacilos são alongados e os espirilos têm formato de espiral."
+    },
+    {
+      "question": "Qual estrutura é exclusiva da parede celular Gram-positiva?",
+      "options": [
+        "espaço periplasmático",
+        "Lipídio A",
+        "ácidos teicóicos",
+        "membrana externa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os ácidos teicóicos estão incorporados na parede do peptidoglicano das bactérias Gram-positivas e não são encontrados nas bactérias Gram-negativas."
+    },
+    {
+      "question": "Qual é a coloração diferencial mais utilizada em microbiologia?",
+      "options": [
+        "Coloração de esporos",
+        "Coloração simples",
+        "Coloração negativa",
+        "Coloração de Gram"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A coloração de Gram é essencial para a identificação, classificando as bactérias como Gram-positivas (roxo) ou Gram-negativas (vermelho) com base na sua parede."
+    },
+    {
+      "question": "Que apêndice algumas bactérias usam para motilidade ativa?",
+      "options": [
+        "Pili",
+        "Fímbrias",
+        "Flagelos",
+        "Glicocálice"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Flagelos são estruturas filamentosas que giram como hélices, permitindo que a célula bacteriana se mova através do meio aquoso."
+    },
+    {
+      "question": "Qual camada tem alto teor de lipopolissacarídeo (LPS)?",
+      "options": [
+        "membrana interna",
+        "membrana externa",
+        "parede de celulose",
+        "Cápsula polissacarídica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A membrana externa, uma bicamada lipídica encontrada em bactérias Gram-negativas, contém lipopolissacarídeo (LPS) em sua camada externa."
+    },
+    {
+      "question": "O que define a capacidade de um microscópio distinguir dois pontos?",
+      "options": [
+        "Aumentar",
+        "Brilho",
+        "Resolução",
+        "distância de trabalho"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Resolução (ou poder de resolução) é a capacidade de um sistema óptico exibir claramente dois pontos muito próximos como entidades separadas e distintas."
+    },
+    {
+      "question": "Qual é a principal função dos ribossomos celulares?",
+      "options": [
+        "Degradar toxinas",
+        "Armazene água",
+        "Produzir energia ATP",
+        "Sintetizar proteínas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os ribossomos são as máquinas moleculares que catalisam a síntese de proteínas a partir das informações contidas no RNA mensageiro (mRNA)."
+    },
+    {
+      "question": "Que estrutura envolve e protege toda a célula bacteriana?",
+      "options": [
+        "Cápsula",
+        "Peptidoglicano",
+        "Citoplasma",
+        "membrana nuclear"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O peptidoglicano forma uma rede resistente e é o principal responsável por envolver, moldar e proteger a célula bacteriana contra danos ambientais e físicos."
+    },
+    {
+      "question": "O que enfraquece a penicilina na parede celular bacteriana?",
+      "options": [
+        "Replicação de DNA",
+        "Síntese lipídica",
+        "Ligação de peptidoglicano",
+        "O transporte de cátions"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A penicilina interfere na reação final de transpeptidação que une os filamentos de peptidoglicano por meio de pontes peptídicas, enfraquecendo e causando lise da parede celular."
+    },
+    {
+      "question": "Que camada de peptidoglicano as bactérias Gram-positivas possuem?",
+      "options": [
+        "uma camada fina",
+        "Uma estrutura espessa",
+        "Uma membrana dupla",
+        "Apenas uma monocamada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As bactérias Gram-positivas possuem uma parede celular composta por várias camadas de peptidoglicano que formam uma estrutura consideravelmente espessa e rígida."
+    },
+    {
+      "question": "O que constitui principalmente os ácidos teicóicos?",
+      "options": [
+        "Glicose e proteína",
+        "Álcool e fosfato",
+        "Ácidos graxos e esteróis",
+        "Nucleotídeos e açúcares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Os ácidos teicóicos, característicos das paredes Gram-positivas, são compostos principalmente por um álcool (como glicerol ou ribitol) e fosfato."
+    },
+    {
+      "question": "Que tipo de ácido teicóico se liga à membrana?",
+      "options": [
+        "ácido micólico",
+        "ácido lipoteicóico",
+        "Ácido peptídico",
+        "ácido mural"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O ácido lipoteicóico é uma das classes de ácidos teicóicos; Isto cobre a camada de peptidoglicano e está ligado à membrana plasmática."
+    },
+    {
+      "question": "Qual é a função da carga negativa dos teicoicos?",
+      "options": [
+        "Gerar movimento flagelar",
+        "Regular o movimento de cátions",
+        "Aumente a fotossíntese",
+        "Favorecer a fissão binária"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A carga negativa gerada pelos grupos fosfato dos ácidos teicóicos permite-lhes ligar-se aos cátions (íons positivos) e regular seu movimento para dentro e para fora da célula."
+    },
+    {
+      "question": "Qual organela degrada o peróxido de hidrogênio (H_2O_2)?",
+      "options": [
+        "O ribossomo",
+        "O peroxissomo",
+        "O lisossoma",
+        "As mitocôndrias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Os peroxissomos contêm enzimas como a catalase, responsável pela decomposição do peróxido de hidrogênio (H_2O_2), protegendo assim o resto da célula."
+    },
+    {
+      "question": "Onde está localizado o centrossomo na célula?",
+      "options": [
+        "Perto da membrana",
+        "Perto do núcleo",
+        "no retículo endoplasmático",
+        "Dentro das mitocôndrias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O centrossoma, que inclui o material pericentriolar e os centríolos, está localizado no citosol em uma posição próxima ao núcleo da célula."
+    },
+    {
+      "question": "Qual é a zona pericentriolar do centrossoma?",
+      "options": [
+        "Uma vesícula de digestão",
+        "Uma rede de fibras proteicas",
+        "uma fita de DNA",
+        "Uma camada de glicolipídios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O material pericentriolar é uma região do citosol composta por uma densa rede de pequenas fibras proteicas que atua como centro organizador do fuso mitótico."
+    },
+    {
+      "question": "Qual é a estrutura celular do arranjo 9+0?",
+      "options": [
+        "Os cílios",
+        "Os microfilamentos",
+        "Os centríolos",
+        "ribossomos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cada centríolo é composto por nove conjuntos de três microtúbulos (trigêmeos) dispostos em um padrão semicircular, sem microtúbulos centrais, conhecido como arranjo 9 + 0."
+    },
+    {
+      "question": "Qual é a característica da parede Gram-negativa?",
+      "options": [
+        "Ácidos teicóicos abundantes",
+        "Camada fina de peptidoglicano",
+        "Ausência de lipídios",
+        "Parede muito grossa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ao contrário das bactérias Gram-positivas, a parede celular das bactérias Gram-negativas é caracterizada por conter apenas uma fina camada de peptidoglicano."
+    },
+    {
+      "question": "Qual é a função do material pericentriolar?",
+      "options": [
+        "Criação de ATP",
+        "Organize o fuso mitótico",
+        "Armazenar cálcio",
+        "Sintetizar hormônios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A zona pericentriolar do centrossoma é o centro organizador do fuso mitótico, estrutura crucial para a correta separação dos cromossomos durante a divisão celular."
+    },
+    {
+      "question": "Como os dois centríolos estão orientados um em relação ao outro?",
+      "options": [
+        "Paralelos entre si",
+        "ao longo do núcleo",
+        "formando um círculo",
+        "em ângulos retos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O eixo longitudinal de um dos centríolos forma um ângulo de 90 graus (ângulo reto) com o eixo longitudinal do outro, dentro do centrossoma."
+    },
+    {
+      "question": "O que acontece na lise de células bacterianas?",
+      "options": [
+        "A respiração para",
+        "Seu DNA é replicado",
+        "Fusão de organelas",
+        "ruptura da membrana"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A lise celular é um processo de destruição que ocorre secundário à ruptura da membrana plasmática e à consequente perda de citoplasma."
+    },
+    {
+      "question": "Qual é o componente mais rígido da parede?",
+      "options": [
+        "Peptidoglicano",
+        "membrana plasmática",
+        "ácidos lipoteicóicos",
+        "Cápsula polissacarídica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Peptidoglicano (ou mureína) é a estrutura que confere rigidez e forma à parede celular, sendo mais espessa e rígida nas bactérias Gram-positivas."
+    },
+    {
+      "question": "O que o ácido teicóico impede o desenvolvimento celular?",
+      "options": [
+        "A entrada da água",
+        "A quebra do muro",
+        "Produção de enzimas",
+        "Síntese de DNA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Os ácidos teicóicos também contribuem para o desenvolvimento celular, ajudando a prevenir a ruptura da parede celular em bactérias Gram-positivas."
+    },
+    {
+      "question": "Qual organela protege contra efeitos tóxicos?",
+      "options": [
+        "Ribossomos",
+        "Essencial",
+        "retículo endoplasmático",
+        "Peroxissomos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Como a geração e a degradação do peróxido de hidrogênio (H_2O_2) ocorrem internamente, os peroxissomos protegem outras partes da célula contra seus efeitos tóxicos."
+    },
+    {
+      "question": "O que acontece nas células que não se dividem?",
+      "options": [
+        "Formação de microtúbulos",
+        "lise celular",
+        "Degradação de ATP",
+        "Ativação do ribossomo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nas células que não se dividem, a zona pericentriolar permanece essencial para a formação de microtúbulos, que são vitais para a estrutura e transporte celular."
+    },
+    {
+      "question": "O que indica o '0' no arranjo 9+0?",
+      "options": [
+        "Nove conjuntos",
+        "Ausência de microtúbulos",
+        "Nove trigêmeos",
+        "um microtúbulo central"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O arranjo 9 + 0 dos centríolos refere-se aos nove conjuntos de microtúbulos periféricos e à ausência ('0') de microtúbulos na porção central."
+    },
+    {
+      "question": "Qual é o precursor que é decomposto em peroxissomos?",
+      "options": [
+        "Glicogênio",
+        "Peróxido de hidrogênio",
+        "Dióxido de carbono",
+        "Água destilada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A catalase presente nos peroxissomos é a enzima que decompõe o peróxido de hidrogênio (H_2O_2), um subproduto potencialmente prejudicial do metabolismo celular."
+    },
+    {
+      "question": "Que tipo de célula possui uma fina camada de peptidoglicano?",
+      "options": [
+        "célula eucariótica",
+        "Bactérias Gram-negativas",
+        "célula animal",
+        "Bactérias Gram-positivas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A parede celular das bactérias Gram-negativas distingue-se por conter apenas uma fina camada de peptidoglicano e uma membrana externa adicional."
+    },
+    {
+      "question": "Qual é a teoria que explica a evolução das células procarióticas para eucariontes?",
+      "options": [
+        "Teoria da Panspermia",
+        "Teoria da Quimiossíntese",
+        "Teoria do Fixismo",
+        "Teoria Endossimbiótica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A teoria endossimbiótica, proposta por Lynn Margulis, sugere que as células eucarióticas surgiram quando uma célula bacteriana maior englobava as menores, estabelecendo uma relação simbiótica interna."
+    },
+    {
+      "question": "Qual estrutura celular contém os pigmentos captadores de luz na fotossíntese?",
+      "options": [
+        "ribossomos",
+        "O núcleo da célula",
+        "Os cloroplastos",
+        "Os vacúolos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os cloroplastos são as organelas especializadas onde ocorre a fotossíntese nas células vegetais e nas algas, e os pigmentos estão localizados especificamente nos tilacóides."
+    },
+    {
+      "question": "Como é chamada a coexistência de um organismo dentro de outro?",
+      "options": [
+        "Parasitismo",
+        "Comensalismo",
+        "Mutualismo",
+        "Endossimbiose"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Endossimbiose é um tipo de relação simbiótica em que um organismo reside permanentemente nas células ou tecidos de outro organismo."
+    },
+    {
+      "question": "Qual é a principal diferença entre células eucarióticas e procarióticas?",
+      "options": [
+        "A presença de DNA",
+        "Seu tamanho de célula",
+        "A presença de uma parede",
+        "As organelas especializadas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A principal distinção é que as células eucarióticas possuem organelas membranosas altamente especializadas, como o núcleo e as mitocôndrias, ausentes nos procariontes."
+    },
+    {
+      "question": "Qual via metabólica é usada por algumas bactérias gram-negativas?",
+      "options": [
+        "O Ciclo de Krebs",
+        "Glicólise",
+        "Entner-Doudoroff",
+        "Beta-oxidação"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A via Entner-Doudoroff é característica de certas bactérias gram-negativas, como as dos gêneros Pseudomonas e Agrobacterium, para o metabolismo da glicose."
+    },
+    {
+      "question": "Que coenzima reduzida é produzida a partir de NADP^+ na via das pentoses fosfato?",
+      "options": [
+        "NADH",
+        "FADH_2",
+        "NADPH",
+        "GTP"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A via das pentoses fosfato é crucial para a produção de NADPH, uma coenzima reduzida essencial para reações biossintéticas, como a síntese de ácidos nucléicos e aminoácidos."
+    },
+    {
+      "question": "Quantas moléculas de ATP de ganho líquido a via da pentose fosfato produz?",
+      "options": [
+        "Zero (0)",
+        "Um (1)",
+        "Dois (2)",
+        "Dez (10)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A via das pentoses fosfato tem um ganho líquido de energia muito baixo, produzindo apenas uma molécula de ATP para cada molécula de glicose oxidada."
+    },
+    {
+      "question": "Quais estruturas dentro dos cloroplastos abrigam pigmentos leves?",
+      "options": [
+        "O estroma",
+        "Os grãos",
+        "Os tilacóides",
+        "As membranas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os pigmentos que capturam a luz para iniciar o processo fotossintético estão localizados nas membranas internas empilhadas chamadas tilacóides, que por sua vez formam os grãos."
+    },
+    {
+      "question": "Quais organismos podem usar a via Entner-Doudoroff em vez da glicólise?",
+      "options": [
+        "Apenas eucariotos",
+        "algumas bactérias",
+        "fungos filamentosos",
+        "todas as algas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Certas bactérias, especialmente bactérias gram-negativas, como Pseudomonas, possuem as enzimas necessárias para metabolizar a glicose apenas por essa via."
+    },
+    {
+      "question": "Qual ganho líquido de ATP a via Entner-Doudoroff gera para a glicose?",
+      "options": [
+        "uma molécula",
+        "duas moléculas",
+        "seis moléculas",
+        "Zero moléculas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para cada molécula de glicose metabolizada, a via Entner-Doudoroff produz um ganho líquido de uma molécula de ATP para reações celulares."
+    },
+    {
+      "question": "Além da rota Entner-Doudoroff, que outra rota alternativa é mencionada?",
+      "options": [
+        "Ciclo de Calvin",
+        "Ciclo Glioxilato",
+        "Glicólise",
+        "Pentose fosfato"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O texto compara a via Entner-Doudoroff e a glicólise com a via das pentoses fosfato, que é uma via metabólica alternativa para a oxidação da glicose."
+    },
+    {
+      "question": "Quais bactérias são identificadas pelos testes de oxidação da glicose Entner-Doudoroff?",
+      "options": [
+        "Estafilococos",
+        "Pseudomonas",
+        "Bacilo",
+        "Enterococos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Testes laboratoriais que determinam a capacidade de oxidar a glicose por essa via são comumente usados ​​para identificar bactérias do gênero Pseudomonas."
+    },
+    {
+      "question": "Como os cloroplastos são semelhantes às células procarióticas?",
+      "options": [
+        "Tamanho e forma",
+        "Presença na parede",
+        "Seu material genético",
+        "Eles são fotossintéticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Os cloroplastos e as células procarióticas apresentam semelhanças em sua estrutura, principalmente no tamanho e no modo de reprodução, ponto-chave da teoria endossimbiótica."
+    },
+    {
+      "question": "Quais produtos biossintéticos os ácidos nucléicos gerados pela via das pentoses requerem?",
+      "options": [
+        "certos aminoácidos",
+        "Moléculas lipídicas",
+        "proteínas de membrana",
+        "Glicogênio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Produtos da via das pentoses fosfato, como o NADPH, são utilizados na síntese de ácidos nucléicos e de certos aminoácidos."
+    },
+    {
+      "question": "O que a via Entner-Doudoroff gera para reações biossintéticas celulares?",
+      "options": [
+        "Somente ATP",
+        "Somente NADH",
+        "ATP e NADPH",
+        "Piruvato"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Esta via é essencial porque produz duas moléculas de NADPH e uma molécula de ATP, ambas cruciais para as reações de construção celular (biossíntese)."
+    },
+    {
+      "question": "Quais bactérias gram-positivas usam a via das pentoses fosfato?",
+      "options": [
+        "E.coli",
+        "Pseudomonas",
+        "Bacillus subtilis",
+        "Agrobactéria"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bacillus subtilis é uma das bactérias gram-positivas mencionadas que tem a capacidade de oxidar a glicose usando a via das pentoses fosfato."
+    },
+    {
+      "question": "Qual se desenvolveu primeiro, as células eucarióticas ou procarióticas?",
+      "options": [
+        "Ambos ao mesmo tempo",
+        "Células eucarióticas",
+        "células procarióticas",
+        "organismos multicelulares"
+      ],
+      "correctAnswer": 3,
+      "explanation": "As primeiras formas de vida foram organismos procarióticos, e as primeiras células eucarióticas desenvolveram-se a partir deles há cerca de 2,5 mil milhões de anos."
+    },
+    {
+      "question": "Que tipo de glicose é metabolizada pelas bactérias sem glicólise?",
+      "options": [
+        "Glicose-6-fosfato",
+        "Glicose-1-fosfato",
+        "glicose livre",
+        "Glicose ligada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "As bactérias que utilizam a via Entner-Doudoroff podem metabolizar diretamente a glicose sem ter que recorrer à via glicolítica."
+    },
+    {
+      "question": "Por que as células bacterianas maiores perderam sua parede na endossimbiose?",
+      "options": [
+        "Para abranger outros",
+        "Devido a mutações",
+        "Por evolução",
+        "devido à fome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "De acordo com a teoria endossimbiótica, a perda da parede celular foi uma etapa necessária para que células bacterianas maiores pudessem engolir (ou fagocitar) células menores."
+    },
+    {
+      "question": "Qual via metabólica é a mais comum para produzir ATP a partir da glicose?",
+      "options": [
+        "Glicólise",
+        "Via Pentosas",
+        "Entner-Doudoroff",
+        "Ciclo de Calvin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Embora o texto se concentre em vias alternativas, a glicólise é a via primária e mais universalmente conhecida para o início da oxidação da glicose e da produção inicial de ATP."
+    },
+    {
+      "question": "Qual é o composto orgânico final da glicólise?",
+      "options": [
+        "Ácido cítrico",
+        "Glicose 6-fosfato",
+        "Acetil coenzima A",
+        "ácido pirúvico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A glicólise é um processo de oxidação da glicose que produz duas moléculas líquidas de ATP e converte a molécula inicial de seis carbonos em duas moléculas de três carbonos chamadas ácido pirúvico."
+    },
+    {
+      "question": "Qual é o aceptor final de elétrons na respiração aeróbica?",
+      "options": [
+        "Íon nitrato",
+        "Dióxido de carbono",
+        "molécula orgânica",
+        "Oxigênio molecular"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O aceptor final de elétrons na respiração aeróbica é o oxigênio molecular (O_2), que ao receber elétrons e prótons forma água (H_2O) no final da cadeia de transporte."
+    },
+    {
+      "question": "Quantas moléculas líquidas de ATP são geradas pela glicólise?",
+      "options": [
+        "duas moléculas",
+        "Zero moléculas",
+        "Quatro moléculas",
+        "Trinta e oito moléculas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Embora a glicólise gere 4 moléculas de ATP por fosforilação ao nível do substrato, ela consome 2 moléculas na sua fase preparatória, resultando num ganho líquido de 2 ATP."
+    },
+    {
+      "question": "Com qual molécula o acetil CoA se combina para iniciar o ciclo de Krebs?",
+      "options": [
+        "ácido oxaloacético",
+        "Ácido cítrico",
+        "ácido succínico",
+        "Glicose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O grupo acetil (dois carbonos) da acetil CoA combina-se com o ácido oxaloacético (quatro carbonos) para formar ácido cítrico (seis carbonos), iniciando o ciclo de Krebs."
+    },
+    {
+      "question": "Quais coenzimas reduzidas são produzidas durante o ciclo de Krebs?",
+      "options": [
+        "NADH e FADH2",
+        "NAD e ATP",
+        "ADP e NAD+",
+        "Coenzima A e CO_2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O ciclo de Krebs é uma série de oxidações que transferem energia potencial na forma de elétrons para as coenzimas NAD+ e FAD, reduzindo-as a NADH e FADH_2, que são então utilizadas na cadeia de transporte de elétrons."
+    },
+    {
+      "question": "Qual processo converte o ácido pirúvico em acetil CoA?",
+      "options": [
+        "Fosforilação",
+        "Hidrólise",
+        "Descarboxilação oxidativa",
+        "Reacomodação"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O ácido pirúvico é convertido em acetil CoA através de um processo de descarboxilação (perde CO_2) e oxidação (reduz NAD+ a NADH), conhecido como estágio preparatório."
+    },
+    {
+      "question": "Onde está localizada a cadeia de transporte de elétrons nas células procarióticas?",
+      "options": [
+        "membrana plasmática",
+        "membrana nuclear",
+        "Matriz mitocondrial",
+        "membrana tilacóide"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nas células procarióticas (bactérias), a cadeia de transporte de elétrons e a ATP sintase estão localizadas na membrana plasmática."
+    },
+    {
+      "question": "Qual é o nome da energia potencial do gradiente de prótons?",
+      "options": [
+        "Energia de ativação",
+        "Força motriz do elétron",
+        "força motriz de prótons",
+        "Gradiente elétrico líquido"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O gradiente eletroquímico resultante do acúmulo de prótons (H+) em um lado da membrana gera uma energia potencial chamada força motriz do próton."
+    },
+    {
+      "question": "Qual enzima usa o fluxo de prótons para sintetizar ATP?",
+      "options": [
+        "Citocromo c",
+        "Coenzima Q",
+        "NADH desidrogenase",
+        "ATP sintase"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os prótons se difundem através de canais proteicos especiais contendo a enzima ATP sintase, que utiliza a energia liberada por esse fluxo para sintetizar ATP a partir de ADP e fosfato."
+    },
+    {
+      "question": "Qual é a principal função da fermentação?",
+      "options": [
+        "Gerar alta energia",
+        "Produzir acetil CoA",
+        "Gerar ATP extra",
+        "Regenerar NAD+"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Uma função essencial da fermentação é garantir um fornecimento constante de NAD+ através da transferência de elétrons para o ácido pirúvico, permitindo assim que a glicólise continue."
+    },
+    {
+      "question": "Qual é o ganho total de ATP na respiração aeróbica dos procariontes?",
+      "options": [
+        "38 moléculas",
+        "36 moléculas",
+        "2 moléculas",
+        "34 moléculas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A respiração aeróbica em células procarióticas produz um total de 38 moléculas de ATP para cada molécula de glicose oxidada, 4 por fosforilação no nível do substrato e 34 por quimiosmose."
+    },
+    {
+      "question": "Qual destes pode ser um aceptor final de elétrons na respiração anaeróbica?",
+      "options": [
+        "Oxigênio molecular",
+        "íon sulfato",
+        "Água",
+        "ácido pirúvico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Na respiração anaeróbica, o aceptor final de elétrons é uma substância inorgânica diferente do oxigênio, como o íon nitrato (NO_3^-) ou o íon sulfato (SO_4^2-)."
+    },
+    {
+      "question": "Em que estágio da fermentação o ATP é produzido?",
+      "options": [
+        "cadeia de elétrons",
+        "Ciclo de Krebs",
+        "Glicólise",
+        "Etapa preparatória"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na fermentação, o ATP é produzido exclusivamente durante a glicólise pelo mecanismo de fosforilação em nível de substrato, e a cadeia de transporte de elétrons não é utilizada."
+    },
+    {
+      "question": "Que tipo de transportadores de elétrons contêm flavina?",
+      "options": [
+        "Citocromos",
+        "Ubiquinona",
+        "Flavoproteínas",
+        "Complexo oxidase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "As flavoproteínas são a primeira classe de moléculas transportadoras na CTE que contêm flavina, uma coenzima derivada da riboflavina (vitamina B2)."
+    },
+    {
+      "question": "A que se reduz o NAD+ quando recebe elétrons e um próton?",
+      "options": [
+        "FADH2",
+        "FMN",
+        "NADH",
+        "ATP"
+      ],
+      "correctAnswer": 3,
+      "explanation": "NAD+ aceita dois elétrons, mas apenas um próton adicional, então sua forma reduzida é representada como NADH, uma coenzima transportadora de alta energia."
+    },
+    {
+      "question": "Qual das alternativas a seguir é um produto final da fermentação alcoólica?",
+      "options": [
+        "Ácido láctico",
+        "Metano",
+        "Etanol",
+        "Butanol"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A fermentação alcoólica, realizada por organismos como a levedura *Saccharomyces*, tem como principais produtos finais o etanol e o dióxido de carbono (CO_2)."
+    },
+    {
+      "question": "Quais moléculas transportam elétrons entre o primeiro e o segundo complexos da ETC mitocondrial?",
+      "options": [
+        "Citocromo c",
+        "proteínas de ferro",
+        "Citocromo a3",
+        "Ubiquinona (Coenzima Q)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A ubiquinona (ou Coenzima Q) é uma pequena molécula não proteica que transporta elétrons entre o primeiro complexo (NADH desidrogenase) e o segundo complexo do CTE."
+    },
+    {
+      "question": "Como é classificada a reação de conversão do ácido isocítrico em ácido alfa-cetoglutárico no Ciclo de Krebs?",
+      "options": [
+        "Fosforilação",
+        "Descarboxilação",
+        "Hidratação",
+        "Reacomodação"
+      ],
+      "correctAnswer": 2,
+      "explanation": "No Ciclo de Krebs, o ácido isocítrico (seis carbonos) perde um átomo de carbono como CO_2 para se tornar ácido alfa-cetoglutárico (cinco carbonos), conhecido como descarboxilação."
+    },
+    {
+      "question": "Qual composto de seis carbonos é formado na primeira etapa da glicólise?",
+      "options": [
+        "Frutose 6-fosfato",
+        "ácido pirúvico",
+        "Glicose 6-fosfato",
+        "Ácido cítrico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A primeira etapa da glicólise é a fosforilação da glicose, onde o ATP é consumido e o composto intermediário glicose 6-fosfato é formado."
+    },
+    {
+      "question": "O que é utilizado na quimiosmose para a síntese de ATP?",
+      "options": [
+        "gradiente de água",
+        "Fluxo enzimático",
+        "Gradiente de prótons",
+        "Concentração de oxigênio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Quimiosmose é o mecanismo pelo qual a energia liberada pela difusão dos prótons ao longo de seu gradiente de concentração (gradiente de prótons) é usada para sintetizar ATP."
+    },
+    {
+      "question": "Qual molécula de seis carbonos é fosforilada no início da glicólise?",
+      "options": [
+        "Difosfato de frutose",
+        "Glicose 6-fosfato",
+        "Glicose 1-fosfato",
+        "ácido pirúvico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A glicólise começa com a fosforilação da glicose, consumindo uma molécula de ATP, para produzir glicose 6-fosfato, um composto intermediário de alta energia."
+    },
+    {
+      "question": "Qual é o aceptor final de elétrons na respiração aeróbica?",
+      "options": [
+        "íon sulfato",
+        "Dióxido de carbono",
+        "Oxigênio molecular",
+        "molécula orgânica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O aceptor final de elétrons na respiração aeróbica é o oxigênio (O_2), que quando combinado com elétrons e prótons forma água (H_2O) como produto final."
+    },
+    {
+      "question": "Quantas moléculas líquidas de ATP são obtidas na glicólise por substrato?",
+      "options": [
+        "Quatro moléculas",
+        "uma molécula",
+        "duas moléculas",
+        "Trinta e oito moléculas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A glicólise consome 2 moléculas de ATP na fase preparatória e gera 4 moléculas na fase de ganho, dando um total líquido de 2 moléculas de ATP."
+    },
+    {
+      "question": "Qual molécula se combina com acetil CoA para formar ácido cítrico?",
+      "options": [
+        "ácido pirúvico",
+        "Glicose",
+        "Frutose",
+        "ácido oxaloacético"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O ciclo de Krebs começa quando o grupo acetil de dois carbonos do acetil CoA se une ao ácido oxaloacético de quatro carbonos, formando o ácido cítrico de seis carbonos."
+    },
+    {
+      "question": "Qual processo transforma o ácido pirúvico em acetil CoA?",
+      "options": [
+        "Fosforilação",
+        "Descarboxilação oxidativa",
+        "Hidrólise",
+        "Reacomodação"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O ácido pirúvico sofre descarboxilação (perda de CO_2) e oxidação (produção de NADH) para formar acetil CoA antes de entrar no ciclo de Krebs."
+    },
+    {
+      "question": "Onde está localizada a cadeia de elétrons nas bactérias procarióticas?",
+      "options": [
+        "Citosol",
+        "membrana plasmática",
+        "parede celular",
+        "Ribossomos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ao contrário das células eucarióticas, nos procariontes, a cadeia de transporte de elétrons e a ATP sintase estão incorporadas na membrana plasmática."
+    },
+    {
+      "question": "Que força impulsiona a síntese de ATP por quimiosmose?",
+      "options": [
+        "força motriz de prótons",
+        "gradiente de água",
+        "Força de osmose",
+        "Concentração de CO_2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O gradiente eletroquímico gerado pelo acúmulo de prótons (H+) em um lado da membrana é conhecido como força motriz do próton e é usado para impulsionar a ATP sintase."
+    },
+    {
+      "question": "Qual é a principal função da fermentação para a célula?",
+      "options": [
+        "Regenerar NAD+",
+        "Produzir acetil CoA",
+        "Gerar oxigênio",
+        "Sintetizar lipídios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A fermentação é crucial para regenerar a coenzima NAD+ do NADH, garantindo que a glicólise possa continuar a produzir pequenas quantidades de ATP."
+    },
+    {
+      "question": "O que é um produto da fermentação láctica?",
+      "options": [
+        "Etanol",
+        "Metano",
+        "Ácido láctico",
+        "Acetona"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A fermentação láctica reduz o ácido pirúvico para formar ácido láctico, permitindo a regeneração do NAD+ no processo."
+    },
+    {
+      "question": "Qual aceptor de elétrons é usado na respiração anaeróbica?",
+      "options": [
+        "Água",
+        "molécula orgânica",
+        "Nitrito",
+        "Oxigênio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na respiração anaeróbica, o aceptor final de elétrons é uma molécula inorgânica diferente do oxigênio, como nitrato, sulfato ou nitrito."
+    },
+    {
+      "question": "De que intermediário na glicólise é derivada a fração de glicerol para gorduras?",
+      "options": [
+        "ácido pirúvico",
+        "Fosfato de dihidroxiacetona",
+        "Glicose 6-fosfato",
+        "Difosfato de frutose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O fosfato de diidroxiacetona (DHAP), um produto intermediário da glicólise, é usado para sintetizar o componente glicerol das moléculas de gordura."
+    },
+    {
+      "question": "Qual precursor está ligado repetidamente para formar ácidos graxos?",
+      "options": [
+        "Glicose",
+        "Glicerol",
+        "Acetil coenzima A",
+        "ácido oxaloacético"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os ácidos graxos, que são longas cadeias de hidrocarbonetos, são sintetizados pela adição sucessiva de fragmentos de dois carbonos da acetil coenzima A."
+    },
+    {
+      "question": "Qual é a função estrutural mais importante dos lipídios?",
+      "options": [
+        "Tanque de energia",
+        "Componentes do ribossomo",
+        "Forme a membrana",
+        "Proteja o núcleo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A função principal dos lipídios, especificamente dos fosfolipídios, é servir como componentes estruturais das membranas biológicas, como a membrana plasmática."
+    },
+    {
+      "question": "Como é chamada a adição de um grupo amino a um ácido orgânico?",
+      "options": [
+        "Transaminação",
+        "Desaminação",
+        "Transdução",
+        "Aminação"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Aminação é o processo biossintético no qual um grupo amino é adicionado ao ácido pirúvico ou a um ácido orgânico do ciclo de Krebs, criando assim um aminoácido."
+    },
+    {
+      "question": "Como é chamada a troca de um grupo amino entre aminoácidos?",
+      "options": [
+        "Transaminação",
+        "Translocação",
+        "Aminação",
+        "Descarboxilação"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A transaminação é a transferência de um grupo amino de um aminoácido preexistente para um ácido orgânico, formando um aminoácido diferente."
+    },
+    {
+      "question": "Quais produtos intermediários são precursores na síntese de aminoácidos?",
+      "options": [
+        "Ciclo de Krebs",
+        "Lipídios",
+        "Produtos de fermentação",
+        "Água"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O ciclo de Krebs fornece vários ácidos orgânicos (intermediários) que servem como importantes precursores para a síntese de vários aminoácidos através de aminação ou transaminação."
+    },
+    {
+      "question": "Que tipo de microorganismo cresce apenas em baixas concentrações de oxigênio?",
+      "options": [
+        "Anaeróbios estritos",
+        "Aeróbios facultativos",
+        "Anaeróbios aerotolerantes",
+        "Microaerófilos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Microaerófilos são microrganismos aeróbicos que necessitam de oxigênio para crescer, mas toleram apenas concentrações inferiores às encontradas na atmosfera."
+    },
+    {
+      "question": "Quais compostos orgânicos essenciais são chamados de fatores de crescimento orgânico?",
+      "options": [
+        "Água e sais",
+        "Lipídios",
+        "gases inertes",
+        "Vitaminas e purinas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Fatores de crescimento orgânico são compostos orgânicos (como vitaminas, aminoácidos, purinas e pirimidinas) que o corpo não consegue sintetizar e deve obter do meio ambiente."
+    },
+    {
+      "question": "O que contêm as flavoproteínas, a primeira classe de transportadores de CTE?",
+      "options": [
+        "ácido fólico",
+        "Flavina",
+        "Cobre",
+        "heme"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As flavoproteínas são moléculas transportadoras de elétrons que contêm flavina (derivada da riboflavina ou vitamina B2) e são normalmente as primeiras a receber elétrons do NADH."
+    },
+    {
+      "question": "No ciclo de Krebs, quantas moléculas de CO_2 são liberadas para cada acetil CoA que entra?",
+      "options": [
+        "duas moléculas",
+        "uma molécula",
+        "três moléculas",
+        "Zero moléculas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para cada acetil CoA que entra no ciclo, duas moléculas de CO_2 são liberadas ao longo das reações do ciclo, completando a oxidação dos dois carbonos iniciais."
+    },
+    {
+      "question": "Que material nutriente é preparado para o crescimento de micróbios?",
+      "options": [
+        "caldo comum",
+        "Substrato simples",
+        "agente inerte",
+        "meio de cultura"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Meio de cultura é uma formulação nutricional preparada especificamente em laboratório para fornecer as condições e os nutrientes necessários ao desenvolvimento de microrganismos."
+    },
+    {
+      "question": "Como é chamado o processo de multiplicação de micróbios em um meio?",
+      "options": [
+        "Cortar",
+        "Inóculo",
+        "Biomassa",
+        "Isolamento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cultura é o termo usado para descrever microrganismos que crescem e se multiplicam depois de introduzidos em um meio nutriente adequado."
+    },
+    {
+      "question": "O que é introduzido no meio para iniciar o crescimento?",
+      "options": [
+        "Amostra clínica",
+        "Nutriente Extra",
+        "Inóculo",
+        "Microflora"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O inóculo é a pequena quantidade de microrganismos que é deliberadamente transferida para um meio de cultura estéril para iniciar um novo ciclo de crescimento ou estudo."
+    },
+    {
+      "question": "Qual meio tem sua composição química exata conhecida?",
+      "options": [
+        "Meio complexo",
+        "Meio diferencial",
+        "Meio definido",
+        "Meio seletivo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Um meio quimicamente definido, ou sintético, é aquele em que a identidade e a concentração exata de todos os componentes químicos presentes são conhecidas."
+    },
+    {
+      "question": "Qual meio contém extratos com composição variável?",
+      "options": [
+        "Meio específico",
+        "Meio simples",
+        "Meio complexo",
+        "Meio transparente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os meios complexos contêm ingredientes como peptonas ou extratos de levedura, cuja composição química exata é desconhecida ou varia ligeiramente entre os lotes."
+    },
+    {
+      "question": "Qual é o requisito de pureza do meio de cultura?",
+      "options": [
+        "Alta viscosidade",
+        "cor escura",
+        "Esterilidade",
+        "Baixa densidade"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O meio a ser semeado deve ser estéril, ou seja, não deve conter microrganismos inicialmente viáveis, para garantir que apenas os micróbios do inóculo cresçam."
+    },
+    {
+      "question": "Qual fator físico deve ser ajustado com precisão?",
+      "options": [
+        "pressão atmosférica",
+        "Nível de luz",
+        "O pH",
+        "força centrífuga"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O pH do meio deve ser ajustado para um nível apropriado porque as enzimas microbianas só funcionam de forma óptima dentro de intervalos de pH específicos, afectando o seu crescimento."
+    },
+    {
+      "question": "O que é crucial para ajustar o crescimento microbiano?",
+      "options": [
+        "Umidade suficiente",
+        "Ausência de luz",
+        "Concentração de sal",
+        "Alta temperatura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A umidade suficiente é crucial, pois a água é essencial para todas as reações metabólicas e para que os nutrientes possam ser transportados para dentro e para fora da célula microbiana."
+    },
+    {
+      "question": "Qual é a principal função de um meio seletivo?",
+      "options": [
+        "Apenas alimente",
+        "Permitir diferenciação",
+        "Crie gradientes",
+        "Inibir micróbios indesejados"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os meios seletivos contêm inibidores que suprimem o crescimento de alguns microrganismos ao mesmo tempo que permitem o desenvolvimento da espécie ou grupo de interesse."
+    },
+    {
+      "question": "Que propriedade um meio diferencial exibe?",
+      "options": [
+        "Mudanças de cor visíveis",
+        "Apenas um nutriente",
+        "consistência líquida",
+        "Ausência de vitaminas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Um meio diferencial permite distinguir colônias de diferentes microrganismos por meio de alterações nas características visuais do meio, como a cor, devido a reações metabólicas específicas."
+    },
+    {
+      "question": "Que tipo de meio ajuda os micróbios escassos?",
+      "options": [
+        "meio basal",
+        "Meio de enriquecimento",
+        "Reserva média",
+        "Meio indicador"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O meio de enriquecimento favorece o crescimento de um determinado micróbio que está presente em pequenas quantidades, inibindo indiretamente a flora acompanhante mais abundante."
+    },
+    {
+      "question": "O que é usado para criar uma atmosfera com baixo teor de oxigênio?",
+      "options": [
+        "Frascos com vela",
+        "câmaras de luz",
+        "pratos abertos",
+        "Incubadora seca"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Os potes de velas são usados ​​para criar condições de baixo oxigênio (microaerofílicas), pois a queima da vela consome oxigênio do ar dentro do recipiente selado."
+    },
+    {
+      "question": "Que prática de controle microbiano Joseph Lister desenvolveu?",
+      "options": [
+        "Filtragem simples",
+        "Cultivo puro",
+        "Assepsia cirúrgica",
+        "Coloração simples"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Joseph Lister foi pioneiro no uso de antissepsia em cirurgia, desenvolvendo e promovendo o uso de técnicas assépticas para prevenir a contaminação microbiana de feridas."
+    },
+    {
+      "question": "Quais infecções são adquiridas em um hospital?",
+      "options": [
+        "Comunidade",
+        "Nosocomial",
+        "Contaminado",
+        "Epidemias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As infecções nosocomiais, também conhecidas como adquiridas no hospital, são aquelas que os pacientes adquirem durante o processo de recebimento de cuidados médicos ou de saúde em um hospital."
+    },
+    {
+      "question": "Quem introduziu a lavagem das mãos com cloreto de cálcio?",
+      "options": [
+        "Luís Pasteur",
+        "Roberto Koch",
+        "Ignaz Semmelweis",
+        "Eduardo Jenner"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ignaz Semmelweis foi o médico húngaro que, observando a elevada mortalidade, implementou a lavagem das mãos com solução de cloreto de cálcio para prevenir a transmissão da febre puerperal."
+    },
+    {
+      "question": "Qual método físico elimina micróbios das soluções?",
+      "options": [
+        "secagem ao ar",
+        "Centrifugação",
+        "Evaporação",
+        "Filtração"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A filtração envolve o uso de uma membrana com poros muito pequenos para separar fisicamente microorganismos (bactérias) de líquidos sem a necessidade de calor."
+    },
+    {
+      "question": "Que fator foi levado em consideração no desenvolvimento de métodos de controle?",
+      "options": [
+        "Densidade da amostra",
+        "Ignorância microbiana",
+        "destreza manual",
+        "Custo do equipamento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O desconhecimento generalizado sobre a existência e o papel dos microrganismos nas doenças foi o fator que motivou a pesquisa e o desenvolvimento de práticas de controle microbiano, como a assepsia."
+    },
+    {
+      "question": "Que tipo de agentes são usados ​​para controle microbiano?",
+      "options": [
+        "Agentes físicos e químicos",
+        "Agentes biológicos",
+        "Agentes ópticos",
+        "agentes inertes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O controle microbiano é alcançado através do uso de uma variedade de métodos, incluindo agentes físicos (como calor ou filtração) e agentes químicos (como desinfetantes e anti-sépticos)."
+    },
+    {
+      "question": "Que prática incorreta foi realizada durante a Guerra Civil?",
+      "options": [
+        "Uso de luvas",
+        "Limpe no chão",
+        "Esterilize seringas",
+        "Lavar curativos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antes da aceitação da teoria dos germes, era comum os cirurgiões limparem seus instrumentos em superfícies contaminadas, como o chão ou a sola das botas, aumentando as infecções."
+    },
+    {
+      "question": "O que o meio deve conter além dos nutrientes adequados?",
+      "options": [
+        "Concentração de oxigênio",
+        "sais biliares",
+        "Açúcar alto",
+        "luz ultravioleta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A concentração de oxigênio é um fator ambiental crucial, pois o meio deve fornecer a concentração adequada, que pode ser abundante, reduzida ou totalmente ausente, dependendo do microrganismo a ser cultivado."
+    },
+    {
+      "question": "Qual é a definição correta de esterilização?",
+      "options": [
+        "Destruição de toda a vida microbiana.",
+        "Destruição de patógenos vegetativos.",
+        "Redução das contagens microbianas.",
+        "Inibição do crescimento de fungos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "A esterilização é definida como a eliminação ou destruição completa de todas as formas de vida microbiana, incluindo as formas mais resistentes, como os endósporos."
+    },
+    {
+      "question": "O que envolve o processo de desinfecção?",
+      "options": [
+        "Destruição de patógenos vegetativos.",
+        "Destruição de todos os endósporos.",
+        "Remoção mecânica de sujeira.",
+        "Tratamento em tecido viável."
+      ],
+      "correctAnswer": 1,
+      "explanation": "A desinfecção é o controle que visa a destruição de microrganismos nocivos, comumente referindo-se a patógenos vegetativos (não formadores de esporos), o que não é o mesmo que esterilidade completa."
+    },
+    {
+      "question": "Como é chamado o tratamento químico de tecido viável?",
+      "options": [
+        "Antissepsia.",
+        "Degerminação.",
+        "Saneamento.",
+        "Esterilização."
+      ],
+      "correctAnswer": 1,
+      "explanation": "A antissepsia é o tratamento direcionado a tecidos vivos ou viáveis, e a substância química utilizada para esse fim é chamada de antisséptico."
+    },
+    {
+      "question": "Qual é o objetivo da esterilização comercial?",
+      "options": [
+        "Destrua todas as bactérias termofílicas.",
+        "Destrua os endósporos de *C. botulínica*.",
+        "Garanta a esterilidade absoluta.",
+        "Elimine contagens microbianas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Este tratamento térmico limitado visa destruir apenas os endosporos do *Clostridium botulinum*, o microrganismo que pode produzir uma toxina mortal, nos alimentos enlatados."
+    },
+    {
+      "question": "O que significa o sufixo '-cida' em um tratamento?",
+      "options": [
+        "Morte direta de micróbios.",
+        "Pare ou estabilize o crescimento.",
+        "Aumentar a resistência microbiana.",
+        "Incentive a multiplicação."
+      ],
+      "correctAnswer": 1,
+      "explanation": "O sufixo ‘-cida’, como em biocida ou germicida, significa morte e indica que o tratamento provoca a morte direta dos microrganismos."
+    },
+    {
+      "question": "Que efeito tem um agente 'bacteriostático'?",
+      "options": [
+        "Inibição do crescimento e multiplicação.",
+        "Morte direta de bactérias.",
+        "Destruição de todos os esporos.",
+        "Eliminação por filtração."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Os tratamentos com o sufixo '-estático' ou '-estase', como a bacteriostase, apenas inibem o crescimento e a multiplicação bacteriana, e o crescimento pode ser retomado após a remoção do agente."
+    },
+    {
+      "question": "Qual é a taxa de mortalidade microbiana devido ao calor?",
+      "options": [
+        "Eles morrem em uma taxa crescente.",
+        "Eles morrem de forma imprevisível.",
+        "Eles morrem aleatoriamente.",
+        "Eles morrem a uma taxa constante."
+      ],
+      "correctAnswer": 4,
+      "explanation": "Quando as populações bacterianas são aquecidas ou tratadas com agentes antimicrobianos, elas normalmente morrem a uma taxa constante ou logarítmica."
+    },
+    {
+      "question": "Qual fator ambiental inibe a ação desinfetante?",
+      "options": [
+        "Ausência de lipídios.",
+        "Temperaturas temperadas.",
+        "Presença de matéria orgânica.",
+        "Condições muito ácidas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "A presença de matéria orgânica (como sangue, vômito ou fezes) muitas vezes inibe a ação de produtos químicos antimicrobianos, influenciando a seleção dos desinfetantes."
+    },
+    {
+      "question": "Qual o efeito dos agentes antimicrobianos na membrana?",
+      "options": [
+        "Sintetize novas membranas.",
+        "Aumentar a replicação do DNA.",
+        "Forme novas ligações de hidrogênio.",
+        "Alterar a permeabilidade da membrana."
+      ],
+      "correctAnswer": 4,
+      "explanation": "Muitos agentes têm como alvo a membrana plasmática. Danos aos lipídios ou proteínas da membrana alteram sua permeabilidade e causam vazamento do conteúdo celular."
+    },
+    {
+      "question": "O que causa a desnaturação térmica das proteínas?",
+      "options": [
+        "Reparação de pontes dissulfeto.",
+        "Formação de dímeros de timina.",
+        "Quebrando ligações de hidrogênio.",
+        "Ativação enzimática."
+      ],
+      "correctAnswer": 3,
+      "explanation": "O calor destrói os microrganismos ao desnaturar as suas enzimas, o que envolve a quebra das ligações de hidrogénio que mantêm a estrutura tridimensional das proteínas."
+    },
+    {
+      "question": "Qual é o método mais confiável de calor úmido?",
+      "options": [
+        "Fervura simples.",
+        "Imersão em água morna.",
+        "Vapor sob pressão em autoclave.",
+        "Exposição ao microondas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "O vapor sob pressão em autoclave é o método preferido de esterilização, pois permite temperaturas superiores ao ponto de ebulição da água (100°C)."
+    },
+    {
+      "question": "Quais condições são usadas na autoclavagem?",
+      "options": [
+        "100°C e pressão de 1 atm.",
+        "121°C e pressão de 15 psi.",
+        "170°C e pressão de 15 psi.",
+        "72°C e pressão de 0 psi."
+      ],
+      "correctAnswer": 2,
+      "explanation": "As condições padrão efetivas para autoclavagem são 121°C a 15 psi (1,05 kg/cm²), o que causa a morte de todos os microrganismos e seus endosporos em cerca de 15 minutos."
+    },
+    {
+      "question": "Qual é o mecanismo de ação do calor seco?",
+      "options": [
+        "Coagulação de proteínas.",
+        "Quebra da parede celular.",
+        "Plasmólise osmótica.",
+        "Morte por oxidação."
+      ],
+      "correctAnswer": 4,
+      "explanation": "O calor seco (como a esterilização por chama ou ar quente) mata os microrganismos principalmente através dos efeitos da oxidação dos seus componentes celulares."
+    },
+    {
+      "question": "Por que o calor seco é menos eficaz que o calor úmido?",
+      "options": [
+        "Destrói menos endosporos.",
+        "Requer temperatura mais baixa.",
+        "Requer mais tempo de exposição.",
+        "É inativado pelo vapor."
+      ],
+      "correctAnswer": 3,
+      "explanation": "O calor seco requer mais tempo e uma temperatura mais elevada (170°C durante 2 horas) do que o calor húmido, porque o calor no ar é transferido menos rapidamente do que na água."
+    },
+    {
+      "question": "Qual método é usado para materiais termossensíveis?",
+      "options": [
+        "Autoclave.",
+        "Calor seco.",
+        "Filtração.",
+        "Ebulição."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Filtração é a passagem de um líquido ou gás através de um material poroso que retém microrganismos, sendo ideal para esterilizar materiais que seriam destruídos pelo calor."
+    },
+    {
+      "question": "O que é usado para reduzir os micróbios no ar?",
+      "options": [
+        "Filtros de poros grandes.",
+        "Radiação ionizante.",
+        "Calor de microondas.",
+        "Filtros HEPA."
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os filtros de controle de partículas suspensas (HEPA) de alta eficiência removem quase todos os microorganismos com diâmetro superior a 0,3 µm do ar em salas e salas de cirurgia."
+    },
+    {
+      "question": "Qual é o efeito do resfriamento regular?",
+      "options": [
+        "Efeito esterilizante.",
+        "Efeito bacteriostático.",
+        "Efeito bactericida.",
+        "Efeito viricida."
+      ],
+      "correctAnswer": 2,
+      "explanation": "À temperatura habitual de refrigeração (0 a 7°C), a atividade metabólica da maioria dos microrganismos é reduzida, impedindo a sua reprodução, o que tem efeito bacteriostático."
+    },
+    {
+      "question": "Quais são as desvantagens da luz ultravioleta (UV)?",
+      "options": [
+        "É muito penetrante.",
+        "Não é muito penetrante.",
+        "Forma pontes dissulfeto.",
+        "Requer alta temperatura."
+      ],
+      "correctAnswer": 2,
+      "explanation": "A principal desvantagem da luz UV como esterilizante é que ela não é muito penetrante, portanto os microrganismos devem ser expostos diretamente aos raios para que o tratamento seja eficaz."
+    },
+    {
+      "question": "Que estrutura celular a radiação UV danifica?",
+      "options": [
+        "Parede celular bacteriana.",
+        "Membrana plasmática.",
+        "ADN.",
+        "Pontes dissulfeto."
+      ],
+      "correctAnswer": 3,
+      "explanation": "A luz UV danifica o DNA celular formando ligações entre bases pirimidinas adjacentes (dímeros de timina), o que inibe a replicação adequada do DNA."
+    },
+    {
+      "question": "Qual fator de desinfecção dificulta a seleção do agente?",
+      "options": [
+        "Eles são todos tóxicos.",
+        "Eles são muito caros.",
+        "Eles não são estáveis.",
+        "Poucos alcançam a esterilidade."
+      ],
+      "correctAnswer": 4,
+      "explanation": "Poucos agentes químicos alcançam a esterilidade, pois a maioria apenas reduz as populações a níveis seguros ou elimina formas vegetativas; Não existe um único desinfetante adequado para todas as circunstâncias."
+    }
+  ]
+}
