@@ -1,0 +1,642 @@
+{
+  "questions": [
+    {
+      "question": "¿Cómo se define la hipertensión arterial en el consultorio?",
+      "options": [
+        "PA sistólica ≥ 120 mmHg",
+        "PA diastólica ≥ 80 mmHg",
+        "PA sistólica ≥ 140 mmHg",
+        "PA diastólica ≥ 100 mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La hipertensión arterial se define por valores de presión arterial sistólica iguales o superiores a 140 mmHg, o presión arterial diastólica iguales o superiores a 90 mmHg, medidas en el consultorio médico en múltiples ocasiones para confirmar la elevación sostenida."
+    },
+    {
+      "question": "¿Qué tipo de enfermedad es la hipertensión arterial?",
+      "options": [
+        "Aguda y transmisible",
+        "Crónica e infecciosa",
+        "Crónica no transmisible",
+        "Autoinmune y aguda"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La hipertensión arterial se caracteriza como una enfermedad crónica no transmisible. Esto significa que es una condición de larga duración que generalmente no se cura por completo y que no se contagia de persona a persona."
+    },
+    {
+      "question": "¿Cuál es un factor de riesgo principal modificable de la HTA?",
+      "options": [
+        "Edad avanzada",
+        "Predisposición genética",
+        "Enfermedad renal crónica",
+        "Estilo de vida sedentario"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La hipertensión arterial es un factor de riesgo principal y modificable para diversas enfermedades cardiovasculares y renales. Un estilo de vida sedentario es un factor de riesgo modificable, lo que implica que se puede cambiar o mejorar para reducir el riesgo."
+    },
+    {
+      "question": "¿Qué sistema está desregulado en la fisiopatología de la HTA?",
+      "options": [
+        "Sistema nervioso central",
+        "Sistema digestivo",
+        "Sistema renina-angiotensina-aldosterona",
+        "Sistema inmunitario adaptativo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Un mecanismo clave en la fisiopatología compleja y multifactorial de la hipertensión arterial es la activación desregulada del Sistema Renina-Angiotensina-Aldosterona (SRAA), que influye significativamente en la regulación de la presión arterial."
+    },
+    {
+      "question": "¿Qué convierte la renina en angiotensina I?",
+      "options": [
+        "Angiotensina II",
+        "Aldosterona",
+        "Angiotensinógeno",
+        "Enzima convertidora"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La renina, liberada por las células yuxtaglomerulares renales, es responsable de convertir el angiotensinógeno, una proteína producida en el hígado, en angiotensina I, iniciando así la cascada del sistema renina-angiotensina-aldosterona."
+    },
+    {
+      "question": "¿Qué enzima transforma angiotensina I en angiotensina II?",
+      "options": [
+        "Renina",
+        "Aldosterona sintetasa",
+        "Enzima convertidora de angiotensina",
+        "Vasopresina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La enzima convertidora de angiotensina (ECA) es crucial en la vía fisiopatológica de la HTA, ya que es la encargada de transformar la angiotensina I en angiotensina II, un potente vasoconstrictor y estimulante de aldosterona."
+    },
+    {
+      "question": "¿Qué efecto tiene la angiotensina II en los vasos sanguíneos?",
+      "options": [
+        "Vasodilatación",
+        "Disminución de la resistencia",
+        "Vasoconstricción potente",
+        "Aumento del flujo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La angiotensina II es un potente vasoconstrictor, lo que significa que provoca el estrechamiento de los vasos sanguíneos. Este efecto contribuye directamente al aumento de la resistencia vascular periférica y, consecuentemente, a la elevación de la presión arterial."
+    },
+    {
+      "question": "¿Qué estimula la liberación de la aldosterona?",
+      "options": [
+        "Óxido nítrico",
+        "Angiotensina II",
+        "Péptido natriurético",
+        "Prostaglandinas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La angiotensina II, además de ser un potente vasoconstrictor, es un estímulo clave para la liberación de aldosterona desde la corteza suprarrenal. La aldosterona, a su vez, juega un papel importante en la regulación del volumen sanguíneo y la presión arterial."
+    },
+    {
+      "question": "¿Qué promueve la aldosterona en los riñones?",
+      "options": [
+        "Excreción de sodio y agua",
+        "Reabsorción de sodio y agua",
+        "Liberación de renina",
+        "Disminución del gasto cardíaco"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La aldosterona tiene un efecto fundamental en los riñones al promover la reabsorción de sodio y agua. Este proceso lleva a un aumento del volumen intravascular y del gasto cardíaco, contribuyendo a la elevación de la presión arterial."
+    },
+    {
+      "question": "¿Qué se reduce en la disfunción endotelial en HTA?",
+      "options": [
+        "Producción de endotelina-1",
+        "Biodisponibilidad del óxido nítrico",
+        "Tono vasoconstrictor",
+        "Rigidez arterial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La disfunción endotelial en la hipertensión arterial se caracteriza por una reducción en la biodisponibilidad del óxido nítrico (NO). Esta disminución se debe al estrés oxidativo y al desacoplamiento de la eNOS, afectando la capacidad de los vasos para dilatarse."
+    },
+    {
+      "question": "¿Qué factor genético exacerba la retención de sodio?",
+      "options": [
+        "Insensibilidad al potasio",
+        "Sensibilidad a la sal",
+        "Resistencia a la insulina",
+        "Déficit de aldosterona"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La sensibilidad a la sal, que a menudo tiene una base genética, es un factor que exacerba la retención renal de sodio y agua en pacientes hipertensos. Esto lleva a una expansión del volumen plasmático y contribuye a la resistencia a la natriuresis por presión, elevando la PA."
+    },
+    {
+      "question": "¿Qué citocinas proinflamatorias se liberan en HTA crónica?",
+      "options": [
+        "Interferón gamma y IL-2",
+        "IL-4 e IL-10",
+        "IL-6 y TNF-alfa",
+        "IL-12 y IL-18"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los procesos inflamatorios crónicos en la hipertensión arterial se evidencian por la liberación de citocinas proinflamatorias. Entre ellas, la interleucina-6 (IL-6) y el factor de necrosis tumoral alfa (TNF-alfa) desempeñan un papel crucial en la disfunción endotelial y el remodelado vascular."
+    },
+    {
+      "question": "¿Qué receptor media principalmente los efectos de Angiotensina II?",
+      "options": [
+        "Receptor AT2",
+        "Receptor beta-1",
+        "Receptor AT1",
+        "Receptor alfa-2"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La Angiotensina II ejerce sus efectos deletéreos, como el remodelado cardíaco y vascular, la fibrosis y el estrés oxidativo, principalmente a través del receptor AT1. Este receptor es un blanco farmacológico importante en el tratamiento de la hipertensión."
+    },
+    {
+      "question": "¿Qué efecto tiene el eje ECA2/Angiotensina 1-7?",
+      "options": [
+        "Vasoconstrictor y proinflamatorio",
+        "Vasodilatador y cardioprotector",
+        "Aumenta el estrés oxidativo",
+        "Induce remodelado vascular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El eje ECA2/Angiotensina 1-7 actúa como un contrapunto crucial al sistema renina-angiotensina-aldosterona. Este eje ejerce efectos vasodilatadores y cardioprotectores, modulando y contrarrestando el impacto dañino de la Angiotensina II en el sistema cardiovascular."
+    },
+    {
+      "question": "¿Qué porcentaje de adultos se estima que afecta la HTA globalmente?",
+      "options": [
+        "Uno de cada diez",
+        "Uno de cada cinco",
+        "Uno de cada tres",
+        "Uno de cada quince"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La hipertensión arterial es un problema de salud pública de gran prevalencia a nivel mundial, afectando aproximadamente a uno de cada tres adultos. Esto representa más de mil millones de personas globalmente, destacando su impacto significativo en la salud global."
+    },
+    {
+      "question": "¿A qué edad es más común la prevalencia de HTA?",
+      "options": [
+        "Menores de 30 años",
+        "Entre 30 y 45 años",
+        "Personas mayores de 60 años",
+        "Niños y adolescentes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La prevalencia de la hipertensión arterial aumenta progresivamente con la edad, siendo significativamente más común en personas mayores de 60 años. Este fenómeno subraya la importancia del cribado y manejo en la población de edad avanzada."
+    },
+    {
+      "question": "¿Cuál es la principal causa prevenible de muerte prematura?",
+      "options": [
+        "Diabetes mellitus",
+        "Obesidad mórbida",
+        "Hipertensión arterial",
+        "Tabaquismo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La hipertensión arterial es reconocida como la principal causa prevenible de muerte prematura y discapacidad a nivel mundial. Su fuerte vínculo con enfermedades cardiovasculares, cerebrovasculares y renales la convierte en un factor de riesgo crucial para la salud."
+    },
+    {
+      "question": "¿Qué porcentaje de casos representa la hipertensión esencial?",
+      "options": [
+        "5-10%",
+        "20-30%",
+        "90-95%",
+        "40-50%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La hipertensión esencial, también conocida como primaria, es la forma más común de hipertensión arterial. Representa aproximadamente el 90-95% de todos los casos y se caracteriza por tener un origen multifactorial, sin una causa única identificable."
+    },
+    {
+      "question": "¿Qué factor no modificable contribuye a la HTA esencial?",
+      "options": [
+        "Dieta con alto sodio",
+        "Obesidad",
+        "Edad avanzada",
+        "Consumo de alcohol"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los factores de riesgo no modificables para la hipertensión esencial incluyen la predisposición genética, la edad avanzada y el sexo. Estos son elementos que no pueden ser alterados por el paciente, a diferencia de los factores de estilo de vida."
+    },
+    {
+      "question": "¿Cuál es una causa frecuente de hipertensión secundaria?",
+      "options": [
+        "Ejercicio regular",
+        "Dieta DASH",
+        "Apnea obstructiva del sueño",
+        "Bajo consumo de sal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La apnea obstructiva del sueño es una causa frecuente de hipertensión secundaria. Esta condición se caracteriza por episodios repetidos de obstrucción de la vía aérea superior durante el sueño, lo que provoca hipoxia intermitente y activación simpática, elevando la PA."
+    },
+    {
+      "question": "¿Qué enfermedad renal puede causar HTA secundaria?",
+      "options": [
+        "Cálculos renales",
+        "Quistes simples renales",
+        "Enfermedad renal crónica parenquimatosa",
+        "Infecciones urinarias recurrentes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las enfermedades renales parenquimatosas, como la enfermedad renal crónica, son una causa importante de hipertensión secundaria. El daño al tejido renal afecta la capacidad del riñón para regular la presión arterial, llevando a su elevación."
+    },
+    {
+      "question": "¿Qué trastorno endocrino puede causar hipopotasemia con HTA?",
+      "options": [
+        "Feocromocitoma",
+        "Síndrome de Cushing",
+        "Hipotiroidismo",
+        "Aldosteronismo primario"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El aldosteronismo primario, que se caracteriza por un exceso de producción de aldosterona, es una causa de hipertensión secundaria. Esta condición a menudo se manifiesta con hipertensión arterial acompañada de hipopotasemia, debido a la retención de sodio y excreción de potasio."
+    },
+    {
+      "question": "¿Qué fármaco puede elevar la presión arterial?",
+      "options": [
+        "Losartán",
+        "Hidroclorotiazida",
+        "Antiinflamatorios no esteroideos (AINEs)",
+        "Amlodipino"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ciertos fármacos, como los antiinflamatorios no esteroideos (AINEs), son conocidos por poder elevar la presión arterial. Esto se debe a su efecto sobre la retención de sodio y agua y la inhibición de la síntesis de prostaglandinas, que tienen funciones vasodilatadoras."
+    },
+    {
+      "question": "¿Por qué se conoce a la HTA como 'asesino silencioso'?",
+      "options": [
+        "Causa dolor intenso",
+        "Es mayormente asintomática temprana",
+        "Produce muchos signos",
+        "Es fácilmente detectable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La hipertensión arterial es apodada el 'asesino silencioso' debido a su carácter predominantemente asintomático en sus etapas tempranas. La mayoría de los pacientes no experimentan síntomas hasta que la enfermedad ha progresado y ha causado daño a órganos diana, lo que dificulta su detección precoz."
+    },
+    {
+      "question": "¿Qué tipo de cefalea es común en la HTA?",
+      "options": [
+        "Frontal, pulsátil, vespertina",
+        "Temporal, opresiva, nocturna",
+        "Occipital, pulsátil, matutina",
+        "Generalizada, constante, diurna"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cuando los síntomas de la hipertensión arterial aparecen, la cefalea es uno de los más comunes. Típicamente se describe como occipital, pulsátil y suele ser peor por la mañana, aunque estos síntomas son inespecíficos y aparecen con elevaciones importantes."
+    },
+    {
+      "question": "¿Qué síntoma sugiere posible insuficiencia cardíaca?",
+      "options": [
+        "Mareos o vértigo",
+        "Epistaxis",
+        "Disnea al esfuerzo o reposo",
+        "Acúfenos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La disnea, que es la dificultad para respirar, especialmente al esfuerzo o incluso en reposo, es un síntoma que puede indicar la presencia de insuficiencia cardíaca. Esta es una complicación grave de la hipertensión arterial y requiere atención médica."
+    },
+    {
+      "question": "¿Qué síntoma es indicativo de emergencia hipertensiva?",
+      "options": [
+        "Fatiga leve",
+        "Dolor de cabeza intenso",
+        "Edema en tobillos",
+        "Palpitaciones ocasionales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En casos de emergencia hipertensiva, los síntomas son severos y agudos, y el dolor de cabeza intenso es uno de los signos más preocupantes. Esto, junto con alteraciones visuales graves o déficits neurológicos, sugiere daño orgánico agudo y requiere atención médica inmediata."
+    },
+    {
+      "question": "¿Cuál es el estándar de oro para diagnosticar HTA?",
+      "options": [
+        "Mediciones en consultorio",
+        "Automedición domiciliaria (AMPA)",
+        "Monitoreo ambulatorio (MAPA)",
+        "Examen de fondo de ojo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Monitoreo Ambulatorio de la Presión Arterial (MAPA) es considerado el estándar de oro para el diagnóstico de la hipertensión arterial. Permite registrar la PA durante 24 horas, proporcionando un perfil más completo y ayudando a identificar hipertensión de bata blanca o enmascarada."
+    },
+    {
+      "question": "¿Qué valores de MAPA de 24 horas sugieren HTA?",
+      "options": [
+        "≥ 140/90 mmHg",
+        "≥ 120/70 mmHg",
+        "≥ 130/80 mmHg",
+        "≥ 135/85 mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para el diagnóstico de hipertensión arterial mediante el monitoreo ambulatorio de la presión arterial (MAPA) de 24 horas, se consideran valores diagnósticos una presión arterial promedio igual o superior a 130/80 mmHg durante este período."
+    },
+    {
+      "question": "¿Qué detecta un electrocardiograma en HTA?",
+      "options": [
+        "Función renal",
+        "Hipertrofia ventricular izquierda",
+        "Niveles de glucosa",
+        "Estenosis de la arteria renal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un electrocardiograma (ECG) es una prueba complementaria clave en el diagnóstico de HTA, utilizada para detectar signos de hipertrofia ventricular izquierda o isquemia. La hipertrofia ventricular izquierda es un indicativo de daño a órgano diana causado por la hipertensión crónica."
+    },
+    {
+      "question": "¿Qué prueba evalúa la morfología renal y estenosis arterial?",
+      "options": [
+        "Ecografía renal",
+        "Radiografía de tórax",
+        "Tomografía cerebral",
+        "Gammagrafía ósea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ecografía renal es una prueba complementaria útil para evaluar la morfología renal y descartar la presencia de estenosis de la arteria renal, que es una causa conocida de hipertensión secundaria. Esta prueba proporciona imágenes detalladas de los riñones."
+    },
+    {
+      "question": "¿Qué prueba detecta microalbuminuria en orina?",
+      "options": [
+        "Hemograma completo",
+        "Perfil lipídico",
+        "Urianálisis completo",
+        "Glucemia en ayunas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para evaluar el daño a órgano diana y descartar causas secundarias en la hipertensión, se realiza un análisis de orina que incluye un urianálisis completo y la detección de microalbuminuria. La microalbuminuria es un marcador temprano de daño renal."
+    },
+    {
+      "question": "¿Qué caracteriza la hipertensión de bata blanca?",
+      "options": [
+        "PA elevada en casa",
+        "PA normal en clínica",
+        "PA elevada solo en clínica",
+        "PA siempre elevada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La hipertensión de bata blanca se caracteriza por una elevación de la presión arterial exclusivamente en el entorno clínico, mientras que los valores son normales fuera de este ambiente. Se diagnostica mediante MAPA o AMPA para diferenciarla de la HTA sostenida."
+    },
+    {
+      "question": "¿Qué caracteriza la hipertensión enmascarada?",
+      "options": [
+        "PA elevada en clínica",
+        "PA normal en clínica, elevada fuera",
+        "PA siempre normal",
+        "PA fluctuante sin patrón"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La hipertensión enmascarada es una condición donde la presión arterial es normal en el consultorio, pero se encuentra elevada fuera de él. Esta condición es detectada eficazmente mediante el monitoreo ambulatorio de la presión arterial (MAPA) o la automedición domiciliaria (AMPA)."
+    },
+    {
+      "question": "¿Qué causa la coartación de la aorta?",
+      "options": [
+        "Vasodilatación sistémica",
+        "Estrechamiento congénito de aorta",
+        "Exceso de catecolaminas",
+        "Hipofunción tiroidea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La coartación de la aorta es una causa congénita de hipertensión secundaria. Se refiere a un estrechamiento anormal de la aorta, lo que resulta en una presión arterial elevada en los miembros superiores y una disminución de la presión arterial en los miembros inferiores."
+    },
+    {
+      "question": "¿Cuál es un objetivo de la dieta DASH?",
+      "options": [
+        "Aumento de grasas saturadas",
+        "Alto consumo de sodio",
+        "Reducción de azúcares refinados",
+        "Excluir frutas y verduras"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La dieta DASH (Enfoques Dietéticos para Detener la Hipertensión) es una medida no farmacológica crucial en el manejo de la hipertensión. Enfatiza el consumo de alimentos saludables y recomienda la reducción de grasas saturadas, colesterol y azúcares refinados."
+    },
+    {
+      "question": "¿Cuántos minutos de ejercicio aeróbico se recomiendan semanalmente?",
+      "options": [
+        "30 minutos de alta intensidad",
+        "75 minutos de intensidad moderada",
+        "150 minutos de intensidad moderada",
+        "200 minutos de intensidad vigorosa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las medidas no farmacológicas para el tratamiento de la hipertensión arterial incluyen el ejercicio físico regular. Se recomienda al menos 150 minutos de actividad aeróbica de intensidad moderada por semana, o 75 minutos de intensidad vigorosa, para promover la salud cardiovascular."
+    },
+    {
+      "question": "¿Cuál es la ingesta ideal de sodio para pacientes con HTA?",
+      "options": [
+        "Más de 3000 mg/día",
+        "Menos de 2300 mg/día",
+        "Alrededor de 500 mg/día",
+        "No hay límite"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el manejo no farmacológico de la hipertensión, la reducción de la ingesta de sodio es fundamental. Se recomienda una baja ingesta de sodio, idealmente menos de 1500 mg/día, pero al menos menos de 2300 mg/día para la mayoría de los pacientes."
+    },
+    {
+      "question": "¿Qué clase de fármaco es primera línea en muchos pacientes?",
+      "options": [
+        "Betabloqueantes",
+        "Calcioantagonistas",
+        "Diuréticos tiazídicos",
+        "Antagonistas de receptores AT1"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los diuréticos tiazídicos, como la hidroclorotiazida o la clortalidona, son considerados fármacos de primera línea en el tratamiento de muchos pacientes con hipertensión arterial. Actúan aumentando la excreción de sodio y agua, lo que reduce el volumen sanguíneo y la presión arterial."
+    },
+    {
+      "question": "¿Qué fármacos son útiles en insuficiencia cardíaca con proteinuria?",
+      "options": [
+        "Calcioantagonistas dihidropiridínicos",
+        "Betabloqueantes",
+        "Diuréticos de asa",
+        "Inhibidores de la ECA (IECA)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los inhibidores de la enzima convertidora de angiotensina (IECA), como el enalapril o el lisinopril, son particularmente útiles en pacientes con insuficiencia cardíaca, disfunción ventricular izquierda o enfermedad renal crónica que presentan proteinuria, debido a sus efectos cardioprotectores y renoprotectores."
+    },
+    {
+      "question": "¿Qué se usa como alternativa a los IECA si hay tos?",
+      "options": [
+        "Diuréticos tiazídicos",
+        "Betabloqueantes",
+        "Antagonistas de los receptores de angiotensina II (ARA-II)",
+        "Calcioantagonistas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los antagonistas de los receptores de angiotensina II (ARA-II), como el losartán o el valsartán, son una alternativa eficaz a los IECA, especialmente en pacientes que desarrollan tos como efecto secundario de estos últimos. Comparten mecanismos de acción similares."
+    },
+    {
+      "question": "¿Qué clase de fármacos son amlodipino y nifedipino?",
+      "options": [
+        "IECA",
+        "ARA-II",
+        "Betabloqueantes",
+        "Calcioantagonistas dihidropiridínicos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El amlodipino y el nifedipino pertenecen a la clase de los calcioantagonistas dihidropiridínicos. Estos fármacos son efectivos en pacientes ancianos y aquellos con angina, actuando al relajar los vasos sanguíneos y disminuir la resistencia periférica."
+    },
+    {
+      "question": "¿Cuál es el objetivo de PA para la mayoría de adultos?",
+      "options": [
+        "< 140/90 mmHg",
+        "< 150/100 mmHg",
+        "< 130/80 mmHg",
+        "< 120/70 mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El tratamiento de la hipertensión arterial busca reducir la presión arterial a niveles objetivo para minimizar el riesgo de complicaciones. Generalmente, el objetivo de presión arterial para la mayoría de los adultos es menor de 130/80 mmHg."
+    },
+    {
+      "question": "¿Qué se monitoriza cada 6-8 horas en ambiente hospitalario?",
+      "options": [
+        "Función tiroidea",
+        "Presión arterial y frecuencia cardíaca",
+        "Niveles de vitamina D",
+        "Densidad ósea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En un ambiente hospitalario, es crucial monitorear la presión arterial y la frecuencia cardíaca cada 6-8 horas para los pacientes con hipertensión. Este control regular permite evaluar la respuesta al tratamiento y detectar posibles complicaciones."
+    },
+    {
+      "question": "¿Qué se evalúa con un examen de fondo de ojo en HTA?",
+      "options": [
+        "Cataratas",
+        "Glaucoma",
+        "Retinopatía hipertensiva",
+        "Conjuntivitis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El examen de fondo de ojo es una parte importante del diagnóstico y seguimiento de la hipertensión arterial, ya que permite detectar signos de retinopatía hipertensiva. Esta condición es una manifestación de daño a órgano diana causado por la presión arterial elevada crónica."
+    },
+    {
+      "question": "¿Qué interconsulta se sugiere para enfermedad renal?",
+      "options": [
+        "Cardiología",
+        "Endocrinología",
+        "Nefrología",
+        "Neurología"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En el manejo de un paciente con hipertensión arterial, si existe evidencia de enfermedad renal o sospecha de hipertensión secundaria de origen renal, se sugiere una interconsulta con el servicio de Nefrología para una evaluación y manejo especializado."
+    },
+    {
+      "question": "¿Qué información se incluye en la educación al paciente?",
+      "options": [
+        "Detalles de otros pacientes",
+        "Diagnósticos de otros familiares",
+        "Importancia de estilo de vida",
+        "Exclusivamente sobre fármacos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La educación al paciente es un componente esencial en el manejo de la hipertensión, abarcando mucho más que solo medicamentos. Incluye la adherencia al tratamiento farmacológico, la importancia fundamental de los cambios en el estilo de vida, la identificación de signos de alarma y el control periódico de la presión arterial."
+    },
+    {
+      "question": "¿Qué estimula la renina para su liberación renal?",
+      "options": [
+        "Aumento de volumen",
+        "Disminución de perfusión o sodio",
+        "Hiperpotasemia",
+        "Alcalosis metabólica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La renina es liberada por las células yuxtaglomerulares renales principalmente en respuesta a una disminución de la perfusión renal o una reducción en los niveles de sodio. Este mecanismo es una parte crucial de la regulación de la presión arterial y el volumen sanguíneo."
+    },
+    {
+      "question": "¿Qué daño orgánico es causado por la HTA?",
+      "options": [
+        "Enfermedad hepática crónica",
+        "Infarto agudo de miocardio",
+        "Artritis reumatoide",
+        "Cálculos biliares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La hipertensión arterial aumenta significativamente la probabilidad de desarrollar varias enfermedades cardiovasculares y renales, incluyendo el infarto agudo de miocardio. Es un daño a órgano diana grave y una de las principales complicaciones de la HTA no controlada."
+    },
+    {
+      "question": "¿Qué promueve la endotelina-1 en la disfunción endotelial?",
+      "options": [
+        "Vasodilatación",
+        "Relajación muscular lisa",
+        "Proliferación de células musculares lisas",
+        "Degradación de placa ateroesclerótica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la disfunción endotelial, una mayor producción de endotelina-1 contribuye al daño vascular. Esta potente sustancia promueve la proliferación de células musculares lisas y la formación de placa aterosclerótica, lo que agrava la rigidez arterial y la progresión de la enfermedad."
+    },
+    {
+      "question": "¿Qué contribuye a la rigidez y estrechamiento vascular a largo plazo?",
+      "options": [
+        "Bajo gasto cardíaco",
+        "Hipoperfusión renal",
+        "Remodelado vascular con hipertrofia media",
+        "Disminución del tono simpático"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Factores como el remodelado vascular a largo plazo, con hipertrofia de la capa media arterial, perpetúan y agravan la hipertensión. Esta hipertrofia contribuye a la rigidez y estrechamiento de los vasos sanguíneos, aumentando la resistencia y la presión arterial de forma sostenida."
+    },
+    {
+      "question": "¿Qué población tiene mayor incidencia de HTA?",
+      "options": [
+        "Estilos de vida muy activos",
+        "Dietas ricas en potasio",
+        "Poblaciones con obesidad",
+        "Consumo moderado de alcohol"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se observa una mayor incidencia de hipertensión arterial en poblaciones con estilos de vida sedentarios, dietas ricas en sodio y grasas, y tasas elevadas de obesidad. Estos son factores de riesgo modificables que contribuyen a la prevalencia de la enfermedad."
+    },
+    {
+      "question": "¿Cuál es un factor de riesgo modificable de HTA esencial?",
+      "options": [
+        "Predisposición genética",
+        "Edad avanzada",
+        "Tabaquismo",
+        "Sexo femenino"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Entre los factores de riesgo modificables para la hipertensión esencial se encuentran el tabaquismo, la obesidad, el sedentarismo, una dieta alta en sodio y bajo en potasio, el consumo excesivo de alcohol, el estrés crónico y la diabetes mellitus. El tabaquismo es una causa prevenible."
+    },
+    {
+      "question": "¿Qué sustancia de abuso puede causar HTA secundaria?",
+      "options": [
+        "Nicotina",
+        "Cafeína",
+        "Cocaína",
+        "Paracetamol"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El uso de ciertas drogas ilícitas, como la cocaína o las anfetaminas, puede ser una causa de hipertensión secundaria. Estas sustancias pueden provocar un aumento agudo y severo de la presión arterial debido a sus efectos vasoconstrictores y estimulantes sobre el sistema cardiovascular."
+    },
+    {
+      "question": "¿Qué medicamento es un betabloqueante útil en post-infarto?",
+      "options": [
+        "Amlodipino",
+        "Losartán",
+        "Metoprolol",
+        "Hidroclorotiazida"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los betabloqueantes, como el metoprolol o el carvedilol, son fármacos útiles en el tratamiento de la hipertensión arterial, especialmente en pacientes con angina, post-infarto de miocardio, insuficiencia cardíaca o taquiarritmias. Su acción reduce la frecuencia cardíaca y la contractilidad miocárdica."
+    },
+    {
+      "question": "¿Qué tipo de dieta se recomienda para la HTA?",
+      "options": [
+        "Alta en grasas saturadas",
+        "Rica en sodio",
+        "Baja en potasio",
+        "Basada en el plan DASH"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Para el manejo de la hipertensión arterial, se recomienda una dieta basada en el plan DASH (Enfoques Dietéticos para Detener la Hipertensión). Esta dieta enfatiza el consumo de frutas, verduras, granos integrales y productos lácteos bajos en grasa, con reducción de grasas saturadas y sodio."
+    },
+    {
+      "question": "¿Qué hormona es producida en exceso en el feocromocitoma?",
+      "options": [
+        "Aldosterona",
+        "Glucocorticoides",
+        "Catecolaminas",
+        "Hormonas tiroideas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El feocromocitoma es un trastorno endocrino que puede causar hipertensión secundaria. Se caracteriza por tumores de la médula suprarrenal que producen un exceso de catecolaminas, como la adrenalina y la noradrenalina, manifestándose con hipertensión paroxística o sostenida."
+    },
+    {
+      "question": "¿Qué complicación cardiovascular puede causar la HTA?",
+      "options": [
+        "Cálculos renales",
+        "Accidente cerebrovascular",
+        "Dermatitis atópica",
+        "Apnea del sueño"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La hipertensión arterial es un factor de riesgo principal para diversas enfermedades cardiovasculares y renales. Una de las complicaciones más graves es el accidente cerebrovascular, que puede causar daño cerebral permanente y discapacidad si no se controla la presión arterial."
+    }
+  ]
+}
