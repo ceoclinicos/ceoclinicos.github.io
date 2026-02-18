@@ -1,0 +1,38 @@
+// Datos de materias (sincronizar con app/src/main/assets/temas/temas.json si se actualiza)
+window.TEMAS_DATA = {
+  "temas": [
+    {"id":"hipertension_arterial","titulo":"Hipertensión Arterial","descripcion":"Elevación persistente de la presión arterial","pdfUrl":"https://www.dropbox.com/scl/fi/egaj7j3d6mqk1lopod4oc/Guia-Hipertensi-n-Arterial-Clinicos.pdf?rlkey=go3vt1w0z554hh6p8acpp5jt6&st=9tnn1t91&dl=1","tieneGuia":true,"numPreguntas":50},
+    {"id":"colecistitis","titulo":"Colecistitis","descripcion":"Inflamación de la vesícula biliar aguda y crónica","pdfUrl":"https://www.dropbox.com/scl/fi/anh5fmxxktioc7wzvbup0/1.-Guia-Colecistitis.pdf?rlkey=w40cs53d8v6his3sr3vf60t0n&st=hgcfw2qa&dl=1","tieneGuia":true,"numPreguntas":70},
+    {"id":"anatomia_abdomen","titulo":"Anatomía del Abdomen","descripcion":"Estructuras anatómicas del abdomen","pdfUrl":"","tieneGuia":false,"numPreguntas":313},
+    {"id":"anatomia_cabeza_cuello","titulo":"Anatomía Cabeza y Cuello","descripcion":"Cabeza, cuello, cráneo, músculos, nervios y vasos","pdfUrl":"","tieneGuia":false,"numPreguntas":200},
+    {"id":"anatomia_dorso","titulo":"Anatomía del Dorso","descripcion":"Dorso, columna vertebral, músculos y nervios","pdfUrl":"","tieneGuia":false,"numPreguntas":197},
+    {"id":"anatomia_miembro_superior","titulo":"Anatomía de Miembro Superior","descripcion":"Hombro, brazo, antebrazo y mano","pdfUrl":"","tieneGuia":false,"numPreguntas":200},
+    {"id":"anatomia_miembro_inferior","titulo":"Anatomía de Miembro Inferior","descripcion":"Cadera, muslo, pierna y pie","pdfUrl":"","tieneGuia":false,"numPreguntas":199},
+    {"id":"anatomia_pelvis","titulo":"Anatomía de Pelvis","descripcion":"Pelvis, huesos, músculos y órganos","pdfUrl":"","tieneGuia":false,"numPreguntas":219},
+    {"id":"anatomia_torax","titulo":"Anatomía del Tórax","descripcion":"Tórax, costillas, pulmones y corazón","pdfUrl":"","tieneGuia":false,"numPreguntas":200},
+    {"id":"fisiologia_gastrointestinal","titulo":"Fisiología Gastrointestinal","descripcion":"Sistema digestivo, digestión y motilidad","pdfUrl":"","tieneGuia":false,"numPreguntas":200},
+    {"id":"fisiologia_neuromuscular","titulo":"Fisiología Neuromuscular","descripcion":"Unión neuromuscular y contracción muscular","pdfUrl":"","tieneGuia":false,"numPreguntas":200},
+    {"id":"fisiologia_circulacion","titulo":"Fisiología de la Circulación","descripcion":"Sistema circulatorio y regulación vascular","pdfUrl":"","tieneGuia":false,"numPreguntas":200},
+    {"id":"fisiologia_cardiaca","titulo":"Fisiología Cardíaca","descripcion":"Corazón, conducción y ciclo cardíaco","pdfUrl":"","tieneGuia":false,"numPreguntas":200},
+    {"id":"fisiologia_renal","titulo":"Fisiología Renal","descripcion":"Riñón, filtración y equilibrio ácido-base","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"neurofisiologia","titulo":"Neurofisiología","descripcion":"Sistema nervioso y neurotransmisores","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"fisiologia_respiratoria","titulo":"Fisiología Respiratoria","descripcion":"Ventilación e intercambio gaseoso","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"fisiologia_sanguinea","titulo":"Fisiología Sanguínea","descripcion":"Sangre, coagulación e inmunidad","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"fisiologia_dolor","titulo":"Fisiología del Dolor","descripcion":"Nocicepción y transmisión del dolor","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"fisiologia_reproductiva","titulo":"Fisiología Reproductiva","descripcion":"Sistema reproductor y ciclo menstrual","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"fisiologia_deportiva","titulo":"Fisiología Deportiva","descripcion":"Ejercicio, entrenamiento y rendimiento","pdfUrl":"","tieneGuia":false,"numPreguntas":200},
+    {"id":"fisiologia_metabolismo","titulo":"Fisiología del Metabolismo","descripcion":"Metabolismo energético y regulación","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"fisiologia_fiebre","titulo":"Fisiología de la Fiebre","descripcion":"Termorregulación y respuesta febril","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"fisiologia_endocrina","titulo":"Fisiología Endocrina","descripcion":"Sistema endocrino y hormonas","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"anestesicos_locales","titulo":"Anestésicos Locales","descripcion":"Bloqueo nervioso periférico","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"anestesicos_opioides","titulo":"Anestésicos Opioides","descripcion":"Opioides en anestesia y analgesia","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"anestesicos_inhalados","titulo":"Anestésicos Inhalados","descripcion":"Anestesia general por inhalación","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"anestesicos_intravenosos","titulo":"Anestésicos Intravenosos","descripcion":"Inducción IV de anestesia general","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"ciclo_celular","titulo":"Ciclo Celular","descripcion":"Mitosis e interfase","pdfUrl":"","tieneGuia":false,"numPreguntas":100},
+    {"id":"fertilizacion","titulo":"Fertilización","descripcion":"Ovocito, espermatozoide y cigoto","pdfUrl":"","tieneGuia":false,"numPreguntas":1},
+    {"id":"gametogenesis","titulo":"Gametogénesis","descripcion":"Espermatogénesis y ovogénesis","pdfUrl":"","tieneGuia":false,"numPreguntas":1},
+    {"id":"diabetes_mellitus","titulo":"Diabetes Mellitus","descripcion":"Hiperglucemia crónica","pdfUrl":"","tieneGuia":false,"numPreguntas":50},
+    {"id":"infarto_miocardio","titulo":"Infarto de Miocardio","descripcion":"Necrosis cardíaca por isquemia","pdfUrl":"","tieneGuia":false,"numPreguntas":20},
+    {"id":"neumonia","titulo":"Neumonía","descripcion":"Inflamación del parénquima pulmonar","pdfUrl":"","tieneGuia":false,"numPreguntas":20}
+  ]
+};

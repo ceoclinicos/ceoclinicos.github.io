@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CEO Clínicos</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a href="#inicio" class="nav-link active" data-page="inicio">
+        <span class="nav-icon" aria-hidden="true">🏠</span>
+        <span class="nav-label">Inicio</span>
+      </a>
+      <a href="#estudiar" class="nav-link" data-page="estudiar">
+        <span class="nav-icon" aria-hidden="true">📚</span>
+        <span class="nav-label">Estudiar</span>
+      </a>
+      <a href="#calcular" class="nav-link" data-page="calcular">
+        <span class="nav-icon" aria-hidden="true">🧮</span>
+        <span class="nav-label">Calcular</span>
+      </a>
+      <a href="#diagnostico" class="nav-link" data-page="diagnostico">
+        <span class="nav-icon" aria-hidden="true">🩺</span>
+        <span class="nav-label">Diagnóstico</span>
+      </a>
+      <a href="#ia" class="nav-link" data-page="ia">
+        <span class="nav-icon" aria-hidden="true">🤖</span>
+        <span class="nav-label">IA</span>
+      </a>
+      <a href="#generar-guia" class="nav-link" data-page="generar-guia">
+        <span class="nav-icon" aria-hidden="true">📄</span>
+        <span class="nav-label">Generar Guía</span>
+      </a>
+    </div>
+  </header>
+
+  <main class="main">
+    <section id="inicio" class="page active">
+      <h1 class="title">CEO Clínicos</h1>
+      <p class="subtitle">Elige una materia para estudiar</p>
+      <div id="materias-grid" class="materias-grid"></div>
+    </section>
+
+    <section id="estudiar" class="page">
+      <h2>Estudiar</h2>
+      <p>Contenido de estudio disponible en la app. Descarga la aplicación para acceder a preguntas y guías.</p>
+    </section>
+    <section id="calcular" class="page">
+      <h2>Calcular</h2>
+      <p>Calculadoras clínicas (IMC, TFG, Framingham, etc.) disponibles en la app.</p>
+    </section>
+    <section id="diagnostico" class="page">
+      <h2>Diagnóstico</h2>
+      <p>Asistente de diagnóstico por casos clínicos en la app.</p>
+    </section>
+    <section id="ia" class="page">
+      <h2>IA</h2>
+      <p>Herramientas con IA en la aplicación CEO Clínicos.</p>
+    </section>
+    <section id="generar-guia" class="page">
+      <h2>Generar Guía</h2>
+      <p>Genera guías en PDF desde la app.</p>
+    </section>
+  </main>
+
+  <script src="content-paths.js"></script>
+  <script src="temas-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
