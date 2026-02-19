@@ -16,21 +16,23 @@
     grid.innerHTML = '';
     items.forEach(function (item) {
       var nombre = typeof item === 'string' ? item : (item.name || item.id || '');
-      var a = document.createElement('a');
-      a.className = 'materia-card materia-btn';
-      a.href = '#quiz-materia';
-      a.setAttribute('data-page-link', 'quiz-materia');
-      if (item && item.id) a.setAttribute('data-category-id', item.id);
-      a.innerHTML = '<p class="materia-titulo">' + escapeHtml(nombre) + '</p>';
-      a.addEventListener('click', function (e) {
+      var btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'materia-card materia-btn';
+      btn.setAttribute('data-page-link', 'quiz-materia');
+      if (item && item.id) btn.setAttribute('data-category-id', item.id);
+      btn.innerHTML = '<p class="materia-titulo">' + escapeHtml(nombre) + '</p>';
+      btn.addEventListener('click', function (e) {
         e.preventDefault();
+        e.stopPropagation();
         var catId = item.id || (nombre === 'Verdadero/Falso' ? 'true_false_general' : slugFromName(nombre));
         window.selectedQuizCategory = { id: catId, name: nombre };
-        if (typeof showPage === 'function') showPage('quiz-materia');
+        showPage('quiz-materia');
         if (typeof updateQuizMateriaPage === 'function') updateQuizMateriaPage();
         location.hash = 'quiz-materia';
+        return false;
       });
-      grid.appendChild(a);
+      grid.appendChild(btn);
     });
   }
 

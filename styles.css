@@ -217,6 +217,14 @@ body {
   padding-right: 16px;
   text-align: center;
 }
+button.materia-card {
+  margin: 0;
+  width: 100%;
+  cursor: pointer;
+  font: inherit;
+  -webkit-appearance: none;
+  appearance: none;
+}
 .materia-card.materia-btn .materia-titulo { margin: 0; }
 
 .materia-card {
