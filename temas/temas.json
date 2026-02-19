@@ -1,0 +1,334 @@
+{
+  "temas": [
+    {
+      "id": "hipertension_arterial",
+      "titulo": "Hipertensión Arterial",
+      "descripcion": "Elevación persistente de la presión arterial",
+      "pdfUrl": "https://www.dropbox.com/scl/fi/egaj7j3d6mqk1lopod4oc/Guia-Hipertensi-n-Arterial-Clinicos.pdf?rlkey=go3vt1w0z554hh6p8acpp5jt6&st=9tnn1t91&dl=1",
+      "precioPildoras": "barato",
+      "numPreguntas": 50,
+      "etiquetas": ["#cardiologia", "#medicina_interna", "#presion_arterial", "#sistema_cardiovascular"],
+      "tieneGuia": true
+    },
+    {
+      "id": "colecistitis",
+      "titulo": "Colecistitis",
+      "descripcion": "Inflamación de la vesícula biliar aguda y crónica",
+      "pdfUrl": "https://www.dropbox.com/scl/fi/anh5fmxxktioc7wzvbup0/1.-Guia-Colecistitis.pdf?rlkey=w40cs53d8v6his3sr3vf60t0n&st=hgcfw2qa&dl=1",
+      "precioPildoras": "barato",
+      "numPreguntas": 70,
+      "etiquetas": ["#gastroenterologia", "#cirugia", "#vesicula_biliar", "#abdomen"],
+      "tieneGuia": true
+    },
+    {
+      "id": "anatomia_abdomen",
+      "titulo": "Anatomía del Abdomen",
+      "descripcion": "Estructuras anatómicas del abdomen y su organización",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 313,
+      "etiquetas": ["#anatomia", "#abdomen", "#estructuras", "#organos", "#digestivo"],
+      "tieneGuia": false
+    },
+    {
+      "id": "anatomia_cabeza_cuello",
+      "titulo": "Anatomía Cabeza y Cuello",
+      "descripcion": "Estructuras anatómicas de la cabeza y cuello, incluyendo cráneo, músculos, nervios y vasos",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 200,
+      "etiquetas": ["#anatomia", "#cabeza", "#cuello", "#craneo","#ojo","#cara", "#musculos", "#nervios", "#vasos"],
+      "tieneGuia": false
+    },
+    {
+      "id": "anatomia_dorso",
+      "titulo": "Anatomía del Dorso",
+      "descripcion": "Estructuras anatómicas del dorso, incluyendo columna vertebral, músculos, ligamentos y nervios",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 197,
+      "etiquetas": ["#anatomia", "#dorso", "#columna", "#vertebras", "#musculos", "#ligamentos", "#nervios"],
+      "tieneGuia": false
+    },
+    {
+      "id": "anatomia_miembro_superior",
+      "titulo": "Anatomía de Miembro Superior",
+      "descripcion": "Estructuras anatómicas del miembro superior, incluyendo hombro, brazo, antebrazo y mano",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 200,
+      "etiquetas": ["#anatomia", "#hombro", "#brazo", "#antebrazo", "#mano", "#musculos", "#huesos", "#articulaciones"],
+      "tieneGuia": false
+    },
+    {
+      "id": "anatomia_miembro_inferior",
+      "titulo": "Anatomía de Miembro Inferior",
+      "descripcion": "Estructuras anatómicas del miembro inferior, incluyendo cadera, muslo, pierna y pie",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 199,
+      "etiquetas": ["#anatomia", "#cadera", "#muslo", "#pierna", "#pie", "#musculos", "#huesos", "#articulaciones"],
+      "tieneGuia": false
+    },
+    {
+      "id": "anatomia_pelvis",
+      "titulo": "Anatomía de Pelvis",
+      "descripcion": "Estructuras anatómicas de la pelvis, incluyendo huesos, músculos, órganos y articulaciones",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 219,
+      "etiquetas": ["#anatomia", "#pelvis", "reproductor", "urinario"],
+      "tieneGuia": false
+    },
+    {
+      "id": "anatomia_torax",
+      "titulo": "Anatomía del Tórax",
+      "descripcion": "Estructuras anatómicas del tórax, incluyendo costillas, esternón, músculos intercostales, pulmones y corazón",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 200,
+      "etiquetas": ["#anatomia", "#torax", "#costillas", "#esternon", "#pulmones", "#corazon"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fisiologia_gastrointestinal",
+      "titulo": "Fisiología Gastrointestinal",
+      "descripcion": "Funcionamiento del sistema digestivo, incluyendo digestión, absorción, motilidad y regulación hormonal",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 200,
+      "etiquetas": ["#fisiologia", "#gastrointestinal", "#digestion", "#motilidad", "#enzimas", "#digestivo"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fisiologia_neuromuscular",
+      "titulo": "Fisiología Neuromuscular",
+      "descripcion": "Funcionamiento de la unión neuromuscular, contracción muscular, potenciales de acción y control motor",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 200,
+      "etiquetas": ["#fisiologia", "#neuromuscular", "#músculo", "#contraccion", "#placa_motora", "#acetilcolina", "#unidad_motora"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fisiologia_circulacion",
+      "titulo": "Fisiología de la Circulación",
+      "descripcion": "Funcionamiento del sistema circulatorio, gasto cardíaco, flujo sanguíneo y regulación vascular",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 200,
+      "etiquetas": ["#fisiologia", "#circulacion", "#gasto_cardiaco", "#flujo_sanguineo", "#sistema_cardiovascular"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fisiologia_cardiaca",
+      "titulo": "Fisiología Cardíaca",
+      "descripcion": "Funcionamiento del corazón, sistema de conducción, ciclo cardíaco y regulación del ritmo",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 200,
+      "etiquetas": ["#fisiologia", "#cardiaca", "#corazon", "#marcapasos", "#conduccion", "#ciclo_cardiaco"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fisiologia_renal",
+      "titulo": "Fisiología Renal",
+      "descripcion": "Funcionamiento del riñón, filtración glomerular, reabsorción, secreción y regulación del equilibrio ácido-base",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#fisiologia", "#renal", "#rinon", "#filtracion", "#nefrona", "#equilibrio_hidroelectrolitico"],
+      "tieneGuia": false
+    },
+    {
+      "id": "neurofisiologia",
+      "titulo": "Neurofisiología",
+      "descripcion": "Funcionamiento del sistema nervioso, potenciales de acción, sinapsis, neurotransmisores y procesamiento de información",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#fisiologia", "#neurofisiologia", "#sistema_nervioso", "#potencial_accion", "#sinapsis", "#neurotransmisores"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fisiologia_respiratoria",
+      "titulo": "Fisiología Respiratoria",
+      "descripcion": "Funcionamiento del sistema respiratorio, ventilación pulmonar, intercambio gaseoso y regulación de la respiración",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#fisiologia", "#respiratoria", "#pulmones", "#ventilacion", "#intercambio_gaseoso", "#respiracion"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fisiologia_sanguinea",
+      "titulo": "Fisiología Sanguínea",
+      "descripcion": "Funcionamiento de la sangre, células sanguíneas, transporte de gases, coagulación y función inmunitaria",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#fisiologia", "#sanguinea", "#sangre", "#eritrocitos", "#hemoglobina", "#coagulacion"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fisiologia_dolor",
+      "titulo": "Fisiología del Dolor",
+      "descripcion": "Mecanismos de percepción del dolor, nocicepción, transmisión de señales dolorosas y modulación del dolor",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#fisiologia", "#dolor", "#nocicepcion", "#fibras_nerviosas", "#percepcion", "#transmision"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fisiologia_reproductiva",
+      "titulo": "Fisiología Reproductiva",
+      "descripcion": "Funcionamiento del sistema reproductor, ciclo menstrual, producción de gametos y regulación hormonal",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#fisiologia", "#reproductiva", "#ciclo_menstrual", "#hormonas", "#gametos", "#fertilidad"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fisiologia_deportiva",
+      "titulo": "Fisiología Deportiva",
+      "descripcion": "Adaptaciones del organismo al ejercicio, entrenamiento, metabolismo energético y rendimiento físico",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 200,
+      "etiquetas": ["#fisiologia", "#deportiva", "#ejercicio", "#entrenamiento", "#rendimiento", "#adaptacion"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fisiologia_metabolismo",
+      "titulo": "Fisiología del Metabolismo",
+      "descripcion": "Procesos metabólicos, metabolismo energético, anabolismo, catabolismo y regulación metabólica",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#fisiologia", "#metabolismo", "#energia", "#anabolismo", "#catabolismo", "#tasa_metabolica"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fisiologia_fiebre",
+      "titulo": "Fisiología de la Fiebre",
+      "descripcion": "Mecanismos de la fiebre, termorregulación, respuesta febril, pirógenos y regulación térmica",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#fisiologia", "#fiebre", "#termorregulacion", "#hipotalamo", "#pirogenos", "#temperatura"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fisiologia_endocrina",
+      "titulo": "Fisiología Endocrina",
+      "descripcion": "Funcionamiento del sistema endocrino, hormonas, glándulas endocrinas, regulación hormonal y retroalimentación",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#fisiologia", "#endocrina", "#hormonas", "#glandulas", "#regulacion", "#retroalimentacion"],
+      "tieneGuia": false
+    },
+    {
+      "id": "anestesicos_locales",
+      "titulo": "Anestésicos Locales",
+      "descripcion": "Agentes que bloquean la conducción nerviosa periférica para producir analgesia regional.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#anestesia", "#farmacologia", "#dolor", "#bloqueo_nervioso"],
+      "tieneGuia": false
+    },
+    {
+      "id": "anestesicos_opioides",
+      "titulo": "Anestésicos Opioides",
+      "descripcion": "Uso de opioides como parte de la anestesia para analgesia potente y sedación.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#anestesia", "#opioides", "#analgesia", "#farmacologia"],
+      "tieneGuia": false
+    },
+    {
+      "id": "anestesicos_inhalados",
+      "titulo": "Anestésicos Inhalados",
+      "descripcion": "Agentes volátiles o gaseosos que inducen y mantienen anestesia general por inhalación.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#anestesia", "#gases", "#farmacologia", "#quirurgico"],
+      "tieneGuia": false
+    },
+    {
+      "id": "anestesicos_intravenosos",
+      "titulo": "Anestésicos Intravenosos",
+      "descripcion": "Fármacos administrados IV para inducción rápida de anestesia general.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#anestesia", "#intravenoso", "#farmacologia", "#quirurgico"],
+      "tieneGuia": false
+    },
+    {
+      "id": "ciclo_celular",
+      "titulo": "Ciclo Celular",
+      "descripcion": "Etapas G1, S, G2 y M que regulan crecimiento, replicación y división celular.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 100,
+      "etiquetas": ["#biologia_celular", "#division_celular", "#mitosis", "#interfase"],
+      "tieneGuia": false
+    },
+    {
+      "id": "fertilizacion",
+      "titulo": "Fertilización",
+      "descripcion": "Eventos celulares que siguen al contacto ovocito-espermatozoide y generan el cigoto.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 1,
+      "etiquetas": ["#embriologia", "#reproduccion", "#cigoto", "#biologia_celular"],
+      "tieneGuia": false
+    },
+    {
+      "id": "gametogenesis",
+      "titulo": "Gametogénesis",
+      "descripcion": "Procesos de espermatogénesis y ovogénesis que originan gametos haploides.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 1,
+      "etiquetas": ["#embriologia", "#reproduccion", "#gametos", "#biologia_celular"],
+      "tieneGuia": false
+    },
+    {
+      "id": "diabetes_mellitus",
+      "titulo": "Diabetes Mellitus",
+      "descripcion": "Trastorno metabólico caracterizado por hiperglucemia crónica",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 50,
+      "etiquetas": ["#endocrinologia", "#metabolismo", "#glucosa", "#insulina"],
+      "tieneGuia": false
+    },
+    {
+      "id": "infarto_miocardio",
+      "titulo": "Infarto de Miocardio",
+      "descripcion": "Necrosis del músculo cardíaco por isquemia",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 20,
+      "etiquetas": ["#cardiologia", "#emergencias", "#corazon", "#isquemia"],
+      "tieneGuia": false
+    },
+    {
+      "id": "neumonia",
+      "titulo": "Neumonía",
+      "descripcion": "Inflamación aguda del parénquima pulmonar",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 20,
+      "etiquetas": ["#neumonologia", "#infecciones", "#pulmones", "#respiratorio"],
+      "tieneGuia": false
+    }
+  ]
+}

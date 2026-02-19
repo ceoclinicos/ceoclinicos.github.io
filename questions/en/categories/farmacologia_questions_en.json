@@ -1,0 +1,2193 @@
+{
+  "questions": [
+    {
+      "question": "What does the abbreviation 'bid' mean on a medical order?",
+      "options": [
+        "before meals",
+        "Every hour",
+        "twice a day",
+        "If you need it"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The abbreviation 'bid' comes from the Latin 'bis in die', which translates to 'twice a day'."
+    },
+    {
+      "question": "What is the basic unit of measurement for mass in the SI?",
+      "options": [
+        "The gram",
+        "The mole",
+        "The kilogram",
+        "The liter"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Within the International System of Units (SI), the kilogram is the basic unit for measuring the magnitude of mass."
+    },
+    {
+      "question": "What is 1 milligram (mg) equal to in micrograms?",
+      "options": [
+        "ten micrograms",
+        "One hundred micrograms",
+        "One thousand micrograms",
+        "One hundred thousand micrograms"
+      ],
+      "correctAnswer": 3,
+      "explanation": "One milligram (mg) is equivalent to 1,000 micrograms (mcg), using the prefix milli- representing 0.001 and micro- representing 0.000001."
+    },
+    {
+      "question": "What does it mean that a medication is prescribed 'ad lib'?",
+      "options": [
+        "Only with food",
+        "Freely, as you wish",
+        "just once",
+        "Immediately"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The abbreviation 'ad lib' comes from the Latin 'ad libitum', which indicates that the patient can take the substance or perform the action freely, without specific restrictions."
+    },
+    {
+      "question": "What ratio represents a percentage (%) in liquid solutions?",
+      "options": [
+        "ml per 100 g",
+        "g per 1,000 ml",
+        "g per 100 ml",
+        "mg per 10 ml"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The percentage for a liquid form, unless otherwise specified, indicates the grams of solute (drug) present per 100 ml of solution (weight/volume ratio)."
+    },
+    {
+      "question": "What is the value in milliliters of 1 tablespoon?",
+      "options": [
+        "5 milliliters",
+        "10 milliliters",
+        "15 milliliters",
+        "20 milliliters"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In the domestic sphere, the equivalent of 1 tablespoon is 15 ml, according to the most commonly used volume measurements."
+    },
+    {
+      "question": "What does the prefix 'milli-' indicate in the metric system?",
+      "options": [
+        "one tenth",
+        "one hundredth",
+        "one thousandth",
+        "a thousand"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The prefix 'milli-' has a numerical value of 0.001, which translates to one thousandth."
+    },
+    {
+      "question": "What does 'tid' mean in frequency of administration?",
+      "options": [
+        "Daily",
+        "three times a day",
+        "four times a day",
+        "If you need it"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The abbreviation 'tid' comes from the Latin 'ter in die', which means 'three times a day'."
+    },
+    {
+      "question": "What relationship does the 1:1,000 concentration of adrenaline express?",
+      "options": [
+        "1 mg per 100 ml",
+        "1 g per 1,000 ml",
+        "1 ml per 100 mg",
+        "1,000 g per 1 ml"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The proportion 1:1,000 expresses the amount of drug in grams with respect to the volume in milliliters, meaning 1 g of drug per 1,000 ml of solution."
+    },
+    {
+      "question": "What risk is involved in using abbreviations such as MTX?",
+      "options": [
+        "Dose increase",
+        "Reduced efficiency",
+        "Drug exchange",
+        "Decreased toxicity"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ambiguous abbreviations such as MTX, which can be methotrexate or mitoxantrone, pose a risk due to the possible interchange of medications with different dosages and toxicities."
+    },
+    {
+      "question": "What does the abbreviation 'VO' or 'vo' indicate?",
+      "options": [
+        "Intravenous route",
+        "intramuscular route",
+        "Oral route",
+        "Subcutaneous route"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The abbreviation 'PO' or 'vo' is used in the medical prescription to indicate the administration of the medication by 'Oral Route'."
+    },
+    {
+      "question": "How many drops equal 1 milliliter (ml)?",
+      "options": [
+        "5 drops",
+        "10 drops",
+        "30 drops",
+        "20 drops"
+      ],
+      "correctAnswer": 4,
+      "explanation": "According to domestic volume measurement equivalences, 20 drops are equivalent to 1 ml."
+    },
+    {
+      "question": "What is the approximate normal plasma osmolarity?",
+      "options": [
+        "100 mOsmol/l",
+        "200 mOsmol/l",
+        "400 mOsmol/l",
+        "300 mOsmol/l"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Plasma osmolarity in non-pathological conditions is approximately 300 mOsmol/l, mainly due to sodium."
+    },
+    {
+      "question": "What type of solution is considered isotonic with plasma?",
+      "options": [
+        "Between 200 and 600 mOsmol/l",
+        "Less than 200 mOsmol/l",
+        "More than 600 mOsmol/l",
+        "Less than 100 mOsmol/l"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Solutions with an osmolarity of approximately 300 mOsmol/l are isotonic, but in clinical practice those ranging between 200 and 600 mOsmol/l are considered isotonic."
+    },
+    {
+      "question": "What problem does a peripheral hypertonic solution cause?",
+      "options": [
+        "Hemorrhage",
+        "Vasodilation",
+        "Phlebitis",
+        "Edema"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Very hypertonic solutions (>600 mOsmol/l) cause phlebitis when administered peripherally, so they must be administered centrally."
+    },
+    {
+      "question": "What factor is added to weight and height to calculate SC?",
+      "options": [
+        "Age",
+        "Gender",
+        "Blood pressure",
+        "Size"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Body Surface Area (BS) is calculated from the patient's weight expressed in kilograms and height (height) expressed in centimeters."
+    },
+    {
+      "question": "What does the abbreviation 'prn' mean in a prescription?",
+      "options": [
+        "In the morning",
+        "If you need it",
+        "Nightly",
+        "before sleeping"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The abbreviation 'prn' comes from the Latin 'pro re nata', which means 'if necessary' or 'as needed'."
+    },
+    {
+      "question": "What is the numerical value of the prefix 'micro-'?",
+      "options": [
+        "0.1",
+        "0.01",
+        "0.001",
+        "0.000001"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The prefix 'micro-' (symbol mc, μ) represents one millionth, with a numerical value of 0.000001."
+    },
+    {
+      "question": "What magnitude uses the 'mole' as the basic unit?",
+      "options": [
+        "Mass",
+        "Time",
+        "Volume",
+        "Amount of substance"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The 'mole' (symbol mole) is the basic unit of measurement in the International System (SI) for the magnitude of 'Amount of substance'."
+    },
+    {
+      "question": "How many milliliters are considered in a dessert spoon?",
+      "options": [
+        "two milliliters",
+        "ten milliliters",
+        "five milliliters",
+        "Fifteen milliliters"
+      ],
+      "correctAnswer": 3,
+      "explanation": "One dessert spoon is considered to contain 5 ml of volume, unless otherwise specified in the package insert."
+    },
+    {
+      "question": "Phenobarbital 45 mg/24 h with 15 mg tablets is prescribed. How many tablets should be administered?",
+      "options": [
+        "One tablet",
+        "Two tablets",
+        "Three tablets",
+        "Fifteen tablets"
+      ],
+      "correctAnswer": 3,
+      "explanation": "To calculate the number of tablets, divide the prescribed dose (45 mg) by the dose per tablet (15 mg), resulting in 3 tablets."
+    },
+    {
+      "question": "50 mg of pethidine is required from a 100 mg/2 ml ampoule. How many milliliters are necessary?",
+      "options": [
+        "two milliliters",
+        "one milliliter",
+        "ten milliliters",
+        "fifty milliliters"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The concentration is 100 mg in 2 ml. For 50 mg (half the dose), you need half the volume, which is 1 ml."
+    },
+    {
+      "question": "One tablet has 4 mg of acenocoumarol. If 3 mg is prescribed, what fraction is administered?",
+      "options": [
+        "A quarter of a tablet",
+        "Half compressed",
+        "Three quarters of a tablet",
+        "Whole tablet"
+      ],
+      "correctAnswer": 3,
+      "explanation": "If the 4 mg tablet is scored so that each quarter contains 1 mg, three such quarters, or 3/4 of a tablet, are needed to deliver 3 mg."
+    },
+    {
+      "question": "In the glibenclamide 5 mg, 1-1-1/2 regimen, how many milligrams does the patient take in the last dose?",
+      "options": [
+        "Zero point five mg",
+        "one milligram",
+        "Two point five mg",
+        "five milligrams"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The 1-1-1/2 regimen indicates 1/2 tablet in the last dose. If one tablet is 5 mg, half a tablet is 2.5 mg."
+    },
+    {
+      "question": "Amoxicillin is prescribed at 150 mg/8 h and the suspension is 250 mg/5 ml. How many milliliters are given per dose?",
+      "options": [
+        "five milliliters",
+        "two milliliters",
+        "three milliliters",
+        "one milliliter"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The conversion factor is used: 150 mg × (5 ml / 250 mg) = 3 ml."
+    },
+    {
+      "question": "A 5% glucose serum of 1,000 ml. How many grams of glucose do you receive per day?",
+      "options": [
+        "ten grams",
+        "fifty grams",
+        "fifteen grams",
+        "Twenty five grams"
+      ],
+      "correctAnswer": 2,
+      "explanation": "5% indicates 5 g of glucose per 100 ml. In 1,000 ml (10 times 100 ml), there will be 5 g × 10 = 50 g of glucose."
+    },
+    {
+      "question": "Rifampicin is prescribed at 80 mg/24 h and the suspension is 2%. How many milliliters are administered?",
+      "options": [
+        "Eighty milliliters",
+        "Twenty-four milliliters",
+        "two milliliters",
+        "Four milliliters"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A 2% suspension is 2 g in 100 ml, or 2,000 mg in 100 ml, which is equivalent to 20 mg/ml. For 80 mg: 80 mg / 20 mg/ml = 4 ml."
+    },
+    {
+      "question": "A 20% glucose serum is hypertonic (1,110 mOsmol/l). By what route should it be administered?",
+      "options": [
+        "central route",
+        "Peripheral route",
+        "Both ways",
+        "Preferred peripheral route"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Solutions with osmolarity greater than 600 mOsmol/l are hypertonic and must be administered through a **central line** to avoid phlebitis in peripheral lines."
+    },
+    {
+      "question": "It is prescribed to add 2 g of 20% sodium chloride to a serum. How many milliliters of the solution are needed?",
+      "options": [
+        "two milliliters",
+        "fifty milliliters",
+        "Twenty milliliters",
+        "ten milliliters"
+      ],
+      "correctAnswer": 4,
+      "explanation": "20% concentration means 20 g in 100 ml. For 2 g, calculate: 2 g × (100 ml / 20 g) = 10 ml."
+    },
+    {
+      "question": "A syringe of epinephrine with a 1:1,000 ratio. How many milligrams of epinephrine are in 1 ml?",
+      "options": [
+        "one hundred milligrams",
+        "one milligram",
+        "thousand milligrams",
+        "ten milligrams"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The ratio 1:1,000 means 1 g in 1,000 ml, which is equivalent to 1,000 mg in 1,000 ml, or **1 mg per ml**."
+    },
+    {
+      "question": "30 g of albumin are required and 20% bottles are available. How many milliliters should be administered?",
+      "options": [
+        "One hundred fifty milliliters",
+        "one hundred milliliters",
+        "Twenty milliliters",
+        "six milliliters"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 20% solution has 20 g in 100 ml. For 30g: 30g × (100ml / 20g) = 150ml."
+    },
+    {
+      "question": "How many milliliters of heparin are needed for 25,000 IU if 1 ml contains 5,000 IU?",
+      "options": [
+        "ten milliliters",
+        "two milliliters",
+        "five milliliters",
+        "one milliliter"
+      ],
+      "correctAnswer": 3,
+      "explanation": "To calculate the volume, divide the required dose by the concentration: 25,000 IU / 5,000 IU/ml = 5 ml."
+    },
+    {
+      "question": "A 12 kg patient receives 15 mg/kg of paracetamol. How many milligrams are administered in total?",
+      "options": [
+        "One hundred and fifty mg",
+        "Ninety milligrams",
+        "Two hundred mg",
+        "One hundred and eighty mg"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The total dose is calculated by multiplying the weight by the dose per kilogram: 12 kg × 15 mg/kg = 180 mg."
+    },
+    {
+      "question": "Carboplatin 450 mg in 500 ml is prescribed. What is the concentration in mg/ml?",
+      "options": [
+        "Zero point five mg/ml",
+        "Zero point nine mg/ml",
+        "One point five mg/ml",
+        "One point eight mg/ml"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The concentration is obtained by dividing the total dose by the final volume: 450 mg / 500 ml = 0.9 mg/ml."
+    },
+    {
+      "question": "For carboplatin 450 mg in 500 mL, what is the infusion rate for 1% in 1 hour?",
+      "options": [
+        "Five ml/h",
+        "Forty-five ml/h",
+        "Fifty ml/h",
+        "Zero point nine ml/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1% of 450 mg is 4.5 mg. With a concentration of 0.9 mg/ml, 4.5 mg is in 5 ml. If infused over 1 h, the rate is 5 ml/h."
+    },
+    {
+      "question": "A patient with SC=2 m² receives rituximab 375 mg/m². What is the total dose to be administered?",
+      "options": [
+        "three hundred mg",
+        "Seven hundred fifty mg",
+        "Four hundred mg",
+        "thousand mg"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The dose is calculated by multiplying the dose per body surface area by the SC: 375 mg/m² × 2 m² = 750 mg."
+    },
+    {
+      "question": "According to the technical data sheet, in what volume can 750 mg of rituximab be diluted so that the concentration is between 1-4 mg/ml?",
+      "options": [
+        "Five hundred milliliters",
+        "one hundred milliliters",
+        "fifty milliliters",
+        "thousand milliliters"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When using a volume of 500 ml, the concentration is 750 mg / 500 ml = 1.5 mg/ml, which is within the range 1-4 mg/ml."
+    },
+    {
+      "question": "What is the infusion rate of rituximab 750 mg in 500 mL to deliver 50 mg/h?",
+      "options": [
+        "Forty ml/h",
+        "Thirty ml/h",
+        "Sixty-six ml/h",
+        "Thirty-three point three ml/h"
+      ],
+      "correctAnswer": 4,
+      "explanation": "First find the volume of 50 mg: 50 mg × (500 ml / 750 mg) = 33.33 ml. If this dose is administered over 1 h, the rate is 33.33 ml/h."
+    },
+    {
+      "question": "What is the main purpose of medication packaging?",
+      "options": [
+        "Establish a diagnosis",
+        "Protect against external agents",
+        "Modify physiological functions",
+        "Set the composition"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Packaging, which includes the outer and primary packaging, has the dual function of **protecting** the medication from external agents and guaranteeing its identification and information."
+    },
+    {
+      "question": "What is the name of the written information that accompanies the medication?",
+      "options": [
+        "The label",
+        "The brochure",
+        "The summary",
+        "The prospectus"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The package insert is the written information, written in clear and understandable terms, addressed to the patient or user that accompanies the medication."
+    },
+    {
+      "question": "What are excipients in the composition of a medicine?",
+      "options": [
+        "Active ingredients",
+        "inert substances",
+        "Volatile compounds",
+        "Chemical additives"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Excipients are substances that are mixed with medications and are inert, since they do not have a pharmacological action but rather give them shape and other qualities."
+    },
+    {
+      "question": "What is the storage temperature for thermolabile medications?",
+      "options": [
+        "Between 8 and 15 °C",
+        "At room temperature",
+        "Between 2 and 8 °C",
+        "Below 0°C"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Thermolabile medications are those that require storage in a refrigerator, maintaining a refrigeration temperature of 2 to 8°C."
+    },
+    {
+      "question": "What does the acronym EFG mean on a medication package?",
+      "options": [
+        "Generic pharmaceutical equivalent",
+        "General pharmaceutical specialty",
+        "Guaranteed pharmaceutical standard",
+        "Large pharmacy container"
+      ],
+      "correctAnswer": 1,
+      "explanation": "EFG corresponds to Generic Pharmaceutical Equivalent, which are medications with the same composition, active ingredient and form as an original medication."
+    },
+    {
+      "question": "What is the ATC classification group for the nervous system?",
+      "options": [
+        "Group A",
+        "The L group",
+        "Group C",
+        "The N group"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In the Anatomical Therapeutic Chemical (ATC) classification index established by the WHO, the letter N corresponds to the nervous system group."
+    },
+    {
+      "question": "What is the ATC classification group for the cardiovascular system?",
+      "options": [
+        "Group C",
+        "The H group",
+        "The P group",
+        "The V group"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Anatomical Therapeutic Chemical (ATC) classification system groups the cardiovascular system within the group identified with the letter C."
+    },
+    {
+      "question": "What is the validity of a common medical prescription from the prescription?",
+      "options": [
+        "30 days",
+        "90 days",
+        "6 months",
+        "10 days"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Prescriptions are valid for 10 days from the date of prescription, with exceptions such as individualized vaccines."
+    },
+    {
+      "question": "What is the common maximum treatment duration in a prescription?",
+      "options": [
+        "3 months",
+        "9 months",
+        "1 month",
+        "1 year"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The maximum duration of treatment that can be prescribed in a prescription is 3 months, which can be extended to 6 months in cases of chronic treatments."
+    },
+    {
+      "question": "According to the WHO, what is essential for the rational use of medicines?",
+      "options": [
+        "Minimum doses",
+        "Lowest possible cost",
+        "High frequency",
+        "Parenteral route"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The World Health Organization (WHO) establishes that the patient should receive the medication at the lowest possible cost as part of rational and appropriate use."
+    },
+    {
+      "question": "What should a medical prescription preferably contain?",
+      "options": [
+        "The active ingredient",
+        "The trade name",
+        "The posology",
+        "molecular weight"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The name of the drug in a prescription should preferably be expressed using the international nonproprietary name (INN) of the active ingredient to avoid confusion."
+    },
+    {
+      "question": "What type of prescription is administered at patient request (prn)?",
+      "options": [
+        "single dose",
+        "Continuation",
+        "If you need",
+        "Loading dose"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The prn (pro re nata) order, or 'if necessary', is administered at the discretion and under nursing assessment, at the patient's request."
+    },
+    {
+      "question": "What does the abbreviation 'bid' mean that it is advised not to use in prescriptions?",
+      "options": [
+        "every four hours",
+        "A single dose",
+        "twice a day",
+        "three times a day"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The abbreviation 'bid' (bis in die) means 'twice a day'. It is advised not to use it, like others such as 'tid' or 'qid', to avoid possible medication errors."
+    },
+    {
+      "question": "What should be avoided when preparing medication in the hospital?",
+      "options": [
+        "Use asepsis",
+        "Check expiration",
+        "Prepare a single shift",
+        "Interruptions"
+      ],
+      "correctAnswer": 4,
+      "explanation": "It is essential to avoid interruptions or interference during the medication preparation and administration process to ensure patient safety."
+    },
+    {
+      "question": "What is the first 'correct' thing to do when administering a medication?",
+      "options": [
+        "correct time",
+        "Correct dosage",
+        "correct way",
+        "Correct patient"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The first basic point of the 'five right' is the unambiguous identification of the patient, comparing the information on the bracelet with the medical order."
+    },
+    {
+      "question": "What can cause a missed dose of a drug?",
+      "options": [
+        "Toxicity",
+        "Therapeutic levels",
+        "Withdrawal syndrome",
+        "No action of the drug"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Missing doses may result in drug levels below the therapeutic level (subtherapeutic), which could nullify its expected action."
+    },
+    {
+      "question": "What route of administration is one of the most common, besides oral?",
+      "options": [
+        "Topical",
+        "Rectal",
+        "Intradermal",
+        "Intraperitoneal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The most common routes of administration include oral, sublingual, topical, inhalation and parenteral, depending on the drug."
+    },
+    {
+      "question": "What should the nurse do if the patient questions the drug?",
+      "options": [
+        "Manage without hesitation",
+        "Consult your doctor or pharmacist",
+        "Convince the patient",
+        "Record the refusal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "If the patient or family has questions about the medication, the nurse should not administer it until the situation is clarified by consulting with the doctor or pharmacist."
+    },
+    {
+      "question": "For what situations should verbal medication orders be restricted?",
+      "options": [
+        "Vital urgency",
+        "Chronicity",
+        "Common treatments",
+        "Loading dose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Verbal medication orders should be restricted only to life-threatening situations to minimize the risk of errors."
+    },
+    {
+      "question": "What happens to the medications that the patient brings from home to the hospital?",
+      "options": [
+        "They self-administer",
+        "They are discarded",
+        "They are kept in nursing control",
+        "They are returned to the family"
+      ],
+      "correctAnswer": 3,
+      "explanation": "If the admitted patient brings medications from home, they must be kept in the nursing control to ensure safe and controlled administration."
+    },
+    {
+      "question": "What should be done when detecting a medication error at any stage?",
+      "options": [
+        "Hide it",
+        "Notify it",
+        "Blame the person responsible",
+        "Register it only if there is damage"
+      ],
+      "correctAnswer": 2,
+      "explanation": "It is crucial to report any errors detected, even if they were resolved before reaching the patient, to identify risk situations and improve the system."
+    },
+    {
+      "question": "What is an intermittent intravenous drip system?",
+      "options": [
+        "Simple oral route",
+        "Buretrol calibrated chamber",
+        "intramuscular injection",
+        "blood pressure pump"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Buretrol® system is a calibrated drip chamber used for intermittent intravenous administration, allowing precise control of the volume to be infused, especially useful in pediatrics."
+    },
+    {
+      "question": "What is the standard drip factor of a micro dripper?",
+      "options": [
+        "10 drops per ml",
+        "15 drops per ml",
+        "20 drops per ml",
+        "60 drops per ml"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Micro-droppers are designed to deliver 60 drops per milliliter (60 drop/ml). This facilitates the administration of small volumes at low infusion rates."
+    },
+    {
+      "question": "At what minimum speed is it recommended to use a macro dripper?",
+      "options": [
+        "Less than 50 ml per hour",
+        "Equal or more than 100 ml per hour",
+        "Exclusively 60 ml per hour",
+        "Only 20 ml per hour"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Macro-droppers (large droplets) are usually used if the infusion rate is equal to or greater than 100 ml per hour, since the micro-dropper is preferred for lower rates."
+    },
+    {
+      "question": "Who should prescribe continuous intravenous fluid therapy?",
+      "options": [
+        "The hospital pharmacist",
+        "The head of nursing",
+        "The clinical assistant",
+        "The treating doctor"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The medical order must include the type and amount of solution, as well as the specific time for its administration, with the nurse being in charge of calculating the infusion rate."
+    },
+    {
+      "question": "What is the ATC classification group for blood?",
+      "options": [
+        "Group A",
+        "The L group",
+        "Group B",
+        "The N group"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In the ATC (Anatomical Therapeutic Chemical) classification, the letter B corresponds to Blood and hematopoietic organs."
+    },
+    {
+      "question": "What acronyms indicate that a drug is for hospital use?",
+      "options": [
+        "EFG",
+        "D.H.",
+        "CM",
+        "h"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The acronym H on the packaging of a medicine means that it is for Hospital Use and its dispensing is restricted to this area."
+    },
+    {
+      "question": "What is the maximum treatment duration in a prescription?",
+      "options": [
+        "6 months",
+        "1 month",
+        "1 year",
+        "3 months"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The maximum duration of treatment that can be prescribed in a common prescription is 3 months. It can be extended up to 6 months for chronic treatments."
+    },
+    {
+      "question": "What should the nurse do if the patient questions the drug?",
+      "options": [
+        "Manage without hesitation",
+        "Clarify with the doctor or pharmacist",
+        "Convince the patient to take it",
+        "Record the refusal and that's it"
+      ],
+      "correctAnswer": 2,
+      "explanation": "If the patient or his or her family has doubts or questions the medication, the nurse should clarify the situation by consulting with the doctor or pharmacist before administering it."
+    },
+    {
+      "question": "What is the purpose of excipients?",
+      "options": [
+        "Be the active principle",
+        "Give shape and consistency",
+        "Increase toxicity",
+        "Modify the dosage"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Excipients are inert substances that are mixed with the active ingredients to give them consistency, shape, flavor and other qualities that facilitate their dosage and use."
+    },
+    {
+      "question": "What is the storage temperature for thermolabile products?",
+      "options": [
+        "Between 8 and 15 °C",
+        "At room temperature",
+        "Below 0°C",
+        "Between 2 and 8 °C"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Thermolabile drugs require strict refrigeration conditions, the optimal storage temperature being between 2 and 8 circ."
+    },
+    {
+      "question": "What type of prescription is administered only 'if needed'?",
+      "options": [
+        "single dose",
+        "Continuation",
+        "At nursing discretion",
+        "Loading dose"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The prn (pro re nata) or 'if necessary' order is administered at the discretion of the nursing staff and after an assessment, generally at the patient's request for specific symptoms."
+    },
+    {
+      "question": "What does the abbreviation 'qid' mean in prescription?",
+      "options": [
+        "once a day",
+        "twice a day",
+        "Every 12 hours",
+        "four times a day"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The abbreviation 'qid' (quater in die) translates to 'four times a day', which generally implies administration every 6 hours. Its use is discouraged due to risk of error."
+    },
+    {
+      "question": "What is the validity of a common medical prescription?",
+      "options": [
+        "30 days",
+        "90 days",
+        "10 days",
+        "6 months"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Medical prescriptions are valid for 10 calendar days from the date of their prescription, a period during which they must be dispensed."
+    },
+    {
+      "question": "How do you know the information that comes with the medication?",
+      "options": [
+        "The label",
+        "The prospectus",
+        "The summary",
+        "The posology"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The package insert is the written information addressed to the patient that accompanies the medication, including details on indications, dosage and adverse effects."
+    },
+    {
+      "question": "Which ATC group corresponds to the digestive system?",
+      "options": [
+        "Group P",
+        "Group D",
+        "Group H",
+        "Group A"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The ATC classification uses the letter A to identify medications that act on the digestive system and metabolism."
+    },
+    {
+      "question": "What volume is added to clean the Buretrol®?",
+      "options": [
+        "5 ml of solution",
+        "15 ml of solution",
+        "50 ml of solution",
+        "100 ml of solution"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Once the drug infusion through the Buretrol® system is complete, 15 ml of solution should be added to clean the chamber and tube, ensuring that the full dose is administered."
+    },
+    {
+      "question": "What should be strictly avoided when preparing medication?",
+      "options": [
+        "Check expiration",
+        "Use aseptic technique",
+        "Interruptions or interference",
+        "Prepare a single shift"
+      ],
+      "correctAnswer": 3,
+      "explanation": "For safe administration, it is essential to minimize the risk of errors by avoiding interruptions or interference during medication preparation."
+    },
+    {
+      "question": "What does the acronym EFG indicate on a medication?",
+      "options": [
+        "Guaranteed pharmaceutical specialty",
+        "Generic pharmaceutical equivalent",
+        "General pharmaceutical standard",
+        "Large pharmacy container"
+      ],
+      "correctAnswer": 2,
+      "explanation": "EFG corresponds to Generic Pharmaceutical Equivalent, a medicine with the same composition, pharmaceutical form and active ingredient as a brand name."
+    },
+    {
+      "question": "What is the first 'right' of secure management?",
+      "options": [
+        "correct time",
+        "Correct dosage",
+        "correct way",
+        "Correct patient"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The first pillar of the 'five right' is to verify the patient's identity unequivocally, comparing the information on the bracelet with the medical order."
+    },
+    {
+      "question": "What is considered a macro dripper in drops per milliliter?",
+      "options": [
+        "60 drops per ml",
+        "35 drops per ml",
+        "45 drops per ml",
+        "10, 15 or 20 drops per ml"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Macro drippers are infusion systems that administer large drops and their drip factor is 10, 15 or 20 drops per milliliter."
+    },
+    {
+      "question": "What is the unit of measurement for the rate of administration of an IV solution?",
+      "options": [
+        "Milliliters per hour",
+        "Drops per milliliter",
+        "Drops per minute",
+        "Milliliters per minute"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The rate of administration for intravenous infusions should be calculated and expressed in drops per minute (got/min). This is crucial for precise control of the infusion."
+    },
+    {
+      "question": "What is the name of 0.9% sodium chloride solution?",
+      "options": [
+        "Hypertonic serum",
+        "Glucose dextrose",
+        "Normal saline",
+        "Water for injection"
+      ],
+      "correctAnswer": 3,
+      "explanation": "0.9% sodium chloride solution is commonly known as normal saline (SN) or physiological saline (SF), being an isotonic solution."
+    },
+    {
+      "question": "What term describes a solution with a lower osmolarity than blood serum?",
+      "options": [
+        "Isotonic",
+        "Hypertonic",
+        "Normal",
+        "Hypotonic"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A solution is classified as hypotonic if it has a lower osmolarity or tonicity than blood or serum, which can influence the movement of body fluids."
+    },
+    {
+      "question": "What is the most superficial injectable route of administration?",
+      "options": [
+        "Intramuscular (IM)",
+        "Intravenous (IV)",
+        "Subcutaneous (SC)",
+        "Intradermal (ID)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The intradermal (ID) route is administered just under the skin, and is commonly used for diagnostic tests, such as tuberculin testing."
+    },
+    {
+      "question": "Which gauge needle has the largest lumen diameter?",
+      "options": [
+        "26 caliber",
+        "18 gauge",
+        "22 caliber",
+        "19 gauge"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In the needle gauge system, the larger the number, the smaller the lumen diameter; therefore, the 18 gauge has the largest lumen of those mentioned."
+    },
+    {
+      "question": "What angle is used for intramuscular (IM) injection?",
+      "options": [
+        "From 10 to 15 degrees",
+        "From 45 to 90 degrees",
+        "45 degrees",
+        "90 degrees"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The intramuscular (IM) injection is given at a 90-degree angle to ensure that the medication reaches the muscle tissue."
+    },
+    {
+      "question": "What is an advantage of the inhalation route for medications?",
+      "options": [
+        "Difficult administration technique",
+        "Minimum concentrations in plasma",
+        "Occurrence of candidiasis",
+        "Hepatic first pass effect"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A significant advantage of the inhalation route is that it generates minimal concentrations of the drug in plasma, which reduces the possibility of systemic side effects."
+    },
+    {
+      "question": "What percentage of a pressurized cartridge reaches the lungs?",
+      "options": [
+        "Approximately 5%",
+        "less than 10%",
+        "Between 10 and 20%",
+        "Up to 30%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "It is estimated that only 10-20% of the drug contained in a pressurized cartridge (aerosol) actually reaches the patient's lungs."
+    },
+    {
+      "question": "What improves the lung deposition of a pressurized cartridge?",
+      "options": [
+        "dry powder inhaler",
+        "Ultrasonic nebulizer",
+        "Cartridge without propellant",
+        "inhalation chamber"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The inhalation chamber is an extender accessory that facilitates coordination and, as a result, increases pulmonary deposition of the inhaled drug."
+    },
+    {
+      "question": "What is the main purpose of nasal spray and drops?",
+      "options": [
+        "Rapid systemic absorption",
+        "Immediate and local effect",
+        "Glaucoma treatment",
+        "Relieve chronic cough"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The nasal route, through spray or drops, seeks an immediate and local effect, mainly to relieve nasal congestion and reduce inflammation of the membranes."
+    },
+    {
+      "question": "What condition is required for a transdermal drug?",
+      "options": [
+        "High molecular weight",
+        "Lipophilia",
+        "Water solubility",
+        "Liver metabolism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "For a medication to be effective transdermally (patch), it must have an essential characteristic such as lipophilicity (affinity for fats) to be able to pass through the skin."
+    },
+    {
+      "question": "How long do you throw away an opened container of eye drops?",
+      "options": [
+        "After 3 days",
+        "At 24 hours",
+        "per month",
+        "After 7 days"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Opening a container of eye drops causes the loss of its sterility, so it must be discarded after 7 days of use, being for individualized use."
+    },
+    {
+      "question": "Where is the atrium pushed when applying ear drops in adults?",
+      "options": [
+        "Down and back",
+        "only down",
+        "Up and back",
+        "only up"
+      ],
+      "correctAnswer": 3,
+      "explanation": "To properly align the ear canal in adults, and allow droplets to pass through, the atrium must be pushed up and back."
+    },
+    {
+      "question": "What characteristic primarily distinguishes ointments from creams?",
+      "options": [
+        "They apply more easily",
+        "They have more water soluble",
+        "Greater fat component",
+        "They wash better"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ointments differ by containing a higher percentage of fatty component (liposolubility), which makes them more difficult to wash and apply compared to creams."
+    },
+    {
+      "question": "What position is recommended for the patient when applying a rectal suppository?",
+      "options": [
+        "Supine position",
+        "Sitting with knees together",
+        "Prone position",
+        "Left lateral decubitus"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The method of suppository application requires placing the patient in the left lateral decubitus position with knees flexed to facilitate insertion."
+    },
+    {
+      "question": "What is a 'medication error' in the hospital?",
+      "options": [
+        "Avoidable adverse effect",
+        "Any preventable incident",
+        "Non-avoidable adverse effect",
+        "Just prescription errors"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Medication error' is any preventable incident that occurs in any of the interdependent processes of the hospital's medication use system."
+    },
+    {
+      "question": "How are high-risk medications (MAR) defined?",
+      "options": [
+        "Drugs with many effects",
+        "The most used in ICU",
+        "Those that cause serious harm",
+        "Recently used drugs"
+      ],
+      "correctAnswer": 3,
+      "explanation": "High-risk medications are those that have a higher chance of causing serious harm, including death, when used incorrectly."
+    },
+    {
+      "question": "What is a specific high-risk medication according to the ISMP?",
+      "options": [
+        "oral paracetamol",
+        "Potassium chloride IV concentrate",
+        "Normal saline",
+        "Common antibiotics"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Intravenous (IV) potassium chloride concentrated solution is considered a high-risk medication due to the potential to cause serious harm if administered incorrectly."
+    },
+    {
+      "question": "Which strategy is most effective to avoid medication errors?",
+      "options": [
+        "Training strategies",
+        "Manual double check",
+        "Physical barriers",
+        "Clinical monitoring"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Physical barriers or *forcing functions* are one of the most effective strategies, since they physically prevent or hinder the execution of a task incorrectly, forcing correction."
+    },
+    {
+      "question": "What group of IV drugs is considered high risk?",
+      "options": [
+        "IV antihistamines",
+        "IV inotropic agents",
+        "Parenteral vitamins",
+        "Hypotonic serums"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Intravenous (IV) inotropic agents, such as digoxin or milrinone, are classified as high-risk medications due to their narrow therapeutic margin and high potential for serious harm."
+    },
+    {
+      "question": "What is the maximum amount of medication for IM injection?",
+      "options": [
+        "ten milliliters",
+        "Fifteen milliliters",
+        "five milliliters",
+        "Twenty milliliters"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The maximum recommended amount to be administered by intramuscular (IM) injection is 10 ml. Administering a volume greater than this limit can cause pain and damage to muscle tissue."
+    },
+    {
+      "question": "Why should manual double verification be independent?",
+      "options": [
+        "Avoid confirmation bias",
+        "To save time",
+        "Reduce necessary checkups",
+        "Only for expensive medications"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Double checking should be run independently to avoid confirmation bias. If the reviewer is influenced, they might 'see' what is suggested instead of the actual error."
+    },
+    {
+      "question": "What is the risk in patients with severe plateletopenia for IM injection?",
+      "options": [
+        "deep pain",
+        "Local allergic reaction",
+        "Poor drug absorption",
+        "Formation of a hematoma"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In patients with severe platelet deficiency (platelet deficiency), intramuscular (IM) injection is contraindicated, as tissue injury at the puncture site will result in the formation of a large hematoma due to lack of adequate coagulation."
+    },
+    {
+      "question": "How much is 2.5~ml if the concentration is 20~mg/ml?",
+      "options": [
+        "twenty milligrams",
+        "fifty milligrams",
+        "Twenty-five milligrams",
+        "forty milligrams"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The dose calculation is done by multiplying the volume by the concentration: 2.5~ml imes 20~mg/ml = 50~mg. This amount must be administered to the patient."
+    },
+    {
+      "question": "Who should double check a task?",
+      "options": [
+        "The same person at the end",
+        "A different professional",
+        "Someone with less experience",
+        "The same one that prescribes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The manual double check must be carried out by a person other than the one who performs the initial work. This improves error detection, since humans detect the errors of others better than their own."
+    },
+    {
+      "question": "What technique is used to prevent IM reflux to the skin?",
+      "options": [
+        "Z-Track Technique",
+        "Drag injection",
+        "Needle rotation",
+        "intense compression"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Z-Track technique is used to seal the medication in the muscle and prevent it from flowing back down the needle path into the subcutaneous tissue or skin, reducing irritation."
+    },
+    {
+      "question": "What should not be done with the air bubble in Heparin SC?",
+      "options": [
+        "Push it onto the plunger",
+        "Extract it from the syringe",
+        "Leave it in the syringe",
+        "Massage the site"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The small air bubble in low molecular weight heparin prefilled syringes should not be removed. Its function is to act as a 'seal' to ensure that all the drug is injected and prevent backflow."
+    },
+    {
+      "question": "What side effect is avoided with the Z-Track technique?",
+      "options": [
+        "IV extravasation",
+        "Pain when injecting",
+        "subcutaneous reflux",
+        "thrombophlebitis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The main goal of the Z-Track technique is to prevent reflux of medication, which can be irritating, into the subcutaneous tissue and skin."
+    },
+    {
+      "question": "What should be done when punctured for IV venipuncture?",
+      "options": [
+        "Bevel down",
+        "side bezel",
+        "Bevel up",
+        "Bevel anywhere"
+      ],
+      "correctAnswer": 3,
+      "explanation": "When performing a venipuncture for an intravenous (IV) injection or infusion, the needle should always be inserted with the bevel facing up, facilitating smooth entry into the vein."
+    },
+    {
+      "question": "What happens if a person checks their own work?",
+      "options": [
+        "There is an expectation bias",
+        "Increase speed",
+        "Improves precision",
+        "Reduce bureaucracy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When a person checks their own work, it documents that there is an expectation (or confirmation) bias. This person sees what they expect to see and not the actual mistake made."
+    },
+    {
+      "question": "What is done with the tissue in the Z-Track injection?",
+      "options": [
+        "becomes immobilized",
+        "It pinches and releases",
+        "Stretches laterally",
+        "It is massaged first"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In the Z-Track technique, before puncture, the skin and overlying subcutaneous tissue are stretched or displaced laterally. This creates a zig-zag path that seals in the medication as it releases the skin."
+    },
+    {
+      "question": "What area is used for SC injection of heparins?",
+      "options": [
+        "The upper part of the gluteus",
+        "The upper outer quadrant",
+        "The deltoid muscle",
+        "Abdominal subcutaneous tissue"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The most common and recommended site for subcutaneous (SC) injection of low molecular weight heparins is the abdominal subcutaneous tissue, avoiding the periumbilical area."
+    },
+    {
+      "question": "What is the minimum amount of volume that the drip alters?",
+      "options": [
+        "five milliliters",
+        "ten milliliters",
+        "Twenty milliliters",
+        "fifty milliliters"
+      ],
+      "correctAnswer": 3,
+      "explanation": "When a drug is added to an IV solution, if the added volume is greater than 20 ml, this should be added to the initial volume of the serum, as the infusion rate could significantly vary."
+    },
+    {
+      "question": "What is the angle for subcutaneous administration?",
+      "options": [
+        "ten degrees",
+        "ninety degrees",
+        "Forty-five degrees",
+        "Both 45 and 90 degrees"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The administration angle for the subcutaneous (SC) route can be 45 degrees (if the tissue is pinched or the needle is long) or 90 degrees (if a short needle is used or in patients with more fat)."
+    },
+    {
+      "question": "What is clinical monitoring for high risk?",
+      "options": [
+        "Detect toxicity",
+        "Avoid pain",
+        "Confirm the drug",
+        "Reduce costs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Clinical monitoring is a measure used to detect possible toxicity or adverse effects in the event that a high-risk medication error has reached the patient."
+    },
+    {
+      "question": "What should be documented after an IM injection?",
+      "options": [
+        "The color of the vial",
+        "Lot number",
+        "The patient's condition",
+        "The applied technique"
+      ],
+      "correctAnswer": 4,
+      "explanation": "After administration of any medication, it is essential to document the technique used, including the injection site and angle, especially in parenteral routes."
+    },
+    {
+      "question": "What is the name of the Heparin SC air bubble?",
+      "options": [
+        "pressure bubble",
+        "Sealing bubble",
+        "air bubble",
+        "Prefilled syringe"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The air bubble is known as a 'seal bubble' or 'air seal' due to its function of preventing reflux of the medication upon completion of subcutaneous dose administration."
+    },
+    {
+      "question": "What type of strategy is barcoding on IV pumps?",
+      "options": [
+        "Manual double check",
+        "Training strategy",
+        "Automated check",
+        "restrictive barrier"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The use of the barcode on infusion pumps to verify the identity of the patient and the medication is classified as an automated double check system."
+    },
+    {
+      "question": "What can cause error if the value is suggested to the reviewer?",
+      "options": [
+        "Expectancy bias",
+        "Judgment bias",
+        "Sample bias",
+        "Training bias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Suggesting to the professional reviewer what they should find (e.g. 'check that there are 5 units') conditions their judgment and generates an expectation bias, decreasing the effectiveness of the check."
+    },
+    {
+      "question": "What is the main benefit of smart pumps?",
+      "options": [
+        "Allow rapid dripping",
+        "Include databases",
+        "Do not require checkup",
+        "Use rechargeable batteries"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Smart delivery pumps include drug libraries or databases that contain dosage limits and infusion rates, significantly increasing process safety."
+    },
+    {
+      "question": "What happens when Propofol is administered rapidly via IV?",
+      "options": [
+        "Pressure increases",
+        "Euphoria occurs",
+        "Hypotension is generated",
+        "Increases heart rate"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rapid administration of the drug **Propofol** intravenously (IV) has the risk of inducing **hypotension** (low blood pressure), which can trigger cardiorespiratory arrest (CAP)."
+    },
+    {
+      "question": "When is rapid insulin administered to a type 1 diabetic patient?",
+      "options": [
+        "after meals",
+        "According to the exact clock",
+        "before meals",
+        "Whenever"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The administration of **rapid insulin** in patients with type 1 diabetes should be coordinated with the patient's meal times. It is generally administered **before meals** and after performing a capillary blood glucose test."
+    },
+    {
+      "question": "What should accompany the administration of rapid insulin?",
+      "options": [
+        "liquid diet",
+        "Continuous monitoring",
+        "Previous capillary glucose",
+        "Rest in bed"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The rapid insulin administration schedule requires **performing a capillary blood glucose test** before its injection to determine the appropriate dose according to the patient's blood sugar level."
+    },
+    {
+      "question": "What should be modified if the IV dose is different from the prescription?",
+      "options": [
+        "The trade name",
+        "The SAD system",
+        "The final dose",
+        "The drip factor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "If the dose to be administered (e.g. perfusions) **does not coincide** with what is scheduled, the quantity must be **modified in the SAD system** (Automated Dispensing System) to ensure traceability and the correct dose."
+    },
+    {
+      "question": "What is a short-acting medication in insulin therapy?",
+      "options": [
+        "regular insulin",
+        "NPH insulin",
+        "Insulin Glargine",
+        "Insulin Degludec"
+      ],
+      "correctAnswer": 1,
+      "explanation": "**Regular insulin** (also known as soluble or 'rapid' insulin) is used to meet immediate glucose needs and has a rapid onset of action and short duration."
+    },
+    {
+      "question": "What should the SAD professional remove by the scheduled time?",
+      "options": [
+        "All stock available",
+        "IV antibiotics only",
+        "Whole day medications",
+        "Only those at the scheduled time"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The healthcare professional must remove from the Automated Dispensing System (SAD) **only the medications that are going to be administered at the scheduled time**, and not the medication from subsequent hours."
+    },
+    {
+      "question": "What can rapid IV administration of Fentanyl do?",
+      "options": [
+        "Nausea and vomiting",
+        "Focal seizures",
+        "Muscle stiffness",
+        "malignant hyperthermia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "**Fentanyl**, a potent opioid, if administered rapidly IV, can trigger the adverse effect of **muscle rigidity** affecting the patient's chest wall and ventilation."
+    },
+    {
+      "question": "What is a benefit of the SAD automated system?",
+      "options": [
+        "Reduce documentation",
+        "Reduce costs",
+        "Increase stocks",
+        "View the prescription"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A key benefit of the SAD is that, when picking up the medication, the screen displays **complete information about the electronic prescription**, including the name, dose and route."
+    },
+    {
+      "question": "Why is it risky to administer Morphic Chloride undiluted?",
+      "options": [
+        "Causes thrombosis",
+        "Due to its alkalinity",
+        "Generates local pain",
+        "Due to its acidic pH"
+      ],
+      "correctAnswer": 4,
+      "explanation": "**Morphic Chloride** (morphine) in its ampoule presentation has an **acidic pH** (approximately 3) and must be diluted before intravenous administration to avoid venous irritation or phlebitis."
+    },
+    {
+      "question": "What is selected in the SAD for emergencies?",
+      "options": [
+        "Search prescription",
+        "Enter dose",
+        "Ignore prescription",
+        "Review the patient"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In order to pick up medications that are needed in an **emergency** or that are not electronically prescribed at that time, the **'Ignore prescription'** option must be selected in the SAD."
+    },
+    {
+      "question": "What is used to search for a non-prescribed medication in SAD?",
+      "options": [
+        "Trade name only",
+        "Lot number only",
+        "Dose identification",
+        "Generic or commercial"
+      ],
+      "correctAnswer": 4,
+      "explanation": "When picking up a non-prescribed medication in the SAD, you can search by **generic or commercial name**, by clicking on the corresponding option in the system."
+    },
+    {
+      "question": "What is the most serious complication of rapid IV Propofol?",
+      "options": [
+        "respiratory arrest",
+        "Severe nausea",
+        "Hypersensitivity",
+        "internal bleeding"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The most serious complication derived from hypotension induced by the rapid administration of Propofol is cardiorespiratory arrest (CPA)."
+    },
+    {
+      "question": "How is Morphic Chloride diluted for IV use?",
+      "options": [
+        "pure distilled water",
+        "5% glucose serum",
+        "Sodium bicarbonate",
+        "Physiological serum"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Due to its acidic pH, Morphic Chloride (morphine) must be diluted in saline solution (0.9% sodium chloride) before intravenous administration to mitigate venous irritation."
+    },
+    {
+      "question": "What type of insulin is ultra-slow acting?",
+      "options": [
+        "Detemir",
+        "Lispro",
+        "Glulisine",
+        "NPH"
+      ],
+      "correctAnswer": 1,
+      "explanation": "**Insulin Detemir** (Levemir) is an example of **long-acting** (ultra-slow) insulin, used for the basal (background) dose of insulin."
+    },
+    {
+      "question": "What happens if a drug is not included in the SAD?",
+      "options": [
+        "The patient buys it",
+        "Removed from warehouse",
+        "It is administered orally",
+        "Pharmacy deposits it"
+      ],
+      "correctAnswer": 4,
+      "explanation": "When a medication is prescribed and **is not included in the SAD**, the Pharmacy Service is in charge of **depositing** it in drawers enabled for subsequent use by the nursing staff."
+    },
+    {
+      "question": "What should the nurse do if she only removed some of the SAD medication?",
+      "options": [
+        "Press 'Patient List'",
+        "Press 'Withdraw now'",
+        "Wait for the doctor",
+        "Select 'Next medication'"
+      ],
+      "correctAnswer": 4,
+      "explanation": "If the patient needs more medication after removing a non-prescribed drug, the nurse must select the **'Next medication'** option to continue the dispensing process."
+    },
+    {
+      "question": "Why is the infusion pump used for Fentanyl?",
+      "options": [
+        "Avoid toxicity",
+        "Reduce consumption",
+        "Manage faster",
+        "Dosage accurately"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Because rapid administration of Fentanyl can cause serious adverse effects such as rigidity, it is imperative to use an **infusion pump** to **dose it accurately** and slowly."
+    },
+    {
+      "question": "What should be pressed after removing SAD medication?",
+      "options": [
+        "Close the drawer",
+        "Shut down the system",
+        "Call the doctor",
+        "Wait 10 minutes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After removing the medication from the corresponding drawer, it is an essential part of the security process to **close the drawer** of the Automated Dispensing System (ASD)."
+    },
+    {
+      "question": "What is the ideal route of administration for Propofol?",
+      "options": [
+        "Intramuscular",
+        "Subcutaneous",
+        "Intravenous",
+        "Intradermal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "**Propofol** is an anesthetic and sedative agent that should be administered exclusively **intravenously** (IV), generally by controlled infusion."
+    },
+    {
+      "question": "What type of insulin requires scheduling?",
+      "options": [
+        "rapid insulin",
+        "basal insulin",
+        "slow insulin",
+        "medium insulin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The administration of **rapid insulin** (or ultra-rapid acting) is the one that requires **strict coordination with meal times** to avoid episodes of hypoglycemia."
+    },
+    {
+      "question": "What is the main function of SADs?",
+      "options": [
+        "Store instruments",
+        "Centralize prescriptions",
+        "Administer medication",
+        "Replenish serums"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Automatic Dispensing Systems (ADS) simplify the medication centralization process, including medical prescriptions in a single access point, improving access to drugs."
+    },
+    {
+      "question": "What action to take if the unit is higher?",
+      "options": [
+        "Modify the quantity",
+        "Remove what it indicates",
+        "Never modify data",
+        "Manage units"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The amount to be withdrawn in the SAD system must be modified to avoid creating medication discrepancies and ensure that the correct dose is administered to the patient."
+    },
+    {
+      "question": "For how many hours does the SDMDU provide?",
+      "options": [
+        "24 hours",
+        "12 hours",
+        "48 hours",
+        "8 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Unit Dose Medication Dispensing System (SDMDU) dispenses to cover the patient's treatment needs during a 24-hour period, as established in the medical prescription."
+    },
+    {
+      "question": "What registration is legal for nursing?",
+      "options": [
+        "The SAD system",
+        "The auxiliary register",
+        "The medical prescription",
+        "The control sheet"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The legal record of administration by nursing is the nursing administration record, which in turn is based on the medical prescription, since the SAD is only a medication dispenser."
+    },
+    {
+      "question": "When to stop SAD medication?",
+      "options": [
+        "By administration hours",
+        "At the beginning of the day",
+        "All the medication together",
+        "Without looking at the time"
+      ],
+      "correctAnswer": 1,
+      "explanation": "To ensure safe administration, the medication must be removed from the SAD at the scheduled times. Medications corresponding to later hours should not be removed."
+    },
+    {
+      "question": "What should be checked when withdrawing a drug?",
+      "options": [
+        "Name and dosage",
+        "Route and expiration",
+        "Only the patient",
+        "They are all correct"
+      ],
+      "correctAnswer": 4,
+      "explanation": "When removing a medication from SAD, it is crucial to verify the drug name, dosage, route of administration, and expiration date to ensure safe and correct administration."
+    },
+    {
+      "question": "What to do if the patient is allergic?",
+      "options": [
+        "Remove and notify doctor",
+        "Do not withdraw, do not notify",
+        "Notify the patient",
+        "Do not remove and notify doctor"
+      ],
+      "correctAnswer": 4,
+      "explanation": "If it is detected that a patient is allergic to the prescribed medication, the correct action is not to withdraw the drug from the SAD and immediately notify the doctor to guarantee the patient's safety."
+    },
+    {
+      "question": "What to do if the dose does not match?",
+      "options": [
+        "Withdraw SAD dose",
+        "Modify the quantity",
+        "Never modify SAD",
+        "Always modify"
+      ],
+      "correctAnswer": 2,
+      "explanation": "When the drug dose does not match the quantity to be withdrawn (for example, in the case of infusions or dose changes), the quantity in the SAD system must be modified to avoid discrepancies and record the actual output."
+    },
+    {
+      "question": "What happens if you withdraw more units?",
+      "options": [
+        "Increase the quantity",
+        "Replacement is not reported",
+        "Empty drawer reports stock",
+        "They are all correct"
+      ],
+      "correctAnswer": 4,
+      "explanation": "If more units than indicated are removed without modifying the quantity in the system, multiple discrepancies are generated: the system reports more quantity than the actual quantity, does not notify the Pharmacy Service for replenishment in time and the drawer will be empty when the system still indicates stock, requiring a call to the pharmacy."
+    },
+    {
+      "question": "What to do with suspended medication?",
+      "options": [
+        "Return to SAD",
+        "Put in the trash",
+        "Return to Pharmacy",
+        "Save for later"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The withdrawn medication that has been suspended must be returned to the SAD. This is crucial for safety and to discount the patient's consumption of the drug, maintaining precise inventory control."
+    },
+    {
+      "question": "What to do with expired drugs?",
+      "options": [
+        "Manage if it is a month",
+        "Dispose of in the trash",
+        "Immediately notify Pharmacy",
+        "Leave it in the drawer"
+      ],
+      "correctAnswer": 3,
+      "explanation": "When an expired drug is detected in the SAD, the Pharmacy Service must be immediately notified so that they can proceed to remove it and dispose of it safely in a specific container."
+    },
+    {
+      "question": "What to do for incorrect presentation?",
+      "options": [
+        "Administer with 2 punctures",
+        "Do not remove and write down",
+        "It is an error in the prescription",
+        "Notify doctor or pharmacist"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In the event of a discrepancy in presentation (such as the heparin in the example), the most correct action is to notify the doctor or pharmacist so that they can modify the patient's prescription, allowing for correct withdrawal and administration."
+    },
+    {
+      "question": "Is the location of the drug relevant?",
+      "options": [
+        "It is always relevant",
+        "It is not relevant",
+        "Only in antibiotics",
+        "Only for inexperienced"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The information on the exact location of the drug (drawer and subdivision) provided by the SAD is relevant, since it increases safety by avoiding confusion with other medications and in some cases restricts the withdrawal to that single drug."
+    },
+    {
+      "question": "What is the ideal location of the SAD?",
+      "options": [
+        "Away from hallways and close",
+        "In the hallway and away",
+        "Away from hallways and away",
+        "Together with the supervisor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Institute for the Safe Use of Medications (ISMP) advises that the SAD be located away from hallways to minimize interruptions to the user and close to patients to facilitate administration."
+    },
+    {
+      "question": "Who decides which drugs will have SAD?",
+      "options": [
+        "Pharmacists only",
+        "Only the supervisor",
+        "Doctors and nurses",
+        "They are all correct"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The decision about the medications that a SAD should contain is made by a multidisciplinary team that includes pharmacists, doctors, nurses and other users, making it easier for the system to have the necessary medication."
+    },
+    {
+      "question": "What does SAD need to function?",
+      "options": [
+        "Power and computer network",
+        "Current and other SAD",
+        "Battery and only wifi",
+        "Computer network only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For proper operation, the SAD system requires an electrical outlet and a connection to the hospital's computer network in order to receive and send information about prescriptions and medication withdrawals."
+    },
+    {
+      "question": "Do narcotics require setup?",
+      "options": [
+        "No, they do not require",
+        "Yes, specific",
+        "They are located with several",
+        "cannot be placed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Narcotics do require a specific configuration within the SADs, being located in drawers that can be configured to show only the units to be removed, which provides strict access and registration control."
+    },
+    {
+      "question": "Which boxes contain multiple doses?",
+      "options": [
+        "Mini Drawer",
+        "Cubie and Carousel",
+        "Thermolabile",
+        "Matrix"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Cubie and Carousel boxes of the Medstation system allow several units of the same drug to be contained, which provides greater security when removing the medication."
+    },
+    {
+      "question": "Do users have different privileges?",
+      "options": [
+        "All the same",
+        "Medical privileges only",
+        "Different privileges",
+        "Pharmacy privileges only"
+      ],
+      "correctAnswer": 3,
+      "explanation": "SADs allow you to configure differentiated access. Each user group, such as nurses, doctors or clinical assistants, has different medication access and withdrawal privileges depending on their role and hospital policies."
+    },
+    {
+      "question": "What does good SAD operation require?",
+      "options": [
+        "Discipline in its use",
+        "Discipline in replacement",
+        "Discipline in retreat",
+        "Discipline in prescription"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Discipline in use by **all** users is an essential requirement to guarantee the correct management of medications and the general good functioning of the Automatic Dispensing Systems."
+    },
+    {
+      "question": "What does the Harris-Benedict formula calculate?",
+      "options": [
+        "Basal caloric requirements",
+        "Total body fat",
+        "Protein stress level",
+        "Glucose concentration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Harris-Benedict formula is a standard method to estimate a patient's basal energy expenditure, considering variables such as weight, height, sex and age."
+    },
+    {
+      "question": "What is the simple estimate for adult calorie intake?",
+      "options": [
+        "20-35~kcal/kg/day",
+        "10-15~kcal/kg/day",
+        "40-50~kcal/kg/day",
+        "50-60~kcal/kg/day"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For a simple calculation in adult patients, the caloric need is estimated in a range of 20 to 35~kcal/kg/day, which should be adjusted according to the level of activity or metabolic stress."
+    },
+    {
+      "question": "What percentage is added for moderate metabolic stress?",
+      "options": [
+        "20% more",
+        "10% more",
+        "30% more",
+        "50% more"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A stress correction factor must be added to the basal caloric requirements. Moderate stress, such as major surgery, involves an approximately 20% increase in energy needs."
+    },
+    {
+      "question": "How many kilocalories does a gram of protein provide?",
+      "options": [
+        "4~kcal",
+        "9~kcal",
+        "7~kcal",
+        "2~kcal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Proteins, administered as solutions of amino acids, are an important source of energy, providing approximately 4~kcal for each gram of protein."
+    },
+    {
+      "question": "What is the protein requirement for a healthy adult?",
+      "options": [
+        "0.75-1~g/kg/day",
+        "0.5~g/kg/day",
+        "1.5-1.75~g/kg/day",
+        "2-2.5~g/kg/day"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For a healthy adult under basal conditions, the recommended protein intake is 0.75 to 1~g of protein per kilogram of body weight per day."
+    },
+    {
+      "question": "What is the protein intake for severe stress?",
+      "options": [
+        "0.75-1~g/kg/day",
+        "1-1.5~g/kg/day",
+        "1.5-1.75~g/kg/day",
+        "1.75-2~g/kg/day"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In situations of high catabolism, such as severe stress or burn patients, the protein requirement increases, reaching 1.75 to 2~g of protein per kilogram of body weight per day."
+    },
+    {
+      "question": "How many grams of protein is equivalent to one gram of nitrogen?",
+      "options": [
+        "5.5~g",
+        "6.25~g",
+        "7.15~g",
+        "8.0~g"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The standard relationship used to calculate nitrogen balance establishes that 6.25~g of protein is equivalent to 1~g of nitrogen."
+    },
+    {
+      "question": "What is the essential function of lipid emulsions?",
+      "options": [
+        "Provide only water",
+        "Prevent hyperglycemia",
+        "Accelerate metabolism",
+        "Source of essential fatty acids"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Lipids not only provide a high energy load, but are also crucial for supplying essential fatty acids that the body cannot synthesize on its own."
+    },
+    {
+      "question": "What maximum percentage of non-protein kilocalories should be lipids?",
+      "options": [
+        "10-20 of the total",
+        "30-40 of the total",
+        "70-80 of the total",
+        "50-60 of the total"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The lipid contribution should be limited, ideally representing between 20 and a maximum of 60 of the total non-protein kilocalories in artificial nutrition."
+    },
+    {
+      "question": "How many kilocalories per gram of lipid does an emulsion provide?",
+      "options": [
+        "4~kcal",
+        "9~kcal",
+        "7~kcal",
+        "10~kcal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fats are the macronutrient with the highest energy density. Lipid emulsions provide approximately 9~kcal for each gram of lipid administered."
+    },
+    {
+      "question": "How much glucose per day prevents ketosis?",
+      "options": [
+        "20~g/day",
+        "50~g/day",
+        "100~g/day",
+        "150~g/day"
+      ],
+      "correctAnswer": 3,
+      "explanation": "To ensure a minimum of energy to the central nervous system and prevent protein catabolism and the appearance of ketosis, a minimum intake of 100~g/day of glucose is required."
+    },
+    {
+      "question": "What is the maximum oxidation rate for glucose?",
+      "options": [
+        "5~mg/kg/min",
+        "3~mg/kg/min",
+        "7~mg/kg/min",
+        "10~mg/kg/min"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The glucose oxidation rate should not exceed 5~mg/kg/min. If glucose is administered at a rate higher than this, its conversion to fat is promoted and the risk of hyperglycemia increases."
+    },
+    {
+      "question": "What is a key indication for total parenteral nutrition?",
+      "options": [
+        "Prolonged digestive rest",
+        "Mild vitamin deficiency",
+        "mild anorexia nervosa",
+        "Post-minor surgery malnutrition"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total Parenteral Nutrition (TPN) is indicated when the use of the gastrointestinal tract is impossible or inadequate, one of the main causes being digestive rest in pathologies such as fistulas or peritonitis."
+    },
+    {
+      "question": "What is the main therapeutic use of acetylcysteine?",
+      "options": [
+        "Dry cough treatment",
+        "Poisoning antidote",
+        "Upper tract anti-inflammatory",
+        "Reduce mucosal viscosity"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Acetylcysteine ​​is a potent mucolytic agent. Its main action is to reduce the viscosity of the mucous secretions of the respiratory system, improving the productivity of cough."
+    },
+    {
+      "question": "For what poisoning is acetylcysteine ​​useful as an antidote?",
+      "options": [
+        "Opiate poisoning",
+        "Digoxin poisoning",
+        "Paracetamol poisoning",
+        "Lithium poisoning"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A vital use of acetylcysteine ​​unrelated to its mucolytic effect is its role as a specific antidote for acute paracetamol and carbon tetrachloride poisoning."
+    },
+    {
+      "question": "What route of administration for acetylcysteine ​​is rarely used?",
+      "options": [
+        "Inhalation route",
+        "Intravenous route",
+        "Endotracheal instillation",
+        "intramuscular route"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Although acetylcysteine ​​ampoules can be administered by multiple routes (IV, inhalation, otic), the intramuscular (IM) route is considered little used in routine practice."
+    },
+    {
+      "question": "What is the concentration of the acetylcysteine ​​ampoule?",
+      "options": [
+        "10~mg/ml",
+        "50~mg/ml",
+        "200~mg/ml",
+        "100~mg/ml"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Acetylcysteine ​​injection ampoules come with a dose of 300~mg in 3~ml of solution, resulting in a concentration of 100~mg per milliliter."
+    },
+    {
+      "question": "When should acetylcysteine ​​be prepared for administration?",
+      "options": [
+        "Hours before administering",
+        "At the start of the shift",
+        "Immediately before use",
+        "can be saved"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A safety rule for acetylcysteine ​​is to prepare it immediately before use. This measurement is important because the drug is sensitive to oxidation once opened or reconstituted."
+    },
+    {
+      "question": "Should acetylcysteine ​​be mixed with another medication in a syringe?",
+      "options": [
+        "Yes, to save punctures",
+        "Only if it is a serum",
+        "Should never be mixed",
+        "Only if it is diluted"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Acetylcysteine ​​should not be mixed with any other medication in the same syringe or container, even before injection, to avoid possible interactions or incompatibilities."
+    },
+    {
+      "question": "How long does direct intravenous injection of acetylcysteine ​​last?",
+      "options": [
+        "less than a minute",
+        "3 to 5 minutes",
+        "10 to 15 minutes",
+        "More than 30 minutes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Direct intravenous injection of acetylcysteine ​​should be administered slowly over a period of 3 to 5 minutes. This speed helps prevent or minimize side effects related to rapid administration."
+    },
+    {
+      "question": "What is the route of choice for adrenaline in anaphylactic shock?",
+      "options": [
+        "Subcutaneous route",
+        "Direct IV route",
+        "intramuscular route",
+        "Intrathecal route"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The intramuscular route is the fastest and most effective for adrenaline in cases of severe anaphylaxis, directly administering between 300 and 500 µg."
+    },
+    {
+      "question": "What fetal risk category does morphine have according to the FDA?",
+      "options": [
+        "Category A",
+        "Category B",
+        "Category D",
+        "Category C"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Morphine is classified in FDA Category \\mathbfC, which implies that its use must be evaluated by risk/benefit."
+    },
+    {
+      "question": "What is a serious long-term side effect of amiodarone?",
+      "options": [
+        "weight gain",
+        "Pulmonary fibrosis",
+        "Hypoglycemia",
+        "mild alopecia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "**Pulmonary fibrosis** is a serious, non-dose-dependent adverse reaction to amiodarone that requires discontinuation of treatment."
+    },
+    {
+      "question": "What route of administration is rarely used for acetylcysteine?",
+      "options": [
+        "IV infusion",
+        "Oral route",
+        "Via aerosol",
+        "intramuscular route"
+      ],
+      "correctAnswer": 4,
+      "explanation": "**Intramuscular** administration is rarely used for acetylcysteine ​​because it can cause local pain due to irritation at the injection point."
+    },
+    {
+      "question": "What is the antidote for paracetamol poisoning?",
+      "options": [
+        "Naloxone IV",
+        "Dopamine bolus",
+        "Acetylcysteine ​​IV",
+        "Flumazenil IM"
+      ],
+      "correctAnswer": 3,
+      "explanation": "**Acetylcysteine** 20% in continuous intravenous infusion is the initial treatment in paracetamol poisoning, acting as an antidote."
+    },
+    {
+      "question": "Which drug is a direct-acting β_1-adrenergic agonist?",
+      "options": [
+        "Morphine",
+        "Flumazenil",
+        "Acetylcysteine",
+        "Dobutamine"
+      ],
+      "correctAnswer": 4,
+      "explanation": "**Dobutamine** is a β_1-adrenergic agonist that increases cardiac output and contractility, being the choice in severe heart failure."
+    },
+    {
+      "question": "What pharmacological group does midazolam belong to?",
+      "options": [
+        "cardiac stimulant",
+        "Opioid antagonist",
+        "non-steroidal anti-inflammatory",
+        "Benzodiazepine"
+      ],
+      "correctAnswer": 4,
+      "explanation": "**Midazolam** is a short-acting benzodiazepine, classified as a hypnotic and sedative, which acts by binding to the GABAergic receptor."
+    },
+    {
+      "question": "How does naloxone work to reverse opioid effects?",
+      "options": [
+        "Inhibits glycogenolysis",
+        "Blocks the Ca^++ channel",
+        "competitive antagonist",
+        "Stimulates β_2 receptors"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Naloxone is a pure opioid antagonist that acts by displacing opioids from the µ, δ and κ receptors, by **competitive** inhibition."
+    },
+    {
+      "question": "What organ is frequently affected by salicylate toxicity?",
+      "options": [
+        "the lung",
+        "The gastric mucosa",
+        "the liver",
+        "the eye"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The most frequent adverse reactions of lysine acetylsalicylate (salicylate) are **gastrointestinal**, affecting the gastric and duodenal mucosa."
+    },
+    {
+      "question": "What side effect is avoided with bronchodilators and acetylcysteine?",
+      "options": [
+        "Hypotension",
+        "Vomiting",
+        "local pain",
+        "Bronchospasm"
+      ],
+      "correctAnswer": 4,
+      "explanation": "If aerosolized acetylcysteine ​​is used, a bronchodilator should be administered beforehand to avoid drug-induced **bronchospastic** phenomena."
+    },
+    {
+      "question": "Which medication increases the risk of arrhythmias with general anesthetics?",
+      "options": [
+        "Dopamine",
+        "Amiodarone",
+        "Adrenalin",
+        "Midazolam"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Coadministration of **adrenaline** with general anesthetics (such as halogenated hydrocarbons) may cause ventricular arrhythmias."
+    },
+    {
+      "question": "Which route of morphine administration requires a long needle?",
+      "options": [
+        "Route IV",
+        "Subcutaneous route",
+        "Intrathecal route",
+        "Epidural route"
+      ],
+      "correctAnswer": 4,
+      "explanation": "**Epidural** infusion of morphine, although it requires a preservative-free presentation, is a route used in pain control."
+    },
+    {
+      "question": "To which pharmacological group does lysine acetylsalicylate belong?",
+      "options": [
+        "Hypnotic",
+        "Anticoagulant",
+        "NSAIDs",
+        "Antidote"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lysine acetylsalicylate is a **Non-Steroidal Anti-inflammatory Drug (NSAID)**, as well as an analgesic and antiplatelet agent."
+    },
+    {
+      "question": "What safety action should be followed with adrenaline in syringe?",
+      "options": [
+        "Save the leftover",
+        "Protect it from heat",
+        "Do not mix other drugs",
+        "Manage very quickly"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An essential safety rule for the administration of adrenaline is to **never mix two medications** in the same syringe."
+    },
+    {
+      "question": "What drug reverses benzodiazepine sedation?",
+      "options": [
+        "Morphine",
+        "Dopamine",
+        "Naloxone",
+        "Flumazenil"
+      ],
+      "correctAnswer": 4,
+      "explanation": "**Flumazenil** is an antagonist that competitively inhibits the action of benzodiazepines, reversing their sedative effect in 30-60 seconds."
+    },
+    {
+      "question": "What is the concentration of adrenaline for a 1/10,000 dilution?",
+      "options": [
+        "1 µg/ml",
+        "10 µg/ml",
+        "0.1mg/ml",
+        "10mg/ml"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A dilution of \\mathbf1/10,000 of adrenaline corresponds to a concentration of \\mathbf0.1~mg/ml (diluting 1~mg/1~ml in 9~ml of 0.9\\% SF)."
+    },
+    {
+      "question": "What type of container should not be used for amiodarone infusion?",
+      "options": [
+        "Glass containers",
+        "PVC packaging",
+        "Syringes",
+        "IV bags"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Amiodarone **should not use PVC containers** for its infusion, so polyvinyl chloride-free material must be used."
+    },
+    {
+      "question": "Which effect of dopamine predominates at low doses (0.5 to 3 µg/kg/min)?",
+      "options": [
+        "Vasoconstriction α_1",
+        "Increased cardiac output",
+        "β_1 lock",
+        "Dopaminergic stimulation"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Low doses of dopamine mainly stimulate **dopaminergic receptors**, increasing renal, mesenteric and cerebral blood flow."
+    },
+    {
+      "question": "What is PCA in the context of morphine administration?",
+      "options": [
+        "Patient controlled analgesia",
+        "Adjusted constant dosage",
+        "Arterial cardiac potential",
+        "Assisted circulatory arrest"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PCA stands for **Patient Controlled Analgesia**, a very useful technique for postoperative pain control with IV morphine."
+    },
+    {
+      "question": "What medication potentiates hypotension caused by nitroglycerin?",
+      "options": [
+        "Adrenalin",
+        "Acetylcysteine",
+        "Dobutamine",
+        "Naloxone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Coadministration of **acetylcysteine** with nitroglycerin may enhance hypotension and headache, due to a possible interaction."
+    }
+  ]
+}

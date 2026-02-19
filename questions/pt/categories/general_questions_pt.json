@@ -1,0 +1,1280 @@
+{
+  "questions": [
+    {
+      "question": "Qual é a unidade básica da vida?",
+      "options": [
+        "A célula",
+        "O átomo",
+        "A molécula",
+        "O tecido"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A célula é a unidade estrutural e funcional básica de todos os seres vivos."
+    },
+    {
+      "question": "O que é homeostase?",
+      "options": [
+        "O estudo dos ossos",
+        "Manter o equilíbrio interno do corpo",
+        "divisão celular",
+        "O processo de digestão"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A homeostase é o processo pelo qual o corpo mantém um ambiente interno estável apesar das mudanças externas."
+    },
+    {
+      "question": "Qual é a definição de semiologia?",
+      "options": [
+        "O estudo dos tratamentos de doenças.",
+        "O estudo dos sinais e sintomas das doenças.",
+        "A prática de pequenas cirurgias.",
+        "Pesquisa de novos medicamentos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "A semiologia é o ramo da medicina que se ocupa do estudo dos sinais e sintomas das doenças e suas consequências."
+    },
+    {
+      "question": "O que é um sinal no contexto médico?",
+      "options": [
+        "Um distúrbio subjetivo vivenciado pelo paciente.",
+        "Uma manifestação objetiva de uma doença.",
+        "Um conjunto de sintomas sem causa específica.",
+        "A interpretação do paciente sobre sua doença."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sinais são manifestações físicas ou químicas reconhecidas ao examinar o paciente."
+    },
+    {
+      "question": "Qual é a diferença entre um sinal e um sintoma?",
+      "options": [
+        "Não há diferença, são termos intercambiáveis.",
+        "O sinal é objetivo e o sintoma é subjetivo.",
+        "O sinal é o que o paciente sente e o sintoma é o que o médico observa.",
+        "O sinal sempre requer exames laboratoriais, o sintoma não."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Os sinais são manifestações objetivas, enquanto os sintomas são distúrbios subjetivos que o paciente vivencia."
+    },
+    {
+      "question": "O que é uma síndrome?",
+      "options": [
+        "Uma doença com uma causa específica.",
+        "Um diagnóstico definitivo.",
+        "Um sinal patognomônico.",
+        "Um conjunto de sinais e sintomas com a mesma causa."
+      ],
+      "correctAnswer": 4,
+      "explanation": "Uma síndrome é um conjunto de sinais e sintomas que definem um estado mórbido e pode ser produzida por diversas causas."
+    },
+    {
+      "question": "O que é um sinal patognomônico?",
+      "options": [
+        "Um sinal comum a muitas doenças.",
+        "Um sintoma subjetivo.",
+        "Um sinal que demonstra absolutamente a existência de uma doença.",
+        "Um sinal que só é observado em exames laboratoriais."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Um sinal patognomônico é aquele que demonstra de forma absoluta a existência de uma doença."
+    },
+    {
+      "question": "Qual é o propósito do histórico médico?",
+      "options": [
+        "Apenas para uso médico legal.",
+        "Avaliar a qualidade da administração hospitalar.",
+        "Para diagnosticar doenças passadas.",
+        "Coletar dados para reconhecer o estado de saúde do paciente e planejar seus cuidados."
+      ],
+      "correctAnswer": 4,
+      "explanation": "O objetivo do histórico médico é coletar dados que possibilitem reconhecer o estado de saúde/doença do paciente e planejar seu cuidado."
+    },
+    {
+      "question": "O que significa o termo 'anamnese'?",
+      "options": [
+        "Exame físico do paciente.",
+        "Diagnóstico sindrômico.",
+        "Compilação do histórico do paciente.",
+        "Avaliação da qualidade da assistência médica."
+      ],
+      "correctAnswer": 3,
+      "explanation": "A anamnese é a parte da história médica onde é coletada a história pessoal e familiar do paciente."
+    },
+    {
+      "question": "O que a doença atual (DA) deve incluir?",
+      "options": [
+        "Diagnósticos anteriores do paciente.",
+        "Interpretações do historiador.",
+        "Descrição cronológica e evolutiva dos sintomas.",
+        "Adjetivos que descrevem sintomas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "O EA deve ser escrito de forma cronológica, evolutiva e descritiva de todas as características de cada sintoma."
+    },
+    {
+      "question": "Qual é a formação pessoal?",
+      "options": [
+        "Doenças dos familiares do paciente.",
+        "Hábitos psicobiológicos do paciente.",
+        "Doenças anteriores do paciente, cirurgias, alergias, etc.",
+        "Detalhes da casa e do trabalho do paciente."
+      ],
+      "correctAnswer": 3,
+      "explanation": "O histórico pessoal inclui informações sobre doenças anteriores, cirurgias, alergias e outros dados relevantes do histórico médico do paciente."
+    },
+    {
+      "question": "O que são hábitos psicobiológicos?",
+      "options": [
+        "Doenças hereditárias do paciente.",
+        "Estilo de vida do paciente, incluindo dieta, uso de substâncias, etc.",
+        "História cirúrgica do paciente.",
+        "Reações alérgicas do paciente."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Os hábitos psicobiológicos referem-se ao estilo de vida do paciente, como alimentação, consumo de álcool, tabaco, drogas e outros hábitos relevantes."
+    },
+    {
+      "question": "O que é o exame funcional?",
+      "options": [
+        "Exame físico do paciente.",
+        "Interrogatório metódico por dispositivos e sistemas.",
+        "Diagnóstico sindrômico.",
+        "Avaliação da qualidade da assistência médica."
+      ],
+      "correctAnswer": 2,
+      "explanation": "É um interrogatório metódico por parte dos sistemas para descobrir outros problemas médicos que possam estar influenciando o motivo da consulta."
+    },
+    {
+      "question": "Quais são as etapas do exame físico?",
+      "options": [
+        "História, diagnóstico e tratamento.",
+        "Inspeção, palpação, percussão e ausculta.",
+        "Avaliação de sinais vitais e exames laboratoriais.",
+        "Revisão do histórico e hábitos do paciente."
+      ],
+      "correctAnswer": 2,
+      "explanation": "As etapas do exame físico são inspeção visual, palpação, percussão e ausculta."
+    },
+    {
+      "question": "O que é diagnóstico sindrômico?",
+      "options": [
+        "Identificação de uma doença específica.",
+        "Diagnóstico baseado nos sintomas e sinais do paciente.",
+        "Avaliação da saúde mental do paciente.",
+        "Revisão da história familiar do paciente."
+      ],
+      "correctAnswer": 2,
+      "explanation": "O diagnóstico sindromático é feito de acordo com os sintomas e sinais que o paciente apresenta."
+    },
+    {
+      "question": "O que é uma lesão elementar primária em dermatologia?",
+      "options": [
+        "Lesão que aparece na pele previamente ferida.",
+        "Lesão que aparece na pele saudável na fase inicial de uma doença.",
+        "Uma lesão que é o resultado da evolução de uma lesão primária.",
+        "Uma lesão que só é observada em doenças crônicas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lesões elementares primárias aparecem na pele saudável"
+    },
+    {
+      "question": "O que é uma mancha?",
+      "options": [
+        "Uma lesão elevada e sólida.",
+        "Uma alteração de descoloração plana e circunscrita na pele.",
+        "Lesão com conteúdo líquido.",
+        "Lesão com conteúdo purulento."
+      ],
+      "correctAnswer": 2,
+      "explanation": "A mácula é uma alteração de descoloração circunscrita, plana e superficial da pele, sem alteração do relevo."
+    },
+    {
+      "question": "O que é uma pápula?",
+      "options": [
+        "Lesão plana com mais de 1 cm de diâmetro.",
+        "Lesão elevada, circunscrita e sólida com menos de 1 cm.",
+        "Lesão com conteúdo líquido superior a 1 cm.",
+        "Lesão com conteúdo purulento."
+      ],
+      "correctAnswer": 2,
+      "explanation": "A pápula é uma lesão elevada, circunscrita, localizada e sólida, que não deixa cicatriz quando involui."
+    },
+    {
+      "question": "Quais das seguintes respostas fazem parte da História Médica?",
+      "options": [
+        "Anamnese",
+        "Exame físico",
+        "Diagnóstico sindrômico",
+        "Tudo o que precede"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Todos os itens acima fazem parte da História Clínica"
+    },
+    {
+      "question": "O que deve constar nos Dados Pessoais da Anamnese?",
+      "options": [
+        "Nome e sobrenome, idade e doenças anteriores",
+        "Nome e sobrenome, RG, sexo e estado civil",
+        "Estado civil, ocupação e motivo da consulta",
+        "Motivo da consulta, histórico familiar e endereço atual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Os Dados Pessoais do HC incluem: Nome e sobrenome, RG, sexo, idade, data e local de nascimento, estado civil, raça, religião, escolaridade, profissão, nacionalidade, procedência, telefone, endereço atual e dados do acompanhante."
+    },
+    {
+      "question": "O que consideramos como Motivo da Consulta?",
+      "options": [
+        "A opinião do médico sobre a doença do paciente",
+        "Descrição detalhada de todos os sintomas",
+        "A razão pela qual o paciente procura ajuda médica",
+        "A história familiar do paciente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "É o motivo pelo qual o paciente vai à consulta ou emergência."
+    },
+    {
+      "question": "O que significa o termo 'ALICIDAEC' na Doença Atual?",
+      "options": [
+        "Um conjunto de diagnósticos",
+        "Características descritivas da dor",
+        "História familiar e pessoal",
+        "um tipo de dor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ALICIDAEC refere-se às características da dor: aparência, localização, irradiação, caráter, intensidade, duração, atenuante, exacerbante, concomitante."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é um tipo de dor de acordo com a terminologia de Cossio?",
+      "options": [
+        "Punitivo",
+        "Gravativo",
+        "Inflamatório",
+        "Urente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os tipos de dor segundo Cossio: Pungitiva, Gravativa, Lancinante, Terebrante, Fulgurante, Urente, Cólica, Constritiva, Incômoda e Pulsátil."
+    },
+    {
+      "question": "O que a Anamnese inclui na História Pessoal?",
+      "options": [
+        "Apenas história cirúrgica",
+        "História fisiológica, infecciosa, infecciosa, cardiovascular, cirúrgica, traumática, alérgica, ginecológica, obstétrica e transfusional",
+        "Apenas histórico familiar",
+        "O motivo da consulta e a doença atual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A História Pessoal inclui: fisiológica, infecciosa, cardiovascular, cirúrgica, traumática, alérgica, ginecológica, obstétrica, transfusões e, se houver, renal, hematológica, congênita, oncológica, degenerativa, endócrina metabólica."
+    },
+    {
+      "question": "O que a História da Família cobre?",
+      "options": [
+        "Parentes de sangue de primeiro grau",
+        "Somente os pais do paciente",
+        "Todos os parentes vivos",
+        "Amigos próximos e colegas de trabalho"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A História Familiar inclui parentes de primeiro grau de sangue: avós, pais, irmãos, filhos."
+    },
+    {
+      "question": "Qual aspecto NÃO é avaliado em Hábitos Psicobiológicos?",
+      "options": [
+        "Alimentação",
+        "Atividade física",
+        "Renda econômica",
+        "Sonhar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Nos Hábitos Psicobiológicos são avaliados alimentação, consumo de álcool, infusões, tabaco, drogas, catarse intestinal, diurese, hábitos sexuais, sono e atividade física. O rendimento económico não está incluído nesta secção."
+    },
+    {
+      "question": "Qual das alternativas a seguir descreve melhor uma 'mancha'?",
+      "options": [
+        "Lesão elevada e sólida com menos de 1 cm.",
+        "Uma alteração de descoloração plana e circunscrita na pele, inferior a 1 cm.",
+        "Lesão com conteúdo líquido seroso ou purulento.",
+        "Elevação em platô da pele, maior que 1 cm."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mácula é uma alteração na cor da pele, sem relevo ou alteração de textura, menor que 1 cm."
+    },
+    {
+      "question": "Que característica distingue uma “pápula” de uma “placa”?",
+      "options": [
+        "A presença de líquido no interior.",
+        "Sua profundidade na pele.",
+        "Seu tamanho; A pápula é menor que 1 cm, a placa é maior.",
+        "Sua coloração."
+      ],
+      "correctAnswer": 3,
+      "explanation": "O tamanho é o principal fator de diferenciação: as pápulas são pequenas elevações sólidas, enquanto as placas são mais extensas."
+    },
+    {
+      "question": "Qual destes descreve um 'nódulo'?",
+      "options": [
+        "Lesão superficial, edemaciada e eritematosa.",
+        "Uma lesão elevada com pus desde o início.",
+        "Uma coleção de sangue extravasado.",
+        "Lesão sólida e profunda medindo entre 1 e 4 cm."
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os nódulos são lesões sólidas, mais sentidas do que visíveis, localizadas em camadas profundas da pele."
+    },
+    {
+      "question": "O que melhor define uma 'vesícula'?",
+      "options": [
+        "Uma lesão sólida e elevada.",
+        "Lesão plana com mudança de cor.",
+        "Lesão elevada com conteúdo líquido, inferior a 1 cm.",
+        "Uma lesão descamativa."
+      ],
+      "correctAnswer": 3,
+      "explanation": "As vesículas são pequenas elevações cheias de líquido na epiderme."
+    },
+    {
+      "question": "Qual é a principal característica de uma 'úlcera'?",
+      "options": [
+        "Perda da camada superficial da pele.",
+        "Acúmulo de sangue sob a pele.",
+        "Descamação da pele.",
+        "Perda de substância que pode atingir a hipoderme."
+      ],
+      "correctAnswer": 4,
+      "explanation": "Uma úlcera envolve uma perda mais profunda de tecido do que uma erosão e pode afetar camadas além da derme."
+    },
+    {
+      "question": "O que distingue uma “cicatriz hipertrófica” de um “quelóide”?",
+      "options": [
+        "A cor da lesão.",
+        "A presença de telangiectasias.",
+        "Se a lesão ultrapassar o limite da ferida original.",
+        "A profundidade da lesão."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Um queloide cresce além das bordas da lesão inicial, diferentemente de uma cicatriz hipertrófica."
+    },
+    {
+      "question": "Qual das alternativas a seguir descreve 'liquenificação'?",
+      "options": [
+        "Adelgaçamento da pele.",
+        "Espessamento da pele com acentuação da grelha cutânea.",
+        "Acúmulo de líquido na pele.",
+        "Amarelecimento da pele."
+      ],
+      "correctAnswer": 2,
+      "explanation": "A liquenificação é um espessamento da pele resultante de arranhões crônicos."
+    },
+    {
+      "question": "O que causa o amarelecimento da pele na “icterícia”?",
+      "options": [
+        "Depósito de caroteno.",
+        "Aumento da melanina.",
+        "Vasodilatação.",
+        "Armazenamento de bilirrubina."
+      ],
+      "correctAnswer": 4,
+      "explanation": "A icterícia é causada pelo excesso de bilirrubina no sangue, que se deposita na pele."
+    },
+    {
+      "question": "Qual é a principal característica das 'telangiectasias'?",
+      "options": [
+        "Acúmulo de gordura na pele.",
+        "Vasos sanguíneos superficiais dilatados.",
+        "Perda de pigmentação da pele.",
+        "Formação de bolhas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "As telangiectasias são pequenas linhas vermelhas ou arroxeadas na pele devido à dilatação dos vasos sanguíneos."
+    },
+    {
+      "question": "O que significa o padrão de distribuição 'linear' em uma lesão cutânea?",
+      "options": [
+        "A lesão afeta todo o corpo.",
+        "A lesão se distribui em forma de círculos.",
+        "A lesão segue o curso dos vasos, nervos ou linhas de Blaschko.",
+        "A lesão está agrupada em uma pequena área."
+      ],
+      "correctAnswer": 3,
+      "explanation": "O padrão linear segue linhas anatômicas específicas do corpo, como nervos ou vasos."
+    },
+    {
+      "question": "Qual dos seguintes padrões de lesões cutâneas se assemelha a um “alvo”?",
+      "options": [
+        "Linear",
+        "Circular",
+        "Herpetiforme",
+        "Zosteriforme"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lesões circulares podem ter aparência concêntrica, semelhante a um alvo."
+    },
+    {
+      "question": "Qual dos seguintes distúrbios ungueais está mais frequentemente associado à deficiência de ferro?",
+      "options": [
+        "Anoniquia",
+        "Coiloníquia",
+        "As falas de Beau",
+        "hemorragias estilhaçadas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A coiloníquia, ou unhas em colher, costuma estar associada à deficiência de ferro ou de outros minerais."
+    },
+    {
+      "question": "Qual condição das unhas é caracterizada por depressões transversais?",
+      "options": [
+        "Onicogrifose",
+        "Leuconíquia",
+        "As falas de Beau",
+        "Onicólise"
+      ],
+      "correctAnswer": 3,
+      "explanation": "As linhas de Beau são depressões transversais nas unhas."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é uma causa comum de leuconíquia (manchas brancas nas unhas)?",
+      "options": [
+        "Trauma",
+        "Psoríase",
+        "Anemia",
+        "Hipertensão"
+      ],
+      "correctAnswer": 4,
+      "explanation": "As causas comuns de leuconíquia incluem trauma, psoríase, anemia, cirrose e insuficiência renal, mas não hipertensão."
+    },
+    {
+      "question": "Qual termo descreve melhor a inflamação da pele ao redor da unha?",
+      "options": [
+        "Onicólise",
+        "Onicomadese",
+        "Onicorrexe",
+        "Perionixis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Perionix ou paroníquia é uma inflamação da pele ao redor da unha."
+    },
+    {
+      "question": "Qual das seguintes condições está mais frequentemente associada a “pregos de vidro de relógio”?",
+      "options": [
+        "deficiência de ferro",
+        "Infecções fúngicas",
+        "Doenças pulmonares crônicas",
+        "Trauma nas unhas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "As unhas de vidro estão associadas a infecções crônicas ou neoplasias pulmonares."
+    },
+    {
+      "question": "O que melhor descreve o termo 'onicólise'?",
+      "options": [
+        "Espessamento das unhas",
+        "Descolamento de unhas",
+        "Presença de estrias longitudinais",
+        "Pigmentação preta da unha"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A onicólise é o descolamento parcial da unha do seu leito."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é causa de onicomadese (descolamento e perda das unhas)?",
+      "options": [
+        "Doenças agudas graves",
+        "estresse intenso",
+        "Trauma",
+        "deficiência de zinco"
+      ],
+      "correctAnswer": 4,
+      "explanation": "As causas da onicomadese incluem doenças agudas graves, doenças com bolhas, estresse severo e trauma, mas não a deficiência de zinco."
+    },
+    {
+      "question": "Que condição ungueal é caracterizada por estrias longitudinais e fragilidade ungueal?",
+      "options": [
+        "Onicogrifose",
+        "Onicorrexe",
+        "Melanoníquia",
+        "Leuconíquia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A onicorrexe é caracterizada por estrias longitudinais e fragilidade das unhas."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é causa de melanoníquia (pigmentação preta das unhas)?",
+      "options": [
+        "Nevo",
+        "Trauma repetitivo",
+        "Hematoma subungueal",
+        "Pressão alta"
+      ],
+      "correctAnswer": 4,
+      "explanation": "As causas da melanoníquia incluem nevo, trauma repetitivo e hematoma subungueal, mas não hipertensão."
+    },
+    {
+      "question": "Qual é a causa mais comum de vertigem patológica?",
+      "options": [
+        "Usando lentes incorretas",
+        "disfunção vestibular",
+        "Neuropatia periférica",
+        "Ausência de peso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A vertigem patológica frequentemente surge de problemas no sistema vestibular, seja no labirinto, no nervo ou em suas conexões no sistema nervoso central."
+    },
+    {
+      "question": "Qual dos seguintes SINTOMAS está comumente associado à vertigem?",
+      "options": [
+        "Perda auditiva isolada",
+        "Instabilidade postural",
+        "Dor de cabeça intensa e constante",
+        "Febre alta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A vertigem pode se manifestar com instabilidade postural e dificuldade em manter o equilíbrio."
+    },
+    {
+      "question": "Que tipo de vertigem está relacionada ao ouvido interno?",
+      "options": [
+        "vertigem central",
+        "Vertigem cortical",
+        "Vertigem periférica",
+        "Vertigem talâmica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A vertigem periférica se origina no ouvido interno, que inclui os canais semicirculares e o utrículo."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é uma causa comum de síncope?",
+      "options": [
+        "Hipotensão ortostática",
+        "Arritmias cardíacas",
+        "Hipersensibilidade do seio carotídeo",
+        "Hiperglicemia"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A síncope é causada pela diminuição do fluxo sanguíneo para o cérebro e suas causas incluem hipotensão ortostática, arritmias cardíacas e sensibilidade do seio carotídeo, mas não hiperglicemia."
+    },
+    {
+      "question": "Qual sintoma precede a síncope em alguns casos?",
+      "options": [
+        "Cegueira permanente",
+        "Aura",
+        "paralisia muscular",
+        "Dor abdominal aguda"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Algumas pessoas apresentam sintomas de desmaio antes da síncope, como tontura ou lipotimia, conhecida como pródromo ou aura."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é uma característica típica de síncope em comparação com uma convulsão?",
+      "options": [
+        "Recuperação rápida da consciência",
+        "Incontinência urinária frequente",
+        "Breve período de inconsciência",
+        "Lesão de queda rara"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ao contrário das convulsões, a síncope é caracterizada por um curto período de inconsciência e rápida recuperação, sendo a incontinência urinária rara."
+    },
+    {
+      "question": "Que tipo de dor é descrita como sensação de queimação?",
+      "options": [
+        "Punitivo",
+        "Gravativo",
+        "Urente",
+        "Cólica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A dor ardente é descrita como uma sensação de queimação."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é uma causa comum de otalgia?",
+      "options": [
+        "Otite externa difusa",
+        "Cera",
+        "Lesões na cabeça",
+        "Otite média"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A otalgia pode ser causada por problemas de ouvido, como otite externa ou acúmulo de cera, mas não diretamente por traumatismo cranioencefálico."
+    },
+    {
+      "question": "Qual dos seguintes termos se refere à dor de ouvido?",
+      "options": [
+        "Dor de cabeça",
+        "Otalgia",
+        "Neuralgia",
+        "Mialgia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Otalgia é o termo médico específico para dor originada no ouvido."
+    },
+    {
+      "question": "Qual dos seguintes sintomas NÃO está tipicamente associado à otalgia reflexa?",
+      "options": [
+        "Dor na mandíbula",
+        "tímpano normal",
+        "Conduto auditivo externo normal",
+        "Febre alta"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A otalgia reflexa é caracterizada por dor de ouvido com conduto auditivo externo e tímpano normais, originando-se em outras áreas, como a mandíbula, mas normalmente não está associada a febre alta."
+    },
+    {
+      "question": "Quais estruturas anatômicas estão contidas nas órbitas?",
+      "options": [
+        "Cerebelo e medula oblonga",
+        "Globos oculares, músculos, nervos e vasos sanguíneos",
+        "Ossos temporais e parietais",
+        "Glândula tireóide e paratireóide"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As órbitas são cavidades ósseas que abrigam os globos oculares junto com estruturas como músculos, nervos e vasos sanguíneos."
+    },
+    {
+      "question": "Qual osso NÃO faz parte da borda palpável da órbita?",
+      "options": [
+        "Frontal",
+        "Zigomático",
+        "Maxila",
+        "Occipital"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A borda palpável da órbita é formada pelos ossos frontal, zigomático e maxilar."
+    },
+    {
+      "question": "Qual é a principal artéria que irriga o olho?",
+      "options": [
+        "artéria carótida externa",
+        "Artéria oftálmica",
+        "Artéria temporal superficial",
+        "artéria facial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O suprimento sanguíneo do olho vem principalmente da artéria oftálmica, que inclui ramos como a artéria central da retina e as artérias ciliares."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é um ramo do nervo oftálmico?",
+      "options": [
+        "canal lacrimal",
+        "Frontal",
+        "Nasociliar",
+        "Facial"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O nervo oftálmico, o primeiro ramo do nervo trigêmeo, divide-se em lacrimal, frontal e nasociliar."
+    },
+    {
+      "question": "Qual nervo craniano inerva o músculo reto lateral do olho?",
+      "options": [
+        "III nervo craniano (oculomotor)",
+        "IV nervo craniano (Troclear)",
+        "VI nervo craniano (abdutor)",
+        "V nervo craniano (Trigêmeo)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O músculo reto lateral do olho é inervado pelo VI nervo craniano, também conhecido como nervo abdutor."
+    },
+    {
+      "question": "Qual nervo craniano inerva o músculo oblíquo maior do olho?",
+      "options": [
+        "III nervo craniano (oculomotor)",
+        "IV nervo craniano (Troclear)",
+        "VI nervo craniano (abdutor)",
+        "V nervo craniano (Trigêmeo)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O músculo oblíquo maior do olho é inervado pelo IV nervo craniano, também conhecido como nervo troclear."
+    },
+    {
+      "question": "Qual nervo craniano inerva o músculo levantador da pálpebra superior?",
+      "options": [
+        "III nervo craniano (oculomotor)",
+        "IV nervo craniano (Troclear)",
+        "VI nervo craniano (abdutor)",
+        "V nervo craniano (Trigêmeo)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O músculo levantador da pálpebra superior é inervado pelo III nervo craniano, também conhecido como nervo oculomotor."
+    },
+    {
+      "question": "Qual nervo craniano proporciona sensação à córnea?",
+      "options": [
+        "III nervo craniano (oculomotor)",
+        "IV nervo craniano (Troclear)",
+        "VI nervo craniano (abdutor)",
+        "V nervo craniano (Trigêmeo)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A sensibilidade da córnea é fornecida pelo V nervo craniano, também conhecido como nervo trigêmeo."
+    },
+    {
+      "question": "Que tipo de inervação controla a dilatação da pupila (midríase)?",
+      "options": [
+        "Inervação parassimpática",
+        "Inervação simpática",
+        "Inervação somática",
+        "Inervação entérica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A dilatação da pupila (midríase) é controlada pela inervação simpática."
+    },
+    {
+      "question": "Em que estrutura do cérebro os impulsos visuais são processados?",
+      "options": [
+        "lobo frontal",
+        "Lobo temporal",
+        "lobo parietal",
+        "córtex occipital"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os impulsos visuais gerados na retina são processados ​​no córtex occipital do cérebro."
+    },
+    {
+      "question": "Que condição ocular é caracterizada pela queda da pálpebra superior?",
+      "options": [
+        "ectrópio",
+        "Entrópio",
+        "Ptose palpebral",
+        "Lagoftalmo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A ptose palpebral ocorre quando a pálpebra superior desce mais que o normal, cobrindo parte do olho."
+    },
+    {
+      "question": "Qual das alternativas a seguir descreve a eversão da margem palpebral?",
+      "options": [
+        "Ptose",
+        "ectrópio",
+        "Entrópio",
+        "Blefarite"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ectrópio é a condição na qual a borda da pálpebra se dobra para fora, afastando-se do globo ocular."
+    },
+    {
+      "question": "Que condição ocular pode fazer com que os cílios irritem a córnea e a conjuntiva?",
+      "options": [
+        "ectrópio",
+        "Entrópio",
+        "Lagoftalmo",
+        "Blefarite"
+      ],
+      "correctAnswer": 2,
+      "explanation": "No entrópio, a borda da pálpebra vira para dentro, fazendo com que os cílios esfreguem a superfície do olho."
+    },
+    {
+      "question": "Qual das alternativas a seguir está associada à obstrução do fluxo lacrimal?",
+      "options": [
+        "Olhos secos",
+        "Rasgando (epífora)",
+        "chiqueiro",
+        "Calázio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A epífora, ou lacrimejamento excessivo, pode resultar de um bloqueio no sistema de drenagem lacrimal."
+    },
+    {
+      "question": "Que tipo de secreção ocular é característica de infecções bacterianas?",
+      "options": [
+        "aguado",
+        "Mucóide",
+        "Purulento",
+        "Seroso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "As secreções purulentas, espessas e contendo pus, são típicas de infecções causadas por bactérias."
+    },
+    {
+      "question": "Qual das alternativas a seguir é uma inflamação do folículo piloso de um cílio?",
+      "options": [
+        "Calázio",
+        "chiqueiro",
+        "Blefarite",
+        "Xantelasma"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O chiqueiro é uma inflamação aguda e dolorosa que se desenvolve na base dos cílios."
+    },
+    {
+      "question": "Qual condição ocular é descrita como inflamação crônica de uma glândula meibomiana?",
+      "options": [
+        "chiqueiro",
+        "Calázio",
+        "Blefarite",
+        "Lagoftalmo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Calázio é uma inflamação crônica, geralmente indolor, de uma glândula meibomiana na pálpebra."
+    },
+    {
+      "question": "Qual das seguintes lesões está associada a níveis elevados de colesterol?",
+      "options": [
+        "chiqueiro",
+        "Calázio",
+        "Xantelasma",
+        "Blefarite"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os xantelasmas são depósitos de gordura amarelados que aparecem nas pálpebras e estão relacionados ao colesterol alto."
+    },
+    {
+      "question": "Que condição ocorre quando o olho não fecha completamente?",
+      "options": [
+        "Ptose",
+        "ectrópio",
+        "Entrópio",
+        "Lagoftalmo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Lagoftalmo é a incapacidade de fechar completamente as pálpebras, o que pode causar problemas de lubrificação ocular."
+    },
+    {
+      "question": "Qual das alternativas a seguir é uma inflamação das pálpebras que pode estar relacionada à acne rosácea?",
+      "options": [
+        "chiqueiro",
+        "Calázio",
+        "Blefarite",
+        "Xantelasma"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A blefarite é uma inflamação comum das pálpebras que pode estar associada a doenças de pele como acne rosácea."
+    },
+    {
+      "question": "Qual das alternativas a seguir melhor descreve a tosse?",
+      "options": [
+        "Uma inspiração profunda e sustentada.",
+        "Uma expiração explosiva para limpar a árvore traqueobrônquica.",
+        "Um processo involuntário de ofegante.",
+        "Uma alteração no tom da voz."
+      ],
+      "correctAnswer": 2,
+      "explanation": "A tosse é um mecanismo de proteção que expele secreções e materiais estranhos das vias aéreas por meio da expiração forçada."
+    },
+    {
+      "question": "Onde está localizado o centro da tosse que regula o mecanismo da tosse?",
+      "options": [
+        "no cerebelo",
+        "na medula oblonga",
+        "no córtex cerebral",
+        "na medula espinhal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O centro da tosse, responsável pelo controle do reflexo da tosse, está localizado próximo ao centro respiratório na medula oblonga."
+    },
+    {
+      "question": "Qual das seguintes estruturas NÃO costuma desencadear tosse quando estimulada?",
+      "options": [
+        "A parede posterior da laringe",
+        "A metade inferior das cordas vocais",
+        "A traquéia",
+        "O parênquima pulmonar"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Embora a maioria das vias aéreas possa desencadear tosse, o parênquima pulmonar geralmente não o faz, o que explica a ausência de tosse em certas doenças pulmonares."
+    },
+    {
+      "question": "Quais nervos constituem o ramo aferente do reflexo da tosse?",
+      "options": [
+        "Nervo frênico e nervos intercostais",
+        "Nervos trigêmeo, glossofaríngeo, laríngeo superior e vago",
+        "Nervo laríngeo recorrente e nervos espinhais",
+        "Nervos ópticos e olfativos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O ramo aferente do reflexo da tosse, que transporta informações sensoriais, inclui vários nervos cranianos que detectam irritação nas vias aéreas."
+    },
+    {
+      "question": "Qual é a primeira fase do mecanismo da tosse?",
+      "options": [
+        "Contração dos músculos expiratórios",
+        "Abertura da glote",
+        "Inspiração profunda e fechamento da glote",
+        "Expulsão de ar em alta velocidade"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A fase inicial da tosse envolve uma inspiração profunda seguida do fechamento da glote para preparar a expulsão do ar."
+    },
+    {
+      "question": "O que acontece na segunda fase do mecanismo da tosse?",
+      "options": [
+        "A glote se abre e o ar é expelido",
+        "Os músculos expiratórios se contraem com a glote fechada",
+        "a inspiração ocorre",
+        "Não há mudanças significativas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Durante a segunda fase, os músculos expiratórios se contraem enquanto a glote permanece fechada, aumentando a pressão dentro dos pulmões."
+    },
+    {
+      "question": "Qual é a principal característica da terceira fase da tosse?",
+      "options": [
+        "Relaxamento dos músculos expiratórios",
+        "Fechamento da glote",
+        "Expulsão de ar em alta velocidade",
+        "Inspiração profunda"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A fase final da tosse é caracterizada pela abertura repentina da glote e pela expulsão vigorosa de ar."
+    },
+    {
+      "question": "Que tipo de tosse é descrita como seca e sem expectoração?",
+      "options": [
+        "tosse úmida",
+        "Tosse seca",
+        "Coqueluche",
+        "tosse rouca"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A tosse seca se distingue pela ausência de produção de muco ou catarro."
+    },
+    {
+      "question": "Qual das seguintes tosses está associada a um processo infeccioso ou inflamatório?",
+      "options": [
+        "Tosse seca",
+        "tosse úmida",
+        "Tosse crônica",
+        "tosse aguda"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A tosse úmida indica a presença de secreções e sugere uma possível infecção ou inflamação nas vias respiratórias."
+    },
+    {
+      "question": "Qual a duração que define a tosse crônica?",
+      "options": [
+        "menos de 3 semanas",
+        "Entre 3 e 8 semanas",
+        "Mais de 8 semanas",
+        "Mais de 6 meses"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A tosse é classificada como crônica quando persiste por mais de 8 semanas."
+    },
+    {
+      "question": "Qual das seguintes condições NÃO está na lista de causas de dispneia?",
+      "options": [
+        "Anemia",
+        "Exercício intenso",
+        "Acidose",
+        "Hipertensão"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A dispneia pode ser causada por anemia, exercícios intensos e acidose, mas a hipertensão não é listada como causa direta no documento."
+    },
+    {
+      "question": "Qual termo descreve melhor a dificuldade em respirar quando está deitado?",
+      "options": [
+        "Trepopneia",
+        "Platipneia",
+        "Ortopneia",
+        "Batipneia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ortopneia refere-se especificamente à falta de ar que é aliviada ao sentar-se."
+    },
+    {
+      "question": "Qual das alternativas a seguir é causa de dispneia paroxística noturna?",
+      "options": [
+        "Asma",
+        "DPOC",
+        "Obesidade",
+        "disfunção miocárdica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tanto a asma quanto a disfunção miocárdica podem causar dispneia paroxística noturna."
+    },
+    {
+      "question": "Que condição está associada à respiração de Cheyne-Stokes?",
+      "options": [
+        "Asma",
+        "DPOC",
+        "Hipertensão",
+        "Anemia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A respiração de Cheyne-Stokes está mais comumente associada à hipertensão e à esclerose miocárdica."
+    },
+    {
+      "question": "Qual dos seguintes NÃO é um tipo de receptor que pode desencadear dispneia?",
+      "options": [
+        "Quimiorreceptores",
+        "Mecanorreceptores",
+        "Metalorreceptores",
+        "Termorreceptores"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Quimiorreceptores, mecanorreceptores e metalorreceptores podem ativar o reflexo de falta de ar, mas os termorreceptores não são mencionados."
+    },
+    {
+      "question": "Que termo descreve o aumento na profundidade de cada respiração?",
+      "options": [
+        "taquipneia",
+        "Bradipneia",
+        "Hiperpneia",
+        "Hipopneia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hiperpneia refere-se a um aumento na largura ou profundidade da respiração."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é uma causa comum de boates?",
+      "options": [
+        "Doença cardíaca cianótica",
+        "câncer de pulmão",
+        "Cirrose hepática",
+        "Pressão alta"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O baqueteamento digital está associado a doenças cardíacas cianóticas, câncer de pulmão e cirrose hepática, mas não à hipertensão."
+    },
+    {
+      "question": "Que tipo de dor no peito é descrita como queimação?",
+      "options": [
+        "dor somática",
+        "Dor visceral",
+        "Dor referida",
+        "Dor parietal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A dor de origem traqueobrônquica é descrita como queimação ou queimação."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é uma causa comum de dor torácica referida?",
+      "options": [
+        "Esofagite",
+        "Espasmo esofágico",
+        "Fratura de costela",
+        "Doenças abdominais"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A dor referida no peito pode ter origem no esôfago ou abdômen, mas uma fratura de costela causa dor parietal não referida."
+    },
+    {
+      "question": "Qual é uma característica da síndrome de Tietze?",
+      "options": [
+        "Dor intensa no ombro",
+        "Inchaço doloroso das cartilagens costais",
+        "Dor irradiando para a mão",
+        "Ternura nas costelas flutuantes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A síndrome de Tietze é caracterizada por inflamação e dor nas cartilagens costais."
+    },
+    {
+      "question": "Qual das alternativas a seguir é uma característica da dor torácica do tipo pleurítica?",
+      "options": [
+        "É aliviado pela posição de oração muçulmana.",
+        "Tem início repentino e está localizado na ponta lateral.",
+        "Freqüentemente irradia para o braço esquerdo.",
+        "É de natureza opressiva e melhora com o repouso."
+      ],
+      "correctAnswer": 2,
+      "explanation": "A dor pleurítica é caracterizada por início súbito e localização na ponta lateral."
+    },
+    {
+      "question": "Que tipo de dor no peito é descrita como sensação de peso, aperto ou esmagamento?",
+      "options": [
+        "dor pericárdica",
+        "dor isquêmica",
+        "dor esofágica",
+        "dor aórtica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A dor isquêmica, como na angina, é tipicamente descrita como uma sensação de peso, aperto ou esmagamento."
+    },
+    {
+      "question": "Qual dos seguintes sintomas NÃO está comumente associado à angina?",
+      "options": [
+        "Radiação de dor para a mandíbula",
+        "Dor que aumenta com o exercício",
+        "Alívio da dor com nitroglicerina sublingual",
+        "Dor que dura várias horas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A dor da angina geralmente é aliviada com repouso ou nitroglicerina e normalmente não dura horas."
+    },
+    {
+      "question": "Que condição é causada pela inflamação da pleura parietal?",
+      "options": [
+        "Angina de peito",
+        "Pericardite",
+        "Pleurite",
+        "dissecção aórtica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "É a inflamação da pleura, duas camadas de tecido que cobrem os pulmões."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é uma característica típica da dor na dissecção aórtica?",
+      "options": [
+        "Aparência repentina e intensa",
+        "Localização no centro do peito",
+        "Alívio significativo com nitroglicerina",
+        "Possível irradiação para o pescoço e costas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ao contrário da angina, a dor da dissecção aórtica não é significativamente aliviada pela nitroglicerina."
+    },
+    {
+      "question": "Em que condição a dor no peito pode ser aliviada inclinando-se para a frente?",
+      "options": [
+        "Pleurite",
+        "Pericardite",
+        "Pneumonia",
+        "embolia pulmonar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A dor da pericardite geralmente é aliviada inclinando-se para a frente (posição maometana)."
+    },
+    {
+      "question": "Qual dos termos a seguir descreve melhor a dor esmagadora?",
+      "options": [
+        "Lancinante",
+        "Urente",
+        "Constritivo",
+        "Picante"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A dor constritiva ou opressiva é uma característica da dor anginosa."
+    },
+    {
+      "question": "Que condição torácica pode estar associada à ausência de pulso?",
+      "options": [
+        "Pleurite",
+        "dissecção aórtica",
+        "Pneumonia",
+        "Pericardite"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A dissecção aórtica pode causar ausência de pulso devido à obstrução do fluxo sanguíneo."
+    },
+    {
+      "question": "Qual dos seguintes sintomas tem menos probabilidade de acompanhar a dor anginosa?",
+      "options": [
+        "Náusea",
+        "Suando",
+        "Palidez",
+        "Febre alta"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Embora a angina possa ser acompanhada de náusea, sudorese e palidez, febre alta não é um sintoma típico."
+    },
+    {
+      "question": "Em qual condição a dor no peito é descrita como lancinante e pode irradiar para as costas?",
+      "options": [
+        "angina estável",
+        "dissecção aórtica",
+        "Pericardite",
+        "Pneumonia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A dor da dissecção aórtica é descrita como lancinante e pode irradiar para a parte posterior do tórax."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é uma causa comum de dor no peito?",
+      "options": [
+        "Embolia pulmonar",
+        "refluxo ácido",
+        "ataques de pânico",
+        "Fratura de fêmur"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A dor no peito pode surgir de várias causas, incluindo embolia pulmonar, refluxo ácido e ataques de pânico, mas não é comumente associada a fratura de fêmur."
+    },
+    {
+      "question": "Que tipo de dor está normalmente associada à pleurite?",
+      "options": [
+        "Opressivo",
+        "Picante",
+        "Surdo",
+        "queimando"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A pleurite geralmente causa uma dor aguda, descrita como pontada, que é acentuada pela inalação ou tosse."
+    },
+    {
+      "question": "Qual dos seguintes sintomas pode acompanhar a embolia pulmonar?",
+      "options": [
+        "Bradicardia",
+        "Hipotensão",
+        "Hipertensão",
+        "Bradipneia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A embolia pulmonar pode se manifestar com hipotensão, além de dispneia e taquicardia."
+    },
+    {
+      "question": "Que condição esofágica pode imitar a dor da angina?",
+      "options": [
+        "refluxo ácido",
+        "Espasmo esofágico",
+        "Lágrima de Mallory-Weiss",
+        "úlcera péptica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O espasmo esofágico pode causar constrição ou dor semelhante à angina."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é um sintoma comum de refluxo ácido?",
+      "options": [
+        "Sensação de queimação",
+        "Piora ao deitar",
+        "Alívio com antiácidos",
+        "Dor aguda e passageira"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O refluxo ácido geralmente causa sensação de queimação e pode piorar quando deitado, com alívio de antiácidos, mas normalmente não é descrito como uma dor aguda e passageira."
+    },
+    {
+      "question": "Que condição musculoesquelética causa dor na região anterior do tórax?",
+      "options": [
+        "Lesão do disco cervical",
+        "Cólicas intercostais",
+        "Cobreiro",
+        "Síndrome condrocostal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A síndrome condrocostal é uma causa comum de dor musculoesquelética na região anterior do tórax."
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é um sintoma típico de ataques de pânico?",
+      "options": [
+        "Dor surda e profunda",
+        "Dor que dura mais de 30 minutos",
+        "Tensão ou aperto visceral",
+        "Dores e punções efêmeras"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os ataques de pânico geralmente causam dor profunda e surda, tensão visceral e duram mais de 30 minutos, mas não são caracterizados por dor de curta duração ou pontadas."
+    },
+    {
+      "question": "Que tipo de angina permite ao paciente realizar atividades comuns?",
+      "options": [
+        "Classe I",
+        "Classe II",
+        "Classe III",
+        "Classe IV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Na angina classe I o paciente consegue realizar atividades normais e a dor aparece apenas com atividades forçadas ou contínuas."
+    },
+    {
+      "question": "Qual das seguintes anginas instáveis ​​é desencadeada por anemia ou uso de cocaína?",
+      "options": [
+        "Angina A",
+        "Angina B",
+        "Angina C",
+        "Angina pós-infarto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A angina A (angina secundária) é desencadeada por circunstâncias extracardíacas, como anemia ou uso de cocaína."
+    },
+    {
+      "question": "Em que tipo de angina instável o paciente apresenta angina de repouso nas últimas 48 horas?",
+      "options": [
+        "Classe I",
+        "Classe II",
+        "Classe III",
+        "Classe IV"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A angina instável classe III é caracterizada por angina em repouso nas últimas 48 horas."
+    }
+  ]
+}

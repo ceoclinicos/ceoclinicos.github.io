@@ -1,0 +1,554 @@
+{
+  "questions": [
+    {
+      "question": "O que é pressão arterial sistólica?",
+      "options": [
+        "Pressão mínima nas artérias",
+        "Fase de relaxamento do coração",
+        "Pressão máxima nas artérias",
+        "Medição de pressão central"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A pressão arterial sistólica é a pressão máxima exercida nas paredes das artérias quando o coração se contrai, bombeando sangue para o corpo."
+    },
+    {
+      "question": "Quando a pressão arterial é considerada normal?",
+      "options": [
+        "PAS 130-139 OU DBP 80-89",
+        "PAS 120-129 E PAD <80",
+        "PAS <120 E PAD <80",
+        "PAS 140 OU DBP 90"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A pressão arterial normal é definida como uma pressão sistólica inferior a 120 mm Hg e uma pressão diastólica inferior a 80 mm Hg."
+    },
+    {
+      "question": "O que indica pressão alta?",
+      "options": [
+        "Requer terapia farmacológica",
+        "É uma emergência hipertensiva",
+        "É hipertensão mascarada",
+        "Indica risco de progressão"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Pressão arterial elevada, com PAS entre 120-129 mm Hg e PAD menor que 80 mm Hg, não é hipertensão, mas indica risco de evolução para essa condição."
+    },
+    {
+      "question": "O que é recomendado se houver diferença de pressão?",
+      "options": [
+        "Use o braço com a leitura mais baixa",
+        "Meça apenas o braço direito",
+        "Meça apenas o braço esquerdo",
+        "Use o braço com a leitura mais alta"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Se for encontrada uma diferença superior a 10 mm Hg ao medir a pressão arterial em ambos os braços, recomenda-se usar o braço com a leitura mais alta para medições futuras."
+    },
+    {
+      "question": "O que é pressão arterial diastólica?",
+      "options": [
+        "Pressão mínima nas artérias",
+        "Pressão máxima ao contrair",
+        "Lendo em ambos os braços",
+        "Pressão no átrio esquerdo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A pressão arterial diastólica é a pressão mais baixa nas artérias durante a fase de relaxamento do coração, entre os batimentos cardíacos."
+    },
+    {
+      "question": "Como é definida a hipertensão em estágio 2?",
+      "options": [
+        "PAS <120 E PAD <80",
+        "PAS 120-129 E PAD <80",
+        "PAS 130-139 OU DBP 80-89",
+        "PAS ge140 OU PAD ge90"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A hipertensão estágio 2 é diagnosticada quando a pressão sistólica é igual ou superior a 140 mm Hg ou a pressão diastólica é igual ou superior a 90 mm Hg."
+    },
+    {
+      "question": "O que deve ser evitado antes da medição?",
+      "options": [
+        "Descanse cinco minutos",
+        "Esteja em um ambiente calmo",
+        "Consumir cafeína ou fumar",
+        "Sentado com encosto"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para uma medição precisa da pressão arterial, o paciente deve abster-se de cafeína, exercícios e fumo por pelo menos 30 minutos antes da medição."
+    },
+    {
+      "question": "Qual é a causa comum de erro?",
+      "options": [
+        "Meça apenas uma vez",
+        "Usando a pulseira errada",
+        "Posição do paciente",
+        "Não apoie seu braço"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Usar um manguito de tamanho inadequado para o braço do paciente é uma causa comum de erros na medição da pressão arterial."
+    },
+    {
+      "question": "Quanto tempo deve descansar?",
+      "options": [
+        "dois minutos",
+        "um minuto",
+        "cinco minutos",
+        "dez minutos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para uma medição precisa, o paciente deve sentar-se em uma cadeira com encosto, com os pés apoiados no chão, por pelo menos 5 minutos antes de realizar a leitura."
+    },
+    {
+      "question": "Qual é o padrão ouro para PA?",
+      "options": [
+        "MAPA",
+        "Técnica de consulta",
+        "dispositivo de pulso",
+        "A ausculta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A monitorização ambulatorial da pressão arterial (MAPA) é considerada padrão ouro para o diagnóstico de hipertensão, pois mede a pressão fora do ambulatório."
+    },
+    {
+      "question": "O que você faz se as leituras forem diferentes?",
+      "options": [
+        "Uma terceira medição é feita",
+        "A leitura mais alta é descartada",
+        "A média é tomada",
+        "Apenas uma leitura é registrada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se as duas primeiras leituras da pressão arterial diferirem em mais de 5 mm Hg, uma terceira medição deverá ser realizada para obter uma média mais precisa."
+    },
+    {
+      "question": "Como é definida a hipertensão grave?",
+      "options": [
+        "PAS 130-139 E DBP 80-89",
+        "PAS ge140 E PAD ge90",
+        "PAS ge180 E/OU PAD ge110",
+        "PAS 120-129 OU PAD <80"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hipertensão grave é definida quando a pressão arterial sistólica é igual ou superior a 180 mm Hg e/ou a pressão diastólica é igual ou superior a 110 mm Hg."
+    },
+    {
+      "question": "O que inclui as doenças cardiovasculares?",
+      "options": [
+        "Doença cardíaca isquêmica",
+        "Pressão alta",
+        "Denervação renal",
+        "Síndrome de Turner"
+      ],
+      "correctAnswer": 1,
+      "explanation": "As doenças cardiovasculares incluem condições como doença cardíaca isquêmica, acidente vascular cerebral e insuficiência cardíaca, sendo a hipertensão um fator de risco."
+    },
+    {
+      "question": "Onde repousa o braço do paciente?",
+      "options": [
+        "acima do joelho",
+        "Na altura do coração",
+        "abaixo do coração",
+        "No colo do paciente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Durante a medição da pressão arterial, o braço do paciente deve ser apoiado e posicionado ao nível do coração para obter uma leitura precisa."
+    },
+    {
+      "question": "O que é denervação renal?",
+      "options": [
+        "Terapia medicamentosa",
+        "Um procedimento cirúrgico importante",
+        "Cirurgia cardíaca",
+        "Procedimento intervencionista minimamente invasivo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A denervação renal é um procedimento minimamente invasivo que utiliza ablação para reduzir a atividade nervosa nos rins, tratando a hipertensão resistente."
+    },
+    {
+      "question": "Quantas medições devem ser feitas?",
+      "options": [
+        "Dois, separados por minutos",
+        "Um, se necessário",
+        "Três, se o paciente cooperar",
+        "Um no início da data"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A técnica de medição da pressão arterial recomenda fazer pelo menos duas medições, separadas por um ou dois minutos, e calcular a média delas para maior precisão."
+    },
+    {
+      "question": "Que porcentagem o manguito deve cobrir?",
+      "options": [
+        "Menos de 50%",
+        "Quase todo o braço",
+        "Pelo menos 80%",
+        "50% da circunferência"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para garantir uma leitura correta da pressão arterial, o manguito de ar deve cobrir pelo menos 80% da circunferência do braço do paciente."
+    },
+    {
+      "question": "O que diferencia uma emergência hipertensiva?",
+      "options": [
+        "O risco de DCVA",
+        "A idade do paciente",
+        "A diferença na PA",
+        "Uma avaliação imediata"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A hipertensão grave requer avaliação imediata para diferenciar se é uma urgência ou emergência hipertensiva, com base nos sintomas e no risco."
+    },
+    {
+      "question": "O que é hipertensão mascarada?",
+      "options": [
+        "Quando a PA está alta na consulta",
+        "Quando a PA está normal no escritório",
+        "Quando a PA está normal em casa",
+        "Quando a pressão arterial está alta em casa"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A hipertensão mascarada ocorre quando a pressão arterial do paciente é normal durante a consulta, mas elevada em medições fora do ambiente clínico, como em casa."
+    },
+    {
+      "question": "Qual é um pilar diagnóstico crucial?",
+      "options": [
+        "Tenha uma única medição",
+        "Medições em uma consulta",
+        "Média de duas ou mais medições",
+        "Medidas em ambos os braços"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A média de duas ou mais medições corretas da pressão arterial, obtidas em duas ou mais consultas, é um pilar diagnóstico crucial para a classificação da pressão arterial."
+    },
+    {
+      "question": "O que o MAPA avalia em 24 horas?",
+      "options": [
+        "Perfis de PA diurnos e noturnos",
+        "Controle de PA",
+        "Apenas pressão sistólica",
+        "A pressão na consulta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A monitorização ambulatorial da pressão arterial (MAPA) é uma ferramenta que mede a PA ao longo de 24 horas, fornecendo um perfil da pressão arterial diurna e noturna, sendo um melhor preditor de risco cardiovascular."
+    },
+    {
+      "question": "Quando é considerado o tratamento farmacológico?",
+      "options": [
+        "PA ge140/90 mm Hg",
+        "PA <120/80 mmHg",
+        "PA elevada",
+        "PA normal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Recomenda-se o início da terapia medicamentosa em adultos com pressão arterial igual ou superior a 140/90 mm Hg, além de mudanças no estilo de vida."
+    },
+    {
+      "question": "O que é hipertensão do jaleco branco?",
+      "options": [
+        "PA normal no consultório",
+        "PA elevada no escritório",
+        "pressão arterial normal em casa",
+        "PA elevada em casa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A hipertensão do avental branco ocorre quando a pressão arterial de um paciente está elevada apenas no ambiente clínico, como no consultório médico, mas é normal em outras medições."
+    },
+    {
+      "question": "O que a história identifica na avaliação?",
+      "options": [
+        "Sopros renais ou abdominais",
+        "Pressão arterial de escritório",
+        "Danos em órgãos alvo",
+        "História familiar"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A anamnese na avaliação inicial do paciente hipertenso busca identificar histórico familiar, hábitos de vida e uso de medicamentos, entre outros fatores de risco."
+    },
+    {
+      "question": "Quais medicamentos são preferidos no diabetes?",
+      "options": [
+        "Bloqueadores beta",
+        "Diuréticos",
+        "Nifedipina",
+        "IECA ou ARA"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Em pacientes com hipertensão e diabetes, os IECA (inibidores da enzima de conversão da angiotensina) ou BRA (bloqueadores dos receptores da angiotensina) são preferidos devido aos seus benefícios protetores renais."
+    },
+    {
+      "question": "O que é examinado no fundo?",
+      "options": [
+        "Sinais de retinopatia",
+        "nível de glicose",
+        "Ausência de murmúrios",
+        "Causas secundárias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O exame de fundo de olho é crucial para detectar sinais de retinopatia hipertensiva, que é um indicador de danos a órgãos-alvo causados ​​pela hipertensão."
+    },
+    {
+      "question": "O que é hipertensão resistente?",
+      "options": [
+        "Não controlado com medicamento",
+        "Controlado com diurético",
+        "Controlado com exercício",
+        "Não controlado com três medicamentos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A hipertensão resistente é definida como a pressão arterial que não pode ser controlada apesar do uso de três medicamentos, incluindo um diurético, em doses ideais."
+    },
+    {
+      "question": "O que é usado para detectar danos renais?",
+      "options": [
+        "Perfil lipídico",
+        "Medição de glicose",
+        "Relação albumina-creatinina",
+        "Hormônio TSH"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A relação albumina-creatinina na urina é um exame laboratorial que ajuda a detectar danos renais incipientes, que podem ser causa e consequência da hipertensão."
+    },
+    {
+      "question": "Quais medicamentos são contra-indicados durante a gravidez?",
+      "options": [
+        "Metildopa e labetalol",
+        "Nifedipina e labetalol",
+        "Diuréticos e betabloqueadores",
+        "IECA e ARA"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os inibidores da enzima conversora de angiotensina (inibidores da ECA) e os bloqueadores dos receptores da angiotensina (BRA) são contra-indicados durante a gravidez devido à sua teratogenicidade."
+    },
+    {
+      "question": "Qual é o objetivo da AF na DRC?",
+      "options": [
+        "PA <140/90 mmHg",
+        "PA <130/80 mm Hg",
+        "PA <120/80 mmHg",
+        "PA <160/110 mmHg"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Em pacientes com doença renal crônica (DRC), a meta recomendada de pressão arterial é inferior a 130/80 mm Hg para ajudar a proteger os rins."
+    },
+    {
+      "question": "O que é monitoramento ambulatorial?",
+      "options": [
+        "Medição no escritório",
+        "Usando um dispositivo portátil",
+        "Medição com relógio inteligente",
+        "Medição intermitente por 24 horas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A monitorização ambulatorial da pressão arterial (MAPA) é o uso de um dispositivo automático que mede a pressão arterial de forma intermitente durante um período de 24 horas."
+    },
+    {
+      "question": "O que é considerado hipertensão com AMPA?",
+      "options": [
+        "PA <130/80 mm Hg",
+        "PA média ge130/80 mm Hg",
+        "PA ge140/90 mm Hg",
+        "PA em escritório normal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Um paciente é considerado hipertenso se a média das medidas domiciliares de pressão arterial (AMPA) for igual ou superior a 130/80 mm Hg."
+    },
+    {
+      "question": "O que é adicionado na hipertensão resistente?",
+      "options": [
+        "um bloqueador beta",
+        "Um IECA",
+        "Espironolactona",
+        "um diurético"
+      ],
+      "correctAnswer": 3,
+      "explanation": "No manejo da hipertensão resistente, recomenda-se a adição de espironolactona como quarto medicamento devido à sua alta eficácia nesta população de pacientes."
+    },
+    {
+      "question": "O que deve ser monitorado com IECA ou ARA?",
+      "options": [
+        "nível de glicose",
+        "Função renal e potássio",
+        "Perfil lipídico",
+        "fundo do olho"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ao iniciar o tratamento com IECA ou BRA, é importante monitorar de perto os níveis de creatinina e potássio, pois estes podem estar alterados."
+    },
+    {
+      "question": "O que causa hipertensão secundária?",
+      "options": [
+        "Problemas renais",
+        "Estilo de vida",
+        "Velhice",
+        "História familiar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A hipertensão secundária é causada por uma condição subjacente, como doença renal, que deve ser procurada ativamente para tratamento específico."
+    },
+    {
+      "question": "O que os exames laboratoriais avaliam?",
+      "options": [
+        "Somente peso corporal",
+        "Exame físico",
+        "Função renal",
+        "A idade do paciente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os exames laboratoriais são uma ferramenta fundamental para avaliar a função renal e outras comorbidades, auxiliando na tomada de decisão clínica."
+    },
+    {
+      "question": "O que é um painel de teste inicial?",
+      "options": [
+        "Creatinina sérica",
+        "teste de estresse",
+        "nível de potássio",
+        "medição de sódio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Os testes iniciais recomendados incluem creatinina sérica e urinálise para avaliar a função renal, que está intimamente relacionada à hipertensão."
+    },
+    {
+      "question": "Que tipo de medicamento é preferido?",
+      "options": [
+        "Monoterapia",
+        "Combinação de dose fixa",
+        "Medicamentos de venda livre",
+        "Doses intermitentes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para hipertensão estágio 2, é preferível iniciar o tratamento com uma combinação de dose fixa de dois agentes de primeira linha em um único comprimido."
+    },
+    {
+      "question": "O que é um fator de risco para DCV?",
+      "options": [
+        "atividade física",
+        "ingestão de sódio",
+        "A idade",
+        "hipertensão"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A hipertensão é o fator de risco modificável mais prevalente para doenças cardiovasculares (DCV), que inclui condições como doença cardíaca isquêmica."
+    },
+    {
+      "question": "O que avalia a função renal?",
+      "options": [
+        "O perfil lipídico",
+        "Creatinina sérica e exame de urina",
+        "Glicose ou HbA1c",
+        "TSH"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A função renal é avaliada com exames laboratoriais como creatinina sérica e exame de urina, uma vez que a doença renal é causa e consequência da hipertensão."
+    },
+    {
+      "question": "Qual é a fórmula básica para a pressão arterial?",
+      "options": [
+        "PA = GC - RVP",
+        "PA = GC + RVP",
+        "PA = RVP / GC",
+        "PA = GC x RVP"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A fórmula hemodinâmica básica estabelece que a Pressão Arterial (PA) é o produto do Débito Cardíaco (DC), que é o volume de sangue que o coração bombeia por minuto, multiplicado pela Resistência Vascular Periférica (RVP), que é a oposição ao fluxo sanguíneo nos vasos. Um aumento em qualquer uma dessas variáveis ​​eleva a PA."
+    },
+    {
+      "question": "O que define fisiopatologicamente a hipertensão?",
+      "options": [
+        "Baixo débito cardíaco",
+        "Frequência cardíaca elevada",
+        "Aumento do PVR",
+        "Baixa viscosidade do sangue"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na hipertensão estabelecida, o mecanismo central é o aumento persistente da resistência vascular periférica (RVP). Isto se deve principalmente a anormalidades na estrutura e função das arteríolas de resistência, incluindo disfunção endotelial e remodelação vascular, que reduzem o raio interno dos vasos."
+    },
+    {
+      "question": "Principal vasodilatador endógeno afetado?",
+      "options": [
+        "Endotelina-1",
+        "Tromboxano A₂",
+        "Óxido Nítrico",
+        "Angiotensina II"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O óxido nítrico (NO) é o principal vasodilatador produzido pelo endotélio. Na hipertensão, sua biodisponibilidade diminui devido à sua inativação pelo estresse oxidativo (radicais livres como o ânion superóxido), o que favorece o aumento do tônus ​​vascular e a vasoconstrição."
+    },
+    {
+      "question": "O que causa a remodelação vascular?",
+      "options": [
+        "Aumento de volume",
+        "Hipertrofia medial",
+        "Disfunção renal",
+        "Menor consumo de sal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A remodelação vascular é uma alteração estrutural irreversível na parede das arteríolas de resistência, que reduz seu raio interno. Essa alteração inclui hipertrofia medial (aumento de células musculares lisas) e fibrose, que aumenta drasticamente a Resistência Vascular Periférica (RVP)."
+    },
+    {
+      "question": "A resistência é inversamente proporcional a quê?",
+      "options": [
+        "Quarta potência do raio",
+        "Poder de gasto",
+        "pressão de pulso",
+        "Volume plasmático"
+      ],
+      "correctAnswer": 1,
+      "explanation": "De acordo com a Lei de Poiseuille, a resistência ao fluxo sanguíneo é inversamente proporcional à quarta potência do raio. Isto significa que mesmo uma pequena redução no raio interno do vaso (devido à remodelação) provoca um aumento muito significativo e dramático na Resistência Vascular Periférica (RVP)."
+    },
+    {
+      "question": "O que torna o ECA o RAAS?",
+      "options": [
+        "Renina em Aldosterona",
+        "Angiotensinogênio em Renina",
+        "Aldosterona em Angiotensina I",
+        "Angiotensina I em Angiotensina II"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A Enzima Conversora de Angiotensina (ECA) é uma enzima chave do SRAA. Sua função é converter a Angiotensina I, biologicamente inativa, em Angiotensina II (Ang II), que é um potente vasoconstritor e fator trófico que promove hipertrofia e remodelamento vascular."
+    },
+    {
+      "question": "Qual receptor estimula a angiotensina II?",
+      "options": [
+        "Receptor de Aldosterona",
+        "receptores alfa_1 adrenérgicos",
+        "Receptores de renina",
+        "córtex adrenal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A angiotensina II (Ang II) estimula o córtex adrenal a liberar aldosterona. A aldosterona é um hormônio que atua nos túbulos renais causando a retenção de Sódio e água, o que leva ao aumento do volume plasmático e, consequentemente, do Débito Cardíaco."
+    },
+    {
+      "question": "Principal efeito da Aldosterona?",
+      "options": [
+        "Vasoconstrição aguda",
+        "Aumento da diurese",
+        "Retenção de sódio e água",
+        "Ativação do SNS"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O principal efeito da Aldosterona, estimulada pela Angiotensina II, é aumentar a reabsorção de Sódio (Na^+) e água nos túbulos renais. Isso resulta na expansão do volume plasmático, o que contribui para o aumento do débito cardíaco e da pressão arterial elevada."
+    },
+    {
+      "question": "O que as catecolaminas estimulam no coração?",
+      "options": [
+        "receptores alfa_1",
+        "Liberação de Renina",
+        "receptores beta_1",
+        "túbulos renais"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A hiperatividade do Sistema Nervoso Simpático (SNS) libera catecolaminas (norepinefrina e adrenalina). Estes estimulam os receptores adrenérgicos beta_1 no coração, o que provoca um aumento na frequência cardíaca e na força de contração, aumentando assim o débito cardíaco."
+    },
+    {
+      "question": "A hipertensão exige o que para a natriurese?",
+      "options": [
+        "Mais volume plasmático",
+        "PA significativamente mais alta",
+        "Menos reabsorção de sódio",
+        "Inibição da renina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Na PAE, a curva Pressão-Natiurese está deslocada para a direita. Isto significa que o rim necessita de uma Pressão Arterial (PA) significativamente mais elevada do que o normal para excretar a quantidade necessária de Sódio (Na^+) e água para manter o equilíbrio, estabelecendo um novo “ponto de ajuste” mais elevado."
+    }
+  ]
+}

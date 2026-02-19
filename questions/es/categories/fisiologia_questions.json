@@ -1,0 +1,4646 @@
+{
+  "questions": [
+    {
+      "question": "¿Qué técnica permite el registro del flujo de corriente a través de un único canal proteico?",
+      "options": [
+        "Microscopía electrónica",
+        "Espectroscopía de masas",
+        "Electroforesis en gel",
+        "Pinzamiento zonal de membrana (patch-clamp)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El patch-clamp es una técnica que aísla un parche de membrana para medir el flujo iónico a través de canales individuales."
+    },
+    {
+      "question": "¿Qué facilita la difusión de sustancias a través de la membrana celular en la difusión facilitada?",
+      "options": [
+        "Proteínas transportadoras",
+        "El gradiente de concentración",
+        "La presión osmótica",
+        "El potencial eléctrico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las proteínas transportadoras se unen a las sustancias y cambian su forma para permitir su paso a través de la membrana."
+    },
+    {
+      "question": "¿Qué característica distingue a la difusión facilitada de la difusión simple?",
+      "options": [
+        "Dependencia del gradiente de concentración",
+        "Uso de proteínas de membrana",
+        "Transporte de agua",
+        "Velocidad de difusión limitada por Vmax"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A diferencia de la difusión simple, la facilitada alcanza una velocidad máxima de transporte."
+    },
+    {
+      "question": "¿Cuál es el principal factor que determina la velocidad neta de difusión de una sustancia a través de una membrana?",
+      "options": [
+        "El tamaño de la molécula",
+        "La temperatura del sistema",
+        "La diferencia de concentración a través de la membrana",
+        "La viscosidad del medio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La difusión neta está directamente relacionada con la disparidad en la cantidad de sustancia entre los dos lados de la membrana."
+    },
+    {
+      "question": "¿Cómo afecta un potencial eléctrico a la difusión de iones a través de una membrana?",
+      "options": [
+        "No tiene efecto sobre los iones",
+        "Mueve los iones en contra de su gradiente de concentración",
+        "Iguala las concentraciones de iones rápidamente",
+        "Atrae o repele iones según su carga"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las cargas opuestas se atraen y las iguales se repelen, influyendo en el movimiento iónico."
+    },
+    {
+      "question": "¿Qué ecuación se utiliza para calcular el potencial de equilibrio para un ion a través de una membrana?",
+      "options": [
+        "Ecuación de Fick",
+        "Ley de Boyle",
+        "Ecuación de Nernst",
+        "Ley de Charles"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La ecuación de Nernst determina el potencial eléctrico necesario para equilibrar el gradiente de concentración de un ion."
+    },
+    {
+      "question": "¿Qué fuerza contribuye al movimiento neto de moléculas a través de una membrana, además de la concentración?",
+      "options": [
+        "La gravedad",
+        "La presión",
+        "El magnetismo",
+        "La inercia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Una diferencia de presión genera un flujo de moléculas desde la zona de mayor presión a la de menor presión."
+    },
+    {
+      "question": "¿Qué término describe el movimiento neto de agua a través de una membrana semipermeable?",
+      "options": [
+        "Ósmosis",
+        "Difusión",
+        "Transporte activo",
+        "Convección"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ósmosis es un tipo especial de difusión que se refiere específicamente al movimiento del agua."
+    },
+    {
+      "question": "En la ósmosis, ¿en qué dirección se mueve el agua a través de una membrana semipermeable?",
+      "options": [
+        "De la solución más concentrada a la menos concentrada",
+        "De la solución con menor presión a la de mayor presión",
+        "Del área de menor concentración de agua al de mayor concentración de agua",
+        "Del área de mayor concentración de agua al de menor concentración de agua"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El agua se desplaza desde una región con alta presencia de agua hacia una con menor presencia de agua."
+    },
+    {
+      "question": "¿Qué se entiende por presión osmótica?",
+      "options": [
+        "La presión ejercida por todas las moléculas en una solución",
+        "La presión necesaria para detener el flujo neto de agua a través de una membrana",
+        "La presión dentro de una célula debido a la entrada de solutos",
+        "La presión que impulsa el movimiento de iones a través de una membrana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La presión osmótica contrarresta el movimiento del agua a través de una membrana semipermeable."
+    },
+    {
+      "question": "¿Qué determina la presión osmótica de una solución?",
+      "options": [
+        "La masa de las partículas en la solución",
+        "El tipo de partículas en la solución",
+        "El número de partículas por unidad de volumen",
+        "La carga de las partículas en la solución"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La cantidad de partículas, no su tamaño, es lo que influye en la presión osmótica."
+    },
+    {
+      "question": "¿Qué unidad se utiliza para expresar la concentración de una solución en términos del número de partículas?",
+      "options": [
+        "Gramo",
+        "Mol",
+        "Litro",
+        "Osmol"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El osmol considera la actividad osmótica de las partículas en una solución."
+    },
+    {
+      "question": "¿Cuál es la osmolaridad normal aproximada de los líquidos corporales?",
+      "options": [
+        "30 mosmol/kg de agua",
+        "300 mosmol/kg de agua",
+        "3.000 mosmol/kg de agua",
+        "30.000 mosmol/kg de agua"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los fluidos del cuerpo mantienen una concentración específica de partículas para funcionar correctamente."
+    },
+    {
+      "question": "¿Qué proceso permite a las células mover sustancias en contra de un gradiente de concentración?",
+      "options": [
+        "Difusión simple",
+        "Difusión facilitada",
+        "Transporte activo",
+        "Ósmosis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El transporte activo requiere energía para mover sustancias desde un área de baja concentración a una de alta concentración."
+    },
+    {
+      "question": "¿Cuál es la fuente de energía para el transporte activo primario?",
+      "options": [
+        "Gradiente de concentración de otra sustancia",
+        "Luz solar",
+        "Hidrólisis de ATP",
+        "Energía cinética de las moléculas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El ATP proporciona la energía directa para el transporte a través de la membrana."
+    },
+    {
+      "question": "¿Qué proteína transportadora es responsable de mantener las diferencias de concentración de sodio y potasio a través de la membrana celular?",
+      "options": [
+        "Bomba de calcio",
+        "Bomba de hidrógeno",
+        "Bomba sodio-potasio",
+        "Transportador de glucosa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La bomba de sodio-potasio es crucial para el equilibrio iónico y el potencial de membrana en las células."
+    },
+    {
+      "question": "¿Cuántos iones de sodio se bombean hacia el exterior de la célula por cada dos iones de potasio que se bombean hacia el interior?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La bomba sodio-potasio expulsa tres iones de sodio e introduce dos iones de potasio."
+    },
+    {
+      "question": "¿Cuál es una de las funciones importantes de la bomba Na+/K+?",
+      "options": [
+        "Generar ATP",
+        "Controlar el volumen celular",
+        "Sintetizar proteínas",
+        "Almacenar glucosa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La bomba Na+/K+ ayuda a prevenir que las células se hinchen y estallen regulando el movimiento de agua."
+    },
+    {
+      "question": "¿Qué tipo de transporte activo se encuentra en las células parietales de las glándulas gástricas?",
+      "options": [
+        "Calcio",
+        "Sodio-potasio",
+        "Glucosa",
+        "Hidrógeno"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las células parietales utilizan el transporte activo de hidrógeno para secretar ácido clorhídrico en el estómago."
+    },
+    {
+      "question": "¿Qué bomba de iones también se encuentra en el retículo sarcoplásmico de las células musculares?",
+      "options": [
+        "Bomba de sodio",
+        "Bomba de potasio",
+        "Bomba de cloruro",
+        "Bomba de calcio"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La bomba de calcio regula la concentración de calcio dentro de las células musculares, lo cual es vital para la contracción muscular."
+    },
+    {
+      "question": "¿Cuál es el potencial de membrana en reposo de las fibras nerviosas grandes?",
+      "options": [
+        "-90 mV",
+        "-70 mV",
+        "+35 mV",
+        "0 mV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En su estado de reposo, el interior de una fibra nerviosa grande mantiene una carga negativa de aproximadamente -90 mV en comparación con el exterior."
+    },
+    {
+      "question": "¿Qué tipo de transporte mantiene el gradiente de concentración de sodio y potasio a través de la membrana nerviosa?",
+      "options": [
+        "Difusión facilitada",
+        "Ósmosis",
+        "Bomba de sodio-potasio",
+        "Canales de fuga"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La bomba de sodio-potasio utiliza energía para expulsar sodio de la célula e introducir potasio, estableciendo así los gradientes necesarios."
+    },
+    {
+      "question": "¿Cuántos iones de sodio son expulsados de la célula por la bomba sodio-potasio por cada dos iones de potasio que entran?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La bomba de sodio-potasio mueve tres iones de sodio hacia afuera y dos iones de potasio hacia adentro en cada ciclo."
+    },
+    {
+      "question": "¿Qué contribuye significativamente al potencial de membrana en reposo negativo?",
+      "options": [
+        "La entrada de iones sodio",
+        "La salida de iones potasio",
+        "La bomba de calcio",
+        "La acumulación de iones cloruro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La salida de iones potasio a través de los canales de fuga genera un potencial negativo dentro de la célula."
+    },
+    {
+      "question": "¿Cuál es el potencial de Nernst para el potasio, calculado a partir de su gradiente de concentración?",
+      "options": [
+        "+61 mV",
+        "-86 mV",
+        "-90 mV",
+        "-94 mV"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El potencial de Nernst para el potasio es de -94 mV, lo que refleja su alta concentración dentro de la célula."
+    },
+    {
+      "question": "¿Qué ecuación se utiliza para predecir el potencial de membrana cuando la membrana es permeable a varios iones?",
+      "options": [
+        "Ecuación de Nernst",
+        "Ecuación de Fick",
+        "Ecuación de Goldman",
+        "Ley de Ohm"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La ecuación de Goldman considera las permeabilidades relativas de diferentes iones para calcular el potencial de membrana."
+    },
+    {
+      "question": "¿Qué valor se acerca más al potencial de membrana en reposo determinado por la difusión de potasio y sodio?",
+      "options": [
+        "-94 mV",
+        "+61 mV",
+        "-86 mV",
+        "-90 mV"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La difusión de potasio y sodio establece un potencial de membrana en reposo de aproximadamente -86 mV."
+    },
+    {
+      "question": "¿Qué valor adicional aporta la bomba de sodio-potasio al potencial de membrana en reposo?",
+      "options": [
+        "+4 mV",
+        "-4 mV",
+        "+6 mV",
+        "-6 mV"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La bomba de sodio-potasio contribuye con -4 mV adicionales al potencial de membrana en reposo."
+    },
+    {
+      "question": "¿Cuál es el potencial de membrana en reposo combinado cuando se consideran la difusión de potasio y sodio y la bomba de sodio-potasio?",
+      "options": [
+        "-90 mV",
+        "-86 mV",
+        "+61 mV",
+        "-94 mV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La combinación de la difusión de iones y la actividad de la bomba da como resultado un potencial de membrana en reposo de -90 mV."
+    },
+    {
+      "question": "¿Qué evento inicia el potencial de acción?",
+      "options": [
+        "Repolarización",
+        "Despolarización",
+        "Hiperpolarización",
+        "El potencial de reposo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El potencial de acción comienza con una rápida despolarización de la membrana."
+    },
+    {
+      "question": "¿Cuál es el cambio en el potencial de membrana durante la despolarización?",
+      "options": [
+        "De negativo a positivo",
+        "De positivo a negativo",
+        "No hay cambio",
+        "Mantenimiento del potencial negativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Durante la despolarización, el interior de la membrana se vuelve menos negativo y puede llegar a ser positivo."
+    },
+    {
+      "question": "¿Qué causa la repolarización de la membrana después de la despolarización?",
+      "options": [
+        "Entrada de iones sodio",
+        "Salida de iones sodio",
+        "Entrada de iones potasio",
+        "Salida de iones potasio"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La repolarización ocurre cuando los iones de potasio salen de la célula, restaurando el potencial de membrana negativo."
+    },
+    {
+      "question": "¿Qué canales iónicos se abren primero durante un potencial de acción?",
+      "options": [
+        "Canales de sodio activados por voltaje",
+        "Canales de potasio activados por voltaje",
+        "Canales de fuga de potasio",
+        "Bomba de sodio-potasio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los canales de sodio activados por voltaje se abren rápidamente al inicio del potencial de acción, permitiendo la entrada de sodio."
+    },
+    {
+      "question": "¿Qué causa el cierre de los canales de sodio activados por voltaje?",
+      "options": [
+        "Cambio en el potencial de membrana",
+        "Entrada de iones potasio",
+        "Salida de iones potasio",
+        "La bomba de sodio-potasio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cambio en el potencial de membrana provoca el cierre de los canales de sodio activados por voltaje."
+    },
+    {
+      "question": "¿Qué evento sigue a la inactivación de los canales de sodio?",
+      "options": [
+        "Despolarización",
+        "Repolarización",
+        "Hiperpolarización",
+        "Potencial de reposo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Después de la inactivación de los canales de sodio, la membrana se repolariza."
+    },
+    {
+      "question": "¿Cuál es la función de los canales de potasio activados por voltaje?",
+      "options": [
+        "Repolarización",
+        "Despolarización",
+        "Mantenimiento del potencial de reposo",
+        "Inactivación de los canales de sodio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los canales de potasio activados por voltaje ayudan en la repolarización de la membrana."
+    },
+    {
+      "question": "¿Cómo afecta la apertura de los canales de potasio al potencial de membrana?",
+      "options": [
+        "Lo vuelve más negativo",
+        "Lo vuelve más positivo",
+        "No lo afecta",
+        "Lo mantiene igual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La apertura de los canales de potasio hace que el potencial de membrana se vuelva más negativo."
+    },
+    {
+      "question": "¿Qué técnica se utiliza para medir el flujo de iones a través de canales específicos?",
+      "options": [
+        "Pinza de voltaje",
+        "Microscopía electrónica",
+        "Electroforesis en gel",
+        "Espectroscopía de masas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La técnica de la pinza de voltaje permite a los científicos controlar el voltaje de la membrana y medir las corrientes iónicas."
+    },
+    {
+      "question": "¿Qué toxina bloquea los canales de sodio?",
+      "options": [
+        "Tetraetilamonio",
+        "Tetrodotoxina",
+        "Curare",
+        "Botulina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La tetrodotoxina es una toxina que bloquea específicamente los canales de sodio, impidiendo la despolarización."
+    },
+    {
+      "question": "¿Qué ion tiene una conductancia mucho mayor a través de la membrana en reposo?",
+      "options": [
+        "Potasio",
+        "Sodio",
+        "Calcio",
+        "Cloruro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el estado de reposo, la membrana es mucho más permeable al potasio que al sodio."
+    },
+    {
+      "question": "¿Qué tipo de célula forma la vaina de mielina alrededor del axón?",
+      "options": [
+        "Célula de Schwann",
+        "Fibroblasto",
+        "Astrocito",
+        "Oligodendrocito"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La vaina de mielina es producida por células de Schwann que se enrollan alrededor del axón."
+    },
+    {
+      "question": "¿Cuál es la principal sustancia lipídica que compone la vaina de mielina?",
+      "options": [
+        "Colesterol",
+        "Esfingomielina",
+        "Triglicérido",
+        "Fosfolípido"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La esfingomielina, un lípido, es el componente principal de la vaina de mielina y actúa como aislante."
+    },
+    {
+      "question": "¿Cuál es la función principal de la vaina de mielina?",
+      "options": [
+        "Disminuir el flujo iónico",
+        "Aumentar el flujo iónico",
+        "Proporcionar soporte estructural al axón",
+        "Regular la producción de neurotransmisores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La vaina de mielina aísla el axón, reduciendo significativamente el paso de iones a través de la membrana."
+    },
+    {
+      "question": "¿Cómo se llaman las pequeñas zonas no aisladas entre las células de Schwann?",
+      "options": [
+        "Uniones gap",
+        "Nódulos de Ranvier",
+        "Placas terminales",
+        "Sinapsis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los nódulos de Ranvier son los espacios entre las células de Schwann donde el axón está expuesto."
+    },
+    {
+      "question": "¿Qué ocurre en los nódulos de Ranvier?",
+      "options": [
+        "Intercambio de iones",
+        "Síntesis de proteínas",
+        "Almacenamiento de neurotransmisores",
+        "Degradación de lípidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los nódulos de Ranvier permiten el flujo de iones a través de la membrana del axón."
+    },
+    {
+      "question": "¿Cómo se llama la conducción del potencial de acción en las fibras mielinizadas?",
+      "options": [
+        "Conducción saltatoria",
+        "Conducción continua",
+        "Conducción retrógrada",
+        "Conducción ortodrómica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En las fibras mielinizadas, el potencial de acción salta de un nódulo a otro, lo que se conoce como conducción saltatoria."
+    },
+    {
+      "question": "¿Qué fluye a través del axoplasma en la conducción saltatoria?",
+      "options": [
+        "Neurotransmisores",
+        "Corriente eléctrica",
+        "Líquido cefalorraquídeo",
+        "Calcio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La corriente eléctrica viaja a través del axoplasma de un nódulo a otro."
+    },
+    {
+      "question": "¿Cuál es una de las ventajas de la conducción saltatoria?",
+      "options": [
+        "Disminuye la velocidad de transmisión",
+        "Aumenta la velocidad de transmisión",
+        "Aumenta el consumo de energía",
+        "Reduce la longitud de los nódulos de Ranvier"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La conducción saltatoria acelera la transmisión del impulso nervioso."
+    },
+    {
+      "question": "¿Qué se conserva gracias a la conducción saltatoria?",
+      "options": [
+        "Calcio",
+        "Energía",
+        "Glucosa",
+        "Proteínas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La conducción saltatoria reduce la cantidad de iones que necesitan ser bombeados para restaurar el potencial de membrana, ahorrando energía."
+    },
+    {
+      "question": "¿Cuál es el rango de velocidad de conducción en las fibras nerviosas mielinizadas grandes?",
+      "options": [
+        "0.25 m/s",
+        "1-5 m/s",
+        "5-20 m/s",
+        "Hasta 100 m/s"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las fibras mielinizadas grandes pueden alcanzar velocidades de conducción de hasta 100 m/s."
+    },
+    {
+      "question": "¿Qué factor inicia la apertura de los canales de sodio para generar un potencial de acción?",
+      "options": [
+        "Flujo de iones potasio hacia el exterior",
+        "Flujo de iones sodio hacia el interior",
+        "Cierre de los canales de calcio",
+        "Activación de la bomba sodio-potasio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La entrada de iones sodio en la célula desencadena la apertura de los canales de sodio y el inicio del potencial de acción."
+    },
+    {
+      "question": "¿Qué tipo de estímulo puede desencadenar un potencial de acción?",
+      "options": [
+        "Solo estímulos químicos",
+        "Solo estímulos eléctricos",
+        "Estímulos mecánicos, químicos o eléctricos",
+        "Solo estímulos lumínicos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los potenciales de acción pueden ser iniciados por diversos estímulos, incluyendo presión, neurotransmisores o corriente eléctrica."
+    },
+    {
+      "question": "¿Qué efecto tiene un electrodo negativo sobre la membrana de una fibra nerviosa?",
+      "options": [
+        "Despolarización",
+        "Hiperpolarización",
+        "Repolarización",
+        "No tiene efecto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un electrodo negativo reduce el voltaje de la membrana, lo que facilita la apertura de los canales de sodio y la despolarización."
+    },
+    {
+      "question": "¿Qué se entiende por 'potenciales locales agudos'?",
+      "options": [
+        "Pequeños cambios en el potencial de membrana que no desencadenan un potencial de acción",
+        "Potenciales de acción completos",
+        "Potenciales de membrana en reposo",
+        "Hiperpolarización de la membrana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los potenciales locales agudos son cambios en el potencial de membrana que no alcanzan el umbral para generar un potencial de acción."
+    },
+    {
+      "question": "¿Qué define el 'umbral' de excitación?",
+      "options": [
+        "El potencial de membrana en reposo",
+        "El punto en el que un estímulo desencadena un potencial de acción",
+        "El potencial de acción máximo",
+        "El período refractario"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El umbral es el nivel de despolarización necesario para iniciar un potencial de acción."
+    },
+    {
+      "question": "¿Qué ocurre durante el período refractario absoluto?",
+      "options": [
+        "No se puede generar un nuevo potencial de acción",
+        "La fibra es hiperexcitable",
+        "La fibra se repolariza rápidamente",
+        "Se produce la máxima contracción muscular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Durante el período refractario absoluto, la membrana no puede generar otro potencial de acción."
+    },
+    {
+      "question": "¿Cuál es la causa del período refractario absoluto?",
+      "options": [
+        "Inactivación de los canales de sodio",
+        "Activación de la bomba sodio-potasio",
+        "Aumento de la permeabilidad al potasio",
+        "Acumulación de calcio en la célula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La inactivación de los canales de sodio impide la generación de un nuevo potencial de acción durante el período refractario absoluto."
+    },
+    {
+      "question": "¿Qué ion actúa como 'estabilizador' de la membrana, reduciendo la excitabilidad?",
+      "options": [
+        "Sodio",
+        "Potasio",
+        "Calcio",
+        "Cloruro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El calcio reduce la permeabilidad de la membrana a los iones sodio, disminuyendo la excitabilidad."
+    },
+    {
+      "question": "¿Cómo actúan los anestésicos locales como la procaína?",
+      "options": [
+        "Abriendo los canales de sodio",
+        "Cerrando los canales de sodio",
+        "Aumentando la permeabilidad al potasio",
+        "Bloqueando la bomba sodio-potasio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los anestésicos locales dificultan la apertura de los canales de sodio, reduciendo la excitabilidad de la membrana."
+    },
+    {
+      "question": "¿Qué ocurre cuando el 'factor de seguridad' se reduce por debajo de 1?",
+      "options": [
+        "Aumenta la velocidad de conducción",
+        "Disminuye el período refractario",
+        "Los impulsos nerviosos no se transmiten",
+        "Se produce hiperpolarización"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cuando el factor de seguridad es menor que 1, los impulsos nerviosos no pueden propagarse a lo largo del nervio."
+    },
+    {
+      "question": "¿Qué tipo de contracción muscular ocurre cuando la tensión del músculo permanece constante y el músculo se acorta?",
+      "options": [
+        "Contracción isotónica",
+        "Contracción isométrica",
+        "Contracción excéntrica",
+        "Contracción concéntrica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La contracción isotónica implica el acortamiento del músculo mientras mantiene una tensión constante, permitiendo el movimiento."
+    },
+    {
+      "question": "¿Cuál de los siguientes músculos tiene una contracción isométrica más rápida?",
+      "options": [
+        "Músculo sóleo",
+        "Músculo gastrocnemio",
+        "Músculo ocular",
+        "Músculo cuádriceps"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El músculo ocular está diseñado para movimientos rápidos, por lo tanto, tiene una contracción isométrica de menor duración."
+    },
+    {
+      "question": "¿Qué caracteriza a las fibras musculares lentas?",
+      "options": [
+        "Pocas mitocondrias",
+        "Menor vascularización",
+        "Grandes cantidades de mioglobina",
+        "Fibras de gran diámetro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La mioglobina en las fibras lentas ayuda a almacenar oxígeno, lo cual es vital para su metabolismo oxidativo."
+    },
+    {
+      "question": "¿Cuál es una característica de las fibras musculares rápidas?",
+      "options": [
+        "Alta resistencia a la fatiga",
+        "Abundancia de mioglobina",
+        "Metabolismo oxidativo predominante",
+        "Retículo sarcoplásmico extenso"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Un retículo sarcoplásmico extenso permite una liberación rápida de calcio, esencial para la contracción en las fibras rápidas."
+    },
+    {
+      "question": "¿Qué es una unidad motora?",
+      "options": [
+        "Un grupo de músculos que trabajan juntos",
+        "Una fibra nerviosa que inerva un músculo entero",
+        "Todas las fibras musculares inervadas por una sola fibra nerviosa",
+        "Un conjunto de miofibrillas dentro de una célula muscular"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La unidad motora es el conjunto de fibras musculares controladas por una única neurona motora."
+    },
+    {
+      "question": "¿Qué proceso aumenta la fuerza de la contracción muscular mediante la adición de espasmos individuales?",
+      "options": [
+        "Tetanización",
+        "Fasciculación",
+        "Fusión",
+        "Sumación"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La sumación muscular aumenta la fuerza de contracción a través de la adición de espasmos musculares."
+    },
+    {
+      "question": "¿Qué fenómeno ocurre cuando la frecuencia de estimulación muscular es tan alta que las contracciones se fusionan y parecen continuas?",
+      "options": [
+        "Tetanización",
+        "Efecto de escalera",
+        "Sumación de frecuencia",
+        "Reclutamiento de unidades motoras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La tetanización es la fusión de contracciones musculares a alta frecuencia, resultando en una contracción sostenida."
+    },
+    {
+      "question": "¿Cuál es la fuerza de contracción tetánica máxima promedio de un músculo?",
+      "options": [
+        "3 a 4 kg por centímetro cuadrado",
+        "1 a 2 kg por centímetro cuadrado",
+        "5 a 6 kg por centímetro cuadrado",
+        "7 a 8 kg por centímetro cuadrado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La fuerza máxima promedio que un músculo puede alcanzar en contracción tetánica es de 3 a 4 kg por centímetro cuadrado."
+    },
+    {
+      "question": "¿Qué término describe el aumento en la fuerza de contracción muscular que ocurre después de un período de reposo?",
+      "options": [
+        "Tetanización",
+        "Hipertrofia",
+        "Sumación",
+        "Efecto de escalera (Treppe)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El efecto de escalera, o Treppe, describe el aumento gradual en la fuerza de contracción al inicio de la actividad muscular."
+    },
+    {
+      "question": "¿A qué se debe el tono del músculo esquelético?",
+      "options": [
+        "Estiramiento pasivo del músculo",
+        "Impulsos nerviosos de baja frecuencia de la médula espinal",
+        "Acumulación de ácido láctico",
+        "Reflejos tendinosos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tono muscular es mantenido por impulsos nerviosos constantes de baja frecuencia desde la médula espinal."
+    },
+    {
+      "question": "¿Cuál es una causa principal de la fatiga muscular?",
+      "options": [
+        "Acumulación de ácido láctico",
+        "Disminución del flujo sanguíneo",
+        "Agotamiento del glucógeno",
+        "Aumento de la temperatura muscular"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La fatiga muscular está fuertemente relacionada con la disminución de las reservas de glucógeno en el músculo."
+    },
+    {
+      "question": "¿Qué tipo de sistema de palanca utiliza el bíceps para levantar el antebrazo?",
+      "options": [
+        "Palanca de primera clase",
+        "Palanca de segunda clase",
+        "Palanca de tercera clase",
+        "Palanca de cuarta clase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El bíceps actúa como una palanca de tercera clase, donde la fuerza se aplica entre el punto de apoyo y la carga."
+    },
+    {
+      "question": "¿Qué término describe la contracción simultánea de músculos agonistas y antagonistas?",
+      "options": [
+        "Inervación recíproca",
+        "Coactivación",
+        "Sumación",
+        "Tetanización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La coactivación se refiere a la contracción simultánea de músculos opuestos para controlar el movimiento y la posición articular."
+    },
+    {
+      "question": "¿Cómo se llama el proceso de aumento de la masa muscular?",
+      "options": [
+        "Atrofia",
+        "Hiperplasia",
+        "Hipertrofia",
+        "Metaplasia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La hipertrofia es el término para el crecimiento del tejido muscular, generalmente debido al aumento en el tamaño de las células musculares."
+    },
+    {
+      "question": "¿Cuál es el principal factor que contribuye a la hipertrofia muscular?",
+      "options": [
+        "Aumento del número de filamentos de actina y miosina",
+        "Aumento del número de células musculares",
+        "Aumento del tejido conectivo",
+        "Aumento de la vascularización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hipertrofia muscular es principalmente el resultado del incremento en la cantidad de proteínas contráctiles dentro de las células musculares."
+    },
+    {
+      "question": "¿Qué proceso conduce a la atrofia muscular?",
+      "options": [
+        "Aumento de la síntesis de proteínas",
+        "Disminución de la degradación de proteínas",
+        "Ejercicio de alta intensidad",
+        "Desuso prolongado del músculo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La atrofia muscular ocurre cuando el músculo no se utiliza regularmente, lo que lleva a una disminución en su masa."
+    },
+    {
+      "question": "¿Qué le sucede a la longitud del músculo cuando se distiende más de lo normal?",
+      "options": [
+        "Disminuye por la pérdida de sarcómeros",
+        "Aumenta por la adición de sarcómeros",
+        "Permanece igual",
+        "Aumenta por la hiperplasia de las fibras"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los músculos pueden adaptarse a una mayor longitud mediante la adición de sarcómeros en los extremos de las fibras musculares."
+    },
+    {
+      "question": "¿Qué ocurre en la hiperplasia muscular?",
+      "options": [
+        "Aumenta el número de fibras musculares",
+        "Las fibras musculares aumentan de tamaño",
+        "Aumenta la cantidad de tejido conectivo",
+        "Las fibras musculares se acortan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hiperplasia muscular implica un aumento en el número real de fibras musculares, aunque es menos común que la hipertrofia."
+    },
+    {
+      "question": "¿Qué causa la rigidez cadavérica después de la muerte?",
+      "options": [
+        "Pérdida de ATP",
+        "Acumulación de ácido láctico",
+        "Aumento de la permeabilidad al calcio",
+        "Desnaturalización de proteínas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La rigidez cadavérica es causada por la falta de ATP, que impide la separación de los puentes cruzados entre actina y miosina."
+    },
+    {
+      "question": "¿Cuál es una característica clave de la distrofia muscular de Duchenne (DMD)?",
+      "options": [
+        "Es causada por la mutación del gen de la distrofina",
+        "Afecta tanto a hombres como a mujeres por igual",
+        "Comienza en la edad adulta",
+        "Se caracteriza por la sobreproducción de distrofina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La DMD es una enfermedad genética ligada al cromosoma X causada por una mutación en el gen que codifica la distrofina."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una característica del músculo liso?",
+      "options": [
+        "Presencia de filamentos de actina y miosina",
+        "Control por el complejo de troponina",
+        "Activación por iones de calcio",
+        "Uso de ATP para la contracción"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A diferencia del músculo esquelético, el músculo liso no utiliza el complejo de troponina para controlar la contracción."
+    },
+    {
+      "question": "¿Qué estructura del músculo liso es funcionalmente análoga al disco Z del músculo esquelético?",
+      "options": [
+        "Filamentos de miosina",
+        "Filamentos de actina",
+        "Puentes proteicos intercelulares",
+        "Cuerpos densos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los cuerpos densos en el músculo liso actúan de manera similar a los discos Z en el músculo esquelético, proporcionando un punto de anclaje para los filamentos de actina."
+    },
+    {
+      "question": "¿Cuál es una característica única de los filamentos de miosina en el músculo liso?",
+      "options": [
+        "Disposición estriada",
+        "Puentes cruzados lateropolares",
+        "Unión al complejo de troponina",
+        "Ciclado rápido"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los filamentos de miosina en el músculo liso tienen puentes cruzados lateropolares, lo que les permite tirar de los filamentos de actina en direcciones opuestas."
+    },
+    {
+      "question": "¿Qué tipo de contracciones son típicas del músculo liso?",
+      "options": [
+        "Contracciones tónicas prolongadas",
+        "Contracciones rápidas y fásicas",
+        "Contracciones isométricas breves",
+        "Contracciones isotónicas rápidas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El músculo liso a menudo exhibe contracciones tónicas que se mantienen durante largos períodos."
+    },
+    {
+      "question": "¿Cuál es la velocidad de ciclado de los puentes cruzados de miosina en el músculo liso en comparación con el músculo esquelético?",
+      "options": [
+        "Más rápido",
+        "Igual",
+        "Variable",
+        "Más lento"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El ciclado de los puentes cruzados de miosina es significativamente más lento en el músculo liso que en el músculo esquelético."
+    },
+    {
+      "question": "¿Qué factor contribuye a la baja necesidad de energía del músculo liso?",
+      "options": [
+        "Baja actividad ATPasa",
+        "Alta actividad ATPasa",
+        "Alta concentración de mioglobina",
+        "Ciclado rápido de los puentes cruzados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La baja actividad ATPasa de las cabezas de los puentes cruzados en el músculo liso reduce la velocidad de degradación del ATP y, por lo tanto, la necesidad de energía."
+    },
+    {
+      "question": "¿Cuál es la proporción aproximada de filamentos de actina a filamentos de miosina en el músculo liso?",
+      "options": [
+        "1:1",
+        "2:1",
+        "5-10:1",
+        "20:1"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En el músculo liso, generalmente hay una proporción mucho mayor de filamentos de actina que de miosina."
+    },
+    {
+      "question": "¿Qué permite la disposición de los puentes cruzados lateropolares en el músculo liso?",
+      "options": [
+        "Contracción rápida",
+        "Contracción en una sola dirección",
+        "Alta fuerza de contracción",
+        "Contracción hasta el 80% de la longitud de la célula"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La configuración de los puentes cruzados lateropolares permite que el músculo liso se contraiga una gran proporción de su longitud."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un ejemplo de músculo liso multiunitario?",
+      "options": [
+        "Pared del intestino",
+        "Músculo del iris del ojo",
+        "Útero",
+        "Vasos sanguíneos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El músculo del iris es un ejemplo de músculo liso multiunitario, donde cada fibra se contrae independientemente."
+    },
+    {
+      "question": "¿Qué tipo de músculo liso se encuentra en la pared de la mayoría de las vísceras?",
+      "options": [
+        "Músculo liso multiunitario",
+        "Músculo liso unitario",
+        "Músculo esquelético",
+        "Músculo cardíaco"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El músculo liso unitario, también conocido como músculo liso visceral, se encuentra en las paredes de las vísceras."
+    },
+    {
+      "question": "¿Cómo se transmiten las fuerzas de contracción entre las células del músculo liso?",
+      "options": [
+        "A través de los discos Z",
+        "A través de los túbulos T",
+        "A través de las uniones neuromusculares",
+        "A través de los cuerpos densos y puentes proteicos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La fuerza de contracción se transmite entre las células del músculo liso principalmente a través de los cuerpos densos y los puentes proteicos intercelulares."
+    },
+    {
+      "question": "¿Qué característica permite que el músculo liso unitario se contraiga como una sola unidad?",
+      "options": [
+        "Inervación individual de cada fibra",
+        "Presencia de troponina",
+        "Disposición de las fibras en fascículos",
+        "Uniones en hendidura entre las células"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las uniones en hendidura permiten que los iones fluyan entre las células, lo que permite que el músculo liso unitario se contraiga de manera coordinada."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es un ejemplo de músculo liso unitario?",
+      "options": [
+        "Músculo ciliar del ojo",
+        "Aparato digestivo",
+        "Uréteres",
+        "Vasos sanguíneos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El músculo ciliar del ojo es un ejemplo de músculo liso multiunitario, no unitario."
+    },
+    {
+      "question": "¿Qué ion es crucial para iniciar el proceso contráctil en el músculo liso?",
+      "options": [
+        "Sodio",
+        "Potasio",
+        "Calcio",
+        "Cloro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los iones de calcio activan el proceso contráctil tanto en el músculo liso como en el esquelético."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones describe mejor la organización de los filamentos en el músculo liso?",
+      "options": [
+        "Filamentos de actina y miosina dispuestos en sarcómeros",
+        "Filamentos de actina unidos a discos Z",
+        "Filamentos de miosina con puentes cruzados bipolares",
+        "Filamentos de actina unidos a cuerpos densos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En el músculo liso, los filamentos de actina están unidos a cuerpos densos."
+    },
+    {
+      "question": "¿Qué característica del músculo liso contribuye a su capacidad para mantener la contracción durante períodos prolongados?",
+      "options": [
+        "Alta velocidad de ciclado de los puentes cruzados",
+        "Baja actividad ATPasa de la miosina",
+        "Abundancia de retículo sarcoplásmico",
+        "Alta concentración de troponina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La baja actividad ATPasa de la miosina en el músculo liso reduce el consumo de energía y ayuda a mantener las contracciones durante períodos prolongados."
+    },
+    {
+      "question": "¿Cuál es la función de los puentes proteicos intercelulares en el músculo liso?",
+      "options": [
+        "Almacenar calcio",
+        "Transmitir la fuerza de contracción entre células",
+        "Generar ATP",
+        "Regular la actividad de la ATPasa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los puentes proteicos intercelulares conectan los cuerpos densos de las células adyacentes y transmiten la fuerza de contracción."
+    },
+    {
+      "question": "¿Qué distingue al músculo liso unitario del músculo liso multiunitario?",
+      "options": [
+        "Presencia de actina y miosina",
+        "Uso de calcio para la contracción",
+        "Contracción independiente de cada fibra",
+        "Contracción sincrónica de muchas fibras"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El músculo liso unitario se caracteriza por la contracción coordinada de muchas fibras como una sola unidad, debido a las uniones en hendidura."
+    },
+    {
+      "question": "¿Cuál de las siguientes no es una función del músculo liso?",
+      "options": [
+        "Control del diámetro de los vasos sanguíneos",
+        "Propulsión del alimento a través del tracto digestivo",
+        "Erección del pelo",
+        "Movimiento del esqueleto"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El movimiento del esqueleto es la función del músculo esquelético, no del músculo liso."
+    },
+    {
+      "question": "¿Qué tipo de músculo permite la mayor amplitud de contracción?",
+      "options": [
+        "Músculo esquelético",
+        "Músculo cardíaco",
+        "Músculo liso",
+        "Músculo estriado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El músculo liso puede contraerse hasta el 80% de su longitud, a diferencia del músculo esquelético."
+    },
+    {
+      "question": "¿Cuál es la función principal del corazón derecho?",
+      "options": [
+        "Bombear sangre a los pulmones",
+        "Bombear sangre a la circulación sistémica",
+        "Recibir sangre de la circulación sistémica",
+        "Recibir sangre de los pulmones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El corazón derecho actúa como una bomba que impulsa la sangre hacia los pulmones para su oxigenación."
+    },
+    {
+      "question": "¿Qué estructura separa las aurículas de los ventrículos?",
+      "options": [
+        "El tabique interauricular",
+        "El tabique interventricular",
+        "El tejido fibroso",
+        "Las válvulas semilunares"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las aurículas están separadas de los ventrículos por una capa de tejido fibroso que rodea las válvulas AV."
+    },
+    {
+      "question": "¿Cuál es la función de las aurículas?",
+      "options": [
+        "Bombear sangre con fuerza a los pulmones",
+        "Bombear sangre con fuerza a la circulación sistémica",
+        "Actuar como bombas de cebado para los ventrículos",
+        "Regular el ritmo cardíaco"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las aurículas funcionan como bombas débiles que ayudan a llenar los ventrículos antes de la contracción ventricular."
+    },
+    {
+      "question": "¿Qué tipo de músculo compone principalmente el corazón?",
+      "options": [
+        "Músculo esquelético",
+        "Músculo liso",
+        "Músculo mixto",
+        "Músculo cardíaco"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El corazón está compuesto principalmente por músculo cardíaco, especializado para la contracción rítmica."
+    },
+    {
+      "question": "¿Qué característica del músculo cardíaco permite que los potenciales de acción viajen rápidamente de una célula a otra?",
+      "options": [
+        "Las miofibrillas",
+        "Los discos intercalados con uniones comunicantes",
+        "El retículo sarcoplásmico",
+        "Los túbulos T"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los discos intercalados contienen uniones comunicantes que facilitan la rápida propagación de los potenciales de acción."
+    },
+    {
+      "question": "¿Qué es un sincitio en el contexto del músculo cardíaco?",
+      "options": [
+        "Una célula muscular cardíaca individual",
+        "Un haz de fibras nerviosas",
+        "Una masa de células musculares interconectadas",
+        "Una válvula cardíaca"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En el músculo cardíaco, un sincitio es una red de células conectadas que permiten la rápida propagación de los potenciales de acción."
+    },
+    {
+      "question": "¿Cuántos sincitios funcionales principales hay en el corazón?",
+      "options": [
+        "Uno",
+        "Dos",
+        "Tres",
+        "Cuatro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El corazón está funcionalmente dividido en dos sincitios: el auricular y el ventricular."
+    },
+    {
+      "question": "¿Cuál es la importancia del retraso en la conducción del impulso cardíaco desde las aurículas a los ventrículos?",
+      "options": [
+        "Permite que las aurículas se contraigan antes que los ventrículos",
+        "Asegura la contracción simultánea de aurículas y ventrículos",
+        "Previene la contracción ventricular prematura",
+        "Aumenta la velocidad de la contracción ventricular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El retraso permite que las aurículas bombeen sangre a los ventrículos antes de que estos se contraigan."
+    },
+    {
+      "question": "¿Qué característica distingue el potencial de acción del músculo cardíaco del músculo esquelético?",
+      "options": [
+        "Mayor amplitud",
+        "Menor duración",
+        "Presencia de una meseta",
+        "Repolarización rápida"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El potencial de acción en el músculo cardíaco tiene una meseta prolongada, lo que alarga la contracción."
+    },
+    {
+      "question": "¿Qué iones son los principales responsables de la meseta en el potencial de acción del músculo cardíaco?",
+      "options": [
+        "Sodio",
+        "Potasio",
+        "Calcio y Sodio",
+        "Cloro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La meseta es causada principalmente por la entrada de iones calcio y sodio a través de los canales lentos."
+    },
+    {
+      "question": "¿Cuál es el efecto de la disminución de la permeabilidad al potasio en el músculo cardíaco después del inicio del potencial de acción?",
+      "options": [
+        "Repolarización más rápida",
+        "Despolarización prolongada (meseta)",
+        "Hiperpolarización",
+        "Ningún efecto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La disminución de la permeabilidad al potasio contribuye a la meseta del potencial de acción."
+    },
+    {
+      "question": "¿Cuánto dura aproximadamente el potencial de acción en el músculo ventricular?",
+      "options": [
+        "0.2 segundos",
+        "1 milisegundo",
+        "5 milisegundos",
+        "1 segundo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El potencial de acción en el músculo ventricular dura aproximadamente 0.2 segundos."
+    },
+    {
+      "question": "¿Qué estructura permite la rápida difusión de iones entre las células del músculo cardíaco?",
+      "options": [
+        "Túbulos T",
+        "Retículo sarcoplásmico",
+        "Discos intercalados",
+        "Miofibrillas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los discos intercalados facilitan el movimiento de iones entre las células cardíacas."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es un tipo de músculo cardíaco?",
+      "options": [
+        "Músculo auricular",
+        "Músculo ventricular",
+        "Fibras musculares esqueléticas",
+        "Fibras musculares especializadas de excitación y de conducción"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El corazón está compuesto por músculo auricular, músculo ventricular y fibras especializadas de excitación y conducción, no esquelético."
+    },
+    {
+      "question": "¿Qué función tienen las fibras especializadas de excitación y de conducción del corazón?",
+      "options": [
+        "Generar la fuerza para la contracción cardíaca",
+        "Regular la contracción del músculo esquelético",
+        "Producir la meseta del potencial de acción",
+        "Controlar el latido rítmico del corazón"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Estas fibras generan potenciales de acción rítmicos que controlan el latido cardíaco."
+    },
+    {
+      "question": "¿En qué se asemeja el músculo cardíaco al músculo esquelético?",
+      "options": [
+        "Duración de la contracción",
+        "Presencia de discos intercalados",
+        "Disposición de las fibras",
+        "Presencia de actina y miosina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Ambos tipos de músculo contienen filamentos de actina y miosina que se deslizan para la contracción."
+    },
+    {
+      "question": "¿Cuál es el valor aproximado del potencial de acción en una fibra muscular ventricular?",
+      "options": [
+        "50 mV",
+        "105 mV",
+        "200 mV",
+        "150 mV"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El potencial de acción en una fibra ventricular es de aproximadamente 105 mV."
+    },
+    {
+      "question": "¿Qué determina el latido rítmico del corazón?",
+      "options": [
+        "El sistema nervioso central",
+        "La ritmicidad cardíaca y la propagación de los potenciales de acción",
+        "Las hormonas circulantes",
+        "La presión arterial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El latido rítmico es resultado de la ritmicidad cardíaca y la conducción de los potenciales de acción."
+    },
+    {
+      "question": "¿Hacia dónde bombea sangre el ventrículo izquierdo?",
+      "options": [
+        "Hacia los pulmones",
+        "Hacia el corazón derecho",
+        "Hacia las aurículas",
+        "Hacia la circulación sistémica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El ventrículo izquierdo bombea sangre a la circulación sistémica, que irriga el resto del cuerpo."
+    },
+    {
+      "question": "¿Cuál es la función del haz AV?",
+      "options": [
+        "Conducir los potenciales de acción directamente desde las aurículas a los ventrículos",
+        "Separar eléctricamente las aurículas de los ventrículos",
+        "Regular la presión arterial",
+        "Controlar la frecuencia cardíaca"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El haz AV es la vía especializada para la conducción de los potenciales de acción desde las aurículas a los ventrículos."
+    },
+    {
+      "question": "¿Qué onda del ECG representa la repolarización ventricular?",
+      "options": [
+        "Onda P",
+        "Complejo QRS",
+        "Onda T",
+        "Intervalo P-Q"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La onda T en el ECG refleja el proceso de repolarización de los ventrículos, que es la recuperación eléctrica de las células ventriculares antes de la siguiente contracción."
+    },
+    {
+      "question": "¿Cuánto tiempo representa cada segmento de 5 mm en el ECG?",
+      "options": [
+        "0.04 s",
+        "0.1 s",
+        "0.2 s",
+        "1 s"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En un ECG estándar, cada segmento de 5 mm en el eje horizontal corresponde a 0.2 segundos, lo que permite medir la duración de los eventos cardíacos."
+    },
+    {
+      "question": "¿Qué indica un voltaje de 1 mV en el ECG estándar?",
+      "options": [
+        "5 divisiones pequeñas",
+        "10 divisiones pequeñas",
+        "1 división grande",
+        "2 divisiones grandes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el ECG, 10 divisiones pequeñas en el eje vertical equivalen a 1 milivoltio, lo que se utiliza para cuantificar la amplitud de las señales eléctricas del corazón."
+    },
+    {
+      "question": "¿Cuál es la duración normal del intervalo P-Q en el ECG?",
+      "options": [
+        "0.08 s",
+        "0.12 s",
+        "0.16 s",
+        "0.20 s"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El intervalo P-Q representa el tiempo desde el inicio de la activación auricular hasta el inicio de la activación ventricular, y su duración normal es de aproximadamente 0.16 segundos."
+    },
+    {
+      "question": "¿Qué representa el complejo QRS en el ECG?",
+      "options": [
+        "Despolarización auricular",
+        "Repolarización auricular",
+        "Repolarización ventricular",
+        "Despolarización ventricular"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El complejo QRS es el resultado de la despolarización de los ventrículos, lo que desencadena la contracción de los mismos."
+    },
+    {
+      "question": "¿Cuál es la velocidad de papel estándar para un ECG?",
+      "options": [
+        "25 mm/s",
+        "10 mm/s",
+        "50 mm/s",
+        "100 mm/s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La velocidad estándar del papel del ECG es de 25 mm/s, lo que permite una correcta medición del tiempo entre las diferentes ondas."
+    },
+    {
+      "question": "¿Qué derivación del ECG utiliza el brazo derecho como electrodo negativo y el brazo izquierdo como electrodo positivo?",
+      "options": [
+        "Derivación I",
+        "Derivación II",
+        "Derivación III",
+        "Derivación aVF"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Derivación I registra la diferencia de potencial entre el brazo izquierdo (positivo) y el brazo derecho (negativo)."
+    },
+    {
+      "question": "¿Cuál es la ley de Einthoven?",
+      "options": [
+        "Derivación I + Derivación II = Derivación III",
+        "Derivación II + Derivación III = Derivación I",
+        "Derivación I = Derivación II = Derivación III",
+        "Derivación I + Derivación III = Derivación II"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La ley de Einthoven establece una relación matemática entre las tres derivaciones bipolares de las extremidades: la suma de los potenciales de las derivaciones I y III es igual al potencial de la derivación II."
+    },
+    {
+      "question": "¿Qué indica un vector QRS medio de +59°?",
+      "options": [
+        "Despolarización ventricular normal",
+        "Hipertrofia ventricular izquierda",
+        "Infarto de miocardio",
+        "Bloqueo de rama"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un vector QRS medio de +59° se considera normal y refleja la dirección general de la despolarización ventricular desde la base hacia la punta del corazón."
+    },
+    {
+      "question": "¿En qué dirección se mide el eje de la derivación I?",
+      "options": [
+        "0°",
+        "+90°",
+        "+180°",
+        "-90°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El eje de la derivación I se mide en 0°, ya que los electrodos están colocados horizontalmente entre los brazos."
+    },
+    {
+      "question": "¿Cuál es la función del triángulo de Einthoven en el ECG?",
+      "options": [
+        "Calcular el eje cardíaco",
+        "Medir la frecuencia cardíaca",
+        "Registrar la actividad eléctrica del cerebro",
+        "Evaluar la función pulmonar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El triángulo de Einthoven es una representación gráfica de las derivaciones de las extremidades que ayuda a calcular el eje eléctrico del corazón."
+    },
+    {
+      "question": "¿Qué derivaciones se utilizan para obtener la ley de Einthoven?",
+      "options": [
+        "Derivaciones precordiales",
+        "Derivaciones aumentadas de las extremidades",
+        "Derivaciones intracardíacas",
+        "Derivaciones bipolares de las extremidades"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La ley de Einthoven se aplica específicamente a las derivaciones bipolares estándar de las extremidades (I, II y III)."
+    },
+    {
+      "question": "¿Qué indica la onda P en el ECG?",
+      "options": [
+        "Contracción ventricular",
+        "Relajación ventricular",
+        "Relajación auricular",
+        "Contracción auricular"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La onda P representa la actividad eléctrica asociada con la contracción de las aurículas."
+    },
+    {
+      "question": "¿Qué representa el intervalo Q-T en el ECG?",
+      "options": [
+        "Tiempo total de la despolarización auricular",
+        "Tiempo total de la despolarización ventricular",
+        "Tiempo total de la contracción ventricular",
+        "Tiempo total de la repolarización auricular"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El intervalo Q-T representa el tiempo total que duran los ventrículos en contraerse."
+    },
+    {
+      "question": "¿Qué es la electrocardiografía ambulatoria?",
+      "options": [
+        "ECG registrado en reposo",
+        "ECG registrado durante el ejercicio",
+        "ECG de alta resolución",
+        "Monitorización del ECG durante un período prolongado"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La electrocardiografía ambulatoria es la monitorización del ECG durante un período prolongado para evaluar los eventos cardíacos durante las actividades diarias."
+    },
+    {
+      "question": "¿Cuál de las siguientes no es una indicación para la monitorización con ECG ambulatoria?",
+      "options": [
+        "Dolor cardíaco",
+        "Síncope",
+        "Mareo",
+        "Hipertensión arterial"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La hipertensión arterial no es una indicación directa para la monitorización con ECG ambulatoria, mientras que el dolor cardíaco, el síncope y el mareo sí lo son."
+    },
+    {
+      "question": "¿Cuál es la principal utilidad del análisis vectorial en el ECG?",
+      "options": [
+        "Medir la frecuencia cardíaca",
+        "Determinar el ritmo cardíaco",
+        "Evaluar la función de las válvulas cardíacas",
+        "Diagnosticar alteraciones del músculo cardíaco"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El análisis vectorial ayuda a diagnosticar alteraciones en el músculo cardíaco al evaluar la magnitud y dirección de las corrientes eléctricas del corazón."
+    },
+    {
+      "question": "¿Qué representa un vector en el análisis vectorial del ECG?",
+      "options": [
+        "La dirección y magnitud del potencial eléctrico",
+        "La velocidad del flujo sanguíneo",
+        "La presión arterial",
+        "El volumen de sangre en el corazón"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el análisis vectorial, un vector representa la dirección y magnitud del potencial eléctrico generado por el flujo de corriente en el corazón."
+    },
+    {
+      "question": "¿Qué indica el vector medio instantáneo?",
+      "options": [
+        "El promedio de la presión arterial en el ciclo cardíaco",
+        "La dirección del flujo sanguíneo en las arterias coronarias",
+        "El potencial eléctrico generado en un momento específico",
+        "La velocidad de contracción del músculo cardíaco"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El vector medio instantáneo representa la dirección y magnitud del potencial eléctrico en un momento dado durante el ciclo cardíaco."
+    },
+    {
+      "question": "¿Qué condición se define como una frecuencia cardíaca rápida, típicamente superior a 100 latidos/min en un adulto?",
+      "options": [
+        "Taquicardia",
+        "Bradicardia",
+        "Arritmia sinusal",
+        "Bloqueo sinusal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La taquicardia se caracteriza por una frecuencia cardíaca elevada, generalmente por encima de 100 latidos por minuto en adultos."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una causa general de taquicardia?",
+      "options": [
+        "Aumento de la temperatura corporal",
+        "Estimulación del corazón por los nervios simpáticos",
+        "Enfermedades tóxicas del corazón",
+        "Disminución de la temperatura corporal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La taquicardia puede ser causada por el aumento de la temperatura corporal, la estimulación del sistema nervioso simpático y ciertas enfermedades cardíacas, pero no por la disminución de la temperatura corporal."
+    },
+    {
+      "question": "¿Qué término describe una frecuencia cardíaca lenta, generalmente menos de 60 latidos/min?",
+      "options": [
+        "Taquicardia",
+        "Bradicardia",
+        "Arritmia",
+        "Fibrilación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La bradicardia se refiere a una frecuencia cardíaca disminuida, por debajo de 60 latidos por minuto."
+    },
+    {
+      "question": "¿Qué causa la estimulación del nervio vago en el corazón?",
+      "options": [
+        "Bradicardia",
+        "Taquicardia",
+        "Arritmia sinusal",
+        "Bloqueo cardíaco"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La estimulación del nervio vago libera acetilcolina, lo que produce un efecto parasimpático que disminuye la frecuencia cardíaca (bradicardia)."
+    },
+    {
+      "question": "¿Qué condición se caracteriza por variaciones cíclicas en la frecuencia cardíaca que coinciden con la respiración?",
+      "options": [
+        "Taquicardia",
+        "Bradicardia",
+        "Bloqueo sinusal",
+        "Arritmia sinusal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La arritmia sinusal es una variación en la frecuencia cardíaca que ocurre con el ciclo respiratorio."
+    },
+    {
+      "question": "¿Qué ocurre en el bloqueo sinusal?",
+      "options": [
+        "Aumento de la frecuencia cardíaca",
+        "Disminución de la frecuencia cardíaca",
+        "Bloqueo del impulso del nódulo sinusal",
+        "Desplazamiento del marcapasos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El bloqueo sinusal implica que el impulso del nódulo sinusal se bloquea antes de llegar al tejido auricular."
+    },
+    {
+      "question": "¿A través de qué estructura pasan normalmente los impulsos desde las aurículas hacia los ventrículos?",
+      "options": [
+        "Nódulo sinusal",
+        "Haz de His (haz AV)",
+        "Fibras de Purkinje",
+        "Músculo auricular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El haz AV, también conocido como haz de His, es la vía habitual para que los impulsos pasen de las aurículas a los ventrículos."
+    },
+    {
+      "question": "¿Cuál es la duración normal del intervalo P-R en un ECG?",
+      "options": [
+        "0.16 s",
+        "0.08 s",
+        "0.24 s",
+        "0.32 s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El intervalo P-R normal suele ser de alrededor de 0.16 segundos."
+    },
+    {
+      "question": "¿Qué indica un intervalo P-R prolongado en el ECG?",
+      "options": [
+        "Taquicardia",
+        "Bradicardia",
+        "Bloqueo AV de tercer grado",
+        "Bloqueo AV de primer grado"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Un intervalo P-R prolongado sugiere un bloqueo cardíaco de primer grado, lo que indica un retraso en la conducción desde las aurículas a los ventrículos."
+    },
+    {
+      "question": "¿Qué ocurre en el bloqueo AV de segundo grado?",
+      "options": [
+        "Algunos latidos no se conducen a los ventrículos",
+        "Prolongación del intervalo P-R",
+        "Bloqueo completo de la conducción AV",
+        "Contracciones ventriculares prematuras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el bloqueo AV de segundo grado, no todos los impulsos auriculares se conducen a los ventrículos, lo que resulta en latidos omitidos."
+    },
+    {
+      "question": "¿Qué ocurre en el bloqueo AV completo (bloqueo de tercer grado)?",
+      "options": [
+        "Retraso en la conducción AV",
+        "Algunos latidos omitidos",
+        "Disociación de las ondas P y los complejos QRS",
+        "Contracciones auriculares prematuras"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En el bloqueo AV de tercer grado, hay una disociación completa entre la actividad auricular y ventricular en el ECG."
+    },
+    {
+      "question": "¿Cuál es el fenómeno del escape ventricular?",
+      "options": [
+        "Aumento de la frecuencia cardíaca",
+        "Disminución de la frecuencia cardíaca",
+        "Bloqueo de la conducción auricular",
+        "Inicio de un ritmo ventricular propio"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El escape ventricular es cuando los ventrículos generan su propio ritmo, generalmente más lento, en ausencia de conducción desde las aurículas."
+    },
+    {
+      "question": "¿Qué causa el síndrome de Stokes-Adams?",
+      "options": [
+        "Taquicardia",
+        "Bradicardia",
+        "Arritmia sinusal",
+        "Bloqueo AV intermitente"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El síndrome de Stokes-Adams se produce por un bloqueo AV que aparece y desaparece, lo que provoca episodios de disminución del flujo sanguíneo cerebral y desmayos."
+    },
+    {
+      "question": "¿Qué patrón en el ECG sugiere un bloqueo intraventricular parcial?",
+      "options": [
+        "Alternancia eléctrica",
+        "Intervalo P-R prolongado",
+        "Onda T bifásica",
+        "Complejo QRS estrecho"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La alternancia eléctrica, donde la amplitud del complejo QRS alterna de un latido a otro, sugiere un bloqueo intraventricular parcial."
+    },
+    {
+      "question": "¿Qué es una extrasístole?",
+      "options": [
+        "Contracción cardíaca normal",
+        "Contracción cardíaca prematura",
+        "Contracción cardíaca tardía",
+        "Contracción cardíaca ausente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Una extrasístole es una contracción prematura del corazón antes de la siguiente contracción esperada."
+    },
+    {
+      "question": "¿Cuál de los siguientes puede causar extrasístoles?",
+      "options": [
+        "Baja temperatura corporal",
+        "Ejercicio intenso",
+        "Isquemia local del corazón",
+        "Sueño excesivo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las extrasístoles pueden ser causadas por isquemia local, placas calcificadas o irritación tóxica del corazón."
+    },
+    {
+      "question": "¿Qué indica un intervalo P-R acortado en una extrasístole auricular?",
+      "options": [
+        "Origen del latido cerca del nódulo AV",
+        "Origen del latido lejos del nódulo AV",
+        "Bloqueo en el nódulo AV",
+        "Latido ventricular prematuro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un intervalo P-R acortado en una extrasístole auricular sugiere que el latido se originó cerca del nódulo AV."
+    },
+    {
+      "question": "¿Qué es un déficit de pulso?",
+      "options": [
+        "Pulso más rápido de lo normal",
+        "Pulso más lento de lo normal",
+        "Número de pulsos radiales menor que los latidos cardíacos",
+        "Número de pulsos radiales mayor que los latidos cardíacos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Un déficit de pulso ocurre cuando no todos los latidos cardíacos producen un pulso periférico palpable."
+    },
+    {
+      "question": "¿Qué característica distingue a menudo a las extrasístoles ventriculares en un ECG?",
+      "options": [
+        "Onda P prominente",
+        "Intervalo P-R corto",
+        "Onda T invertida",
+        "Complejo QRS ancho"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las extrasístoles ventriculares suelen presentar un complejo QRS ancho."
+    },
+    {
+      "question": "¿Qué riesgo está particularmente asociado con las extrasístoles ventriculares?",
+      "options": [
+        "Bradicardia sinusal",
+        "Fibrilación auricular",
+        "Bloqueo cardíaco de primer grado",
+        "Fibrilación ventricular"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las extrasístoles ventriculares aumentan el riesgo de fibrilación ventricular, una arritmia potencialmente mortal."
+    },
+    {
+      "question": "¿Qué condición se produce por un movimiento circular en las aurículas?",
+      "options": [
+        "Fibrilación ventricular",
+        "Aleteo auricular",
+        "Parada cardíaca",
+        "Taquicardia sinusal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El aleteo auricular es una condición en la que una señal eléctrica viaja en un círculo alrededor del músculo auricular."
+    },
+    {
+      "question": "¿Cuál es la frecuencia de contracción auricular típica en el aleteo auricular?",
+      "options": [
+        "60-100 latidos/min",
+        "100-200 latidos/min",
+        "Más de 350 latidos/min",
+        "200-350 latidos/min"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En el aleteo auricular, las aurículas se contraen rápidamente, generalmente a una frecuencia de 200 a 350 latidos por minuto."
+    },
+    {
+      "question": "¿Por qué el bombeo de sangre por las aurículas es pequeño durante el aleteo auricular?",
+      "options": [
+        "Las aurículas se contraen demasiado lento",
+        "Las aurículas no se contraen en coordinación",
+        "Solo un lado de las aurículas se contrae",
+        "Las señales no llegan al nódulo AV"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Durante el aleteo auricular, las aurículas no se contraen de manera coordinada, lo que reduce la cantidad de sangre que bombean."
+    },
+    {
+      "question": "¿Qué se observa típicamente en un ECG de aleteo auricular?",
+      "options": [
+        "Ondas P ausentes",
+        "Complejos QRS anchos",
+        "Onda T invertida",
+        "Ondas P intensas con ritmo 2:1 o 3:1"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Un ECG de aleteo auricular muestra ondas P intensas y un ritmo auricular a ventricular de 2:1 o 3:1."
+    },
+    {
+      "question": "¿Qué condición implica la interrupción de todas las señales de control eléctrico del corazón?",
+      "options": [
+        "Fibrilación auricular",
+        "Aleteo auricular",
+        "Parada cardíaca",
+        "Taquicardia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La parada cardíaca es una condición grave en la que cesan todas las señales eléctricas que controlan el corazón."
+    },
+    {
+      "question": "¿Qué puede causar la parada cardíaca?",
+      "options": [
+        "Anestesia profunda",
+        "Hiperventilación",
+        "Ejercicio leve",
+        "Hipotermia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La parada cardíaca puede ser provocada por la anestesia profunda, que puede llevar a una hipoxia grave."
+    },
+    {
+      "question": "¿Qué efecto tiene la hipoxia en las fibras musculares y de conducción del corazón?",
+      "options": [
+        "Aumenta la excitabilidad",
+        "Disminuye la excitabilidad",
+        "No tiene efecto",
+        "Aumenta la ritmicidad automática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La hipoxia puede disminuir la excitabilidad de las fibras cardíacas, lo que puede llevar a la parada cardíaca."
+    },
+    {
+      "question": "¿Qué procedimiento puede ser exitoso en el restablecimiento de un ritmo cardíaco normal después de una parada cardíaca?",
+      "options": [
+        "Reanimación cardiopulmonar prolongada",
+        "Marcapasos temporal",
+        "Administración de oxígeno al 100%",
+        "Administración de líquidos intravenosos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La reanimación cardiopulmonar (RCP) prolongada puede ser efectiva para restablecer el ritmo cardíaco normal en casos de parada cardíaca por anestesia."
+    },
+    {
+      "question": "¿Qué dispositivo se utiliza para mantener vivos a los pacientes con parada cardíaca permanente o semipermanente?",
+      "options": [
+        "Marcapasos cardíaco electrónico implantado",
+        "Desfibrilador externo",
+        "Respirador artificial",
+        "Bomba de circulación extracorpórea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los marcapasos cardíacos electrónicos implantados se utilizan para mantener vivos a los pacientes con parada cardíaca permanente o semipermanente."
+    },
+    {
+      "question": "¿Cuál es el propósito principal de la circulación?",
+      "options": [
+        "Regular la temperatura corporal",
+        "Transportar nutrientes y eliminar desechos",
+        "Producir hormonas",
+        "Controlar la respiración"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La circulación se encarga principalmente de llevar nutrientes a los tejidos y transportar los productos de desecho."
+    },
+    {
+      "question": "¿Qué controla principalmente la velocidad del flujo sanguíneo en los tejidos?",
+      "options": [
+        "La presión arterial sistémica",
+        "La necesidad de nutrientes de los tejidos",
+        "La frecuencia cardíaca",
+        "El volumen de sangre total"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La velocidad del flujo sanguíneo en los tejidos está determinada principalmente por la demanda de nutrientes de esos tejidos."
+    },
+    {
+      "question": "¿Cuál es la función adicional de la circulación en los riñones?",
+      "options": [
+        "Producción de glóbulos rojos",
+        "Regulación de la glucosa en sangre",
+        "Excreción de sustancias de desecho",
+        "Almacenamiento de vitaminas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En los riñones, la circulación también juega un papel en la excreción de desechos, además de suplir las necesidades metabólicas."
+    },
+    {
+      "question": "¿En qué dos sistemas se divide la circulación?",
+      "options": [
+        "Circulación sistémica y pulmonar",
+        "Circulación coronaria y cerebral",
+        "Circulación arterial y venosa",
+        "Circulación mayor y menor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La circulación se divide en dos sistemas principales: la circulación sistémica y la circulación pulmonar."
+    },
+    {
+      "question": "¿Qué porcentaje del volumen total de sangre se encuentra en la circulación sistémica?",
+      "options": [
+        "50%",
+        "64%",
+        "75%",
+        "84%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Aproximadamente el 84% del volumen total de sangre se encuentra en la circulación sistémica."
+    },
+    {
+      "question": "¿Cuál es la función principal de las arterias?",
+      "options": [
+        "Intercambio de nutrientes",
+        "Transporte de sangre a alta presión",
+        "Almacenamiento de sangre",
+        "Retorno de sangre al corazón"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las arterias transportan la sangre a alta presión desde el corazón hacia los tejidos."
+    },
+    {
+      "question": "¿Qué vasos sanguíneos controlan el flujo de sangre hacia los capilares?",
+      "options": [
+        "Arterias",
+        "Vénulas",
+        "Venas",
+        "Arteriolas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las arteriolas regulan el flujo de sangre hacia los capilares, actuando como conductos de control."
+    },
+    {
+      "question": "¿Dónde ocurre el intercambio de nutrientes y otras sustancias?",
+      "options": [
+        "Arterias",
+        "Venas",
+        "Capilares",
+        "Arteriolas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El intercambio de sustancias como nutrientes, electrólitos y hormonas ocurre en los capilares."
+    },
+    {
+      "question": "¿Cuál es la función de las venas?",
+      "options": [
+        "Transportar sangre a alta presión",
+        "Regular el flujo sanguíneo",
+        "Intercambiar sustancias con los tejidos",
+        "Actuar como reservorio de sangre"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las venas sirven como conductos para el retorno de la sangre al corazón y también como reservorio de sangre."
+    },
+    {
+      "question": "¿Qué porcentaje de la sangre total se encuentra en las venas?",
+      "options": [
+        "7%",
+        "13%",
+        "84%",
+        "64%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Aproximadamente el 64% de la sangre en la circulación sistémica se encuentra en las venas."
+    },
+    {
+      "question": "¿Cuál de los siguientes vasos tiene la mayor superficie transversal total?",
+      "options": [
+        "Aorta",
+        "Capilares",
+        "Venas cavas",
+        "Arteriolas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los capilares tienen la mayor superficie transversal total en el sistema circulatorio."
+    },
+    {
+      "question": "¿Qué ocurre con la viscosidad de la sangre cuando aumenta el hematocrito?",
+      "options": [
+        "Aumenta drásticamente",
+        "Disminuye",
+        "Permanece igual",
+        "Aumenta ligeramente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La viscosidad de la sangre se incrementa de manera significativa a medida que el hematocrito se eleva."
+    },
+    {
+      "question": "Comparada con el agua, ¿cuántas veces mayor es la viscosidad de la sangre total normal?",
+      "options": [
+        "1 a 2 veces",
+        "3 a 4 veces",
+        "5 a 6 veces",
+        "8 a 10 veces"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La sangre total tiene una viscosidad de 3 a 4 veces mayor que la del agua."
+    },
+    {
+      "question": "¿Qué puede ocurrir con el flujo de sangre si el hematocrito aumenta hasta 60 o 70?",
+      "options": [
+        "Disminuye el flujo",
+        "Aumenta el flujo",
+        "El flujo no cambia",
+        "El flujo se duplica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un hematocrito muy alto puede hacer que el flujo sanguíneo se ralentice considerablemente."
+    },
+    {
+      "question": "¿Cuál es el efecto principal de la autorregulación en el flujo sanguíneo tisular?",
+      "options": [
+        "Aumenta el efecto de la presión arterial",
+        "Disminuye el efecto de la presión arterial",
+        "No tiene efecto sobre la presión arterial",
+        "Duplica el efecto de la presión arterial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La autorregulación ayuda a reducir el impacto de la presión arterial sobre el flujo sanguíneo en los tejidos."
+    },
+    {
+      "question": "¿Entre qué rangos de presión arterial la autorregulación mantiene el flujo sanguíneo relativamente constante?",
+      "options": [
+        "20 a 50 mmHg",
+        "50 a 100 mmHg",
+        "70 a 175 mmHg",
+        "180 a 200 mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La autorregulación permite mantener un flujo sanguíneo normal cuando la presión arterial varía entre 70 y 175 mmHg."
+    },
+    {
+      "question": "¿Qué respuesta compensatoria ocurre cuando disminuye la presión arterial?",
+      "options": [
+        "Disminuye la resistencia vascular",
+        "Aumenta la resistencia vascular",
+        "No hay cambios en la resistencia vascular",
+        "La resistencia vascular se duplica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando la presión arterial baja, la resistencia vascular también disminuye para mantener el flujo sanguíneo."
+    },
+    {
+      "question": "¿Qué factor puede causar cambios en el flujo sanguíneo además de la presión arterial?",
+      "options": [
+        "Temperatura corporal",
+        "Estimulación simpática",
+        "Niveles de glucosa",
+        "Frecuencia respiratoria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La estimulación simpática puede alterar el flujo sanguíneo al contraer los vasos sanguíneos."
+    },
+    {
+      "question": "¿Qué sucede con el flujo sanguíneo en la mayoría de los tejidos después de unas horas de vasoconstricción?",
+      "options": [
+        "Disminuye permanentemente",
+        "Aumenta al doble",
+        "Vuelve a la normalidad",
+        "Cesa por completo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los mecanismos locales de autorregulación tienden a normalizar el flujo sanguíneo incluso después de la vasoconstricción."
+    },
+    {
+      "question": "¿Qué ocurre con la resistencia vascular cuando los vasos elásticos se distienden por el aumento de la presión arterial?",
+      "options": [
+        "Disminuye",
+        "Aumenta",
+        "No cambia",
+        "Se duplica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La distensión de los vasos elásticos reduce la resistencia vascular."
+    },
+    {
+      "question": "¿Qué se entiende por 'presión de cierre crítica'?",
+      "options": [
+        "La presión más alta que puede alcanzar un vaso",
+        "La presión a la que los vasos se colapsan y el flujo cesa",
+        "La presión normal en las arterias",
+        "La presión necesaria para la autorregulación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La presión de cierre crítica es el punto en el que los vasos sanguíneos se cierran y detienen el flujo."
+    },
+    {
+      "question": "¿Cómo afecta la inhibición simpática a los vasos sanguíneos?",
+      "options": [
+        "Los contrae",
+        "Los dilata",
+        "No tiene efecto",
+        "Los endurece"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La inhibición simpática provoca la dilatación de los vasos sanguíneos."
+    },
+    {
+      "question": "¿Cuál es una característica fundamental de todos los vasos sanguíneos?",
+      "options": [
+        "Son distensibles",
+        "Son rígidos",
+        "Son impermeables",
+        "Son delgados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Todos los vasos sanguíneos tienen la capacidad de distenderse."
+    },
+    {
+      "question": "¿Qué ventaja proporciona la distensibilidad de las arterias?",
+      "options": [
+        "Permitir un flujo sanguíneo continuo",
+        "Almacenar grandes cantidades de sangre",
+        "Regular la temperatura de la sangre",
+        "Acelerar el flujo de sangre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La distensibilidad arterial ayuda a mantener un flujo de sangre constante a los tejidos."
+    },
+    {
+      "question": "¿Qué tipo de vasos son más distensibles?",
+      "options": [
+        "Venas",
+        "Arterias",
+        "Capilares",
+        "Arteriolas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las venas son mucho más distensibles que las arterias."
+    },
+    {
+      "question": "¿Cuál es la función principal de las venas debido a su distensibilidad?",
+      "options": [
+        "Actuar como reservorio de sangre",
+        "Regular la presión arterial",
+        "Transportar sangre oxigenada",
+        "Distribuir nutrientes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las venas sirven como reservorio para almacenar sangre adicional."
+    },
+    {
+      "question": "¿Qué indica la compliancia vascular?",
+      "options": [
+        "La distensibilidad de un vaso individual",
+        "La cantidad total de sangre que puede almacenar una porción de la circulación",
+        "La velocidad del flujo sanguíneo",
+        "La presión en las arterias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La compliancia vascular mide la capacidad de una porción de la circulación para almacenar sangre."
+    },
+    {
+      "question": "¿Cómo se compara la compliancia de una vena sistémica con la de su arteria correspondiente?",
+      "options": [
+        "Es igual",
+        "Es menor",
+        "Es 8 veces mayor",
+        "Es 24 veces mayor"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Una vena sistémica tiene una compliancia mucho mayor que su arteria equivalente."
+    },
+    {
+      "question": "¿Qué muestra una curva de volumen-presión?",
+      "options": [
+        "La relación entre la presión y el flujo sanguíneo",
+        "La relación entre el volumen de sangre y la presión",
+        "La velocidad de la onda del pulso",
+        "La resistencia vascular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Una curva de volumen-presión representa la relación entre el volumen de sangre y la presión en los vasos."
+    },
+    {
+      "question": "¿Qué efecto tiene la estimulación simpática sobre la presión en las arterias y venas?",
+      "options": [
+        "Disminuye la presión",
+        "Aumenta la presión",
+        "No tiene efecto",
+        "La presión se vuelve inestable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La estimulación simpática eleva la presión en las arterias y venas."
+    },
+    {
+      "question": "¿Qué es la 'compliancia diferida'?",
+      "options": [
+        "La capacidad de los vasos para contraerse rápidamente",
+        "La relajación gradual del músculo liso en respuesta a un aumento de volumen",
+        "La rigidez de los vasos sanguíneos con el tiempo",
+        "La acumulación de sangre en las venas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La compliancia diferida es la capacidad de los vasos de relajarse y acomodar un mayor volumen de sangre con el tiempo."
+    },
+    {
+      "question": "¿Qué estructura anatómica es responsable de prevenir el reflujo de sangre en las venas de las piernas?",
+      "options": [
+        "Válvulas venosas",
+        "Venas perforantes",
+        "Senos venosos",
+        "Plexos venosos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las válvulas dentro de las venas aseguran que el flujo de sangre se dirija hacia el corazón, evitando que retroceda."
+    },
+    {
+      "question": "¿Qué ocurre si una persona permanece de pie sin moverse durante un período prolongado?",
+      "options": [
+        "Aumenta el retorno venoso",
+        "Disminuye la presión capilar",
+        "Aumenta la presión venosa en las piernas",
+        "Disminuye el volumen de sangre"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La inmovilidad en posición de pie dificulta la acción de la bomba venosa, lo que lleva a un aumento de la presión en las venas de las piernas."
+    },
+    {
+      "question": "¿Qué acción contrarresta el aumento de la presión venosa en las piernas al estar de pie?",
+      "options": [
+        "Flexión de los músculos de las piernas",
+        "Respiración profunda",
+        "Extensión de las rodillas",
+        "Movimiento de los brazos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La contracción muscular en las piernas ayuda a bombear la sangre de vuelta al corazón, reduciendo la presión venosa."
+    },
+    {
+      "question": "¿Cuál es una causa común de incompetencia de las válvulas venosas?",
+      "options": [
+        "Ejercicio regular",
+        "Breves periodos de estar de pie",
+        "Elevación de las piernas",
+        "Presión venosa excesiva prolongada"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La presión alta sostenida en las venas puede estirar las paredes venosas y dañar las válvulas."
+    },
+    {
+      "question": "¿Qué condición resulta de la incompetencia de las válvulas venosas?",
+      "options": [
+        "Venas varicosas",
+        "Hipertensión",
+        "Hipotensión",
+        "Edema cerebral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las válvulas dañadas conducen a un flujo sanguíneo ineficiente, lo que causa la dilatación de las venas y la formación de varices."
+    },
+    {
+      "question": "¿Cuál es un síntoma común de las venas varicosas?",
+      "options": [
+        "Disminución del edema",
+        "Aumento de la fuerza muscular",
+        "Protrusiones bulbosas en las piernas",
+        "Mejora de la difusión de nutrientes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las venas varicosas se caracterizan por la aparición de venas hinchadas y retorcidas, visibles bajo la piel."
+    },
+    {
+      "question": "¿Qué problema puede surgir del edema crónico causado por las venas varicosas?",
+      "options": [
+        "Aumento de la nutrición celular",
+        "Fortalecimiento de la piel",
+        "Mejora de la circulación muscular",
+        "Gangrena y ulceración de la piel"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La acumulación de líquido en los tejidos puede alterar el suministro de nutrientes y oxígeno, lo que puede dañar la piel y los músculos."
+    },
+    {
+      "question": "¿Cuál es un tratamiento recomendado para las venas varicosas?",
+      "options": [
+        "Estar de pie por largos periodos",
+        "Mantener las piernas elevadas",
+        "Aplicar calor local",
+        "Reducir la ingesta de líquidos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Elevar las piernas ayuda a mejorar el retorno venoso y reduce la hinchazón en las extremidades inferiores."
+    },
+    {
+      "question": "¿Qué tipo de prenda puede ayudar a prevenir el edema asociado con las venas varicosas?",
+      "options": [
+        "Ropa ajustada",
+        "Medias elásticas de compresión",
+        "Ropa holgada",
+        "Vendajes rígidos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las medias de compresión aplican presión en las piernas, lo que favorece la circulación y disminuye la acumulación de líquido."
+    },
+    {
+      "question": "¿Cómo se puede estimar clínicamente la presión venosa?",
+      "options": [
+        "Observación de la distensión de las venas del cuello",
+        "Medición de la frecuencia cardíaca",
+        "Medición de la presión arterial",
+        "Palpación del pulso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hinchazón o distensión de las venas del cuello puede indicar un aumento en la presión venosa."
+    },
+    {
+      "question": "¿A qué nivel del cuerpo se realizan típicamente las mediciones de presión circulatoria?",
+      "options": [
+        "Cerca de la válvula tricúspide",
+        "En el cerebro",
+        "En las arterias de las piernas",
+        "En las venas de la mano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La válvula tricúspide se utiliza como punto de referencia para asegurar mediciones de presión consistentes."
+    },
+    {
+      "question": "¿Cómo regula el corazón la presión en la válvula tricúspide?",
+      "options": [
+        "Ajustando la velocidad de bombeo de la sangre",
+        "Aumentando la frecuencia respiratoria",
+        "Dilatando las arterias coronarias",
+        "Contrayendo las venas periféricas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El corazón modifica su gasto cardíaco para mantener la presión en la válvula tricúspide dentro de los límites normales."
+    },
+    {
+      "question": "¿Cuál es la posición del nivel cero de referencia de presión en una persona acostada?",
+      "options": [
+        "En los pies",
+        "En la cabeza",
+        "En el abdomen",
+        "Al 60% de la altura del tórax"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Cuando una persona está en decúbito prono, el punto de referencia para la presión se ubica aproximadamente al 60% de la altura del pecho."
+    },
+    {
+      "question": "¿Qué porcentaje de la sangre venosa se encuentra en las venas sistémicas?",
+      "options": [
+        "30%",
+        "40%",
+        "50%",
+        "Más del 60%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las venas actúan como un reservorio importante para la sangre, almacenando una gran proporción del volumen sanguíneo total."
+    },
+    {
+      "question": "¿Qué sistema nervioso provoca la constricción de las venas en respuesta a la pérdida de sangre?",
+      "options": [
+        "Sistema nervioso simpático",
+        "Sistema nervioso parasimpático",
+        "Sistema nervioso entérico",
+        "Sistema nervioso central"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El sistema nervioso simpático ayuda a mantener la presión arterial al estrechar las venas y movilizar la sangre almacenada."
+    },
+    {
+      "question": "¿Cuál de los siguientes órganos actúa como un reservorio sanguíneo específico?",
+      "options": [
+        "El cerebro",
+        "El bazo",
+        "Los riñones",
+        "La vejiga"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El bazo puede liberar sangre almacenada a la circulación, contribuyendo a mantener el volumen sanguíneo."
+    },
+    {
+      "question": "¿Qué tipo de tejido del bazo almacena eritrocitos?",
+      "options": [
+        "Pulpa blanca",
+        "Pulpa roja",
+        "Senos venosos",
+        "Capilares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La pulpa roja del bazo está especializada en almacenar glóbulos rojos para su liberación posterior."
+    },
+    {
+      "question": "¿Qué proceso ocurre en el bazo para eliminar los eritrocitos viejos?",
+      "options": [
+        "Filtración",
+        "Reabsorción",
+        "Fagocitosis",
+        "Secreción"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las células reticuloendoteliales del bazo descomponen los glóbulos rojos dañados o envejecidos."
+    },
+    {
+      "question": "¿Qué tipo de células se encuentran en la pulpa del bazo que ayudan a limpiar la sangre de microorganismos?",
+      "options": [
+        "Eritrocitos",
+        "Leucocitos",
+        "Plaquetas",
+        "Células reticuloendoteliales"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las células reticuloendoteliales en el bazo capturan y destruyen patógenos en la sangre."
+    },
+    {
+      "question": "¿Qué ocurre con el tamaño del bazo durante una infección crónica?",
+      "options": [
+        "Aumenta",
+        "Disminuye",
+        "Permanece igual",
+        "Se vuelve más denso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En respuesta a infecciones prolongadas, el bazo puede agrandarse a medida que intensifica su función de limpieza."
+    },
+    {
+      "question": "¿Cuál es la presión neta de reabsorción en el extremo venoso de los capilares?",
+      "options": [
+        "7 mmHg",
+        "13 mmHg",
+        "21 mmHg",
+        "28 mmHg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La presión neta de reabsorción en el extremo venoso del capilar es de 7 mmHg, lo que facilita el movimiento de líquido hacia el interior del capilar."
+    },
+    {
+      "question": "¿Qué porcentaje del líquido filtrado en los capilares arteriales se reabsorbe en los capilares venosos?",
+      "options": [
+        "10%",
+        "50%",
+        "100%",
+        "90%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Aproximadamente el 90% del líquido que sale de los capilares arteriales regresa a la circulación a través de los capilares venosos."
+    },
+    {
+      "question": "¿Cuál es el principal mecanismo de retorno del líquido desde los espacios intersticiales a la circulación?",
+      "options": [
+        "Filtración capilar",
+        "Presión osmótica",
+        "Flujo linfático",
+        "Reabsorción venosa"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La mayor parte del líquido filtrado vuelve a la sangre a través de la reabsorción en el extremo venoso de los capilares."
+    },
+    {
+      "question": "¿Qué establece el equilibrio de Starling?",
+      "options": [
+        "La presión arterial es igual en todo el cuerpo",
+        "La cantidad de líquido filtrado es igual a la cantidad reabsorbida en los capilares",
+        "El flujo sanguíneo es constante en todos los tejidos",
+        "La velocidad de la sangre es constante en los vasos sanguíneos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El equilibrio de Starling describe un balance entre la filtración y la reabsorción de líquidos a través de las paredes capilares."
+    },
+    {
+      "question": "¿Cuál es la presión capilar funcional media estimada?",
+      "options": [
+        "7.  3 mmHg",
+        "17.  3 mmHg",
+        "21 mmHg",
+        "28 mmHg"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La presión capilar funcional media se calcula promediando las presiones de los extremos arteriales y venosos, resultando en 17.3 mmHg."
+    },
+    {
+      "question": "¿Cuál es la fuerza total de salida de líquido de los capilares?",
+      "options": [
+        "17.  3 mmHg",
+        "21 mmHg",
+        "28 mmHg",
+        "28.  3 mmHg"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La fuerza total que impulsa la salida de líquido de los capilares se calcula en 28.3 mmHg."
+    },
+    {
+      "question": "¿Cuál es la fuerza total de entrada de líquido a los capilares?",
+      "options": [
+        "17.  3 mmHg",
+        "21 mmHg",
+        "28 mmHg",
+        "28.  3 mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La fuerza total que impulsa la entrada de líquido a los capilares es de 28 mmHg."
+    },
+    {
+      "question": "¿Cuál es la fuerza neta de salida que provoca la filtración de líquido hacia los espacios intersticiales?",
+      "options": [
+        "0.  3 mmHg",
+        "7 mmHg",
+        "17.  3 mmHg",
+        "28 mmHg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hay un ligero desequilibrio de 0.3 mmHg que resulta en una mayor filtración que reabsorción en los capilares."
+    },
+    {
+      "question": "¿Cuál es la velocidad normal de filtración neta en todo el organismo (excluyendo los riñones)?",
+      "options": [
+        "2 ml/min",
+        "0.  2 ml/min",
+        "20 ml/min",
+        "200 ml/min"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La cantidad de líquido que se filtra en exceso y debe ser devuelto por los vasos linfáticos es de aproximadamente 2 ml/min."
+    },
+    {
+      "question": "¿Qué factor determina si el líquido se filtrará hacia fuera de los capilares o se reabsorberá hacia dentro?",
+      "options": [
+        "La velocidad del flujo sanguíneo",
+        "El número de capilares presentes",
+        "La temperatura del cuerpo",
+        "El equilibrio entre la presión de filtración y la presión de reabsorción"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El movimiento neto de líquido a través de la pared capilar depende de la comparación entre las fuerzas que favorecen la salida y las que favorecen la entrada de líquido."
+    },
+    {
+      "question": "¿Qué ocurre con el líquido que no se reabsorbe en los capilares venosos?",
+      "options": [
+        "Se almacena en los tejidos",
+        "Se excreta por los riñones",
+        "Vuelve a la circulación a través de los vasos linfáticos",
+        "Se evapora de la piel"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El líquido que excede la capacidad de reabsorción de los capilares venosos es recogido por los vasos linfáticos y devuelto a la circulación."
+    },
+    {
+      "question": "¿Cuál es la importancia del equilibrio de Starling en la fisiología humana?",
+      "options": [
+        "Mantiene la presión arterial constante",
+        "Regula la temperatura corporal",
+        "Asegura un intercambio eficiente de nutrientes y desechos entre la sangre y los tejidos",
+        "Controla la frecuencia cardíaca"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El equilibrio de Starling es crucial para el intercambio de sustancias entre la sangre y los tejidos, permitiendo la entrega de oxígeno y nutrientes y la eliminación de dióxido de carbono y otros desechos."
+    },
+    {
+      "question": "¿Qué sucede si la presión capilar aumenta por encima de lo normal?",
+      "options": [
+        "Disminuye la filtración de líquido",
+        "Aumenta la reabsorción de líquido",
+        "Se produce un edema (acumulación de líquido en los tejidos)",
+        "No hay cambios en el intercambio de líquidos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Un aumento en la presión dentro de los capilares puede incrementar la filtración de líquido hacia los tejidos, superando la capacidad de reabsorción y causando edema."
+    },
+    {
+      "question": "¿Qué efecto tiene la disminución de la concentración de proteínas plasmáticas en el intercambio capilar?",
+      "options": [
+        "Favorece la reabsorción de líquido",
+        "Disminuye la filtración de líquido",
+        "No tiene efecto en el intercambio de líquidos",
+        "Aumenta la filtración de líquido"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las proteínas plasmáticas contribuyen a la presión coloidosmótica, que atrae líquido hacia los capilares; una disminución en su concentración reduce esta fuerza y favorece la filtración hacia los tejidos."
+    },
+    {
+      "question": "¿Cómo influye la permeabilidad capilar en el intercambio de líquidos?",
+      "options": [
+        "Los capilares más permeables reabsorben más líquido",
+        "Los capilares menos permeables filtran más líquido",
+        "La permeabilidad capilar no afecta el intercambio de líquidos",
+        "Una mayor permeabilidad capilar facilita tanto la filtración como la reabsorción"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La facilidad con la que las sustancias y el líquido atraviesan la pared capilar influye directamente en las tasas de filtración y reabsorción."
+    },
+    {
+      "question": "¿Qué papel juegan los vasos linfáticos en el mantenimiento del equilibrio de líquidos?",
+      "options": [
+        "Reabsorben todo el líquido filtrado por los capilares",
+        "Filtran líquido adicional hacia los tejidos",
+        "Recogen el exceso de líquido y proteínas de los tejidos y lo devuelven a la circulación",
+        "No participan en el intercambio de líquidos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El sistema linfático es esencial para drenar el líquido y las proteínas que no pueden ser reabsorbidos directamente por los capilares, previniendo la acumulación de líquido en los espacios intersticiales."
+    },
+    {
+      "question": "¿Por qué es importante el retorno venoso en el contexto del intercambio capilar?",
+      "options": [
+        "Aumenta la presión de filtración en los capilares",
+        "Mantiene un gradiente de presión adecuado para la reabsorción en los capilares venosos",
+        "Disminuye la permeabilidad de los capilares",
+        "Acelera el flujo sanguíneo a través de los capilares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un retorno venoso adecuado asegura que la presión en los capilares venosos sea lo suficientemente baja para permitir la reabsorción eficiente de líquido desde los tejidos hacia la circulación."
+    },
+    {
+      "question": "¿Qué efecto tiene la gravedad sobre la presión capilar en las piernas al estar de pie?",
+      "options": [
+        "Disminuye la presión capilar",
+        "Aumenta la presión capilar",
+        "No tiene efecto sobre la presión capilar",
+        "La presión capilar se vuelve inestable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La gravedad aumenta la presión hidrostática en los capilares de las extremidades inferiores al estar de pie, lo que puede incrementar la filtración de líquido hacia los tejidos."
+    },
+    {
+      "question": "¿Cómo se ve afectado el intercambio capilar en condiciones de inflamación?",
+      "options": [
+        "Disminuye la permeabilidad capilar",
+        "Aumenta la presión coloidosmótica en los tejidos",
+        "Aumenta la filtración de líquido debido a una mayor permeabilidad capilar",
+        "No hay cambios significativos en el intercambio capilar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La inflamación puede aumentar la permeabilidad de los capilares, permitiendo que más líquido y proteínas se filtren hacia los tejidos y contribuyendo al edema."
+    },
+    {
+      "question": "¿Cuál es el resultado neto del intercambio capilar en condiciones normales?",
+      "options": [
+        "No hay movimiento neto de líquido",
+        "Ligera filtración de líquido hacia los tejidos, que es recogida por los vasos linfáticos",
+        "Reabsorción completa de todo el líquido filtrado",
+        "Filtración masiva de líquido hacia los tejidos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En condiciones normales, hay una ligera filtración neta de líquido desde los capilares hacia los tejidos, y este exceso es drenado por el sistema linfático para mantener el equilibrio de líquidos."
+    },
+    {
+      "question": "¿Qué proceso a largo plazo permite a los tejidos aumentar su flujo sanguíneo si sus necesidades metabólicas aumentan?",
+      "options": [
+        "Vasoconstricción",
+        "Vasodilatación",
+        "Vasomoción",
+        "Angiogénesis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La angiogénesis, que es el crecimiento de nuevos vasos sanguíneos, permite a los tejidos satisfacer demandas metabólicas aumentadas a largo plazo."
+    },
+    {
+      "question": "¿Qué ocurre con la vascularización de un tejido si su metabolismo disminuye?",
+      "options": [
+        "Disminuye",
+        "Aumenta",
+        "Permanece igual",
+        "Se vuelve errática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La cantidad de vasos sanguíneos en un tejido disminuye si la actividad metabólica de ese tejido se reduce."
+    },
+    {
+      "question": "¿En qué tipo de tejido la reconstrucción de la vasculatura ocurre más rápidamente?",
+      "options": [
+        "Tejido muscular adulto",
+        "Tejido óseo denso",
+        "Tejido nervioso maduro",
+        "Tejido de nuevo crecimiento"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los tejidos que están creciendo activamente, como en los jóvenes o en el crecimiento tumoral, experimentan cambios vasculares rápidos."
+    },
+    {
+      "question": "¿Qué factor de crecimiento es esencial para la formación de nuevos vasos sanguíneos?",
+      "options": [
+        "Factor de crecimiento endotelial vascular (VEGF)",
+        "Óxido nítrico",
+        "Endotelina",
+        "Bradicinina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El VEGF es una proteína que estimula la proliferación de células endoteliales y la subsiguiente formación de vasos."
+    },
+    {
+      "question": "¿Qué células liberan VEGF en respuesta a la isquemia tisular?",
+      "options": [
+        "Eritrocitos",
+        "Células endoteliales",
+        "Células musculares lisas",
+        "Fibroblastos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En condiciones de bajo oxígeno, los fibroblastos en los tejidos liberan VEGF para promover el crecimiento de vasos sanguíneos."
+    },
+    {
+      "question": "¿Qué efecto tiene el aumento de oxígeno en los tejidos sobre la liberación de factores angiogénicos?",
+      "options": [
+        "Aumenta la liberación",
+        "Disminuye la liberación",
+        "No tiene efecto",
+        "Causa liberación errática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cuando los niveles de oxígeno aumentan, la necesidad de nuevos vasos sanguíneos disminuye, lo que reduce la liberación de factores que promueven la angiogénesis."
+    },
+    {
+      "question": "¿Además de la falta de oxígeno, ¿qué otras condiciones pueden estimular la angiogénesis?",
+      "options": [
+        "Exceso de nutrientes",
+        "Actividad física intensa",
+        "Bajas temperaturas",
+        "Presencia de productos de degradación tisular"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La acumulación de sustancias de desecho del metabolismo celular puede inducir la formación de nuevos vasos."
+    },
+    {
+      "question": "¿Qué enzima juega un papel crucial en la disolución de la membrana basal de las células endoteliales durante la angiogénesis?",
+      "options": [
+        "Amilasa",
+        "Proteasa",
+        "Lipasa",
+        "Colagenasa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las enzimas proteasas descomponen la matriz extracelular, permitiendo que las células endoteliales migren y formen nuevos vasos."
+    },
+    {
+      "question": "¿Qué estructura forma el «brote» inicial en la angiogénesis?",
+      "options": [
+        "Una célula muscular lisa",
+        "Una célula endotelial",
+        "Un fibroblasto",
+        "Una célula nerviosa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El proceso de angiogénesis comienza con la protrusión de una célula endotelial a través de la pared del vaso existente."
+    },
+    {
+      "question": "¿Qué proceso sigue a la migración de las células endoteliales en la angiogénesis?",
+      "options": [
+        "Vasoconstricción",
+        "Formación del lumen",
+        "Hipertrofia celular",
+        "Apoptosis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Después de migrar, las células endoteliales se alinean y forman un canal hueco, que eventualmente se convierte en un nuevo vaso sanguíneo."
+    },
+    {
+      "question": "¿En qué período de tiempo puede ocurrir una vascularización significativa de un tejido nuevo?",
+      "options": [
+        "En minutos",
+        "En horas",
+        "En días",
+        "En años"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La formación de nuevos vasos sanguíneos puede ocurrir en unos pocos días, lo que permite una rápida adaptación al crecimiento de tejidos o a la reparación."
+    },
+    {
+      "question": "¿Qué tipo de control del flujo sanguíneo se logra mediante la angiogénesis?",
+      "options": [
+        "Control agudo",
+        "Control a corto plazo",
+        "Control a largo plazo",
+        "Control inmediato"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La angiogénesis es un mecanismo de adaptación a largo plazo que asegura que el suministro de sangre coincida con las necesidades metabólicas de los tejidos durante períodos prolongados."
+    },
+    {
+      "question": "¿Qué sistema de control ayuda a mantener la presión arterial relativamente constante, especialmente al cambiar de posición?",
+      "options": [
+        "Sistema nervioso entérico",
+        "Sistema de barorreceptores",
+        "Sistema renina-angiotensina",
+        "Sistema de quimiorreceptores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los barorreceptores detectan cambios en la presión arterial y desencadenan reflejos para estabilizarla, lo cual es crucial al levantarse."
+    },
+    {
+      "question": "¿Qué efecto tiene una descarga simpática masiva en todo el cuerpo?",
+      "options": [
+        "Aumenta la presión arterial",
+        "Disminuye la presión arterial",
+        "No afecta la presión arterial",
+        "Causa fluctuaciones erráticas de la presión arterial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La activación del sistema nervioso simpático generalmente conduce a un aumento de la presión arterial a través de la vasoconstricción."
+    },
+    {
+      "question": "¿Cómo se llama el sistema que amortigua tanto los aumentos como las disminuciones de la presión arterial?",
+      "options": [
+        "Sistema de control de pH",
+        "Sistema de amortiguación de la presión",
+        "Sistema de control de glucosa",
+        "Sistema de equilibrio hídrico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El sistema de barorreceptores actúa como un amortiguador, previniendo fluctuaciones extremas en la presión arterial."
+    },
+    {
+      "question": "¿Qué ocurre con la variabilidad de la presión arterial en un animal sin nervios barorreceptores?",
+      "options": [
+        "Disminuye",
+        "Aumenta significativamente",
+        "Permanece igual",
+        "Se vuelve impredecible"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sin la función amortiguadora de los barorreceptores, la presión arterial puede variar ampliamente en respuesta a actividades diarias normales."
+    },
+    {
+      "question": "¿Qué tipo de retraso ocurre en la respuesta del sistema de barorreceptores a un cambio en la presión arterial?",
+      "options": [
+        "Retraso de segundos",
+        "Retraso de minutos",
+        "Retraso de horas",
+        "No hay retraso"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El sistema de barorreceptores responde casi instantáneamente a los cambios de presión arterial para mantener la estabilidad."
+    },
+    {
+      "question": "¿Qué parte del cuerpo es especialmente sensible a los efectos de los cambios rápidos de presión arterial?",
+      "options": [
+        "Los riñones",
+        "El cerebro",
+        "El hígado",
+        "Los músculos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mantener una presión arterial estable es crucial para el cerebro, que es muy sensible a la falta de flujo sanguíneo."
+    },
+    {
+      "question": "¿Qué puede ocurrir si hay una caída significativa de la presión arterial en la cabeza y la parte superior del cuerpo?",
+      "options": [
+        "Aumento de la agudeza visual",
+        "Pérdida de conciencia",
+        "Aumento de la memoria",
+        "Disminución de la frecuencia cardíaca"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Una reducción en el flujo sanguíneo al cerebro puede provocar desmayos o pérdida de conciencia."
+    },
+    {
+      "question": "¿Qué acción refleja ayuda a minimizar la caída de la presión arterial al levantarse rápidamente?",
+      "options": [
+        "Vasodilatación",
+        "Bradicardia",
+        "Respiración profunda",
+        "Descarga simpática"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El reflejo barorreceptor induce una respuesta simpática para aumentar la presión arterial y prevenir el mareo al ponerse de pie."
+    },
+    {
+      "question": "¿Cuál es el rango normal aproximado de la presión arterial media en un perro, según el PDF?",
+      "options": [
+        "50-70 mmHg",
+        "85-115 mmHg",
+        "120-140 mmHg",
+        "150-170 mmHg"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En condiciones normales, la presión arterial se mantiene dentro de un rango estrecho, aproximadamente entre 85 y 115 mmHg."
+    },
+    {
+      "question": "¿Qué ocurre con la variabilidad de la presión arterial en un perro al que se le han extirpado los nervios barorreceptores?",
+      "options": [
+        "Disminuye",
+        "Aumenta significativamente",
+        "Permanece igual",
+        "Se vuelve errática pero dentro del rango normal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La eliminación de los barorreceptores conduce a una variabilidad extrema de la presión arterial."
+    },
+    {
+      "question": "¿Cuál es la función principal del sistema de barorreceptores?",
+      "options": [
+        "Mantener la presión arterial estable",
+        "Regular la frecuencia cardíaca durante el ejercicio",
+        "Controlar la respiración durante el sueño",
+        "Ajustar el flujo sanguíneo a los riñones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El sistema de barorreceptores actúa como un amortiguador para prevenir fluctuaciones extremas en la presión arterial."
+    },
+    {
+      "question": "¿En qué parte del cuerpo es especialmente importante la función de los barorreceptores para mantener la presión arterial?",
+      "options": [
+        "En las piernas",
+        "En el cerebro",
+        "En los riñones",
+        "En el corazón"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Es crucial mantener una presión arterial estable para el cerebro, que es muy sensible a los cambios en el flujo sanguíneo."
+    },
+    {
+      "question": "¿Qué puede causar una caída significativa en la presión arterial en la cabeza y la parte superior del cuerpo?",
+      "options": [
+        "Pérdida de conciencia",
+        "Aumento de la agudeza visual",
+        "Dolor de cabeza intenso",
+        "Zumbido en los oídos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una caída importante en la presión arterial puede provocar desmayos o pérdida de conciencia."
+    },
+    {
+      "question": "¿Qué tipo de respuesta se produce al levantarse rápidamente para contrarrestar la caída de la presión arterial?",
+      "options": [
+        "Vasodilatación",
+        "Bradicardia",
+        "Aumento de la frecuencia respiratoria",
+        "Descarga simpática"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Al levantarse, se produce una descarga simpática para minimizar la caída de la presión arterial."
+    },
+    {
+      "question": "¿Cómo se describe el sistema de control de barorreceptores en términos de su acción sobre la presión arterial?",
+      "options": [
+        "Como un acelerador",
+        "Como un freno",
+        "Como un amortiguador",
+        "Como un interruptor"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El sistema de barorreceptores se denomina sistema amortiguador de la presión porque se opone tanto al aumento como a la disminución de la presión arterial."
+    },
+    {
+      "question": "¿Qué efecto tiene la denervación de los barorreceptores sobre las fluctuaciones de la presión arterial?",
+      "options": [
+        "Las fluctuaciones aumentan",
+        "Las fluctuaciones disminuyen",
+        "No hay ningún efecto",
+        "Las fluctuaciones se vuelven más predecibles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sin los barorreceptores, la presión arterial muestra una variabilidad extrema en respuesta a las actividades diarias."
+    },
+    {
+      "question": "¿En qué rango de tiempo operan principalmente los reflejos barorreceptores para controlar la presión arterial?",
+      "options": [
+        "Segundos a minutos",
+        "Horas a días",
+        "Semanas a meses",
+        "Años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los reflejos barorreceptores actúan rápidamente, en cuestión de segundos a minutos, para controlar la presión arterial."
+    },
+    {
+      "question": "¿Qué componente del sistema nervioso juega un papel clave en la respuesta rápida a los cambios de presión arterial detectados por los barorreceptores?",
+      "options": [
+        "Sistema nervioso simpático",
+        "Sistema nervioso parasimpático",
+        "Sistema nervioso entérico",
+        "Sistema nervioso central"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El sistema nervioso simpático se activa rápidamente en respuesta a los cambios en la presión arterial detectados por los barorreceptores."
+    },
+    {
+      "question": "¿Cuál de los siguientes no es un componente principal del sistema de control de la presión arterial a corto plazo?",
+      "options": [
+        "Reflejos barorreceptores",
+        "Quimiorreceptores",
+        "Respuesta isquémica del SNC",
+        "Regulación renal del volumen de líquido"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La regulación renal del volumen de líquido es un mecanismo de control de la presión arterial a largo plazo, no a corto plazo."
+    },
+    {
+      "question": "¿Qué efecto tiene la gravedad sobre la presión arterial en los pies al estar de pie?",
+      "options": [
+        "Disminuye la presión arterial",
+        "Aumenta la presión arterial",
+        "No tiene un efecto directo",
+        "Causa fluctuaciones erráticas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La gravedad aumenta la presión arterial en las partes inferiores del cuerpo, como los pies, al estar de pie."
+    },
+    {
+      "question": "¿Qué sistema ayuda a prevenir los cambios posturales repentinos en la presión arterial?",
+      "options": [
+        "Sistema digestivo",
+        "Sistema respiratorio",
+        "Sistema cardiovascular",
+        "Sistema endocrino"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El sistema cardiovascular, especialmente a través de los barorreceptores, ayuda a estabilizar la presión arterial al cambiar de posición."
+    },
+    {
+      "question": "¿Cuál es un ejemplo de situación que pone a prueba la eficacia del sistema de barorreceptores?",
+      "options": [
+        "Durante el ejercicio ligero",
+        "Al dormir",
+        "Al beber agua",
+        "Al levantarse rápidamente"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Levantarse rápidamente puede causar una caída en la presión arterial que el sistema de barorreceptores debe contrarrestar."
+    },
+    {
+      "question": "¿Qué resultado tendría la falta de un sistema de barorreceptores funcional en la presión arterial diaria?",
+      "options": [
+        "Presión arterial muy estable",
+        "Presión arterial ligeramente elevada",
+        "Presión arterial crónicamente baja",
+        "Presión arterial muy variable"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La ausencia de barorreceptores funcionales conduce a grandes oscilaciones en la presión arterial a lo largo del día."
+    },
+    {
+      "question": "¿Qué papel juegan los barorreceptores en la adaptación a la hipertensión crónica?",
+      "options": [
+        "Previenen completamente la hipertensión",
+        "Pueden retrasar pero no prevenir la hipertensión a largo plazo",
+        "Exacerban la hipertensión",
+        "No tienen ningún papel en la hipertensión"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los barorreceptores pueden intentar atenuar los aumentos de presión, pero se adaptan y no previenen la hipertensión crónica."
+    },
+    {
+      "question": "¿Qué tipo de control ejercen los barorreceptores sobre la presión arterial?",
+      "options": [
+        "Control a muy largo plazo",
+        "Control a largo plazo",
+        "Control a medio plazo",
+        "Control a corto plazo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los barorreceptores funcionan principalmente en el control de la presión arterial a corto plazo."
+    },
+    {
+      "question": "¿Cuál es la respuesta del cuerpo a una hemorragia en términos de la actividad del sistema nervioso simpático?",
+      "options": [
+        "Disminución de la actividad simpática",
+        "Aumento de la actividad simpática",
+        "Ningún cambio en la actividad simpática",
+        "Actividad simpática errática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En respuesta a una hemorragia, el sistema nervioso simpático aumenta su actividad para ayudar a mantener la presión arterial."
+    },
+    {
+      "question": "¿Qué efecto tiene la estimulación de los barorreceptores en la frecuencia cardíaca?",
+      "options": [
+        "Disminuye la frecuencia cardíaca",
+        "Aumenta la frecuencia cardíaca",
+        "No tiene un efecto directo",
+        "Causa arritmias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La estimulación de los barorreceptores generalmente conduce a una disminución de la frecuencia cardíaca."
+    },
+    {
+      "question": "¿Qué factor puede disminuir la efectividad del sistema de barorreceptores?",
+      "options": [
+        "Envejecimiento",
+        "Ejercicio regular",
+        "Hidratación adecuada",
+        "Dieta baja en sodio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El envejecimiento puede disminuir la sensibilidad y la eficacia del sistema de barorreceptores."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un efecto inicial de la hipertensión por sobrecarga de volumen?",
+      "options": [
+        "Disminución del gasto cardíaco",
+        "Aumento del volumen de líquido extracelular",
+        "Disminución de la resistencia periférica total",
+        "Normalización del volumen de sangre"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En las etapas iniciales, la hipertensión por sobrecarga de volumen se caracteriza por un incremento en la cantidad de fluido fuera de las células."
+    },
+    {
+      "question": "¿Qué sucede con el gasto cardíaco en las etapas finales de la hipertensión por sobrecarga de volumen?",
+      "options": [
+        "Aumenta significativamente",
+        "Disminuye por debajo de lo normal",
+        "Se mantiene elevado",
+        "Vuelve casi a la normalidad"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En la fase tardía de la hipertensión por sobrecarga de volumen, el corazón bombea sangre en cantidades similares a las de un estado saludable."
+    },
+    {
+      "question": "¿Cuál es el principal efecto a largo plazo de la angiotensina II sobre la presión arterial?",
+      "options": [
+        "Vasoconstricción aguda",
+        "Aumento de la excreción de sal y agua",
+        "Disminución del volumen del líquido extracelular",
+        "Retención renal de sal y agua"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La angiotensina II eleva la presión arterial al hacer que los riñones conserven más sal y agua, lo que expande el volumen de líquido en el cuerpo."
+    },
+    {
+      "question": "¿Qué enzima convierte la angiotensina I en angiotensina II?",
+      "options": [
+        "Renina",
+        "Angiotensinasa",
+        "Enzima convertidora de la angiotensina",
+        "Prorrenina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La transformación de angiotensina I a angiotensina II es facilitada por una enzima que se encuentra principalmente en los pulmones."
+    },
+    {
+      "question": "¿Dónde se sintetiza y almacena la renina?",
+      "options": [
+        "En el pulmón",
+        "En las células yuxtaglomerulares del riñón",
+        "En el hígado",
+        "En las glándulas suprarrenales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La renina, que inicia el sistema renina-angiotensina, se produce y se guarda en células especializadas del riñón."
+    },
+    {
+      "question": "¿Cuál es una de las acciones directas de la angiotensina II en los riñones?",
+      "options": [
+        "Aumentar el flujo sanguíneo renal",
+        "Dilatar las arteriolas renales",
+        "Disminuir la reabsorción tubular de sodio y agua",
+        "Contraer las arteriolas renales"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La angiotensina II reduce el flujo de sangre en los riñones al estrechar los vasos sanguíneos, lo que ayuda a retener líquidos."
+    },
+    {
+      "question": "¿Cómo afecta la aldosterona a la reabsorción de sodio en los túbulos renales?",
+      "options": [
+        "Disminuye la reabsorción de sodio",
+        "No tiene efecto sobre la reabsorción de sodio",
+        "Bloquea la reabsorción de sodio",
+        "Aumenta la reabsorción de sodio"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La aldosterona promueve la recuperación de sodio en los riñones, lo que contribuye a la retención de agua y al aumento de la presión arterial."
+    },
+    {
+      "question": "¿Qué sucede con la presión arterial cuando aumenta la ingestión de sal y el sistema renina-angiotensina funciona normalmente?",
+      "options": [
+        "Aumenta significativamente",
+        "Disminuye significativamente",
+        "No cambia",
+        "Aumenta ligeramente"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El sistema renina-angiotensina ayuda a mantener la presión arterial estable, incluso con cambios grandes en el consumo de sal, por lo que solo se produce un pequeño aumento."
+    },
+    {
+      "question": "¿Cuál de las siguientes condiciones está asociada con la secreción excesiva de renina?",
+      "options": [
+        "Hipertensión por sobrecarga de volumen",
+        "Aldosteronismo primario",
+        "Coartación aórtica",
+        "Tumor de células yuxtaglomerulares"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Un crecimiento anormal en las células del riñón puede llevar a la liberación excesiva de renina, lo que causa hipertensión."
+    },
+    {
+      "question": "¿Cuál es el efecto inmediato de la colocación de un elemento constrictor en la arteria renal en la hipertensión de Goldblatt con riñón único?",
+      "options": [
+        "Aumento de la presión arterial sistémica",
+        "Disminución de la secreción de renina",
+        "Aumento de la presión en la arteria renal distal al elemento constrictor",
+        "Disminución de la resistencia periférica total"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Al estrechar la arteria que lleva sangre al riñón, se reduce la presión dentro de esa arteria después del punto de estrechamiento."
+    },
+    {
+      "question": "¿Cuál de los siguientes no es un mecanismo por el cual la angiotensina II eleva la presión arterial?",
+      "options": [
+        "Vasoconstricción",
+        "Retención renal de sal y agua",
+        "Aumento del gasto cardíaco",
+        "Estimulación de la aldosterona"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La angiotensina II eleva la presión arterial al estrechar los vasos sanguíneos y retener sal y agua, pero no directamente al aumentar el volumen de sangre que bombea el corazón."
+    },
+    {
+      "question": "¿Qué caracteriza a la hipertensión de Goldblatt con dos riñones?",
+      "options": [
+        "Constricción de la aorta",
+        "Constricción de la arteria renal de un riñón y la otra normal",
+        "Tumor en las glándulas suprarrenales",
+        "Enfermedad renal parcheada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Este tipo de hipertensión se presenta cuando se bloquea el flujo de sangre a un riñón, mientras que el otro funciona normalmente."
+    },
+    {
+      "question": "¿Qué condición se asemeja a la hipertensión de Goldblatt con dos riñones?",
+      "options": [
+        "Coartación aórtica",
+        "Hipertensión por sobrecarga de volumen",
+        "Enfermedad renal isquémica parcheada",
+        "Aldosteronismo primario"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cuando solo algunas partes del riñón están dañadas y otras no, se produce un efecto similar al de tener un riñón con flujo bloqueado y otro sano."
+    },
+    {
+      "question": "¿Cuál es la causa de la hipertensión en la parte alta del cuerpo en la coartación aórtica?",
+      "options": [
+        "Aumento del flujo sanguíneo a la parte superior del cuerpo",
+        "Disminución de la resistencia vascular en la parte inferior del cuerpo",
+        "Constricción de la aorta antes de las arterias renales",
+        "Aumento de la función renal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La hipertensión en la mitad superior del cuerpo ocurre cuando la arteria principal que sale del corazón se estrecha, antes de las arterias que van a los riñones."
+    },
+    {
+      "question": "¿Qué sucede con el flujo sanguíneo en los brazos en pacientes con coartación aórtica?",
+      "options": [
+        "Está disminuido",
+        "Está aumentado",
+        "Es casi normal",
+        "Es muy variable"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A pesar de la alta presión, el flujo de sangre a los brazos en personas con esta condición tiende a ser similar al de personas sanas."
+    },
+    {
+      "question": "¿Cuál es la función principal del sistema renina-angiotensina?",
+      "options": [
+        "Regular la temperatura corporal",
+        "Controlar la digestión",
+        "Regular el ritmo cardíaco",
+        "Mantener la presión arterial estable"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Este sistema juega un papel crucial en asegurar que la presión arterial se mantenga constante, incluso cuando hay cambios en la cantidad de sal que consumimos."
+    },
+    {
+      "question": "¿Qué efecto tiene la constricción de las arteriolas renales?",
+      "options": [
+        "Aumenta el flujo sanguíneo renal",
+        "Disminuye la reabsorción de líquido",
+        "Aumenta la presión en los capilares peritubulares",
+        "Disminuye el flujo sanguíneo a través de los riñones"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Cuando los vasos sanguíneos que llevan sangre a los riñones se estrechan, se reduce la cantidad de sangre que llega a los riñones."
+    },
+    {
+      "question": "¿Cuál de las siguientes hormonas causa un aumento en la reabsorción de sodio en los túbulos renales?",
+      "options": [
+        "Renina",
+        "Angiotensina II",
+        "Angiotensinasa",
+        "Aldosterona"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La aldosterona actúa en los riñones para aumentar la cantidad de sodio que se devuelve al cuerpo, lo que ayuda a regular el equilibrio de líquidos y la presión arterial."
+    },
+    {
+      "question": "¿Qué ocurre con el gasto cardíaco en la primera etapa de la hipertensión por sobrecarga de volumen?",
+      "options": [
+        "Disminuye significativamente",
+        "Aumenta significativamente",
+        "No cambia",
+        "Se mantiene constante"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Al inicio de este tipo de hipertensión, el corazón bombea más sangre de lo normal."
+    },
+    {
+      "question": "¿Cuál de los siguientes factores contribuye a la hipertensión de Goldblatt?",
+      "options": [
+        "Tumor de células YG",
+        "Exceso de aldosterona",
+        "Coartación aórtica",
+        "Aumento del volumen de líquido extracelular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hipertensión de Goldblatt puede ser causada por un tumor que produce demasiada renina, lo que a su vez aumenta la producción de angiotensina II."
+    },
+    {
+      "question": "¿Cuál de los siguientes factores NO afecta directamente al gasto cardíaco?",
+      "options": [
+        "El nivel básico del metabolismo del organismo",
+        "La edad",
+        "El tamaño del organismo",
+        "El color de los ojos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El gasto cardíaco está influenciado por el metabolismo, la edad y el tamaño del cuerpo, pero no por características como el color de los ojos."
+    },
+    {
+      "question": "¿Qué unidad se utiliza para expresar el índice cardíaco?",
+      "options": [
+        "l/min",
+        "l/min/m²",
+        "l/kg",
+        "ml/min"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El índice cardíaco se mide en litros por minuto por metro cuadrado de superficie corporal, lo que permite ajustar el gasto cardíaco al tamaño del cuerpo."
+    },
+    {
+      "question": "¿Qué ocurre con el índice cardíaco a medida que aumenta la edad?",
+      "options": [
+        "Aumenta",
+        "Disminuye",
+        "Se mantiene constante",
+        "Varía aleatoriamente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Generalmente, el índice cardíaco tiende a disminuir con la edad, reflejando cambios en la actividad y la masa muscular."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones describe mejor la Ley de Frank-Starling del corazón?",
+      "options": [
+        "El corazón bombea menos sangre cuando recibe más sangre",
+        "El corazón bombea la misma cantidad de sangre sin importar cuánto recibe",
+        "El corazón bombea más sangre cuando recibe más sangre",
+        "El corazón deja de bombear sangre cuando se estira demasiado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La Ley de Frank-Starling explica cómo el corazón ajusta su fuerza de bombeo al volumen de sangre que recibe."
+    },
+    {
+      "question": "¿Qué efecto tiene el estiramiento del nódulo sinusal?",
+      "options": [
+        "Disminuye la frecuencia cardíaca",
+        "No afecta la frecuencia cardíaca",
+        "Aumenta la frecuencia cardíaca en un 50%",
+        "Aumenta la frecuencia cardíaca ligeramente"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El estiramiento del nódulo sinusal provoca un incremento moderado en la velocidad de los latidos del corazón."
+    },
+    {
+      "question": "¿Qué sistema regula principalmente el gasto cardíaco en situaciones sin estrés?",
+      "options": [
+        "Factores periféricos que determinan el retorno venoso",
+        "El sistema nervioso central",
+        "El propio corazón",
+        "El sistema endocrino"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En condiciones normales, el flujo de sangre que regresa al corazón es el principal determinante de cuánto bombea el corazón."
+    },
+    {
+      "question": "¿Qué representa el gasto cardíaco?",
+      "options": [
+        "El flujo sanguíneo en un solo órgano",
+        "La suma de los flujos sanguíneos en todos los tejidos del cuerpo",
+        "El flujo de sangre que sale del riñón",
+        "El flujo de sangre que entra al cerebro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El gasto cardíaco es la cantidad total de sangre que el corazón impulsa hacia fuera, distribuyéndola a todos los órganos y tejidos."
+    },
+    {
+      "question": "¿Qué le sucede al flujo sanguíneo local cuando aumenta el consumo de oxígeno en un tejido?",
+      "options": [
+        "Aumenta",
+        "Disminuye",
+        "Se mantiene igual",
+        "Se vuelve errático"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando un tejido consume más oxígeno, generalmente recibe un mayor flujo de sangre para satisfacer esa demanda."
+    },
+    {
+      "question": "¿Cómo varía el gasto cardíaco a largo plazo con la resistencia periférica total, asumiendo que la presión arterial se mantiene constante?",
+      "options": [
+        "Directamente",
+        "Inversamente",
+        "No varía",
+        "Varía de forma impredecible"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Si la presión arterial no cambia, el gasto cardíaco cambia en la dirección opuesta a la resistencia en los vasos sanguíneos."
+    },
+    {
+      "question": "¿Cuál de las siguientes no es una causa de un corazón hipereficaz?",
+      "options": [
+        "Estimulación nerviosa",
+        "Hipertrofia del músculo cardíaco",
+        "Ejercicio regular",
+        "Inhibición de la excitación nerviosa"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Un corazón hipereficaz es aquel que bombea más eficientemente de lo normal, lo cual puede ser resultado de la estimulación nerviosa o la hipertrofia cardíaca, pero no de la inhibición nerviosa."
+    },
+    {
+      "question": "¿Cuál es el efecto de la estimulación simpática en la función de bomba del corazón?",
+      "options": [
+        "Disminuye la frecuencia cardíaca",
+        "Disminuye la fuerza de contracción",
+        "Aumenta la frecuencia cardíaca y la fuerza de contracción",
+        "No tiene efecto"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La estimulación simpática mejora la capacidad del corazón para bombear sangre al aumentar tanto la velocidad como la fuerza de los latidos."
+    },
+    {
+      "question": "¿Qué adaptación puede ocurrir en el corazón de un atleta de resistencia, como un corredor de maratón?",
+      "options": [
+        "Atrofia del músculo cardíaco",
+        "Disminución del tamaño del corazón",
+        "Ningún cambio en el corazón",
+        "Hipertrofia del músculo cardíaco"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El ejercicio intenso y regular puede llevar a que el músculo cardíaco se fortalezca y crezca, permitiendo bombear más sangre."
+    },
+    {
+      "question": "¿Cuál de los siguientes factores puede llevar a un corazón hipoeficaz?",
+      "options": [
+        "Ejercicio regular",
+        "Hipertensión grave",
+        "Estimulación nerviosa",
+        "Hipertrofia cardíaca"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La hipertensión, al aumentar la resistencia contra la que debe bombear el corazón, puede disminuir su eficacia."
+    },
+    {
+      "question": "¿Qué condición no reduce la capacidad de bombeo del corazón?",
+      "options": [
+        "Cardiopatía valvular",
+        "Miocarditis",
+        "Ejercicio regular",
+        "Bloqueo de una arteria coronaria"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Mientras que las enfermedades del corazón disminuyen su capacidad de bombear sangre eficazmente, el ejercicio regular lo fortalece."
+    },
+    {
+      "question": "¿Qué efecto tiene la dilatación de los vasos sanguíneos periféricos sobre la presión arterial si no hay control nervioso?",
+      "options": [
+        "Aumenta la presión arterial",
+        "No cambia la presión arterial",
+        "La presión arterial se vuelve errática",
+        "Disminuye la presión arterial"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Sin la compensación del sistema nervioso, la expansión de los vasos sanguíneos puede llevar a una caída en la presión arterial."
+    },
+    {
+      "question": "¿Qué hace el sistema nervioso para compensar la dilatación de los vasos sanguíneos durante el ejercicio?",
+      "options": [
+        "Constriñe las venas y aumenta la frecuencia y contractilidad del corazón",
+        "Disminuye la frecuencia cardíaca",
+        "Dilata aún más los vasos sanguíneos",
+        "No tiene ningún efecto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El sistema nervioso ayuda a mantener o aumentar la presión arterial durante el ejercicio al estrechar los vasos y hacer que el corazón bombee con más fuerza."
+    },
+    {
+      "question": "¿Cuál de las siguientes condiciones NO provoca típicamente un aumento del gasto cardíaco?",
+      "options": [
+        "Beriberi",
+        "Fístula arteriovenosa",
+        "Hipertiroidismo",
+        "Hipotiroidismo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Mientras que las primeras tres condiciones aumentan el gasto cardíaco, el hipotiroidismo tiende a disminuirlo."
+    },
+    {
+      "question": "¿Qué causa el beriberi?",
+      "options": [
+        "Deficiencia de vitamina B1",
+        "Exceso de vitamina B1",
+        "Exceso de vitamina C",
+        "Deficiencia de vitamina C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El beriberi es causado por la falta de suficiente tiamina, o vitamina B1, en la dieta."
+    },
+    {
+      "question": "¿Qué condición implica un cortocircuito entre una arteria y una vena?",
+      "options": [
+        "Anemia",
+        "Hipertiroidismo",
+        "Fístula arteriovenosa",
+        "Beriberi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Una fístula arteriovenosa es una conexión anormal entre una arteria y una vena que altera el flujo sanguíneo normal."
+    },
+    {
+      "question": "¿Cuál es un factor periférico no cardíaco común que disminuye el gasto cardíaco?",
+      "options": [
+        "Aumento del volumen de sangre",
+        "Dilatación venosa aguda",
+        "Ejercicio regular",
+        "Hipertrofia muscular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La dilatación venosa aguda puede reducir la presión de llenado vascular y disminuir el retorno venoso, lo que reduce el gasto cardíaco."
+    },
+    {
+      "question": "¿Qué instrumento se utiliza en experimentos con animales para medir directamente el gasto cardíaco?",
+      "options": [
+        "Electrocardiógrafo",
+        "Flujómetro",
+        "Espectrofotómetro",
+        "Barómetro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para obtener una medida directa de la cantidad de sangre que bombea el corazón, se emplea un dispositivo llamado flujómetro, el cual se coloca en los vasos sanguíneos."
+    },
+    {
+      "question": "¿Cuál de los siguientes métodos se utiliza para estimar el gasto cardíaco en humanos sin necesidad de cirugía?",
+      "options": [
+        "Canulación de la aorta",
+        "Medición directa con flujómetro",
+        "Apertura del tórax",
+        "Ecocardiografía"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La ecocardiografía es una técnica no invasiva que utiliza ultrasonido para calcular el gasto cardíaco al medir el flujo de sangre y las dimensiones del corazón."
+    },
+    {
+      "question": "¿Qué fase del ciclo cardíaco muestra un flujo sanguíneo máximo según un flujómetro?",
+      "options": [
+        "Sístole",
+        "Diástole",
+        "Relajación isovolumétrica",
+        "Llenado ventricular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El flujómetro registra que el flujo de sangre alcanza su punto máximo durante la contracción del corazón."
+    },
+    {
+      "question": "¿Qué causa el cierre de la válvula aórtica?",
+      "options": [
+        "El flujo sanguíneo máximo",
+        "La inversión del flujo sanguíneo",
+        "La diástole ventricular",
+        "El aumento de la presión arterial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La válvula aórtica se cierra cuando el flujo de sangre cambia de dirección por un instante."
+    },
+    {
+      "question": "¿Qué mide el principio de Fick?",
+      "options": [
+        "La velocidad del flujo sanguíneo",
+        "El volumen de sangre en el corazón",
+        "La absorción de oxígeno por la sangre",
+        "La presión en la aurícula derecha"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El principio de Fick determina cuánto oxígeno recoge la sangre al pasar por los pulmones."
+    },
+    {
+      "question": "Según el principio de Fick, ¿qué se necesita saber para calcular el gasto cardíaco?",
+      "options": [
+        "La presión arterial y la frecuencia cardíaca",
+        "El volumen de sangre y la concentración de CO2",
+        "El tamaño del corazón y la velocidad de la sangre",
+        "La cantidad de oxígeno consumido y la diferencia de oxígeno en la sangre"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Para calcular la cantidad de sangre que bombea el corazón, se utiliza la cantidad de oxígeno que se absorbe y la diferencia en la concentración de oxígeno de la sangre."
+    },
+    {
+      "question": "¿Dónde se obtiene la sangre venosa mixta para la medición del gasto cardíaco por el método de Fick?",
+      "options": [
+        "Vena yugular",
+        "Arteria femoral",
+        "Ventrículo izquierdo",
+        "Arteria pulmonar"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En la técnica de Fick, la sangre venosa mixta se extrae del ventrículo derecho o la arteria pulmonar mediante un catéter."
+    },
+    {
+      "question": "¿Qué se mide para determinar la tasa de absorción de oxígeno en los pulmones?",
+      "options": [
+        "La cantidad de aire exhalado",
+        "La velocidad del aire inhalado",
+        "La tasa de desaparición de oxígeno del aire respirado",
+        "El volumen de los pulmones"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La cantidad de oxígeno que los pulmones toman del aire se calcula midiendo cuánto oxígeno desaparece del aire que se respira."
+    },
+    {
+      "question": "¿Qué se introduce en el cuerpo para medir el gasto cardíaco por dilución de indicadores?",
+      "options": [
+        "Un colorante especial",
+        "Un catéter lleno de oxígeno",
+        "Un electrodo",
+        "Un gas trazador"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el método de dilución de indicadores, se inyecta una pequeña cantidad de una sustancia, como un colorante, en el torrente sanguíneo para medir el gasto cardíaco."
+    },
+    {
+      "question": "¿Qué se registra al usar el método de dilución de indicadores?",
+      "options": [
+        "La presión arterial",
+        "La frecuencia cardíaca",
+        "El volumen de los pulmones",
+        "La concentración del indicador"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El método de dilución de indicadores implica registrar la concentración de la sustancia a medida que viaja a través del sistema circulatorio."
+    },
+    {
+      "question": "¿Qué se debe hacer con la curva de concentración del colorante para calcular el gasto cardíaco?",
+      "options": [
+        "Medir la altura del pico",
+        "Calcular el área bajo la curva",
+        "Extrapolar la pendiente negativa hasta el punto cero",
+        "Medir el tiempo hasta el primer pico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para calcular con precisión, es necesario extender la parte descendente inicial de la curva hasta el punto cero."
+    },
+    {
+      "question": "¿Qué representa el área bajo la curva de tiempo-concentración?",
+      "options": [
+        "El tiempo de circulación del indicador",
+        "La cantidad total de sangre",
+        "La velocidad del flujo sanguíneo",
+        "La concentración media del indicador en la sangre"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El área debajo de la curva muestra la concentración promedio de la sustancia en la sangre durante el tiempo que se midió."
+    },
+    {
+      "question": "¿Qué información se utiliza para calcular el gasto cardíaco con el método de dilución?",
+      "options": [
+        "Volumen de sangre, presión arterial y frecuencia cardíaca",
+        "Cantidad de indicador, concentración media y duración de la curva",
+        "Cantidad de oxígeno, volumen de los pulmones y tamaño del corazón",
+        "Velocidad del flujo sanguíneo, resistencia vascular y edad del paciente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El cálculo del gasto cardíaco mediante dilución de un indicador se basa en la cantidad de sustancia inyectada, su concentración promedio en la sangre y el tiempo que tarda en circular."
+    },
+    {
+      "question": "¿Qué efecto tiene la apertura de una fístula arteriovenosa en el gasto cardíaco?",
+      "options": [
+        "Aumenta inicialmente el gasto cardíaco",
+        "Disminuye el gasto cardíaco",
+        "No afecta el gasto cardíaco",
+        "Lo hace errático"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando se abre una conexión anormal entre una arteria y una vena, el corazón inicialmente bombea más sangre."
+    },
+    {
+      "question": "¿Qué sucede con la presión en la aurícula derecha inmediatamente después de abrir una fístula AV?",
+      "options": [
+        "Disminuye",
+        "Aumenta",
+        "No cambia",
+        "Se vuelve negativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Inmediatamente después de que se forma la fístula, la presión dentro de la cámara del corazón aumenta."
+    },
+    {
+      "question": "¿Qué sistema del cuerpo ayuda a restaurar la presión arterial después de la apertura de una fístula AV?",
+      "options": [
+        "Sistema digestivo",
+        "Sistema nervioso simpático",
+        "Sistema endocrino",
+        "Sistema linfático"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El sistema nervioso simpático responde aumentando la presión arterial para compensar los cambios causados por la fístula."
+    },
+    {
+      "question": "¿Qué adaptación a largo plazo ocurre en el corazón después de mantener una fístula AV?",
+      "options": [
+        "Hipertrofia",
+        "Atrofia",
+        "Fibrosis",
+        "Dilatación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Con el tiempo, el corazón se agranda y se fortalece en respuesta al aumento del trabajo de bombeo."
+    },
+    {
+      "question": "¿Cuál es el principal factor que regula el flujo sanguíneo muscular durante el ejercicio?",
+      "options": [
+        "Estimulación nerviosa",
+        "Disponibilidad de oxígeno",
+        "Presión arterial",
+        "Frecuencia cardíaca"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La cantidad de oxígeno disponible en los músculos es el factor principal que determina cuánto flujo sanguíneo reciben durante la actividad física."
+    },
+    {
+      "question": "¿Qué efecto tiene la adrenalina en los vasos sanguíneos musculares?",
+      "options": [
+        "Vasoconstricción",
+        "Vasodilatación",
+        "Ninguno",
+        "Depende del músculo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La adrenalina tiende a ensanchar los vasos sanguíneos en los músculos, facilitando un mayor flujo de sangre."
+    },
+    {
+      "question": "¿Qué sucede con el flujo sanguíneo a los órganos no musculares durante el ejercicio intenso?",
+      "options": [
+        "Aumenta",
+        "Disminuye",
+        "No cambia",
+        "Se vuelve pulsátil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Durante el ejercicio, el flujo de sangre se reduce en áreas que no son los músculos activos para asegurar que haya suficiente sangre disponible para los músculos."
+    },
+    {
+      "question": "¿Qué ocurre en el sistema venoso cuando el corazón no bombea sangre eficazmente?",
+      "options": [
+        "Aumenta el flujo sanguíneo",
+        "Disminuye la presión capilar",
+        "Disminuye el volumen de sangre",
+        "Se produce estancamiento de sangre"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Cuando el corazón falla al bombear, la sangre se acumula en las venas, incrementando la presión en los capilares."
+    },
+    {
+      "question": "¿Por qué los síntomas de insuficiencia cardíaca pueden empeorar días después de un infarto?",
+      "options": [
+        "Los riñones retienen exceso de líquido",
+        "Aumenta el flujo sanguíneo a los riñones",
+        "El corazón bombea con más fuerza",
+        "Disminuye la presión en las aurículas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La insuficiencia cardíaca reduce el flujo a los riñones, causando retención de líquidos y congestión."
+    },
+    {
+      "question": "¿Cuál es una causa común de muerte después de un infarto de miocardio?",
+      "options": [
+        "Aumento del gasto cardíaco",
+        "Fibrilación ventricular súbita",
+        "Disminución de la presión arterial",
+        "Recuperación rápida del músculo cardíaco"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un infarto puede llevar a una alteración del ritmo cardíaco conocida como fibrilación ventricular, que puede ser fatal."
+    },
+    {
+      "question": "¿Durante qué período es más probable que ocurra la fibrilación después de un infarto?",
+      "options": [
+        "Inmediatamente después del infarto",
+        "Después de varios meses",
+        "Entre 1 hora y varias horas después del infarto",
+        "Solo en infartos pequeños"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El riesgo de fibrilación es alto en las primeras horas tras un infarto, debido a la irritabilidad del músculo cardíaco."
+    },
+    {
+      "question": "¿Qué factor contribuye a la fibrilación después de un infarto?",
+      "options": [
+        "Aumento del potasio extracelular",
+        "Disminución del potasio intracelular",
+        "Repolarización completa de las membranas",
+        "Disminución de la isquemia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La isquemia causa una liberación de potasio que aumenta su concentración fuera de las células del corazón, lo que puede desencadenar fibrilación."
+    },
+    {
+      "question": "¿Cómo afecta la isquemia al potencial de membrana del músculo cardíaco?",
+      "options": [
+        "Aumenta la repolarización",
+        "No afecta el potencial de membrana",
+        "Causa que la superficie externa se mantenga negativa",
+        "Acelera la despolarización"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La falta de oxígeno altera la capacidad de las células del corazón para recargarse eléctricamente entre latidos."
+    },
+    {
+      "question": "¿Qué sistema se activa en respuesta a un infarto masivo?",
+      "options": [
+        "Sistema nervioso simpático",
+        "Sistema nervioso parasimpático",
+        "Sistema digestivo",
+        "Sistema endocrino"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cuerpo responde al infarto activando el sistema nervioso simpático, que puede aumentar la irritabilidad del corazón."
+    },
+    {
+      "question": "¿Qué cambio estructural puede predisponer a la fibrilación después de un infarto?",
+      "options": [
+        "Disminución del tamaño del ventrículo",
+        "Dilatación excesiva del ventrículo",
+        "Engrosamiento de las paredes del ventrículo",
+        "Fortalecimiento del músculo cardíaco"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un ventrículo debilitado puede estirarse demasiado, lo que altera las vías de conducción eléctrica y favorece la fibrilación."
+    },
+    {
+      "question": "¿Qué ocurre con el riesgo de rotura cardíaca días después de un infarto?",
+      "options": [
+        "Disminuye",
+        "Aumenta",
+        "Se mantiene constante",
+        "Solo ocurre en infartos pequeños"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Varios días después de un infarto, el tejido dañado se debilita, incrementando el riesgo de que el corazón se rompa."
+    },
+    {
+      "question": "¿Qué condición se desarrolla cuando la sangre llena el espacio pericárdico?",
+      "options": [
+        "Taponamiento cardíaco",
+        "Hipertensión",
+        "Edema pulmonar",
+        "Arritmia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La acumulación de sangre alrededor del corazón puede comprimirlo, una condición peligrosa llamada taponamiento cardíaco."
+    },
+    {
+      "question": "¿Qué le sucede al músculo cardíaco en la zona de isquemia leve?",
+      "options": [
+        "Muere inmediatamente",
+        "Se recupera completamente",
+        "Se hipertrofia",
+        "Queda temporalmente no funcionante"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En áreas con menor isquemia, el músculo puede dejar de funcionar temporalmente, pero aún puede recuperarse."
+    },
+    {
+      "question": "¿Cuánto tiempo puede tardar en morir el tejido muscular en una zona de isquemia total?",
+      "options": [
+        "Semanas",
+        "Días",
+        "1-3 horas",
+        "Minutos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Si el flujo sanguíneo se interrumpe por completo, las células del corazón pueden morir en unas pocas horas."
+    },
+    {
+      "question": "¿Qué tejido reemplaza al músculo muerto después de un infarto?",
+      "options": [
+        "Tejido conectivo",
+        "Tejido nervioso",
+        "Tejido óseo",
+        "Tejido adiposo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cuerpo repara el daño reemplazando el tejido muscular muerto con tejido cicatricial."
+    },
+    {
+      "question": "¿Qué proceso ayuda a que el tejido cicatricial se reduzca con el tiempo?",
+      "options": [
+        "Contracción y disolución",
+        "Inflamación",
+        "Calcificación",
+        "Necrosis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tejido cicatricial puede disminuir de tamaño a medida que se contrae y se disuelve gradualmente."
+    },
+    {
+      "question": "¿Por qué es importante el reposo después de un infarto de miocardio?",
+      "options": [
+        "Para disminuir la necesidad de oxígeno del corazón",
+        "Para aumentar el flujo sanguíneo al corazón dañado",
+        "Para acelerar la formación de tejido cicatricial",
+        "Para evitar la hipertrofia del músculo cardíaco"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El reposo reduce el trabajo del corazón y, por lo tanto, su necesidad de oxígeno, lo que ayuda en la recuperación."
+    },
+    {
+      "question": "¿Qué es el 'síndrome de robo coronario'?",
+      "options": [
+        "Una disminución del flujo sanguíneo a la zona isquémica",
+        "Un aumento del flujo sanguíneo a la zona isquémica",
+        "La dilatación de los vasos en la zona isquémica",
+        "La contracción de los vasos en la zona normal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ocurre cuando el flujo sanguíneo se desvía de la zona isquémica hacia áreas sanas del corazón."
+    },
+    {
+      "question": "¿Qué porcentaje de reserva cardíaca tiene una persona normal?",
+      "options": [
+        "10-20%",
+        "100%",
+        "300-400%",
+        "500-600%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El corazón sano puede bombear mucho más sangre de la que se necesita en reposo."
+    },
+    {
+      "question": "¿Qué causa el dolor en la cardiopatía coronaria?",
+      "options": [
+        "La liberación de sustancias ácidas por el músculo isquémico",
+        "La contracción del músculo cardíaco",
+        "El aumento del flujo sanguíneo coronario",
+        "La dilatación de las arterias coronarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La falta de oxígeno hace que el músculo cardíaco libere sustancias que estimulan las terminaciones nerviosas del dolor."
+    },
+    {
+      "question": "¿Dónde se siente típicamente el dolor de la angina de pecho?",
+      "options": [
+        "Debajo del esternón, con posible irradiación al brazo izquierdo",
+        "En el abdomen",
+        "En la pierna derecha",
+        "En la cabeza"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El dolor suele localizarse en el pecho y puede extenderse a otras áreas del cuerpo."
+    },
+    {
+      "question": "¿Qué fármaco se utiliza comúnmente para aliviar un ataque agudo de angina?",
+      "options": [
+        "Nitroglicerina",
+        "Propranolol",
+        "Aspirina",
+        "Insulina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La nitroglicerina es un vasodilatador que ayuda a aliviar rápidamente el dolor de la angina."
+    },
+    {
+      "question": "¿Qué evento está asociado con el primer tono cardíaco (S1)?",
+      "options": [
+        "Cierre de las válvulas semilunares",
+        "Apertura de las válvulas auriculoventriculares",
+        "Cierre de las válvulas auriculoventriculares",
+        "Flujo de sangre a través de la válvula aórtica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El primer tono cardíaco, conocido como 'lub', se produce por el cierre de las válvulas AV al inicio de la sístole ventricular."
+    },
+    {
+      "question": "¿Qué causa el segundo tono cardíaco (S2)?",
+      "options": [
+        "La contracción de los ventrículos",
+        "El cierre de las válvulas aórtica y pulmonar",
+        "El llenado rápido de los ventrículos",
+        "La apertura de las válvulas AV"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El segundo tono cardíaco, o 'dub', es causado por el cierre de las válvulas semilunares al final de la sístole."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones es correcta sobre la duración de los tonos cardíacos?",
+      "options": [
+        "El primer tono es más corto que el segundo tono.",
+        "Ambos tonos tienen la misma duración.",
+        "La duración de los tonos cardíacos no tiene importancia clínica.",
+        "El segundo tono es más corto que el primer tono."
+      ],
+      "correctAnswer": 4,
+      "explanation": "El segundo tono cardíaco es más breve (0.11s) que el primero (0.14s) debido a la mayor tensión de las válvulas semilunares."
+    },
+    {
+      "question": "¿Cuál es la causa principal de la fiebre reumática?",
+      "options": [
+        "Reacción autoinmunitaria desencadenada por una infección estreptocócica",
+        "Infección bacteriana directa del corazón",
+        "Degeneración valvular relacionada con la edad",
+        "Deficiencia congénita de las válvulas cardíacas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La fiebre reumática es una enfermedad autoinmune que daña las válvulas cardíacas, iniciada por una respuesta a una infección por estreptococo."
+    },
+    {
+      "question": "¿Cuál es la válvula cardíaca más comúnmente afectada por la fiebre reumática?",
+      "options": [
+        "Válvula pulmonar",
+        "Válvula tricúspide",
+        "Válvula aórtica",
+        "Válvula mitral"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La válvula mitral es la que más frecuentemente sufre daños en la fiebre reumática debido a las altas presiones a las que está sometida."
+    },
+    {
+      "question": "¿Qué condición resulta de la incapacidad de una válvula para cerrarse completamente?",
+      "options": [
+        "Insuficiencia",
+        "Estenosis",
+        "Prolapso",
+        "Atresia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La insuficiencia valvular ocurre cuando la válvula no se cierra bien, permitiendo el flujo retrógrado de sangre."
+    },
+    {
+      "question": "¿Qué causa un soplo en la estenosis aórtica?",
+      "options": [
+        "Flujo retrógrado de sangre hacia el ventrículo izquierdo",
+        "Turbulencia de la sangre al pasar por una apertura estrecha",
+        "Cierre incompleto de la válvula aórtica",
+        "Flujo sanguíneo rápido a través de la válvula mitral"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La estenosis aórtica causa un soplo debido a la turbulencia creada cuando la sangre es forzada a pasar a través de una válvula aórtica estrechada."
+    },
+    {
+      "question": "¿En qué fase del ciclo cardíaco se escucha mejor el soplo de la insuficiencia aórtica?",
+      "options": [
+        "Diástole",
+        "Sístole",
+        "Contracción isovolumétrica",
+        "Relajación isovolumétrica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El soplo de la insuficiencia aórtica se escucha durante la diástole, cuando la sangre fluye hacia atrás desde la aorta hacia el ventrículo izquierdo."
+    },
+    {
+      "question": "¿Cuál es una característica del soplo de la insuficiencia mitral?",
+      "options": [
+        "Se escucha mejor durante la diástole.",
+        "Es un soplo de baja frecuencia.",
+        "Es causado por el flujo de sangre hacia adelante a través de la válvula mitral.",
+        "Se transmite hacia la aurícula izquierda durante la sístole."
+      ],
+      "correctAnswer": 4,
+      "explanation": "En la insuficiencia mitral, el flujo de sangre regresa a la aurícula izquierda durante la sístole, generando un soplo."
+    },
+    {
+      "question": "¿Qué condición cardíaca puede resultar en un soplo diastólico?",
+      "options": [
+        "Estenosis aórtica",
+        "Insuficiencia mitral",
+        "Estenosis mitral",
+        "Comunicación interventricular"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La estenosis mitral dificulta el llenado del ventrículo izquierdo, produciendo un soplo diastólico."
+    },
+    {
+      "question": "¿Qué indica un tercer tono cardíaco (S3) en adultos mayores?",
+      "options": [
+        "Función cardíaca normal",
+        "Hipertrofia ventricular",
+        "Estenosis valvular",
+        "Insuficiencia cardíaca sistólica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Un tercer tono cardíaco en adultos mayores suele ser un signo de insuficiencia cardíaca sistólica."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un hallazgo común en la estenosis aórtica?",
+      "options": [
+        "Frémito palpable",
+        "Soplo diastólico suave",
+        "Presión arterial baja",
+        "Bradicardia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La estenosis aórtica severa puede producir un frémito, que es una vibración palpable."
+    },
+    {
+      "question": "¿Qué factor contribuye al desarrollo de la insuficiencia cardíaca de alto gasto?",
+      "options": [
+        "Disminución de la frecuencia cardíaca",
+        "Aumento de la resistencia vascular sistémica",
+        "Fístula arteriovenosa",
+        "Disminución del volumen sanguíneo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Una fístula arteriovenosa puede sobrecargar el corazón al aumentar el retorno venoso, lo que lleva a una insuficiencia cardíaca de alto gasto."
+    },
+    {
+      "question": "¿Cuál de las siguientes condiciones está asociada con la deficiencia de tiamina?",
+      "options": [
+        "Fístula arteriovenosa",
+        "Beriberi",
+        "Estenosis aórtica",
+        "Insuficiencia mitral"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El beriberi, causado por la deficiencia de tiamina, puede debilitar el corazón y alterar la función circulatoria."
+    },
+    {
+      "question": "¿Qué efecto tiene la digital en el tratamiento de la insuficiencia cardíaca?",
+      "options": [
+        "Disminuye la frecuencia cardíaca",
+        "Aumenta la retención de líquidos",
+        "Reduce la diuresis",
+        "Eleva la curva de gasto cardíaco"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La digital fortalece el corazón y eleva la curva de gasto cardíaco, mejorando la función renal y la excreción de líquidos."
+    },
+    {
+      "question": "¿Cuál es la principal causa de la estenosis mitral?",
+      "options": [
+        "Enfermedad cardíaca congénita",
+        "Hipertensión crónica",
+        "Calcificación relacionada con la edad",
+        "Fiebre reumática"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La fiebre reumática es una causa común de estenosis mitral, donde las valvas se engrosan y se fusionan."
+    },
+    {
+      "question": "¿Qué sonido cardíaco se produce durante la contracción auricular?",
+      "options": [
+        "Primer tono cardíaco (S1)",
+        "Segundo tono cardíaco (S2)",
+        "Tercer tono cardíaco (S3)",
+        "Cuarto tono cardíaco (S4)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El cuarto tono cardíaco se asocia con la contracción de las aurículas y el flujo de sangre hacia los ventrículos."
+    },
+    {
+      "question": "¿Qué es un fonocardiograma?",
+      "options": [
+        "Un registro visual de los sonidos del corazón",
+        "Una medida de la actividad eléctrica del corazón",
+        "Una ecografía del corazón",
+        "Una prueba de esfuerzo cardíaco"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un fonocardiograma es un registro de los sonidos cardíacos capturados con un micrófono y representados como ondas."
+    },
+    {
+      "question": "¿Dónde se ausculta mejor el sonido de la válvula aórtica?",
+      "options": [
+        "Segundo espacio intercostal, borde esternal derecho",
+        "Ápex del corazón",
+        "Borde esternal izquierdo inferior",
+        "Quinto espacio intercostal, línea medioclavicular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El sonido de la válvula aórtica se escucha mejor en la parte superior del tórax, cerca de la aorta."
+    },
+    {
+      "question": "¿Cuál de los siguientes procesos NO es parte de la formación de orina en el riñón?",
+      "options": [
+        "Filtración",
+        "Reabsorción",
+        "Secreción",
+        "Digestión"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La formación de orina implica la filtración de fluidos, la reabsorción de sustancias útiles y la secreción de desechos. La digestión es un proceso del sistema digestivo, no del urinario."
+    },
+    {
+      "question": "¿Dónde ocurre principalmente la filtración en el riñón?",
+      "options": [
+        "Túbulos renales",
+        "Capilares peritubulares",
+        "Cápsula de Bowman",
+        "Vena renal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La filtración ocurre en los capilares glomerulares, y el filtrado se recoge en la cápsula de Bowman."
+    },
+    {
+      "question": "¿Qué característica del filtrado glomerular lo diferencia del plasma sanguíneo?",
+      "options": [
+        "Mayor concentración de glucosa",
+        "Ausencia de proteínas grandes",
+        "Mayor cantidad de células sanguíneas",
+        "Presencia de urea en alta concentración"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El filtrado glomerular es similar al plasma, pero casi no contiene proteínas grandes ni células sanguíneas."
+    },
+    {
+      "question": "¿Cuál es el principal factor que impulsa la filtración glomerular?",
+      "options": [
+        "Presión hidrostática en los capilares glomerulares",
+        "Presión coloidosmótica en la cápsula de Bowman",
+        "Reabsorción en los túbulos",
+        "Secreción de iones hidrógeno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La presión hidrostática en los capilares glomerulares es la fuerza principal que impulsa la filtración."
+    },
+    {
+      "question": "¿Qué le sucede a la mayor parte del líquido filtrado en los riñones?",
+      "options": [
+        "Se reabsorbe hacia la sangre",
+        "Se excreta como orina",
+        "Se secreta en los túbulos",
+        "Se almacena en la vejiga"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Más del 99% del líquido filtrado se reabsorbe de nuevo a la sangre."
+    },
+    {
+      "question": "¿Cuál de las siguientes sustancias se reabsorbe completamente en condiciones normales?",
+      "options": [
+        "Urea",
+        "Creatinina",
+        "Glucosa",
+        "Sodio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sustancias nutritivas como la glucosa se reabsorben completamente para conservarlas en el cuerpo."
+    },
+    {
+      "question": "¿Qué efecto tiene la constricción de las arteriolas eferentes sobre la filtración glomerular (FG) dentro de ciertos límites?",
+      "options": [
+        "Aumenta la FG",
+        "Disminuye la FG",
+        "No tiene efecto sobre la FG",
+        "Causa un aumento masivo de la FG"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La constricción de las arteriolas eferentes aumenta la presión hidrostática glomerular, lo que eleva la FG, siempre que no se reduzca demasiado el flujo sanguíneo renal."
+    },
+    {
+      "question": "¿Cuál de las siguientes hormonas o sustancias causa vasoconstricción en los riñones, reduciendo la FG?",
+      "options": [
+        "Óxido nítrico",
+        "Prostaglandinas",
+        "Noradrenalina",
+        "Ninguna de las anteriores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La noradrenalina causa la constricción de los vasos sanguíneos renales, lo que reduce la FG."
+    },
+    {
+      "question": "¿Qué estructura proporciona la mayor resistencia al flujo sanguíneo renal?",
+      "options": [
+        "Arterias renales",
+        "Capilares glomerulares",
+        "Arteriolas aferentes y eferentes",
+        "Venas renales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las arteriolas, tanto aferentes como eferentes, son los principales sitios de resistencia vascular en los riñones."
+    },
+    {
+      "question": "¿Qué porcentaje del gasto cardíaco total recibe aproximadamente los riñones?",
+      "options": [
+        "5%",
+        "10%",
+        "22%",
+        "30%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los riñones reciben un flujo sanguíneo muy alto, aproximadamente el 22% del gasto cardíaco."
+    },
+    {
+      "question": "¿Cuál es la función principal de los vasos rectos en la médula renal?",
+      "options": [
+        "Filtrar grandes cantidades de sangre",
+        "Reabsorber la mayoría del sodio",
+        "Permitir la formación de orina concentrada",
+        "Secretar hormonas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los vasos rectos juegan un papel crucial en la capacidad del riñón para concentrar la orina."
+    },
+    {
+      "question": "¿Qué efecto tiene un aumento en la presión arterial sobre la filtración glomerular (FG), asumiendo que no hay autorregulación?",
+      "options": [
+        "Disminuye la FG",
+        "Aumenta la FG",
+        "No tiene efecto directo sobre la FG",
+        "Causa una fluctuación impredecible en la FG"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un aumento en la presión arterial tiende a elevar la presión hidrostática glomerular, lo que a su vez aumenta la FG."
+    },
+    {
+      "question": "¿Cuál de los siguientes factores reduce la FG?",
+      "options": [
+        "Aumento del coeficiente de filtración capilar glomerular",
+        "Aumento de la presión hidrostática capilar glomerular",
+        "Aumento de la presión coloidosmótica capilar glomerular",
+        "Dilatación de las arteriolas aferentes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Un aumento en la presión coloidosmótica capilar glomerular dificulta la filtración, reduciendo la FG."
+    },
+    {
+      "question": "¿Qué hormona o autacoide favorece la vasodilatación en los riñones, aumentando la FG?",
+      "options": [
+        "Noradrenalina",
+        "Adrenalina",
+        "Endotelina",
+        "Óxido nítrico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El óxido nítrico, liberado por el endotelio vascular, reduce la resistencia vascular renal y aumenta la FG."
+    },
+    {
+      "question": "¿Cuál es la principal razón por la que los riñones reciben un flujo sanguíneo tan alto en comparación con otros órganos?",
+      "options": [
+        "Para suministrar oxígeno para sus altas demandas metabólicas",
+        "Para eliminar rápidamente el dióxido de carbono",
+        "Para mantener una alta temperatura renal",
+        "Para proporcionar suficiente plasma para la alta filtración glomerular necesaria para la regulación precisa de los líquidos corporales"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El elevado flujo sanguíneo renal asegura que haya suficiente plasma disponible para la filtración glomerular, crucial para la regulación de los líquidos y solutos del cuerpo."
+    },
+    {
+      "question": "¿En qué condiciones la angiotensina II ayuda a mantener la FG?",
+      "options": [
+        "En condiciones de alta presión arterial",
+        "En condiciones de baja presión arterial o baja ingesta de sodio",
+        "En condiciones de alcalosis",
+        "En condiciones de hiperglucemia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La angiotensina II contrae preferentemente las arteriolas eferentes, lo que ayuda a mantener la FG en situaciones de baja presión arterial o baja ingesta de sodio."
+    },
+    {
+      "question": "¿Qué característica de la membrana capilar glomerular permite una alta tasa de filtración?",
+      "options": [
+        "Tiene una sola capa de células",
+        "Tiene fenestraciones o poros grandes",
+        "No tiene membrana basal",
+        "Tiene una gruesa capa de músculo liso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La presencia de fenestraciones aumenta la permeabilidad de la membrana capilar glomerular, facilitando una alta tasa de filtración."
+    },
+    {
+      "question": "¿Cuál es el valor normal aproximado de la filtración glomerular (FG) en un adulto?",
+      "options": [
+        "125 ml/min",
+        "50 ml/min",
+        "250 ml/min",
+        "180 L/día"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La FG normal en un adulto es de aproximadamente 125 ml/min."
+    },
+    {
+      "question": "¿Qué proceso se ve más afectado por la pérdida de cargas negativas en la membrana basal glomerular?",
+      "options": [
+        "Reabsorción de glucosa",
+        "Filtración de proteínas",
+        "Secreción de potasio",
+        "Excreción de urea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La pérdida de cargas negativas en la membrana basal glomerular puede llevar a un aumento en la filtración de proteínas, como la albúmina."
+    },
+    {
+      "question": "¿Qué efecto tiene la constricción de las arteriolas aferentes sobre el flujo sanguíneo renal y la FG?",
+      "options": [
+        "Aumenta el flujo sanguíneo renal y aumenta la FG",
+        "Disminuye el flujo sanguíneo renal y disminuye la FG",
+        "Aumenta el flujo sanguíneo renal y disminuye la FG",
+        "Disminuye el flujo sanguíneo renal y aumenta la FG"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La constricción de las arteriolas aferentes reduce el flujo de sangre que entra en los glomérulos, lo que disminuye tanto el flujo sanguíneo renal como la FG."
+    },
+    {
+      "question": "¿Cuál de los siguientes procesos es el primer paso en la formación de orina?",
+      "options": [
+        "Reabsorción tubular",
+        "Secreción tubular",
+        "Filtración glomerular",
+        "Excreción"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La formación de orina comienza con la filtración de grandes cantidades de líquido desde los capilares glomerulares hacia la cápsula de Bowman."
+    },
+    {
+      "question": "¿Qué característica principal distingue al filtrado glomerular del plasma sanguíneo?",
+      "options": [
+        "Alta concentración de proteínas",
+        "Presencia de células sanguíneas",
+        "Ausencia de proteínas grandes",
+        "Igual concentración de glucosa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El filtrado glomerular es muy similar al plasma, pero casi no contiene proteínas ni elementos celulares."
+    },
+    {
+      "question": "¿Cuál es la fuerza principal que favorece la filtración glomerular?",
+      "options": [
+        "Presión coloidosmótica",
+        "Presión hidrostática",
+        "Reabsorción tubular",
+        "Secreción activa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La alta presión hidrostática en los capilares glomerulares es la principal fuerza que impulsa la filtración."
+    },
+    {
+      "question": "¿Qué porcentaje del filtrado glomerular se reabsorbe normalmente?",
+      "options": [
+        "20%",
+        "50%",
+        "99%",
+        "5%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La mayor parte del filtrado glomerular, aproximadamente el 99%, se reabsorbe de nuevo a la sangre."
+    },
+    {
+      "question": "¿Qué efecto tiene la angiotensina II sobre las arteriolas eferentes?",
+      "options": [
+        "Las dilata",
+        "Las contrae",
+        "No tiene efecto",
+        "Las relaja"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La angiotensina II causa la constricción de las arteriolas eferentes."
+    },
+    {
+      "question": "¿Cuál es el principal mecanismo de autorregulación del flujo sanguíneo renal y la FG?",
+      "options": [
+        "Sistema nervioso simpático",
+        "Retroalimentación hormonal",
+        "Retroalimentación tubuloglomerular",
+        "Mecanismo miógeno"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La retroalimentación tubuloglomerular, que involucra la mácula densa, es un mecanismo clave en la autorregulación renal."
+    },
+    {
+      "question": "¿Dónde se encuentran las células de la mácula densa?",
+      "options": [
+        "En la cápsula de Bowman",
+        "En el túbulo proximal",
+        "En el túbulo distal",
+        "En el asa de Henle"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las células de la mácula densa están ubicadas en el túbulo distal."
+    },
+    {
+      "question": "¿Qué efecto tiene la reducción de la concentración de cloruro de sodio en la mácula densa sobre las arteriolas aferentes?",
+      "options": [
+        "Las dilata",
+        "Las contrae",
+        "No tiene efecto",
+        "Causa una respuesta variable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una baja concentración de cloruro de sodio en la mácula densa provoca la dilatación de las arteriolas aferentes."
+    },
+    {
+      "question": "¿Qué enzima aumenta su liberación en respuesta a la disminución de cloruro de sodio en la mácula densa?",
+      "options": [
+        "Renina",
+        "Acetilcolinesterasa",
+        "Amilasa",
+        "Lipasa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La disminución de cloruro de sodio en la mácula densa estimula la liberación de renina."
+    },
+    {
+      "question": "¿Cuál es el efecto del óxido nítrico en la resistencia vascular renal?",
+      "options": [
+        "Disminuye la resistencia",
+        "Aumenta la resistencia",
+        "No tiene efecto directo",
+        "Causa vasoconstricción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El óxido nítrico reduce la resistencia vascular en los riñones."
+    },
+    {
+      "question": "¿Qué hormonas o autacoides tienden a aumentar la FG?",
+      "options": [
+        "Noradrenalina",
+        "Angiotensina II",
+        "Endotelina",
+        "Prostaglandinas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las prostaglandinas tienden a aumentar la FG."
+    },
+    {
+      "question": "¿Qué ocurre con la FG si la presión arterial disminuye de 100 mmHg a 75 mmHg?",
+      "options": [
+        "Aumenta significativamente",
+        "Disminuye significativamente",
+        "Cambia poco",
+        "Se duplica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La FG se mantiene relativamente constante a pesar de las fluctuaciones en la presión arterial debido a la autorregulación."
+    },
+    {
+      "question": "¿Cuál es la respuesta de los vasos sanguíneos renales al estiramiento?",
+      "options": [
+        "Constricción",
+        "Dilatación",
+        "No hay respuesta",
+        "Respuesta variable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los vasos sanguíneos renales responden al estiramiento con una constricción, lo que ayuda a mantener el flujo sanguíneo renal constante."
+    },
+    {
+      "question": "¿Qué efecto tiene una dieta alta en proteínas sobre la FG?",
+      "options": [
+        "Aumenta la FG",
+        "Disminuye la FG",
+        "No tiene efecto",
+        "Causa fluctuaciones en la FG"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una dieta alta en proteínas tiende a aumentar el flujo sanguíneo renal y la FG."
+    },
+    {
+      "question": "¿Cuál de las siguientes sustancias no se reabsorbe en condiciones normales y se excreta en grandes cantidades?",
+      "options": [
+        "Glucosa",
+        "Sodio",
+        "Urea",
+        "Aminoácidos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La urea se reabsorbe mal y se excreta en grandes cantidades en la orina."
+    },
+    {
+      "question": "¿Qué proceso renal permite la eliminación rápida de ácidos orgánicos y bases de la sangre?",
+      "options": [
+        "Filtración",
+        "Reabsorción",
+        "Excreción",
+        "Secreción"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La secreción tubular es importante para la eliminación rápida de ácidos orgánicos y bases."
+    },
+    {
+      "question": "¿Qué condición puede causar un aumento en la FG?",
+      "options": [
+        "Hemorragia",
+        "Deshidratación",
+        "Ingesta alta de proteínas",
+        "Obstrucción ureteral"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Una ingesta alta de proteínas puede aumentar la FG."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre la autorregulación renal es correcta?",
+      "options": [
+        "Depende completamente de factores externos al riñón",
+        "Mantiene la FG constante solo si la presión arterial es alta",
+        "No tiene un impacto significativo en la excreción de agua y solutos",
+        "Esencial para mantener la FG relativamente constante a pesar de los cambios en la presión arterial"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La autorregulación renal es crucial para mantener una FG constante y permitir un control preciso de la excreción de agua y solutos."
+    },
+    {
+      "question": "¿Cuál es el primer paso en la formación de la orina?",
+      "options": [
+        "Reabsorción tubular",
+        "Secreción tubular",
+        "Excreción",
+        "Filtración glomerular"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La formación de orina comienza con la filtración de líquido desde los capilares glomerulares hacia la cápsula de Bowman."
+    },
+    {
+      "question": "¿Qué distingue al filtrado glomerular del plasma sanguíneo?",
+      "options": [
+        "Alta concentración de proteínas",
+        "Presencia de células sanguíneas",
+        "Igual concentración de glucosa",
+        "Ausencia de proteínas grandes"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El filtrado glomerular es similar al plasma, pero casi no contiene proteínas grandes ni células sanguíneas."
+    },
+    {
+      "question": "¿Cuál es la principal fuerza que favorece la filtración glomerular?",
+      "options": [
+        "Presión coloidosmótica",
+        "Presión hidrostática",
+        "Reabsorción tubular",
+        "Secreción activa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La presión hidrostática en los capilares glomerulares es la fuerza principal que impulsa la filtración."
+    },
+    {
+      "question": "¿Cuál de las siguientes sustancias no se reabsorbe y se excreta en grandes cantidades?",
+      "options": [
+        "Glucosa",
+        "Sodio",
+        "Urea",
+        "Aminoácidos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La urea se reabsorbe mal y se excreta en grandes cantidades en la orina."
+    },
+    {
+      "question": "¿Qué parte del túbulo proximal reabsorbe la mayor cantidad de sodio?",
+      "options": [
+        "Primera mitad",
+        "Segunda mitad",
+        "Ambas mitades por igual",
+        "Ninguna"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la primera mitad del túbulo proximal, el sodio se reabsorbe mediante cotransporte junto a la glucosa, los aminoácidos y otros solutos. "
+    },
+    {
+      "question": "¿Qué porcentaje de la carga filtrada de sodio se reabsorbe en el túbulo proximal?",
+      "options": [
+        "25%",
+        "50%",
+        "90%",
+        "65%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Aproximadamente el 65% de la carga filtrada de sodio se reabsorbe en el túbulo proximal. "
+    }
+  ]
+}

@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "question": "¿Cuántas bombas separadas componen realmente el corazón?",
+      "options": [
+        "Una sola bomba",
+        "Dos bombas separadas",
+        "Tres bombas funcionales",
+        "Cuatro bombas en total"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El corazón está dividido en dos bombas separadas, el corazón derecho que bombea sangre a los pulmones y el corazón izquierdo que la bombea a la circulación sistémica."
+    },
+    {
+      "question": "¿Qué cavidades cardíacas aportan la principal fuerza de bombeo?",
+      "options": [
+        "Las aurículas derechas",
+        "Las venas cavas",
+        "Los ventrículos",
+        "Las arterias pulmonares"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los ventrículos generan la fuerza principal que impulsa la sangre, ya sea hacia la circulación pulmonar por el ventrículo derecho o hacia la circulación sistémica por el izquierdo."
+    },
+    {
+      "question": "¿Cuál es la función principal de las aurículas respecto a los ventrículos?",
+      "options": [
+        "Actuar como válvulas",
+        "Bombas débiles de cebado",
+        "Reguladores de ritmo",
+        "Control de la presión"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cada aurícula es una bomba débil de cebado para el ventrículo correspondiente. Contribuyen a transportar sangre hacia el ventrículo antes de su contracción principal, aumentando la eficacia del bombeo ventricular."
+    },
+    {
+      "question": "¿Qué tipo de músculo cardíaco se contrae solo débilmente?",
+      "options": [
+        "Músculo auricular",
+        "Músculo ventricular",
+        "Fibras de conducción",
+        "Músculo esquelético"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las fibras musculares especializadas de excitación y conducción se contraen de forma débil porque contienen muy pocas fibrillas contráctiles. Su rol es la generación y propagación de descargas eléctricas rítmicas."
+    },
+    {
+      "question": "¿Qué estructuras separan las células individuales del músculo cardíaco?",
+      "options": [
+        "Miofibrillas",
+        "Sincitios",
+        "Discos intercalados",
+        "Túbulos transversos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los discos intercalados son membranas celulares que separan las células musculares cardíacas individuales entre sí. Contienen uniones que permiten la difusión rápida de iones y potenciales de acción."
+    },
+    {
+      "question": "¿Qué estructuras contienen las uniones comunicantes o en hendidura?",
+      "options": [
+        "Retículo sarcoplásmico",
+        "Discos intercalados",
+        "Filamentos de miosina",
+        "Núcleos de las células"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En cada disco intercalado, las membranas celulares se fusionan para formar uniones comunicantes. Estas uniones permeables permiten que los potenciales de acción se propaguen rápidamente a todas las células del sincitio."
+    },
+    {
+      "question": "¿Cuál es la velocidad de conducción en el músculo ventricular?",
+      "options": [
+        "Hasta 4 m/s",
+        "Más de 10 m/s",
+        "Entre 0.3 y 0.5 m/s",
+        "Aproximadamente 1 m/s"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La velocidad de conducción de la señal excitadora en las fibras musculares auriculares y ventriculares es relativamente lenta, de unos 0.3 a 0.5 m/s, lo cual es mucho más lento que en las fibras nerviosas grandes o en las fibras de Purkinje."
+    },
+    {
+      "question": "¿Cuál es el valor medio del potencial de membrana de reposo?",
+      "options": [
+        "sim +20 mV",
+        "sim -40 mV",
+        "sim -90 mV",
+        "sim +105 mV"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El potencial de membrana de reposo de la célula muscular ventricular, correspondiente a la fase 4, tiene un valor negativo medio aproximado de -90 mV, siendo este el potencial al que retorna la célula tras la repolarización."
+    },
+    {
+      "question": "¿Qué característica del potencial de acción cardíaco lo hace prolongado?",
+      "options": [
+        "Repolarización súbita",
+        "La meseta",
+        "Fase de despolarización",
+        "Canales de sodio rápido"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La membrana permanece despolarizada durante aproximadamente 0.2 segundos, mostrando una meseta. Esta meseta prolonga la duración del potencial de acción, haciendo que la contracción ventricular sea más larga."
+    },
+    {
+      "question": "¿Qué tipo de canales iónicos se abren lentamente y causan la meseta?",
+      "options": [
+        "Rápidos de sodio",
+        "Rápidos de potasio",
+        "Lentos de calcio-sodio",
+        "Súbitos de cloro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La meseta se debe principalmente a la apertura lenta de los canales de calcio de tipo L, que permiten el flujo de iones calcio y sodio hacia el interior de la fibra, manteniendo un periodo prolongado de despolarización."
+    },
+    {
+      "question": "¿Qué le sucede a la permeabilidad al potasio al inicio del potencial de acción?",
+      "options": [
+        "Aumenta mucho",
+        "Se mantiene estable",
+        "Disminuye cinco veces",
+        "Se duplica rápidamente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Al inicio del potencial de acción, la permeabilidad al potasio disminuye aproximadamente cinco veces. Esto reduce mucho el flujo de salida de iones potasio, lo que es clave para que se forme la meseta."
+    },
+    {
+      "question": "¿Qué evento caracteriza la fase 0 (despolarización) del potencial de acción?",
+      "options": [
+        "Cierre de potasio",
+        "Apertura de sodio rápido",
+        "Apertura de calcio lento",
+        "Salida de potasio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La fase de despolarización (Fase 0) está causada por la apertura de los canales rápidos de sodio. La entrada rápida de estos iones eleva el potencial intracelular desde su valor negativo de reposo hasta un valor positivo."
+    },
+    {
+      "question": "¿Qué causa la repolarización rápida (Fase 3) del potencial de acción?",
+      "options": [
+        "Entrada de calcio",
+        "Cierre de potasio",
+        "Cierre de calcio y apertura de potasio",
+        "Apertura de sodio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El final de la meseta y el inicio de la repolarización rápida se deben al cierre de los canales lentos de calcio-sodio y a un aumento rápido de la permeabilidad a los iones potasio, que salen de la célula."
+    },
+    {
+      "question": "¿Cuál es la velocidad de conducción más alta dentro del corazón?",
+      "options": [
+        "En el músculo auricular",
+        "En las fibras de Purkinje",
+        "En el haz AV",
+        "En el músculo ventricular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La velocidad de conducción en las fibras de Purkinje es de hasta 4 m/s. Esta alta velocidad permite una conducción excepcionalmente rápida de la señal excitadora, facilitando la contracción coordinada de los ventrículos."
+    },
+    {
+      "question": "¿Cuál es la duración del período refractario normal del ventrículo?",
+      "options": [
+        "sim 0.05 s",
+        "sim 0.15 s",
+        "sim 0.20 s",
+        "sim 0.25 a 0.30 s"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El período refractario del ventrículo es de 0.25 a 0.30 segundos, casi la misma duración que su potencial de acción prolongado. Este intervalo de tiempo impide que el músculo se reexcite prematuramente."
+    },
+    {
+      "question": "¿Qué es el período refractario relativo del músculo cardíaco?",
+      "options": [
+        "Contracción total",
+        "Inexcitabilidad absoluta",
+        "Se excita con señal fuerte",
+        "Período de relajación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El período refractario relativo es un intervalo adicional de aproximadamente 0.05 segundos durante el cual es más difícil excitar el músculo, pero puede lograrse si se aplica una señal excitadora muy intensa."
+    },
+    {
+      "question": "¿Qué se propaga hacia el interior de la fibra a lo largo de los túbulos T?",
+      "options": [
+        "El calcio extracelular",
+        "El potencial de acción",
+        "El ATP",
+        "Los filamentos de miosina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cuando un potencial de acción se propaga sobre la membrana del músculo cardíaco, este se propaga hacia el interior de la fibra muscular a lo largo de las membranas de los túbulos transversos (T), activando la liberación de calcio."
+    },
+    {
+      "question": "¿Cuál es el rol del túbulo T en el acoplamiento excitación-contracción?",
+      "options": [
+        "Almacenar sodio",
+        "Producir ATP",
+        "Permitir la entrada de calcio",
+        "Cerrar los canales de rianodina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los túbulos T del músculo cardíaco permiten que una gran cantidad de iones calcio adicionales, procedentes del líquido extracelular, difundan hacia el sarcoplasma al aparecer un potencial de acción. Este calcio es vital para la contracción."
+    },
+    {
+      "question": "¿Qué complejo del ECG se produce justo antes del inicio de la sístole ventricular?",
+      "options": [
+        "Onda P",
+        "Onda T",
+        "Complejo QRS",
+        "Segmento PR"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El complejo QRS representa la despolarización eléctrica de los ventrículos. Esta despolarización es el evento que inicia la contracción ventricular (sístole), lo que se traduce en una elevación de la presión ventricular."
+    },
+    {
+      "question": "¿Qué fase del ciclo cardíaco se reduce menos cuando aumenta la frecuencia cardíaca?",
+      "options": [
+        "La sístole",
+        "La diástole",
+        "El llenado rápido",
+        "La repolarización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al aumentar la frecuencia cardíaca, la duración de la sístole (contracción) decrece, pero en un porcentaje menor que la fase de relajación, o diástole. Esto puede comprometer el tiempo de llenado del corazón a frecuencias muy rápidas."
+    },
+    {
+      "question": "¿Qué proporción de la diástole ocupa el período de llenado rápido ventricular?",
+      "options": [
+        "El primer tercio",
+        "El tercio medio",
+        "Los dos tercios finales",
+        "Toda la diástole"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El período de llenado rápido de los ventrículos ocurre durante el primer tercio de la diástole, momento en el que la presión en las aurículas es suficiente para abrir pasivamente las válvulas auriculoventriculares y permitir el flujo. Es el llenado más significativo."
+    },
+    {
+      "question": "¿Qué porcentaje del llenado ventricular se debe a la contracción auricular?",
+      "options": [
+        "Menos del diez por ciento",
+        "Aproximadamente veinte por ciento",
+        "Cincuenta por ciento o más",
+        "Treinta por ciento total"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Durante el último tercio de la diástole, la contracción de las aurículas aporta un impulso adicional de sangre que es responsable de aproximadamente el 20% del llenado total de los ventrículos en cada ciclo cardíaco, maximizando el volumen telediastólico."
+    },
+    {
+      "question": "¿Qué ocurre durante la contracción isovolumétrica ventricular?",
+      "options": [
+        "El volumen aumenta mucho",
+        "La sangre sale a la aorta",
+        "La tensión aumenta sin vaciado",
+        "Las válvulas AV se abren"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El período de contracción isovolumétrica se caracteriza por el aumento de tensión en el músculo cardíaco sin un acortamiento significativo de las fibras, ya que todas las válvulas cardíacas permanecen cerradas, impidiendo el vaciado ventricular."
+    },
+    {
+      "question": "¿Cuál es la presión mínima para abrir la válvula aórtica?",
+      "options": [
+        "Cincuenta milímetros de mercurio",
+        "Ligeramente sobre 80 mmHg",
+        "Doscientos cincuenta mmHg",
+        "Diez milímetros de mercurio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La válvula aórtica se abre y comienza el período de eyección cuando la presión ventricular izquierda supera ligeramente los 80 mmHg, que es la presión diastólica normal que se encuentra en la arteria aorta."
+    },
+    {
+      "question": "¿Cuál es la fracción de eyección normal del ventrículo?",
+      "options": [
+        "Aproximadamente del setenta por ciento",
+        "Es igual a cero coma seis",
+        "Solo del cuarenta por ciento",
+        "Un ochenta por ciento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La fracción de eyección es la porción del volumen telediastólico que es expulsada, y en un corazón que funciona normalmente, este valor es típicamente igual a 0,6 o el 60% aproximadamente."
+    },
+    {
+      "question": "¿Cuál es el volumen telediastólico ventricular normal aproximado?",
+      "options": [
+        "Cien mililitros",
+        "Setenta mililitros",
+        "Ciento veinte mililitros",
+        "Cuarenta mililitros"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El volumen telediastólico representa el volumen máximo de sangre que contienen los ventrículos al final de la diástole, justo antes de la sístole, y su valor normal oscila entre 110 y 120 mililitros."
+    },
+    {
+      "question": "¿Qué volumen de sangre se expulsa en una sístole normal?",
+      "options": [
+        "Cuarenta mililitros",
+        "Ciento veinte mililitros",
+        "Setenta mililitros",
+        "Noventa mililitros"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El volumen sistólico es la cantidad de sangre expulsada por el ventrículo durante cada contracción, y se calcula restando el volumen telesistólico del volumen telediastólico, siendo su valor normal de aproximadamente 70 mililitros."
+    },
+    {
+      "question": "¿Qué volumen de sangre queda después de la sístole normal?",
+      "options": [
+        "Cincuenta mililitros",
+        "Noventa mililitros",
+        "Ochenta mililitros",
+        "Cien mililitros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El volumen telesistólico es el volumen residual de sangre que permanece en el ventrículo después de que ha ocurrido la eyección sistólica, siendo su valor normal de aproximadamente 40 a 50 mililitros."
+    },
+    {
+      "question": "¿Cuál es la función principal de las válvulas AV (mitral/tricúspide)?",
+      "options": [
+        "Impulsar la sangre",
+        "Evitar flujo retrógrado",
+        "Aumentar la presión arterial",
+        "Retrasar el ciclo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las válvulas auriculoventriculares (AV) se cierran durante la sístole para impedir el flujo de sangre en dirección retrógrada desde los ventrículos hacia las aurículas, asegurando el flujo unidireccional."
+    },
+    {
+      "question": "¿Qué impiden los músculos papilares al contraerse?",
+      "options": [
+        "El cierre valvular",
+        "Protrusión a las aurículas",
+        "El llenado diastólico",
+        "La eyección rápida"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los músculos papilares, unidos a las válvulas AV por las cuerdas tendinosas, tiran de los velos hacia dentro durante la sístole para impedir que estos protruyan hacia las aurículas bajo la alta presión ventricular."
+    },
+    {
+      "question": "¿Qué característica distingue a las válvulas semilunares?",
+      "options": [
+        "Su cierre es más suave",
+        "Son más delgadas",
+        "Se cierran súbitamente",
+        "Tienen cuerdas tendinosas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las válvulas semilunares (aórtica y pulmonar) están sometidas a presiones arteriales más altas y, a diferencia de las válvulas AV, se cierran de forma súbita y rápida al final de la sístole."
+    },
+    {
+      "question": "¿A qué presión sistólica se eleva la aorta normalmente?",
+      "options": [
+        "Cien milímetros de mercurio",
+        "Ciento veinte mmHg",
+        "Ochenta milímetros de mercurio",
+        "Ciento cuarenta mmHg"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La presión en la aorta aumenta cuando el ventrículo izquierdo expulsa sangre durante la sístole, alcanzando un valor máximo o presión sistólica normal de aproximadamente 120 milímetros de mercurio."
+    },
+    {
+      "question": "¿Qué evento produce el primer tono cardíaco audible?",
+      "options": [
+        "Apertura válvulas AV",
+        "Cierre semilunares",
+        "Cierre válvulas AV",
+        "Eyección rápida"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El primer tono cardíaco, de tono bajo y relativamente prolongado, se produce al comienzo de la sístole por la vibración de los velos y el líquido circundante cuando las válvulas auriculoventriculares se cierran."
+    },
+    {
+      "question": "¿Qué evento produce el segundo tono cardíaco audible?",
+      "options": [
+        "Cierre de válvulas AV",
+        "Apertura aórtica",
+        "Eyección lenta",
+        "Cierre semilunares"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El segundo tono cardíaco es un golpe seco y rápido que se produce al final de la sístole por el cierre súbito de las válvulas semilunares, que son la aórtica y la pulmonar."
+    },
+    {
+      "question": "¿Cuál es la mayor parte del trabajo total del corazón?",
+      "options": [
+        "Energía cinética",
+        "Acelerar la sangre",
+        "Trabajo volumen-presión",
+        "Trabajo potencial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La mayor proporción de la energía que el corazón convierte en trabajo se utiliza para bombear la sangre desde las venas de baja presión hacia las arterias de alta presión, y esto se denomina trabajo volumen-presión o trabajo externo."
+    },
+    {
+      "question": "¿Cuál es la eficiencia máxima de un corazón normal?",
+      "options": [
+        "Un cuarenta por ciento",
+        "Veinte a veinticinco por ciento",
+        "Menos del diez por ciento",
+        "Más del sesenta por ciento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La eficiencia de la contracción cardíaca, que es la relación entre el trabajo realizado y el gasto total de energía química, se sitúa en un valor máximo de entre el 20% y el 25% en un corazón que funciona de manera normal."
+    },
+    {
+      "question": "¿Cómo se llama la regulación intrínseca del bombeo cardíaco?",
+      "options": [
+        "Ley de Laplace",
+        "Ley de Ohm",
+        "Mecanismo Frank-Starling",
+        "Reflejo barorreceptor"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El mecanismo de Frank-Starling describe la capacidad intrínseca del corazón para adaptarse a volúmenes crecientes de sangre de entrada, ajustando automáticamente la fuerza de contracción y el volumen de bombeo."
+    },
+    {
+      "question": "¿Cuál es el principio clave de Frank-Starling?",
+      "options": [
+        "Distensión menor, fuerza mayor",
+        "Distensión mayor, fuerza menor",
+        "Distensión mayor, fuerza mayor",
+        "El volumen no afecta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El mecanismo de Frank-Starling se basa en que cuanto más se distiende el músculo cardíaco durante el llenado, mayor es la fuerza de contracción resultante, asegurando que el corazón bombee toda la sangre que le llega."
+    },
+    {
+      "question": "¿Qué efectos produce la estimulación simpática intensa?",
+      "options": [
+        "Disminuye la fuerza",
+        "Aumenta la frecuencia",
+        "Disminuye el gasto",
+        "Detiene el latido"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La estimulación del sistema nervioso simpático sobre el corazón aumenta significativamente tanto la frecuencia cardíaca como la fuerza de la contracción ventricular, lo que puede resultar en un aumento de hasta dos o tres veces del gasto cardíaco máximo."
+    },
+    {
+      "question": "¿Dónde se distribuyen principalmente las fibras vagales (parasimpáticas)?",
+      "options": [
+        "Paredes del ventrículo",
+        "Solo el nódulo AV",
+        "Principalmente en aurículas",
+        "Solo el nódulo SA"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las fibras del nervio vago (parasimpático) se distribuyen principalmente por las aurículas, lo que explica por qué su estimulación tiene un efecto más notorio en la reducción de la frecuencia cardíaca que en la disminución de la fuerza de contracción ventricular."
+    },
+    {
+      "question": "¿Qué efecto tiene la estimulación simpática en el gasto cardíaco?",
+      "options": [
+        "Lo disminuye levemente",
+        "Lo mantiene constante",
+        "Lo aumenta notablemente",
+        "Lo bloquea totalmente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La estimulación simpática tiene la función de preparar al cuerpo para la acción (lucha o huida), lo que incluye aumentar significativamente tanto la frecuencia como la fuerza contráctil del corazón, resultando en un mayor gasto cardíaco general."
+    },
+    {
+      "question": "¿Qué efecto causa el exceso de iones potasio en el corazón?",
+      "options": [
+        "Contracción espástica",
+        "Aumento de la fuerza",
+        "Debilidad y dilatación",
+        "Aumento de la frecuencia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Un exceso de potasio reduce el potencial de membrana en reposo de las fibras musculares cardíacas, despolarizando parcialmente la célula, lo que disminuye la intensidad del potencial de acción y resulta en un corazón flácido y débil."
+    },
+    {
+      "question": "¿Qué tipo de iones produce contracción espástica en el corazón?",
+      "options": [
+        "Iones de sodio",
+        "Iones de calcio",
+        "Iones de potasio",
+        "Iones de cloro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un exceso de iones calcio tiene un efecto directo y contrario al potasio, potenciando el proceso contráctil, lo que puede llevar al corazón a un estado de contracción espástica, aunque sus niveles están muy regulados."
+    },
+    {
+      "question": "¿Qué provoca un aumento moderado de la temperatura corporal?",
+      "options": [
+        "Debilidad inmediata",
+        "Disminución de latidos",
+        "Incremento de la frecuencia",
+        "Reducción de la fuerza"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El calor aumenta la permeabilidad de la membrana del músculo cardíaco a los iones que controlan el ritmo, acelerando el proceso de autoexcitación, lo que se traduce en un notable aumento de la frecuencia cardíaca, a veces hasta el doble del valor normal."
+    },
+    {
+      "question": "¿Cuál es la velocidad de conducción normal en el músculo auricular?",
+      "options": [
+        "Más de 4 m/s",
+        "Aproximadamente 1,5 m/s",
+        "Alrededor de 0,3 m/s",
+        "Cercana a 0,03 m/s"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La velocidad de conducción del potencial de acción en la mayor parte de la masa del músculo auricular es de aproximadamente 0,3 m/s, siendo más rápida solo en ciertas bandas especializadas llamadas vías internodulares, que alcanzan 1 m/s."
+    },
+    {
+      "question": "¿Cuál es el principal marcapasos del corazón humano?",
+      "options": [
+        "Nódulo AV",
+        "Haz de Purkinje",
+        "Fibras ventriculares",
+        "Nódulo sinusal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El nódulo sinusal, también conocido como nódulo sinoauricular (SA), es la estructura especializada donde se genera el impulso rítmico normal, y por ello, habitualmente controla la frecuencia del latido de todo el corazón."
+    },
+    {
+      "question": "¿Cuál es el voltaje del potencial de membrana en reposo del nódulo sinusal?",
+      "options": [
+        "-90 mV",
+        "-85 mV",
+        "-60 mV",
+        "-40 mV"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El potencial de membrana en reposo de la fibra del nódulo sinusal es menos negativo, oscilando entre aproximadamente -55 a -60 mV, debido a su permeabilidad natural a iones sodio y calcio, a diferencia de los -85 a -90 mV de la fibra muscular ventricular."
+    },
+    {
+      "question": "¿Por qué los canales rápidos de sodio se inactivan en el nódulo sinusal?",
+      "options": [
+        "Falta de ATP",
+        "Potencial muy negativo",
+        "Potencial poco negativo",
+        "Exceso de potasio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los canales rápidos de sodio se inactivan (bloquean) cuando el potencial de membrana es menos negativo que aproximadamente -55 mV durante algunos milisegundos, que es el caso del potencial de reposo de la fibra sinusal."
+    },
+    {
+      "question": "¿Qué causa la autoexcitación rítmica del nódulo sinusal?",
+      "options": [
+        "Canales de potasio rápidos",
+        "Inherentemente impermeable",
+        "Permeabilidad a sodio y calcio",
+        "Alto voltaje de reposo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La autoexcitación se produce por la permeabilidad inherente de las fibras del nódulo sinusal a los iones sodio y calcio, los cuales, al entrar, elevan lentamente el potencial de membrana 'en reposo' hasta alcanzar el umbral de descarga del potencial de acción."
+    },
+    {
+      "question": "¿Qué ocurre después de la activación de los canales lentos de calcio tipo L?",
+      "options": [
+        "Se cierran lentamente",
+        "Producen hiperpolarización",
+        "Aumentan el potencial",
+        "Generan el potencial de acción"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Una vez que el potencial 'en reposo' alcanza el umbral de descarga (aproximadamente -40 mV), los canales de calcio de tipo L se activan y se abren, provocando la entrada de iones positivos que dan lugar al potencial de acción del nódulo sinusal."
+    },
+    {
+      "question": "¿Qué estructura retrasa la conducción del impulso al ventrículo?",
+      "options": [
+        "Nódulo sinusal",
+        "Vías internodulares",
+        "Nódulo auriculoventricular",
+        "Fibras de Purkinje"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El nódulo auriculoventricular (AV) está organizado para retrasar el impulso cardíaco desde las aurículas a los ventrículos, asegurando que el llenado ventricular se complete antes de la contracción de las cámaras ventriculares."
+    },
+    {
+      "question": "¿Cuál es la velocidad de conducción del impulso en las fibras de Purkinje?",
+      "options": [
+        "Menos de 0,3 m/s",
+        "De 1,5 a 4 m/s",
+        "Alrededor de 0,5 m/s",
+        "Exactamente 1 m/s"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las fibras de Purkinje son estructuras muy grandes especializadas que transmiten potenciales de acción a una velocidad extremadamente rápida, de 1,5 a 4 m/s, lo cual es crucial para la contracción casi simultánea de todo el músculo ventricular."
+    },
+    {
+      "question": "¿Cuánto se retrasa la señal al ventrículo desde el nódulo sinusal?",
+      "options": [
+        "-0,03 s",
+        "-0,16 s",
+        "-0,05 s",
+        "-0,12 s"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El retraso total de la señal excitadora antes de llegar al músculo ventricular que se está contrayendo es de 0,16 s, lo cual incluye el retraso de 0,03 s desde el nódulo sinusal al nódulo AV y el retraso de 0,13 s dentro del sistema del nódulo AV."
+    },
+    {
+      "question": "¿A qué se debe la conducción lenta en el nódulo AV?",
+      "options": [
+        "Fibras de gran tamaño",
+        "Mayor número de uniones",
+        "Pocas uniones en hendidura",
+        "Baja resistencia al flujo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La conducción lenta en las fibras transicionales y nodulares del haz AV se debe principalmente a la disminución del número de uniones en hendidura entre las células, lo que ofrece una gran resistencia al flujo de iones excitadores entre las fibras."
+    },
+    {
+      "question": "¿Por cuánto tiempo permanecen abiertos los canales de potasio en la repolarización?",
+      "options": [
+        "Una diezmilésima de segundo",
+        "Alrededor de 0,3 s",
+        "Algunas décimas de segundo",
+        "Solo algunos milisegundos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Después del potencial de acción, los canales de potasio permanecen abiertos durante algunas décimas de segundo más, permitiendo que las cargas positivas sigan saliendo y manteniendo una hiperpolarización transitoria en la célula."
+    },
+    {
+      "question": "¿Cómo se llama el exceso de negatividad después del potencial de acción?",
+      "options": [
+        "Despolarización",
+        "Repolarización",
+        "Umbral de descarga",
+        "Hiperpolarización"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El estado de hiperpolarización es el proceso en el que el potencial 'en reposo' se desplaza transitoriamente hacia abajo, hasta aproximadamente -55 o -60 mV, después de que haya finalizado el potencial de acción, debido al flujo continuo de potasio."
+    },
+    {
+      "question": "¿Cuál es la función del haz AV en el corazón?",
+      "options": [
+        "Generar el impulso",
+        "Ralentizar el llenado",
+        "Conducir impulsos",
+        "Bombear la sangre"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Haz AV (auriculoventricular) conduce los impulsos eléctricos desde el nódulo AV, que provienen de las aurículas, hacia los ventrículos, iniciando así la contracción ventricular para el bombeo de la sangre."
+    },
+    {
+      "question": "¿Qué es la banda interauricular anterior?",
+      "options": [
+        "Conductor ventricular",
+        "Una vía internodular",
+        "Un tabique fibroso",
+        "Músculo no especializado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La banda interauricular anterior es una de las bandas especializadas de fibras auriculares que atraviesa las paredes anteriores de las aurículas para dirigirse hacia la aurícula izquierda, siendo una de las vías internodulares."
+    },
+    {
+      "question": "¿A qué presión arterial media comienza a reducirse el gasto cardíaco?",
+      "options": [
+        "Por debajo de 80 mmHg",
+        "Por encima de 160 mmHg",
+        "A los 140 mmHg",
+        "En 50 mmHg"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El gasto cardíaco se mantiene constante a presiones arteriales normales, y solo empieza a disminuir significativamente cuando la carga de presión arterial media aumenta por encima de aproximadamente 160 mmHg, superando el límite funcional del corazón."
+    },
+    {
+      "question": "¿Qué factor determina principalmente el gasto cardíaco a presión normal?",
+      "options": [
+        "La fuerza contráctil",
+        "El retorno venoso",
+        "La temperatura corporal",
+        "Los niveles de calcio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Durante la función cardíaca normal (a presiones sistólicas típicas), el gasto cardíaco está determinado casi totalmente por la facilidad del flujo sanguíneo a través de los tejidos corporales, lo que en última instancia controla el retorno venoso de la sangre hacia el corazón."
+    },
+    {
+      "question": "¿Cuál es el marcapasos primario del corazón en condiciones normales?",
+      "options": [
+        "Nódulo sinoauricular (SA)",
+        "Fibras de Purkinje",
+        "Nódulo auriculoventricular (AV)",
+        "Músculo ventricular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El nódulo sinoauricular (SA) es el marcapasos normal porque su frecuencia de descarga rítmica, entre 70 y 80 veces por minuto, es significativamente más rápida que la de cualquier otra parte del sistema de conducción cardíaco, dominando el ritmo global."
+    },
+    {
+      "question": "¿Cuál es la frecuencia de descarga intrínseca del nódulo AV?",
+      "options": [
+        "Entre 15 y 40 por minuto",
+        "Entre 40 y 60 por minuto",
+        "Entre 70 y 80 por minuto",
+        "Más de 80 por minuto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las fibras del nódulo auriculoventricular (AV) tienen una capacidad de autoexcitación rítmica que, si no son estimuladas externamente, les permite descargar a una frecuencia natural de 40 a 60 veces por minuto, actuando así como un marcapasos secundario de respaldo."
+    },
+    {
+      "question": "¿Qué sistema conduce el impulso cardíaco a mayor velocidad?",
+      "options": [
+        "El nódulo AV",
+        "El músculo auricular",
+        "El sistema de Purkinje",
+        "El nódulo SA"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El sistema de Purkinje es esencial porque su rapidísima velocidad de conducción garantiza que el impulso cardíaco llegue a casi todas las porciones de los ventrículos de forma prácticamente simultánea, lo cual es fundamental para una contracción ventricular sincrónica y eficaz de las cavidades."
+    },
+    {
+      "question": "¿Cómo se denomina a un marcapasos fuera del nódulo sinusal?",
+      "options": [
+        "Marcapasos sinusal",
+        "Marcapasos AV",
+        "Marcapasos principal",
+        "Marcapasos ectópico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Un marcapasos «ectópico» es un punto del corazón, distinto al nódulo sinoauricular (SA), que asume la función de generar el impulso cardíaco. Esto generalmente resulta en una secuencia anormal de contracción que debilita significativamente el bombeo cardíaco."
+    },
+    {
+      "question": "¿Qué causa el síndrome de Stokes-Adams?",
+      "options": [
+        "Bloqueo súbito de la conducción AV",
+        "Descarga excesiva del nódulo SA",
+        "Estimulación simpática máxima",
+        "Frecuencia de Purkinje elevada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Este síndrome es consecuencia de un bloqueo súbito en la transmisión del impulso desde las aurículas a los ventrículos. El sistema de Purkinje, que se encuentra sobreexcitado por los impulsos sinusales rápidos, tarda de 5 a 20 segundos en iniciar su ritmo intrínseco de escape, provocando un desmayo por falta de flujo cerebral."
+    },
+    {
+      "question": "¿Qué onda del ECG representa la despolarización auricular?",
+      "options": [
+        "Onda Q",
+        "Onda P",
+        "Onda R",
+        "Onda T"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La onda P está generada por los potenciales eléctricos que se producen cuando las aurículas se despolarizan completamente, lo que ocurre justo antes de que comience su contracción, siendo el primer evento eléctrico registrado en el electrocardiograma."
+    },
+    {
+      "question": "¿Qué representa el complejo QRS en el ECG normal?",
+      "options": [
+        "Repolarización auricular",
+        "Contracción ventricular",
+        "Despolarización ventricular",
+        "Contracción auricular"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El complejo QRS está formado por los potenciales que se generan cuando la onda de despolarización se propaga por todos los ventrículos, un evento eléctrico que precede y desencadena la contracción de la masa muscular ventricular principal."
+    },
+    {
+      "question": "¿La onda T del ECG qué proceso refleja?",
+      "options": [
+        "Despolarización SA",
+        "Contracción ventricular",
+        "Despolarización ventricular",
+        "Repolarización ventricular"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La onda T es una onda de repolarización y está producida por los potenciales que se generan a medida que el músculo ventricular se recupera de su estado de despolarización, volviendo a su estado de reposo, un proceso que se extiende a lo largo de 0,15 segundos aproximadamente."
+    },
+    {
+      "question": "¿Cuál es la hormona liberada por la estimulación vagal?",
+      "options": [
+        "Adrenalina",
+        "Acetilcolina",
+        "Noradrenalina",
+        "Dopamina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La estimulación parasimpática, o vagal, de las terminaciones nerviosas en el corazón provoca la liberación de acetilcolina. Esta hormona tiene como función principal reducir la frecuencia del ritmo del nódulo sinusal y la excitabilidad de las fibras AV."
+    },
+    {
+      "question": "¿Cuál es el efecto principal de la acetilcolina en las fibras de conducción?",
+      "options": [
+        "Aumenta el calcio celular",
+        "Aumenta la permeabilidad al potasio",
+        "Reduce la negatividad celular",
+        "Acelera el potencial de acción"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La acetilcolina aumenta drásticamente la permeabilidad de las membranas a los iones potasio (K}^+), lo que permite una salida rápida de potasio desde las fibras, causando un proceso de hiperpolarización y haciendo que el tejido excitable sea mucho menos reactivo."
+    },
+    {
+      "question": "¿Qué efecto tiene la hiperpolarización en el nódulo sinusal?",
+      "options": [
+        "Aumenta la frecuencia de descarga",
+        "Aumenta la excitabilidad celular",
+        "Retrasa la frecuencia de ritmicidad",
+        "Bloquea la salida de potasio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La hiperpolarización hace que el potencial de membrana «en reposo» del nódulo SA sea más negativo, por lo que el potencial liminal tarda mucho más tiempo en alcanzarse, lo cual retrasa notablemente la frecuencia de la autoexcitación de estas fibras nodulares."
+    },
+    {
+      "question": "¿Frecuencia de las fibras de Purkinje como marcapasos de escape?",
+      "options": [
+        "Más de 80 por minuto",
+        "Entre 40 y 60 por minuto",
+        "Entre 70 y 80 por minuto",
+        "Entre 15 y 40 por minuto"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las fibras de Purkinje, cuando asumen el control como marcapasos de escape después de un bloqueo AV o una estimulación vagal intensa, son las que tienen la frecuencia de descarga más lenta del sistema, operando típicamente entre 15 y 40 veces por minuto."
+    },
+    {
+      "question": "¿Qué hormona es liberada por el sistema simpático?",
+      "options": [
+        "Noradrenalina",
+        "Acetilcolina",
+        "Adrenalina",
+        "Serotonina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La estimulación de los nervios simpáticos cardiacos libera noradrenalina en las terminaciones nerviosas. Esta hormona estimula los receptores \\beta_{1-adrenérgicos, lo que resulta en un aumento generalizado de la actividad del corazón, incluyendo el ritmo y la fuerza de contracción."
+    },
+    {
+      "question": "¿El efecto simpático qué iones transporta a través de la membrana?",
+      "options": [
+        "Solo potasio",
+        "Sodio y calcio",
+        "Potasio y cloro",
+        "Cloro y sodio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se piensa que la noradrenalina, al estimular los receptores beta 1-adrenérgicos, aumenta la permeabilidad de la membrana de las fibras a los iones sodio (Na}^+) y calcio (Ca}^{2+). Este aumento acelera la autoexcitación y es responsable del incremento de la fuerza contráctil del músculo cardíaco."
+    },
+    {
+      "question": "¿Por qué la onda T auricular no se observa normalmente?",
+      "options": [
+        "Tiene un voltaje muy alto",
+        "El ventrículo no se repolariza",
+        "Oscurecida por complejo QRS",
+        "Es de polaridad negativa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La onda de repolarización auricular, conocida como onda T auricular, se produce simultáneamente con el complejo QRS, que es un potencial de mayor voltaje generado por la despolarización ventricular, haciéndola completamente imperceptible en el ECG."
+    },
+    {
+      "question": "¿Qué efecto puede lograr la estimulación vagal intensa en el corazón?",
+      "options": [
+        "Aumenta la fuerza contráctil",
+        "Triplica la frecuencia cardíaca",
+        "Aumenta la conducción AV",
+        "Bloquea la transmisión del impulso"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La estimulación intensa de los nervios vagos puede tener dos efectos: puede interrumpir completamente la excitación rítmica del nódulo sinusal o puede bloquear completamente la transmisión del impulso cardíaco desde las aurículas hacia los ventrículos a través del nódulo AV."
+    },
+    {
+      "question": "¿Cuál es el riesgo si la conducción ventricular es lenta?",
+      "options": [
+        "Disminución función de bomba",
+        "Aumento de la sístole AV",
+        "Contracción asincrónica auricular",
+        "Acelera la repolarización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si el impulso cardíaco viaja lentamente a través de los ventrículos, la contracción pierde la sincronía que se necesita para bombear la sangre de forma eficaz. Esto puede producir una disminución significativa de la función global de bomba del corazón, reduciendo la eficacia hasta en un 20-30\\%. "
+    },
+    {
+      "question": "¿El nódulo SA descarga a una frecuencia normal de cuántos latidos?",
+      "options": [
+        "Menos de 40 por minuto",
+        "Entre 70 y 80 por minuto",
+        "Entre 40 y 60 por minuto",
+        "Más de 100 por minuto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El nódulo sinoauricular (SA) es el marcapasos primario debido a que su frecuencia de descarga rítmica es la más rápida de todo el sistema de conducción, situándose normalmente entre 70 y 80 veces por minuto en el corazón adulto sano."
+    },
+    {
+      "question": "¿Qué parte del corazón recibe inervación simpática intensa?",
+      "options": [
+        "Solo el nódulo AV",
+        "Solo el nódulo SA",
+        "Todo el corazón, incluyendo ventrículos",
+        "Únicamente las aurículas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los nervios simpáticos se distribuyen en todas las regiones del corazón, a diferencia de los parasimpáticos. Tienen una representación particularmente intensa en el músculo ventricular, además de una gran distribución en los nódulos SA y AV y la musculatura auricular."
+    },
+    {
+      "question": "¿En qué estado del músculo ventricular no se registra potencial en el ECG?",
+      "options": [
+        "Solo parcialmente polarizado",
+        "Solo parcialmente despolarizado",
+        "En el estado de repolarización",
+        "Completamente polarizado o despolarizado"
+      ],
+      "correctAnswer": 4,
+      "explanation": "No se registra potencial en el ECG cuando el músculo ventricular está o completamente polarizado o completamente despolarizado. El flujo de corriente que genera la señal eléctrica solo existe cuando el músculo está parcialmente polarizado o despolarizado, permitiendo la detección en la superficie corporal."
+    },
+    {
+      "question": "¿Qué intervalo del ECG representa la contracción del ventrículo?",
+      "options": [
+        "Intervalo P-R",
+        "Complejo QRS",
+        "Intervalo Q-T",
+        "Onda T"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El intervalo Q-T abarca desde el inicio del complejo QRS hasta el final de la onda T, lo que comprende el período completo de despolarización y repolarización del ventrículo, es decir, la contracción."
+    },
+    {
+      "question": "¿Cuál es la frecuencia cardíaca normal de un adulto promedio?",
+      "options": [
+        "Aproximadamente 60 latidos/min",
+        "Aproximadamente 72 latidos/min",
+        "Alrededor de 85 latidos/min",
+        "Cerca de 90 latidos/min"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El intervalo normal entre dos complejos QRS sucesivos se sitúa alrededor de 0,83 segundos, lo que, al calcular el recíproco y multiplicarlo por 60, resulta en una frecuencia cardíaca de 72 latidos por minuto."
+    },
+    {
+      "question": "¿Qué polaridad presenta la base del corazón durante la despolarización ventricular?",
+      "options": [
+        "Electronegatividad",
+        "Electropositividad",
+        "Polaridad neutra",
+        "Alternante entre positiva y negativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El promedio algebraico del flujo de corriente muestra que hay una negatividad hacia la base del corazón, mientras que la punta se mantiene electropositiva durante la mayor parte del ciclo de despolarización."
+    },
+    {
+      "question": "¿Qué zona ventricular es la primera en recibir el impulso cardíaco?",
+      "options": [
+        "Pared externa",
+        "Tabique",
+        "Punta del corazón",
+        "Músculo papilar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El impulso cardíaco, que viaja a través del sistema de Purkinje, alcanza primero el tabique ventricular antes de propagarse a la superficie interna del resto de la masa ventricular."
+    },
+    {
+      "question": "¿Qué significa que una derivación sea bipolar en electrocardiografía?",
+      "options": [
+        "Un electrodo se conecta al tórax",
+        "Se registra de una extremidad",
+        "Se registra de dos electrodos distintos",
+        "El electrodo negativo está en el brazo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El término bipolar se utiliza para referirse a un registro de electrocardiograma tomado a partir de dos electrodos que están ubicados en lados opuestos del corazón, creando un circuito completo."
+    },
+    {
+      "question": "¿Cómo se conectan los electrodos para la Derivación I estándar?",
+      "options": [
+        "Brazo derecho negativo, pierna izquierda positiva",
+        "Brazo izquierdo positivo, pierna izquierda negativa",
+        "Brazo derecho negativo, brazo izquierdo positivo",
+        "Pierna izquierda negativa, brazo derecho positivo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La derivación I se registra conectando el terminal negativo del electrocardiógrafo al brazo derecho y el terminal positivo del mismo aparato al brazo izquierdo del paciente."
+    },
+    {
+      "question": "¿Qué principio establece la Ley de Einthoven?",
+      "options": [
+        "Potencial I menos potencial II",
+        "Potencial I más potencial III igual a II",
+        "Potencial II más potencial III igual a I",
+        "Suma de los potenciales es cero"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Ley de Einthoven es un principio fundamental que establece que la suma algebraica de los potenciales registrados en las derivaciones I y III es siempre igual al potencial registrado en la derivación II."
+    },
+    {
+      "question": "¿Qué representan los vértices del Triángulo de Einthoven?",
+      "options": [
+        "Los electrodos precordiales",
+        "Puntos de conexión eléctrica de extremidades",
+        "El centro del corazón",
+        "La pared ventricular anterior"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El triángulo de Einthoven superpuesto en el tórax ilustra que los brazos y la pierna izquierda representan los puntos donde estas extremidades se conectan eléctricamente a los líquidos que rodean el corazón."
+    },
+    {
+      "question": "¿Cómo se observan las ondas P y T en las derivaciones estándar normales?",
+      "options": [
+        "Ondas P negativas y T positivas",
+        "Ondas P positivas y T negativas",
+        "Ondas P y T positivas",
+        "Ondas P y T negativas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En las derivaciones bipolares I, II y III de un electrocardiograma normal, se puede observar que tanto la onda P como la onda T se registran predominantemente con polaridad positiva."
+    },
+    {
+      "question": "¿Cuál es la dirección media del flujo de corriente en el corazón?",
+      "options": [
+        "De la punta hacia la base",
+        "De la base hacia la punta",
+        "Horizontalmente",
+        "Sin dirección principal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La corriente fluye desde las zonas negativas a las positivas principalmente en la dirección que va desde la base del corazón, que es electronegativa, hacia la punta, que es electropositiva."
+    },
+    {
+      "question": "¿Qué terminal se conecta a la pierna izquierda para la Derivación II?",
+      "options": [
+        "Terminal negativo",
+        "Terminal positivo",
+        "Ningún terminal",
+        "Electrodo indiferente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para registrar la derivación II de las extremidades, el terminal positivo del electrocardiógrafo se conecta a la pierna izquierda, mientras que el terminal negativo se conecta al brazo derecho."
+    },
+    {
+      "question": "¿Qué medio conductor rodea el corazón en el tórax?",
+      "options": [
+        "Solo el aire de los pulmones",
+        "Líquidos tisulares",
+        "Solo el músculo",
+        "Tejido óseo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aunque los pulmones llenos de aire conducen electricidad, los líquidos que se encuentran en los demás tejidos que rodean el corazón conducen la corriente eléctrica con una facilidad aún mayor."
+    },
+    {
+      "question": "¿Aproximadamente cuánto dura el intervalo Q-T habitualmente?",
+      "options": [
+        "Alrededor de 0,20 segundos",
+        "Aproximadamente 0,35 segundos",
+        "Alrededor de 0,50 segundos",
+        "Aproximadamente 0,83 segundos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La duración de la contracción ventricular se extiende desde el inicio de la onda Q (o R) hasta el final de la onda T, siendo este intervalo Q-T usualmente de aproximadamente 0,35 segundos en un adulto."
+    },
+    {
+      "question": "¿Qué polaridad tienen las zonas internas de los ventrículos al inicio de la despolarización?",
+      "options": [
+        "Electropositivas",
+        "Electronegativas",
+        "Neutras",
+        "Polaridad variable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Al comienzo de la despolarización, el impulso llega a la superficie interna de los ventrículos, haciendo que estas zonas se vuelvan electronegativas en relación con las paredes externas que siguen polarizadas."
+    },
+    {
+      "question": "¿Qué registro mostrará un medidor conectado a electrodos de base a punta?",
+      "options": [
+        "Un registro negativo",
+        "Un registro neutro",
+        "Un registro positivo",
+        "Una señal de alterna"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dado que la corriente fluye desde la base negativa hacia la punta positiva, si se conecta un medidor con el electrodo positivo cerca de la punta y el negativo cerca de la base, se obtendrá un registro con señal positiva."
+    },
+    {
+      "question": "¿Cuándo es crucial la elección de la derivación registrada?",
+      "options": [
+        "Al diagnosticar arritmias cardíacas",
+        "Al diagnosticar la lesión del músculo",
+        "Al calcular la frecuencia cardíaca",
+        "Al determinar el intervalo P-R"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La elección de las derivaciones es fundamental cuando se diagnostica una lesión del músculo ventricular o auricular, ya que las alteraciones en el músculo o la conducción cambian mucho el patrón del ECG."
+    },
+    {
+      "question": "¿Qué capacidad debe tener un electrocardiógrafo para responder a los cambios?",
+      "options": [
+        "Funcionar a baja velocidad",
+        "Responder rápidamente a los cambios",
+        "Utilizar solo papel",
+        "Solo registrar voltajes negativos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Es esencial que el aparato registrador del electrocardiograma pueda responder rápidamente a las modificaciones en los potenciales y polaridades eléctricas del corazón, ya que estos cambios ocurren en menos de 0,01 segundos."
+    },
+    {
+      "question": "¿Cuál es el principal uso de la electrocardiografía ambulatoria?",
+      "options": [
+        "Diagnosticar arritmias infrecuentes",
+        "Solo medir el intervalo Q-T",
+        "Diagnosticar lesiones musculares",
+        "Valorar episodios eléctricos breves"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La monitorización ambulatoria del ECG es útil en padecimientos asociados con anomalías infrecuentes en el ritmo cardíaco, permitiendo analizar el registro durante un período prolongado y capturar esos episodios raros."
+    },
+    {
+      "question": "¿Por qué V_1 y V_2 tienen complejos QRS negativos?",
+      "options": [
+        "Están lejos de la base cardíaca",
+        "Están cerca de la punta",
+        "Están cerca de la base",
+        "Miden solo el potencial auricular"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los electrodos de las derivaciones precordiales V_1 y V_2 se ubican más próximos a la base del corazón, la cual es predominantemente electronegativa durante la despolarización ventricular, resultando en un complejo QRS negativo."
+    },
+    {
+      "question": "¿Cómo se conecta el terminal negativo para la Derivación III?",
+      "options": [
+        "Brazo derecho",
+        "Brazo izquierdo",
+        "Pierna izquierda",
+        "Electrodo indiferente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para obtener el registro de la derivación III, el terminal negativo del electrocardiógrafo se conecta específicamente al brazo izquierdo, mientras que el terminal positivo se conecta a la pierna izquierda."
+    },
+    {
+      "question": "¿Cuál dispositivo monitoriza el ECG de forma continua por 24-48 horas?",
+      "options": [
+        "Holter implantable",
+        "Monitor intermitente",
+        "Monitor Holter",
+        "Desfibrilador externo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El monitor Holter es el dispositivo estándar que registra de manera continua la actividad eléctrica del corazón durante un período de 24 a 48 horas, lo cual es útil para correlacionar síntomas con posibles episodios registrados."
+    },
+    {
+      "question": "¿Cuál monitor se implanta debajo de la piel en el tórax?",
+      "options": [
+        "Electrocardiógrafo estándar",
+        "Holter intermitente",
+        "Holter implantable",
+        "Registrador digital"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Holter implantable es un pequeño dispositivo que se coloca quirúrgicamente bajo la piel del tórax y está diseñado para monitorizar la actividad eléctrica del corazón de manera intermitente por un período de hasta varios años."
+    },
+    {
+      "question": "¿Qué representa una flecha vectorial en el corazón?",
+      "options": [
+        "Flujo de sangre venosa",
+        "Dirección del potencial eléctrico",
+        "Velocidad de contracción",
+        "Fuerza muscular ventricular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un vector se define como una flecha que apunta en la dirección del potencial eléctrico generado por el flujo de corriente en el corazón en un momento dado, siendo fundamental para el análisis vectorial del ECG."
+    },
+    {
+      "question": "¿Hacia qué dirección apunta la cabeza de la flecha vectorial?",
+      "options": [
+        "Hacia el potencial negativo",
+        "Hacia la región despolarizada",
+        "Hacia la dirección positiva",
+        "Hacia el centro del ventrículo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Según la convención establecida para el análisis vectorial en cardiología, la cabeza de la flecha siempre está orientada hacia la dirección positiva del potencial eléctrico instantáneo que se está generando."
+    },
+    {
+      "question": "¿A qué es proporcional la longitud del vector?",
+      "options": [
+        "Al tiempo del ciclo cardíaco",
+        "Al voltaje del potencial",
+        "A la resistencia del tejido",
+        "A la frecuencia cardíaca"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La longitud de la flecha vectorial es directamente proporcional a la magnitud, o voltaje, del potencial eléctrico generado por el flujo de corriente en el corazón en ese instante específico durante el ciclo cardíaco."
+    },
+    {
+      "question": "¿Cuál es la dirección normal del vector QRS medio?",
+      "options": [
+        "Aproximadamente -59^",
+        "Aproximadamente +120^",
+        "Aproximadamente +59^",
+        "Aproximadamente 0^"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En un corazón que se considera normal, el vector QRS medio, que representa la despolarización ventricular, se sitúa alrededor de +59^, lo que indica el eje eléctrico promedio del corazón en la mayoría de los individuos."
+    },
+    {
+      "question": "¿Qué dirección angular tiene un vector horizontal izquierdo?",
+      "options": [
+        "Noventa grados negativos",
+        "Ciento ochenta grados",
+        "Cero grados",
+        "Noventa grados positivos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El punto de referencia para el sistema de ángulos vectoriales se establece en 0^, que corresponde a la dirección completamente horizontal y dirigida hacia el lado izquierdo de la persona."
+    },
+    {
+      "question": "¿Qué valor angular representa la dirección vertical ascendente?",
+      "options": [
+        "+90^ o +270^",
+        "-90^ o +270^",
+        "+180^ o -180^",
+        "-59^ o +59^"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La dirección directamente hacia arriba en el sistema de referencia vectorial se designa como -90^. Alternativamente, en una escala de rotación continua en el sentido de las agujas del reloj, también corresponde a +270^."
+    },
+    {
+      "question": "¿Cuál es el eje de la derivación bipolar I?",
+      "options": [
+        "Positivo sesenta grados",
+        "Ciento veinte grados",
+        "Cero grados",
+        "Negativo treinta grados"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La derivación I se registra a partir de electrodos colocados en los brazos y se alinea con el plano horizontal. Con el electrodo positivo hacia la izquierda, su eje en el sistema de referencia hexagonal es de 0^."
+    },
+    {
+      "question": "¿Cuál es la dirección aproximada del eje de la derivación II?",
+      "options": [
+        "+90^",
+        "+60^",
+        "+120^",
+        "+210^"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La derivación II conecta el brazo derecho (negativo) con la pierna izquierda (positivo), lo que resulta en un eje que se dirige hacia abajo y hacia la izquierda, con una dirección de aproximadamente +60^."
+    },
+    {
+      "question": "¿Cuál es la dirección del eje de la derivación III?",
+      "options": [
+        "+60^",
+        "+90^",
+        "+120^",
+        "+210^"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La derivación III se establece entre el brazo izquierdo y la pierna izquierda. En el sistema de referencia, su eje se orienta hacia la parte inferior izquierda con una dirección angular de aproximadamente +120^."
+    },
+    {
+      "question": "¿Qué valor angular corresponde al eje de la derivación aVF?",
+      "options": [
+        "Menos noventa grados",
+        "Ciento ochenta grados",
+        "Noventa grados positivos",
+        "Menos treinta grados"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La derivación aVF tiene su electrodo positivo en la pierna izquierda. Esto resulta en un eje que apunta directamente hacia abajo en el plano frontal, lo que corresponde a la dirección de +90^."
+    },
+    {
+      "question": "¿Qué valor angular corresponde al eje de la derivación aVL?",
+      "options": [
+        "+90^",
+        "0^",
+        "-30^",
+        "+210^"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La derivación aVL, con su electrodo positivo en el brazo izquierdo, tiene un eje que se dirige hacia la parte superior izquierda, y se le asigna la dirección angular de -30^ en el sistema hexagonal."
+    },
+    {
+      "question": "¿Qué valor angular corresponde al eje de la derivación aVR?",
+      "options": [
+        "Ciento veinte grados",
+        "Doscientos diez grados",
+        "Cero grados",
+        "Noventa grados positivos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La derivación aVR tiene el electrodo positivo ubicado en el brazo derecho. Esto la sitúa con un eje que apunta hacia la parte superior derecha, correspondiente a una dirección angular de +210^."
+    },
+    {
+      "question": "¿Qué ocurre si un vector es perpendicular al eje de una derivación?",
+      "options": [
+        "El voltaje registrado es máximo",
+        "El voltaje registrado es nulo",
+        "El registro es siempre positivo",
+        "El voltaje registrado es bajo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Cuando un vector cardíaco se orienta de manera casi perpendicular, es decir, a 90^, respecto al eje de una derivación, el voltaje que se proyecta y se registra en el ECG para esa derivación es extremadamente pequeño."
+    },
+    {
+      "question": "¿Cómo se determina la magnitud del voltaje registrado en una derivación?",
+      "options": [
+        "Mediante la suma de vectores",
+        "Con la longitud del vector proyectado",
+        "Con la dirección del vector",
+        "Mediante la longitud del eje"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El voltaje instantáneo que se registra en una derivación específica del ECG es directamente proporcional a la longitud del vector proyectado, que es la componente del vector cardíaco a lo largo del eje de esa derivación."
+    },
+    {
+      "question": "¿Cuál es la primera zona en despolarizarse en los ventrículos?",
+      "options": [
+        "Superficie endocárdica derecha",
+        "Superficie epicárdica",
+        "Superficie endocárdica izquierda del tabique",
+        "Músculo ventricular externo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La primera porción de los ventrículos que experimenta despolarización es la superficie endocárdica izquierda del tabique, inmediatamente después de que el impulso pasa a través del haz auriculoventricular."
+    },
+    {
+      "question": "¿Qué evento cardíaco produce el complejo QRS?",
+      "options": [
+        "Repolarización auricular",
+        "Despolarización de los ventrículos",
+        "Repolarización ventricular",
+        "Despolarización auricular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El complejo QRS en el electrocardiograma representa la suma de los potenciales eléctricos que se generan a lo largo de las distintas fases de la despolarización de la gran masa muscular de los ventrículos."
+    },
+    {
+      "question": "¿Qué proceso genera la onda T en el ECG?",
+      "options": [
+        "Contracción ventricular",
+        "Repolarización de los ventrículos",
+        "Despolarización del tabique",
+        "Relajación auricular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La onda T se produce en el electrocardiograma como resultado de la repolarización del músculo ventricular, un proceso que comienza aproximadamente 0.15 segundos después de la despolarización y finaliza al cabo de 0.35 segundos."
+    },
+    {
+      "question": "¿Qué zona del ventrículo se repolariza primero normalmente?",
+      "options": [
+        "Tabique interventricular",
+        "Zonas endocárdicas",
+        "Superficie externa de los ventrículos",
+        "Haz auriculoventricular"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A diferencia de la despolarización, la repolarización comienza habitualmente en la superficie externa de los ventrículos, especialmente cerca de la punta, porque estas áreas tienen un período de contracción ligeramente más corto que las zonas endocárdicas."
+    },
+    {
+      "question": "¿Cuál es el tiempo aproximado para la generación completa de la onda T?",
+      "options": [
+        "Menos de 0.05 segundos",
+        "0.15 segundos",
+        "0.25 segundos",
+        "Depende de la frecuencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tiempo total desde el inicio hasta el final de la onda T, que representa la repolarización ventricular, es de aproximadamente 0.15 segundos. Esta duración es un indicador clave de la salud del miocardio ventricular y su correcta capacidad de repolarización, siendo un proceso vital para el ciclo cardíaco."
+    },
+    {
+      "question": "¿Dónde comienza la despolarización del músculo de las aurículas?",
+      "options": [
+        "Nódulo auriculoventricular",
+        "Haz de His",
+        "Nódulo sinusal",
+        "Fibras de Purkinje"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La despolarización auricular comienza en el nódulo sinusal, también conocido como marcapasos natural del corazón. Desde esta ubicación, el impulso se propaga por las aurículas en todas direcciones para iniciar su contracción, lo que se registra como la onda P en el ECG."
+    },
+    {
+      "question": "¿Qué vector describe la despolarización auricular inicial?",
+      "options": [
+        "Hacia vena cava superior",
+        "Hacia el ventrículo izquierdo",
+        "Hacia el nódulo AV",
+        "Hacia la punta del corazón"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto de origen de la electronegatividad de las aurículas está cerca del nódulo sinusal, que se encuentra en el punto de entrada de la vena cava superior. Por lo tanto, el vector de despolarización inicial se dirige generalmente hacia esa región anatómica."
+    },
+    {
+      "question": "¿Cómo es la polaridad habitual de la onda P en las derivaciones bipolares?",
+      "options": [
+        "Negativa",
+        "Positiva",
+        "Bifásica",
+        "Variable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La onda P auricular es habitualmente positiva en las derivaciones bipolares estándar de las extremidades (I, II y III). Esto se debe a que la dirección del vector de despolarización auricular normal generalmente sigue las direcciones positivas de los ejes de estas tres derivaciones."
+    },
+    {
+      "question": "¿Qué vector es opuesto al de despolarización auricular?",
+      "options": [
+        "Repolarización ventricular",
+        "Repolarización auricular",
+        "Despolarización ventricular",
+        "Potencial de acción"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El vector de repolarización auricular es opuesto al de despolarización. El área que se despolarizó primero (cerca del nódulo sinusal) es la primera en repolarizarse, invirtiendo la dirección del vector eléctrico, lo cual es contrario al patrón ventricular."
+    },
+    {
+      "question": "¿Por qué la onda T auricular no se suele ver en el ECG estándar?",
+      "options": [
+        "Es muy débil",
+        "Oscurecida por complejo QRS",
+        "Dura muy poco",
+        "Es isoelectrica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La onda T auricular ocurre aproximadamente al mismo tiempo que el complejo QRS ventricular. Debido a que la señal eléctrica del complejo QRS es mucho más intensa, esta oculta o enmascara por completo la señal de la onda T auricular, haciéndola invisible en el ECG normal."
+    },
+    {
+      "question": "¿Qué evento eléctrico representa el vectocardiograma QRS?",
+      "options": [
+        "Contracción ventricular",
+        "Despolarización ventricular",
+        "Repolarización ventricular",
+        "Actividad auricular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El vectocardiograma QRS representa la despolarización ventricular. Es la figura elíptica trazada por los extremos positivos de los vectores de corriente que cambian rápidamente mientras el impulso se propaga a través del miocardio ventricular en este proceso."
+    },
+    {
+      "question": "¿Cuál es el valor del eje eléctrico medio normal de los ventrículos?",
+      "options": [
+        "0^{",
+        "90^{",
+        "59^{",
+        "180^{"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La dirección preponderante del potencial eléctrico (de negativo a positivo) durante la despolarización se denomina eje eléctrico medio de los ventrículos. En un corazón normal, este valor se sitúa en un promedio de aproximadamente 59^{."
+    },
+    {
+      "question": "¿En qué dirección se representa un potencial neto positivo en la derivación I?",
+      "options": [
+        "Derecha (0^{)",
+        "Izquierda (180^{)",
+        "Arriba (-60^{)",
+        "Abajo (120^{)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La derivación I se encuentra en el eje horizontal, donde la dirección positiva se orienta hacia la derecha, es decir, a 0^{. Un potencial neto positivo en esta derivación se representa siempre en esa dirección positiva a lo largo de su línea de eje."
+    },
+    {
+      "question": "¿Dónde se representa un potencial neto positivo en la derivación III?",
+      "options": [
+        "Hacia el polo negativo",
+        "Hacia 120^{",
+        "Hacia la punta",
+        "Hacia -60^{"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La dirección positiva de la derivación III en el sistema triaxial de Bailey apunta hacia 120^{. Un potencial neto positivo se representa en esta dirección a lo largo de la línea que representa dicha derivación, con su base en el punto de intersección de los ejes."
+    },
+    {
+      "question": "¿Qué factor anatómico puede desplazar el eje eléctrico hacia la izquierda?",
+      "options": [
+        "Inspiración profunda",
+        "Personas asténicas",
+        "Obesidad visceral",
+        "Corazón colgante"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En personas con obesidad, el aumento de la adiposidad visceral comprime el diafragma hacia arriba, lo cual angula el corazón hacia la izquierda. Esta alteración en la posición física del corazón provoca una desviación del eje eléctrico medio hacia la izquierda."
+    },
+    {
+      "question": "¿Qué evento fisiológico desplaza el eje eléctrico a la derecha?",
+      "options": [
+        "Espiración profunda",
+        "Estar de pie",
+        "Agacharse",
+        "Hipertensión"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cuando una persona está de pie o al final de una inspiración profunda, el corazón tiende a adoptar una posición más vertical y se angula hacia la derecha. Esto provoca un desplazamiento del eje eléctrico medio de los ventrículos hacia la derecha."
+    },
+    {
+      "question": "¿Hacia dónde se desplaza el eje en caso de hipertrofia ventricular?",
+      "options": [
+        "Hacia el ventrículo normal",
+        "Hacia el ventrículo hipertrofiado",
+        "Hacia arriba",
+        "Hacia la base del corazón"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La hipertrofia ventricular desplaza el eje hacia el ventrículo hipertrofiado. Esto sucede porque una mayor masa muscular genera un potencial eléctrico superior y tarda más en despolarizarse, manteniendo ese lado electropositivo por más tiempo, atrayendo al vector."
+    },
+    {
+      "question": "¿Cuál causa hipertrofia del ventrículo izquierdo y desviación a la izquierda?",
+      "options": [
+        "Estenosis pulmonar",
+        "Tetralogía de Fallot",
+        "Insuficiencia aórtica",
+        "Comunicación interauricular"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La insuficiencia valvular aórtica, al igual que la hipertensión, causa una sobrecarga de volumen y presión en el ventrículo izquierdo, provocando su hipertrofia. Este aumento de masa muscular resulta en una desviación del eje eléctrico hacia el lado izquierdo."
+    },
+    {
+      "question": "¿Qué condición provoca la desviación intensa del eje hacia la derecha?",
+      "options": [
+        "Estenosis de válvula pulmonar",
+        "Hipertensión sistémica",
+        "Insuficiencia mitral",
+        "Bloqueo de rama izquierda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La estenosis congénita de la válvula pulmonar aumenta la resistencia al flujo de sangre que sale del ventrículo derecho, lo que causa su hipertrofia. Este aumento de masa muscular en el ventrículo derecho resulta en una marcada desviación del eje eléctrico hacia la derecha."
+    },
+    {
+      "question": "¿Cuál es el principal efecto eléctrico de un bloqueo de rama del haz?",
+      "options": [
+        "Despolarización simultánea",
+        "Voltaje reducido",
+        "Desviación del eje",
+        "Repolarización rápida"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El bloqueo de una rama del haz interrumpe la conducción rápida al ventrículo afectado, causando una despolarización asincrónica. Esta falta de neutralización de los potenciales eléctricos entre los ventrículos resulta en una desviación notoria del eje eléctrico medio del corazón."
+    },
+    {
+      "question": "En el bloqueo de rama izquierda, ¿hacia dónde apunta el vector intenso resultante?",
+      "options": [
+        "Del ventrículo derecho al izquierdo",
+        "Del ventrículo izquierdo al derecho",
+        "Hacia la aurícula derecha",
+        "Hacia el nódulo AV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Con un bloqueo de rama izquierda, el ventrículo derecho se despolariza primero y se vuelve electronegativo. El ventrículo izquierdo tarda más, permaneciendo positivo. Esto genera un vector fuerte con su extremo positivo apuntando desde el ventrículo derecho hacia el ventrículo izquierdo."
+    },
+    {
+      "question": "¿Qué signo diferencia el bloqueo de rama de la hipertrofia ventricular?",
+      "options": [
+        "Eje a 59^{",
+        "Onda P invertida",
+        "Prolongación del QRS",
+        "Alto voltaje"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La prolongación o ensanchamiento del complejo QRS es una característica distintiva del bloqueo de rama del haz. Esta prolongación se debe a la extrema lentitud de la despolarización en el lado afectado, diferenciándolo claramente de la desviación del eje causada por la hipertrofia."
+    },
+    {
+      "question": "¿Cuál es el umbral para un ECG de alto voltaje en las derivaciones de las extremidades?",
+      "options": [
+        "Suma mayor de 4 mV",
+        "Suma mayor de 2 mV",
+        "Voltaje mayor a 0.5 mV",
+        "Voltaje menor a 2 mV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se considera que un paciente tiene un ECG de alto voltaje si la suma de los voltajes de los complejos QRS de las tres derivaciones bipolares estándar de las extremidades es mayor de 4 mV. Este hallazgo se asocia frecuentemente con un aumento de la masa muscular cardíaca."
+    },
+    {
+      "question": "¿Qué estructura que rodea al corazón causa la mayor disminución de voltaje?",
+      "options": [
+        "Músculo esquelético",
+        "Pared torácica",
+        "Líquido pericárdico",
+        "Grasa subcutánea"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La presencia de líquido en el pericardio es una causa principal de disminución de voltaje. Este fluido extracelular es un conductor eléctrico eficiente que cortocircuita los potenciales eléctricos generados por el corazón, reduciendo los voltajes que llegan a la superficie del cuerpo."
+    },
+    {
+      "question": "¿Cuál es la duración normal del complejo QRS?",
+      "options": [
+        "Menos de 0,06 s",
+        "Entre 0,06 y 0,08 s",
+        "Entre 0,08 y 0,10 s",
+        "Más de 0,12 s"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El complejo QRS representa la despolarización ventricular. Su duración normal se sitúa en el rango de 0,06 a 0,08 segundos, indicando una propagación adecuada y rápida del impulso eléctrico a través del sistema de Purkinje hacia el músculo ventricular."
+    },
+    {
+      "question": "¿Qué condición no prolonga el complejo QRS?",
+      "options": [
+        "Hipertrofia del ventrículo",
+        "Dilatación cardíaca grave",
+        "Bloqueo de las fibras de Purkinje",
+        "Repolarización ventricular precoz"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La repolarización ventricular precoz se relaciona con el segmento ST y la onda T, no afectando directamente la duración del complejo QRS. Las otras condiciones implican trayectos más largos o una conducción más lenta del impulso eléctrico ventricular."
+    },
+    {
+      "question": "¿Qué duración del QRS indica bloqueo patológico seguro?",
+      "options": [
+        "Menos de 0,08 s",
+        "Más de 0,09 s",
+        "Más de 0,12 s",
+        "Aproximadamente 0,10 s"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Una duración del complejo QRS que supera los 0,12 segundos se considera un signo prácticamente inequívoco de la existencia de un bloqueo patológico significativo en algún punto del sistema de conducción que recorre los ventrículos."
+    },
+    {
+      "question": "¿Cuál es un factor principal en el QRS extraño?",
+      "options": [
+        "Aumento del gasto cardíaco",
+        "Bloqueos pequeños en Purkinje",
+        "Disminución de la frecuencia",
+        "Mejora del flujo coronario"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los patrones extraños o bizarros del complejo QRS a menudo son el resultado de múltiples y diminutos bloqueos en la conducción dentro del sistema de Purkinje, lo que causa una propagación irregular del impulso eléctrico ventricular."
+    },
+    {
+      "question": "¿Cómo se llama el flujo entre zonas polarizadas y lesionadas?",
+      "options": [
+        "Potencial de acción retardado",
+        "Corriente de lesión",
+        "Corriente iónica anómala",
+        "Vector cardíaco de reposo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El fenómeno de la corriente de lesión se refiere al flujo eléctrico anómalo que persiste entre las partes del músculo cardíaco que están patológicamente despolarizadas y las zonas que están polarizadas de forma normal entre latidos consecutivos."
+    },
+    {
+      "question": "¿Qué polaridad presenta la zona lesionada del corazón?",
+      "options": [
+        "Neutro o cero",
+        "Positiva o negativa",
+        "Siempre negativa",
+        "Siempre positiva"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La parte lesionada del corazón, al estar despolarizada patológicamente de forma constante, emite cargas negativas hacia los fluidos circundantes, por lo que siempre se registra con una polaridad de potencial negativa."
+    },
+    {
+      "question": "¿Cuál es la causa más común de corriente de lesión?",
+      "options": [
+        "Traumatismo mecánico directo",
+        "Oclusiones coronarias locales",
+        "Procesos infecciosos miocárdicos",
+        "Membranas muy permeables"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las oclusiones coronarias locales, que conducen a la isquemia de zonas específicas del músculo cardíaco, son con diferencia la causa más frecuente y relevante que produce una persistente corriente de lesión en el corazón."
+    },
+    {
+      "question": "¿Qué intervalo mide la corriente de lesión en el ECG?",
+      "options": [
+        "El segmento P-R",
+        "El intervalo Q-T",
+        "El intervalo T-P",
+        "La onda R a onda T"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La corriente de lesión se manifiesta y se analiza típicamente durante el intervalo T-P del ECG, que es el momento en que el músculo ventricular normal se encuentra en un estado de polarización completa antes del siguiente latido cardíaco."
+    },
+    {
+      "question": "¿Qué indica el extremo negativo del vector de lesión?",
+      "options": [
+        "Hacia el músculo sano",
+        "Hacia la zona lesionada",
+        "Hacia el punto J del ECG",
+        "Hacia la derivación positiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el análisis vectorial, el extremo negativo del vector que representa la corriente de lesión apunta directamente hacia la porción del músculo cardíaco que se encuentra lesionada y permanentemente despolarizada."
+    },
+    {
+      "question": "¿Cómo se define el punto J del electrocardiograma?",
+      "options": [
+        "Comienzo de la onda P",
+        "Pico del complejo QRS",
+        "Final del complejo QRS",
+        "Inicio de la onda T"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El punto J se define como el punto exacto en el ECG donde la onda de despolarización acaba de completar su paso a través de todo el corazón, marcando el final del complejo QRS y el cese momentáneo de toda corriente."
+    },
+    {
+      "question": "¿Para qué se utiliza el punto J en el ECG?",
+      "options": [
+        "Medir la duración del QRS",
+        "Calcular el ritmo cardíaco",
+        "Determinar el potencial cero",
+        "Diagnosticar la isquemia leve"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El punto J se utiliza como el nivel de potencial de referencia cero en el ECG, ya que en este instante no hay flujo de corriente alrededor del corazón, lo cual permite medir correctamente los potenciales de lesión."
+    },
+    {
+      "question": "¿Qué potencial de lesión registra la derivación I en infarto anterior?",
+      "options": [
+        "Potencial positivo",
+        "Potencial negativo",
+        "Potencial cero",
+        "Potencial variable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En un infarto de la pared anterior, el análisis de los potenciales de lesión en las derivaciones de las extremidades a menudo muestra un potencial negativo en la derivación I y uno positivo en la derivación III, revelando la dirección del vector de lesión."
+    },
+    {
+      "question": "¿Qué potencial indica infarto posterior en V}_{2?",
+      "options": [
+        "Potencial negativo de lesión",
+        "Potencial positivo de lesión",
+        "Un punto J por debajo",
+        "Una onda Q profunda"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un infarto de la pared posterior se diagnostica típicamente por un potencial de corriente de lesión positivo en la derivación torácica V}_{2, lo que indica que el extremo positivo del vector se dirige hacia ese electrodo."
+    },
+    {
+      "question": "¿Hacia dónde apunta el vector de lesión en infarto anterior?",
+      "options": [
+        "Hacia el ventrículo derecho",
+        "Aproximadamente a 90 grados",
+        "Hacia la pared posterior",
+        "Aproximadamente a 150 grados"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El vector resultante de la corriente de lesión en un infarto de la pared anterior suele tener un eje de aproximadamente 150^{, con su extremo negativo señalando al ventrículo izquierdo y el positivo al ventrículo derecho."
+    },
+    {
+      "question": "¿Hacia dónde apunta el vector de lesión en infarto posterior?",
+      "options": [
+        "Aproximadamente a -95 grados",
+        "Hacia la pared anterior",
+        "Aproximadamente a 180 grados",
+        "Hacia el punto de referencia cero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El análisis vectorial de las derivaciones de las extremidades en un infarto de la pared posterior puede revelar un vector de lesión resultante con un eje de aproximadamente -95^{, con el extremo negativo señalando hacia abajo."
+    },
+    {
+      "question": "¿Qué signo diagnóstico es clave en trombosis aguda?",
+      "options": [
+        "La onda P alargada",
+        "La onda T aplanada",
+        "La corriente de lesión",
+        "El complejo QRS estrecho"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Uno de los hallazgos diagnósticos más significativos en los electrocardiogramas registrados después de una trombosis coronaria aguda es la presencia de una intensa corriente de lesión, que indica isquemia grave en el miocardio afectado."
+    },
+    {
+      "question": "¿Cuánto tarda la corriente de lesión en desaparecer?",
+      "options": [
+        "Horas después del infarto",
+        "Aproximadamente una semana",
+        "Varias semanas o más",
+        "Nunca desaparece del todo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En casos de infarto de miocardio moderado y con recuperación, el potencial de lesión puede tardar varias semanas en desaparecer, lo cual se relaciona con el restablecimiento de flujo colateral y la curación de la zona infartada."
+    },
+    {
+      "question": "¿Qué onda puede aparecer en un infarto anterior antiguo?",
+      "options": [
+        "Una onda P prominente",
+        "Una onda Q al inicio en I",
+        "Una onda R muy alta",
+        "Una onda S profunda en II"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un infarto anterior recuperado a menudo se manifiesta con la aparición de una onda Q patológica al comienzo del complejo QRS en la derivación I, debido a la pérdida de masa muscular en la pared anterior del ventrículo izquierdo."
+    },
+    {
+      "question": "¿Qué causa la isquemia leve en la onda T?",
+      "options": [
+        "Aumento del flujo de calcio",
+        "Disminución de la repolarización",
+        "Aumento del flujo de potasio",
+        "Acortamiento del complejo QRS"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La isquemia leve es la causa más común de acortamiento de la despolarización, principalmente porque aumenta el flujo de corriente a través de los canales de potasio, lo que altera la secuencia normal de repolarización y, por ende, la morfología de la onda T."
+    },
+    {
+      "question": "¿La angina de pecho se asocia a qué tipo de isquemia?",
+      "options": [
+        "Isquemia grave y mortal",
+        "Isquemia ligera o moderada",
+        "Isquemia sin dolor asociado",
+        "Isquemia solo al dormir"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La angina de pecho, que es un dolor torácico de origen cardíaco, está típicamente provocada por una isquemia cardíaca de grado ligero o moderado, la cual es suficiente para causar síntomas sin llegar a una destrucción masiva del miocardio."
+    },
+    {
+      "question": "¿Cuál es el ritmo cardíaco normal en un adulto?",
+      "options": [
+        "Menos de 60 latidos por minuto",
+        "Exactamente 100 latidos por minuto",
+        "Aproximadamente 72 latidos por minuto",
+        "Más de 150 latidos por minuto"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La frecuencia cardíaca habitual en un adulto sano se sitúa alrededor de los setenta y dos latidos por minuto, siendo el ritmo sinusal de referencia para determinar las frecuencias anormales como la taquicardia o la bradicardia."
+    },
+    {
+      "question": "¿Qué define el término taquicardia sinusal?",
+      "options": [
+        "Frecuencia cardíaca inferior a 60",
+        "Bloqueo de la conducción AV",
+        "Frecuencia cardíaca mayor a 100",
+        "Latidos ventriculares prematuros"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La taquicardia se define como una frecuencia cardíaca rápida que, en el contexto del ritmo sinusal normal, supera habitualmente los cien latidos por minuto en un adulto, lo cual se diagnostica mediante un electrocardiograma."
+    },
+    {
+      "question": "¿Qué causa la bradicardia en atletas?",
+      "options": [
+        "Debilidad del músculo cardíaco",
+        "Estimulación simpática refleja",
+        "Gran volumen sistólico en reposo",
+        "Temperatura corporal elevada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los atletas bien entrenados tienen un corazón fuerte que bombea un volumen sistólico grande por latido, iniciando reflejos circulatorios que, en reposo, desencadenan una disminución de la frecuencia cardíaca, es decir, bradicardia."
+    },
+    {
+      "question": "¿Cómo se define la bradicardia?",
+      "options": [
+        "Ritmo irregular del marcapasos",
+        "Frecuencia cardíaca lenta",
+        "Ritmo cardíaco de reentrada",
+        "Ritmo ventricular rápido"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El término bradicardia se utiliza para referirse a una frecuencia cardíaca lenta, la cual se establece habitualmente cuando el corazón late a menos de sesenta latidos por minuto en el contexto del ritmo sinusal."
+    },
+    {
+      "question": "¿Qué causa el bloqueo AV de primer grado?",
+      "options": [
+        "Latidos ventriculares fallidos",
+        "Interrupción del ritmo sinusal",
+        "Retraso en la conducción AV",
+        "Disociación P de QRS"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El bloqueo de primer grado se define como un retraso en la conducción del impulso eléctrico desde las aurículas hasta los ventrículos, manifestándose como una prolongación del intervalo P-R a más de 0,20 segundos en el electrocardiograma."
+    },
+    {
+      "question": "¿Qué intervalo se prolonga en el bloqueo AV de primer grado?",
+      "options": [
+        "El complejo QRS-T",
+        "El segmento ST",
+        "El intervalo P-R",
+        "La onda T"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El intervalo P-R representa el tiempo que tarda el impulso eléctrico en viajar desde el inicio de la despolarización auricular (onda P) hasta el inicio de la despolarización ventricular (complejo QRS), siendo su prolongación el signo diagnóstico clave de este tipo de bloqueo."
+    },
+    {
+      "question": "¿Cuál es una causa de extrasístole ventricular?",
+      "options": [
+        "Estimulación vagal intensa",
+        "Aumento del metabolismo sinusal",
+        "Zonas locales de isquemia",
+        "Latidos aurículo-ventriculares"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las zonas locales de isquemia pueden crear focos ectópicos en el corazón, los cuales tienen una excitabilidad anormal y generan impulsos antes del momento en que debería producirse una contracción normal, dando lugar a una extrasístole."
+    },
+    {
+      "question": "¿Cómo se conoce a un latido ventricular fallido?",
+      "options": [
+        "Extrasístole auricular",
+        "Periodicidad de Wenckebach",
+        "Bloqueo de primer grado",
+        "Alternancia eléctrica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La periodicidad de Wenckebach, o bloqueo AV de segundo grado tipo I, se caracteriza por la prolongación progresiva del intervalo P-R hasta que un latido ventricular se pierde (latido fallido) y el ciclo anómalo se reinicia."
+    },
+    {
+      "question": "¿Qué significa el término extrasístole?",
+      "options": [
+        "Contracción después de lo normal",
+        "Frecuencia cardíaca muy rápida",
+        "Contracción antes de lo normal",
+        "Ritmo originado en el nódulo AV"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Una extrasístole es una contracción prematura del corazón que ocurre antes del momento esperado para una contracción normal, y a menudo se debe a focos ectópicos que emiten impulsos anormales en el sistema de conducción cardíaco."
+    },
+    {
+      "question": "¿Qué es el bloqueo auriculoventricular completo?",
+      "options": [
+        "Retraso de la onda P",
+        "Fallo en un latido",
+        "Disociación P y QRS-T",
+        "Bloqueo sinusal intermitente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El bloqueo AV completo, o de tercer grado, implica el cese total de la conducción del impulso desde las aurículas hacia los ventrículos, lo que provoca que las ondas P y los complejos QRS-T se disocien, latiendo los ventrículos con su propio ritmo de escape más lento."
+    },
+    {
+      "question": "¿Cuál es una causa de taquicardia?",
+      "options": [
+        "Descarga parasimpática",
+        "Estimulación simpática",
+        "Presión arterial alta",
+        "Debilidad del marcapasos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La estimulación del corazón por los nervios simpáticos, activada a menudo por una intensa pérdida de sangre o una debilidad miocárdica, provoca un aumento en la frecuencia de descarga del nódulo sinusal, conduciendo a la taquicardia."
+    },
+    {
+      "question": "¿Qué puede causar un bloqueo auriculoventricular?",
+      "options": [
+        "Aumento de la temperatura corporal",
+        "Isquemia del nódulo AV",
+        "Reducción de la presión arterial",
+        "Aceleración del sistema Purkinje"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La isquemia del nódulo auriculoventricular o de las fibras del haz de His, causada por una insuficiencia coronaria, es una de las situaciones más frecuentes que pueden retrasar o bloquear completamente la conducción de los impulsos desde las aurículas hacia los ventrículos."
+    },
+    {
+      "question": "¿Qué muestra un déficit de pulso?",
+      "options": [
+        "Taquicardia sinusal",
+        "Volumen sistólico normal",
+        "Pulso débil tras extrasístole",
+        "Bloqueo AV de primer grado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Un déficit de pulso ocurre cuando una extrasístole se produce antes de que los ventrículos se hayan llenado adecuadamente de sangre, lo que resulta en un volumen sistólico tan disminuido que la onda de pulso no se puede palpar en la arteria radial, mostrando un desajuste con la frecuencia cardíaca real."
+    },
+    {
+      "question": "¿Qué es la arritmia sinusal respiratoria?",
+      "options": [
+        "Aumento fijo de la frecuencia",
+        "Frecuencia que varía con respiración",
+        "Bloqueo total del nódulo AV",
+        "Ritmo de escape ventricular"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La arritmia sinusal respiratoria se debe al desbordamiento de señales desde el centro respiratorio hacia el centro vasomotor, lo que provoca aumentos y disminuciones cíclicas en los impulsos nerviosos que llegan al nódulo sinusal, resultando en que la frecuencia cardíaca varíe con cada ciclo respiratorio."
+    },
+    {
+      "question": "¿Qué pasa si se bloquea el impulso sinusal?",
+      "options": [
+        "Se detiene todo el corazón",
+        "La onda P es normal",
+        "El nódulo AV inicia el ritmo",
+        "Se duplica la frecuencia QRS"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cuando el impulso del nódulo sinusal se bloquea, las aurículas se detienen temporalmente, pero los ventrículos generalmente inician un nuevo ritmo espontáneamente, con el impulso originándose con frecuencia en el nódulo auriculoventricular para mantener la función de bomba del corazón."
+    },
+    {
+      "question": "¿Qué causa la taquicardia por fiebre?",
+      "options": [
+        "Inhibición del nódulo sinusal",
+        "Debilidad miocárdica progresiva",
+        "Aumento de metabolismo sinusal",
+        "Descarga parasimpática intensa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La fiebre produce taquicardia debido a que el aumento de la temperatura corporal incrementa la velocidad del metabolismo del nódulo sinusal, lo que directamente aumenta su excitabilidad y la frecuencia del ritmo de descarga eléctrica del marcapasos cardíaco."
+    },
+    {
+      "question": "¿Qué es el síndrome de Stokes-Adams?",
+      "options": [
+        "Taquicardia ventricular",
+        "Arritmia sinusal",
+        "Episodios de desvanecimiento",
+        "Alternancia eléctrica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El síndrome de Stokes-Adams son episodios de desvanecimiento periódico que ocurren en pacientes con bloqueo auriculoventricular intermitente, debido a que el cerebro no puede mantenerse activo sin aporte sanguíneo durante los segundos de parada cardíaca que suceden antes de que se produzca el escape ventricular."
+    },
+    {
+      "question": "¿Qué es el bloqueo AV de segundo grado tipo II?",
+      "options": [
+        "Prolongación progresiva del P-R",
+        "Anomalía en el nódulo AV",
+        "Número fijo de ondas P no conducidas",
+        "Ritmo benigno sin tratamiento"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El bloqueo AV de segundo grado tipo II se distingue por un número fijo de ondas P que no son conducidas por cada complejo QRS (por ejemplo, 2:1 o 3:1), y su anomalía se localiza típicamente en el haz del sistema de His-Purkinje, requiriendo a menudo un marcapasos."
+    },
+    {
+      "question": "¿Dónde se origina el ritmo de escape ventricular?",
+      "options": [
+        "En el nódulo sinusal",
+        "En las aurículas",
+        "En el sistema de Purkinje distal",
+        "En los nervios vagos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Después de un bloqueo AV completo, la supresión por sobreestimulación impide inicialmente el latido, pero luego una parte del sistema de Purkinje distal al bloqueo, generalmente en el nódulo AV o el haz AV, comienza a descargar rítmicamente a una baja frecuencia, actuando como marcapasos de los ventrículos."
+    },
+    {
+      "question": "¿Qué implica la alternancia eléctrica?",
+      "options": [
+        "Ritmo AV constante",
+        "Bloqueo total del haz AV",
+        "Bloqueo parcial cada dos latidos",
+        "Prolongación P-R fija"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La alternancia eléctrica es una situación que se manifiesta en el ECG debido a un bloqueo intraventricular parcial que ocurre cada dos latidos, a menudo causado por una frecuencia cardíaca rápida que impide la recuperación completa de todas las porciones del sistema de Purkinje."
+    },
+    {
+      "question": "¿Cuál es el fenómeno clave que causa la despolarización prematura en el SQTL?",
+      "options": [
+        "Repolarización muy rápida",
+        "Aumento de velocidad",
+        "Retraso en repolarización",
+        "Falta de despolarización"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La despolarización prematura ocurre debido a una prolongación anormal del potencial de acción ventricular, resultado de un retraso significativo en el proceso de repolarización de las fibras musculares cardíacas. Esta alteración en el tiempo de recuperación eléctrica es la base del síndrome de QT largo y sus arritmias asociadas."
+    },
+    {
+      "question": "¿Cuál es la causa principal del SQTL congénito hereditario?",
+      "options": [
+        "Trastornos de potasio",
+        "Mutaciones de genes",
+        "Uso de antibióticos",
+        "Insuficiencia cardíaca"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las formas congénitas o hereditarias del síndrome de QT largo son afecciones poco comunes que se originan por mutaciones genéticas específicas que afectan directamente a los canales iónicos, como los canales de sodio o de potasio, alterando la duración normal del intervalo Q-T."
+    },
+    {
+      "question": "¿Con qué se asocia principalmente el SQTL adquirido más común?",
+      "options": [
+        "Anomalías genéticas",
+        "Daño miocárdico",
+        "Perturbaciones de electrólitos",
+        "Ejercicio físico intenso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La forma adquirida del síndrome de QT largo es más frecuente y está vinculada a desequilibrios de electrólitos en el plasma sanguíneo, como la hipomagnesemia, la hipopotasemia o la hipocalcemia, así como al uso excesivo de ciertos medicamentos antiarrítmicos o antibióticos que prolongan el intervalo Q-T."
+    },
+    {
+      "question": "¿Qué tipo de evento puede precipitar las arritmias asociadas al SQTL?",
+      "options": [
+        "Reposo completo",
+        "Emociones intensas",
+        "Medicamentos beta",
+        "Dieta saludable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las arritmias ventriculares y los desvanecimientos asociados con el síndrome de QT largo pueden ser desencadenados o precipitados por factores como el ejercicio físico, experimentar emociones fuertes como el miedo o la ira, o incluso por un sobresalto inesperado debido a un ruido fuerte."
+    },
+    {
+      "question": "¿Cuál es el tratamiento recomendado para la fase aguda del SQTL?",
+      "options": [
+        "Bloqueantes beta",
+        "Desfibrilador",
+        "Sulfato de magnesio",
+        "Antibióticos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En el manejo de la fase aguda del síndrome de QT largo, se recomienda el uso de sulfato de magnesio para estabilizar la función eléctrica cardíaca. Para los casos crónicos y de larga duración, el tratamiento puede incluir la implantación quirúrgica de un desfibrilador cardíaco o el uso de bloqueantes beta-adrenérgicos."
+    },
+    {
+      "question": "¿Cuál es el fenómeno propuesto que produce la taquicardia paroxística?",
+      "options": [
+        "Reentrada de movimientos",
+        "Descarga de nódulo sinusal",
+        "Bloqueo de conducción",
+        "Hipertensión arterial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se considera que el fenómeno de la taquicardia paroxística es causado por vías de retroalimentación que generan movimientos circulares de reentrada. Este proceso establece una autoexcitación repetida y localizada que permite que el foco irritable se convierta en el nuevo marcapasos del corazón."
+    },
+    {
+      "question": "¿Qué reflejo se provoca para intentar interrumpir la taquicardia paroxística?",
+      "options": [
+        "Reflejo de tos",
+        "Reflejo de deglución",
+        "Reflejo vagal",
+        "Estimulación eléctrica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La taquicardia paroxística a menudo puede ser detenida mediante la inducción de un reflejo vagal. Esto se logra en ocasiones al aplicar compresión en las regiones de los senos carotídeos en el cuello, lo que genera una respuesta nerviosa parasimpática suficiente para revertir el paroxismo."
+    },
+    {
+      "question": "¿Qué onda se observa típicamente invertida en la taquicardia auricular?",
+      "options": [
+        "Onda Q",
+        "Onda R",
+        "Onda P",
+        "Onda T"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Un hallazgo distintivo en el electrocardiograma durante la taquicardia auricular paroxística es la presencia de una onda P invertida antes de cada complejo QRS-T. Este hallazgo es un indicio de que el origen del impulso anómalo se encuentra en la aurícula, pero lejos del nódulo sinusal."
+    },
+    {
+      "question": "¿Qué le sucede a las ondas P en la taquicardia del nódulo AV?",
+      "options": [
+        "Son muy grandes",
+        "Están ausentes",
+        "Tienen forma normal",
+        "Están duplicadas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La taquicardia paroxística que involucra al nódulo auriculoventricular (AV) da lugar a complejos QRS-T que suelen ser casi normales. Sin embargo, las ondas P correspondientes a la activación auricular se encuentran oscurecidas o están totalmente ausentes en el registro del electrocardiograma."
+    },
+    {
+      "question": "¿Por qué la taquicardia ventricular es generalmente considerada una enfermedad grave?",
+      "options": [
+        "Nunca desaparece",
+        "Inicia fibrilación",
+        "Causa arritmia auricular",
+        "Solo en jóvenes sanos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La taquicardia ventricular paroxística se considera una condición grave por dos razones. Primero, típicamente indica una lesión isquémica considerable en los ventrículos, y segundo, frecuentemente es el evento inicial que desencadena la fibrilación ventricular, una arritmia potencialmente mortal."
+    },
+    {
+      "question": "¿Qué fármaco antiarrítmico se usa para tratar la taquicardia ventricular?",
+      "options": [
+        "Quinidina",
+        "Lidocaína",
+        "Fluoroquinolona",
+        "Eritromicina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fármacos antiarrítmicos como la lidocaína o la amiodarona se emplean en el tratamiento de la taquicardia ventricular. La lidocaína actúa al reducir la permeabilidad al sodio en la membrana celular, bloqueando la descarga rítmica del punto focal que provoca la crisis paroxística."
+    },
+    {
+      "question": "¿Cuál es el efecto principal de la lidocaína sobre el potencial de acción?",
+      "options": [
+        "Aumenta el calcio",
+        "Ralentiza la AV",
+        "Disminuye el sodio",
+        "Prolonga el refractario"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La lidocaína ejerce su efecto terapéutico al disminuir el incremento normal de la permeabilidad de la membrana del músculo cardíaco al ion sodio que ocurre durante la fase de despolarización del potencial de acción. Al hacerlo, ayuda a bloquear los impulsos rítmicos anormales que causan la taquicardia."
+    },
+    {
+      "question": "¿Cuánto tiempo tarda en producirse la inconsciencia tras la fibrilación ventricular?",
+      "options": [
+        "Un minuto",
+        "Cuatro o cinco segundos",
+        "Diez minutos",
+        "Una hora"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tras el comienzo de la fibrilación ventricular, la pérdida de consciencia ocurre de manera casi inmediata, en un plazo de cuatro a cinco segundos, debido a la ausencia de flujo sanguíneo cerebral, ya que los ventrículos dejan de realizar una contracción coordinada y efectiva."
+    },
+    {
+      "question": "¿Cuál de estos factores desencadena la fibrilación ventricular?",
+      "options": [
+        "Digital",
+        "Choque eléctrico",
+        "Hipercalemia",
+        "Fiebre"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las situaciones que presentan una alta probabilidad de desencadenar la fibrilación ventricular incluyen un choque eléctrico súbito aplicado al corazón, así como la isquemia del músculo cardíaco o del sistema de conducción especializado, alterando gravemente su funcionamiento normal."
+    },
+    {
+      "question": "¿Qué condición permite que un impulso reentre en el músculo cardíaco?",
+      "options": [
+        "Vía mucho más larga",
+        "Conducción más rápida",
+        "Período refractario normal",
+        "Corazón más pequeño"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El movimiento circular o reentrada de un impulso se produce si la vía de conducción alrededor del tejido es significativamente más larga de lo normal. Esto permite que, al momento de regresar a su punto de origen, el músculo ya haya salido de su estado refractario y pueda ser excitado de nuevo de forma continua."
+    },
+    {
+      "question": "¿Qué alteración en la velocidad de conducción favorece la reentrada?",
+      "options": [
+        "Aumento de velocidad",
+        "Longitud constante",
+        "Disminución de velocidad",
+        "Período refractario largo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Una condición que favorece la reentrada es la disminución suficiente de la velocidad de conducción a lo largo de la vía, incluso si la longitud de la vía se mantiene constante. Esto aumenta el tiempo de regreso del impulso, asegurando que el músculo ya sea excitable nuevamente, perpetuando el movimiento circular."
+    },
+    {
+      "question": "¿Qué le sucede al período refractario para ser una condición de reentrada?",
+      "options": [
+        "Se prolonga",
+        "Se acorta mucho",
+        "Permanece igual",
+        "Se vuelve variable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El acortamiento marcado del período refractario del músculo cardíaco es otro factor que puede causar reentrada o movimiento circular. Un período refractario más breve permite que el impulso regrese y reexcite el músculo previamente excitado en un tiempo mucho menor al normal, manteniendo la arritmia."
+    },
+    {
+      "question": "¿Qué caracteriza el aleteo auricular respecto a la fibrilación auricular?",
+      "options": [
+        "La onda es única",
+        "La onda es doble",
+        "El ritmo es lento",
+        "No hay diferencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aleteo auricular se distingue de la fibrilación porque la señal eléctrica viaja como una única onda grande y constante en una dirección alrededor de la masa del músculo auricular. En cambio, la fibrilación auricular implica múltiples y pequeños frentes de onda que se propagan de forma errática en diferentes direcciones."
+    },
+    {
+      "question": "¿Cuál es el propósito del choque eléctrico en la desfibrilación?",
+      "options": [
+        "Detener la respiración",
+        "Aumentar la fibrilación",
+        "Sincronizar el músculo",
+        "Bloquear el nódulo AV"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El objetivo de la desfibrilación eléctrica es hacer que todo el músculo ventricular entre en un período refractario de manera simultánea al aplicar una corriente eléctrica de alto voltaje por una fracción de segundo. Esto detiene todos los impulsos, permitiendo que el marcapasos natural del corazón restablezca el ritmo normal."
+    },
+    {
+      "question": "¿Cuál es la razón principal de realizar RCP antes de desfibrilar tardíamente?",
+      "options": [
+        "Para fortalecer el nódulo",
+        "Para asegurar nutrientes",
+        "Para reducir el voltaje",
+        "Para disminuir la hipoxia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La reanimación cardiopulmonar manual se realiza antes de la desfibrilación en casos prolongados porque el corazón puede estar demasiado débil para ser reanimado debido a la falta de aporte de nutrientes por la ausencia de flujo sanguíneo coronario. El bombeo manual renueva temporalmente el suministro coronario necesario."
+    }
+  ]
+}

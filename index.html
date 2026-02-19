@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ceoclinicos</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="topbar-pills">
+        <div class="pills-counter" id="pills-counter" title="Píldoras">
+          <img src="images/pil_ama1.png" alt="" class="pills-icon" width="20" height="20">
+          <span class="pills-count" id="pills-count">0</span>
+        </div>
+      </div>
+      <div class="topbar-spacer" aria-hidden="true"></div>
+      <div class="topbar-left">
+        <a href="#inicio" class="nav-link active" data-page="inicio">
+          <img src="images/btn_inicio.png" alt="" class="nav-icon-img" width="24" height="24">
+          <span class="nav-label">Inicio</span>
+        </a>
+        <a href="#estudiar" class="nav-link" data-page="estudiar">
+          <img src="images/btn_estudiar.png" alt="" class="nav-icon-img" width="24" height="24">
+          <span class="nav-label">Estudiar</span>
+        </a>
+        <a href="#calcular" class="nav-link" data-page="calcular">
+          <img src="images/btn_calcular.png" alt="" class="nav-icon-img" width="24" height="24">
+          <span class="nav-label">Calcular</span>
+        </a>
+        <a href="#diagnostico" class="nav-link" data-page="diagnostico">
+          <img src="images/btn_asistente.png" alt="" class="nav-icon-img" width="24" height="24">
+          <span class="nav-label">Diagnóstico</span>
+        </a>
+        <a href="#ia" class="nav-link" data-page="ia">
+          <img src="images/ia_btn.png" alt="" class="nav-icon-img" width="24" height="24">
+          <span class="nav-label">IA</span>
+        </a>
+        <a href="#generar-guia" class="nav-link" data-page="generar-guia">
+          <img src="images/btn_progreso.png" alt="" class="nav-icon-img" width="24" height="24">
+          <span class="nav-label">Generar Guía</span>
+        </a>
+      </div>
+      <div class="topbar-auth" id="topbar-auth">
+        <span class="topbar-user" id="topbar-user" style="display: none;"></span>
+        <button type="button" id="btn-open-login" class="btn-auth">Iniciar sesión</button>
+        <button type="button" id="btn-open-register" class="btn-auth btn-auth-register">Registrarse</button>
+        <button type="button" id="btn-logout" class="btn-auth btn-auth-logout" style="display: none;">Cerrar sesión</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Modal Login / Registro (como RegistroActivity) -->
+  <div id="auth-overlay" class="auth-overlay" aria-hidden="true"></div>
+  <div id="auth-panel" class="auth-panel" aria-hidden="true">
+    <div class="auth-tabs">
+      <button type="button" id="auth-tab-registro" class="auth-tab">Registrarse</button>
+      <button type="button" id="auth-tab-login" class="auth-tab active">Iniciar sesión</button>
+    </div>
+    <p id="auth-warning" class="auth-warning" role="alert"></p>
+
+    <div id="auth-seccion-registro" class="auth-seccion">
+      <label>Nombre de usuario <input type="text" id="auth-nombre" autocomplete="username" placeholder="Sin espacios"></label>
+      <label>Contraseña <input type="password" id="auth-password" autocomplete="new-password" placeholder="Mín. 4 caracteres"></label>
+      <label>Edad <select id="auth-edad"><option value="">Selecciona</option></select></label>
+      <label>Sexo
+        <span class="auth-radio"><input type="radio" name="auth-sexo" id="auth-sexo-m" value="M"><label for="auth-sexo-m">Masculino</label></span>
+        <span class="auth-radio"><input type="radio" name="auth-sexo" id="auth-sexo-f" value="F"><label for="auth-sexo-f">Femenino</label></span>
+      </label>
+      <label>Profesión <select id="auth-profesion">
+        <option value="">Selecciona</option>
+        <option value="Médico">Médico</option>
+        <option value="Enfermero">Enfermero</option>
+        <option value="Estudiante">Estudiante</option>
+        <option value="Otro">Otro</option>
+      </select></label>
+      <label>País <select id="auth-pais">
+        <option value="">Selecciona</option>
+        <option value="Argentina">Argentina</option>
+        <option value="Bolivia">Bolivia</option>
+        <option value="Brasil">Brasil</option>
+        <option value="Chile">Chile</option>
+        <option value="Colombia">Colombia</option>
+        <option value="Costa Rica">Costa Rica</option>
+        <option value="Cuba">Cuba</option>
+        <option value="Ecuador">Ecuador</option>
+        <option value="El Salvador">El Salvador</option>
+        <option value="España">España</option>
+        <option value="Guatemala">Guatemala</option>
+        <option value="Honduras">Honduras</option>
+        <option value="México">México</option>
+        <option value="Nicaragua">Nicaragua</option>
+        <option value="Panamá">Panamá</option>
+        <option value="Paraguay">Paraguay</option>
+        <option value="Perú">Perú</option>
+        <option value="Rep. Dominicana">Rep. Dominicana</option>
+        <option value="Uruguay">Uruguay</option>
+        <option value="Venezuela">Venezuela</option>
+        <option value="Otro">Otro</option>
+      </select></label>
+      <label>Instagram (opcional) <input type="text" id="auth-instagram" placeholder="@usuario"></label>
+      <button type="button" id="auth-btn-registrar" class="btn btn-primary">Registrarse</button>
+    </div>
+
+    <div id="auth-seccion-login" class="auth-seccion hidden">
+      <label>Nombre de usuario <input type="text" id="auth-login-nombre" autocomplete="username"></label>
+      <label>Contraseña <input type="password" id="auth-login-password" autocomplete="current-password"></label>
+      <button type="button" id="auth-btn-login" class="btn btn-primary">Iniciar sesión</button>
+    </div>
+
+    <button type="button" id="auth-btn-cerrar" class="btn btn-ghost">Cerrar</button>
+  </div>
+
+  <main class="main">
+    <section id="inicio" class="page active">
+      <h1 class="title">Ceoclinicos</h1>
+      <p class="subtitle">Elige una materia para estudiar</p>
+      <div id="materias-grid" class="materias-grid"></div>
+    </section>
+
+    <section id="estudiar" class="page">
+      <h2 class="title">Estudiar</h2>
+      <p class="subtitle">Elige un tema para ver la guía o jugar el quiz.</p>
+      <div class="estudiar-tabs" role="tablist">
+        <button type="button" class="estudiar-tab active" role="tab" id="tab-temas" aria-selected="true" data-tab="temas">Temas</button>
+        <button type="button" class="estudiar-tab" role="tab" id="tab-guias" aria-selected="false" data-tab="guias">Guías</button>
+        <button type="button" class="estudiar-tab" role="tab" id="tab-favoritos" aria-selected="false" data-tab="favoritos">Favoritos</button>
+      </div>
+      <div id="estudiar-panel-temas" class="estudiar-panel-content active" role="tabpanel" aria-labelledby="tab-temas">
+        <div id="estudiar-grid" class="materias-grid"></div>
+      </div>
+      <div id="estudiar-panel-guias" class="estudiar-panel-content" role="tabpanel" aria-labelledby="tab-guias" hidden>
+        <div id="guias-grid" class="guias-grid"></div>
+      </div>
+      <div id="estudiar-panel-favoritos" class="estudiar-panel-content" role="tabpanel" aria-labelledby="tab-favoritos" hidden>
+        <div id="favoritos-grid" class="materias-grid"></div>
+        <p id="favoritos-empty" class="favoritos-empty" style="display: none;">Aún no tienes favoritos. Marca temas o guías como favoritos para verlos aquí.</p>
+      </div>
+      <div id="estudiar-overlay" class="panel-overlay" aria-hidden="true"></div>
+      <div id="estudiar-panel" class="panel-detalle" aria-hidden="true">
+        <h3 id="estudiar-panel-titulo"></h3>
+        <p id="estudiar-panel-desc"></p>
+        <p id="estudiar-panel-preguntas" class="materia-preguntas"></p>
+        <div id="estudiar-panel-bloqueado" class="panel-bloqueado">
+          <p id="estudiar-panel-precio"></p>
+          <button type="button" id="estudiar-btn-desbloquear" class="btn btn-primary">Desbloquear</button>
+        </div>
+        <div id="estudiar-panel-acciones" class="panel-acciones">
+          <a id="estudiar-btn-guia" href="#" target="_blank" rel="noopener" class="btn btn-secondary">Ver guía PDF</a>
+          <button type="button" id="estudiar-btn-jugar" class="btn btn-primary">Jugar quiz</button>
+        </div>
+        <button type="button" id="estudiar-btn-cerrar" class="btn btn-ghost">Cerrar</button>
+      </div>
+    </section>
+    <section id="calcular" class="page">
+      <h2>Calcular</h2>
+      <p>Calculadoras clínicas (IMC, TFG, Framingham, etc.) disponibles en la app.</p>
+    </section>
+    <section id="diagnostico" class="page">
+      <h2>Diagnóstico</h2>
+      <p>Asistente de diagnóstico por casos clínicos en la app.</p>
+    </section>
+    <section id="ia" class="page">
+      <h2>IA</h2>
+      <p>Herramientas con IA en la aplicación Ceoclinicos.</p>
+    </section>
+    <section id="generar-guia" class="page">
+      <h2>Generar Guía</h2>
+      <p>Genera guías en PDF desde la app.</p>
+    </section>
+
+    <!-- Quiz (oculto hasta que se pulse Jugar) -->
+    <section id="quiz-view" class="quiz-view" aria-hidden="true">
+      <div class="quiz-header">
+        <span id="quiz-tema-label" class="quiz-tema"></span>
+        <span id="quiz-counter" class="quiz-counter">1 / 10</span>
+      </div>
+      <div class="quiz-body">
+        <p id="quiz-question" class="quiz-question"></p>
+        <div id="quiz-options" class="quiz-options"></div>
+        <div id="quiz-feedback" class="quiz-feedback" aria-hidden="true">
+          <p id="quiz-feedback-msg" class="quiz-feedback-msg"></p>
+          <p id="quiz-feedback-explicacion" class="quiz-feedback-explicacion"></p>
+          <button type="button" id="quiz-btn-siguiente" class="btn btn-primary">Siguiente</button>
+        </div>
+      </div>
+      <div class="quiz-nav">
+        <button type="button" id="quiz-btn-salir" class="btn btn-ghost">Salir</button>
+      </div>
+    </section>
+    <section id="quiz-final" class="quiz-final" aria-hidden="true">
+      <h2>Quiz completado</h2>
+      <p id="quiz-final-score" class="quiz-final-score"></p>
+      <p id="quiz-final-mensaje" class="quiz-final-mensaje"></p>
+      <button type="button" id="quiz-final-reintentar" class="btn btn-primary">Reintentar</button>
+      <button type="button" id="quiz-final-salir" class="btn btn-secondary">Volver a Estudiar</button>
+    </section>
+  </main>
+
+  <script src="content-paths.js"></script>
+  <script src="pildoras.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-firestore-compat.js"></script>
+  <script src="firebase-config.js"></script>
+  <script src="auth-service.js"></script>
+  <script src="temas-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
