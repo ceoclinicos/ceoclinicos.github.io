@@ -57,7 +57,7 @@ body {
   display: flex;
   align-items: center;
   flex-wrap: nowrap;
-  gap: 22px;
+  gap: 50px;
   flex: 0 0 auto;
   min-width: 0;
 }
@@ -130,15 +130,15 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 6px 32px;
+  padding: 6px 44px;
   color: rgba(255,255,255,0.85);
   text-decoration: none;
   font-size: 11px;
   font-weight: 500;
   border-radius: 8px;
   transition: background 0.2s, color 0.2s;
-  min-width: 0;
-  flex: 1;
+  flex: 0 0 auto;
+  min-width: 80px;
 }
 
 .nav-link:hover {
@@ -157,9 +157,6 @@ body {
 
 .nav-label {
   white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 100%;
 }
 
 @media (min-width: 600px) {

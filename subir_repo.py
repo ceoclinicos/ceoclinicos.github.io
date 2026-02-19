@@ -1,10 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Sube carpetas o archivos del proyecto al repositorio de GitHub.
-Con interfaz gráfica o por línea de comandos.
+Sube uno o varios archivos/carpetas al repositorio de GitHub.
+- Una carpeta: se sube ella y todo su contenido.
+- Varios archivos/carpetas: se añaden todos en un solo commit y push.
+
 Uso:
-  python subir_repo.py                    → abre la interfaz gráfica
-  python subir_repo.py website_clinicos "actualizar guías"  → CLI y pausa al final
+  python subir_repo.py                          → abre la interfaz gráfica
+  python subir_repo.py . "mensaje"              → sube la carpeta actual (CLI, pausa al final)
+  python subir_repo.py guias.json "actualizar"  → sube un archivo
+  python subir_repo.py app.js index.html "cambios web"  → sube varios archivos (último arg = mensaje)
 """
 import os
 import sys
@@ -15,48 +19,68 @@ from tkinter import ttk, filedialog, messagebox, scrolledtext
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
-def subir(ruta, mensaje, log_fn=None):
-    """Ejecuta git add, commit, push. log_fn(texto) para mostrar salida. Devuelve (ok, texto_salida)."""
+def _rutas_a_lista(ruta_o_lista):
+    """Convierte string (una o varias líneas/comas) o lista en lista de rutas normalizadas."""
+    if isinstance(ruta_o_lista, (list, tuple)):
+        lista = list(ruta_o_lista)
+    else:
+        s = (ruta_o_lista or "").strip().replace(",", "\n")
+        lista = [x.strip() for x in s.splitlines() if x.strip()]
+    return [os.path.normpath(p) for p in lista]
+
+
+def subir(ruta_o_rutas, mensaje, log_fn=None):
+    """Sube uno o más archivos/carpetas: git add de todos, un commit y push.
+    ruta_o_rutas: path (str) o varios separados por coma/línea, o lista de paths.
+    Devuelve (ok, texto_salida)."""
     def log(s):
         if log_fn:
             log_fn(s)
         else:
             print(s)
 
-    if not os.path.exists(ruta):
-        log("No existe la ruta: " + ruta)
-        return False, "No existe la ruta."
+    rutas = _rutas_a_lista(ruta_o_rutas)
+    if not rutas:
+        log("No hay ninguna ruta indicada.")
+        return False, "Sin rutas"
 
-    cwd = ruta if os.path.isdir(ruta) else os.path.dirname(ruta)
+    for r in rutas:
+        if not os.path.exists(r):
+            log("No existe: " + r)
+            return False, "No existe la ruta."
+
+    cwd = os.path.dirname(rutas[0]) if os.path.isfile(rutas[0]) else rutas[0]
     p = subprocess.run(
         ["git", "rev-parse", "--show-toplevel"],
         cwd=cwd, capture_output=True, text=True, timeout=5
     )
     if p.returncode != 0:
-        cwd = SCRIPT_DIR
         p = subprocess.run(
             ["git", "rev-parse", "--show-toplevel"],
-            cwd=cwd, capture_output=True, text=True, timeout=5
+            cwd=SCRIPT_DIR, capture_output=True, text=True, timeout=5
         )
     if p.returncode != 0:
         log("No se encontró un repositorio git.")
-        return False, "No se encontró un repositorio git."
+        return False, "No hay repo git."
 
     repo_root = p.stdout.strip()
-    rel = os.path.relpath(ruta, repo_root)
-    if rel.startswith(".."):
-        log("La ruta está fuera del repositorio.")
-        return False, "Ruta fuera del repo."
+    rels = []
+    for r in rutas:
+        rel = os.path.relpath(r, repo_root)
+        if rel.startswith(".."):
+            log("Fuera del repo: " + r)
+            return False, "Ruta fuera del repo"
+        rels.append(rel)
 
     log("Repo: " + repo_root)
-    log("Añadiendo: " + rel)
+    log("Añadiendo: " + ", ".join(rels))
     log("Mensaje: " + mensaje)
     log("")
 
-    add = subprocess.run(["git", "add", rel], cwd=repo_root, capture_output=True, text=True, timeout=10)
+    add = subprocess.run(["git", "add"] + rels, cwd=repo_root, capture_output=True, text=True, timeout=15)
     if add.returncode != 0:
         log("Error git add: " + (add.stderr or add.stdout or ""))
-        return False, add.stderr or add.stdout or "Error en git add"
+        return False, add.stderr or add.stdout or "Error git add"
 
     commit = subprocess.run(["git", "commit", "-m", mensaje], cwd=repo_root, capture_output=True, text=True, timeout=10)
     log(commit.stdout or "")
@@ -77,14 +101,19 @@ def subir(ruta, mensaje, log_fn=None):
 
 
 def main_cli():
-    """Modo línea de comandos: sube y pausa al final para ver errores."""
+    """Modo línea de comandos: sube uno o más paths. Si hay 2+ args, el último es el mensaje. Pausa al final."""
     script_dir = SCRIPT_DIR
-    if len(sys.argv) >= 2 and sys.argv[1].strip():
-        path_arg = sys.argv[1].strip()
-        ruta = os.path.normpath(os.path.join(script_dir, path_arg))
-    else:
+    args = [x.strip() for x in sys.argv[1:] if x.strip()]
+    if not args:
         ruta = os.path.join(script_dir, ".")
-    mensaje = "Actualizar contenido" if len(sys.argv) < 3 else sys.argv[2].strip()
+        mensaje = "Actualizar contenido"
+    elif len(args) == 1:
+        ruta = os.path.normpath(os.path.join(script_dir, args[0]))
+        mensaje = "Actualizar contenido"
+    else:
+        mensaje = args[-1]
+        paths = [os.path.normpath(os.path.join(script_dir, p)) for p in args[:-1]]
+        ruta = paths[0] if len(paths) == 1 else paths
 
     ok, _ = subir(ruta, mensaje)
     print("")
@@ -98,16 +127,24 @@ def main_gui():
     root.geometry("620x420")
     root.minsize(500, 350)
 
-    # Ruta
-    f_path = ttk.LabelFrame(root, text="Carpeta o archivo a subir", padding=10)
+    # Rutas (una o varias líneas = una o varias carpetas/archivos)
+    f_path = ttk.LabelFrame(root, text="Carpeta(s) o archivo(s) a subir (uno por línea, o varios)", padding=10)
     f_path.pack(fill=tk.X, padx=10, pady=5)
-    var_ruta = tk.StringVar(value=os.path.join(SCRIPT_DIR, "."))
-    ttk.Entry(f_path, textvariable=var_ruta, width=70).pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 8))
-    def elegir():
-        d = filedialog.askdirectory(initialdir=var_ruta.get() or SCRIPT_DIR, title="Seleccionar carpeta")
+    txt_rutas = tk.Text(f_path, height=3, width=70, font=("Consolas", 9))
+    txt_rutas.insert("1.0", os.path.join(SCRIPT_DIR, "."))
+    txt_rutas.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 8))
+    fr_btns = ttk.Frame(f_path)
+    fr_btns.pack(side=tk.RIGHT)
+    def elegir_carpeta():
+        d = filedialog.askdirectory(initialdir=SCRIPT_DIR, title="Seleccionar carpeta")
         if d:
-            var_ruta.set(d)
-    ttk.Button(f_path, text="Elegir carpeta", command=elegir).pack(side=tk.LEFT)
+            txt_rutas.insert(tk.END, "\n" + d)
+    def elegir_archivos():
+        fs = filedialog.askopenfilenames(initialdir=SCRIPT_DIR, title="Seleccionar archivo(s)")
+        if fs:
+            txt_rutas.insert(tk.END, "\n" + "\n".join(fs))
+    ttk.Button(fr_btns, text="+ Carpeta", command=elegir_carpeta).pack(fill=tk.X, pady=1)
+    ttk.Button(fr_btns, text="+ Archivos", command=elegir_archivos).pack(fill=tk.X, pady=1)
 
     # Mensaje commit
     f_msg = ttk.LabelFrame(root, text="Mensaje del commit", padding=10)
@@ -127,13 +164,13 @@ def main_gui():
         root.update_idletasks()
 
     def hacer_subida():
-        ruta = var_ruta.get().strip()
+        rutas_texto = txt_rutas.get("1.0", tk.END).strip()
         msg = var_msg.get().strip() or "Actualizar contenido"
-        if not ruta:
-            messagebox.showwarning("Falta ruta", "Indica la carpeta o archivo a subir.")
+        if not rutas_texto:
+            messagebox.showwarning("Falta ruta", "Indica al menos una carpeta o archivo a subir.")
             return
         txt.delete(1.0, tk.END)
-        ok, _ = subir(ruta, msg, log_fn=log)
+        ok, _ = subir(rutas_texto, msg, log_fn=log)
         if ok:
             messagebox.showinfo("Listo", "Cambios subidos al repositorio.")
         else:
