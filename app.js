@@ -1,5 +1,6 @@
 (function () {
   var grid = document.getElementById('materias-grid');
+  if (!grid) grid = null;
 
   function updatePillsDisplay() {
     var el = document.getElementById('pills-count');
@@ -50,6 +51,7 @@
   }
 
   function renderTemas(temas) {
+    if (!grid) return;
     grid.innerHTML = '';
     (temas || []).forEach(function (t) {
       var card = document.createElement('a');
@@ -87,21 +89,24 @@
     }
   }
 
-  initTemas();
+  if (grid) initTemas();
 
   var navLinks = document.querySelectorAll('.nav-link');
   var pages = document.querySelectorAll('.page');
 
   function showPage(id) {
     document.body.classList.remove('quiz-active');
-    document.getElementById('quiz-view').classList.remove('visible');
-    document.getElementById('quiz-final').classList.remove('visible');
+    var qv = document.getElementById('quiz-view');
+    var qf = document.getElementById('quiz-final');
+    if (qv) qv.classList.remove('visible');
+    if (qf) qf.classList.remove('visible');
     pages.forEach(function (p) {
       p.classList.toggle('active', p.id === id);
     });
     navLinks.forEach(function (a) {
       a.classList.toggle('active', a.getAttribute('data-page') === id);
     });
+    if (id === 'estudiar' && typeof loadGuias === 'function') loadGuias();
   }
 
   navLinks.forEach(function (a) {
@@ -113,162 +118,18 @@
 
   window.addEventListener('hashchange', function () {
     var id = (location.hash || '#inicio').slice(1) || 'inicio';
-    var valid = ['inicio', 'estudiar', 'calcular', 'diagnostico', 'ia', 'generar-guia'].indexOf(id) !== -1;
+    var valid = ['inicio', 'estudiar', 'ia'].indexOf(id) !== -1;
     showPage(valid ? id : 'inicio');
+    if (valid && id === 'estudiar' && typeof loadGuias === 'function') loadGuias();
   });
 
   if (location.hash) {
     var id = location.hash.slice(1);
-    if (['inicio', 'estudiar', 'calcular', 'diagnostico', 'ia', 'generar-guia'].indexOf(id) !== -1) {
-      showPage(id);
-    }
+    if (['inicio', 'estudiar', 'ia'].indexOf(id) !== -1) showPage(id);
   }
 
-  // --- Estudiar: temas con bloqueo y panel detalle ---
-  var estudiarGrid = document.getElementById('estudiar-grid');
-  var overlay = document.getElementById('estudiar-overlay');
-  var panel = document.getElementById('estudiar-panel');
-  var panelTitulo = document.getElementById('estudiar-panel-titulo');
-  var panelDesc = document.getElementById('estudiar-panel-desc');
-  var panelPreguntas = document.getElementById('estudiar-panel-preguntas');
-  var panelBloqueado = document.getElementById('estudiar-panel-bloqueado');
-  var panelAcciones = document.getElementById('estudiar-panel-acciones');
-  var btnDesbloquear = document.getElementById('estudiar-btn-desbloquear');
-  var btnGuia = document.getElementById('estudiar-btn-guia');
-  var btnJugar = document.getElementById('estudiar-btn-jugar');
-  var btnCerrar = document.getElementById('estudiar-btn-cerrar');
-  var temaActualPanel = null;
-
-  function precioPildoras(tema) {
-    var p = tema.precioPildoras;
-    if (typeof p === 'number' && p >= 0) return p;
-    return 30;
-  }
-
-  function estaDesbloqueado(tema) {
-    if ((tema.numPreguntas || 0) < 50) return true;
-    return window.PildorasService && PildorasService.isThemeUnlocked(tema.id);
-  }
-
-  function renderEstudiarGrid(temas) {
-    if (!estudiarGrid) return;
-    estudiarGrid.innerHTML = '';
-    (temas || []).forEach(function (t) {
-      var card = document.createElement('button');
-      card.type = 'button';
-      card.className = 'materia-card' + (t.tieneGuia ? ' has-guia' : '') + (estaDesbloqueado(t) ? '' : ' locked');
-      card.innerHTML =
-        '<p class="materia-titulo">' + escapeHtml(t.titulo) + '</p>' +
-        '<p class="materia-meta">' + escapeHtml(t.descripcion || '') + '</p>' +
-        '<p class="materia-preguntas">' + (t.numPreguntas || 0) + ' preguntas</p>' +
-        (!estaDesbloqueado(t) ? '<span class="card-lock" aria-hidden="true">🔒</span>' : '');
-      card.addEventListener('click', function () { openPanel(t); });
-      estudiarGrid.appendChild(card);
-    });
-  }
-
-  function openPanel(tema) {
-    temaActualPanel = tema;
-    var desbloq = estaDesbloqueado(tema);
-    panelTitulo.textContent = tema.titulo;
-    panelDesc.textContent = tema.descripcion || '';
-    panelPreguntas.textContent = (tema.numPreguntas || 0) + ' preguntas';
-    panelBloqueado.style.display = desbloq ? 'none' : 'block';
-    panelAcciones.style.display = desbloq ? 'flex' : 'none';
-    if (!desbloq) {
-      var precio = precioPildoras(tema);
-      document.getElementById('estudiar-panel-precio').textContent = 'Desbloquear con ' + precio + ' píldoras (tienes ' + (PildorasService ? PildorasService.get() : 0) + ')';
-      btnDesbloquear.disabled = !(PildorasService && PildorasService.canSpend(precio));
-    }
-    btnGuia.href = tema.pdfUrl || '#';
-    btnGuia.classList.toggle('hidden', !(tema.tieneGuia && tema.pdfUrl));
-    overlay.classList.add('visible');
-    panel.classList.add('visible');
-    overlay.setAttribute('aria-hidden', 'false');
-    panel.setAttribute('aria-hidden', 'false');
-  }
-
-  function closePanel() {
-    overlay.classList.remove('visible');
-    panel.classList.remove('visible');
-    overlay.setAttribute('aria-hidden', 'true');
-    panel.setAttribute('aria-hidden', 'true');
-    temaActualPanel = null;
-    renderEstudiarGrid(window.ESTUDIAR_TEMAS || []);
-  }
-
-  overlay.addEventListener('click', closePanel);
-  btnCerrar.addEventListener('click', closePanel);
-  btnDesbloquear.addEventListener('click', function () {
-    if (!temaActualPanel || !PildorasService) return;
-    var precio = precioPildoras(temaActualPanel);
-    if (!PildorasService.spend(precio)) return;
-    PildorasService.unlockTheme(temaActualPanel.id);
-    closePanel();
-  });
-  btnJugar.addEventListener('click', function () {
-    if (!temaActualPanel) return;
-    var temaParaQuiz = temaActualPanel;
-    closePanel();
-    startQuiz(temaParaQuiz);
-  });
-
-  function loadEstudiarTemas() {
-    var temas = (window.TEMAS_DATA && window.TEMAS_DATA.temas) || [];
-    var base = window.ContentPaths ? ContentPaths.temasCatalog() : '';
-    if (base) {
-      fetch(base)
-        .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
-        .then(function (data) {
-          if (data && data.temas && data.temas.length) temas = data.temas;
-          window.ESTUDIAR_TEMAS = temas;
-          renderEstudiarGrid(temas);
-        })
-        .catch(function () {
-          window.ESTUDIAR_TEMAS = temas;
-          renderEstudiarGrid(temas);
-        });
-    } else {
-      window.ESTUDIAR_TEMAS = temas;
-      renderEstudiarGrid(temas);
-    }
-  }
-  loadEstudiarTemas();
-
-  // --- Estudiar: pestañas Temas / Guías / Favoritos ---
-  var estudiarTabs = document.querySelectorAll('.estudiar-tab');
-  var estudiarPanels = {
-    temas: document.getElementById('estudiar-panel-temas'),
-    guias: document.getElementById('estudiar-panel-guias'),
-    favoritos: document.getElementById('estudiar-panel-favoritos')
-  };
+  // --- Estudiar: solo guías ---
   var guiasGrid = document.getElementById('guias-grid');
-  var favoritosGrid = document.getElementById('favoritos-grid');
-  var favoritosEmpty = document.getElementById('favoritos-empty');
-  var FAVORITOS_KEY = 'ceoclinicos_favoritos';
-
-  function showEstudiarTab(tabId) {
-    estudiarTabs.forEach(function (btn) {
-      var isActive = btn.getAttribute('data-tab') === tabId;
-      btn.classList.toggle('active', isActive);
-      btn.setAttribute('aria-selected', isActive);
-    });
-    Object.keys(estudiarPanels).forEach(function (key) {
-      var panel = estudiarPanels[key];
-      if (!panel) return;
-      var show = key === tabId;
-      panel.classList.toggle('active', show);
-      panel.hidden = !show;
-    });
-    if (tabId === 'guias') loadGuias();
-    if (tabId === 'favoritos') renderFavoritos();
-  }
-
-  estudiarTabs.forEach(function (btn) {
-    btn.addEventListener('click', function () {
-      showEstudiarTab(btn.getAttribute('data-tab'));
-    });
-  });
 
   function renderGuiasGrid(guias) {
     if (!guiasGrid) return;
@@ -316,35 +177,7 @@
       });
   }
 
-  function getFavoritos() {
-    try {
-      var raw = localStorage.getItem(FAVORITOS_KEY);
-      return raw ? JSON.parse(raw) : [];
-    } catch (e) { return []; }
-  }
-
-  function renderFavoritos() {
-    var list = getFavoritos();
-    if (favoritosGrid) favoritosGrid.innerHTML = '';
-    if (favoritosEmpty) favoritosEmpty.style.display = list.length ? 'none' : 'block';
-    if (!favoritosGrid) return;
-    list.forEach(function (item) {
-      var card = document.createElement(item.url ? 'a' : 'div');
-      if (item.url) {
-        card.href = item.url;
-        card.target = '_blank';
-        card.rel = 'noopener';
-      }
-      card.className = 'materia-card guia-card';
-      card.innerHTML =
-        '<p class="materia-titulo">' + escapeHtml(item.titulo || '') + '</p>' +
-        '<p class="materia-meta">' + escapeHtml(item.descripcion || '') + '</p>' +
-        (item.url ? '<span class="guia-descarga">Descargar</span>' : '');
-      favoritosGrid.appendChild(card);
-    });
-  }
-
-  // --- Quiz ---
+  // --- Quiz (oculto; solo guías en Estudiar) ---
   var quizQuestions = [];
   var quizTema = null;
   var quizIndex = 0;
@@ -668,4 +501,6 @@
       if (window.updatePillsDisplay) updatePillsDisplay();
     });
   }
+
+  if ((location.hash || '#inicio').slice(1) === 'estudiar') loadGuias();
 })();

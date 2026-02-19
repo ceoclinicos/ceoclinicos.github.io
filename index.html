@@ -25,21 +25,9 @@
           <img src="images/btn_estudiar.png" alt="" class="nav-icon-img" width="24" height="24">
           <span class="nav-label">Estudiar</span>
         </a>
-        <a href="#calcular" class="nav-link" data-page="calcular">
-          <img src="images/btn_calcular.png" alt="" class="nav-icon-img" width="24" height="24">
-          <span class="nav-label">Calcular</span>
-        </a>
-        <a href="#diagnostico" class="nav-link" data-page="diagnostico">
-          <img src="images/btn_asistente.png" alt="" class="nav-icon-img" width="24" height="24">
-          <span class="nav-label">Diagnóstico</span>
-        </a>
         <a href="#ia" class="nav-link" data-page="ia">
           <img src="images/ia_btn.png" alt="" class="nav-icon-img" width="24" height="24">
           <span class="nav-label">IA</span>
-        </a>
-        <a href="#generar-guia" class="nav-link" data-page="generar-guia">
-          <img src="images/btn_progreso.png" alt="" class="nav-icon-img" width="24" height="24">
-          <span class="nav-label">Generar Guía</span>
         </a>
       </div>
       <div class="topbar-auth" id="topbar-auth">
@@ -115,59 +103,18 @@
   <main class="main">
     <section id="inicio" class="page active">
       <h1 class="title">Ceoclinicos</h1>
-      <p class="subtitle">Elige una materia para estudiar</p>
-      <div id="materias-grid" class="materias-grid"></div>
+      <p class="subtitle">Guías de estudio en PDF. Entra en Estudiar para descargar.</p>
     </section>
 
     <section id="estudiar" class="page">
       <h2 class="title">Estudiar</h2>
-      <p class="subtitle">Elige un tema para ver la guía o jugar el quiz.</p>
-      <div class="estudiar-tabs" role="tablist">
-        <button type="button" class="estudiar-tab active" role="tab" id="tab-temas" aria-selected="true" data-tab="temas">Temas</button>
-        <button type="button" class="estudiar-tab" role="tab" id="tab-guias" aria-selected="false" data-tab="guias">Guías</button>
-        <button type="button" class="estudiar-tab" role="tab" id="tab-favoritos" aria-selected="false" data-tab="favoritos">Favoritos</button>
-      </div>
-      <div id="estudiar-panel-temas" class="estudiar-panel-content active" role="tabpanel" aria-labelledby="tab-temas">
-        <div id="estudiar-grid" class="materias-grid"></div>
-      </div>
-      <div id="estudiar-panel-guias" class="estudiar-panel-content" role="tabpanel" aria-labelledby="tab-guias" hidden>
-        <div id="guias-grid" class="guias-grid"></div>
-      </div>
-      <div id="estudiar-panel-favoritos" class="estudiar-panel-content" role="tabpanel" aria-labelledby="tab-favoritos" hidden>
-        <div id="favoritos-grid" class="materias-grid"></div>
-        <p id="favoritos-empty" class="favoritos-empty" style="display: none;">Aún no tienes favoritos. Marca temas o guías como favoritos para verlos aquí.</p>
-      </div>
-      <div id="estudiar-overlay" class="panel-overlay" aria-hidden="true"></div>
-      <div id="estudiar-panel" class="panel-detalle" aria-hidden="true">
-        <h3 id="estudiar-panel-titulo"></h3>
-        <p id="estudiar-panel-desc"></p>
-        <p id="estudiar-panel-preguntas" class="materia-preguntas"></p>
-        <div id="estudiar-panel-bloqueado" class="panel-bloqueado">
-          <p id="estudiar-panel-precio"></p>
-          <button type="button" id="estudiar-btn-desbloquear" class="btn btn-primary">Desbloquear</button>
-        </div>
-        <div id="estudiar-panel-acciones" class="panel-acciones">
-          <a id="estudiar-btn-guia" href="#" target="_blank" rel="noopener" class="btn btn-secondary">Ver guía PDF</a>
-          <button type="button" id="estudiar-btn-jugar" class="btn btn-primary">Jugar quiz</button>
-        </div>
-        <button type="button" id="estudiar-btn-cerrar" class="btn btn-ghost">Cerrar</button>
-      </div>
+      <p class="subtitle">Guías en PDF para descargar.</p>
+      <div id="guias-grid" class="guias-grid"></div>
     </section>
-    <section id="calcular" class="page">
-      <h2>Calcular</h2>
-      <p>Calculadoras clínicas (IMC, TFG, Framingham, etc.) disponibles en la app.</p>
-    </section>
-    <section id="diagnostico" class="page">
-      <h2>Diagnóstico</h2>
-      <p>Asistente de diagnóstico por casos clínicos en la app.</p>
-    </section>
+
     <section id="ia" class="page">
       <h2>IA</h2>
       <p>Herramientas con IA en la aplicación Ceoclinicos.</p>
-    </section>
-    <section id="generar-guia" class="page">
-      <h2>Generar Guía</h2>
-      <p>Genera guías en PDF desde la app.</p>
     </section>
 
     <!-- Quiz (oculto hasta que se pulse Jugar) -->
