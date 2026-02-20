@@ -731,21 +731,21 @@
       var err = validate(params);
       if (err) { alert(err); return; }
 
-      var pills = window.PildorasService ? PildorasService.get() : 0;
-      if (pills < h.costo) {
-        alert('No tienes suficientes píldoras. Necesitas ' + h.costo + ' y tienes ' + pills + '.');
-        return;
-      }
+      // var pills = window.PildorasService ? PildorasService.get() : 0;
+      // if (pills < h.costo) {
+      //   alert('No tienes suficientes píldoras. Necesitas ' + h.costo + ' y tienes ' + pills + '.');
+      //   return;
+      // }
 
       setLoading(true, 'Generando ' + h.nombre + '…');
       resultCard.style.display = 'none';
 
       IAService.generar(h.id, params)
         .then(function (html) {
-          if (window.PildorasService) {
-            PildorasService.spend(h.costo);
-            if (window.updatePillsDisplay) updatePillsDisplay();
-          }
+          // if (window.PildorasService) {
+          //   PildorasService.spend(h.costo);
+          //   if (window.updatePillsDisplay) updatePillsDisplay();
+          // }
           contenidoGuardado[h.id] = html;
           resultContent.innerHTML = html;
           resultCard.style.display = '';
