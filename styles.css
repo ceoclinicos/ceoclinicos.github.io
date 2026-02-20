@@ -596,6 +596,7 @@ body.quiz-active .main .quiz-final.visible { display: block !important; }
   background: #fff;
   cursor: pointer;
 }
+.ia-select-small { max-width: 160px; }
 .ia-info-box {
   display: flex;
   align-items: flex-start;

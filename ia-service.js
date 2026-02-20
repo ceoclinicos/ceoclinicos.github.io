@@ -1,13 +1,18 @@
 /**
  * Servicio de IA para el sitio web - replica IAReadOnlyActivity.kt
- * Llama a la API de Gemini (REST) para generar contenido médico.
+ * Usa un proxy en Vercel para proteger la API key de Gemini.
+ * Fallback: llamada directa si se configura api-keys.js (solo desarrollo local).
  */
 (function () {
   'use strict';
 
-  var GEMINI_API_KEY = 'AIzaSyCCESHOoSULYuvxiTaEcKNyt8N2OFpBkFg';
-  var GEMINI_MODEL = 'gemini-2.5-flash';
-  var GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/models/' + GEMINI_MODEL + ':generateContent?key=' + GEMINI_API_KEY;
+  var cfg = window.AI_CONFIG || {};
+  var VERCEL_API_URL = cfg.VERCEL_API_URL || '';
+  var DEFAULT_PROVIDER = cfg.DEFAULT_PROVIDER || 'gemini';
+
+  function getGeminiKey() { return cfg.GEMINI_API_KEY || ''; }
+  function getDeepSeekKey() { return cfg.DEEPSEEK_API_KEY || ''; }
+  function getProvider() { return window._iaProvider || DEFAULT_PROVIDER; }
 
   var HERRAMIENTAS = [
     { id: 'diccionario',   nombre: 'Diccionario Médico',          costo: 15, desc: 'Busca términos médicos y obtén definiciones claras con contexto clínico.' },
@@ -134,8 +139,25 @@
     }
   }
 
-  function callGemini(prompt) {
-    return fetch(GEMINI_URL, {
+  function callViaVercel(prompt) {
+    return fetch(VERCEL_API_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ prompt: prompt, provider: getProvider() })
+    })
+    .then(function (res) {
+      return res.json().then(function (data) {
+        if (!res.ok) throw new Error(data.error || 'Error del servidor');
+        if (!data.text) throw new Error('Respuesta vacía');
+        return data.text;
+      });
+    });
+  }
+
+  function callGeminiDirecto(prompt) {
+    var key = getGeminiKey();
+    var url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=' + key;
+    return fetch(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -144,23 +166,50 @@
       })
     })
     .then(function (res) {
-      if (!res.ok) {
-        return res.text().then(function (t) {
-          throw new Error('Error API (' + res.status + '): ' + t.substring(0, 200));
-        });
-      }
+      if (!res.ok) return res.text().then(function (t) { throw new Error('Gemini (' + res.status + '): ' + t.substring(0, 200)); });
       return res.json();
     })
     .then(function (data) {
-      if (!data.candidates || !data.candidates.length) {
-        throw new Error('No se recibió respuesta de Gemini');
-      }
+      if (!data.candidates || !data.candidates.length) throw new Error('No se recibió respuesta de Gemini');
       var parts = data.candidates[0].content && data.candidates[0].content.parts;
-      if (!parts || !parts.length || !parts[0].text) {
-        throw new Error('Respuesta vacía de Gemini');
-      }
+      if (!parts || !parts.length || !parts[0].text) throw new Error('Respuesta vacía de Gemini');
       return parts[0].text;
     });
+  }
+
+  function callDeepSeekDirecto(prompt) {
+    var key = getDeepSeekKey();
+    return fetch('https://api.deepseek.com/v1/chat/completions', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + key },
+      body: JSON.stringify({
+        model: 'deepseek-chat',
+        messages: [{ role: 'user', content: prompt }],
+        temperature: 0.7,
+        max_tokens: 4096
+      })
+    })
+    .then(function (res) {
+      if (!res.ok) return res.text().then(function (t) { throw new Error('DeepSeek (' + res.status + '): ' + t.substring(0, 200)); });
+      return res.json();
+    })
+    .then(function (data) {
+      var text = data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content;
+      if (!text) throw new Error('Respuesta vacía de DeepSeek');
+      return text;
+    });
+  }
+
+  function callIA(prompt) {
+    if (VERCEL_API_URL) return callViaVercel(prompt);
+
+    var provider = getProvider();
+    if (provider === 'deepseek' && getDeepSeekKey()) return callDeepSeekDirecto(prompt);
+    if (provider === 'gemini' && getGeminiKey()) return callGeminiDirecto(prompt);
+    if (getGeminiKey()) return callGeminiDirecto(prompt);
+    if (getDeepSeekKey()) return callDeepSeekDirecto(prompt);
+
+    return Promise.reject(new Error('Configura VERCEL_API_URL para producción, o una API key para desarrollo local.'));
   }
 
   function limpiarRespuesta(texto) {
@@ -182,7 +231,10 @@
     generar: function (toolId, params) {
       var prompt = buildPrompt(toolId, params);
       if (!prompt) return Promise.reject(new Error('Herramienta no reconocida'));
-      return callGemini(prompt).then(limpiarRespuesta);
-    }
+      return callIA(prompt).then(limpiarRespuesta);
+    },
+
+    setProvider: function (p) { window._iaProvider = p; },
+    getProvider: getProvider
   };
 })();

@@ -637,6 +637,14 @@
     var resultContent = document.getElementById('ia-result-content');
     if (!select || !btnGenerar) return;
 
+    var providerSelect = document.getElementById('ia-provider-select');
+    if (providerSelect) {
+      providerSelect.value = IAService.getProvider();
+      providerSelect.addEventListener('change', function () {
+        IAService.setProvider(providerSelect.value);
+      });
+    }
+
     var panelIds = ['diccionario','enciclopedia','patologia','diagnostico','comparativo','tutor','ordenes'];
     var contenidoGuardado = {};
 
