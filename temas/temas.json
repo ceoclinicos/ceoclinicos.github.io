@@ -543,25 +543,24 @@
       "tieneGuia": false
     },
     {
-      "id": "cirugia_general",
-      "titulo": "Cirugia General",
-      "descripcion": "Preguntas de examen de posgrado",
-      "pdfUrl": "",
-      "precioPildoras": "caro",
-      "numPreguntas": 110,
-      "etiquetas": [
-        "#postgrado",
-        "#cirugia"
-      ],
-      "tieneGuia": false
-    },
-    {
       "id": "medicina_interna",
       "titulo": "Medicina Interna",
       "descripcion": "Temas de postgrado medicina interna.",
       "pdfUrl": "",
       "precioPildoras": "caro",
       "numPreguntas": 122,
+      "etiquetas": [
+        "#general"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "cirugia_general",
+      "titulo": "Cirugia General",
+      "descripcion": "Temas de postgrado cirugia",
+      "pdfUrl": "",
+      "precioPildoras": "caro",
+      "numPreguntas": 110,
       "etiquetas": [
         "#general"
       ],
