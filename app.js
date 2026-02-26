@@ -188,7 +188,7 @@
   }
 
   function loadGuias() {
-    var base = window.ContentPaths ? ContentPaths.guiasCatalog() : '';
+    var base = window.ContentPaths ? ContentPaths.temasCatalog() : '';
     if (!base) {
       renderGuiasGrid([]);
       return;
@@ -197,9 +197,19 @@
     fetch(url)
       .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error(r.status)); })
       .then(function (data) {
-        var list = (data && data.guias) ? data.guias : [];
-        window.GUIAS_DATA = list;
-        renderGuiasGrid(list);
+        var temas = (data && data.temas) ? data.temas : [];
+        // Filtrar solo temas que tienen guía (tieneGuia=true y pdfUrl no vacío)
+        var guias = temas.filter(function (t) {
+          return t.tieneGuia && t.pdfUrl && t.pdfUrl.trim() !== '';
+        }).map(function (t) {
+          return {
+            titulo: t.titulo || t.id,
+            descripcion: t.descripcion || '',
+            url: t.pdfUrl
+          };
+        });
+        window.GUIAS_DATA = guias;
+        renderGuiasGrid(guias);
       })
       .catch(function () {
         window.GUIAS_DATA = [];
