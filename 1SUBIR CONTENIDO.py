@@ -100,6 +100,79 @@ def subir(ruta_o_rutas, mensaje, log_fn=None):
     return True, out
 
 
+def subir_forzado(ruta_o_rutas, mensaje, log_fn=None):
+    """Sube uno o más archivos/carpetas: git add de todos, un commit y push --force.
+    SOBRESCRIBE el repositorio remoto. Úsalo con cuidado.
+    ruta_o_rutas: path (str) o varios separados por coma/línea, o lista de paths.
+    Devuelve (ok, texto_salida)."""
+    def log(s):
+        if log_fn:
+            log_fn(s)
+        else:
+            print(s)
+
+    rutas = _rutas_a_lista(ruta_o_rutas)
+    if not rutas:
+        log("No hay ninguna ruta indicada.")
+        return False, "Sin rutas"
+
+    for r in rutas:
+        if not os.path.exists(r):
+            log("No existe: " + r)
+            return False, "No existe la ruta."
+
+    cwd = os.path.dirname(rutas[0]) if os.path.isfile(rutas[0]) else rutas[0]
+    p = subprocess.run(
+        ["git", "rev-parse", "--show-toplevel"],
+        cwd=cwd, capture_output=True, text=True, timeout=5
+    )
+    if p.returncode != 0:
+        p = subprocess.run(
+            ["git", "rev-parse", "--show-toplevel"],
+            cwd=SCRIPT_DIR, capture_output=True, text=True, timeout=5
+        )
+    if p.returncode != 0:
+        log("No se encontró un repositorio git.")
+        return False, "No hay repo git."
+
+    repo_root = p.stdout.strip()
+    rels = []
+    for r in rutas:
+        rel = os.path.relpath(r, repo_root)
+        if rel.startswith(".."):
+            log("Fuera del repo: " + r)
+            return False, "Ruta fuera del repo"
+        rels.append(rel)
+
+    log("Repo: " + repo_root)
+    log("Añadiendo: " + ", ".join(rels))
+    log("Mensaje: " + mensaje)
+    log("⚠️  USANDO PUSH --FORCE (SOBRESCRIBIRÁ REMOTO)")
+    log("")
+
+    add = subprocess.run(["git", "add"] + rels, cwd=repo_root, capture_output=True, text=True, timeout=15)
+    if add.returncode != 0:
+        log("Error git add: " + (add.stderr or add.stdout or ""))
+        return False, add.stderr or add.stdout or "Error git add"
+
+    commit = subprocess.run(["git", "commit", "-m", mensaje], cwd=repo_root, capture_output=True, text=True, timeout=10)
+    log(commit.stdout or "")
+    if commit.returncode != 0 and "nothing to commit" not in (commit.stdout or "").lower():
+        log(commit.stderr or "")
+
+    push = subprocess.run(["git", "push", "--force"], cwd=repo_root, capture_output=True, text=True, timeout=60)
+    out = push.stdout or ""
+    err = push.stderr or ""
+    log(out)
+    if err:
+        log(err)
+    if push.returncode != 0:
+        log("\n>>> PUSH FORZADO FALLÓ. Revisa credenciales (token) o conexión.")
+        return False, err or out
+    log("\n>>> Listo. Repositorio remoto sobrescrito con fuerza.")
+    return True, out
+
+
 def main_cli():
     """Modo línea de comandos: sube uno o más paths. Si hay 2+ args, el último es el mensaje. Pausa al final."""
     script_dir = SCRIPT_DIR
@@ -152,6 +225,14 @@ def main_gui():
     var_msg = tk.StringVar(value="Actualizar contenido")
     ttk.Entry(f_msg, textvariable=var_msg, width=70).pack(fill=tk.X)
 
+    # Opciones
+    f_opts = ttk.LabelFrame(root, text="Opciones", padding=10)
+    f_opts.pack(fill=tk.X, padx=10, pady=5)
+    var_force = tk.BooleanVar(value=False)
+    cb_force = ttk.Checkbutton(f_opts, text="Push forzado (--force) - SOBRESCRIBE el repositorio remoto", variable=var_force)
+    cb_force.pack(anchor=tk.W)
+    ttk.Label(f_opts, text="⚠️ Usa con cuidado. Esto sobrescribirá completamente el repositorio remoto.", font=("", 8), foreground="red").pack(anchor=tk.W, pady=(2,0))
+
     # Salida
     f_out = ttk.LabelFrame(root, text="Salida (revisa si hay error)", padding=5)
     f_out.pack(fill=tk.BOTH, expand=True, padx=10, pady=5)
@@ -170,11 +251,28 @@ def main_gui():
             messagebox.showwarning("Falta ruta", "Indica al menos una carpeta o archivo a subir.")
             return
         txt.delete(1.0, tk.END)
-        ok, _ = subir(rutas_texto, msg, log_fn=log)
-        if ok:
-            messagebox.showinfo("Listo", "Cambios subidos al repositorio.")
+        
+        # Elegir función normal o forzada según el checkbox
+        if var_force.get():
+            if messagebox.askyesno("Confirmar push forzado", 
+                "⚠️ Estás a punto de SOBRESCRIBIR el repositorio remoto.\n\n" +
+                "Esto borrará permanentemente los cambios que existen en GitHub\n" +
+                "y los reemplazará con tu versión local.\n\n" +
+                "¿Estás seguro de continuar?"):
+                ok, _ = subir_forzado(rutas_texto, msg, log_fn=log)
+                if ok:
+                    messagebox.showinfo("Listo", "Repositorio remoto sobrescrito con fuerza.")
+                else:
+                    messagebox.showwarning("Error", "Revisa la salida. Puede ser token de GitHub o conexión.")
+            else:
+                txt.insert(tk.END, "Operación cancelada por el usuario.\n")
+                return
         else:
-            messagebox.showwarning("Error", "Revisa la salida. Puede ser token de GitHub o conexión.")
+            ok, _ = subir(rutas_texto, msg, log_fn=log)
+            if ok:
+                messagebox.showinfo("Listo", "Cambios subidos al repositorio.")
+            else:
+                messagebox.showwarning("Error", "Revisa la salida. Puede ser token de GitHub o conexión.")
 
     ttk.Button(root, text="Subir al repositorio", command=hacer_subida).pack(pady=8)
     ttk.Label(root, text="Si el push falla, usa en GitHub un Personal Access Token como contraseña.", font=("", 8), foreground="gray").pack(pady=(0, 5))
