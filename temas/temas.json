@@ -1,36 +1,6 @@
 {
   "temas": [
     {
-      "id": "hipertension_arterial",
-      "titulo": "Hipertensión Arterial",
-      "descripcion": "Elevación persistente de la presión arterial",
-      "pdfUrl": "https://www.dropbox.com/scl/fi/egaj7j3d6mqk1lopod4oc/Guia-Hipertensi-n-Arterial-Clinicos.pdf?rlkey=go3vt1w0z554hh6p8acpp5jt6&st=9tnn1t91&dl=1",
-      "precioPildoras": "barato",
-      "numPreguntas": 50,
-      "etiquetas": [
-        "#cardiologia",
-        "#medicina_interna",
-        "#presion_arterial",
-        "#sistema_cardiovascular"
-      ],
-      "tieneGuia": true
-    },
-    {
-      "id": "colecistitis",
-      "titulo": "Colecistitis",
-      "descripcion": "Inflamación de la vesícula biliar aguda y crónica",
-      "pdfUrl": "https://www.dropbox.com/scl/fi/anh5fmxxktioc7wzvbup0/1.-Guia-Colecistitis.pdf?rlkey=w40cs53d8v6his3sr3vf60t0n&st=hgcfw2qa&dl=1",
-      "precioPildoras": "barato",
-      "numPreguntas": 70,
-      "etiquetas": [
-        "#gastroenterologia",
-        "#cirugia",
-        "#vesicula_biliar",
-        "#abdomen"
-      ],
-      "tieneGuia": true
-    },
-    {
       "id": "anatomia_abdomen",
       "titulo": "Anatomía del Abdomen",
       "descripcion": "Estructuras anatómicas del abdomen y su organización",
@@ -498,51 +468,6 @@
       "tieneGuia": false
     },
     {
-      "id": "diabetes_mellitus",
-      "titulo": "Diabetes Mellitus",
-      "descripcion": "Trastorno metabólico caracterizado por hiperglucemia crónica",
-      "pdfUrl": "",
-      "precioPildoras": "barato",
-      "numPreguntas": 50,
-      "etiquetas": [
-        "#endocrinologia",
-        "#metabolismo",
-        "#glucosa",
-        "#insulina"
-      ],
-      "tieneGuia": false
-    },
-    {
-      "id": "infarto_miocardio",
-      "titulo": "Infarto de Miocardio",
-      "descripcion": "Necrosis del músculo cardíaco por isquemia",
-      "pdfUrl": "",
-      "precioPildoras": "barato",
-      "numPreguntas": 20,
-      "etiquetas": [
-        "#cardiologia",
-        "#emergencias",
-        "#corazon",
-        "#isquemia"
-      ],
-      "tieneGuia": false
-    },
-    {
-      "id": "neumonia",
-      "titulo": "Neumonía",
-      "descripcion": "Inflamación aguda del parénquima pulmonar",
-      "pdfUrl": "",
-      "precioPildoras": "barato",
-      "numPreguntas": 20,
-      "etiquetas": [
-        "#neumonologia",
-        "#infecciones",
-        "#pulmones",
-        "#respiratorio"
-      ],
-      "tieneGuia": false
-    },
-    {
       "id": "medicina_interna",
       "titulo": "Medicina Interna",
       "descripcion": "Temas de postgrado medicina interna.",
@@ -577,20 +502,6 @@
         "#general"
       ],
       "tieneGuia": false
-    },
-    {
-      "id": "ic",
-      "titulo": "Insuficiencia Cardiaca",
-      "descripcion": "Conceptos y datos importantes",
-      "pdfUrl": "https://ceoclinicos.github.io/guias/2ic.pdf",
-      "precioPildoras": "barato",
-      "numPreguntas": 40,
-      "etiquetas": [
-        "#cardiologia",
-        "#icc",
-        "#ic"
-      ],
-      "tieneGuia": true
     }
   ]
 }
