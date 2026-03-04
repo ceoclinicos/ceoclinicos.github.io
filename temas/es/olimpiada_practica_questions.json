@@ -1,26 +1,361 @@
 {
   "questions": [
     {
-      "question": "¿Cuál es la estructura anatómica que separa las aurículas de los ventrículos?",
-      "options": [
-        "Válvula aórtica",
-        "Válvula mitral",
-        "Anillo fibroso",
-        "Tabique interventricular"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El anillo fibroso es la estructura que separa eléctricamente las aurículas de los ventrículos y sirve de soporte para las válvulas auriculoventriculares."
+        "question": "¿Cuál es la estructura anatómica que separa las aurículas de los ventrículos?",
+        "options": [
+            "Válvula aórtica",
+            "Válvula mitral",
+            "Anillo fibroso",
+            "Tabique interventricular"
+        ],
+        "correctAnswer": 3,
+        "explanation": "El anillo fibroso es la estructura que separa eléctricamente las aurículas de los ventrículos y sirve de soporte para las válvulas auriculoventriculares."
     },
     {
-      "question": "¿Qué porcentaje del gasto cardíaco recibe el sistema coronario en reposo?",
-      "options": [
-        "2-3%",
-        "5-7%",
-        "10-15%",
-        "20-25%"
-      ],
-      "correctAnswer": 2,
-      "explanation": "El sistema coronario recibe aproximadamente el 5% del gasto cardíaco en reposo, pudiendo aumentar hasta el 15% durante el ejercicio."
+        "question": "¿Qué porcentaje del gasto cardíaco recibe el sistema coronario en reposo?",
+        "options": [
+            "2-3%",
+            "5-7%",
+            "10-15%",
+            "20-25%"
+        ],
+        "correctAnswer": 2,
+        "explanation": "El sistema coronario recibe aproximadamente el 5% del gasto cardíaco en reposo, pudiendo aumentar hasta el 15% durante el ejercicio."
+    },
+
+
+
+
+
+    {
+        "question": "¿En qué compartimento mediastínico se localiza el corazón?",
+        "options": [
+            "Anterior",
+            "Posterior",
+            "Medio",
+            "Superior"
+        ],
+        "correctAnswer": 3,
+        "explanation": "El corazón se encuentra en el mediastino medio, entre los pulmones, por encima del diafragma y en relación con grandes vasos, esófago y tráquea, siendo una ubicación clave en la anatomía torácica."
+    },
+    {
+        "question": "¿Cómo se denomina la lámina visceral del pericardio seroso?",
+        "options": [
+            "Pericardio fibroso",
+            "Epicardio",
+            "Endocardio",
+            "Miocardio"
+        ],
+        "correctAnswer": 2,
+        "explanation": "El pericardio seroso tiene dos láminas: la parietal y la visceral. La lámina visceral es la capa más externa del corazón mismo, conocida como epicardio, y forma parte de la pared cardíaca."
+    },
+    {
+        "question": "¿Dónde se localiza la fosa oval en el corazón?",
+        "options": [
+            "Septo interventricular",
+            "Válvula aórtica",
+            "Septo interauricular",
+            "Aurícula derecha pared"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La fosa oval es un remanente embriológico crucial del foramen oval fetal y se encuentra anatómicamente en el septo interauricular, la pared que divide las dos aurículas cardíacas."
+    },
+    {
+        "question": "¿Qué característica principal diferencia el ventrículo izquierdo del derecho?",
+        "options": [
+            "Forma de media luna",
+            "Pared más delgada",
+            "Bombea sangre pulmonar",
+            "Pared muscular más gruesa"
+        ],
+        "correctAnswer": 4,
+        "explanation": "El ventrículo izquierdo es la cámara más robusta y muscular del corazón, presentando paredes aproximadamente tres veces más gruesas que las del ventrículo derecho, lo cual es fundamental para impulsar la sangre a la circulación sistémica."
+    },
+    {
+        "question": "¿Qué estructura es distintiva de la aurícula derecha?",
+        "options": [
+            "Paredes lisas",
+            "Cuatro venas pulmonares",
+            "Presencia cresta terminal",
+            "Orejuela larga y estrecha"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La aurícula derecha internamente se caracteriza por la cresta terminal, una protuberancia muscular que separa la porción posterior lisa (seno de las cavas) de la anterior rugosa (músculos pectíneos)."
+    },
+    {
+        "question": "¿Qué cámara recibe sangre oxigenada de cuatro venas pulmonares?",
+        "options": [
+            "Aurícula derecha",
+            "Ventrículo derecho",
+            "Aurícula izquierda",
+            "Ventrículo izquierdo"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La aurícula izquierda es la cámara cardíaca encargada de recibir la sangre rica en oxígeno que proviene directamente de los pulmones a través de las cuatro venas pulmonares, antes de pasarla al ventrículo izquierdo."
+    },
+    {
+        "question": "¿Qué estructura conecta el septo interventricular al músculo papilar anterior en el ventrículo derecho?",
+        "options": [
+            "Cuerdas tendinosas",
+            "Cono arterioso",
+            "Banda moderadora",
+            "Trabéculas carnosas"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La banda moderadora, también conocida como haz septomarginal, es una trabécula muscular prominente en el ventrículo derecho que conecta la porción inferior del septo interventricular con la base del músculo papilar anterior."
+    },
+    {
+        "question": "¿Qué nombre recibe la porción de salida lisa del ventrículo derecho?",
+        "options": [
+            "Trabécula septal",
+            "Banda moderadora",
+            "Cono arterioso",
+            "Seno de las cavas"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La porción de salida del ventrículo derecho, que carece de trabéculas carnosas y conduce a la válvula pulmonar, se conoce como cono arterioso o infundíbulo."
+    },
+    {
+        "question": "¿Cuál es la función del esqueleto fibroso del corazón?",
+        "options": [
+            "Generar impulso",
+            "Drenar sangre",
+            "Aumentar contractilidad",
+            "Aislamiento eléctrico aurículo-ventricular"
+        ],
+        "correctAnswer": 4,
+        "explanation": "El esqueleto fibroso, además de anclar válvulas e insertar miocardio, es crucial como aislante eléctrico. Separa la actividad eléctrica auricular de la ventricular, permitiendo la contracción coordinada del corazón."
+    },
+    {
+        "question": "¿Cuántas valvas posee la válvula mitral?",
+        "options": [
+            "Cuatro",
+            "Tres",
+            "Dos",
+            "Una"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La válvula mitral, también conocida como válvula bicúspide, se encuentra entre la aurícula y el ventrículo izquierdo y está compuesta exclusivamente por dos valvas: una anterior y una posterior."
+    },
+    {
+        "question": "¿Cuáles son los senos que se forman detrás de las valvas de la válvula aórtica?",
+        "options": [
+            "Senos pulmonares",
+            "Senos venosos",
+            "Senos aórticos",
+            "Senos coronarios"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Detrás de cada una de las tres valvas de la válvula aórtica se forman dilataciones importantes llamadas senos aórticos, también conocidos como senos de Valsalva, de los cuales se originan las arterias coronarias."
+    },
+    {
+        "question": "¿Qué válvula cardíaca tiene tres valvas: anterior, izquierda y derecha?",
+        "options": [
+            "Válvula aórtica",
+            "Válvula tricúspide",
+            "Válvula mitral",
+            "Válvula pulmonar"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La válvula pulmonar, ubicada en la salida del ventrículo derecho hacia la arteria pulmonar, está compuesta por tres valvas semilunares específicas: la anterior, la izquierda y la derecha."
+    },
+    {
+        "question": "¿Cuál válvula está anclada a los músculos papilares del ventrículo izquierdo?",
+        "options": [
+            "Válvula pulmonar",
+            "Válvula tricúspide",
+            "Válvula aórtica",
+            "Válvula mitral"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La válvula mitral, o bicúspide, ubicada entre la aurícula y el ventrículo izquierdo, tiene sus dos valvas conectadas a los músculos papilares anterior y posterior del ventrículo izquierdo mediante cuerdas tendinosas, previniendo su eversión."
+    },
+    {
+        "question": "¿Cuál es la función principal del nódulo auriculoventricular?",
+        "options": [
+            "Generar impulso",
+            "Retrasar el impulso",
+            "Conducir a aurículas",
+            "Despolarización rápida"
+        ],
+        "correctAnswer": 2,
+        "explanation": "El nódulo auriculoventricular (AV) es crucial porque retrasa ligeramente el impulso eléctrico (aproximadamente 0.1 segundos) antes de que llegue a los ventrículos, permitiendo el vaciamiento auricular completo."
+    },
+    {
+        "question": "¿Dónde se localiza el nódulo sinoauricular, el marcapasos primario?",
+        "options": [
+            "Septo interauricular",
+            "Vena cava inferior",
+            "Aurícula izquierda",
+            "Unión VCS/aurícula derecha"
+        ],
+        "correctAnswer": 4,
+        "explanation": "El nódulo sinoauricular (SA), que es el marcapasos natural del corazón, se ubica en la pared superior de la aurícula derecha, específicamente cerca de la desembocadura de la vena cava superior."
+    },
+    {
+        "question": "¿Qué estructuras conducen el impulso rápidamente a los miocitos ventriculares?",
+        "options": [
+            "Nódulo SA",
+            "Nódulo AV",
+            "Fibras de Purkinje",
+            "Haz de His"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Las fibras de Purkinje son la etapa terminal del sistema de conducción, compuestas por células especializadas que ramifican bajo el endocardio ventricular, asegurando una contracción ventricular muy rápida y coordinada."
+    },
+    {
+        "question": "¿Cuál nervio parasimpático modula el sistema de conducción cardíaca?",
+        "options": [
+            "Nervio frénico",
+            "Nervio vago",
+            "Nervio espinal",
+            "Nervio simpático"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La inervación parasimpática, que modula la frecuencia y la fuerza de contracción cardíaca, es proporcionada principalmente por el nervio vago (X par craneal) sobre el sistema de conducción."
+    },
+    {
+        "question": "¿Cuál es la frecuencia de despolarización intrínseca del nódulo SA?",
+        "options": [
+            "20-40 lpm",
+            "40-60 lpm",
+            "60-100 lpm",
+            "100-120 lpm"
+        ],
+        "correctAnswer": 3,
+        "explanation": "El nódulo sinoauricular (SA) es el marcapasos primario del corazón, y sus células tienen la mayor frecuencia de despolarización intrínseca, estableciendo el ritmo cardíaco normal entre 60 y 100 latidos por minuto."
+    },
+    {
+        "question": "¿Qué parte del haz de His se subdivide en fascículos anterior, posterior y septal?",
+        "options": [
+            "Rama derecha",
+            "Nódulo AV",
+            "Fibras de Purkinje",
+            "Rama izquierda"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La rama izquierda del Haz de His es la que, al entrar en el ventrículo izquierdo, se divide en tres fascículos principales: anterior, posterior y septal, permitiendo una rápida distribución del impulso."
+    },
+    {
+        "question": "¿Cuál arteria coronaria da origen a la descendente posterior en la mayoría de los casos?",
+        "options": [
+            "Circunfleja",
+            "Descendente anterior",
+            "Coronaria derecha",
+            "Coronaria izquierda"
+        ],
+        "correctAnswer": 3,
+        "explanation": "En la mayoría de los individuos (70-80%), la arteria coronaria derecha (ACD) es dominante y da origen a la arteria descendente posterior (ADP), que irriga una porción significativa del ventrículo izquierdo y el septo interventricular."
+    },
+    {
+        "question": "¿Qué arteria es conocida como \"la arteria de la viuda\" por su importancia?",
+        "options": [
+            "Marginal derecha",
+            "Circunfleja",
+            "Descendente anterior",
+            "Coronaria derecha"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La arteria descendente anterior (ADA), también llamada interventricular anterior (IVA), es una rama vital de la arteria coronaria izquierda, conocida coloquialmente como 'la arteria de la viuda' por el alto riesgo de mortalidad en caso de oclusión."
+    },
+    {
+        "question": "¿Qué vena acompaña a la arteria descendente posterior en el surco interventricular posterior?",
+        "options": [
+            "Vena cardíaca magna",
+            "Vena oblicua",
+            "Vena cardíaca menor",
+            "Vena cardíaca media"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La vena cardíaca media es una de las principales tributarias del seno coronario y discurre anatómicamente junto a la arteria descendente posterior en el surco interventricular posterior, drenando sangre del septo y ventrículo derecho."
+    },
+    {
+        "question": "¿En qué porcentaje la arteria coronaria derecha irriga el nódulo AV?",
+        "options": [
+            "40-50%",
+            "60-70%",
+            "80-90%",
+            "100%"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La arteria del nódulo auriculoventricular (AV), que es crucial para la irrigación del sistema de conducción, se origina de la arteria coronaria derecha en un alto porcentaje de individuos, específicamente entre el 80% y el 90% de los casos."
+    },
+    {
+        "question": "¿Cuál es la definición de dominancia coronaria?",
+        "options": [
+            "Arteria más grande",
+            "Origen de la marginal",
+            "Irrigación del nódulo SA",
+            "Origen de descendente posterior"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La dominancia coronaria se define por la arteria que da origen a la arteria descendente posterior. Esta arteria irriga la pared inferior del ventrículo izquierdo y el tercio posterior del septo interventricular."
+    },
+    {
+        "question": "¿De dónde se originan las arterias coronarias?",
+        "options": [
+            "Arco aórtico",
+            "Ventrículo izquierdo",
+            "Senos aórticos",
+            "Arteria pulmonar"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Las arterias coronarias, encargadas de la irrigación del miocardio, son las primeras ramas de la aorta. Se originan específicamente en los senos aórticos, o senos de Valsalva, situados justo por encima de la válvula aórtica."
+    },
+    {
+        "question": "¿Qué ramas irrigan los dos tercios anteriores del septo interventricular?",
+        "options": [
+            "Marginales obtusas",
+            "Diagonales",
+            "Septales perforantes",
+            "Cono arterioso"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Las ramas septales perforantes son arterias pequeñas pero vitales que se desprenden de la arteria descendente anterior (ADA) y proporcionan la irrigación sanguínea a los dos tercios anteriores del septo interventricular."
+    },
+    {
+        "question": "¿Qué vena acompaña a la ACD en el surco coronario derecho?",
+        "options": [
+            "Vena cardíaca magna",
+            "Vena oblicua",
+            "Vena cardíaca menor",
+            "Vena cardíaca media"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La vena cardíaca menor es una tributaria del seno coronario que discurre en el surco coronario derecho, siguiendo el trayecto de la arteria coronaria derecha (ACD), y drena parte de la sangre del ventrículo derecho."
+    },
+    {
+        "question": "¿Qué procedimiento terapéutico implica la implantación de un stent?",
+        "options": [
+            "Revascularización coronaria",
+            "Angioplastia",
+            "Reemplazo valvular",
+            "Ablación de arritmias"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La angioplastia coronaria es un procedimiento intervencionista percutáneo que utiliza un balón para dilatar arterias coronarias estrechas. Frecuentemente, se complementa con la implantación de un stent para mantener la luz del vaso abierta."
+    },
+    {
+        "question": "¿Qué estudio de imagen visualiza las arterias coronarias para identificar estenosis?",
+        "options": [
+            "Ecocardiografía",
+            "Tomografía cardíaca",
+            "Angiografía coronaria",
+            "Resonancia magnética"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La angiografía coronaria es el estándar de oro para visualizar directamente las arterias coronarias. Permite identificar con precisión estenosis, oclusiones y evaluar la extensión de la enfermedad arterial coronaria mediante la inyección de contraste."
+    },
+    {
+        "question": "¿Qué estudio evalúa la viabilidad tisular y anomalías congénitas con alta resolución?",
+        "options": [
+            "Ecocardiografía",
+            "Angiografía",
+            "Tomografía cardíaca",
+            "Resonancia Magnética Cardíaca"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La Resonancia Magnética Cardíaca (RMC) ofrece una resolución espacial y temporal excepcional. Es muy útil para evaluar la morfología cardíaca, el grosor miocárdico, la viabilidad tisular y detectar anomalías congénitas o adquiridas con gran detalle."
     }
   ]
 }
