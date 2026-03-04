@@ -502,6 +502,28 @@
         "#general"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "olimpiada_practica",
+      "titulo": "Olimpiadas - Práctica",
+      "descripcion": "Banco de práctica para olimpiadas (no se muestra en Estudio).",
+      "pdfUrl": "",
+      "precioPildoras": 0,
+      "numPreguntas": 2,
+      "etiquetas": ["#olimpiadas"],
+      "tieneGuia": false,
+      "oculto": true
+    },
+    {
+      "id": "olimpiada_oficial",
+      "titulo": "Olimpiadas - Oficial",
+      "descripcion": "Banco oficial por día (no se muestra en Estudio).",
+      "pdfUrl": "",
+      "precioPildoras": 0,
+      "numPreguntas": 2,
+      "etiquetas": ["#olimpiadas"],
+      "tieneGuia": false,
+      "oculto": true
     }
   ]
 }
