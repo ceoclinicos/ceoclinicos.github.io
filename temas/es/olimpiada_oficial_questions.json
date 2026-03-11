@@ -1,26 +1,347 @@
 {
   "questions": [
+
+
+
+
+
     {
-      "question": "¿Cuál es el principal determinante de la resistencia vascular periférica?",
-      "options": [
-        "Viscosidad sanguínea",
-        "Longitud de los vasos",
-        "Radio de las arteriolas",
-        "Frecuencia cardíaca"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El radio de las arteriolas es el principal determinante de la resistencia vascular periférica según la ley de Poiseuille (R ∝ 1/r⁴)."
+        "question": "¿Cuál es la estructura que actúa como marcapasos natural del corazón?",
+        "options": [
+            "Nodo auriculoventricular",
+            "Haz de His",
+            "Fibras de Purkinje",
+            "Nodo sinoauricular"
+        ],
+        "correctAnswer": 4,
+        "explanation": "El nodo sinoauricular (SA) es el marcapasos natural del corazón, ubicado en la aurícula derecha, y es responsable de generar impulsos eléctricos a una frecuencia de 60 a 100 latidos por minuto en reposo, estableciendo el ritmo sinusal normal. Cualquier alteración en su función puede derivar en una arritmia.",
+        "hashtags": [
+            "cardiologia",
+            "arritmias_cardiacas",
+            "concepto"
+        ]
     },
     {
-      "question": "¿Qué enzima cataliza la conversión de angiotensina I a angiotensina II?",
-      "options": [
-        "Renina",
-        "ECA",
-        "Aldosterona",
-        "Quinasa II"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La Enzima Convertidora de Angiotensina (ECA) cataliza la conversión de angiotensina I a angiotensina II, que es un potente vasoconstrictor."
+        "question": "¿Qué canal iónico causa la despolarización rápida de miocitos cardíacos?",
+        "options": [
+            "Canales de potasio",
+            "Canales de calcio",
+            "Canales de sodio",
+            "Canales de cloro"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La fase 0 del potencial de acción cardíaco, o despolarización rápida, se caracteriza por una entrada masiva de iones de sodio (Na+) a través de canales rápidos de sodio. Este proceso es fundamental para la generación del impulso eléctrico que inicia la contracción muscular.",
+        "hashtags": [
+            "cardiologia",
+            "fisiopatologia_cardiaca",
+            "fisiopatologia"
+        ]
+    },
+    {
+        "question": "¿Qué causa los pospotenciales tardíos (DADs)?",
+        "options": [
+            "Prolongación del QT",
+            "Sobrecarga de calcio intracelular",
+            "Reentrada del impulso",
+            "Bloqueo unidireccional"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Los pospotenciales tardíos (DADs) ocurren después de la repolarización completa (fase 4) y son causados por una sobrecarga de calcio intracelular. Esta sobrecarga activa un intercambiador Na+/Ca2+, generando una corriente despolarizante que puede desencadenar una nueva activación y dar inicio a una arritmia, como en la intoxicación digitálica.",
+        "hashtags": [
+            "cardiologia",
+            "arritmias_cardiacas",
+            "fisiopatologia"
+        ]
+    },
+    {
+        "question": "¿Qué es esencial para la reentrada de un impulso?",
+        "options": [
+            "Conducción rápida uniforme",
+            "Bloqueo unidireccional",
+            "Un solo haz de conducción",
+            "Potencial de reposo estable"
+        ],
+        "correctAnswer": 2,
+        "explanation": "El mecanismo de reentrada, común en muchas taquiarritmias sostenidas, requiere tres condiciones principales: la presencia de un bloqueo unidireccional en una vía de conducción, la existencia de dos vías paralelas con diferentes propiedades electrofisiológicas y una conducción lenta para permitir la repolarización del tejido antes de la reexcitación.",
+        "hashtags": [
+            "cardiologia",
+            "arritmias_cardiacas",
+            "fisiopatologia"
+        ]
+    },
+    {
+        "question": "¿Cómo se describe la fibrilación ventricular?",
+        "options": [
+            "Ritmo regular rápido",
+            "Actividad eléctrica caótica",
+            "Bradicardia severa",
+            "QRS angosto y constante"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La fibrilación ventricular (FV) se caracteriza por una actividad eléctrica ventricular completamente caótica y desorganizada, sin contracción efectiva del corazón. Esto impide el bombeo de sangre, resultando en un paro cardíaco inmediato y es una de las principales causas de muerte súbita cardíaca.",
+        "hashtags": [
+            "cardiologia",
+            "fibrilacion_ventricular",
+            "concepto"
+        ]
+    },
+    {
+        "question": "¿Qué canalopatía causa prolongación QT y Torsades?",
+        "options": [
+            "Síndrome de Brugada",
+            "Síndrome de QT corto",
+            "Síndrome de QT largo",
+            "Taquicardia polimórfica catecolaminérgica"
+        ],
+        "correctAnswer": 3,
+        "explanation": "El síndrome de QT largo congénito (SQTL) es un trastorno genético que prolonga la repolarización cardíaca, lo que predispone significativamente al desarrollo de pospotenciales precoces y, en consecuencia, a la peligrosa arritmia ventricular conocida como Torsades de Pointes (TdP), aumentando el riesgo de muerte súbita cardíaca.",
+        "hashtags": [
+            "cardiologia",
+            "canalopatias",
+            "etiologia"
+        ]
+    },
+    {
+        "question": "¿Qué desequilibrio electrolítico altera repolarización miocárdica?",
+        "options": [
+            "Hiponatremia",
+            "Hipercalcemia",
+            "Hipopotasemia",
+            "Hipercloremia"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Los desequilibrios electrolíticos como la hipopotasemia (niveles bajos de potasio), hiperpotasemia e hipomagnesemia son factores importantes que pueden alterar la excitabilidad y la repolarización miocárdica. Estas alteraciones iónicas pueden predisponer al desarrollo de diversas arritmias cardíacas.",
+        "hashtags": [
+            "cardiologia",
+            "arritmias_cardiacas",
+            "etiologia"
+        ]
+    },
+    {
+        "question": "¿Cuál es el síntoma más común de arritmias?",
+        "options": [
+            "Síncope",
+            "Dolor torácico",
+            "Palpitaciones",
+            "Disnea"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Las palpitaciones son el síntoma más frecuente reportado por pacientes con arritmias cardíacas. Se describen como una sensación desagradable de latidos rápidos, lentos, fuertes o irregulares, a menudo referidas como 'saltos', 'aleteo' o 'vuelcos' en el pecho.",
+        "hashtags": [
+            "cardiologia",
+            "arritmias_cardiacas",
+            "signos_sintomas"
+        ]
+    },
+    {
+        "question": "¿Cuál es la pérdida transitoria de conciencia y tono postural?",
+        "options": [
+            "Presíncope",
+            "Mareo",
+            "Síncope",
+            "Aturdimiento"
+        ],
+        "correctAnswer": 3,
+        "explanation": "El síncope se define como una pérdida transitoria de la conciencia y del tono postural, con recuperación espontánea. Es una manifestación grave de arritmias que causan una hipoperfusión cerebral severa y abrupta, como bradicardias extremas, bloqueos AV avanzados, taquicardias ventriculares o fibrilación ventricular.",
+        "hashtags": [
+            "cardiologia",
+            "arritmias_cardiacas",
+            "signos_sintomas"
+        ]
+    },
+    {
+        "question": "¿Cuál es la prueba diagnóstica inicial fundamental?",
+        "options": [
+            "Ecocardiografía",
+            "Estudio electrofisiológico",
+            "Monitor Holter",
+            "Electrocardiograma de 12 derivaciones"
+        ],
+        "correctAnswer": 4,
+        "explanation": "El electrocardiograma (ECG) de 12 derivaciones en reposo es la herramienta inicial más fundamental para el diagnóstico de arritmias. Permite evaluar el ritmo, la frecuencia cardíaca, los intervalos (PR, QRS, QT) y la morfología de las ondas, detectando arritmias presentes y signos de cardiopatía.",
+        "hashtags": [
+            "cardiologia",
+            "arritmias_cardiacas",
+            "diagnostico"
+        ]
+    },
+    {
+        "question": "¿Qué dispositivo es ideal para arritmias muy infrecuentes?",
+        "options": [
+            "Monitor de eventos",
+            "ECG de 12 derivaciones",
+            "Monitor Holter 24h",
+            "Loop Recorder implantable"
+        ],
+        "correctAnswer": 4,
+        "explanation": "Para arritmias muy infrecuentes o síncopes recurrentes que no son capturados por monitores de corta duración, el Loop Recorder implantable (ILR) es ideal. Este dispositivo subcutáneo monitorea el ECG continuamente durante años, aumentando significativamente la probabilidad de documentar el evento arrítmico.",
+        "hashtags": [
+            "cardiologia",
+            "arritmias_cardiacas",
+            "auxiliares"
+        ]
+    },
+    {
+        "question": "¿Qué clase antiarrítmica se contraindica en cardiopatía estructural?",
+        "options": [
+            "Clase II (Betabloqueantes)",
+            "Clase IC (Flecainida)",
+            "Clase III (Amiodarona)",
+            "Clase IV (Verapamilo)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Los fármacos antiarrítmicos de Clase IC, como flecainida y propafenona, están contraindicados en pacientes con cardiopatía estructural significativa (ej. post-infarto de miocardio) debido a un riesgo elevado de proarritmia y aumento de la mortalidad en este grupo de pacientes.",
+        "hashtags": [
+            "cardiologia",
+            "antiarritmicos",
+            "tratamiento"
+        ]
+    },
+    {
+        "question": "¿Cuál es una toxicidad importante de amiodarona?",
+        "options": [
+            "Hipoglucemia",
+            "Neumonitis",
+            "Hipotensión ortostática",
+            "Insuficiencia renal aguda"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La amiodarona, un antiarrítmico de clase III, es muy eficaz pero tiene una larga vida media y una toxicidad extracardíaca significativa. Esto incluye efectos adversos pulmonares (neumonitis), tiroideos, hepáticos y corneales, que requieren una monitorización regular y cuidadosa durante su uso crónico.",
+        "hashtags": [
+            "cardiologia",
+            "antiarritmicos",
+            "tratamiento"
+        ]
+    },
+    {
+        "question": "¿Para qué se usa la adenosina principalmente?",
+        "options": [
+            "Control de frecuencia en FA",
+            "Terminar taquicardias supraventriculares",
+            "Tratar bradicardia",
+            "Prevención de FV"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La adenosina causa un bloqueo transitorio y potente del nodo auriculoventricular (AV), lo que la hace útil para terminar la mayoría de las taquicardias supraventriculares (TSV) que involucran el nodo AV en su circuito de reentrada. También se utiliza en el diagnóstico diferencial de taquicardias de QRS ancho.",
+        "hashtags": [
+            "cardiologia",
+            "antiarritmicos",
+            "tratamiento"
+        ]
+    },
+    {
+        "question": "¿Cuál es la indicación principal de marcapasos permanente?",
+        "options": [
+            "Taquicardia ventricular",
+            "Fibrilación auricular",
+            "Bradicardias sintomáticas",
+            "Hipertensión arterial"
+        ],
+        "correctAnswer": 3,
+        "explanation": "El implante de un marcapasos permanente está indicado principalmente para el tratamiento de bradiarritmias sintomáticas, como la enfermedad del nodo sinusal o bloqueos auriculoventriculares (AV) de alto grado (Mobitz II o tercer grado), que causan síntomas como síncope, mareo o fatiga significativa debido a la baja frecuencia cardíaca.",
+        "hashtags": [
+            "cardiologia",
+            "marcapasos",
+            "tratamiento"
+        ]
+    },
+    {
+        "question": "¿Qué cardioversión eléctrica se usa para TV sin pulso o FV?",
+        "options": [
+            "Sincronizada con onda P",
+            "Desfibrilación (no sincronizada)",
+            "Cardioversión farmacológica",
+            "Cardioversión de bajo voltaje"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La desfibrilación, que es una descarga eléctrica no sincronizada, es el tratamiento de elección y debe aplicarse de inmediato en casos de fibrilación ventricular (FV) y taquicardia ventricular (TV) sin pulso, ya que estas arritmias malignas son causas de paro cardíaco y requieren una intervención urgente para restaurar el ritmo normal.",
+        "hashtags": [
+            "cardiologia",
+            "cardioversion_desfibrilacion",
+            "tratamiento"
+        ]
+    },
+    {
+        "question": "¿Cuál es la complicación embolígena principal de la FA?",
+        "options": [
+            "Insuficiencia cardíaca",
+            "Muerte súbita cardíaca",
+            "Accidente cerebrovascular isquémico",
+            "Torsades de Pointes"
+        ],
+        "correctAnswer": 3,
+        "explanation": "La complicación principal y más temida de la fibrilación auricular (FA) es la formación de trombos en la aurícula izquierda debido a la estasis sanguínea. Estos trombos pueden desprenderse y embolizar al cerebro, causando un accidente cerebrovascular (ACV) isquémico, o a otros órganos, por lo que la anticoagulación es vital para prevenirla.",
+        "hashtags": [
+            "cardiologia",
+            "fibrilacion_auricular",
+            "complicaciones"
+        ]
+    },
+    {
+        "question": "¿Qué factor empeora significativamente el pronóstico de arritmias?",
+        "options": [
+            "Edad avanzada",
+            "Ritmo sinusal",
+            "Corazón estructuralmente sano",
+            "Cardiopatía estructural subyacente"
+        ],
+        "correctAnswer": 4,
+        "explanation": "La presencia de cardiopatía estructural subyacente, como enfermedad arterial coronaria, miocardiopatías o insuficiencia cardíaca, empeora significativamente el pronóstico de las arritmias. Estas condiciones crean un sustrato favorable para arritmias ventriculares graves y aumentan sustancialmente el riesgo de muerte súbita cardíaca.",
+        "hashtags": [
+            "cardiologia",
+            "arritmias_cardiacas",
+            "epidemiologia_pronostico"
+        ]
+    },
+    {
+        "question": "¿Qué hábito puede desencadenar fibrilación auricular?",
+        "options": [
+            "Ejercicio regular",
+            "Control de peso",
+            "Consumo de alcohol",
+            "Dieta saludable"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Para la prevención primaria de arritmias, se recomienda la moderación o abstención del consumo de alcohol. El alcohol es un factor conocido que puede desencadenar episodios de fibrilación auricular, un fenómeno a veces denominado 'corazón de vacaciones'. Su eliminación puede reducir significativamente las recurrencias.",
+        "hashtags": [
+            "cardiologia",
+            "fibrilacion_auricular",
+            "tratamiento"
+        ]
+    },
+    {
+        "question": "¿Qué procedimiento previene la muerte súbita en alto riesgo?",
+        "options": [
+            "Ablación por catéter",
+            "Marcapasos permanente",
+            "Implante de desfibrilador automático",
+            "Cirugía de laberinto"
+        ],
+        "correctAnswer": 3,
+        "explanation": "En pacientes con alto riesgo de muerte súbita cardíaca (MSC), como supervivientes de MSC o aquellos con disfunción ventricular severa o canalopatías, el implante de un desfibrilador automático implantable (DAI) es un pilar fundamental de la prevención secundaria. Este dispositivo detecta y termina arritmias ventriculares malignas mediante estimulación o choques eléctricos.",
+        "hashtags": [
+            "cardiologia",
+            "muerte_subita_cardiaca",
+            "tratamiento"
+        ]
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
   ]
 }
