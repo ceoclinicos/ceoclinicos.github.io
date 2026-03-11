@@ -499,7 +499,8 @@
       "precioPildoras": "caro",
       "numPreguntas": 56,
       "etiquetas": [
-        "#postgrado", "#oftalmo"
+        "#postgrado",
+        "#oftalmo"
       ],
       "tieneGuia": false
     },
@@ -527,7 +528,9 @@
       "pdfUrl": "",
       "precioPildoras": 0,
       "numPreguntas": 2,
-      "etiquetas": ["#olimpiadas"],
+      "etiquetas": [
+        "#olimpiadas"
+      ],
       "tieneGuia": false,
       "oculto": true
     },
@@ -538,9 +541,26 @@
       "pdfUrl": "",
       "precioPildoras": 0,
       "numPreguntas": 2,
-      "etiquetas": ["#olimpiadas"],
+      "etiquetas": [
+        "#olimpiadas"
+      ],
       "tieneGuia": false,
       "oculto": true
+    },
+    {
+      "id": "insuficiencia_cardiaca",
+      "titulo": "Insuficiencia Cardíaca",
+      "descripcion": "Domina el diagnóstico, tratamiento y manejo de la insuficiencia cardíaca, una patología crónica de alta prevalencia y complejidad.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 50,
+      "etiquetas": [
+        "#cardiologia",
+        "#insuficienciacardiaca",
+        "#medicinainterna",
+        "#cardiomiopatia"
+      ],
+      "tieneGuia": false
     }
   ]
 }
