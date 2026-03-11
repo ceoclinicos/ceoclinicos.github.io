@@ -1,5 +1,31 @@
 {
   "temas": [
+      {
+      "id": "olimpiada_practica",
+      "titulo": "Práctica",
+      "descripcion": "Banco de práctica para olimpiadas (no se muestra en Estudio).",
+      "pdfUrl": "",
+      "precioPildoras": 0,
+      "numPreguntas": 2,
+      "etiquetas": [
+        "#olimpiadas"
+      ],
+      "tieneGuia": false,
+      "oculto": true
+    },
+    {
+      "id": "olimpiada_oficial",
+      "titulo": "Olimpiadas",
+      "descripcion": "Banco oficial por día (no se muestra en Estudio).",
+      "pdfUrl": "",
+      "precioPildoras": 0,
+      "numPreguntas": 2,
+      "etiquetas": [
+        "#olimpiadas"
+      ],
+      "tieneGuia": false,
+      "oculto": true
+    },
     {
       "id": "anatomia_abdomen",
       "titulo": "Anatomía del Abdomen",
@@ -522,32 +548,6 @@
       "tieneGuia": false
     },
     {
-      "id": "olimpiada_practica",
-      "titulo": "Práctica",
-      "descripcion": "Banco de práctica para olimpiadas (no se muestra en Estudio).",
-      "pdfUrl": "",
-      "precioPildoras": 0,
-      "numPreguntas": 2,
-      "etiquetas": [
-        "#olimpiadas"
-      ],
-      "tieneGuia": false,
-      "oculto": true
-    },
-    {
-      "id": "olimpiada_oficial",
-      "titulo": "Olimpiadas",
-      "descripcion": "Banco oficial por día (no se muestra en Estudio).",
-      "pdfUrl": "",
-      "precioPildoras": 0,
-      "numPreguntas": 2,
-      "etiquetas": [
-        "#olimpiadas"
-      ],
-      "tieneGuia": false,
-      "oculto": true
-    },
-    {
       "id": "insuficiencia_cardiaca",
       "titulo": "Insuficiencia Cardíaca",
       "descripcion": "Domina el diagnóstico, tratamiento y manejo de la insuficiencia cardíaca, una patología crónica de alta prevalencia y complejidad.",
@@ -559,6 +559,23 @@
         "#insuficienciacardiaca",
         "#medicinainterna",
         "#cardiomiopatia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "shock_cardiogenico",
+      "titulo": "Shock Cardiogénico",
+      "descripcion": "Explora el fallo crítico del corazón para bombear suficiente sangre, sus causas, diagnóstico y manejo de emergencia. Crucial para entender esta condición que amenaza la vida.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 50,
+      "etiquetas": [
+        "#cardiologia",
+        "#shock",
+        "#emergencias",
+        "#cuidados_intensivos",
+        "#insuficiencia_cardiaca",
+        "#medicina_interna"
       ],
       "tieneGuia": false
     }
