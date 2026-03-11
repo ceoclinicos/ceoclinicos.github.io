@@ -475,7 +475,7 @@
       "precioPildoras": "caro",
       "numPreguntas": 122,
       "etiquetas": [
-        "#general"
+        "#postgrado"
       ],
       "tieneGuia": false
     },
@@ -487,7 +487,7 @@
       "precioPildoras": "caro",
       "numPreguntas": 330,
       "etiquetas": [
-        "#general"
+        "#postgrado"
       ],
       "tieneGuia": false
     },
@@ -499,7 +499,24 @@
       "precioPildoras": "caro",
       "numPreguntas": 56,
       "etiquetas": [
-        "#general"
+        "#postgrado", "#oftalmo"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "infarto_agudo_del_miocardio",
+      "titulo": "Infarto agudo del miocardio",
+      "descripcion": "Estudio de la condición grave donde el flujo sanguíneo al corazón se interrumpe, causando daño al músculo cardíaco. Incluye diagnóstico, manejo y prevención.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 68,
+      "etiquetas": [
+        "#cardiologia",
+        "#infarto",
+        "#IAM",
+        "#urgencias",
+        "#medicina_interna",
+        "#patologia"
       ],
       "tieneGuia": false
     },
