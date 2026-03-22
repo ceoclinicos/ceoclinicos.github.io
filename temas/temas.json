@@ -531,71 +531,6 @@
       "tieneGuia": false
     },
     {
-      "id": "infarto_agudo_del_miocardio",
-      "titulo": "Infarto agudo del miocardio",
-      "descripcion": "Estudio de la condición grave donde el flujo sanguíneo al corazón se interrumpe, causando daño al músculo cardíaco. Incluye diagnóstico, manejo y prevención.",
-      "pdfUrl": "",
-      "precioPildoras": "barato",
-      "numPreguntas": 68,
-      "etiquetas": [
-        "#cardiologia",
-        "#infarto",
-        "#IAM",
-        "#urgencias",
-        "#medicina_interna",
-        "#patologia"
-      ],
-      "tieneGuia": false
-    },
-    {
-      "id": "insuficiencia_cardiaca",
-      "titulo": "Insuficiencia Cardíaca",
-      "descripcion": "Domina el diagnóstico, tratamiento y manejo de la insuficiencia cardíaca, una patología crónica de alta prevalencia y complejidad.",
-      "pdfUrl": "",
-      "precioPildoras": "barato",
-      "numPreguntas": 50,
-      "etiquetas": [
-        "#cardiologia",
-        "#insuficienciacardiaca",
-        "#medicinainterna",
-        "#cardiomiopatia"
-      ],
-      "tieneGuia": false
-    },
-    {
-      "id": "shock_cardiogenico",
-      "titulo": "Shock Cardiogénico",
-      "descripcion": "Explora el fallo crítico del corazón para bombear suficiente sangre, sus causas, diagnóstico y manejo de emergencia. Crucial para entender esta condición que amenaza la vida.",
-      "pdfUrl": "",
-      "precioPildoras": "barato",
-      "numPreguntas": 50,
-      "etiquetas": [
-        "#cardiologia",
-        "#shock",
-        "#emergencias",
-        "#cuidados_intensivos",
-        "#insuficiencia_cardiaca",
-        "#medicina_interna"
-      ],
-      "tieneGuia": false
-    },
-    {
-      "id": "neumonica_adquirida_en_la_comunidad",
-      "titulo": "Neumonía (NAC)",
-      "descripcion": "La neumonía adquirida en la comunidad es una infección pulmonar que ocurre fuera de los hospitales o centros de atención médica. Se caracteriza por la inflamación de los alvéolos pulmonares.",
-      "pdfUrl": "",
-      "precioPildoras": "barato",
-      "numPreguntas": 36,
-      "etiquetas": [
-        "#neumonia",
-        "#infeccion_pulmonar",
-        "#respiratorio",
-        "#medicina_interna",
-        "#infectologia"
-      ],
-      "tieneGuia": false
-    },
-    {
       "id": "pancreatitis_aguda",
       "titulo": "Pancreatitis Aguda",
       "descripcion": "Contenido sobre pancreatitis aguda.",
@@ -603,7 +538,26 @@
       "precioPildoras": "barato",
       "numPreguntas": 50,
       "etiquetas": [
-        "#pancreatitisaguda"
+        "#pancreatitisaguda",
+        "#salud_digestiva",
+        "#cirugia",
+        "#patologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "cancer_de_colon",
+      "titulo": "Cáncer de Colon",
+      "descripcion": "Información esencial sobre el cáncer de colon, sus causas, síntomas, diagnóstico y opciones de tratamiento para pacientes y familiares.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 50,
+      "etiquetas": [
+        "#oncologia",
+        "#cancer_de_colon",
+        "#salud_digestiva",
+        "#prevencion",
+        "#patologia"
       ],
       "tieneGuia": false
     }
