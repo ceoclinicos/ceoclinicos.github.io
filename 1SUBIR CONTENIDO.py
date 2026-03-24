@@ -13,10 +13,37 @@ Uso:
 import os
 import sys
 import subprocess
+import json
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox, scrolledtext
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+
+def incrementar_version_json(log_fn=None):
+    """Incrementa website_clinicos/version.json antes de subir."""
+    def log(s):
+        if log_fn:
+            log_fn(s)
+        else:
+            print(s)
+
+    version_path = os.path.join(SCRIPT_DIR, "version.json")
+    if not os.path.exists(version_path):
+        return False, f"No se encontró version.json en {version_path}"
+
+    try:
+        with open(version_path, "r", encoding="utf-8") as f:
+            data = json.load(f) or {}
+        version_actual = int(data.get("version", 0))
+        nueva_version = version_actual + 1
+        data["version"] = nueva_version
+        with open(version_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        log(f"version.json: {version_actual} -> {nueva_version}")
+        return True, nueva_version
+    except Exception as e:
+        return False, str(e)
 
 
 def _rutas_a_lista(ruta_o_lista):
@@ -251,6 +278,11 @@ def main_gui():
             messagebox.showwarning("Falta ruta", "Indica al menos una carpeta o archivo a subir.")
             return
         txt.delete(1.0, tk.END)
+
+        ok_version, res_version = incrementar_version_json(log_fn=log)
+        if not ok_version:
+            messagebox.showwarning("Error versión", f"No se pudo actualizar version.json:\n{res_version}")
+            return
         
         # Elegir función normal o forzada según el checkbox
         if var_force.get():

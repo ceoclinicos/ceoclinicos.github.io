@@ -3,12 +3,12 @@
     {
       "question": "¿Cuál es la definición principal de cáncer de colon?",
       "options": [
-        "Una neoplasia maligna del epitelio de revestimiento colónico",
-        "Una proliferación benigna de glándulas",
         "Una inflamación crónica del colon",
+        "Una proliferación benigna de glándulas",
+        "Una neoplasia maligna del epitelio de revestimiento colónico",
         "Una infección bacteriana del intestino grueso"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "El cáncer de colon, o colorrectal, se define como una neoplasia maligna que se origina en las células epiteliales que recubren el interior del colon, caracterizada por un crecimiento celular descontrolado y potencial de invasión y metástasis.",
       "hashtags": [
         "medicina_interna",
@@ -23,11 +23,11 @@
       "question": "¿Qué tipo histológico es el más común en el cáncer de colon?",
       "options": [
         "Carcinoma de células escamosas",
-        "Adenocarcinoma",
+        "Sarcoma",
         "Linfoma",
-        "Sarcoma"
+        "Adenocarcinoma"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 4,
       "explanation": "La gran mayoría de los cánceres de colon se originan en las glándulas mucosas del intestino grueso, clasificándose como adenocarcinomas. Otros tipos histológicos son mucho menos frecuentes.",
       "hashtags": [
         "medicina_interna",
@@ -42,11 +42,11 @@
       "question": "¿Cuál de los siguientes es un factor de riesgo genético importante para el cáncer de colon hereditario?",
       "options": [
         "Enfermedad de Crohn",
-        "Síndrome de Intestino Irritable",
         "Poliposis Adenomatosa Familiar (PAF)",
+        "Síndrome de Intestino Irritable",
         "Colitis ulcerosa"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "La Poliposis Adenomatosa Familiar (PAF) es un síndrome hereditario caracterizado por el desarrollo de cientos de pólipos adenomatosos en el colon, lo que confiere un riesgo extremadamente alto de malignización.",
       "hashtags": [
         "medicina_interna",
@@ -62,10 +62,10 @@
       "options": [
         "Dieta rica en fibra y baja en grasas",
         "Dieta vegetariana",
-        "Dieta alta en frutas y verduras",
-        "Dieta pobre en fibra y rica en grasas animales"
+        "Dieta pobre en fibra y rica en grasas animales",
+        "Dieta alta en frutas y verduras"
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "explanation": "Una dieta caracterizada por bajo consumo de fibra y alto consumo de grasas animales, carnes rojas y procesadas, se ha asociado de forma consistente con un aumento del riesgo de desarrollar cáncer colorrectal.",
       "hashtags": [
         "medicina_interna",
@@ -79,12 +79,12 @@
     {
       "question": "¿Cuál de las siguientes enfermedades inflamatorias intestinales confiere un riesgo elevado de cáncer de colon?",
       "options": [
-        "Colitis ulcerosa",
-        "Enfermedad de Reflujo Gastroesofágico",
         "Gastritis",
+        "Enfermedad de Reflujo Gastroesofágico",
+        "Colitis ulcerosa",
         "Pancreatitis"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "La Colitis Ulcerosa y la Enfermedad de Crohn, ambas enfermedades inflamatorias intestinales crónicas, aumentan significativamente el riesgo de displasia y cáncer colorrectal, especialmente cuando la enfermedad es extensa y de larga duración.",
       "hashtags": [
         "medicina_interna",
@@ -119,10 +119,10 @@
       "options": [
         "KRAS",
         "TP53",
-        "APC",
-        "SMAD4"
+        "SMAD4",
+        "APC"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "El gen APC (Adenomatous Polyposis Coli) codifica una proteína esencial para la regulación de la vía de señalización WNT/beta-catenina. Su inactivación es un evento temprano en la formación de pólipos adenomatosos.",
       "hashtags": [
         "medicina_interna",
@@ -137,11 +137,11 @@
       "question": "Las mutaciones en el gen KRAS son consideradas eventos que favorecen la progresión de:",
       "options": [
         "Célula normal a pólipo incipiente",
-        "Carcinoma invasivo a metástasis",
+        "Pólipo incipiente a adenoma avanzado",
         "Adenoma avanzado a carcinoma invasivo",
-        "Pólipo incipiente a adenoma avanzado"
+        "Carcinoma invasivo a metástasis"
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 2,
       "explanation": "Las mutaciones en el gen KRAS son eventos posteriores a la inactivación de APC y favorecen la progresión de un pólipo adenomatoso a un adenoma avanzado, promoviendo la proliferación continua.",
       "hashtags": [
         "medicina_interna",
@@ -155,12 +155,12 @@
     {
       "question": "¿Qué gen supresor de tumores, crucial para el ciclo celular y la apoptosis, su inactivación es un evento tardío común en la carcinogénesis colorrectal?",
       "options": [
-        "TP53",
-        "KRAS",
         "APC",
+        "KRAS",
+        "TP53",
         "SMAD4"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "La inactivación del gen TP53, que codifica la proteína p53, es un evento genético tardío frecuente en el cáncer de colon, contribuyendo a la resistencia a la apoptosis y la inestabilidad genómica.",
       "hashtags": [
         "medicina_interna",
@@ -175,11 +175,11 @@
       "question": "¿Qué vía de carcinogénesis se caracteriza por defectos en los mecanismos de reparación de errores de apareamiento (MMR)?",
       "options": [
         "Vía de inestabilidad genómica cromosómica (CIN)",
-        "Vía de inestabilidad de microsatélites (MSI)",
         "Vía adenoma-carcinoma",
+        "Vía de inestabilidad de microsatélites (MSI)",
         "Vía de transformación maligna directa"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "La vía de Inestabilidad de Microsatélites (MSI) se produce por defectos en los genes de reparación de errores de apareamiento (MMR), lo que lleva a una acumulación de mutaciones en regiones repetidas del ADN.",
       "hashtags": [
         "medicina_interna",
@@ -194,11 +194,11 @@
       "question": "¿Cuál es la principal característica de la vía de Inestabilidad Genómica Cromosómica (CIN)?",
       "options": [
         "Acumulación de mutaciones puntuales",
-        "Defectos en la reparación de ADN",
         "Pérdida o ganancia de cromosomas enteros",
+        "Defectos en la reparación de ADN",
         "Activación de oncogenes específicos"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "La vía de Inestabilidad Genómica Cromosómica (CIN) se define por la presencia de anomalías numéricas y estructurales en los cromosomas, como ganancias o pérdidas de segmentos o cromosomas completos.",
       "hashtags": [
         "medicina_interna",
@@ -214,10 +214,10 @@
       "options": [
         "Apoptosis",
         "Necrosis",
-        "Diferenciación celular",
-        "Angiogénesis"
+        "Angiogénesis",
+        "Diferenciación celular"
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "explanation": "La angiogénesis, la formación de nuevos vasos sanguíneos, es crucial para el crecimiento de tumores más allá de un cierto tamaño, ya que les proporciona el suministro necesario de oxígeno y nutrientes para proliferar.",
       "hashtags": [
         "medicina_interna",
@@ -231,12 +231,12 @@
     {
       "question": "¿Cuáles son los sitios más comunes de metástasis a distancia en el cáncer de colon?",
       "options": [
-        "Hígado y pulmones",
         "Cerebro y huesos",
+        "Hígado y pulmones",
         "Piel y ganglios supraclaviculares",
         "Riñones y bazo"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "El hígado y los pulmones son los órganos más frecuentemente afectados por metástasis a distancia del cáncer de colon, debido a la vía de diseminación venosa y linfática.",
       "hashtags": [
         "medicina_interna",
@@ -251,11 +251,11 @@
       "question": "¿Qué marcador tumoral sérico se utiliza principalmente para el seguimiento del cáncer de colon y la detección de recurrencias?",
       "options": [
         "CA 125",
-        "ACE",
         "PSA",
+        "ACE",
         "CA 19-9"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "El Antígeno Carcinoembrionario (ACE) es un marcador tumoral que, aunque no es diagnóstico, es útil para monitorear la respuesta al tratamiento y detectar posibles recurrencias del cáncer de colon.",
       "hashtags": [
         "medicina_interna",
@@ -290,10 +290,10 @@
       "options": [
         "Prueba de guayaco",
         "Detección de ADN fecal",
-        "Sigmoidoscopia flexible",
-        "Prueba inmunoquímica fecal (FIT)"
+        "Prueba inmunoquímica fecal (FIT)",
+        "Sigmoidoscopia flexible"
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "explanation": "Las pruebas inmunoquímicas fecales (FIT) son pruebas de cribado no invasivas que detectan específicamente la globina humana en las heces, siendo más sensibles y específicas que las pruebas de guayaco.",
       "hashtags": [
         "medicina_interna",
@@ -307,12 +307,12 @@
     {
       "question": "¿Cuál de los siguientes síntomas es más característico de tumores en el colon derecho?",
       "options": [
-        "Anemia por deficiencia de hierro",
         "Cambio persistente en el hábito intestinal",
+        "Anemia por deficiencia de hierro",
         "Disminución del calibre de las heces",
         "Tenesmo rectal"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "Los tumores del colon derecho, a menudo de crecimiento exofítico, tienden a sangrar crónicamente de forma microscópica, lo que puede llevar a una anemia por deficiencia de hierro como manifestación principal.",
       "hashtags": [
         "medicina_interna",
@@ -327,11 +327,11 @@
       "question": "¿Qué síntoma sugiere una obstrucción intestinal parcial causada por un tumor en el colon izquierdo?",
       "options": [
         "Sangre roja brillante en heces",
-        "Disminución del calibre de las heces",
         "Fatiga generalizada",
+        "Disminución del calibre de las heces",
         "Pérdida de peso inexplicable"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Los tumores en el colon izquierdo, que tienden a ser anulares, pueden estrechar el lumen intestinal y causar que las heces adquieran un calibre disminuido o se vuelvan más finas.",
       "hashtags": [
         "medicina_interna",
@@ -347,10 +347,10 @@
       "options": [
         "Palpación abdominal",
         "Auscultación abdominal",
-        "Tacto rectal",
-        "Percusión abdominal"
+        "Percusión abdominal",
+        "Tacto rectal"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "El tacto rectal es una maniobra esencial para evaluar el recto, permitiendo la detección de masas tumorales, la presencia de sangre y la evaluación de la tonicidad del esfínter anal.",
       "hashtags": [
         "medicina_interna",
@@ -366,10 +366,10 @@
       "options": [
         "Tono normal del esfínter",
         "Ausencia de dolor",
-        "Superficie lisa y blanda",
-        "Presencia de una masa dura y fija"
+        "Presencia de una masa dura y fija",
+        "Superficie lisa y blanda"
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "explanation": "La palpación de una masa dura, posiblemente fija a estructuras adyacentes, en el recto durante el tacto rectal es un signo altamente sospechoso de malignidad.",
       "hashtags": [
         "medicina_interna",
@@ -383,12 +383,12 @@
     {
       "question": "¿En el sistema TNM, la letra 'N' se refiere a:",
       "options": [
-        "Ganglios Linfáticos Regionales",
-        "Metástasis a Distancia",
         "Tamaño del Tumor Primario",
+        "Metástasis a Distancia",
+        "Ganglios Linfáticos Regionales",
         "Grado de Diferenciación Tumoral"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "En el sistema de estadificación TNM, la 'N' se refiere a la afectación de los ganglios linfáticos regionales, indicando la extensión de la diseminación tumoral a través del sistema linfático.",
       "hashtags": [
         "medicina_interna",
@@ -403,11 +403,11 @@
       "question": "¿Qué indica un estadio pT3 N0 M0 en la clasificación del cáncer de colon?",
       "options": [
         "Carcinoma in situ",
-        "Tumor invadiendo la subserosa o tejido pericólico, sin ganglios ni metástasis",
+        "Tumor invadiendo la submucosa sin ganglios ni metástasis",
         "Tumor invadiendo la muscular propia sin ganglios ni metástasis",
-        "Tumor invadiendo la submucosa sin ganglios ni metástasis"
+        "Tumor invadiendo la subserosa o tejido pericólico, sin ganglios ni metástasis"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 4,
       "explanation": "Un pT3 indica que el tumor ha invadido la subserosa o los tejidos pericólicos no peritoneales, mientras que N0 y M0 significan ausencia de metástasis en ganglios regionales y a distancia, respectivamente.",
       "hashtags": [
         "medicina_interna",
@@ -442,10 +442,10 @@
       "options": [
         "Estabilidad de Microsatélites (MSS)",
         "KRAS mutado",
-        "BRAF mutado",
-        "Inestabilidad de Microsatélites alta (MSI-H)"
+        "Inestabilidad de Microsatélites alta (MSI-H)",
+        "BRAF mutado"
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "explanation": "Los tumores con Inestabilidad de Microsatélites alta (MSI-H) o deficiencia en la reparación de errores de apareamiento (dMMR) a menudo responden mejor a la inmunoterapia y pueden tener un pronóstico diferente.",
       "hashtags": [
         "medicina_interna",
@@ -479,11 +479,11 @@
       "question": "La diarrea sanguinolenta, el dolor abdominal y el tenesmo son síntomas típicos de:",
       "options": [
         "Isquemia mesentérica crónica",
-        "Colitis ulcerosa",
         "Diverticulitis aguda",
+        "Colitis ulcerosa",
         "Síndrome de intestino irritable"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "La Colitis Ulcerosa se caracteriza por inflamación y ulceración del colon, manifestándose típicamente con diarrea sanguinolenta, dolor abdominal y tenesmo, síntomas que deben distinguirse de un cáncer de colon.",
       "hashtags": [
         "medicina_interna",
@@ -518,10 +518,10 @@
       "options": [
         "Quimioterapia adyuvante",
         "Radioterapia",
-        "Inmunoterapia",
-        "Tratamiento quirúrgico"
+        "Tratamiento quirúrgico",
+        "Inmunoterapia"
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "explanation": "La cirugía para extirpar el tumor primario con márgenes libres es el pilar fundamental y el tratamiento con mayor potencial curativo para el cáncer de colon en estadios localizados.",
       "hashtags": [
         "medicina_interna",
@@ -535,12 +535,12 @@
     {
       "question": "¿Para qué estadio de cáncer de colon se recomienda generalmente la quimioterapia adyuvante?",
       "options": [
-        "Estadio III",
-        "Estadio II con bajo riesgo",
         "Estadio I",
+        "Estadio II con bajo riesgo",
+        "Estadio III",
         "Estadio IV"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "La quimioterapia adyuvante se considera estándar para pacientes con cáncer de colon en Estadio III, y en casos seleccionados de Estadio II con factores de alto riesgo, para erradicar micrometástasis.",
       "hashtags": [
         "medicina_interna",
@@ -555,11 +555,11 @@
       "question": "¿Cuál es un régimen de quimioterapia adyuvante comúnmente utilizado para el cáncer de colon?",
       "options": [
         "Paclitaxel",
-        "FOLFOX (5-FU, Leucovorin, Oxaliplatino)",
         "Gemcitabina",
+        "FOLFOX (5-FU, Leucovorin, Oxaliplatino)",
         "Vincristina"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "FOLFOX es un régimen de quimioterapia combinado que incluye 5-fluorouracilo, leucovorin y oxaliplatino, frecuentemente utilizado como tratamiento adyuvante para el cáncer de colon.",
       "hashtags": [
         "medicina_interna",
@@ -593,11 +593,11 @@
       "question": "¿Cuál es el objetivo principal del tratamiento neoadyuvante en el cáncer de recto?",
       "options": [
         "Erradicar metástasis a distancia",
-        "Aliviar el dolor",
+        "Reducir el tamaño tumoral y facilitar la cirugía",
         "Aumentar la absorción de nutrientes",
-        "Reducir el tamaño tumoral y facilitar la cirugía"
+        "Aliviar el dolor"
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 2,
       "explanation": "El tratamiento neoadyuvante, que puede incluir quimioterapia y radioterapia, se administra antes de la cirugía en el cáncer de recto para reducir el tamaño del tumor, mejorar los márgenes quirúrgicos y aumentar las posibilidades de preservar el esfínter anal.",
       "hashtags": [
         "medicina_interna",
@@ -611,12 +611,12 @@
     {
       "question": "¿Para qué tipo de tumores de colon metastásico (sin mutaciones en KRAS, NRAS, BRAF) se utiliza la terapia anti-EGFR?",
       "options": [
-        "Tumores KRAS/NRAS/BRAF wild-type",
-        "Tumores MSS",
         "Tumores MSI-H",
+        "Tumores MSS",
+        "Tumores KRAS/NRAS/BRAF wild-type",
         "Tumores con amplificación HER2"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "Los anticuerpos monoclonales anti-EGFR, como cetuximab y panitumumab, son efectivos en tumores de colon metastásico que no presentan mutaciones en los genes KRAS, NRAS o BRAF (wild-type).",
       "hashtags": [
         "medicina_interna",
@@ -631,11 +631,11 @@
       "question": "¿Qué terapia antiangiogénica se utiliza para inhibir la formación de nuevos vasos sanguíneos que nutren el tumor?",
       "options": [
         "Cetuximab",
-        "Bevacizumab",
         "Pembrolizumab",
+        "Bevacizumab",
         "Trastuzumab"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "El Bevacizumab es un anticuerpo monoclonal que inhibe el factor de crecimiento del endotelio vascular (VEGF), bloqueando así la angiogénesis y el suministro de sangre al tumor.",
       "hashtags": [
         "medicina_interna",
@@ -670,10 +670,10 @@
       "options": [
         "Radioterapia hepática",
         "Quimioterapia sistémica paliativa",
-        "Ablación por radiofrecuencia",
-        "Resección quirúrgica de metástasis"
+        "Resección quirúrgica de metástasis",
+        "Ablación por radiofrecuencia"
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "explanation": "La resección quirúrgica de las metástasis hepáticas es una opción de tratamiento que puede ofrecer curación en pacientes con cáncer de colon metastásico, siempre y cuando las metástasis sean resecables y el tumor primario esté controlado.",
       "hashtags": [
         "medicina_interna",
@@ -687,12 +687,12 @@
     {
       "question": "¿Cuál es una orden médica común en el ingreso hospitalario de un paciente con sospecha de cáncer de colon obstructivo?",
       "options": [
-        "Dieta sin residuos",
         "Dieta alta en fibra",
+        "Dieta sin residuos",
         "Movilización temprana",
         "Administración de laxantes"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "En un paciente con sospecha de obstrucción intestinal por cáncer de colon, se suele indicar una dieta blanda, sin residuos, para minimizar la carga de material en el intestino y prevenir la exacerbación de la obstrucción.",
       "hashtags": [
         "medicina_interna",
@@ -707,11 +707,11 @@
       "question": "¿Qué laboratorio es esencial solicitar antes de iniciar un ciclo de quimioterapia para evaluar la toxicidad hematológica?",
       "options": [
         "Electrolitos séricos",
-        "Hemograma completo con diferencial",
         "Función hepática",
+        "Hemograma completo con diferencial",
         "Marcador ACE"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Un hemograma completo con recuento diferencial de leucocitos, plaquetas y hemoglobina es crucial antes de cada ciclo de quimioterapia para evaluar el riesgo de mielosupresión y ajustar la dosis si es necesario.",
       "hashtags": [
         "medicina_interna",
@@ -726,11 +726,11 @@
       "question": "¿Qué orden médica es fundamental para la prevención de complicaciones tromboembólicas en pacientes hospitalizados con cáncer de colon?",
       "options": [
         "Administración de analgésicos",
-        "Antibióticos de amplio espectro",
         "Profilaxis tromboembólica",
+        "Antibióticos de amplio espectro",
         "Fluidoterapia intensiva"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "Los pacientes con cáncer, especialmente si están hospitalizados o inmovilizados, tienen un riesgo aumentado de tromboembolismo venoso, por lo que la profilaxis tromboembólica es una orden médica importante.",
       "hashtags": [
         "medicina_interna",
@@ -745,11 +745,11 @@
       "question": "¿Cuál de los siguientes es un efecto secundario común de la quimioterapia con oxaliplatino que requiere monitorización específica?",
       "options": [
         "Alopecia",
-        "Hipertensión arterial",
+        "Neuropatía periférica",
         "Diarrea acuosa severa",
-        "Neuropatía periférica"
+        "Hipertensión arterial"
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 2,
       "explanation": "La neuropatía periférica, que puede manifestarse como hormigueo o adormecimiento en manos y pies, es un efecto secundario característico y a menudo limitante de la dosis del oxaliplatino.",
       "hashtags": [
         "medicina_interna",
@@ -763,12 +763,12 @@
     {
       "question": "¿Qué indicación se da al alta hospitalaria para un paciente con cáncer de colon tratado quirúrgicamente, enfocada en la detección temprana de recurrencias?",
       "options": [
-        "Seguimiento con marcadores tumorales y colonoscopias periódicas",
         "Realizar colonoscopia cada 10 años",
+        "Seguimiento con marcadores tumorales y colonoscopias periódicas",
         "Evitar la ingesta de lácteos",
         "Continuar la quimioterapia sin interrupción"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "El seguimiento post-tratamiento del cáncer de colon incluye la realización periódica de colonoscopias y, en algunos casos, el monitoreo de marcadores tumorales como el ACE, para la detección temprana de recurrencias.",
       "hashtags": [
         "medicina_interna",
@@ -783,11 +783,11 @@
       "question": "¿Cuál es una orden médica esencial en el manejo paliativo del dolor severo en un paciente con cáncer de colon avanzado?",
       "options": [
         "Paracetamol cada 8 horas",
-        "Opioides (ej. Morfina) según escala del dolor",
         "Administración de AINEs",
+        "Opioides (ej. Morfina) según escala del dolor",
         "Fisioterapia intensiva"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Para el manejo del dolor severo en oncología, se recurre a opioides fuertes, titulando la dosis según la escala de intensidad del dolor del paciente, siguiendo la escalera analgésica de la OMS.",
       "hashtags": [
         "medicina_interna",
@@ -822,10 +822,10 @@
       "options": [
         "Mayor respuesta a la inmunoterapia",
         "Indicación para terapia anti-EGFR",
-        "Ausencia de necesidad de quimioterapia",
-        "Peor pronóstico y menor respuesta a terapia anti-EGFR"
+        "Peor pronóstico y menor respuesta a terapia anti-EGFR",
+        "Ausencia de necesidad de quimioterapia"
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "explanation": "La presencia de mutaciones en el gen BRAF en el cáncer de colon metastásico se asocia con un peor pronóstico y una menor respuesta a las terapias dirigidas contra el receptor del factor de crecimiento epidérmico (anti-EGFR).",
       "hashtags": [
         "medicina_interna",
@@ -839,12 +839,12 @@
     {
       "question": "¿Cuál es un síntoma gastrointestinal común en el cáncer de colon que puede indicar una masa palpable en el abdomen?",
       "options": [
-        "Distensión abdominal",
-        "Ardor epigástrico",
         "Hipo persistente",
+        "Ardor epigástrico",
+        "Distensión abdominal",
         "Disfagia"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "Una masa tumoral grande en el colon puede causar distensión abdominal, sensación de plenitud y, en algunos casos, ser palpable a través de la pared abdominal.",
       "hashtags": [
         "medicina_interna",
@@ -858,12 +858,12 @@
     {
       "question": "¿La clasificación TNM de un tumor T4b N0 M0 indica que el tumor:",
       "options": [
-        "Está confinado a la submucosa",
         "Ha invadido estructuras adyacentes",
+        "Está confinado a la submucosa",
         "Ha afectado a 4 o más ganglios",
         "Ha producido metástasis hepáticas"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "Un T4b en la clasificación TNM significa que el tumor primario ha invadido otros órganos o estructuras adyacentes, lo cual es una etapa avanzada de invasión local.",
       "hashtags": [
         "medicina_interna",
@@ -878,11 +878,11 @@
       "question": "¿Qué implicación tiene la detección de un nódulo pulmonar en la estadificación de un cáncer de colon, asumiendo que el origen es colónico?",
       "options": [
         "Indica Inestabilidad de Microsatélites (MSI)",
-        "Sugiere una complicación de la cirugía",
         "Corresponde a un estadio M1 (metástasis a distancia)",
+        "Sugiere una complicación de la cirugía",
         "Es un signo de inflamación benigna"
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "La detección de un nódulo pulmonar en un paciente con cáncer de colon, si se confirma que es una metástasis, clasifica la enfermedad en Estadio IV (M1), indicando la presencia de metástasis a distancia.",
       "hashtags": [
         "medicina_interna",
@@ -897,11 +897,11 @@
       "question": "¿Cuál es el riesgo principal asociado a la obesidad abdominal como factor de riesgo para el cáncer de colon?",
       "options": [
         "Infección directa del colon",
-        "Disminución de la motilidad intestinal",
+        "Alteraciones hormonales y estados inflamatorios crónicos",
         "Reducción de la absorción de vitaminas",
-        "Alteraciones hormonales y estados inflamatorios crónicos"
+        "Disminución de la motilidad intestinal"
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 2,
       "explanation": "La obesidad abdominal se asocia con alteraciones hormonales (como la resistencia a la insulina) y estados inflamatorios crónicos que pueden promover el desarrollo y la progresión del cáncer colorrectal.",
       "hashtags": [
         "medicina_interna",
@@ -915,12 +915,12 @@
     {
       "question": "¿Qué prueba de diagnóstico por imagen es útil para evaluar la extensión local de tumores rectales y la afectación de ganglios linfáticos adyacentes?",
       "options": [
-        "Resonancia Magnética (RM) de pelvis",
-        "Ecografía abdominal",
         "Radiografía de tórax",
+        "Ecografía abdominal",
+        "Resonancia Magnética (RM) de pelvis",
         "TC de abdomen simple"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "La Resonancia Magnética (RM) de pelvis es la modalidad de imagen de elección para la estadificación local precisa de los tumores rectales, permitiendo evaluar la profundidad de invasión y la afectación de ganglios y estructuras cercanas.",
       "hashtags": [
         "medicina_interna",

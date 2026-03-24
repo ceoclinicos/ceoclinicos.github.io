@@ -3,12 +3,12 @@
     {
       "question": "¿Cuál es la definición de evento cerebrovascular (ECV)?",
       "options": [
-        "Obstrucción temporal de arterias cerebrales.",
         "Interrupción súbita del flujo sanguíneo cerebral.",
+        "Obstrucción temporal de arterias cerebrales.",
         "Inflamación aguda de los vasos cerebrales.",
         "Ruptura de vasos sanguíneos en el cerebro."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "Un evento cerebrovascular (ECV) se caracteriza por una interrupción súbita del flujo sanguíneo a una parte del cerebro, privando al tejido de oxígeno y nutrientes.",
       "hashtags": [
         "medicina_interna",
@@ -42,11 +42,11 @@
       "question": "¿Cuál es la principal categoría de ECV?",
       "options": [
         "Hemorrágico y trombótico.",
-        "Isquémico y hemorrágico.",
         "Isquémico y embólico.",
+        "Isquémico y hemorrágico.",
         "Lacunar y hemorrágico."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "Los eventos cerebrovasculares se clasifican principalmente en dos categorías: isquémicos (por bloqueo de vasos) y hemorrágicos (por ruptura de vasos).",
       "hashtags": [
         "medicina_interna",
@@ -61,11 +61,11 @@
       "question": "¿Qué ocurre en un ECV isquémico?",
       "options": [
         "Sangrado dentro del cerebro.",
-        "Un vaso sanguíneo cerebral se bloquea.",
+        "Ruptura de un aneurisma.",
         "Aumento de la presión intracraneal.",
-        "Ruptura de un aneurisma."
+        "Un vaso sanguíneo cerebral se bloquea."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 4,
       "explanation": "Los ECV isquémicos ocurren cuando un vaso sanguíneo que irriga el cerebro se bloquea, impidiendo el paso normal de la sangre.",
       "hashtags": [
         "medicina_interna",
@@ -79,12 +79,12 @@
     {
       "question": "¿Qué ocurre en un ECV hemorrágico?",
       "options": [
-        "Un vaso sanguíneo cerebral se bloquea.",
-        "Un coágulo de sangre obstruye una arteria.",
         "Un vaso sanguíneo en el cerebro se rompe.",
+        "Un coágulo de sangre obstruye una arteria.",
+        "Un vaso sanguíneo cerebral se bloquea.",
         "La sangre no llega al tejido cerebral."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "Los ECV hemorrágicos ocurren cuando un vaso sanguíneo en el cerebro se rompe, provocando sangrado en o alrededor del tejido cerebral.",
       "hashtags": [
         "medicina_interna",
@@ -99,11 +99,11 @@
       "question": "¿Cuál es la característica definitoria de los ECV?",
       "options": [
         "Dolor de cabeza crónico.",
-        "Aparición gradual de síntomas.",
         "Naturaleza súbita de los síntomas.",
+        "Aparición gradual de síntomas.",
         "Pérdida progresiva de memoria."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "La naturaleza súbita de la aparición de los síntomas es una característica clave de los eventos cerebrovasculares, subrayando la urgencia médica.",
       "hashtags": [
         "medicina_interna",
@@ -119,10 +119,10 @@
       "options": [
         "Malformaciones arteriovenosas.",
         "Aneurismas cerebrales.",
-        "Hipertensión arterial.",
-        "Aterosclerosis."
+        "Aterosclerosis.",
+        "Hipertensión arterial."
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "explanation": "La aterosclerosis, con la formación de placas de ateroma en las arterias cerebrales, es la causa más común de ECV isquémico.",
       "hashtags": [
         "medicina_interna",
@@ -138,10 +138,10 @@
       "options": [
         "Hipertensión arterial.",
         "Insuficiencia cardíaca.",
-        "Fibrilación auricular.",
-        "Estenosis aórtica."
+        "Estenosis aórtica.",
+        "Fibrilación auricular."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "La fibrilación auricular (FA), una arritmia cardíaca frecuente, es una causa principal de formación de coágulos en el corazón que pueden viajar al cerebro.",
       "hashtags": [
         "medicina_interna",
@@ -155,12 +155,12 @@
     {
       "question": "¿Cuál es la causa más común de hemorragia intracerebral espontánea?",
       "options": [
-        "Malformaciones arteriovenosas.",
+        "Hipertensión arterial.",
         "Aneurismas cerebrales.",
         "Angiopatía amiloide cerebral.",
-        "Hipertensión arterial."
+        "Malformaciones arteriovenosas."
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 1,
       "explanation": "La hipertensión arterial crónica es la causa más común de hemorragia intracerebral espontánea, debilitando las paredes de los vasos sanguíneos.",
       "hashtags": [
         "medicina_interna",
@@ -175,11 +175,11 @@
       "question": "¿Qué son las malformaciones arteriovenosas (MAVs) en el contexto de ECV hemorrágico?",
       "options": [
         "Coágulos sanguíneos en las arterias.",
-        "Dilataciones saculares de arterias.",
         "Ovillos de vasos sanguíneos anómalos.",
+        "Dilataciones saculares de arterias.",
         "Placas de ateroma en las arterias."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "Las MAVs son ovillos de vasos sanguíneos anómalos que conectan arterias y venas sin capilares intermedios, propensos a romperse.",
       "hashtags": [
         "medicina_interna",
@@ -194,11 +194,11 @@
       "question": "¿Qué efecto tiene la isquemia en la bomba de sodio-potasio?",
       "options": [
         "La acelera.",
-        "La detiene por falta de ATP.",
         "La hace más eficiente.",
+        "La detiene por falta de ATP.",
         "No la afecta."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "La reducción de ATP debido a la isquemia interrumpe la función de la bomba Na+/K+-ATPasa, lo que lleva a un desequilibrio iónico celular.",
       "hashtags": [
         "medicina_interna",
@@ -213,11 +213,11 @@
       "question": "¿Qué es la excitotoxicidad en la fisiopatología del ECV isquémico?",
       "options": [
         "Exceso de oxígeno daña neuronas.",
-        "Acumulación de calcio en neuronas por glutamato.",
+        "Inflamación destruye tejido.",
         "Falta de nutrientes causa disfunción.",
-        "Inflamación destruye tejido."
+        "Acumulación de calcio en neuronas por glutamato."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 4,
       "explanation": "La excitotoxicidad ocurre por la liberación excesiva de glutamato, que provoca una entrada masiva de calcio en las neuronas, causando daño.",
       "hashtags": [
         "medicina_interna",
@@ -231,12 +231,12 @@
     {
       "question": "¿Qué representa la penumbra isquémica?",
       "options": [
-        "Tejido cerebral muerto irreversible.",
-        "Tejido cerebral con flujo sanguíneo normal.",
         "Tejido cerebral potencialmente salvable.",
+        "Tejido cerebral con flujo sanguíneo normal.",
+        "Tejido cerebral muerto irreversible.",
         "Zona de hemorragia."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "La penumbra isquémica es un área de tejido cerebral con flujo sanguíneo reducido pero aún potencialmente salvable si se restaura el flujo a tiempo.",
       "hashtags": [
         "medicina_interna",
@@ -270,11 +270,11 @@
       "question": "¿Cómo actúa la trombosis en un ECV isquémico?",
       "options": [
         "Un coágulo viaja desde el corazón.",
-        "Formación de un coágulo in situ sobre una placa.",
         "Ruptura de un vaso sanguíneo.",
+        "Formación de un coágulo in situ sobre una placa.",
         "Inflamación del vaso."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "La trombosis implica la formación de un coágulo de sangre directamente en una arteria cerebral, a menudo secundaria a aterosclerosis.",
       "hashtags": [
         "medicina_interna",
@@ -289,11 +289,11 @@
       "question": "¿Qué efecto tiene el hematoma en el ECV hemorrágico?",
       "options": [
         "Mejora la perfusión cerebral.",
-        "Comprime y destruye tejido adyacente.",
+        "Desencadena una respuesta inmune.",
         "Aumenta el suministro de oxígeno.",
-        "Desencadena una respuesta inmune."
+        "Comprime y destruye tejido adyacente."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 4,
       "explanation": "La sangre dentro del parénquima cerebral (hematoma) actúa como una masa que comprime y daña el tejido neuronal circundante, además de aumentar la PIC.",
       "hashtags": [
         "medicina_interna",
@@ -307,12 +307,12 @@
     {
       "question": "¿Qué puede causar la sangre en el espacio subaracnoideo en una HSA?",
       "options": [
-        "Mejora del flujo sanguíneo.",
         "Vasoespasmo y posible isquemia secundaria.",
+        "Mejora del flujo sanguíneo.",
         "Regeneración neuronal.",
         "Reducción de la presión intracraneal."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "La sangre en el espacio subaracnoideo puede irritar los vasos y desencadenar vasoespasmo, una constricción que puede llevar a isquemia y daño cerebral tardío.",
       "hashtags": [
         "medicina_interna",
@@ -327,11 +327,11 @@
       "question": "¿Cuál es la segunda causa principal de muerte a nivel mundial?",
       "options": [
         "Infecciones virales.",
-        "Enfermedades cardiovasculares.",
         "Eventos cerebrovasculares.",
+        "Enfermedades cardiovasculares.",
         "Cáncer."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "El evento cerebrovascular (ECV) es la segunda causa principal de muerte a nivel mundial, representando un problema de salud pública significativo.",
       "hashtags": [
         "medicina_interna",
@@ -346,11 +346,11 @@
       "question": "¿Qué factor de riesgo para ECV es no modificable?",
       "options": [
         "Hipertensión arterial.",
-        "Edad.",
         "Tabaquismo.",
+        "Edad.",
         "Diabetes Mellitus."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "La edad es un factor de riesgo no modificable para el ECV; el riesgo aumenta significativamente con cada década después de los 55 años.",
       "hashtags": [
         "medicina_interna",
@@ -366,10 +366,10 @@
       "options": [
         "Diabetes Mellitus.",
         "Tabaquismo.",
-        "Hipertensión Arterial.",
-        "Dislipidemia."
+        "Dislipidemia.",
+        "Hipertensión Arterial."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "La hipertensión arterial (HTA) es el factor de riesgo modificable más significativo, especialmente para ECV hemorrágicos y isquémicos aterotrombóticos.",
       "hashtags": [
         "medicina_interna",
@@ -383,12 +383,12 @@
     {
       "question": "¿Qué grupo étnico tiene un riesgo significativamente mayor de ECV?",
       "options": [
-        "Asiáticos.",
         "Afroamericanos.",
+        "Asiáticos.",
         "Hispanos.",
         "Europeos."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "Ciertas etnias, como los afroamericanos, presentan un riesgo mayor de ECV, especialmente hemorrágico, asociado a mayor prevalencia de HTA.",
       "hashtags": [
         "medicina_interna",
@@ -422,11 +422,11 @@
       "question": "¿Cuál de los siguientes es un acrónimo común para reconocer los signos de ECV?",
       "options": [
         "ABCDE",
-        "FAST",
         "SOAP",
+        "FAST",
         "PQRST"
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "El acrónimo FAST (Face, Arms, Speech, Time) o RÁPIDO (Rostro, Brazos, Habla, Inmediatamente) es una herramienta mnemotécnica para identificar los síntomas clave de un ECV.",
       "hashtags": [
         "medicina_interna",
@@ -459,12 +459,12 @@
     {
       "question": "¿Qué significa la 'A' en el acrónimo FAST para ECV?",
       "options": [
-        "Alteración del habla.",
-        "Ataxia.",
         "Arm (Brazo) debilidad.",
+        "Ataxia.",
+        "Alteración del habla.",
         "Aumento de la presión."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "La 'A' en FAST representa 'Arm Weakness' o debilidad en un brazo, otro signo común de ECV.",
       "hashtags": [
         "medicina_interna",
@@ -518,10 +518,10 @@
       "options": [
         "Debilidad súbita en un lado del cuerpo.",
         "Visión doble repentina.",
-        "Dolor de garganta persistente.",
-        "Dificultad para hablar."
+        "Dificultad para hablar.",
+        "Dolor de garganta persistente."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "El dolor de garganta persistente no es un síntoma típico de ECV. Los síntomas de ECV son de inicio súbito y afectan funciones neurológicas.",
       "hashtags": [
         "medicina_interna",
@@ -535,12 +535,12 @@
     {
       "question": "¿Qué es un Ataque Isquémico Transitorio (AIT)?",
       "options": [
-        "Un infarto cerebral permanente.",
-        "Un ECV sin síntomas.",
         "Síntomas de ECV que resuelven completamente.",
+        "Un ECV sin síntomas.",
+        "Un infarto cerebral permanente.",
         "Hemorragia cerebral leve."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "Un AIT presenta síntomas de ECV idénticos, pero son transitorios y se resuelven completamente, sin evidencia de infarto en neuroimagen.",
       "hashtags": [
         "medicina_interna",
@@ -555,11 +555,11 @@
       "question": "¿Cuál es la principal herramienta de diagnóstico por imagen para descartar hemorragia aguda en ECV?",
       "options": [
         "Resonancia Magnética (RM).",
-        "Ecografía Doppler.",
         "Tomografía Computarizada (TC) sin contraste.",
+        "Ecografía Doppler.",
         "Electrocardiograma (ECG)."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "La TC cerebral sin contraste es la prueba de imagen inicial de elección para detectar rápidamente hemorragia aguda, siendo más rápida y accesible que la RM.",
       "hashtags": [
         "medicina_interna",
@@ -594,10 +594,10 @@
       "options": [
         "FLAIR.",
         "T1.",
-        "DWI (Diffusion Weighted Imaging).",
-        "T2."
+        "T2.",
+        "DWI (Diffusion Weighted Imaging)."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "Las secuencias de difusión (DWI) son las más sensibles para detectar infartos isquémicos agudos, mostrando áreas de isquemia en cuestión de minutos.",
       "hashtags": [
         "medicina_interna",
@@ -611,12 +611,12 @@
     {
       "question": "¿Cuál es el propósito principal del ECG en la evaluación de ECV?",
       "options": [
-        "Detectar hipertensión arterial.",
-        "Evaluar la glucemia.",
         "Detectar fibrilación auricular.",
+        "Evaluar la glucemia.",
+        "Detectar hipertensión arterial.",
         "Medir la perfusión cerebral."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "El ECG es esencial para detectar fibrilación auricular, una causa común de embolia cerebral, y otros signos de enfermedad cardíaca.",
       "hashtags": [
         "medicina_interna",
@@ -631,11 +631,11 @@
       "question": "¿Qué prueba cardíaca ayuda a identificar fuentes de cardioembolia como un foramen oval permeable (FOP)?",
       "options": [
         "Electrocardiograma (ECG).",
-        "Holter de 24 horas.",
         "Ecocardiograma transesofágico (ETE).",
+        "Holter de 24 horas.",
         "Prueba de esfuerzo."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "El ecocardiograma transesofágico (ETE) es más sensible que el transtorácico para detectar trompos intracardíacos y shunts como el FOP.",
       "hashtags": [
         "medicina_interna",
@@ -669,11 +669,11 @@
       "question": "¿Qué significa la 'A' en el sistema TOAST, refiriéndose a una causa de ECV isquémico?",
       "options": [
         "Aneurisma.",
-        "Arteriosclerosis.",
+        "Arritmia.",
         "Apoplejía.",
-        "Arritmia."
+        "Arteriosclerosis."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 4,
       "explanation": "La 'A' en el contexto de TOAST puede referirse a causas aterotrombóticas relacionadas con la arteriosclerosis de grandes vasos o pequeños vasos.",
       "hashtags": [
         "medicina_interna",
@@ -687,12 +687,12 @@
     {
       "question": "¿Qué categoría de ECV isquémico ocurre cuando no se identifica una causa clara después de la investigación?",
       "options": [
-        "Aterotrombótico.",
+        "Origen Indeterminado (RC).",
         "Cardioembólico.",
         "Pequeños vasos (Lacunar).",
-        "Origen Indeterminado (RC)."
+        "Aterotrombótico."
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 1,
       "explanation": "La categoría de ECV de Origen Indeterminado (RC) se utiliza cuando la causa no puede ser identificada a pesar de una investigación exhaustiva.",
       "hashtags": [
         "medicina_interna",
@@ -727,10 +727,10 @@
       "options": [
         "Agudo, subagudo, crónico.",
         "Leve, moderado, severo.",
-        "Isquémico, hemorrágico, transitorio.",
-        "AIT, ECV isquémico agudo, ECV hemorrágico."
+        "AIT, ECV isquémico agudo, ECV hemorrágico.",
+        "Isquémico, hemorrágico, transitorio."
       ],
-      "correctAnswer": 4,
+      "correctAnswer": 3,
       "explanation": "La clasificación temporal incluye AIT (transitorio), ECV isquémico agudo y ECV hemorrágico agudo, diferenciando la persistencia de los síntomas y el daño tisular.",
       "hashtags": [
         "medicina_interna",
@@ -745,11 +745,11 @@
       "question": "¿Qué significa una puntuación NIHSS alta en un paciente con ECV?",
       "options": [
         "Baja severidad del déficit neurológico.",
-        "Alto riesgo de complicaciones.",
+        "Ausencia de daño cerebral.",
         "Mejor pronóstico de recuperación.",
-        "Ausencia de daño cerebral."
+        "Alto riesgo de complicaciones."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 4,
       "explanation": "Una puntuación NIHSS alta indica mayor severidad de los déficits neurológicos, lo que se asocia con un mayor riesgo de complicaciones y un peor pronóstico.",
       "hashtags": [
         "medicina_interna",
@@ -822,10 +822,10 @@
       "options": [
         "Aspirina.",
         "Clopidogrel.",
-        "Activador Tisular de Plasminógeno (t-PA).",
-        "Heparina."
+        "Heparina.",
+        "Activador Tisular de Plasminógeno (t-PA)."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "El t-PA intravenoso es el tratamiento farmacológico de reperfusión estándar para pacientes elegibles con ECV isquémico agudo dentro de la ventana terapéutica.",
       "hashtags": [
         "medicina_interna",
@@ -839,12 +839,12 @@
     {
       "question": "¿Cuál es el tiempo máximo típico desde el inicio de los síntomas para administrar t-PA IV en ECV isquémico?",
       "options": [
-        "1 hora.",
-        "3 horas.",
         "4.5 horas.",
+        "3 horas.",
+        "1 hora.",
         "24 horas."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 1,
       "explanation": "La ventana terapéutica estándar para la administración de t-PA intravenoso en el ECV isquémico agudo es de hasta 4.5 horas desde el inicio de los síntomas.",
       "hashtags": [
         "medicina_interna",
@@ -859,11 +859,11 @@
       "question": "¿Qué procedimiento mecánico se utiliza para extraer coágulos en grandes vasos cerebrales?",
       "options": [
         "Embolización.",
-        "Trombólisis endovenosa.",
         "Trombectomía mecánica.",
+        "Trombólisis endovenosa.",
         "Angioplastia transluminal."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "La trombectomía mecánica es un procedimiento endovascular que utiliza dispositivos para extraer físicamente coágulos de grandes arterias cerebrales.",
       "hashtags": [
         "medicina_interna",
@@ -877,12 +877,12 @@
     {
       "question": "¿Cuál es el principal riesgo de la administración de t-PA?",
       "options": [
-        "Hemorragia intracerebral.",
-        "Empeoramiento de la isquemia.",
         "Aumento de la presión arterial.",
+        "Empeoramiento de la isquemia.",
+        "Hemorragia intracerebral.",
         "Daño renal."
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "El riesgo más significativo asociado con la administración de t-PA es la transformación hemorrágica del área de infarto cerebral.",
       "hashtags": [
         "medicina_interna",
@@ -897,11 +897,11 @@
       "question": "¿Cuál es el principal objetivo en el tratamiento del ECV hemorrágico agudo?",
       "options": [
         "Restaurar el flujo sanguíneo.",
-        "Detener la hemorragia y controlar la PIC.",
+        "Realizar una embolización urgente.",
         "Administrar anticoagulantes.",
-        "Realizar una embolización urgente."
+        "Detener la hemorragia y controlar la PIC."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 4,
       "explanation": "En el ECV hemorrágico, los objetivos primarios son detener el sangrado, controlar la presión arterial y reducir la presión intracraneal.",
       "hashtags": [
         "medicina_interna",
@@ -915,12 +915,12 @@
     {
       "question": "¿Qué medida es crucial en el manejo del ECV hemorrágico para prevenir resangrado?",
       "options": [
-        "Aumento de la presión arterial.",
         "Control agresivo de la presión arterial.",
+        "Aumento de la presión arterial.",
         "Administración de aspirina.",
         "Reposo absoluto."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "El control agresivo de la presión arterial es vital en la hemorragia intracerebral y subaracnoidea para reducir el riesgo de resangrado y la expansión del hematoma.",
       "hashtags": [
         "medicina_interna",
@@ -954,11 +954,11 @@
       "question": "¿Cuál es un componente clave de la prevención secundaria tras un ECV?",
       "options": [
         "Aumento del consumo de sal.",
-        "Control estricto de la hipertensión arterial.",
         "Suspensión de toda medicación.",
+        "Control estricto de la hipertensión arterial.",
         "Inactividad física prolongada."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "El control estricto de la hipertensión arterial es fundamental en la prevención secundaria para reducir el riesgo de recurrencia del ECV.",
       "hashtags": [
         "medicina_interna",
@@ -974,10 +974,10 @@
       "options": [
         "Para mejorar la circulación cerebral.",
         "Para prevenir la formación de nuevos coágulos.",
-        "Porque la anticoagulación empeoraría la hemorragia.",
-        "Para acelerar la absorción del hematoma."
+        "Para acelerar la absorción del hematoma.",
+        "Porque la anticoagulación empeoraría la hemorragia."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 4,
       "explanation": "La anticoagulación interfiere con la coagulación sanguínea y empeoraría significativamente una hemorragia cerebral activa, aumentando el riesgo de expansión del hematoma.",
       "hashtags": [
         "medicina_interna",
@@ -991,12 +991,12 @@
     {
       "question": "¿Qué tipo de rehabilitación se inicia tempranamente después de un ECV?",
       "options": [
-        "Solo fisioterapia.",
         "Rehabilitación integral (fisioterapia, terapia ocupacional, logopedia).",
+        "Solo fisioterapia.",
         "Logopedia únicamente.",
         "Rehabilitación cardiovascular."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "La rehabilitación integral, incluyendo fisioterapia, terapia ocupacional y logopedia, debe iniciarse lo antes posible para optimizar la recuperación funcional post-ECV.",
       "hashtags": [
         "medicina_interna",
@@ -1049,11 +1049,11 @@
       "question": "¿Por qué es importante el control de la temperatura en el manejo del ECV?",
       "options": [
         "La hipotermia mejora la circulación.",
-        "La fiebre empeora el daño cerebral.",
+        "La hipotermia previene la isquemia.",
         "La temperatura no afecta el pronóstico.",
-        "La hipotermia previene la isquemia."
+        "La fiebre empeora el daño cerebral."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 4,
       "explanation": "Mantener la normotermia es importante porque la fiebre puede empeorar el daño neuronal y afectar negativamente el pronóstico del paciente con ECV.",
       "hashtags": [
         "medicina_interna",
@@ -1067,12 +1067,12 @@
     {
       "question": "¿Cuándo se inicia típicamente la aspirina en un paciente tratado con t-PA por ECV isquémico?",
       "options": [
-        "Inmediatamente después del t-PA.",
         "24 horas después de completar la infusión de t-PA, si no hay hemorragia.",
+        "Inmediatamente después del t-PA.",
         "Al día siguiente del ECV.",
         "Solo si se presenta una nueva oclusión."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": "La aspirina se inicia generalmente 24 horas después de la infusión de t-PA en pacientes con ECV isquémico, siempre y cuando no haya evidencia de transformación hemorrágica.",
       "hashtags": [
         "medicina_interna",
@@ -1087,11 +1087,11 @@
       "question": "¿Cuál es la importancia de la Monitorización de la Presión Intracraneal (PIC)?",
       "options": [
         "Solo en casos de migraña.",
-        "Para detectar cambios en el flujo sanguíneo.",
         "En pacientes con alto riesgo de edema cerebral o hemorragia.",
+        "Para detectar cambios en el flujo sanguíneo.",
         "Para guiar la administración de líquidos."
       ],
-      "correctAnswer": 3,
+      "correctAnswer": 2,
       "explanation": "La monitorización de la PIC está indicada en pacientes con alto riesgo de edema cerebral o hemorragia, como en ECVs hemorrágicos extensos o isquémicos con gran edema.",
       "hashtags": [
         "medicina_interna",
@@ -1106,11 +1106,11 @@
       "question": "¿Qué complicación debe prevenirse activamente en pacientes inmovilizados tras un ECV?",
       "options": [
         "Neumonía por aspiración.",
-        "Trombosis Venosa Profunda (TVP) y Embolia Pulmonar (EP).",
         "Hipotermia.",
+        "Trombosis Venosa Profunda (TVP) y Embolia Pulmonar (EP).",
         "Pérdida de masa muscular."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": "La profilaxis de TVP y EP mediante heparina de bajo peso molecular o compresión neumática es esencial en pacientes inmovilizados para prevenir estas graves complicaciones.",
       "hashtags": [
         "medicina_interna",
@@ -1125,11 +1125,11 @@
       "question": "¿Cuál es el rol de la logopedia en el manejo post-ECV?",
       "options": [
         "Mejorar la fuerza muscular de las piernas.",
-        "Evaluar y tratar la dificultad para hablar y tragar (disfagia).",
+        "Corregir la debilidad de un brazo.",
         "Gestionar la incontinencia urinaria.",
-        "Corregir la debilidad de un brazo."
+        "Evaluar y tratar la dificultad para hablar y tragar (disfagia)."
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 4,
       "explanation": "La logopedia es fundamental para evaluar y rehabilitar los déficits del habla (afasia, disartria) y la deglución (disfagia), comunes tras un ECV.",
       "hashtags": [
         "medicina_interna",
