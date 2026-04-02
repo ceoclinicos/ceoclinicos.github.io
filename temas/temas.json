@@ -641,6 +641,99 @@
         "#medicina_general"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "insuficiencia_cardíaca",
+      "titulo": "Insuficiencia Cardíaca",
+      "descripcion": "Comprende la incapacidad del corazón para bombear suficiente sangre para satisfacer las necesidades del cuerpo. Aprende sobre sus causas, síntomas y tratamientos.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#cardiologia",
+        "#insuficiencia_cardiaca",
+        "#medicina_interna",
+        "#enfermedades_cardiovasculares"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "infarto_agudo_de_miocardio_(iam)",
+      "titulo": "Infarto Agudo de Miocardio (IAM)",
+      "descripcion": "El Infarto Agudo de Miocardio (IAM) es una emergencia médica causada por la interrupción del flujo sanguíneo a una parte del músculo cardíaco, provocando daño o muerte de dicho tejido.",
+      "pdfUrl": "",
+      "precioPildoras": "caro",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#cardiologia",
+        "#emergencias_medicas",
+        "#patologia_cardiovascular",
+        "#infarto_miocardio"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "hipertensión_arterial_(hta)",
+      "titulo": "Hipertensión Arterial (HTA)",
+      "descripcion": "La hipertensión arterial, o presión alta, es una condición crónica que aumenta el riesgo de enfermedades cardíacas y accidentes cerebrovasculares. Conoce sus causas, síntomas y manejo.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 15,
+      "etiquetas": [
+        "#hipertensión",
+        "#hta",
+        "#cardiovascular",
+        "#medicina_interna",
+        "#salud_del_corazón"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "fibrilación_auricular",
+      "titulo": "Fibrilación Auricular",
+      "descripcion": "Trastorno común del ritmo cardíaco caracterizado por latidos auriculares irregulares y rápidos. Puede aumentar el riesgo de accidente cerebrovascular.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#cardiologia",
+        "#arritmias",
+        "#fibrilacion_auricular",
+        "#medicina_interna",
+        "#salud_cardiovascular"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "valvulopatías",
+      "titulo": "Valvulopatías cardíacas",
+      "descripcion": "Estudio de las enfermedades que afectan las válvulas del corazón, incluyendo estenosis e insuficiencia. Comprende su fisiopatología, diagnóstico y opciones terapéuticas.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#cardiologia",
+        "#valvulopatias",
+        "#corazon",
+        "#estenosis",
+        "#insuficiencia_valvular"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "pericarditis_aguda",
+      "titulo": "Pericarditis Aguda",
+      "descripcion": "Estudio de la inflamación súbita del pericardio, la membrana que envuelve el corazón. Incluye diagnóstico, causas y tratamiento.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#cardiologia",
+        "#pericarditis",
+        "#medicina_interna",
+        "#inflamacion"
+      ],
+      "tieneGuia": false
     }
   ]
 }

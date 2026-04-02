@@ -1,110 +1,167 @@
 {
   "questions": [
     {
-      "question": "¿Cuál es la definición principal de la insuficiencia cardíaca (IC)?",
+      "question": "¿Cuál es la definición principal de Insuficiencia Cardíaca (IC)?",
       "options": [
-        "Condición autolimitada del corazón",
-        "Síndrome de alteración de llenado o eyección",
-        "Trastorno puramente genético",
-        "Enfermedad exclusiva del miocardio"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La insuficiencia cardíaca se define como un síndrome clínico complejo resultante de cualquier alteración estructural o funcional del llenado ventricular o de la eyección de sangre, impidiendo que el corazón satisfaga las demandas metabólicas.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "concepto",
-        "definicion",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué fracción de eyección del ventrículo izquierdo (FEVI) define la Insuficiencia Cardíaca con Fracción de Eyección Reducida (ICFEr)?",
-      "options": [
-        "Mayor o igual a 50%",
-        "Inferior al 40%",
-        "Entre 40% y 49%",
-        "Siempre 60% o más"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La Insuficiencia Cardíaca con Fracción de Eyección Reducida (ICFEr o HFrEF) se caracteriza por una FEVI inferior al 40%, lo que indica una disfunción sistólica predominante del ventrículo izquierdo.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "concepto",
-        "clasificacion_fevi",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el rango de FEVI para la Insuficiencia Cardíaca con Fracción de Eyección Ligeramente Reducida (ICFElr)?",
-      "options": [
-        "Exclusivamente 60%",
-        "Menor del 40%",
-        "Igual o superior al 50%",
-        "Entre 40% y 49%"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La Insuficiencia Cardíaca con Fracción de Eyección Ligeramente Reducida (ICFElr o HFmrEF) se define por una FEVI que se encuentra entre el 40% y el 49%, siendo un grupo intermedio entre ICFEr y ICFEp.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "concepto",
-        "clasificacion_fevi",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué FEVI se requiere para diagnosticar la Insuficiencia Cardíaca con Fracción de Eyección Preservada (ICFEp)?",
-      "options": [
-        "Igual o superior al 50%",
-        "Siempre menor de 30%",
-        "Entre 40% y 49%",
-        "Inferior al 40%"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La Insuficiencia Cardíaca con Fracción de Eyección Preservada (ICFEp o HFpEF) se diagnostica cuando la FEVI es igual o superior al 50%, acompañada de signos y síntomas de IC y evidencia de disfunción diastólica.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "concepto",
-        "clasificacion_fevi",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la causa más frecuente de insuficiencia cardíaca, especialmente de ICFEr?",
-      "options": [
-        "Hipertensión Arterial",
-        "Miocardiopatía hipertrófica",
-        "Enfermedad Arterial Coronaria",
-        "Diabetes Mellitus"
+        "Hipertensión arterial",
+        "Enfermedad coronaria",
+        "Capacidad inadecuada del corazón",
+        "Arritmia cardíaca"
       ],
       "correctAnswer": 3,
-      "explanation": "La Enfermedad Arterial Coronaria (EAC), que incluye el infarto de miocardio previo y la isquemia crónica, es la causa más común de insuficiencia cardíaca, especialmente de la forma con fracción de eyección reducida.",
+      "explanation": "La IC se caracteriza por la incapacidad del corazón para bombear suficiente sangre para satisfacer las demandas metabólicas del organismo o para hacerlo solo a expensas de presiones de llenado elevadas.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "definicion_basica",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿La IC es una enfermedad específica o una vía final común?",
+      "options": [
+        "Una vía final común",
+        "Una cardiopatía isquémica",
+        "Un tipo de arritmia",
+        "Una enfermedad específica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Insuficiencia Cardíaca no es una enfermedad única, sino una vía final común de diversas cardiopatías subyacentes.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "via_final_comun",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué conjunto de síntomas caracterizan la IC?",
+      "options": [
+        "Fiebre y tos seca",
+        "Disnea, fatiga y edema",
+        "Dolor abdominal y diarrea",
+        "Cefalea y mareos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La IC se manifiesta típicamente con síntomas como disnea (dificultad para respirar), fatiga (cansancio) y edema (hinchazón por acumulación de líquido).",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "cuadro_clinico",
+        "sintomas_cardinales",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal clasificación de la IC basada en FEVI?",
+      "options": [
+        "FEVI alta, normal y baja",
+        "IC aguda y crónica",
+        "IC sistólica y diastólica",
+        "ICFEr, ICFEmr, ICFEp"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Históricamente, la IC se ha clasificado según la fracción de eyección del ventrículo izquierdo (FEVI) como IC con FEVI reducida (ICFEr), moderadamente reducida (ICFEmr) y preservada (ICFEp).",
+      "hashtags": [
+        "cardiologia",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "fevi",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué disfunción cardíaca compromete la diástole, sístole o ambas?",
+      "options": [
+        "La insuficiencia cardíaca",
+        "La enfermedad valvular",
+        "La cardiopatía isquémica",
+        "La miocardiopatía dilatada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La insuficiencia cardíaca compromete la capacidad del corazón para llenarse (diástole) o para contraerse y bombear sangre (sístole), o ambas funciones.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "fisiopatologia",
+        "disfuncion_sistolica_diastolica",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué sistemas neurohormonales se activan en respuesta a la disfunción cardíaca?",
+      "options": [
+        "SNS, SRAA y péptidos natriuréticos",
+        "Sistema digestivo y respiratorio",
+        "Sistema inmunitario y linfático",
+        "Sistema endocrino y nervioso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La respuesta a la disfunción cardíaca implica la activación de sistemas neurohormonales compensatorios como el sistema nervioso simpático (SNS), el sistema renina-angiotensina-aldosterona (SRAA) y la liberación de péptidos natriuréticos.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "fisiopatologia",
+        "sistemas_neurohormonales",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es una consecuencia perjudicial de la activación crónica de sistemas neurohormonales?",
+      "options": [
+        "Aumento de la diuresis",
+        "Mejora de la contractilidad cardíaca",
+        "Promoción de remodelado cardíaco adverso",
+        "Reducción de la presión arterial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Aunque inicialmente beneficiosos, la activación crónica de sistemas como el SNS y el SRAA resulta perjudicial, promoviendo remodelado cardíaco adverso, fibrosis y mayor disfunción.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "fisiopatologia",
+        "remodelado_cardiaco",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué enfermedad es la causa principal de IC en países desarrollados?",
+      "options": [
+        "Valvulopatías",
+        "Cardiopatía Isquémica",
+        "Miocardiopatía dilatada",
+        "Hipertensión arterial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La cardiopatía isquémica (CI) es la causa principal de insuficiencia cardíaca en muchos países desarrollados, incluyendo el infarto agudo de miocardio y la enfermedad coronaria crónica.",
       "hashtags": [
         "cardiologia",
         "insuficiencia_cardiaca",
         "etiologia",
-        "causa_frecuente",
+        "cardiopatia_isquemica",
         "PATOLOGIA",
         ""
       ]
     },
     {
-      "question": "¿Qué condición cardiovascular es una causa principal de ICFEp, induciendo hipertrofia ventricular izquierda concéntrica?",
+      "question": "¿Cómo afecta la Hipertensión Arterial (HTA) a largo plazo el corazón?",
       "options": [
-        "Hipertensión Arterial",
-        "Miocardiopatía dilatada",
-        "Miocarditis viral",
-        "Anemia severa"
+        "Provoca hipertrofia ventricular izquierda",
+        "Causa dilatación auricular",
+        "Disminuye la rigidez miocárdica",
+        "Aumenta la contractilidad diastólica"
       ],
       "correctAnswer": 1,
-      "explanation": "La Hipertensión Arterial (HTA) crónica y no controlada es una causa principal de ICFEp, ya que induce hipertrofia ventricular izquierda concéntrica y remodelado cardíaco adverso, llevando a disfunción diastólica.",
+      "explanation": "La HTA no controlada a largo plazo provoca hipertrofia ventricular izquierda (HVI) concéntrica, que aumenta la rigidez diastólica y puede llevar a disfunción sistólica y dilatación.",
       "hashtags": [
         "cardiologia",
         "insuficiencia_cardiaca",
@@ -115,129 +172,34 @@
       ]
     },
     {
-      "question": "¿Qué tipo de miocardiopatía se caracteriza por dilatación ventricular y disfunción sistólica?",
+      "question": "¿Por qué la diabetes mellitus es un factor de riesgo para IC?",
       "options": [
-        "Miocardiopatía restrictiva",
-        "Miocardiopatía hipertrófica",
-        "Miocardiopatía arritmogénica",
-        "Miocardiopatía dilatada"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La Miocardiopatía Dilatada (MCD) se caracteriza por la dilatación de las cámaras ventriculares y una consecuente disfunción sistólica, lo que reduce la capacidad de bombeo del corazón.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "etiologia",
-        "miocardiopatia_dilatada",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál de las siguientes es una causa conocida de miocardiopatía tóxica que puede llevar a IC?",
-      "options": [
-        "Betabloqueantes orales",
-        "Diuréticos de asa",
-        "Antiinflamatorios no esteroideos",
-        "Quimioterapia con antraciclinas"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Ciertos medicamentos quimioterapéuticos, como las antraciclinas, son conocidos por su potencial de causar toxicidad miocárdica directa, lo que puede llevar al desarrollo de una miocardiopatía y consecuentemente a insuficiencia cardíaca.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "etiologia",
-        "farmacos_toxicos",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué tipo de miocardiopatía se caracteriza por engrosamiento ventricular sin una causa de carga anómala?",
-      "options": [
-        "Miocardiopatía arritmogénica",
-        "Miocardiopatía dilatada",
-        "Miocardiopatía hipertrófica",
-        "Miocardiopatía restrictiva"
+        "Por miocardiopatía diabética intrínseca",
+        "Por inducir bradicardia",
+        "Por ambas, CI y miocardiopatía diabética",
+        "Solo por cardiopatía isquémica"
       ],
       "correctAnswer": 3,
-      "explanation": "La Miocardiopatía Hipertrófica (MCH) se define por un engrosamiento del ventrículo izquierdo, a menudo asimétrico, que ocurre en ausencia de una causa de sobrecarga de presión anómala, llevando a disfunción diastólica.",
+      "explanation": "La diabetes mellitus es un factor de riesgo independiente y potente para el desarrollo de IC, tanto por la cardiopatía isquémica acelerada como por la miocardiopatía diabética intrínseca.",
       "hashtags": [
-        "cardiologia",
+        "endocrinologia",
         "insuficiencia_cardiaca",
         "etiologia",
-        "miocardiopatia_hipertrofica",
+        "cardiopatia_diabetica",
         "PATOLOGIA",
         ""
       ]
     },
     {
-      "question": "¿Cuál es la miocardiopatía caracterizada por llenado ventricular restringido y disfunción diastólica grave?",
+      "question": "¿Qué generan las valvulopatías cardíacas crónicas en las cavidades cardíacas?",
       "options": [
-        "Miocardiopatía restrictiva",
-        "Miocardiopatía arritmogénica",
-        "Miocardiopatía dilatada",
-        "Miocardiopatía hipertrófica"
+        "Sobrecargas de presión o volumen",
+        "Aumento de la contractilidad",
+        "Reducción del volumen",
+        "Disminución de la rigidez"
       ],
       "correctAnswer": 1,
-      "explanation": "La Miocardiopatía Restrictiva (MCR) se caracteriza por un llenado ventricular restringido y una disfunción diastólica grave, lo que significa que el corazón tiene dificultades para relajarse y llenarse de sangre adecuadamente.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "etiologia",
-        "miocardiopatia_restrictiva",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué enfermedad infiltrativa del miocardio puede causar insuficiencia cardíaca restrictiva?",
-      "options": [
-        "Esclerosis múltiple",
-        "Enfermedad de Crohn",
-        "Fibrosis pulmonar",
-        "Amiloidosis cardíaca"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La amiloidosis cardíaca es una enfermedad infiltrativa que deposita material amiloide en el miocardio, aumentando su rigidez y causando una miocardiopatía restrictiva, lo que lleva a disfunción diastólica y, por ende, a insuficiencia cardíaca.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "etiologia",
-        "enfermedades_infiltrativas",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cómo contribuye la anemia severa a la insuficiencia cardíaca?",
-      "options": [
-        "Disminuye el transporte de oxígeno",
-        "Provoca hipertensión pulmonar",
-        "Aumenta la viscosidad sanguínea",
-        "Reduce el gasto cardíaco directamente"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La anemia severa reduce la capacidad de transporte de oxígeno de la sangre, lo que obliga al corazón a aumentar el gasto cardíaco para compensar esta deficiencia, pudiendo descompensar un corazón previamente enfermo o contribuir al desarrollo de IC.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "etiologia",
-        "anemia_severa",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué valvulopatía cardíaca causa IC por sobrecarga de presión en el ventrículo izquierdo?",
-      "options": [
-        "Insuficiencia mitral",
-        "Estenosis aórtica",
-        "Insuficiencia aórtica",
-        "Insuficiencia tricuspídea"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La estenosis aórtica genera una obstrucción al flujo de salida del ventrículo izquierdo, lo que provoca una sobrecarga de presión crónica en este ventrículo y, a largo plazo, conduce a remodelado y disfunción miocárdica, resultando en IC.",
+      "explanation": "Las valvulopatías cardíacas (estenosis o insuficiencia) generan sobrecargas de presión o volumen crónicas en las cámaras cardíacas, llevando a dilatación, hipertrofia y disfunción ventricular.",
       "hashtags": [
         "cardiologia",
         "insuficiencia_cardiaca",
@@ -248,56 +210,208 @@
       ]
     },
     {
-      "question": "¿Qué mecanismo compensatorio agudo inicialmente aumenta la fuerza de contracción por estiramiento de fibras?",
+      "question": "¿Cuál de las siguientes NO es una miocardiopatía?",
       "options": [
-        "Liberación de ADH",
-        "Mecanismo de Frank-Starling",
-        "Activación del SNS",
-        "Activación del SRAA"
+        "Miocardiopatía dilatada",
+        "Miocardiopatía isquémica",
+        "Miocardiopatía hipertrófica",
+        "Miocardiopatía restrictiva"
       ],
       "correctAnswer": 2,
-      "explanation": "El mecanismo de Frank-Starling es una respuesta compensatoria aguda donde un aumento del volumen telediastólico estira las fibras miocárdicas, lo que inicialmente incrementa la fuerza de contracción y el volumen sistólico para mantener el gasto cardíaco.",
+      "explanation": "La miocardiopatía isquémica es una causa de disfunción cardíaca, pero la miocardiopatía dilatada, hipertrófica y restrictiva son tipos específicos de miocardiopatías primarias.",
       "hashtags": [
         "cardiologia",
         "insuficiencia_cardiaca",
-        "fisiopatologia",
-        "mecanismo_frank_starling",
+        "etiologia",
+        "miocardiopatias",
         "PATOLOGIA",
         ""
       ]
     },
     {
-      "question": "¿Qué hormona es liberada por la hipoperfusión renal y activa la conversión de angiotensinógeno?",
+      "question": "¿Qué caracteriza a la Miocardiopatía Hipertrófica (MCH)?",
       "options": [
-        "Aldosterona",
-        "Renina",
-        "Vasopresina",
-        "Noradrenalina"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La hipoperfusión renal activa la liberación de renina por el riñón, que es el primer paso en la activación del Sistema Renina-Angiotensina-Aldosterona (SRAA) al convertir el angiotensinógeno en angiotensina I.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "fisiopatologia",
-        "sraa_activacion",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué efecto tiene la angiotensina II en la fisiopatología de la IC?",
-      "options": [
-        "Es un potente vasoconstrictor",
-        "Promueve la retención de potasio",
-        "Disminuye la liberación de aldosterona",
-        "Inhibe la vasoconstricción"
+        "Hipertrofia ventricular asimétrica",
+        "Arritmias ventriculares derechas",
+        "Dilatación ventricular",
+        "Rigidez auricular"
       ],
       "correctAnswer": 1,
-      "explanation": "La angiotensina II, componente clave del SRAA, es un potente vasoconstrictor que aumenta la poscarga cardíaca, además de promover la liberación de aldosterona y ADH, contribuyendo al remodelado cardíaco maladaptativo.",
+      "explanation": "La MCH se caracteriza por hipertrofia ventricular asimétrica, que puede causar obstrucción del tracto de salida, disfunción diastólica y, tardíamente, disfunción sistólica.",
       "hashtags": [
         "cardiologia",
-        "insuficiencia_cardíaca",
+        "insuficiencia_cardiaca",
+        "etiologia",
+        "miocardiopatia_hipertrofica",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué tipo de miocardiopatía se asocia con la amiloidosis?",
+      "options": [
+        "Arritmogénica",
+        "Hipertrófica",
+        "Dilatada",
+        "Restrictiva"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La miocardiopatía restrictiva es rara y puede ser causada por amiloidosis, sarcoidosis o enfermedades de almacenamiento, caracterizada por rigidez ventricular.",
+      "hashtags": [
+        "cardiologia",
+        "insuficiencia_cardiaca",
+        "etiologia",
+        "miocardiopatia_restrictiva",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es una causa común de arritmias crónicas que puede llevar a IC?",
+      "options": [
+        "Extrasístoles ventriculares aisladas",
+        "Bloqueo AV de primer grado",
+        "Fibrilación auricular",
+        "Taquicardia sinusal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Arritmias crónicas como la fibrilación auricular de larga data o taquicardias ventriculares sostenidas pueden comprometer la función cardíaca y llevar a insuficiencia cardíaca.",
+      "hashtags": [
+        "cardiologia",
+        "insuficiencia_cardiaca",
+        "etiologia",
+        "arritmias_cronicas",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué enfermedad pulmonar crónica puede causar IC derecha (Cor Pulmonale)?",
+      "options": [
+        "Asma bronquial",
+        "Neumonía lobar",
+        "Enfermedad Pulmonar Obstructiva Crónica (EPOC)",
+        "Bronquiectasias"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Cor Pulmonale, o IC derecha secundaria a hipertensión pulmonar, es comúnmente causado por enfermedades pulmonares crónicas como la EPOC.",
+      "hashtags": [
+        "neumologia",
+        "insuficiencia_cardiaca",
+        "etiologia",
+        "cor_pulmonale",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué toxinas pueden causar miocardiopatía y potencialmente IC?",
+      "options": [
+        "Paracetamol y aspirina",
+        "Antibióticos y corticoides",
+        "Alcohol y cocaína",
+        "Diuréticos y laxantes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El consumo crónico de alcohol y el uso de cocaína o metanfetaminas son causas conocidas de miocardiopatía tóxica y pueden precipitar insuficiencia cardíaca.",
+      "hashtags": [
+        "toxicologia",
+        "insuficiencia_cardiaca",
+        "etiologia",
+        "miocardiopatia_toxica",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la consecuencia de la disfunción sistólica del VI en la IC?",
+      "options": [
+        "Mejora del llenado diastólico",
+        "Reducción de las presiones de llenado",
+        "Aumento de la contractilidad",
+        "Disminución del volumen sistólico y gasto cardíaco"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La disfunción sistólica se caracteriza por una reducción de la capacidad del miocardio para contraerse eficazmente, lo que resulta en una disminución del volumen sistólico y del gasto cardíaco.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "fisiopatologia",
+        "disfuncion_sistolica",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué ocurre en la disfunción diastólica a pesar de una FEVI normal?",
+      "options": [
+        "Presiones de llenado ventricular elevadas",
+        "Aumento de la relajación ventricular",
+        "Disminución de la rigidez ventricular",
+        "Reducción de la hipertrofia ventricular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La disfunción diastólica se asocia con aumento de la rigidez ventricular y alteración de la relajación, lo que resulta en presiones de llenado elevadas y congestión.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "fisiopatologia",
+        "disfuncion_diastolica",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el efecto a corto plazo de la activación del SNS en la IC?",
+      "options": [
+        "Reducción del gasto cardíaco",
+        "Disminución de la frecuencia cardíaca",
+        "Vasodilatación periférica",
+        "Aumento de la contractilidad y FC"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La activación simpática aumenta la frecuencia cardíaca y la contractilidad miocárdica, ayudando a mantener la presión arterial y la perfusión de órganos vitales a corto plazo.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "fisiopatologia",
+        "sistema_nervioso_simpatico",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es un efecto perjudicial de la estimulación simpática crónica en el miocardio?",
+      "options": [
+        "Reducción del consumo de oxígeno",
+        "Mejora de la conducción eléctrica",
+        "Promoción de apoptosis de cardiomiocitos",
+        "Aumento de la masa miocárdica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La estimulación crónica por catecolaminas puede ser perjudicial, promoviendo arritmias, aumentando el consumo de oxígeno miocárdico e induciendo apoptosis de cardiomiocitos.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "fisiopatologia",
+        "efectos_catecolaminas",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué efecto tiene la Angiotensina II en el sistema cardiovascular?",
+      "options": [
+        "Potente vasoconstricción",
+        "Disminución de la aldosterona",
+        "Vasodilatación",
+        "Reducción de la fibrosis miocárdica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La angiotensina II es un potente vasoconstrictor que aumenta la poscarga, estimula la liberación de aldosterona y promueve la fibrosis y la hipertrofia miocárdica.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
         "fisiopatologia",
         "angiotensina_ii",
         "PATOLOGIA",
@@ -305,15 +419,53 @@
       ]
     },
     {
-      "question": "¿Qué tipo de hipertrofia ventricular se produce típicamente en respuesta a una sobrecarga de presión crónica?",
+      "question": "¿Qué promueve la aldosterona en el contexto de la IC?",
       "options": [
-        "Concéntrica",
-        "Anómala",
-        "Parietal",
-        "Excéntrica"
+        "Retención de sodio y agua",
+        "Vasodilatación",
+        "Reducción de la fibrosis",
+        "Excreción de sodio y agua"
       ],
       "correctAnswer": 1,
-      "explanation": "La hipertrofia concéntrica se caracteriza por un aumento del grosor de la pared ventricular sin una dilatación significativa de la cámara, y es la respuesta adaptativa clásica a una sobrecarga de presión crónica, como en la hipertensión arterial.",
+      "explanation": "La aldosterona promueve la retención de sodio y agua, aumentando la precarga y el volumen intravascular, y tiene efectos pro-fibróticos y pro-inflamatorios en el miocardio.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "fisiopatologia",
+        "aldosterona",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué es el remodelado cardíaco adverso?",
+      "options": [
+        "Disminución del tamaño ventricular",
+        "Mejora de la contractilidad",
+        "Cambios estructurales y moleculares patológicos",
+        "Aumento de la eficiencia diastólica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El remodelado cardíaco adverso se refiere a los cambios estructurales y moleculares patológicos en el ventrículo, como hipertrofia, dilatación y fibrosis, que perpetúan la disfunción.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "fisiopatologia",
+        "remodelado_cardiaco_adverso",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es una característica de la hipertrofia ventricular izquierda severa?",
+      "options": [
+        "Rigidez, aumento de consumo de oxígeno",
+        "Mejora de la relajación diastólica",
+        "Aumento de la distensibilidad",
+        "Disminución de la fibrosis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hipertrofia ventricular izquierda severa conduce a rigidez, aumento del consumo de oxígeno miocárdico, disfunción diastólica y eventual disfunción sistólica.",
       "hashtags": [
         "cardiologia",
         "insuficiencia_cardiaca",
@@ -324,207 +476,245 @@
       ]
     },
     {
-      "question": "¿Qué tipo de remodelado ventricular se asocia predominantemente con la Insuficiencia Cardíaca con Fracción de Eyección Reducida (ICFEr)?",
+      "question": "¿Qué ocurre con la fuerza de contracción en la dilatación ventricular de la IC?",
       "options": [
-        "Dilatación ventricular y adelgazamiento",
-        "Sin remodelado",
-        "Hipertrofia concéntrica",
-        "Fibrosis intersticial exclusiva"
+        "Aumenta por hipertrofia compensatoria",
+        "Aumenta debido a mayor volumen",
+        "Disminuye al alejarse de longitud óptima",
+        "Permanece sin cambios"
       ],
-      "correctAnswer": 1,
-      "explanation": "En la ICFEr, el remodelado cardíaco se caracteriza predominantemente por la dilatación ventricular y el adelgazamiento de la pared (remodelado excéntrico), lo que reduce la capacidad efectiva de bombeo del ventrículo.",
+      "correctAnswer": 3,
+      "explanation": "La dilatación ventricular aumenta el volumen telediastólico, pero alarga las fibras miocárdicas, alejándolas de su longitud óptima, lo que disminuye la fuerza de contracción y la FEVI.",
       "hashtags": [
         "cardiologia",
         "insuficiencia_cardiaca",
         "fisiopatologia",
-        "remodelado_icfer",
+        "dilatacion_ventricular",
         "PATOLOGIA",
         ""
       ]
     },
     {
-      "question": "¿Cuál es la alteración principal a nivel celular en la IC que afecta la contracción y relajación?",
+      "question": "¿Qué altera la fibrosis miocárdica en la IC?",
       "options": [
-        "Disfunción del manejo del calcio",
-        "Reducción del estrés oxidativo",
-        "Aumento del ATP",
-        "Hiperactividad mitocondrial"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La disfunción del manejo del calcio es una alteración clave a nivel celular en la IC, afectando la recaptación de calcio por el retículo sarcoplásmico y la sensibilidad del aparato contráctil, lo que compromete tanto la contracción como la relajación miocárdica.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "fisiopatologia",
-        "disfuncion_calcio",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué caracteriza predominantemente la fisiopatología de la Insuficiencia Cardíaca con Fracción de Eyección Preservada (ICFEp)?",
-      "options": [
-        "Adelgazamiento de la pared ventricular",
-        "Dificultad de relajación y llenado ventricular",
-        "Marcada reducción de la eyección",
-        "Predominio de disfunción sistólica"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La ICFEp se caracteriza principalmente por una disfunción diastólica, donde el ventrículo tiene dificultades para relajarse y llenarse adecuadamente a presiones bajas, a pesar de una fracción de eyección sistólica conservada.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "fisiopatologia",
-        "disfuncion_diastolica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la prevalencia global estimada de insuficiencia cardíaca en la población adulta general?",
-      "options": [
-        "Más del 10%",
-        "Alrededor del 5%",
-        "Menos del 0.5%",
-        "Entre 1% y 2%"
+        "Mejora la transmisión de fuerzas contráctiles",
+        "Facilita la conducción eléctrica",
+        "Aumenta la distensibilidad ventricular",
+        "Contribuye a disfunción diastólica y sistólica"
       ],
       "correctAnswer": 4,
-      "explanation": "La prevalencia global estimada de insuficiencia cardíaca varía entre el 1% y el 2% de la población adulta general, siendo una de las epidemias no infecciosas más significativas a nivel mundial.",
+      "explanation": "La fibrosis miocárdica aumenta la rigidez del miocardio, interfiere con la transmisión de las fuerzas contráctiles y la conducción eléctrica, contribuyendo a ambas disfunciones.",
       "hashtags": [
         "cardiologia",
         "insuficiencia_cardiaca",
-        "epidemiologia",
-        "prevalencia_global",
+        "fisiopatologia",
+        "fibrosis_miocardica",
         "PATOLOGIA",
         ""
       ]
     },
     {
-      "question": "¿Cómo cambia la prevalencia de IC en personas mayores de 70 años?",
+      "question": "¿Qué es la apoptosis en el contexto de la IC?",
       "options": [
-        "No hay datos claros",
-        "Se mantiene estable",
+        "Aumento de la contractilidad",
+        "Reversión del remodelado",
+        "Muerte celular programada de cardiomiocitos",
+        "Proliferación celular"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La apoptosis es la muerte celular programada. En la IC, la activación de sistemas neurohormonales y el estrés inducen la muerte de cardiomiocitos, reduciendo la masa contráctil.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "fisiopatologia",
+        "apoptosis_cardiomiocitos",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué alteración vascular se asocia con la disfunción endotelial en la IC?",
+      "options": [
+        "Vasoconstricción y disfunción endotelial",
+        "Aumento de óxido nítrico",
+        "Reducción de la inflamación",
+        "Disminución de vasoconstrictores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La IC se asocia con disfunción endotelial, caracterizada por disminución de óxido nítrico (vasodilatador) y aumento de mediadores vasoconstrictores y pro-inflamatorios.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "fisiopatologia",
+        "disfuncion_endotelial",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué causa la congestión vascular y edema en la IC?",
+      "options": [
+        "Aumento del gasto cardíaco",
+        "Vasodilatación periférica y baja precarga",
+        "Presiones de llenado elevadas y retención de líquidos",
+        "Presiones de llenado bajas y diuresis aumentada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La combinación de presiones de llenado elevadas y la retención de sodio y agua lleva a congestión vascular sistémica y pulmonar, manifestándose como edema y disnea.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "fisiopatologia",
+        "congestión_edema",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la prevalencia estimada de IC a nivel mundial?",
+      "options": [
+        "Menos de 10 millones",
+        "Más de 65 millones",
+        "Alrededor de 1 millón",
+        "Cerca de 30 millones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se estima que la Insuficiencia Cardíaca afecta a más de 65 millones de personas a nivel mundial, representando una epidemia global significativa.",
+      "hashtags": [
+        "epidemiologia",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "global",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cómo aumenta la prevalencia de IC con la edad?",
+      "options": [
         "Disminuye significativamente",
-        "Puede superar el 10%"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La prevalencia de insuficiencia cardíaca aumenta drásticamente con la edad, llegando a superar el 10% en personas mayores de 70 años, lo que refleja el envejecimiento de la población y la acumulación de factores de riesgo.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "epidemiologia",
-        "prevalencia_edad_avanzada",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la mortalidad a 5 años después del diagnóstico de IC?",
-      "options": [
-        "Menos del 10%",
-        "Alrededor del 20%",
-        "Siempre menor de 5%",
-        "Tan alta como el 50%"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A pesar de los avances en el tratamiento, la insuficiencia cardíaca sigue asociándose con una alta mortalidad, pudiendo la mortalidad a 5 años después del diagnóstico ser tan alta como el 50%, comparable a muchos tipos de cáncer.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "epidemiologia",
-        "mortalidad_a_5_años",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la principal causa de hospitalización en adultos mayores de 65 años en países desarrollados?",
-      "options": [
-        "Fracturas óseas",
-        "Neumonía comunitaria",
-        "Insuficiencia cardíaca",
-        "Accidente cerebrovascular"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La insuficiencia cardíaca es la principal causa de hospitalización en adultos mayores de 65 años en países desarrollados, y las rehospitalizaciones son frecuentes, lo que representa una carga económica y asistencial considerable.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "epidemiologia",
-        "hospitalizaciones_ancianos",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué factor de riesgo aumenta el riesgo de IC de 2 a 5 veces, tanto para ICFEr como ICFEp?",
-      "options": [
-        "Hipotiroidismo",
-        "Diabetes Mellitus",
-        "Tabaquismo",
-        "Dislipemia"
+        "Aumenta significativamente",
+        "Aumenta solo en hombres",
+        "Se mantiene estable"
       ],
       "correctAnswer": 2,
-      "explanation": "La Diabetes Mellitus aumenta el riesgo de insuficiencia cardíaca de 2 a 5 veces, afectando tanto a la ICFEr como a la ICFEp a través de mecanismos como la miocardiopatía diabética, aterosclerosis acelerada e hipertensión.",
+      "explanation": "La prevalencia de la IC aumenta significativamente con la edad. En personas mayores de 65 años, puede alcanzar hasta el 10% o más en grupos de edad avanzada.",
       "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
         "epidemiologia",
-        "diabetes_mellitus",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "edad_avanzada",
         "PATOLOGIA",
         ""
       ]
     },
     {
-      "question": "¿Qué tendencia se ha observado recientemente en la prevalencia de la ICFEp?",
+      "question": "¿Cuál es la principal causa de hospitalización en mayores de 65 años en muchos países?",
       "options": [
-        "Ha disminuido drásticamente",
-        "Ha aumentado, superando el 50%",
-        "No hay cambios significativos",
-        "Se ha mantenido estable"
+        "Accidente cerebrovascular",
+        "Insuficiencia Cardíaca",
+        "Neumonía",
+        "Infarto agudo de miocardio"
       ],
       "correctAnswer": 2,
-      "explanation": "Recientemente, la prevalencia de la ICFEp ha aumentado y ahora representa más del 50% de todos los casos de insuficiencia cardíaca en muchos estudios, reflejando el envejecimiento poblacional y el incremento de comorbilidades como HTA y DM.",
+      "explanation": "La Insuficiencia Cardíaca es la principal causa de hospitalización en pacientes mayores de 65 años en muchos países desarrollados.",
       "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
         "epidemiologia",
-        "tendencia_icfep",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "hospitalizaciones",
         "PATOLOGIA",
         ""
       ]
     },
     {
-      "question": "¿Cuál es el síntoma cardinal y más frecuente de la insuficiencia cardíaca?",
+      "question": "¿Qué factor contribuye al aumento de la incidencia de IC a pesar de mejoras terapéuticas?",
       "options": [
-        "Palpitaciones",
-        "Mareos",
-        "Disnea",
-        "Dolor torácico"
+        "Reducción de la obesidad",
+        "Disminución de la esperanza de vida",
+        "Aumento de la esperanza de vida y factores de riesgo",
+        "Mejor control de la diabetes"
       ],
       "correctAnswer": 3,
-      "explanation": "La disnea, o dificultad para respirar, es el síntoma cardinal y más frecuente de la insuficiencia cardíaca, manifestándose inicialmente con el esfuerzo y progresando a disnea en reposo en estadios avanzados.",
+      "explanation": "A pesar de las mejoras terapéuticas, el aumento de la esperanza de vida y la alta prevalencia de factores de riesgo como obesidad, diabetes e HTA contrarrestan la disminución de la incidencia.",
       "hashtags": [
-        "cardiologia",
+        "epidemiologia",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "factores_riesgo",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la tasa de mortalidad aproximada a 1 año en pacientes con IC?",
+      "options": [
+        "10-20%",
+        "1-5%",
+        "25-40%",
+        "Menos del 1%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La tasa de mortalidad a 1 año para pacientes con Insuficiencia Cardíaca puede oscilar entre el 10% y el 20%, indicando una alta mortalidad asociada a la enfermedad.",
+      "hashtags": [
+        "epidemiologia",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "tasa_anual",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué tipo de IC representa aproximadamente el 50% de todos los casos?",
+      "options": [
+        "IC con FEVI preservada",
+        "IC con FEVI reducida",
+        "IC aguda",
+        "IC con FEVI moderadamente reducida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Insuficiencia Cardíaca con Fracción de Eyección Preservada (ICFEp) representa aproximadamente la mitad de todos los casos de IC y está en aumento.",
+      "hashtags": [
+        "epidemiologia",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "ic_fe_preservada",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el síntoma más común y a menudo el primero en aparecer en la IC?",
+      "options": [
+        "Dolor torácico",
+        "Disnea de esfuerzo",
+        "Edema periférico",
+        "Fatiga intensa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La disnea de esfuerzo es el síntoma más común y a menudo el primero en manifestarse en pacientes con Insuficiencia Cardíaca.",
+      "hashtags": [
+        "medicina_interna",
         "insuficiencia_cardiaca",
         "cuadro_clinico",
-        "sintoma_cardinal",
+        "disnea_de_esfuerzo",
         "PATOLOGIA",
         ""
       ]
     },
     {
-      "question": "¿Cómo se define la ortopnea en el contexto de la insuficiencia cardíaca?",
+      "question": "¿Qué síntoma se caracteriza por dificultad para respirar en posición supina?",
       "options": [
-        "Disnea en decúbito supino que mejora al sentarse",
-        "Disnea al caminar",
-        "Disnea súbita nocturna",
-        "Disnea exclusiva de esfuerzo"
+        "Disnea paroxística nocturna",
+        "Ortopnea",
+        "Fatiga",
+        "Tos persistente"
       ],
-      "correctAnswer": 1,
-      "explanation": "La ortopnea es la disnea que ocurre cuando el paciente está en posición decúbito supino y se alivia al sentarse o elevar la cabeza, debido a la redistribución del volumen sanguíneo y aumento de la congestión pulmonar en posición horizontal.",
+      "correctAnswer": 2,
+      "explanation": "La ortopnea es la dificultad para respirar en posición supina, que mejora al sentarse o pararse, debido al aumento de la precarga cardíaca y la congestión pulmonar.",
       "hashtags": [
-        "cardiologia",
+        "medicina_interna",
         "insuficiencia_cardiaca",
         "cuadro_clinico",
         "ortopnea",
@@ -533,17 +723,17 @@
       ]
     },
     {
-      "question": "¿Cuál es el nombre de los episodios súbitos de disnea severa que despiertan al paciente del sueño?",
+      "question": "¿Qué síntoma de la IC se presenta como episodios súbitos de dificultad respiratoria durante la noche?",
       "options": [
         "Disnea de esfuerzo",
-        "Disnea paroxística nocturna",
-        "Bradipnea nocturna",
-        "Taquipnea diurna"
+        "Ortopnea",
+        "Tos seca",
+        "Disnea Paroxística Nocturna (DPN)"
       ],
-      "correctAnswer": 2,
-      "explanation": "La disnea paroxística nocturna (DPN) se refiere a episodios súbitos de disnea severa que despiertan al paciente del sueño, obligándolo a sentarse o ponerse de pie para aliviarse, y se relaciona con el aumento del retorno venoso durante el reposo nocturno.",
+      "correctAnswer": 4,
+      "explanation": "La Disnea Paroxística Nocturna (DPN) se manifiesta con episodios de dificultad respiratoria severa que despiertan al paciente súbitamente varias horas después de dormirse.",
       "hashtags": [
-        "cardiologia",
+        "medicina_interna",
         "insuficiencia_cardiaca",
         "cuadro_clinico",
         "dpn",
@@ -552,283 +742,264 @@
       ]
     },
     {
-      "question": "¿Qué signo clínico indica aumento de la presión venosa central en el cuello?",
+      "question": "¿Qué causa el edema periférico en la IC?",
       "options": [
-        "Cianosis periférica",
-        "Ingurgitación yugular",
-        "Edema facial",
-        "Palpitaciones visibles"
+        "Disminución de la presión venosa",
+        "Aumento de la frecuencia cardíaca",
+        "Elevación de la presión arterial",
+        "Acumulación de líquido por elevación de presión venosa"
       ],
-      "correctAnswer": 2,
-      "explanation": "La ingurgitación yugular, o distensión de las venas yugulares en el cuello, es un signo clínico que indica un aumento de la presión venosa central debido a la congestión retrógrada en la insuficiencia cardíaca derecha.",
+      "correctAnswer": 4,
+      "explanation": "El edema periférico, típicamente en miembros inferiores, es causado por la acumulación de líquido debido a la elevación de la presión venosa sistémica como resultado de la incapacidad del corazón para bombear eficientemente.",
       "hashtags": [
-        "cardiologia",
+        "medicina_interna",
         "insuficiencia_cardiaca",
         "cuadro_clinico",
+        "edema_periferico",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué síntoma de hipoperfusión se relaciona con la reducción del gasto cardíaco?",
+      "options": [
+        "Fatiga y debilidad",
+        "Edema",
+        "Tos",
+        "Disnea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La fatiga y la debilidad generalizada son síntomas de hipoperfusión tisular, causados por una reducción del flujo sanguíneo a los músculos esqueléticos debido a un gasto cardíaco insuficiente.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "cuadro_clinico",
+        "hipoperfusion",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué signo físico indica congestión circulatoria y es clave en la disfunción del VD?",
+      "options": [
+        "Taquicardia",
+        "Soplo cardíaco",
+        "Ingurgitación yugular",
+        "Crepitantes pulmonares"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La ingurgitación yugular (elevación de la presión venosa yugular) es un signo clave de sobrecarga de volumen y disfunción del ventrículo derecho, indicando congestión circulatoria.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "concepto",
         "ingurgitacion_yugular",
         "PATOLOGIA",
         ""
       ]
     },
     {
-      "question": "¿Qué síntoma es común en la IC derecha y se relaciona con la congestión gastrointestinal?",
+      "question": "¿Qué hallazgo auscultatorio es un signo temprano y sensible de disfunción ventricular sistólica (ICFEr)?",
       "options": [
-        "Sibilancias pulmonares",
-        "Disnea paroxística nocturna",
-        "Anorexia y náuseas",
-        "Tos con esputo rosado"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La anorexia y las náuseas son síntomas comunes en la insuficiencia cardíaca derecha o biventricular, y están relacionadas con la congestión esplácnica y el edema intestinal, que afectan la absorción y la digestión.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "cuadro_clinico",
-        "sintomas_ic_derecha",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué ruido auscultatorio cardíaco es patognomónico de disfunción sistólica del ventrículo izquierdo?",
-      "options": [
-        "Galope por tercer ruido (S3)",
-        "S1 acentuado",
-        "S4",
-        "S2 desdoblado"
+        "Tercer ruido cardíaco (S3)",
+        "Segundo ruido cardíaco (S2) acentuado",
+        "Frotes pericárdicos",
+        "Soplo sistólico"
       ],
       "correctAnswer": 1,
-      "explanation": "El galope por tercer ruido (S3) es un ruido protodiastólico de baja frecuencia que ocurre poco después del S2 y es patognomónico de disfunción sistólica del ventrículo izquierdo, indicando un llenado ventricular rápido y aumentado.",
+      "explanation": "Un tercer ruido cardíaco (S3), también llamado galope ventricular, es un signo temprano y sensible de disfunción sistólica y sobrecarga de volumen en la IC-FEr.",
       "hashtags": [
         "cardiologia",
         "insuficiencia_cardiaca",
-        "cuadro_clinico",
+        "concepto",
         "tercer_ruido_cardiaco",
         "PATOLOGIA",
         ""
       ]
     },
     {
-      "question": "¿Qué signo en la palpación del pulso arterial es indicativo de disfunción sistólica ventricular izquierda severa?",
+      "question": "¿Qué hallazgo auscultatorio indica disfunción diastólica (ICFEp)?",
       "options": [
-        "Pulso paradójico",
-        "Pulso alternante",
-        "Pulso filiforme",
-        "Pulso saltón"
+        "Desdoblamiento del S2",
+        "Soplo de insuficiencia mitral",
+        "Tercer ruido cardíaco (S3)",
+        "Cuarto ruido cardíaco (S4)"
       ],
-      "correctAnswer": 2,
-      "explanation": "El pulso alternante es una alternancia regular de una pulsación fuerte y una débil, con ritmo regular, y es un signo indicativo de disfunción sistólica ventricular izquierda severa en pacientes con insuficiencia cardíaca.",
+      "correctAnswer": 4,
+      "explanation": "Un cuarto ruido cardíaco (S4), o galope auricular, es un signo de disfunción diastólica y rigidez ventricular, indicando una contracción auricular vigorosa contra un ventrículo poco distensible.",
       "hashtags": [
         "cardiologia",
         "insuficiencia_cardiaca",
-        "cuadro_clinico",
-        "pulso_alternante",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué tipo de crepitantes o estertores se escuchan en la congestión pulmonar por IC?",
-      "options": [
-        "Silbantes, espiratorios",
-        "Estridor monofónico",
-        "De burbujeo o crujido, inspiratorios",
-        "Secos, inspiratorios"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Los crepitantes o estertores en la congestión pulmonar por IC son sonidos de burbujeo o crujido que se escuchan principalmente al final de la inspiración, indicando la presencia de líquido en los alvéolos.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "cuadro_clinico",
-        "crepitantes_pulmonares",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué maniobra aumenta la ingurgitación yugular al presionar el hipocondrio derecho?",
-      "options": [
-        "Maniobra de Valsalva",
-        "Signo de Kussmaul",
-        "Reflujo hepatoyugular",
-        "Maniobra de Rivera-Carvallo"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El reflujo hepatoyugular es la maniobra en la que se observa un aumento de la ingurgitación yugular al aplicar presión sobre el hipocondrio derecho (hígado), confirmando la elevación de la presión venosa central en la insuficiencia cardíaca.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "cuadro_clinico",
-        "reflujo_hepatoyugular",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo en la auscultación cardíaca indica un llenado ventricular forzado en un ventrículo rígido?",
-      "options": [
-        "Cuarto ruido (S4)",
-        "S3",
-        "S2 desdoblado",
-        "S1 aumentado"
-      ],
-      "correctAnswer": 1,
-      "explanation": "El Cuarto Ruido (S4) es un ruido presistólico de baja frecuencia que ocurre antes del S1, e indica un llenado ventricular forzado en un ventrículo rígido, común en hipertrofia ventricular izquierda y disfunción diastólica (ICFEp).",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "cuadro_clinico",
+        "concepto",
         "cuarto_ruido_cardiaco",
         "PATOLOGIA",
         ""
       ]
     },
     {
-      "question": "¿Qué valor de NT-proBNP hace muy improbable el diagnóstico de IC aguda en urgencias?",
+      "question": "¿Qué signo físico en el examen pulmonar indica líquido en los alvéolos (edema pulmonar)?",
       "options": [
-        "Mayor a 1000 pg/mL",
-        "Mayor a 500 pg/mL",
-        "Menor a 300 pg/mL",
-        "Entre 300 y 400 pg/mL"
+        "Murmullo vesicular disminuido",
+        "Soplos respiratorios",
+        "Estertores (Rales)",
+        "Roncus"
       ],
       "correctAnswer": 3,
-      "explanation": "Un valor de NT-proBNP menor a 300 pg/mL (o BNP < 100 pg/mL) hace muy improbable el diagnóstico de insuficiencia cardíaca aguda en un contexto de urgencias, siendo un biomarcador clave para la exclusión.",
+      "explanation": "Los estertores (o rales) son crepitantes finos, típicamente bibasales, que indican la presencia de líquido en los alvéolos (edema pulmonar), un signo de congestión pulmonar en la IC.",
       "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "diagnostico",
-        "ntprobnp_ic_aguda",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué prueba de imagen es fundamental para la clasificación de la IC según la FEVI?",
-      "options": [
-        "Radiografía de tórax",
-        "Electrocardiograma (ECG)",
-        "Tomografía computarizada",
-        "Ecocardiografía Doppler"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La ecocardiografía Doppler es la prueba central para el diagnóstico de IC y su clasificación, ya que proporciona información esencial sobre la función sistólica ventricular izquierda (FEVI) y la disfunción diastólica, permitiendo categorizar la IC.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "diagnostico",
-        "ecocardiografia_doppler",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo en el ECG hace muy poco probable el diagnóstico de disfunción sistólica grave del ventrículo izquierdo?",
-      "options": [
-        "Un ECG completamente normal",
-        "Hipertrofia ventricular izquierda",
-        "Fibrilación auricular",
-        "Bloqueo de rama izquierda"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Un electrocardiograma (ECG) de 12 derivaciones completamente normal hace muy poco probable el diagnóstico de disfunción sistólica grave del ventrículo izquierdo, aunque no excluye la ICFEp o IC en etapas tempranas.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "diagnostico",
-        "ecg_hallazgos",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué prueba es específica para el diagnóstico de amiloidosis por transtiretina (ATTR) cardíaca?",
-      "options": [
-        "Resonancia Magnética Cardíaca",
-        "Biopsia endomiocárdica",
-        "Cateterismo cardíaco",
-        "Gammagrafía con Tc-99m pirofosfato"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La gammagrafía cardíaca con Tecnecio-99m pirofosfato (Tc-PYP) es una prueba específica y muy útil para el diagnóstico de amiloidosis por transtiretina (ATTR) cardíaca, especialmente en pacientes con ICFEp de causa desconocida.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "diagnostico",
-        "amiloidosis_attr",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo en la radiografía de tórax sugiere congestión pulmonar en IC?",
-      "options": [
-        "Aumento de la trama broncovascular",
-        "Neumotórax a tensión",
-        "Líneas B de Kerley",
-        "Diafragmas aplanados"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Las líneas B de Kerley son un signo radiográfico de edema intersticial pulmonar, indicando congestión pulmonar debido a presiones de llenado elevadas en la insuficiencia cardíaca, especialmente visibles en las bases pulmonares.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "diagnostico",
-        "radiografia_torax",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué evalúa la clasificación de la New York Heart Association (NYHA)?",
-      "options": [
-        "La capacidad funcional del paciente",
-        "El remodelado ventricular",
-        "La fracción de eyección",
-        "La etiología de la IC"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La clasificación de la New York Heart Association (NYHA) evalúa la capacidad funcional del paciente con IC, basándose en los síntomas que experimenta durante la actividad física, siendo una herramienta pronóstica y de seguimiento útil.",
-      "hashtags": [
-        "cardiologia",
+        "medicina_interna",
         "insuficiencia_cardiaca",
         "concepto",
-        "clasificacion_nyha",
+        "estertores_pulmonares",
         "PATOLOGIA",
         ""
       ]
     },
     {
-      "question": "¿En qué estadio de ACC/AHA se clasifica un paciente con enfermedad cardíaca estructural sin síntomas de IC?",
+      "question": "¿Qué prueba de laboratorio es fundamental para confirmar la IC?",
       "options": [
-        "Estadio B",
-        "Estadio D",
-        "Estadio A",
-        "Estadio C"
-      ],
-      "correctAnswer": 1,
-      "explanation": "El Estadio B de la clasificación ACC/AHA/HFSA incluye pacientes con enfermedad cardíaca estructural o anomalías en biomarcadores (ej. péptidos natriuréticos elevados) pero que aún no presentan síntomas o signos de insuficiencia cardíaca.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "concepto",
-        "estadios_acc_aha",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué clase funcional NYHA describe a un paciente asintomático en reposo con ligera limitación de la actividad física?",
-      "options": [
-        "Clase I",
-        "Clase II",
-        "Clase III",
-        "Clase IV"
+        "Hemoglobina",
+        "Péptidos Natriuréticos (BNP/NT-proBNP)",
+        "Troponinas",
+        "Glucosa sérica"
       ],
       "correctAnswer": 2,
-      "explanation": "La Clase II de la NYHA describe a pacientes con ligera limitación de la actividad física, asintomáticos en reposo, pero cuya actividad física ordinaria provoca fatiga, palpitaciones o disnea, indicando un deterioro funcional leve.",
+      "explanation": "Los niveles elevados de péptidos natriuréticos (BNP o NT-proBNP) en sangre son altamente sugestivos de disfunción ventricular y son fundamentales para confirmar o descartar la IC en pacientes con disnea.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "diagnostico",
+        "biomarcadores",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué muestra un ECG de 12 derivaciones en un paciente con IC?",
+      "options": [
+        "Nada, es normal",
+        "Edema pulmonar",
+        "Signos de cardiopatía subyacente (ej. HVI, arritmias)",
+        "Solo hipertrofia ventricular"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El ECG puede ser normal, pero a menudo revela signos de cardiopatía subyacente como hipertrofia ventricular, alteraciones de la conducción, arritmias o evidencia de isquemia/infarto.",
       "hashtags": [
         "cardiologia",
+        "insuficiencia_cardiaca",
+        "diagnostico",
+        "ecg",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el estudio de imagen fundamental en el diagnóstico de IC?",
+      "options": [
+        "Tomografía computarizada",
+        "Radiografía de tórax",
+        "Resonancia magnética cardíaca",
+        "Ecocardiograma transtorácico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El ecocardiograma transtorácico es el estudio de imagen fundamental que proporciona información crucial sobre la estructura, función (FEVI, diastólica), válvulas y cavidades cardíacas.",
+      "hashtags": [
+        "cardiologia",
+        "insuficiencia_cardiaca",
+        "diagnostico",
+        "ecocardiograma",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué permite el ecocardiograma en la clasificación de la IC?",
+      "options": [
+        "Medir la presión arterial",
+        "Evaluar la temperatura corporal",
+        "Identificar derrames pleurales",
+        "Calcular la Fracción de Eyección del VI (FEVI)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El ecocardiograma permite calcular la Fracción de Eyección del Ventrículo Izquierdo (FEVI), esencial para clasificar la IC en ICFEr, ICFEmr e ICFEp.",
+      "hashtags": [
+        "cardiologia",
+        "insuficiencia_cardiaca",
+        "diagnostico",
+        "fevi_ecocardiograma",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo en la Rx de tórax sugiere congestión pulmonar?",
+      "options": [
+        "Engrosamiento de cisuras, líneas B de Kerley",
+        "Consolidación lobar",
+        "Cardiomegalia aislada",
+        "Neumotórax"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Signos como el engrosamiento de las cisuras, las líneas B de Kerley y la redistribución del flujo vascular a los lóbulos superiores en la radiografía de tórax sugieren congestión pulmonar.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "diagnostico",
+        "rx_torax_congestiva",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿En qué clasificación de IC la FEVI es ≤ 40%?",
+      "options": [
+        "IC con FEVI Moderadamente Reducida",
+        "IC con FEVI Reducida (ICFEr)",
+        "IC con FEVI Preservada",
+        "IC con FEVI Normal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Insuficiencia Cardíaca con Fracción de Eyección Reducida (ICFEr) se define por una FEVI ≤ 40%, asociada a disfunción sistólica del ventrículo izquierdo.",
+      "hashtags": [
+        "cardiologia",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "icfer_definicion",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué FEVI define la IC con Fracción de Eyección Preservada (ICFEp)?",
+      "options": [
+        "FEVI ≥ 50% con disfunción",
+        "FEVI ≤ 40%",
+        "FEVI > 60%",
+        "FEVI 41-49%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ICFEp se define por una FEVI ≥ 50%, asociada a evidencia de disfunción cardíaca estructural o funcional, como disfunción diastólica o dilatación de la aurícula izquierda.",
+      "hashtags": [
+        "cardiologia",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "icfep_definicion",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué describe la Clase Funcional II de la NYHA?",
+      "options": [
+        "Marcada limitación, síntomas con esfuerzo menor",
+        "Ligera limitación, síntomas con esfuerzo ordinario",
+        "Sin limitación, actividades normales",
+        "Síntomas en reposo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Clase Funcional II de la NYHA describe una ligera limitación de la actividad física, donde aparecen síntomas con el esfuerzo ordinario, pero el paciente está asintomático en reposo.",
+      "hashtags": [
+        "medicina_interna",
         "insuficiencia_cardiaca",
         "concepto",
         "nyha_clase_ii",
@@ -837,169 +1008,150 @@
       ]
     },
     {
-      "question": "¿Cuál de las siguientes condiciones puede causar disnea, tos y sibilancias, requiriendo diagnóstico diferencial con IC?",
+      "question": "¿Qué estadio ACC/AHA representa a pacientes con cardiopatía estructural pero asintomáticos?",
       "options": [
-        "Hipotiroidismo severo",
-        "Anemia ferropénica",
-        "Insuficiencia venosa crónica",
-        "Enfermedad Pulmonar Obstructiva Crónica"
+        "Estadio D",
+        "Estadio B",
+        "Estadio A",
+        "Estadio C"
       ],
-      "correctAnswer": 4,
-      "explanation": "La Enfermedad Pulmonar Obstructiva Crónica (EPOC) puede causar disnea, tos y sibilancias, síntomas que se superponen con los de la insuficiencia cardíaca, por lo que es un diagnóstico diferencial importante a considerar.",
+      "correctAnswer": 2,
+      "explanation": "El Estadio B de la clasificación ACC/AHA describe pacientes con cardiopatía estructural (ej. HVI, FEVI reducida) pero que aún no presentan síntomas de IC.",
       "hashtags": [
         "cardiologia",
         "insuficiencia_cardiaca",
         "concepto",
-        "epoc",
+        "estadio_b_aha",
         "PATOLOGIA",
         ""
       ]
     },
     {
-      "question": "¿Qué enfermedad renal puede mimetizar síntomas de IC por sobrecarga de volumen?",
+      "question": "¿Qué estadio ACC/AHA se refiere a IC sintomática?",
       "options": [
-        "Infección urinaria",
-        "Enfermedad Renal Crónica",
+        "Estadio B",
+        "Estadio C",
+        "Estadio D",
+        "Estadio A"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Estadio C de la clasificación ACC/AHA se refiere a pacientes con cardiopatía estructural y síntomas de Insuficiencia Cardíaca (clases NYHA II-IV).",
+      "hashtags": [
+        "cardiologia",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "estadio_c_aha",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una causa común de disnea en el diagnóstico diferencial de IC?",
+      "options": [
+        "EPOC",
+        "Ansiedad",
+        "Anemia severa",
+        "Neumonía"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La anemia severa causa fatiga y debilidad, pero la disnea marcada no es su síntoma principal, a diferencia de EPOC, neumonía o ansiedad, que pueden simular disnea de IC.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "disnea",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué condición renal puede causar edema periférico y retención de líquidos similar a la IC?",
+      "options": [
+        "Nefropatía diabética incipiente",
         "Cálculos renales",
-        "Glomerulonefritis aguda"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La Enfermedad Renal Crónica (ERC) puede causar sobrecarga de volumen, lo que se manifiesta como edema y disnea (por sobrecarga circulatoria o edema pulmonar), mimetizando así los síntomas de la insuficiencia cardíaca.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "concepto",
-        "enfermedad_renal_cronica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿En qué condición puede el BNP/NT-proBNP estar elevado sin insuficiencia cardíaca primaria?",
-      "options": [
-        "Tuberculosis pulmonar",
-        "Enfermedad Renal Crónica",
-        "Ansiedad generalizada",
-        "Apnea obstructiva del sueño"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Los péptidos natriuréticos (BNP/NT-proBNP) pueden estar elevados en pacientes con Enfermedad Renal Crónica (ERC) incluso sin una insuficiencia cardíaca primaria, debido a la disminución de su aclaramiento renal, lo que exige una interpretación cuidadosa.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "concepto",
-        "bnp_erc",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué condición pericárdica puede simular IC derecha severa con signo de Kussmaul?",
-      "options": [
-        "Derrame pericárdico leve",
-        "Miocarditis viral",
-        "Pericarditis constrictiva",
-        "Pericarditis aguda"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La pericarditis constrictiva es una condición rara que puede causar síntomas de insuficiencia cardíaca derecha severa, como ingurgitación yugular prominente y ascitis, y a menudo presenta el signo de Kussmaul (aumento de la PVY con la inspiración).",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "concepto",
-        "pericarditis_constrictiva",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué restricción dietética es esencial en el manejo general de la IC?",
-      "options": [
-        "Restricción de sodio",
-        "Restricción de proteínas",
-        "Restricción de grasas saturadas",
-        "Restricción de azúcares simples"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La restricción de sodio, generalmente a menos de 2-3 gramos al día, es una medida general esencial en el manejo de la insuficiencia cardíaca, ya que ayuda a reducir la retención de líquidos y la congestión.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "tratamiento",
-        "restriccion_sodio",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál de estos fármacos pertenece a la terapia cuádruple para ICFEr?",
-      "options": [
-        "Amlodipino",
-        "Digoxina",
-        "Inhibidores del cotransportador SGLT2",
-        "Ivabradina"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Los inhibidores del cotransportador sodio-glucosa 2 (iSGLT2), como dapagliflozina o empagliflozina, son parte del 'cuarto pilar' de la terapia cuádruple para la ICFEr, demostrando reducir mortalidad y hospitalizaciones.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "tratamiento",
-        "isglt2",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué fármaco se recomienda para sustituir el IECA/ARA-II en pacientes sintomáticos con ICFEr?",
-      "options": [
-        "Ivabradina",
-        "Hidralazina",
-        "Sacubitril/Valsartán (ARNI)",
-        "Digoxina"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Los inhibidores del receptor de angiotensina-neprilisina (ARNI), como sacubitril/valsartán, son superiores a los IECA en la reducción de la morbimortalidad y se recomiendan para sustituir IECA/ARA-II en pacientes sintomáticos con ICFEr.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "tratamiento",
-        "arni",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la principal utilidad de los diuréticos de asa en la IC?",
-      "options": [
-        "Aliviar los síntomas de congestión",
-        "Mejorar la contractilidad miocárdica",
-        "Prevenir la fibrilación auricular",
-        "Reducir la mortalidad"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Los diuréticos de asa, como la furosemida, son utilizados principalmente para aliviar rápidamente los síntomas de congestión (disnea, edema) en pacientes con insuficiencia cardíaca, mejorando la calidad de vida y previniendo hospitalizaciones, aunque no la supervivencia.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "tratamiento",
-        "diureticos_asa",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué clase de fármacos reduce la mortalidad y hospitalizaciones en ICFEr y bloquea la activación simpática maladaptativa?",
-      "options": [
-        "IECA",
-        "ARM",
-        "ARA-II",
-        "Betabloqueantes"
+        "Pielonefritis aguda",
+        "Síndrome nefrótico"
       ],
       "correctAnswer": 4,
-      "explanation": "Los betabloqueantes (BB) reducen la mortalidad y las hospitalizaciones en pacientes con ICFEr al bloquear la activación simpática maladaptativa, que es perjudicial a largo plazo en la fisiopatología de la insuficiencia cardíaca.",
+      "explanation": "El síndrome nefrótico, con su pérdida masiva de proteínas y consecuente hipoalbuminemia, causa edema generalizado y retención de líquidos que puede confundirse con IC.",
       "hashtags": [
-        "cardiologia",
+        "nefrologia",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "edema",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué causa hepática puede manifestarse con ascitis y edema periférico?",
+      "options": [
+        "Hepatitis viral aguda",
+        "Quiste hepático",
+        "Cirrosis hepática",
+        "Colecistitis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La cirrosis hepática, al causar hipertensión portal e hipoalbuminemia, puede llevar a ascitis y edema periférico, síntomas que se solapan con la IC derecha.",
+      "hashtags": [
+        "hepatologia",
+        "insuficiencia_cardiaca",
+        "concepto",
+        "edema_ascitis",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del tratamiento farmacológico en la IC-FEr?",
+      "options": [
+        "Mejorar la función valvular",
+        "Reducir la mortalidad y hospitalizaciones",
+        "Aumentar la frecuencia cardíaca",
+        "Incrementar la presión arterial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los tratamientos farmacológicos para la IC-FEr, como los INRA, betabloqueantes, ARM e iSGLT2, están diseñados para reducir la mortalidad y las hospitalizaciones, además de aliviar síntomas.",
+      "hashtags": [
+        "farmacologia",
+        "insuficiencia_cardiaca",
+        "tratamiento",
+        "objetivo_tratamiento",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué clase de fármacos se considera de primera línea para IC-FEr sintomática?",
+      "options": [
+        "Inhibidores de la ECA",
+        "Betabloqueantes",
+        "Diuréticos de asa",
+        "INRA (Sacubitrilo/Valsartán)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los inhibidores del receptor de angiotensina y neprilisina (INRA) son ahora considerados de primera línea para pacientes con IC-FEr sintomática (NYHA II-III), reemplazando a los IECA/ARA-II en muchos casos.",
+      "hashtags": [
+        "farmacologia",
+        "insuficiencia_cardiaca",
+        "tratamiento",
+        "terapia_primera_linea",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué terapia farmacológica es crucial para todos los pacientes estables con IC-FEr?",
+      "options": [
+        "Inhibidores de la ECA",
+        "Digoxina",
+        "Diuréticos",
+        "Betabloqueantes cardiosselectivos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los betabloqueantes cardiosselectivos (carvedilol, bisoprolol, metoprolol succinato) son una piedra angular del tratamiento para todos los pacientes estables con IC-FEr, reduciendo la mortalidad.",
+      "hashtags": [
+        "farmacologia",
         "insuficiencia_cardiaca",
         "tratamiento",
         "betabloqueantes",
@@ -1008,134 +1160,172 @@
       ]
     },
     {
-      "question": "¿Cuál es la primera terapia que mejora el pronóstico en pacientes con ICFEp e ICFElr?",
+      "question": "¿Cuál es el rol de los iSGLT2 en la IC?",
       "options": [
-        "Digoxina",
-        "Betabloqueantes",
-        "Inhibidores del SGLT2",
-        "Antagonistas de Mineralocorticoides"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Los inhibidores del SGLT2 (empagliflozina, dapagliflozina) han demostrado ser la primera terapia que reduce las hospitalizaciones por IC y eventos cardiovasculares en pacientes con ICFEp e ICFElr, mejorando el pronóstico en estos grupos.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "tratamiento",
-        "isglt2_icfep",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué dispositivo se indica para prevención de muerte súbita en ICFEr severa (FEVI ≤ 35%)?",
-      "options": [
-        "Dispositivo de asistencia ventricular",
-        "Marcapasos bicameral",
-        "Terapia de resincronización cardíaca (TRC)",
-        "Desfibrilador automático implantable (DAI)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "El Desfibrilador Automático Implantable (DAI) está indicado para la prevención de muerte súbita cardíaca en pacientes con ICFEr severa (FEVI ≤ 35%) que están en clase funcional NYHA II-III, a pesar de la terapia médica óptima.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "tratamiento",
-        "dai",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué intervención avanzada se considera la opción definitiva para pacientes jóvenes con IC terminal?",
-      "options": [
-        "Trasplante cardíaco",
-        "Terapia de resincronización",
-        "Implantación de DAI",
-        "Dispositivo de asistencia ventricular"
-      ],
-      "correctAnswer": 1,
-      "explanation": "El trasplante cardíaco es la opción definitiva para pacientes jóvenes con insuficiencia cardíaca terminal y sin otras comorbilidades graves, ya que mejora drásticamente la supervivencia y la calidad de vida.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "tratamiento",
-        "trasplante_cardiaco",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué fármacos se usan en la IC aguda para aliviar rápidamente la congestión?",
-      "options": [
-        "Anticoagulantes",
-        "Betabloqueantes orales",
-        "Inhibidores del SRAA",
-        "Diuréticos de asa IV"
-      ],
-      "correctAnswer": 4,
-      "explanation": "En el manejo de la insuficiencia cardíaca aguda descompensada, los diuréticos de asa intravenosos, como la furosemida, se utilizan para aliviar rápidamente la congestión y mejorar los síntomas como la disnea.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "tratamiento",
-        "ic_aguda_diureticos",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué tipo de fármacos se administran en pacientes con hipoperfusión o choque cardiogénico en IC aguda?",
-      "options": [
-        "Inotrópicos IV",
-        "IECA IV",
-        "Betabloqueantes IV",
-        "Vasodilatadores orales"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Los inotrópicos intravenosos (ej. dobutamina, milrinona) se administran en pacientes con insuficiencia cardíaca aguda que presentan hipoperfusión o choque cardiogénico, con el fin de mejorar la contractilidad miocárdica y el gasto cardíaco.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "tratamiento",
-        "inotrópicos_agudo",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué monitorización se debe realizar diariamente en un paciente hospitalizado con IC?",
-      "options": [
-        "Peso diario",
-        "Niveles de digoxina",
-        "Ecocardiograma",
-        "Curva de troponinas"
-      ],
-      "correctAnswer": 1,
-      "explanation": "El peso diario es una monitorización crucial en pacientes hospitalizados con insuficiencia cardíaca, ya que permite detectar rápidamente la retención de líquidos (ganancia ponderal) o la respuesta a los diuréticos, ajustando el tratamiento según sea necesario.",
-      "hashtags": [
-        "cardiologia",
-        "insuficiencia_cardiaca",
-        "tratamiento",
-        "monitoreo_hospitalario",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué se debe monitorizar al iniciar un ARM como la espironolactona?",
-      "options": [
-        "Nivel de glucemia",
-        "Potasio y función renal",
-        "Actividad de protrombina",
-        "Función tiroidea"
+        "Aumentar la retención de líquidos",
+        "Reducir mortalidad y hospitalizaciones en IC-FEr",
+        "Mejorar la contractilidad directa",
+        "Solo para pacientes diabéticos"
       ],
       "correctAnswer": 2,
-      "explanation": "Al iniciar antagonistas de receptores de mineralocorticoides (ARM) como la espironolactona, es fundamental monitorizar el potasio sérico y la función renal, debido al riesgo de hiperpotasemia y deterioro renal, especialmente en pacientes con IC.",
+      "explanation": "Los inhibidores de SGLT2 (dapagliflozina, empagliflozina) han demostrado reducir significativamente la mortalidad y las hospitalizaciones por IC en pacientes con FEVI reducida y moderadamente reducida.",
+      "hashtags": [
+        "farmacologia",
+        "insuficiencia_cardiaca",
+        "tratamiento",
+        "isglt2",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué diuréticos se usan para aliviar síntomas de congestión en IC?",
+      "options": [
+        "Diuréticos ahorradores de potasio",
+        "Diuréticos de asa",
+        "Diuréticos tiazídicos",
+        "Diuréticos osmóticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los diuréticos de asa (furosemida, torasemida) son los más utilizados para el manejo sintomático de la congestión y el edema en pacientes con Insuficiencia Cardíaca.",
+      "hashtags": [
+        "farmacologia",
+        "insuficiencia_cardiaca",
+        "tratamiento",
+        "diureticos_de_asa",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal estrategia de tratamiento en la ICFEp?",
+      "options": [
+        "Transplante cardíaco",
+        "Iniciar INRA inmediatamente",
+        "Terapia de resincronización",
+        "Control de comorbilidades y síntomas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El tratamiento de la ICFEp se centra en el control de la presión arterial, el manejo de comorbilidades (diabetes, obesidad) y el alivio sintomático de la congestión con diuréticos.",
       "hashtags": [
         "cardiologia",
         "insuficiencia_cardiaca",
         "tratamiento",
-        "monitorizacion_arm",
+        "ic_fe_preservada_tratamiento",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿En qué pacientes se considera la Terapia de Resincronización Cardíaca (TRC)?",
+      "options": [
+        "ICFEr sintomática con QRS ancho y bloqueo de rama izquierda",
+        "ICFEp con disnea leve",
+        "IC aguda descompensada",
+        "Pacientes con FEVI normal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La TRC se indica en pacientes con ICFEr sintomática (NYHA II-IV), FEVI ≤ 35%, y un QRS ancho (>150 ms con bloqueo de rama izquierda), para mejorar la sincronía ventricular.",
+      "hashtags": [
+        "cardiologia",
+        "insuficiencia_cardiaca",
+        "tratamiento",
+        "terapia_resincronizacion_cardiaca",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Para qué se usa el Cardiodesfibrilador Implantable (CDI) en la IC?",
+      "options": [
+        "Prevenir muerte súbita por arritmias ventriculares",
+        "Aliviar síntomas de congestión",
+        "Corregir la disfunción diastólica",
+        "Mejorar la conducción AV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El CDI se implanta principalmente para la prevención primaria o secundaria de muerte súbita causada por arritmias ventriculares letales en pacientes con alto riesgo.",
+      "hashtags": [
+        "cardiologia",
+        "insuficiencia_cardiaca",
+        "tratamiento",
+        "prevencion_muerte_subita",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es un componente clave de la educación al paciente con IC?",
+      "options": [
+        "Evitar ejercicio",
+        "Dieta alta en sodio",
+        "Ignorar síntomas de alarma",
+        "Automonitoreo diario del peso"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La educación del paciente incluye el automonitoreo diario del peso para detectar tempranamente retención hídrica, así como recomendaciones sobre dieta, medicación y cuándo buscar ayuda médica.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "tratamiento",
+        "educacion_paciente",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué dieta se recomienda para pacientes con IC?",
+      "options": [
+        "Alta en grasas saturadas",
+        "Sin restricciones de líquidos",
+        "Baja en sodio y restringida en líquidos",
+        "Alta en sodio y potasio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se recomienda una dieta baja en sodio (generalmente 1.5-2 g/día) y, en casos severos o con hiponatremia, una restricción hídrica para controlar la retención de líquidos.",
+      "hashtags": [
+        "nutricion",
+        "insuficiencia_cardiaca",
+        "tratamiento",
+        "dieta",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué debe hacer un paciente con IC si nota un aumento de peso rápido?",
+      "options": [
+        "Tomar más diuréticos sin consultar",
+        "Contactar al médico o acudir a urgencias",
+        "Ignorar el síntoma",
+        "Aumentar el consumo de sal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un aumento de peso rápido (ej. >2 kg en 2 días) puede indicar retención hídrica y requiere evaluación médica, ya que puede ser señal de descompensación de la IC.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "tratamiento",
+        "señales_alarma",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el propósito de los péptidos natriuréticos en el diagnóstico de IC?",
+      "options": [
+        "Detectar anemia",
+        "Medir la función renal",
+        "Evaluar la isquemia miocárdica",
+        "Confirmar o descartar IC en pacientes con disnea"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los niveles de BNP o NT-proBNP son cruciales para ayudar a confirmar o descartar la presencia de Insuficiencia Cardíaca en pacientes que presentan disnea, siendo un biomarcador muy sensible.",
+      "hashtags": [
+        "medicina_interna",
+        "insuficiencia_cardiaca",
+        "diagnostico",
+        "natriureticos",
         "PATOLOGIA",
         ""
       ]
