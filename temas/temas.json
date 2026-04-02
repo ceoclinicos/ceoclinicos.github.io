@@ -734,6 +734,37 @@
         "#inflamacion"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "endocarditis_infecciosa",
+      "titulo": "Endocarditis Infecciosa",
+      "descripcion": "Inflamación del endocardio, la capa interna del corazón, causada por una infección bacteriana o fúngica. Afecta principalmente las válvulas cardíacas.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#cardiologia",
+        "#enfermedades_infecciosas",
+        "#medicina_interna",
+        "#endocarditis",
+        "#valvulas_cardiacas"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "cardiopatía_isquémica_estable",
+      "titulo": "Cardiopatía Isquémica Estable",
+      "descripcion": "Comprende el manejo y tratamiento de la angina de pecho crónica, una condición donde el corazón no recibe suficiente sangre y oxígeno de forma continua.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#cardiologia",
+        "#cardiopatia_isquemica",
+        "#angina_de_pecho",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
     }
   ]
 }
