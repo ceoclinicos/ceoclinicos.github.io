@@ -1074,6 +1074,38 @@
         "#metabolismo"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "hiperpotasemia",
+      "titulo": "Hiperpotasemia",
+      "descripcion": "Elevación anormal de los niveles de potasio en la sangre, que puede afectar la función nerviosa y muscular, especialmente la del corazón.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#nefrologia",
+        "#cardiologia",
+        "#medicina_interna",
+        "#endocrinologia",
+        "#desordenes_electroliticos"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "hipopotasemia",
+      "titulo": "Hipopotasemia",
+      "descripcion": "La hipopotasemia es una condición médica caracterizada por niveles bajos de potasio en la sangre. Puede afectar diversas funciones del cuerpo, incluyendo el corazón y los músculos.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#endocrinologia",
+        "#nefrologia",
+        "#medicina_interna",
+        "#electrolitos",
+        "#cardiologia"
+      ],
+      "tieneGuia": false
     }
   ]
 }
