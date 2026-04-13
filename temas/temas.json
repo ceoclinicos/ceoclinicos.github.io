@@ -927,7 +927,9 @@
         "#neuroanatomia",
         "#medula_espinal",
         "#sistema_nervioso_central",
-        "#neurologia"
+        "#neurologia",
+        "#4_semestre",
+        "#cuarto_semestre"
       ],
       "tieneGuia": false
     },
@@ -943,7 +945,9 @@
         "#troncoencefalico",
         "#talloencefalico",
         "#neurologia",
-        "#medicina"
+        "#medicina",
+        "#4_semestre",
+        "#cuarto_semestre"
       ],
       "tieneGuia": false
     },
@@ -959,7 +963,115 @@
         "#cerebro",
         "#cerebelo",
         "#neurologia",
+        "#4_semestre",
+        "#cuarto_semestre"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "sistema_piramidal_y_extrapiramidal",
+      "titulo": "Sistema Piramidal y Extrapiramidal",
+      "descripcion": "Explora el control motor voluntario e involuntario. Comprende las vías neuronales, funciones y trastornos asociados a los sistemas piramidal y extrapiramidal.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#neurologia",
+        "#control_motor",
+        "#4_semestre",
+        "#cuarto_semestre",
+        "#sistema_nervioso",
+        "#anatomia_neurologica"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "sistemas_sensoriales_táctil;_termoalgésico;_propioceptivo;_visceroceptivo",
+      "titulo": "Sistemas Sensoriales",
+      "descripcion": "Explora los diferentes sistemas sensoriales del cuerpo humano, incluyendo el tacto, la percepción del dolor y la temperatura, la posición corporal y la sensación visceral.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#neurociencia",
+        "#fisiologia",
+        "#sistema_nervioso",
+        "#sensaciones",
+        "#dolor",
+        "#tacto",
+        "#propiocepcion",
+        "#viscerocepcion",
+        "#4_semestre",
+        "#cuarto_semestre"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "meninges;_senos_durales;_circulación_del_líquido_cefalorraquídeo.",
+      "titulo": "Meninges, Senos Durales y Circulación del LCR",
+      "descripcion": "Explora la anatomía y función de las meninges, los senos durales y la vital circulación del líquido cefalorraquídeo, esenciales para la protección y nutrición del sistema nervioso central.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 52,
+      "etiquetas": [
+        "#neuroanatomia",
+        "#meninges",
+        "#senos_durales",
+        "#liquido_cefalorraquideo",
+        "#neurologia",
         "#medicina"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "guia_bacterias_gramnegativas_parte_1",
+      "titulo": "Guía de Bacterias Gramnegativas - Parte 1",
+      "descripcion": "Introducción a las principales bacterias Gramnegativas, su clasificación, características microbiológicas y patologías asociadas más comunes.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#microbiologia",
+        "#bacteriologia",
+        "#gramnegativas",
+        "#enfermedades_infecciosas",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "introducción_medio_interno",
+      "titulo": "Introducción Medio Interno",
+      "descripcion": "Explora los principios fundamentales del medio interno, la distribución del agua corporal, el metabolismo de electrolitos y los mecanismos del equilibrio ácido-base.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#fisiologia",
+        "#medicina_interna",
+        "#equilibrio_hidroelectrolitico",
+        "#acido_base",
+        "#agua",
+        "#electrolitos",
+        "#medio_interno"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "biomoléculas",
+      "titulo": "Biomoléculas",
+      "descripcion": "Explora los fundamentos de los aminoácidos, el enlace peptídico, la estructura y función de las proteínas (plasmáticas y no plasmáticas), el rol de la hemoglobina y la cinética, inhibición y regulación enzimática.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#bioquimica",
+        "#biomoleculas",
+        "#aminoacidos",
+        "#proteinas",
+        "#enzimas",
+        "#hemoglobina",
+        "#metabolismo"
       ],
       "tieneGuia": false
     }
