@@ -1106,6 +1106,101 @@
         "#cardiologia"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "vitaminas_liposolubles",
+      "titulo": "Vitaminas Liposolubles",
+      "descripcion": "Explora las vitaminas A, D, E y K, esenciales para diversas funciones corporales, desde la visión hasta la coagulación. Aprende sobre sus fuentes, funciones y deficiencias.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#nutricion",
+        "#vitaminas",
+        "#salud",
+        "#medicina_interna",
+        "#dietetica"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "vitaminas_hidrosolubles",
+      "titulo": "Vitaminas Hidrosolubles",
+      "descripcion": "Explora las vitaminas esenciales que el cuerpo necesita y que se disuelven en agua, como la vitamina C y las del complejo B.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#nutricion",
+        "#vitaminas",
+        "#salud",
+        "#medicina_interna",
+        "#dietetica"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "hipernatremia",
+      "titulo": "Hipernatremia",
+      "descripcion": "Estudio del trastorno hidroelectrolítico caracterizado por una concentración elevada de sodio en la sangre, sus causas, diagnóstico y manejo terapéutico.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#hipernatremia",
+        "#trastornos_electroliticos",
+        "#nefrologia",
+        "#medicina_interna",
+        "#emergencias"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "hipocloremia",
+      "titulo": "Hipocloremia",
+      "descripcion": "La hipocloremia es una condición caracterizada por niveles anormalmente bajos de cloruro en la sangre. Puede ser causada por diversas razones y afectar el equilibrio electrolítico del cuerpo.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#endocrinologia",
+        "#medicina_interna",
+        "#electrolitos",
+        "#desequilibrio_hidroelectrolitico"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "hiponatremia",
+      "titulo": "Hiponatremia",
+      "descripcion": "Explora las causas, el diagnóstico y el manejo de la hiponatremia, un trastorno electrolítico frecuente con diversas implicaciones clínicas.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#hiponatremia",
+        "#electrolitos",
+        "#trastorno_electrolitico",
+        "#nefrologia",
+        "#medicina_interna",
+        "#endocrinologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "hipercloremia",
+      "titulo": "Hipercloremia",
+      "descripcion": "La hipercloremia se refiere a un nivel elevado de cloruro en la sangre. Puede ser indicativa de desequilibrios hídricos o metabólicos.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 70,
+      "etiquetas": [
+        "#nefrologia",
+        "#medicina_interna",
+        "#electrolitos",
+        "#desequilibrios_hidricos"
+      ],
+      "tieneGuia": false
     }
   ]
 }
