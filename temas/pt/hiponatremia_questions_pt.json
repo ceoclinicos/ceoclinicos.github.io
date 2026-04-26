@@ -1,1275 +1,1142 @@
 {
   "questions": [
     {
-      "question": "Qual é a concentração sérica de sódio que define a hiponatremia?",
+      "question": "Qual é o valor plasmático de sódio que define a hiponatremia?",
       "options": [
-        "Menos de 130 mEq/L",
-        "Menos de 135 mEq/L",
         "Menos de 140 mEq/L",
-        "Menos de 125 mEq/L"
+        "Menos de 135 mEq/L",
+        "Menos de 125 mEq/L",
+        "Menos de 130 mEq/L"
       ],
       "correctAnswer": 2,
-      "explanation": "A hiponatremia é definida como uma concentração sérica de sódio inferior a 135 mEq/L. É o distúrbio eletrolítico mais prevalente na prática clínica, afetando grande proporção de pacientes hospitalizados e ambulatoriais, principalmente idosos.",
+      "explanation": "A hiponatremia é convencionalmente definida como uma concentração sérica de sódio inferior a 135 mEq/L. É um distúrbio eletrolítico muito comum na prática clínica e seu diagnóstico preciso é essencial para o manejo adequado.",
       "hashtags": [
         "nefrologia",
         "hiponatremia",
-        "conceito",
-        "definição_sérica",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
+        "definição",
+        "valores_laboratoriais",
+        "MEDICAL_TOPIC",
+        ""
       ]
     },
     {
-      "question": "Qual é a porcentagem estimada de pacientes hospitalizados afetados pela hiponatremia?",
+      "question": "Qual fórmula é usada para calcular a osmolaridade plasmática efetiva?",
       "options": [
-        "menos de 5%",
-        "Entre 15% e 30%",
-        "Mais de 50%",
-        "Entre 5% e 10%"
+        "Na + Glicose/18 + BUN/2,8",
+        "2 * Na + Glicose/18 + BUN/2,8",
+        "Na + Glicose/18",
+        "2 * Na + Glicose/18"
       ],
       "correctAnswer": 2,
-      "explanation": "A hiponatremia é o distúrbio eletrolítico mais comum, afetando aproximadamente 15-30% dos pacientes hospitalizados. Sua prevalência é ainda maior em unidades de terapia intensiva, ultrapassando 30-40%.",
-      "hashtags": [
-        "medicina_interna",
-        "hiponatremia",
-        "epidemiologia",
-        "prevalência_hospital",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Qual é o principal determinante da osmolalidade plasmática efetiva?",
-      "options": [
-        "Concentração sérica de sódio",
-        "Nitrogênio ureico no sangue",
-        "glicemia",
-        "Concentração sérica de potássio"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O sódio é o principal cátion do líquido extracelular (LEC) e o principal determinante da osmolalidade plasmática efetiva, que influencia diretamente o movimento da água entre os compartimentos. Portanto, sua diminuição costuma indicar hipoosmolalidade.",
-      "hashtags": [
-        "fisiologia_renal",
-        "equilíbrio_hidroeletrolítico",
-        "fisiopatologia",
-        "plasma_osmolalidade",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que complicação grave pode ser causada pela correção excessivamente rápida da hiponatremia crônica?",
-      "options": [
-        "Insuficiência cardíaca aguda",
-        "Glomerulonefrite aguda",
-        "Síndrome de desmielinização osmótica",
-        "Acidose tubular renal"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A síndrome de desmielinização osmótica (SDO) é uma complicação neurológica grave, que pode ser irreversível se a hiponatremia crônica for corrigida muito rapidamente. Isso causa uma retração osmótica repentina e excessiva das células cerebrais.",
-      "hashtags": [
-        "neurologia",
-        "hiponatremia",
-        "complicações",
-        "síndrome_osmótica_desmielinização",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Qual é uma causa extrarrenal de hiponatremia hipovolêmica?",
-      "options": [
-        "Uso de diuréticos tiazídicos",
-        "Vômito e diarréia",
-        "Doença de Addison",
-        "Nefropatia por perda de sal"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Perdas extrarrenais, como vômitos e diarreia, causam depleção de volume e eletrólitos, o que pode levar à hiponatremia hipovolêmica, principalmente se as perdas forem repostas por líquidos hipotônicos.",
-      "hashtags": [
-        "nefrologia",
-        "hiponatremia",
-        "etiologia",
-        "extrarenal_hipovolemia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de medicamento pode induzir SIADH?",
-      "options": [
-        "Betabloqueadores cardíacos",
-        "Anti-histamínicos H1",
-        "Antibióticos aminoglicosídeos",
-        "Inibidores seletivos da recaptação de serotonina"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Os inibidores seletivos da recaptação da serotonina (ISRSs) são uma causa farmacológica conhecida da síndrome de secreção inadequada do hormônio antidiurético (SIADH), levando à hiponatremia euvolêmica devido à retenção de água livre.",
-      "hashtags": [
-        "farmacologia",
-        "hiponatremia",
-        "etiologia",
-        "farmacosiadh",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é uma causa comum de hiponatremia hipervolêmica?",
-      "options": [
-        "Doença de Addison",
-        "Diabetes insípido",
-        "Polidipsia primária",
-        "Insuficiência cardíaca congestiva"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A insuficiência cardíaca congestiva (ICC) é uma causa comum de hiponatremia hipervolêmica. Nessa condição, há acúmulo excessivo de sódio e água, com retenção hídrica desproporcionalmente maior, levando ao edema e à diminuição do volume circulante efetivo.",
-      "hashtags": [
-        "cardiologia",
-        "hiponatremia",
-        "etiologia",
-        "hipervolemia_icc",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que caracteriza a pseudo-hiponatremia?",
-      "options": [
-        "Sódio sérico elevado e osmolalidade plasmática normal",
-        "Sódio sérico normal e osmolalidade plasmática elevada",
-        "Baixo sódio sérico e osmolalidade plasmática normal",
-        "Baixo sódio sérico e baixa osmolalidade plasmática"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A pseudo-hiponatremia é caracterizada por uma baixa concentração sérica de sódio medida, mas uma osmolalidade plasmática normal. Isto se deve à interferência na medição por altas concentrações de lipídios ou proteínas no plasma.",
-      "hashtags": [
-        "laboratório_clínico",
-        "hiponatremia",
-        "etiologia",
-        "pseudohiponatremia_concept",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual condição é uma das principais causas de hiponatremia hipertônica?",
-      "options": [
-        "Hiperglicemia grave",
-        "hipoglicemia grave",
-        "Hipotireoidismo grave",
-        "Uso de diuréticos de alça"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A hiperglicemia grave é a principal causa da hiponatremia hipertônica. A glicose atua como um soluto osmoticamente ativo, atraindo água do espaço intracelular para o extracelular e diluindo o sódio sérico.",
-      "hashtags": [
-        "endocrinologia",
-        "hiponatremia",
-        "etiologia",
-        "hipertônico_hiperglicemia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Em quais receptores o ADH atua no rim?",
-      "options": [
-        "Receptores V1 nos glomérulos",
-        "Receptores V3 na alça de Henle",
-        "Receptores V2 nos ductos coletores",
-        "Receptores V4 no túbulo proximal"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O hormônio antidiurético (ADH ou vasopressina) atua nos receptores V2 localizados nas células principais dos ductos coletores renais. Esta ação promove a inserção de aquaporinas-2, aumentando a reabsorção de água.",
-      "hashtags": [
-        "fisiologia_renal",
-        "equilíbrio_hidroeletrolítico",
-        "fisiopatologia",
-        "adh_mecanismo",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual hormônio é fundamental na regulação do equilíbrio hídrico?",
-      "options": [
-        "Hormônio antidiurético (ADH)",
-        "Hormônio adrenocorticotrófico (ACTH)",
-        "Hormônio da paratireóide (PTH)",
-        "Hormônio estimulador da tireoide (TSH)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O hormônio antidiurético (ADH), também conhecido como vasopressina, desempenha um papel central na regulação do equilíbrio hídrico e da osmolalidade plasmática, principalmente por meio da reabsorção de água nos túbulos renais.",
-      "hashtags": [
-        "endocrinologia",
-        "equilíbrio_hidroeletrolítico",
-        "fisiopatologia",
-        "regulamento_adh",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que acontece com a osmolaridade da urina na hiponatremia hipovolêmica?",
-      "options": [
-        "Variável, sem padrão específico",
-        "Normalmente baixo (<100 mOsm/kg)",
-        "Sempre igual ao plasma",
-        "Normalmente muito alto (>450 mOsm/kg)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Na hiponatremia hipovolêmica, o corpo tenta restaurar o volume, levando à secreção elevada de ADH e à reabsorção máxima de água. Isso resulta em urina concentrada, normalmente com osmolaridade urinária superior a 450 mOsm/kg.",
-      "hashtags": [
-        "nefrologia",
-        "hiponatremia",
-        "fisiopatologia",
-        "urinária_osmolaridade_hipovolemia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que mecanismo explica a natriurese na SIADH?",
-      "options": [
-        "Ativação do SRAA",
-        "Diminuição da TFG",
-        "Liberação de peptídeo natriurético atrial",
-        "Aumento da reabsorção de sódio"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Na SIADH, a retenção inicial de água devido ao excesso de ADH aumenta ligeiramente o volume plasmático, o que suprime o SRAA e estimula a liberação do peptídeo natriurético atrial (ANP). Este ANP causa natriurese compensatória, contribuindo para a euvolemia e a hiponatremia.",
-      "hashtags": [
-        "endocrinologia",
-        "siadh",
-        "fisiopatologia",
-        "natriurese_siadh",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Como o cérebro se adapta à hiponatremia crônica?",
-      "options": [
-        "Aumenta a absorção de água",
-        "Aumenta a produção de sódio",
-        "Perde solutos osmoticamente ativos",
-        "Reduz o fluxo sanguíneo cerebral"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Na hiponatremia crônica, o cérebro se adapta perdendo solutos osmoticamente ativos (como potássio, taurina e mioinositol) para o líquido extracelular. Isto reduz o gradiente osmótico e minimiza o edema cerebral, protegendo as células cerebrais.",
-      "hashtags": [
-        "neurologia",
-        "hiponatremia",
-        "fisiopatologia",
-        "adaptação_do_cérebro",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a principal consequência celular da hiponatremia hipotônica?",
-      "options": [
-        "Edema cerebral",
-        "desidratação celular",
-        "necrose tecidual",
-        "Apoptose neuronal"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A principal preocupação na hiponatremia hipotônica é o edema cerebral. A baixa osmolalidade plasmática causa um movimento de água do LEC para o espaço intracelular do cérebro, levando ao inchaço celular e ao aumento da pressão intracraniana.",
-      "hashtags": [
-        "neurologia",
-        "hiponatremia",
-        "fisiopatologia",
-        "consequências_celulares",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Quanta glicose por 100 mg/dL aumenta o sódio?",
-      "options": [
-        "1,6 mEq/L",
-        "2,4 mEq/L",
-        "2,0 mEq/L",
-        "1,0 mEq/L"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Na hiponatremia hipertônica por hiperglicemia, para cada 100 mg/dL de glicose acima de 100 mg/dL, o sódio sérico corrigido é ajustado adicionando aproximadamente 1,6 mEq/L ao sódio medido, refletindo a diluição pela água deslocada do compartimento intracelular.",
-      "hashtags": [
-        "endocrinologia",
-        "hiponatremia",
-        "fisiopatologia",
-        "correção_glicose_de sódio",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a prevalência da hiponatremia na população idosa?",
-      "options": [
-        "7-10% ou mais",
-        "20-25%",
-        "1-3%",
-        "menos de 1%"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A prevalência de hiponatremia na população ambulatorial é de 1-5%, mas aumenta significativamente na população idosa, onde pode atingir 7-10% ou mais, devido à diminuição da função renal e à polifarmácia.",
-      "hashtags": [
-        "geriatria",
-        "hiponatremia",
-        "epidemiologia",
-        "prevalência_idoso",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual fator aumenta o risco de SDO durante a correção?",
-      "options": [
-        "Pressão alta",
-        "Alcoolismo e desnutrição",
-        "Hipercalemia concomitante",
-        "Obesidade mórbida"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Fatores como alcoolismo, desnutrição, doença hepática avançada ou hipocalemia concomitante aumentam o risco de síndrome de desmielinização osmótica (SDO) durante a correção da hiponatremia. Nestes casos, a taxa de correção deverá ser mais conservadora.",
-      "hashtags": [
-        "neurologia",
-        "hiponatremia",
-        "complicações",
-        "sdo_risk_factors",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Qual sintoma neurológico é uma emergência na hiponatremia aguda?",
-      "options": [
-        "Tonturas ocasionais",
-        "Dor de cabeça leve",
-        "Náusea sem vômito",
-        "Convulsões ou coma"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Na hiponatremia aguda, sintomas neurológicos graves, como convulsões, coma, depressão respiratória ou sinais de hérnia cerebral, são emergências médicas. Estes indicam edema cerebral grave e requerem correção imediata e agressiva do sódio sérico.",
-      "hashtags": [
-        "neurologia",
-        "hiponatremia",
-        "tabela_clínica",
-        "sintomas_agudos_severos",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é um sintoma sutil de hiponatremia crônica?",
-      "options": [
-        "Perda aguda de visão",
-        "Comprometimento cognitivo leve",
-        "paralisia repentina",
-        "vômito intenso"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Na hiponatremia crônica, o cérebro se adapta para reduzir o edema, tornando os sintomas mais sutis e inespecíficos. O comprometimento cognitivo leve, como dificuldade de concentração ou perda recente de memória, é uma manifestação comum.",
-      "hashtags": [
-        "neurologia",
-        "hiponatremia",
-        "tabela_clínica",
-        "sintomas_crônicos sutis",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual sinal no exame físico sugere hiponatremia hipervolêmica?",
-      "options": [
-        "Secura da membrana mucosa",
-        "Diminuição do turgor da pele",
-        "Edema periférico",
-        "Hipotensão ortostática"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A hiponatremia hipervolêmica está associada ao excesso de sódio e água corporal total. Sinais clínicos de sobrecarga de volume, como edema periférico, ascite ou ingurgitamento jugular, são indicativos dessa condição.",
-      "hashtags": [
-        "medicina_interna",
-        "hiponatremia",
-        "tabela_clínica",
-        "sinais_hipervolemia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que é avaliado com o teste de ortostatismo na hiponatremia?",
-      "options": [
-        "Função cardíaca intrínseca",
-        "Volume circulante efetivo",
-        "Integridade da barreira hematoencefálica",
-        "Capacidade de diluição renal"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O teste de ortostatismo é crucial para avaliar o estado do volume circulante efetivo. A hipotensão ortostática (queda da PA ou aumento da FC na posição ortostática) sugere depleção de volume, característica da hiponatremia hipovolêmica.",
-      "hashtags": [
-        "semiologia",
-        "hiponatremia",
-        "diagnóstico",
-        "ortostatismo_teste",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o primeiro passo diagnóstico essencial após a confirmação da hiponatremia?",
-      "options": [
-        "Avalie a função da tireoide",
-        "Medir o sódio urinário",
-        "Faça uma varredura cerebral",
-        "Medir a osmolalidade plasmática"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Após a confirmação da hiponatremia (<135 mEq/L), o passo diagnóstico mais importante é medir a osmolalidade plasmática. Isso permite a diferenciação entre hiponatremia hipotônica (verdadeira), pseudo-hiponatremia e hiponatremia hipertônica, orientando o resto do algoritmo.",
+      "explanation": "A fórmula mais utilizada para calcular a osmolaridade plasmática efetiva é 2 * Sódio + Glicose/18 + BUN/2,8. Esta fórmula considera os principais osmoles que não atravessam livremente as membranas celulares, impactando o movimento da água.",
       "hashtags": [
         "nefrologia",
         "hiponatremia",
         "diagnóstico",
-        "passo_inicial_osmolalidade",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "O que sugere uma osmolalidade urinária < 100 mOsm/kg na hiponatremia hipotônica?",
-      "options": [
-        "SIADH",
-        "Insuficiência adrenal",
-        "Hipovolemia extrarrenal",
-        "Ingestão excessiva de água"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Uma osmolalidade urinária muito baixa (<100 mOsm/kg) na presença de hiponatremia hipotônica sugere supressão apropriada de ADH e capacidade de diluição renal intacta. Isto é típico de polidipsia primária ou ingestão excessiva de água que excede a capacidade de excreção do rim.",
-      "hashtags": [
-        "nefrologia",
-        "hiponatremia",
-        "diagnóstico",
-        "baixa osmolalidade urinária",
-        "PATOLOGIA",
+        "cálculo_osmolaridade",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Quando a hiponatremia é considerada grave?",
+      "question": "Qual é a faixa normal de osmolaridade plasmática em adultos saudáveis?",
       "options": [
-        "Sódio sérico > 140 mEq/L",
-        "Sódio sérico < 125 mEq/L",
-        "Sódio sérico 130-134 mEq/L",
-        "Sódio sérico 125-129 mEq/L"
+        "275-295 mOsm/kg",
+        "290-310 mOsm/kg",
+        "260-280 mOsm/kg",
+        "250-270 mOsm/kg"
       ],
-      "correctAnswer": 2,
-      "explanation": "A hiponatremia é classificada pela sua gravidade em leve (130-134 mEq/L), moderada (125-129 mEq/L) e grave (menos de 125 mEq/L). A hiponatremia grave acarreta um risco significativamente aumentado de morbidade e mortalidade.",
+      "correctAnswer": 1,
+      "explanation": "A faixa normal de osmolaridade plasmática em adultos é geralmente de 275 a 295 mOsm/kg. Manter essa faixa é crucial para a homeostase e o equilíbrio hidroeletrolítico do corpo.",
       "hashtags": [
-        "nefrologia",
-        "hiponatremia",
-        "conceito",
-        "gravidade_de sódio",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Qual a duração que define a hiponatremia aguda?",
-      "options": [
-        "Menos de 24 horas",
-        "Entre 48 e 72 horas",
-        "Mais de 72 horas",
-        "Menos de 48 horas"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A hiponatremia aguda é definida como hiponatremia que se desenvolve em menos de 48 horas. É fundamental distingui-la da crônica porque o cérebro não teve tempo de se adaptar, aumentando o risco de edema cerebral grave.",
-      "hashtags": [
-        "medicina_de_emergência",
-        "hiponatremia",
-        "conceito",
-        "duração_aguda",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Qual é a osmolalidade plasmática da hiponatremia hipotônica?",
-      "options": [
-        "> 295 mOsm/kg",
-        "Variável dependendo da etiologia",
-        "< 275 mOsm/kg",
-        "275-295 mOsm/kg"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A hiponatremia hipotônica ou verdadeira é caracterizada por uma osmolalidade plasmática inferior a 275 mOsm/kg. Esta é a forma mais comum e que apresenta risco de edema cerebral devido à entrada de água nas células.",
-      "hashtags": [
-        "nefrologia",
-        "hiponatremia",
-        "conceito",
-        "hipotônica_osmolalidade",
-        "PATOLOGIA",
+        "fisiologia",
+        "plasma_osmolaridade",
+        "homeostase",
+        "intervalos_normais",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual classificação de volume não mostra sinais de sobrecarga ou esgotamento?",
+      "question": "A hiponatremia com osmolaridade plasmática inferior a 275 mOsm/kg é classificada como:",
       "options": [
-        "Hipovolêmico",
-        "Hipervolêmico",
-        "Euvolêmico",
-        "Gravemente sintomático"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A hiponatremia euvolêmica (ou normovolêmica) é caracterizada pela ausência de sinais clínicos de depleção ou sobrecarga de volume. O paciente está clinicamente euvolêmico, apesar de apresentar excesso de água livre em relação ao sódio corporal total.",
-      "hashtags": [
-        "medicina_interna",
-        "hiponatremia",
-        "conceito",
-        "euvolemic_volume_status",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual condição não é hiponatremia verdadeira e não requer correção de sódio?",
-      "options": [
-        "SIADH",
-        "Hiponatremia hipervolêmica",
-        "Hiponatremia hipovolêmica",
+        "Hiponatremia hipertônica",
+        "Hiponatremia hipotônica",
+        "Hiponatremia isotônica",
         "Pseudo-hiponatremia"
       ],
-      "correctAnswer": 4,
-      "explanation": "A pseudo-hiponatremia não é uma hiponatremia verdadeira do ponto de vista fisiológico. É devido à interferência na dosagem de sódio devido a altas concentrações de lipídios ou proteínas, e a osmolalidade plasmática é normal, portanto não requer correção com sódio.",
-      "hashtags": [
-        "laboratório_clínico",
-        "hiponatremia",
-        "conceito",
-        "pseudohiponatremia_management",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que sugere um sódio urinário > 30 mEq/L na hiponatremia hipovolêmica?",
-      "options": [
-        "Cirrose hepática",
-        "Perdas extrarrenais",
-        "Insuficiência cardíaca",
-        "Perdas renais"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Na hiponatremia hipovolêmica, um sódio urinário superior a 30 mEq/L sugere perdas renais de sódio, como aquelas causadas por diuréticos (especialmente tiazídicos), doença de Addison ou nefropatia perdedora de sal. Os rins não estão retendo o sódio adequadamente.",
+      "correctAnswer": 2,
+      "explanation": "A hiponatremia hipotônica é o tipo mais comum de hiponatremia e é caracterizada por baixa osmolaridade plasmática (menos de 275 mOsm/kg), indicando excesso relativo de água em relação ao sódio. Requer uma abordagem diagnóstica e terapêutica específica.",
       "hashtags": [
         "nefrologia",
         "hiponatremia",
-        "conceito",
-        "nau_hipovolemia",
-        "PATOLOGIA",
+        "classificação",
+        "hipotônico",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Que doença está associada à hiponatremia euvolêmica com OsmU > 100?",
+      "question": "Que condição pode causar pseudo-hiponatremia com osmolaridade normal?",
       "options": [
-        "Polidipsia primária",
         "Insuficiência adrenal",
-        "Perdas gastrointestinais",
-        "Diabetes insípido nefrogênico"
+        "Síndrome de secreção inadequada de ADH",
+        "Hiperlipidemia grave",
+        "diabetes insípido central"
       ],
-      "correctAnswer": 2,
-      "explanation": "A insuficiência adrenal (deficiência de glicocorticóides) pode se manifestar com hiponatremia euvolêmica e osmolalidade urinária inadequadamente elevada (>100 mOsm/kg). Isso ocorre porque a falta de cortisol aumenta a liberação de ADH e diminui a TFG, afetando a excreção de água livre.",
+      "correctAnswer": 3,
+      "explanation": "A pseudo-hiponatremia ocorre quando há uma quantidade excessiva de lipídios ou proteínas no plasma. Isto desloca o volume de água plasmática, levando a uma medição falsamente baixa de sódio em técnicas laboratoriais que medem o sódio por volume de plasma, enquanto a osmolaridade plasmática real permanece normal.",
       "hashtags": [
-        "endocrinologia",
+        "nefrologia",
         "hiponatremia",
-        "conceito",
-        "adrenal_euvolemia",
-        "PATOLOGIA",
+        "etiologia",
+        "pseudo-hiponatremia",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual é o tratamento inicial para hiponatremia gravemente sintomática?",
+      "question": "Qual é uma causa comum de hiponatremia com osmolaridade plasmática elevada?",
       "options": [
-        "Restrição estrita de água",
-        "Solução salina hipertônica a 3%",
-        "Solução salina isotônica a 0,9%",
-        "diuréticos de alça"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A hiponatremia gravemente sintomática (convulsões, coma) é considerada uma emergência. O tratamento inicial é a administração de solução salina hipertônica a 3% em pequenos bolus para aumentar rapidamente o sódio sérico e aliviar o edema cerebral.",
-      "hashtags": [
-        "medicina_de_emergência",
-        "hiponatremia",
-        "tratamento",
-        "gerenciamento_agudo_severo",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Qual é o objetivo inicial do aumento de sódio na hiponatremia aguda grave?",
-      "options": [
-        "5 mEq/L na primeira hora",
-        "1-2 mEq/L em 24h",
-        "10 mEq/L em 3 horas",
-        "3-4 mEq/L em 12h"
+        "Hiperglicemia não controlada",
+        "Uso de diuréticos tiazídicos",
+        "Perdas gastrointestinais graves",
+        "Insuficiência cardíaca congestiva"
       ],
       "correctAnswer": 1,
-      "explanation": "Na hiponatremia aguda ou gravemente sintomática, o objetivo inicial é aumentar rapidamente o sódio sérico em 5 mEq/L durante a primeira hora. O objetivo é interromper a progressão dos sintomas neurológicos e reduzir o edema cerebral.",
-      "hashtags": [
-        "medicina_de_emergência",
-        "hiponatremia",
-        "tratamento",
-        "alvo_de_correção_aguda",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Qual o limite de correção de sódio em 24 horas para evitar SDO?",
-      "options": [
-        "15-20 mEq/L",
-        "8-10 mEq/L",
-        "25-30 mEq/L",
-        "2-4 mEq/L"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Para prevenir a síndrome de desmielinização osmótica (SDO), a correção do sódio sérico não deve exceder um aumento de 8-10 mEq/L nas primeiras 24 horas e 18 mEq/L em 48 horas. Um limite mais rigoroso (4-6 mEq/L) aplica-se a pacientes de alto risco.",
-      "hashtags": [
-        "neurologia",
-        "hiponatremia",
-        "tratamento",
-        "24h_correção_limite",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Qual tratamento é de primeira linha para SIADH crônica?",
-      "options": [
-        "Restrição estrita de água",
-        "Infusão de manitol",
-        "diuréticos de alça",
-        "Solução salina hipertônica"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Para hiponatremia euvolêmica crônica, principalmente devido à SIADH, a restrição hídrica estrita (500-1000 mL/dia) é o tratamento de primeira linha. Sua eficácia depende de a osmolaridade urinária ser maior que a osmolaridade plasmática.",
+      "explanation": "A hiponatremia hipertônica ocorre quando há aumento dos osmoles efetivos no plasma, como a glicose na hiperglicemia grave. Esses osmoles arrastam a água do espaço intracelular para o extracelular, diluindo o sódio, mas aumentando a osmolaridade plasmática total.",
       "hashtags": [
         "endocrinologia",
-        "siadh",
-        "tratamento",
-        "restrição_de_água",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
+        "hiponatremia",
+        "etiologia",
+        "hipertônico",
+        "MEDICAL_TOPIC",
+        ""
       ]
     },
     {
-      "question": "O que é administrado se o sódio sérico for corrigido muito rapidamente?",
+      "question": "Qual é o principal determinante da osmolaridade plasmática efetiva?",
       "options": [
-        "Solução mais hipertônica",
-        "Solução de dextrose a 5%",
-        "soro fisiológico",
-        "diuréticos de alça"
+        "Glicose",
+        "Uréia",
+        "Proteínas",
+        "Sódio"
       ],
-      "correctAnswer": 2,
-      "explanation": "Se o sódio sérico for corrigido muito rapidamente (supercorreção), a administração de sódio deve ser interrompida e água livre, como solução de dextrose a 5% em água (D5W) intravenosa, deve ser administrada para reduzir o sódio sérico e prevenir SDO.",
+      "correctAnswer": 4,
+      "explanation": "O sódio e os ânions que o acompanham (principalmente cloreto e bicarbonato) são os principais determinantes da osmolaridade plasmática efetiva. São os solutos que mais contribuem para a tonicidade do plasma e para a movimentação da água entre os compartimentos, uma vez que não atravessam livremente as membranas celulares.",
+      "hashtags": [
+        "fisiopatologia",
+        "plasma_osmolaridade",
+        "fisiologia_renal",
+        "sódio_osmolaridade",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "O mecanismo da pseudo-hiponatremia envolve principalmente:",
+      "options": [
+        "Mudança de volume plasmático",
+        "Filtração glomerular reduzida",
+        "Aumento da reabsorção de água",
+        "Aumento dos osmoles efetivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A pseudo-hiponatremia é devida a um erro de medição em que a concentração de sódio é relatada como baixa devido ao deslocamento do volume plasmático por grandes quantidades de lipídios ou proteínas. Isto reduz a percentagem de água na amostra, levando a uma leitura de sódio diluído, embora a concentração de sódio na água plasmática seja normal.",
+      "hashtags": [
+        "nefrologia",
+        "hiponatremia",
+        "fisiopatologia",
+        "pseudo-hiponatremia_mecanismo",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Um hiato osmolar elevado na hiponatremia sugere a presença de:",
+      "options": [
+        "Osmoles exógenos não medidos",
+        "Insuficiência renal crônica",
+        "Deficiência de hormônio antidiurético",
+        "Excesso de glicose plasmática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Um hiato osmolar elevado (diferença entre a osmolaridade medida e calculada) em um paciente com hiponatremia indica a presença de osmóis exógenos não medidos, como álcoois (etanol, metanol, etilenoglicol) ou manitol, que contribuem para a osmolaridade, mas não estão incluídos na fórmula de cálculo usual.",
+      "hashtags": [
+        "nefrologia",
+        "diagnóstico",
+        "laboratório_clínico",
+        "osmolar_hiato",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Após a confirmação da hiponatremia, o primeiro passo diagnóstico é:",
+      "options": [
+        "Iniciar restrição hídrica",
+        "Avalie o volume circulante",
+        "Medir a osmolaridade plasmática",
+        "Solicitar eletrólitos urinários"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Depois de confirmar a hiponatremia, o passo inicial crucial é medir a osmolaridade plasmática. Isso permite que a hiponatremia seja classificada como hipotônica, isotônica ou hipertônica, o que é essencial para orientar a etiologia e o posterior plano de manejo do paciente.",
+      "hashtags": [
+        "nefrologia",
+        "hiponatremia",
+        "diagnóstico",
+        "algoritmo_de diagnóstico",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Na fisiopatologia da hiponatremia, qual o papel fundamental do hormônio antidiurético (ADH) em condições de normovolemia?",
+      "options": [
+        "Estimular a liberação adrenal de aldosterona",
+        "Diminuir a reabsorção de água livre",
+        "Aumentar a permeabilidade do duto coletor à água",
+        "Aumentar a excreção renal de sódio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O hormônio antidiurético (ADH), ou vasopressina, aumenta a permeabilidade dos ductos coletores renais à água, facilitando sua reabsorção do lúmen tubular para o sangue. Este mecanismo é crucial para a conservação de água e concentração de urina, e sua desregulação pode levar à hiponatremia devido à retenção excessiva de água.",
       "hashtags": [
         "medicina_interna",
         "hiponatremia",
-        "tratamento",
-        "overcorrection_handling",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Qual tratamento é usado na hipercorreção para estabilizar o sódio?",
-      "options": [
-        "Aumento da ingestão de sal",
-        "Desmopressina (ADH sintético)",
-        "Furosemida",
-        "Diuréticos tiazídicos"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Em caso de hipercorreção da hiponatremia, além da administração de água livre (D5W), pode-se utilizar desmopressina (ADH sintético) 1-2 mcg IV/SC a cada 8 horas. Isto ajuda a prevenir a excreção renal de água livre e a estabilizar o sódio, prevenindo o rápido aumento e o risco de SDO.",
-      "hashtags": [
-        "farmacologia",
-        "hiponatremia",
-        "tratamento",
-        "desmopressina_overcorreção",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Que doença pulmonar a SIADH pode causar?",
-      "options": [
-        "Pneumonia",
-        "asma brônquica",
-        "DPOC",
-        "Fibrose cística"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Doenças pulmonares como pneumonia e tuberculose podem desencadear a síndrome de secreção inadequada do hormônio antidiurético (SIADH), resultando em hiponatremia euvolêmica. Outras causas incluem neoplasias e distúrbios do SNC.",
-      "hashtags": [
-        "pneumologia",
-        "siadh",
-        "etiologia",
-        "siadh_pulmonary_causes",
-        "PATOLOGIA",
+        "fisiopatologia",
+        "função_adh",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual é a causa mais comum de hiponatremia euvolêmica?",
+      "question": "Qual das alternativas a seguir é o estímulo fisiológico mais potente para a secreção do hormônio antidiurético (ADH)?",
       "options": [
-        "Síndrome de secreção inadequada de ADH",
-        "Hipotireoidismo grave",
-        "Polidipsia primária",
-        "Insuficiência adrenal"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A síndrome de secreção inadequada do hormônio antidiurético (SIADH) é a causa mais comum de hiponatremia euvolêmica. Caracteriza-se pela secreção excessiva ou inadequada de ADH na ausência de estímulos osmóticos ou hemodinâmicos.",
-      "hashtags": [
-        "endocrinologia",
-        "hiponatremia",
-        "etiologia",
-        "euvolemia_most_frequent_cause",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que o sódio urinário < 30 mEq/L indica na hiponatremia hipervolêmica?",
-      "options": [
-        "Resposta aos diuréticos",
-        "Perdas renais de sódio",
-        "Ativação de SRAA e ADH",
-        "Excesso de ingestão de sódio"
+        "Aumento do volume sanguíneo",
+        "Diminuição da pressão arterial",
+        "Aumento da osmolalidade plasmática",
+        "Redução do potássio sérico"
       ],
       "correctAnswer": 3,
-      "explanation": "Na hiponatremia hipervolêmica, sódio urinário inferior a 30 mEq/L (geralmente muito baixo) e alta osmolaridade urinária indicam ativação do sistema renina-angiotensina-aldosterona (SRAA) e ADH. Isso ocorre devido à diminuição do volume circulante efetivo em condições como ICC ou cirrose, levando à retenção ávida de sódio e água pelos rins.",
+      "explanation": "O aumento da osmolalidade plasmática é o estímulo fisiológico mais potente para a secreção de ADH. Os osmorreceptores hipotalâmicos detectam pequenas alterações na osmolalidade e ativam a liberação de ADH para aumentar a reabsorção renal de água, diluindo assim os solutos e normalizando a osmolalidade.",
       "hashtags": [
         "nefrologia",
-        "hiponatremia",
-        "fisiopatologia",
-        "nau_hipervolemia",
-        "PATOLOGIA",
+        "regulação_hidrosalina",
+        "fisiologia",
+        "lançamento_adh",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual osmolaridade plasmática mede a pseudo-hiponatremia?",
+      "question": "Nos ductos coletores renais, a qual receptor o ADH se liga para exercer seu efeito de reabsorção de água?",
       "options": [
-        "Sempre indetectável",
-        "> 295 mOsm/kg",
-        "275-295 mOsm/kg",
-        "< 275 mOsm/kg"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A pseudo-hiponatremia é caracterizada por uma osmolalidade plasmática normal (275-295 mOsm/kg), apesar do sódio sérico medido parecer baixo. Isto ocorre porque a medição é alterada pela presença de grandes quantidades de solutos não aquosos, como lipídios ou proteínas.",
-      "hashtags": [
-        "laboratório_clínico",
-        "hiponatremia",
-        "conceito",
-        "osmolalidade_pseudo-hiponatremia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual sintoma neurológico é comum na hiponatremia aguda moderada?",
-      "options": [
-        "Ausência de reflexos",
-        "Confusão e letargia",
-        "Hemiplegia repentina",
-        "paralisia facial"
+        "Receptor V1A",
+        "Receptor V2",
+        "Receptor V1B",
+        "Receptor de angiotensina II"
       ],
       "correctAnswer": 2,
-      "explanation": "Na hiponatremia aguda moderada, os sintomas neurológicos incluem confusão, desorientação, lentidão psicomotora e letargia. Estes são sinais de edema cerebral leve a moderado antes de progredir para convulsões ou coma.",
+      "explanation": "O ADH liga-se principalmente aos receptores V2 localizados na membrana basolateral das principais células do ducto coletor renal. Essa ligação ativa uma cascata de sinalização que culmina na inserção das aquaporinas-2 na membrana apical, permitindo a reabsorção de água e a concentração de urina.",
       "hashtags": [
-        "neurologia",
-        "hiponatremia",
-        "tabela_clínica",
-        "sintomas_agudos_moderados",
-        "PATOLOGIA",
+        "fisiologia_renal",
+        "túbulos_renais",
+        "mecanismo_de_ação",
+        "receptores_v2",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual sinal vital é fundamental para hipovolemia no exame físico?",
+      "question": "Qual é a consequência direta da SIADH no manejo da água renal?",
       "options": [
-        "Bradicardia persistente",
-        "Hipotensão ortostática",
-        "febre persistente",
-        "Pressão alta grave"
+        "Aumento da diurese aquosa",
+        "Retenção excessiva de água livre",
+        "Aumento da secreção de renina",
+        "Diminuição da reabsorção de sódio"
       ],
       "correctAnswer": 2,
-      "explanation": "A hipotensão ortostática (diminuição da pressão arterial e/ou aumento da frequência cardíaca ao levantar-se) é um sinal chave de hipovolemia no exame físico, indicando depleção do volume circulante efetivo.",
-      "hashtags": [
-        "semiologia",
-        "hiponatremia",
-        "tabela_clínica",
-        "sinais_hipovolemia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual teste hormonal é útil para descartar SIADH?",
-      "options": [
-        "renina plasmática",
-        "hormônio do crescimento",
-        "Aldosterona plasmática",
-        "Cortisol sérico e ACTH"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Para diagnosticar a SIADH é essencial descartar outras causas de hiponatremia euvolêmica, como a insuficiência adrenal. Para fazer isso, os níveis séricos de cortisol são medidos e um teste de estimulação com ACTH pode ser realizado.",
+      "explanation": "A Síndrome de Secreção Inapropriada do Hormônio Antidiurético (SIADH) é caracterizada pela secreção autônoma e persistente de ADH, independentemente da osmolalidade ou volume plasmático. Isso causa retenção excessiva de água livre pelos rins, levando à hiponatremia dilucional e urina concentrada inadequadamente.",
       "hashtags": [
         "endocrinologia",
         "siadh",
-        "diagnóstico",
-        "siadh_hormonal_tests",
-        "PATOLOGIA",
+        "etiopatogenia",
+        "excesso_água_livre",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "O que um intervalo osmolar > 10 mOsm/kg indica na hiponatremia hipertônica?",
+      "question": "Que tipo de estímulo osmótico de NO pode aumentar a secreção de ADH, contribuindo para a hiponatremia?",
       "options": [
-        "Hipoglicemia grave",
-        "Hipercalemia",
-        "Presença de osmoles não medidos",
-        "Insuficiência renal crônica"
+        "Hipertensão arterial controlada",
+        "Náuseas e vômitos intensos",
+        "Hipervolemia grave",
+        "Hiperglicemia sem cetoacidose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Estímulos não osmóticos potentes, como náusea, dor, estresse, hipovolemia, hipotensão e certos medicamentos, podem causar liberação de ADH mesmo quando a osmolalidade plasmática é baixa. Esse aumento no ADH promove retenção de água, o que pode levar ao desenvolvimento de hiponatremia dilucional, principalmente se houver ingestão de líquidos.",
+      "hashtags": [
+        "medicina_interna",
+        "hiponatremia_fisiopatologia",
+        "etiologia",
+        "estímulos não osmóticos",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual o efeito que uma alta concentração de ADH tem na osmolalidade urinária?",
+      "options": [
+        "Mantém a osmolalidade urinária isosmótica",
+        "Não tem efeito significativo",
+        "Aumenta a osmolalidade urinária",
+        "Reduz a osmolalidade urinária"
       ],
       "correctAnswer": 3,
-      "explanation": "Um intervalo osmolar superior a 10 mOsm/kg sugere a presença de osmoles não medidos no plasma. Podem ser substâncias como etanol, metanol, etilenoglicol ou manitol, que contribuem para a hiponatremia hipertônica.",
+      "explanation": "Uma alta concentração de ADH promove a reabsorção de água nos ductos coletores renais. Quando a água é reabsorvida sem quantidade proporcional de solutos, a urina fica mais concentrada, o que se manifesta como aumento da osmolalidade urinária. Isso acontece em estados como o SIADH.",
       "hashtags": [
-        "toxicologia",
-        "hiponatremia",
-        "diagnóstico",
-        "osmolar_gap",
-        "PATOLOGIA",
+        "nefrologia",
+        "concentração_urinária",
+        "regulamento",
+        "osmolalidade urinária",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "O que causa hiponatremia no vício em cerveja?",
+      "question": "No contexto da hiponatremia na insuficiência cardíaca, como influencia o eixo ADH-rim?",
       "options": [
-        "Excesso de sódio corporal",
-        "Ativação de ADH",
-        "Perda renal de sódio",
-        "Baixa ingestão de soluto"
+        "Promove a retenção de água estimulando o ADH",
+        "Aumenta a excreção renal de água livre",
+        "Diminui a liberação de vasopressina",
+        "Aumenta a reabsorção proximal de sódio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Na insuficiência cardíaca, o débito cardíaco reduzido e a hipoperfusão renal são interpretados como hipovolemia eficaz, que estimula a liberação não osmótica de ADH. Esse hormônio, juntamente com a ativação do SRAA, promove retenção de água desproporcional ao sódio, levando à hiponatremia dilucional.",
+      "hashtags": [
+        "cardiologia",
+        "insuficiência cardíaca",
+        "complicações",
+        "hiponatremia dilucional",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual a principal consequência renal da ausência total de ação do ADH?",
+      "options": [
+        "Aumento da reabsorção de água",
+        "Diminuição da taxa de filtração glomerular",
+        "Aumento da reabsorção de sódio",
+        "Produção de urina diluída e abundante"
       ],
       "correctAnswer": 4,
-      "explanation": "A potomania da cerveja (Beer Potomania) causa hiponatremia euvolêmica devido a uma dieta com ingestão muito baixa de solutos. A capacidade do rim de excretar água livre é limitada pela quantidade mínima de solutos necessários para a osmolaridade urinária e, sem eles, a ingestão excessiva de líquidos dilui o sódio.",
+      "explanation": "A completa ausência de ação do ADH (como no diabetes insipidus nefrogênico central ou grave) impede que o rim reabsorva água nos ductos coletores, resultando na excreção de grandes volumes de urina muito diluída (poliúria aquosa). Isso pode levar à hipernatremia se a ingestão de água for insuficiente.",
       "hashtags": [
-        "nutrição",
-        "hiponatremia",
-        "fisiopatologia",
-        "potomania_cerveja",
-        "PATOLOGIA",
+        "fisiologia_renal",
+        "diabetes_insípido",
+        "tabela_clínica",
+        "diluir_poliúria",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual condição aumenta o risco de edema cerebral na hiponatremia?",
+      "question": "Um paciente com hiponatremia crônica apresenta liberação inapropriadamente alta de ADH. Que efeito é esperado no balanço hídrico?",
       "options": [
-        "Mulheres na pré-menopausa",
-        "Hipóxia crônica",
-        "Homens na pós-menopausa",
-        "Hipertensão arterial controlada"
+        "Diminuição da concentração de ADH",
+        "Balanço hídrico negativo",
+        "Retenção líquida de água livre",
+        "Aumento da excreção de água livre"
       ],
-      "correctAnswer": 1,
-      "explanation": "Mulheres na pré-menopausa apresentam maior suscetibilidade ao edema cerebral na hiponatremia devido a diferenças hormonais que podem afetar a regulação da permeabilidade da barreira hematoencefálica, tornando-as mais vulneráveis ​​a esta complicação.",
+      "correctAnswer": 3,
+      "explanation": "Uma liberação inadequadamente elevada de ADH, como na SIADH, resulta em uma retenção líquida de água livre pelos rins. Isto significa que o corpo retém mais água do que o necessário, diluindo o sódio plasmático e causando hiponatremia, enquanto a osmolalidade urinária permanece elevada.",
       "hashtags": [
-        "ginecologia",
+        "medicina_interna",
+        "crônica_hiponatremia",
+        "fisiopatologia",
+        "equilíbrio_água",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual mecanismo fisiopatológico primário explica a hiponatremia dilucional em estados de estresse ou dor intensa?",
+      "options": [
+        "Diminuição da ingestão de água",
+        "Secreção osmótica de ADH",
+        "Aumento da reabsorção renal de sódio",
+        "Estimulação não osmótica do ADH"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O estresse e a dor intensa são estímulos não osmóticos potentes para a liberação de ADH. Essa secreção de ADH, juntamente com a ingestão de líquidos (muitas vezes intravenosa em ambientes clínicos), leva à retenção excessiva de água pelos rins, diluindo o sódio sérico e causando hiponatremia, mesmo na ausência de hipovolemia verdadeira.",
+      "hashtags": [
+        "medicina_interna",
+        "hiponatremia",
+        "etiopatogenia",
+        "estresse_pain_adh",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual das alternativas a seguir é um sintoma inicial comum de hiponatremia leve a moderada?",
+      "options": [
+        "Convulsões tônico-clônicas generalizadas",
+        "Coma profundo com bradicardia",
+        "Dor de cabeça, náusea, mal-estar geral",
+        "Papiledema bilateral e focalidade"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os sintomas iniciais de hiponatremia leve a moderada são frequentemente inespecíficos e incluem dor de cabeça, náusea, vômito e mal-estar. Convulsões, coma e sinais neurológicos focais são manifestações de hiponatremia grave, especialmente com edema cerebral significativo.",
+      "hashtags": [
+        "medicina_interna",
         "hiponatremia",
         "tabela_clínica",
-        "risco_de_edema_cerebral",
-        "PATOLOGIA",
+        "sintomas_leves",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Que sinal neurológico grave está associado à hérnia cerebral?",
+      "question": "Qual é o principal mecanismo fisiopatológico do edema cerebral na hiponatremia aguda?",
       "options": [
-        "Bradicardia e hipertensão",
-        "Disartria leve",
-        "Hiporreflexia generalizada",
-        "hipotonia muscular"
+        "Aumento da pressão hidrostática capilar",
+        "Diminuição da osmolaridade plasmática",
+        "Ativação do sistema renina-angiotensina",
+        "Aumento da permeabilidade vascular"
       ],
-      "correctAnswer": 1,
-      "explanation": "Os sinais de hérnia cerebral devido a edema maciço incluem pupilas dilatadas, depressão respiratória e reflexo de Cushing (bradicardia com hipertensão). Estes são indicadores de uma emergência médica que requer intervenção imediata.",
+      "correctAnswer": 2,
+      "explanation": "Na hiponatremia, a diminuição da osmolaridade plasmática cria um gradiente osmótico que favorece o movimento da água do espaço extracelular para o intracelular nas células cerebrais. Isto causa inchaço e, em casos graves ou agudos, edema cerebral.",
       "hashtags": [
-        "neurologia",
+        "fisiopatologia",
+        "hiponatremia",
+        "danos_mecanismos",
+        "osmolar_edema",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual grupo de pacientes corre maior risco de edema cerebral grave devido à hiponatremia aguda?",
+      "options": [
+        "Pacientes com hiponatremia crônica estável",
+        "Mulheres na pré-menopausa, crianças e corredores",
+        "Idosos com doenças crônicas",
+        "Mulheres na pré-menopausa com hipoxemia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mulheres na pré-menopausa, crianças e pacientes que praticam exercícios extenuantes (como corredores de maratona) apresentam risco aumentado de desenvolver edema cerebral sintomático grave no contexto de hiponatremia aguda, devido à sua menor capacidade adaptativa cerebral.",
+      "hashtags": [
+        "medicina_interna",
+        "hiponatremia",
+        "epidemiologia",
+        "edema_risk_factors",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual dos seguintes sintomas indica hiponatremia grave com edema cerebral?",
+      "options": [
+        "Anorexia e fraqueza muscular",
+        "Letargia, confusão, convulsões",
+        "Diminuição do apetite, náusea",
+        "Sede intensa, poliúria compensatória"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Letargia, confusão e convulsões são manifestações neurológicas graves que sugerem a presença de edema cerebral significativo e envolvimento do sistema nervoso central no quadro de hiponatremia grave.",
+      "hashtags": [
+        "medicina_interna",
+        "hiponatremia",
+        "tabela_clínica",
+        "sintomas_sérios",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual mecanismo inicial protege o cérebro do edema na hiponatremia?",
+      "options": [
+        "Diminuição da pressão intracraniana",
+        "Excreção de solutos orgânicos (osmóis)",
+        "Síntese de novo tecido glial",
+        "Aumento rápido do fluxo sanguíneo cerebral"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O cérebro é protegido da hiponatremia crônica e do edema cerebral inicial pela extrusão de osmóis orgânicos (como taurina, mioinositol, glutamato) das células. Isto diminui a osmolaridade intracelular e reduz o gradiente osmótico para entrada de água.",
+      "hashtags": [
+        "fisiopatologia",
+        "hiponatremia",
+        "respostas_compensatórias",
+        "extrusão_osmoles",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Em qual situação de hiponatremia o risco de edema cerebral é maior?",
+      "options": [
+        "Crônico assintomático, sódio 120 mEq/L",
+        "Aguda com sódio sérico 130 mEq/L",
+        "Crônico com sódio sérico 125 mEq/L",
+        "Aguda com sódio sérico 128 mEq/L"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O risco de edema cerebral sintomático grave é significativamente maior na hiponatremia de início agudo (menos de 48 horas), mesmo com níveis de sódio que seriam menos preocupantes em condições crônicas. O cérebro não tem tempo para se adaptar.",
+      "hashtags": [
+        "medicina_interna",
+        "hiponatremia",
+        "complicações",
+        "risco_agudo",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual parâmetro clínico é essencial para monitorar o risco de edema cerebral?",
+      "options": [
+        "Balanço hídrico diário total",
+        "Eletrólitos séricos a cada 24 horas",
+        "Pressão arterial e frequência cardíaca",
+        "Consciência e nível neurológico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O nível de consciência e o estado neurológico são os indicadores mais sensíveis e cruciais para detectar o desenvolvimento ou agravamento do edema cerebral em pacientes com hiponatremia. Quaisquer alterações devem ser investigadas imediatamente para evitar complicações graves.",
+      "hashtags": [
+        "medicina_interna",
+        "hiponatremia",
+        "diagnóstico",
+        "monitoramento_neurológico",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a complicação mais temida de uma correção muito rápida da hiponatremia crônica?",
+      "options": [
+        "Convulsões tônico-clônicas refratárias",
+        "Hemorragia intracraniana espontânea",
+        "Síndrome de desmielinização osmótica",
+        "Edema cerebral persistente grave"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A correção muito rápida da hiponatremia crônica pode causar a síndrome de desmielinização osmótica (anteriormente mielinólise pontina central), uma complicação neurológica grave e potencialmente irreversível caracterizada pela destruição da mielina no cérebro.",
+      "hashtags": [
+        "medicina_interna",
+        "hiponatremia",
+        "complicações",
+        "desmielinização osmótica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual sinal neurológico indica um possível risco de hérnia cerebral devido a edema?",
+      "options": [
+        "Miose pupilar e nistagmo",
+        "Focalidade neurológica e anisocoria",
+        "Rigidez de pescoço e fotofobia",
+        "Diminuição dos reflexos tendinosos profundos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O aparecimento de focalidade neurológica (como hemiparesia) e anisocoria (diferença no tamanho da pupila, especialmente dilatação unilateral com falta de resposta à luz) são sinais de alerta que sugerem aumento crítico da pressão intracraniana e risco iminente de hérnia cerebral.",
+      "hashtags": [
+        "medicina_interna",
         "hiponatremia",
         "tabela_clínica",
         "sinais_hérnia",
-        "PATOLOGIA",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Que tipo de câncer é uma causa comum de SIADH?",
+      "question": "Qual a primeira medida terapêutica na hiponatremia aguda sintomática com convulsões?",
       "options": [
-        "câncer de cólon",
-        "câncer de próstata",
-        "câncer de mama",
-        "câncer de pulmão de pequenas células"
+        "Diuréticos de alça para aumentar a excreção",
+        "Administração lenta de solução salina normal",
+        "Restrição urgente e estrita de água",
+        "Infusão de solução salina hipertônica a 3%"
       ],
       "correctAnswer": 4,
-      "explanation": "O câncer de pulmão de pequenas células é a neoplasia mais frequentemente associada à síndrome de secreção inapropriada do hormônio antidiurético (SIADH), atuando como fonte ectópica de ADH.",
+      "explanation": "Nos casos de hiponatremia aguda grave com sintomas neurológicos graves, como convulsões, a medida prioritária é a administração rápida de solução salina hipertônica a 3% para elevar o sódio sérico e reduzir o edema cerebral, com monitoramento rigoroso para evitar correção excessiva.",
       "hashtags": [
-        "oncologia",
-        "siadh",
-        "etiologia",
-        "câncer_siadh",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de diurético causa mais hiponatremia devido a perdas renais?",
-      "options": [
-        "Inibidores da anidrase carbônica",
-        "diuréticos de alça",
-        "Protetores de potássio",
-        "Tiazidas"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Os diuréticos tiazídicos são uma causa comum de hiponatremia hipovolêmica de origem renal. Eles interferem na diluição urinária ao inibir a reabsorção de sódio no túbulo distal, aumentando a excreção de água livre.",
-      "hashtags": [
-        "farmacologia",
+        "medicina_interna",
         "hiponatremia",
-        "etiologia",
-        "tiazida_diuréticos",
-        "PATOLOGIA",
+        "tratamento",
+        "solução salina_hipertônica",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual hormônio é necessário para descartar o hipotireoidismo como causa?",
+      "question": "Qual é o primeiro exame laboratorial essencial para confirmar a presença de hiponatremia verdadeira em um paciente com baixo nível de sódio sérico?",
       "options": [
-        "Cortisol",
-        "Prolactina",
-        "PTH",
-        "TSH e T4 grátis"
+        "Hemoglobina",
+        "Osmolaridade sérica",
+        "glicose plasmática",
+        "Creatinina sérica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A osmolaridade sérica é essencial para diferenciar a hiponatremia verdadeira (baixa osmolaridade) da pseudo-hiponatremia ou hiponatremia com osmolaridade normal ou elevada, como a causada pela hiperglicemia grave. É o passo inicial para uma correta classificação diagnóstica.",
+      "hashtags": [
+        "medicina_interna",
+        "hiponatremia",
+        "diagnóstico_inicial",
+        "soro_osmolaridade",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Na abordagem diagnóstica da hiponatremia, qual o fator clínico mais importante a avaliar para classificá-la inicialmente?",
+      "options": [
+        "Osmolaridade da urina",
+        "Nível de sódio urinário",
+        "Nível de hormônio antidiurético",
+        "Estado do volume intravascular"
       ],
       "correctAnswer": 4,
-      "explanation": "O hipotireoidismo grave pode causar hiponatremia euvolêmica. Para descartar a causa, é fundamental medir os níveis de TSH e T4 livre no sangue. A correção da tireoide geralmente resolve a hiponatremia.",
+      "explanation": "A avaliação do estado do volume intravascular (hipovolêmico, euvolêmico, hipervolêmico) pelo exame físico é crucial para iniciar o diagnóstico diferencial de hiponatremia. Essa classificação direciona os exames seguintes e o manejo terapêutico do paciente.",
+      "hashtags": [
+        "nefrologia",
+        "hiponatremia",
+        "avaliação_clínica",
+        "status_volume",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual achado de sódio urinário sugere mais fortemente hiponatremia hipovolêmica devido a perdas extrarrenais?",
+      "options": [
+        "Osmolaridade urinária < 100 mOsm/kg",
+        "Sódio urinário < 20 mEq/L",
+        "Sódio urinário > 40 mEq/L",
+        "Peptídeo natriurético elevado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Um sódio urinário inferior a 20 mEq/L no contexto de hiponatremia hipovolêmica indica que os rins estão tentando ativamente conservar o sódio em resposta à depleção de volume, o que é típico de perdas extrarrenais, como vômitos ou diarreia.",
+      "hashtags": [
+        "nefrologia",
+        "hipovolêmico_hiponatremia",
+        "laboratório_diagnóstico",
+        "urinário_sódio",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Um dos critérios essenciais para o diagnóstico da síndrome de secreção inadequada do hormônio antidiurético (SIADH) é:",
+      "options": [
+        "Euvolemia clínica",
+        "Desidratação grave",
+        "Edema generalizado",
+        "Pressão alta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A SIADH é caracterizada pela secreção excessiva de ADH levando à hiponatremia dilucional em paciente clinicamente euvolêmico, sem sinais de hipovolemia ou hipervolemia significativas. É um critério fundamental para o seu diagnóstico.",
       "hashtags": [
         "endocrinologia",
-        "hiponatremia",
-        "conceito",
+        "siadh",
+        "critérios_de diagnóstico",
+        "euvolemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Em um paciente com hiponatremia hipervolêmica, qual das seguintes condições é a causa subjacente mais comum?",
+      "options": [
+        "Diabetes insípido nefrogênico",
+        "Polidipsia primária",
+        "Insuficiência adrenal aguda",
+        "Insuficiência cardíaca congestiva"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A insuficiência cardíaca congestiva é uma causa comum de hiponatremia hipervolêmica. Isso se deve à diminuição do débito cardíaco, que ativa mecanismos neuro-humorais, levando à retenção de água e sódio e, por fim, à hiponatremia dilucional.",
+      "hashtags": [
+        "cardiologia",
+        "hiponatremia_hipervolêmica",
+        "etiologia",
+        "insuficiência cardíaca",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "A pseudo-hiponatremia, uma leitura falsa de baixo teor de sódio, está comumente associada a:",
+      "options": [
+        "Hiperglicemia acentuada",
+        "Insuficiência renal crônica",
+        "hipotireoidismo grave",
+        "Hiperlipidemia grave"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A pseudo-hiponatremia ocorre quando a presença de grandes quantidades de lipídios ou proteínas no plasma desloca a água plasmática, levando a uma medição falsamente baixa de sódio em algumas técnicas laboratoriais. A hiperlipidemia grave é uma causa clássica.",
+      "hashtags": [
+        "laboratório_clínico",
+        "pseudo-hiponatremia",
+        "causas",
+        "hiperlipidemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Em um paciente com hiponatremia euvolêmica, o achado de osmolaridade urinária muito baixa (< 100 mOsm/kg) sugere o diagnóstico de:",
+      "options": [
+        "Síndrome de secreção inadequada de ADH",
+        "Insuficiência adrenal",
+        "Uso de diuréticos tiazídicos",
+        "Polidipsia primária"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Uma osmolaridade urinária muito baixa em um paciente euvolêmico com hiponatremia é característica de polidipsia primária ou potomania, onde o excesso de ingestão de água excede a capacidade máxima de diluição renal, levando a urina extremamente diluída.",
+      "hashtags": [
+        "nefrologia",
+        "diagnóstico_diferencial_hiponatremia",
+        "laboratório_urinário",
+        "polidipsia_primária",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Para o diagnóstico etiológico da hiponatremia associada à insuficiência adrenal, qual o exame mais específico?",
+      "options": [
+        "Medição de cortisol matinal",
+        "Teste de supressão de dexametasona",
+        "Nível de renina plasmática",
+        "Teste de estimulação com ACTH"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O teste de estimulação com ACTH (cortosina) é o teste diagnóstico definitivo para insuficiência adrenal. A ausência de elevação adequada do cortisol após a administração de ACTH confirma o diagnóstico dessa condição, que pode causar hiponatremia.",
+      "hashtags": [
+        "endocrinologia",
+        "hiponatremia_insuficiência_adrenal",
+        "diagnóstico_etiológico",
+        "teste_estimulação_acth",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Diante de hiponatremia em paciente com suspeita de hipotireoidismo, quais exames diagnósticos são essenciais para confirmar a causa?",
+      "options": [
+        "Eletrólitos urinários",
+        "Nível sérico de cálcio",
+        "Mensuração de TSH e T4 livre",
+        "hemograma completo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O hipotireoidismo pode causar hiponatremia devido à excreção prejudicada de água livre pelos rins e à possível liberação inadequada de ADH. A confirmação diagnóstica requer dosagem de TSH e T4 livre para avaliar a função tireoidiana.",
+      "hashtags": [
+        "endocrinologia",
+        "hiponatremia_hipotireoidismo",
+        "diagnóstico_etiológico",
         "testes_tireoidianos",
-        "PATOLOGIA",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual condição não é verdadeira hiponatremia fisiológica?",
+      "question": "Em paciente com hiponatremia euvolêmica com sódio urinário > 30 mEq/L e osmolaridade urinária > 100 mOsm/kg, qual o diagnóstico mais provável?",
       "options": [
-        "Hiponatremia hipovolêmica",
-        "SIADH",
-        "Hiponatremia hipertônica",
-        "Hiponatremia hipervolêmica"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A hiponatremia hipertônica não é uma hiponatremia fisiológica verdadeira, uma vez que a hipoosmolalidade plasmática não está presente. O sódio é diluído devido ao deslocamento da água intracelular por outros solutos osmoticamente ativos, como glicose ou manitol.",
-      "hashtags": [
-        "nefrologia",
-        "hiponatremia",
-        "conceito",
-        "true_hiponatremia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a taxa de infusão inicial de SSH 3% em emergência?",
-      "options": [
-        "500 mL em 10 minutos",
-        "50 mL em 60 minutos",
-        "150 mL em 20 minutos",
-        "250 mL em 30 minutos"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Para hiponatremia gravemente sintomática, a diretriz recomenda a administração de 150 mL de solução salina hipertônica a 3% (HSS a 3%) por via intravenosa durante 20 minutos. Esta dose pode ser repetida até três vezes na primeira hora para um rápido aumento do sódio.",
-      "hashtags": [
-        "medicina_de_emergência",
-        "hiponatremia",
-        "tratamento",
-        "taxa_ssh_de emergência",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Qual é um fator de risco para hiponatremia em idosos?",
-      "options": [
-        "Uso de vários medicamentos",
-        "Dieta rica em sódio",
-        "Aumento da função renal",
-        "Hiperatividade física"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A polifarmácia, uso de múltiplos medicamentos como diuréticos, antidepressivos (ISRS) e AINEs, é um fator de risco significativo para o desenvolvimento de hiponatremia na população idosa, que já apresenta diminuição da função renal.",
-      "hashtags": [
-        "geriatria",
-        "hiponatremia",
-        "epidemiologia",
-        "idosos_fatores_de_risco",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que sugere mudar o embotamento na percussão abdominal?",
-      "options": [
-        "Peritonite",
-        "Hepatoesplenomegalia",
-        "íleo paralítico",
-        "Ascite"
+        "Polidipsia primária",
+        "Perdas gastrointestinais graves",
+        "Insuficiência adrenal",
+        "Síndrome de secreção inadequada de ADH"
       ],
       "correctAnswer": 4,
-      "explanation": "A mudança de macicez à percussão abdominal é um sinal clínico que sugere a presença de ascite. Esta é uma manifestação de sobrecarga de volume e é comum na hiponatremia hipervolêmica associada à cirrose, insuficiência cardíaca ou síndrome nefrótica.",
-      "hashtags": [
-        "semiologia",
-        "hiponatremia",
-        "tabela_clínica",
-        "sinais_ascite",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a osmolalidade da urina na SIADH?",
-      "options": [
-        "Igual à osmolalidade plasmática",
-        "Inapropriadamente alto (> 100-150 mOsm/kg)",
-        "Baixo (< 100 mOsm/kg)",
-        "Sempre indetectável"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Na SIADH, apesar da hipoosmolalidade plasmática, a osmolaridade urinária é inadequadamente elevada (geralmente > 100-150 mOsm/kg). Isto reflete a ação persistente e excessiva do ADH, que continua a reabsorver água livre e a concentrar a urina.",
+      "explanation": "Esses achados são característicos da SIADH: hiponatremia euvolêmica, com urina não diluída (alta osmolaridade urinária) e contendo sódio, indicando que o rim está excretando sódio apesar da hiponatremia.",
       "hashtags": [
         "nefrologia",
         "siadh",
-        "diagnóstico",
-        "urinária_osmolalidade_siadh",
-        "PATOLOGIA",
+        "diagnóstico_diferencial",
+        "laboratório_urinário",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual é a classificação da hiponatremia moderada?",
+      "question": "Qual é o critério essencial de Schwartz e Bartter para o diagnóstico de SIADH?",
       "options": [
-        "125-129 mEq/L",
-        "< 125 mEq/L",
-        "135-139 mEq/L",
-        "130-134 mEq/L"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Dependendo da concentração sérica de sódio, a hiponatremia é classificada como leve (130-134 mEq/L), moderada (125-129 mEq/L) ou grave (< 125 mEq/L). Esta classificação orienta a avaliação de risco e a tomada de decisão terapêutica.",
-      "hashtags": [
-        "nefrologia",
-        "hiponatremia",
-        "conceito",
-        "sódio_moderado",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Que patologia pode imitar os sintomas neurológicos da hiponatremia?",
-      "options": [
-        "Hipernatremia",
-        "AVC",
-        "Hipercalcemia",
-        "Hipocalemia"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Os sintomas neurológicos da hiponatremia (confusão, letargia, convulsões) são inespecíficos e podem ser causados ​​por outras condições. Um acidente vascular cerebral (AVC) ou hemorragia intracraniana pode mimetizar esses sintomas, exigindo um diagnóstico diferencial cuidadoso.",
-      "hashtags": [
-        "neurologia",
-        "hiponatremia",
-        "conceito",
-        "mimetismo_sintomas",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que é administrado para repor o volume na hiponatremia hipovolêmica?",
-      "options": [
-        "Solução de dextrose a 5%",
-        "diuréticos de alça",
-        "Solução salina hipertônica",
-        "Solução salina isotônica a 0,9%"
+        "Osmolalidade urinária inferior a 50 mOsm/kg",
+        "Osmolalidade urinária entre 50 e 80 mOsm/kg",
+        "Osmolalidade urinária igual à plasmática",
+        "Osmolalidade urinária maior que 100 mOsm/kg"
       ],
       "correctAnswer": 4,
-      "explanation": "O tratamento da hiponatremia hipovolêmica consiste na restauração do volume circulante efetivo por meio da administração de solução salina isotônica a 0,9%. É crucial descontinuar os diuréticos tiazídicos se eles forem a causa subjacente da hipovolemia.",
+      "explanation": "Um dos critérios essenciais para o diagnóstico da Síndrome de Secreção Inapropriada do Hormônio Antidiurético (SIADH) é a osmolalidade urinária superior a 100 mOsm/kg, o que indica que o rim está concentrando a urina de forma inadequada, apesar da hipoosmolalidade plasmática. Esta é a chave para diferenciá-la da polidipsia primária.",
       "hashtags": [
         "nefrologia",
-        "hiponatremia",
-        "tratamento",
-        "hipovolemia_management",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Qual é a dose inicial de uréia oral para SIADH?",
-      "options": [
-        "0,1 g/kg/dia",
-        "1g/kg/dia",
-        "0,25-0,5 g/kg/dia",
-        "2g/kg/dia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A uréia oral (0,25-0,5 g/kg/dia, dividida em 2-4 doses) é um tratamento eficaz para SIADH, especialmente quando a restrição hídrica é insuficiente. Atua como diurético osmótico, promovendo a excreção livre de água sem risco de hipercorreção excessiva.",
-      "hashtags": [
-        "farmacologia",
         "siadh",
-        "tratamento",
-        "dose_oral_ureia",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
-      ]
-    },
-    {
-      "question": "Qual é um fator de risco para morbidade na hiponatremia leve?",
-      "options": [
-        "câncer de pulmão",
-        "Paralisia progressiva",
-        "Risco de quedas e fraturas",
-        "Disfunção neurológica grave"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Mesmo a hiponatremia leve está associada ao aumento da morbidade, incluindo o risco de quedas e fraturas, especialmente em pacientes mais idosos. Também pode causar deficiências cognitivas sutis.",
-      "hashtags": [
-        "geriatria",
-        "hiponatremia",
-        "epidemiologia",
-        "risco_quedas_fraturas",
-        "PATOLOGIA",
+        "critérios_de diagnóstico",
+        "osmolalidade urinária",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "O que estimula a liberação de ADH da neuro-hipófise?",
+      "question": "Para diagnosticar SIADH, como a hiponatremia é classificada com base na osmolalidade plasmática e no status do volume?",
       "options": [
-        "Osmolalidade diminuída",
-        "Aumento da osmolalidade",
-        "Diminuição da sede",
-        "Aumento do volume sanguíneo"
+        "Hipotônico com euvolemia clínica",
+        "Hipotônico com hipervolemia grave",
+        "Hipertônico com euvolemia significativa",
+        "Isotônico com normovolemia verdadeira"
       ],
-      "correctAnswer": 2,
-      "explanation": "Os osmorreceptores hipotalâmicos são sensíveis a pequenas alterações na osmolalidade plasmática. Um aumento na osmolalidade (geralmente > 280 mOsm/kg) estimula a liberação de ADH da neuro-hipófise e ativa o centro da sede para restaurar o equilíbrio hídrico.",
+      "correctAnswer": 1,
+      "explanation": "A SIADH é caracterizada por hiponatremia hipotônica, ou seja, com baixa osmolalidade plasmática. Além disso, um critério fundamental é que o paciente esteja clinicamente euvolêmico, sem sinais de desidratação ou sobrecarga de volume, diferenciando-o de outras causas de hiponatremia hipotônica.",
       "hashtags": [
-        "fisiologia_renal",
-        "equilíbrio_hidroeletrolítico",
+        "nefrologia",
+        "siadh",
+        "critérios_de diagnóstico",
+        "hiponatremia_hipotônica_euvolêmica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Um critério essencial de Schwartz e Bartter para SIADH inclui sódio urinário que geralmente é de que magnitude?",
+      "options": [
+        "Maior que 30-40 mEq/L",
+        "Entre 10 e 20 mEq/L",
+        "Entre 20 e 30 mEq/L",
+        "Menos de 10 mEq/L"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No cenário de hiponatremia hipotônica e euvolemia, sódio urinário superior a 30-40 mEq/L é um critério chave para SIADH. Isto reflete que o rim está excretando sódio de forma inadequada, em vez de conservá-lo como ocorreria em estados de hipovolemia.",
+      "hashtags": [
+        "nefrologia",
+        "siadh",
+        "critérios_de diagnóstico",
+        "urinário_sódio",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o principal mecanismo fisiopatológico subjacente à SIADH?",
+      "options": [
+        "Deficiência de hormônio antidiurético",
+        "Ativação excessiva do SRAA",
+        "Secreção inadequada de ADH",
+        "Resistência renal ao ADH"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A Síndrome de Secreção Inapropriada do Hormônio Antidiurético (SIADH) é caracterizada fundamentalmente pela produção ou liberação excessiva do hormônio antidiurético (ADH), ou vasopressina, na ausência de estímulos fisiológicos que justifiquem sua secreção, levando à retenção de água livre.",
+      "hashtags": [
+        "nefrologia",
+        "siadh",
         "fisiopatologia",
-        "estímulo_adh",
-        "PATOLOGIA",
+        "adh_inapropriado",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Que distúrbio endócrino está associado à hiponatremia euvolêmica com TSH elevado?",
+      "question": "Para o diagnóstico de SIADH é fundamental excluir a presença de qual das seguintes condições?",
       "options": [
-        "Diabetes insípido",
-        "Doença de Cushing",
-        "Hipotireoidismo grave",
-        "Hipertireoidismo"
+        "Cetoacidose diabética não complicada",
+        "Diabetes insípido nefrogênico",
+        "Hipotireoidismo ou insuficiência adrenal",
+        "Insuficiência renal crônica grave"
       ],
       "correctAnswer": 3,
-      "explanation": "O hipotireoidismo grave pode causar hiponatremia euvolêmica. Nessa condição, o TSH (hormônio estimulador da tireoide) geralmente está elevado e o T4 livre diminuído. A hiponatremia é corrigida com terapia de reposição hormonal da tireoide.",
-      "hashtags": [
-        "endocrinologia",
-        "hiponatremia",
-        "etiologia",
-        "hipotireoidismo_euvolêmico",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que sinal no exame de fundo de olho pode indicar PIC elevada?",
-      "options": [
-        "Exsudados algodoados",
-        "hemorragias retinianas",
-        "Oclusões vasculares",
-        "Papiledema"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O papiledema de fundo (edema do nervo óptico) pode indicar aumento da pressão intracraniana (PIC), embora seja um sinal tardio. Na hiponatremia grave, o edema cerebral pode levar a esta complicação.",
-      "hashtags": [
-        "oftalmologia",
-        "hiponatremia",
-        "tabela_clínica",
-        "papiledema_pic",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual nível sérico de sódio define hiponatremia leve?",
-      "options": [
-        "125-129 mEq/L",
-        "< 125 mEq/L",
-        "130-134 mEq/L",
-        "135 mEq/L"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A hiponatremia leve é ​​definida por uma concentração sérica de sódio entre 130 e 134 mEq/L. Embora muitas vezes assintomática, mesmo a hiponatremia leve está associada ao aumento da morbidade.",
+      "explanation": "Os critérios de Schwartz e Bartter especificam a exclusão de outras causas de hiponatremia, incluindo hipotireoidismo e insuficiência adrenal. Essas condições podem causar hiponatremia hipotônica secundariamente e devem ser descartadas antes de se estabelecer o diagnóstico de SIADH.",
       "hashtags": [
         "nefrologia",
-        "hiponatremia",
-        "conceito",
-        "suave_sódio",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
+        "siadh",
+        "diagnóstico_diferencial",
+        "exclusões_endócrinas",
+        "MEDICAL_TOPIC",
+        ""
       ]
     },
     {
-      "question": "Qual é a primeira ação se o paciente apresentar sintomas neurológicos graves?",
+      "question": "Como o status volêmico se apresenta clinicamente em um paciente com SIADH, de acordo com os critérios?",
       "options": [
-        "Garantir vias aéreas e ventilação",
-        "Medir o sódio urinário",
-        "Administrar água livre IV",
-        "Iniciar restrição hídrica"
+        "Hipovolemia com desidratação",
+        "Euvolêmico, sem sinais de edema",
+        "Hipervolemia com edema periférico",
+        "Hidratação excessiva com ascite"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Um critério essencial de Schwartz e Bartter para SIADH é que o paciente deve estar clinicamente euvolêmico. Isso significa que não há sinais óbvios de hipovolemia (desidratação) ou hipervolemia (edema periférico, ascite ou congestão pulmonar), apesar da retenção hídrica.",
+      "hashtags": [
+        "nefrologia",
+        "siadh",
+        "critérios_de diagnóstico",
+        "status_volume",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual intervenção costuma corrigir a hiponatremia em pacientes com SIADH, que é um critério complementar?",
+      "options": [
+        "Aumento da ingestão de sal",
+        "Restrição de fluidos",
+        "Administração salina",
+        "Uso de diuréticos de alça"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A correção da hiponatremia por meio da restrição hídrica é um importante critério complementar no diagnóstico da SIADH. Ao limitar a ingestão de água, a diluição sérica do sódio é reduzida, permitindo a normalização progressiva dos níveis de sódio nestes pacientes.",
+      "hashtags": [
+        "nefrologia",
+        "siadh",
+        "gerenciamento_terapêutico",
+        "restrição_de_água",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Os critérios diagnósticos clássicos para SIADH foram propostos pela primeira vez por:",
+      "options": [
+        "Schwartz e Bartter",
+        "Addison e Waterhouse",
+        "Nelson e Liddle",
+        "Conn e Cushing"
       ],
       "correctAnswer": 1,
-      "explanation": "Em pacientes com hiponatremia gravemente sintomática (convulsões, coma), a primeira ação é garantir a permeabilidade das vias aéreas e considerar a intubação orotraqueal e a ventilação mecânica. Isto é crucial para proteger o paciente e prevenir complicações respiratórias decorrentes da depressão do SNC.",
+      "explanation": "Os critérios diagnósticos para Síndrome de Secreção Inapropriada do Hormônio Antidiurético (SIADH) foram inicialmente descritos pelos médicos William B. Schwartz e Frederic C. Bartter, por isso são conhecidos como critérios de Schwartz e Bartter. Eles são essenciais para a correta identificação desta condição.",
       "hashtags": [
-        "medicina_de_emergência",
-        "hiponatremia",
-        "tratamento",
-        "graves_initial_orders",
-        "PATOLOGIA",
-        "Guias ESE/ESICM/ERA-EDTA 2023"
+        "nefrologia",
+        "siadh",
+        "história_médica",
+        "descobridores",
+        "MEDICAL_TOPIC",
+        ""
       ]
     },
     {
-      "question": "Quais medicamentos podem causar hiponatremia euvolêmica devido à SIADH?",
+      "question": "Além do hipotireoidismo, que outras disfunções endócrinas devem ser descartadas antes do diagnóstico de SIADH?",
       "options": [
-        "Antagonistas do receptor ADH",
-        "Anti-hipertensivos IECA",
-        "Suplementos de potássio",
-        "AINEs e carbamazepina"
+        "Feocromocitoma não diagnosticado",
+        "Insuficiência adrenal (hipoadrenalismo)",
+        "Hipertireoidismo subclínico",
+        "Síndrome de Cushing"
       ],
-      "correctAnswer": 4,
-      "explanation": "Vários medicamentos podem induzir SIADH e, portanto, hiponatremia euvolêmica. Estes incluem AINEs (antiinflamatórios não esteróides) e carbamazepina, um medicamento antiepiléptico. Também ISRS e amiodarona.",
+      "correctAnswer": 2,
+      "explanation": "Para estabelecer o diagnóstico de SIADH, é essencial descartar insuficiência adrenal (hipoadrenalismo), uma vez que a deficiência de cortisol pode levar à hiponatremia hipotônica que mimetiza SIADH. A função adrenal normal é um critério de exclusão essencial.",
+      "hashtags": [
+        "nefrologia",
+        "siadh",
+        "diagnóstico_diferencial",
+        "adrenal_exclusões",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Um achado laboratorial complementar sugestivo de SIADH, por hemodiluição, é:",
+      "options": [
+        "Glicose plasmática > 120 mg/dL",
+        "Ácido úrico sérico < 4 mg/dL",
+        "Ácido úrico sérico > 7 mg/dL",
+        "BUN sérico > 20 mg/dL"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Baixo nível de ácido úrico sérico (geralmente < 4 mg/dL) é um achado complementar sugestivo de SIADH. Isso se deve à hemodiluição e ao aumento da depuração de urato secundário à expansão do volume extracelular devido à retenção de água livre, o que auxilia no seu diagnóstico.",
+      "hashtags": [
+        "nefrologia",
+        "siadh",
+        "critérios_de diagnóstico",
+        "ácido_úrico",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a intervenção inicial mais adequada para um paciente com hiponatremia aguda grave (menos de 48 horas) e sintomas neurológicos graves, como convulsões?",
+      "options": [
+        "Administração de solução salina hipertônica a 3%",
+        "Restrição e observação rigorosa de água",
+        "Administração de solução salina isotônica 0,9%",
+        "Início de diuréticos de alça intravenosos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A hiponatremia aguda com sintomas neurológicos graves requer correção rápida e controlada. A solução salina hipertônica a 3% é o tratamento de escolha para aumentar o sódio sérico e prevenir danos cerebrais irreversíveis.",
+      "hashtags": [
+        "medicina_interna",
+        "hiponatremia_tratamento",
+        "gerenciamento_deemergência",
+        "hiponatremia_aguda_grave",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "No tratamento da hiponatremia, qual a taxa máxima recomendada de correção do sódio sérico nas primeiras 24 horas para evitar a síndrome de desmielinização osmótica?",
+      "options": [
+        "Não mais que 8-12 mEq/L",
+        "Não mais que 15-20 mEq/L",
+        "Não mais que 4-6 mEq/L",
+        "Não mais que 2-3 mEq/L"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para prevenir a síndrome de desmielinização osmótica, complicação grave da correção rápida, recomenda-se não ultrapassar o aumento do sódio sérico de 8 a 12 mEq/L nas primeiras 24 horas, e não mais que 18 mEq/L em 48 horas.",
+      "hashtags": [
+        "nefrologia",
+        "hiponatremia_tratamento",
+        "critérios_terapêuticos",
+        "correção_velocidade",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o principal fator de risco para o desenvolvimento da síndrome de desmielinização osmótica durante a correção da hiponatremia?",
+      "options": [
+        "Hiponatremia aguda com início rápido dos sintomas",
+        "Correção rápida da hiponatremia crônica",
+        "Administração lenta de solução salina isotônica",
+        "Hiponatremia crônica leve assintomática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A síndrome de desmielinização osmótica (SDO) é uma complicação neurológica grave que ocorre mais comumente quando a hiponatremia crônica é corrigida muito rapidamente, causando alterações osmóticas abruptas no cérebro.",
+      "hashtags": [
+        "medicina_interna",
+        "hiponatremia_complicações",
+        "complicações_de_gerenciamento",
+        "síndrome_desmielinização_osmótica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Um paciente apresenta hiponatremia euvolêmica crônica assintomática com nível de sódio de 128 mEq/L. Qual o manejo inicial mais conservador e adequado?",
+      "options": [
+        "Prescrição de um antagonista do receptor de vasopressina",
+        "Restrição hídrica (ingestão de líquidos inferior a 1,2-1,5 L/dia)",
+        "Administração de solução salina hipertônica a 3%",
+        "Administração de solução salina isotônica 0,9%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para hiponatremia euvolêmica crônica assintomática, especialmente se for leve ou moderada, a restrição de líquidos é a base do tratamento para permitir que os rins excretem o excesso de água livre.",
+      "hashtags": [
+        "nefrologia",
+        "hiponatremia_tratamento",
+        "tratamento",
+        "restrição_hidráulica_assintomática",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Num paciente com SIADH e sintomas moderados (náuseas, confusão) mas sem convulsões, qual a abordagem inicial mais recomendada?",
+      "options": [
+        "Administração imediata de diuréticos de alça e fluidos intravenosos",
+        "Restrição hídrica e considerar bolus de NaCl de 3% se o sódio estiver baixo",
+        "Iniciar tratamento com demeclociclina oral e observação",
+        "Administração de solução salina isotônica 0,9% para expansão volêmica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para SIADH com sintomas moderados, a restrição hídrica é essencial. Se o sódio estiver baixo e os sintomas forem evidentes, um bolus pequeno e lento de solução salina hipertônica a 3% pode ser considerado para um rápido aumento inicial do sódio.",
+      "hashtags": [
+        "medicina_interna",
+        "siadh_tratamento",
+        "gerenciamento_deemergência",
+        "siadh_moderate_symptoms",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual das alternativas a seguir é o objetivo principal do monitoramento frequente do sódio sérico durante o tratamento da hiponatremia?",
+      "options": [
+        "Ajustar a dose de analgésicos intravenosos",
+        "Determinar a necessidade de transfusões de sangue",
+        "Evitar correção de sódio excessivamente rápida ou lenta",
+        "Avaliar a função renal e a filtração glomerular"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A monitorização frequente dos níveis séricos de sódio é crucial para garantir que a correção ocorre a uma taxa segura, evitando uma correção demasiado rápida, que pode causar SDO, ou demasiado lenta, que pode não resolver os sintomas.",
+      "hashtags": [
+        "nefrologia",
+        "hiponatremia_monitoring",
+        "critérios_terapêuticos",
+        "monitoramento_de_sódio_soro",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Se ocorrer uma rápida hipercorreção do sódio sérico durante o tratamento da hiponatremia, qual é a medida de resgate imediata para prevenir a síndrome de desmielinização osmótica?",
+      "options": [
+        "Continue com a restrição hídrica e monitore",
+        "Administrar diuréticos de alça potentes para promover a natriurese",
+        "Administrar dextrose 5% em água (D5W) juntamente com desmopressina",
+        "Administrar um bolus de solução salina hipertônica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Em caso de hipercorreção rápida, a administração de dextrose a 5% em água (D5W) para reduzir o sódio juntamente com desmopressina para induzir antidiurese e prevenir a excreção de água livre é o tratamento de escolha para reverter o aumento.",
+      "hashtags": [
+        "medicina_interna",
+        "hiponatremia_complicações",
+        "gerenciamento_deemergência",
+        "hipercorreção_hiponatremia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o objetivo de aumentar o sódio sérico na primeira hora de tratamento em pacientes com hiponatremia grave e sintomas neurológicos agudos?",
+      "options": [
+        "Aumento de 6-8 mEq/L",
+        "Aumento de 4-6 mEq/L",
+        "Aumento de 1-2 mEq/L",
+        "Aumento de 3-4 mEq/L"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Em situações de emergência com hiponatremia grave e sintomas agudos, o objetivo imediato é um aumento do sódio sérico de 4 a 6 mEq/L na primeira hora para aliviar rapidamente o edema cerebral, sem ultrapassar os limites seguros de correção.",
+      "hashtags": [
+        "nefrologia",
+        "hiponatremia_tratamento",
+        "critérios_terapêuticos",
+        "meta_acute_correction",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Os antagonistas dos receptores da vasopressina (vaptans) são contraindicados no tratamento urgente da hiponatremia em pacientes com qual das seguintes condições?",
+      "options": [
+        "Hiponatremia euvolêmica sintomática aguda",
+        "Hiponatremia hipovolêmica aguda com necessidade de reposição volêmica",
+        "Insuficiência cardíaca congestiva com hiponatremia",
+        "Hiponatremia devido à síndrome de secreção crônica inapropriada do hormônio antidiurético (SIADH)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vaptans são contraindicados na hiponatremia hipovolêmica aguda porque promovem a excreção livre de água e podem agravar a depleção de volume, que deve primeiro ser corrigida com solução salina isotônica.",
       "hashtags": [
         "farmacologia",
-        "hiponatremia",
-        "etiologia",
-        "euvolemic_medicines",
-        "PATOLOGIA",
+        "hiponatremia_tratamento",
+        "contra-indicações",
+        "vaptanos_hipovolemia",
+        "FARMACOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de escolha para hiponatremia hipovolêmica com sinais de depleção de volume?",
+      "options": [
+        "Administração de diuréticos de alça",
+        "Administração de solução salina isotônica 0,9%",
+        "Administração de solução salina hipertônica a 3%",
+        "Restrição estrita de água"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A hiponatremia hipovolêmica é devida à depleção de volume e eletrólitos. O tratamento de escolha é a reposição volêmica com solução salina isotônica 0,9%, que corrige a hipovolemia e, com isso, permite a normalização do sódio sérico.",
+      "hashtags": [
+        "medicina_interna",
+        "hiponatremia_tratamento",
+        "tratamento",
+        "hipovolêmico_hiponatremia",
+        "MEDICAL_TOPIC",
         ""
       ]
     }

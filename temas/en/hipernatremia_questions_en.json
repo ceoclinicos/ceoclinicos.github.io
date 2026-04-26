@@ -1,116 +1,97 @@
 {
   "questions": [
     {
-      "question": "What is the serum sodium concentration that defines hypernatremia?",
+      "question": "What is the plasma sodium concentration that defines hypernatremia?",
       "options": [
-        "Less than 135 mEq/L",
-        "Greater than 155 mEq/L",
         "Greater than 145 mEq/L",
-        "Greater than 135 mEq/L"
+        "Between 135 and 145 mEq/L",
+        "Greater than 135 mEq/L",
+        "Less than 120 mEq/L"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hypernatremia is defined by a plasma sodium concentration greater than 145 mEq/L. This condition indicates an imbalance in the relationship between total body water and solutes, mainly sodium, in the extracellular compartment.",
+      "hashtags": [
+        "nephrology",
+        "hypernatremia",
+        "definition",
+        "normal_values",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the normal range of sodium concentration in blood plasma?",
+      "options": [
+        "145-155 mEq/L",
+        "130-140 mEq/L",
+        "135-145 mEq/L",
+        "125-135 mEq/L"
       ],
       "correctAnswer": 3,
-      "explanation": "Hypernatremia is defined as a serum sodium concentration above 145 mEq/L, reflecting a water deficit in relation to total body sodium and a state of hypertonicity of the extracellular fluid.",
+      "explanation": "The normal range of plasma sodium concentration is considered to be between 135 and 145 mEq/L. Values ​​outside this range indicate dysnatremias, either hyponatremia or hypernatremia, which require appropriate clinical evaluation and management.",
       "hashtags": [
         "nephrology",
-        "hypernatremia",
-        "concept",
+        "physiology_sodium",
         "definition",
-        "PATHOLOGY",
+        "normal_ranges",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Which hormone is vital in regulating water balance and osmolar homeostasis?",
+      "question": "What is the main regulator of plasma osmolality and sodium?",
       "options": [
-        "Antidiuretic hormone (ADH)",
-        "Aldosterone",
-        "Insulin",
-        "Parathormone"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Antidiuretic hormone (ADH) or vasopressin is essential in osmolar homeostasis, increasing the water permeability of the renal collecting ducts and promoting the reabsorption of free water.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "pathophysiology",
-        "adh",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What stimulates hypothalamic osmoreceptors in hypernatremia?",
-      "options": [
-        "Increased LEC osmolarity",
-        "Severe hypovolemia",
-        "Decreased serum sodium",
-        "Hyperkalemia"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Osmoreceptors in the hypothalamus are stimulated by increased extracellular fluid (ECF) osmolarity, which triggers ADH secretion and activation of the thirst center.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "pathophysiology",
-        "osmoreceptors",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What aquaporin is inserted into the collecting ducts by ADH?",
-      "options": [
-        "Aquaporin-2",
-        "Aquaporin-3",
-        "Aquaporin-1",
-        "Aquaporin-4"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ADH increases the water permeability of the renal collecting ducts through the insertion of aquaporins-2, allowing free water reabsorption and urine concentration.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "pathophysiology",
-        "aquaporins",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the normal plasma osmolarity in the human body?",
-      "options": [
-        "270-285 mOsm/kg",
-        "280-295 mOsm/kg",
-        "300-315 mOsm/kg",
-        "250-265 mOsm/kg"
+        "Renal excretion of potassium",
+        "Body water balance",
+        "glucose reabsorption",
+        "Dietary salt intake"
       ],
       "correctAnswer": 2,
-      "explanation": "The human body maintains plasma osmolarity within a narrow range, generally between 280 and 295 mOsm/kg, regulated by thirst, ADH and kidney function.",
+      "explanation": "The main regulator of plasma osmolality, and therefore sodium concentration, is body water balance. Mechanisms such as thirst and vasopressin (ADH) secretion work to maintain water homeostasis.",
       "hashtags": [
         "nephrology",
-        "hypernatremia",
+        "physiology_sodium",
         "pathophysiology",
-        "plasma_osmolarity",
-        "PATHOLOGY",
+        "osmolality_regulation",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Which condition is not a high-risk group for hypernatremia?",
+      "question": "What hormone is essential for the regulation of free water in the body?",
       "options": [
-        "Healthy young adults",
-        "Young children and infants",
-        "Elderly patients",
-        "Critically ill patients"
+        "Atrial natriuretic peptide",
+        "Antidiuretic hormone (ADH)",
+        "Angiotensin II",
+        "Aldosterone"
       ],
-      "correctAnswer": 1,
-      "explanation": "Hypernatremia is more prevalent in elderly patients, young children, and critically ill patients, who often have limited access to water or alterations in the thirst mechanism, not in healthy young adults.",
+      "correctAnswer": 2,
+      "explanation": "Antidiuretic hormone (ADH), also known as vasopressin, is crucial for the regulation of free water. It increases water permeability in the renal collecting tubules, allowing water reabsorption and urine concentration, thus maintaining plasma osmolality.",
       "hashtags": [
         "nephrology",
-        "hypernatremia",
-        "epidemiology",
-        "risk_groups",
-        "PATHOLOGY",
+        "physiology_sodium",
+        "pathophysiology",
+        "adh_vasopressin",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main physiological stimulus for ADH release?",
+      "options": [
+        "Increased plasma volume",
+        "Decreased blood pressure",
+        "Increased plasma osmolality",
+        "Decreased serum potassium"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The main stimulus for ADH release is an increase in plasma osmolality, detected by hypothalamic osmoreceptors. This promotes water retention to dilute solutes and normalize osmolality.",
+      "hashtags": [
+        "nephrology",
+        "physiology_sodium",
+        "pathophysiology",
+        "regulation_adh",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
@@ -118,1196 +99,1044 @@
       "question": "What is the most common cause of hypernatremia?",
       "options": [
         "Net free water loss",
-        "Primary hypodipsia",
-        "Primary hyperaldosteronism",
-        "Net sodium gain"
+        "Primary adrenal insufficiency",
+        "Intravenous sodium overload",
+        "Excessive intake of dietary salt"
       ],
       "correctAnswer": 1,
-      "explanation": "The most common cause of hypernatremia is the net loss of free water, resulting in concentrated urine as the kidneys attempt to conserve water in response to systemic hyperosmolarity.",
+      "explanation": "The most common cause of hypernatremia is a net loss of free water, which can occur for various reasons such as lack of access to water, diarrhea, osmotic diuresis, or diabetes insipidus, exceeding the ability to replace fluids.",
       "hashtags": [
         "nephrology",
         "hypernatremia",
         "etiology",
-        "lost_free_water",
-        "PATHOLOGY",
+        "lost_water",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What kidney condition causes dilute urine despite hypernatremia?",
+      "question": "Which neurological symptom is a serious complication of acute hypernatremia?",
       "options": [
-        "Diabetes insipidus",
-        "diabetic nephropathy",
-        "Acute glomerulonephritis",
-        "Chronic kidney failure"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Diabetes insipidus, both central and nephrogenic, is characterized by the inability of the kidney to concentrate urine, resulting in dilute urine (<700 mOsm/kg) despite hypernatremia.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "etiology",
-        "diabetes_insipidus",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What type of diabetes insipidus is due to ADH deficiency?",
-      "options": [
-        "Primary polydipsia",
-        "Nephrogenic",
-        "Central (neurogenic)",
-        "Gestational"
+        "Transient paresthesias",
+        "Increased reflections",
+        "Epileptic seizures",
+        "Mild muscle weakness"
       ],
       "correctAnswer": 3,
-      "explanation": "Central (neurogenic) diabetes insipidus is due to a deficiency in the production or release of ADH by the hypothalamus or neurohypophysis, which prevents adequate urinary concentration.",
+      "explanation": "Epileptic seizures are a serious neurological complication of acute hypernatremia, especially when sodium concentration increases rapidly. This is due to dehydration and shrinkage of brain cells.",
       "hashtags": [
         "nephrology",
         "hypernatremia",
-        "etiology",
-        "di_central",
-        "PATHOLOGY",
+        "clinical_table",
+        "neurological_symptoms",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What drug can cause acquired nephrogenic diabetes insipidus?",
+      "question": "What is the initial compensatory mechanism against hypernatremia?",
       "options": [
-        "Metformin",
-        "Paracetamol",
-        "Omeprazole",
-        "Lithium"
+        "Increased sodium reabsorption",
+        "Decreased secretion of ADH",
+        "Increased potassium excretion",
+        "Stimulation of the thirst center"
       ],
       "correctAnswer": 4,
-      "explanation": "Lithium is one of the best-known drugs that can cause acquired nephrogenic diabetes insipidus by interfering with the response of the renal tubules to antidiuretic hormone.",
+      "explanation": "The most important and earliest compensatory mechanism against hypernatremia is the stimulation of the thirst center. This boosts water intake, which helps dilute plasma sodium and restore normal osmolality.",
       "hashtags": [
         "nephrology",
         "hypernatremia",
-        "etiology",
-        "di_nephrogenic_lithium",
-        "PATHOLOGY",
+        "pathophysiology",
+        "compensatory_mechanisms",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What type of osmotic diuresis causes glucose hypernatremia?",
+      "question": "What happens to brain cells in the face of severe and acute hypernatremia?",
       "options": [
-        "Glycosuria",
-        "Diabetes insipidus",
-        "Primary hypodipsia",
-        "Mannitol diuresis"
+        "They remain unchanged in volume",
+        "They dehydrate and shrink",
+        "They swell due to water ingress",
+        "Increase fluid production"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In severe and acute hypernatremia, the increase in the osmolality of the extracellular fluid causes water to move from the inside of the brain cells to the outside, causing their dehydration and shrinkage. This can lead to serious neurological dysfunction.",
+      "hashtags": [
+        "nephrology",
+        "hypernatremia",
+        "pathophysiology",
+        "cellular_effects",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What hormone is primarily responsible for sodium reabsorption in the distal tubule?",
+      "options": [
+        "Calcitonin",
+        "Aldosterone",
+        "parathyroid hormone",
+        "Insulin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aldosterone is the main hormone responsible for sodium reabsorption and the secretion of potassium and hydrogen ions in the renal distal and collecting tubule. It acts through epithelial sodium channels (ENaC) and Na+/K+-ATPase pumps.",
+      "hashtags": [
+        "nephrology",
+        "physiology_sodium",
+        "pathophysiology",
+        "aldosterone_regulation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main underlying imbalance that characterizes hypernatremia in most cases?",
+      "options": [
+        "Increased renal sodium excretion",
+        "Decreased plasma osmolarity",
+        "Excess total body water",
+        "Deficit of free water compared to sodium"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Hypernatremia is defined as a serum sodium concentration greater than 145 mEq/L, being the fundamental result of a deficit of free water in relation to the total body sodium content. This imbalance increases serum osmolarity.",
+      "hashtags": [
+        "nephrology",
+        "hypernatremia",
+        "pathophysiology",
+        "hydrosaline_imbalance",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What effect does a deficiency of antidiuretic hormone (ADH) have on the pathophysiology of hypernatremia?",
+      "options": [
+        "Decreases potassium excretion",
+        "Alters free water reabsorption",
+        "Increases sodium reabsorption",
+        "Increases aldosterone secretion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ADH is crucial for the reabsorption of free water in the renal collecting ducts. An ADH deficiency, as in central or nephrogenic diabetes insipidus, prevents this reabsorption, resulting in excessive excretion of dilute urine and, consequently, hypernatremia.",
+      "hashtags": [
+        "nephrology",
+        "hypernatremia",
+        "pathophysiology",
+        "adh_diabetes_insipida",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the immediate cellular response of the brain to severe acute hypernatremia?",
+      "options": [
+        "Activation of sodium channels",
+        "Increase in cell volume",
+        "Reduction in cell size",
+        "Neurotransmitter production"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In acute hypernatremia, increased plasma osmolarity creates an osmotic gradient that draws water from the intracellular brain space into the extracellular space. This causes dehydration and shrinkage of brain cells, which can cause neurological symptoms.",
+      "hashtags": [
+        "neurology",
+        "hypernatremia",
+        "pathophysiology",
+        "brain_response",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "How does osmotic diuresis contribute to the development of hypernatremia?",
+      "options": [
+        "Causes disproportionate water loss",
+        "Reduces glomerular filtration",
+        "Increases tubular reabsorption",
+        "Induces excessive sodium excretion"
       ],
       "correctAnswer": 1,
-      "explanation": "Glycosuria, especially in decompensated diabetes mellitus (such as diabetic ketoacidosis or hyperglycemic hyperosmolar state), causes osmotic diuresis by drawing water into the kidney, contributing to hypernatremia.",
+      "explanation": "Osmotic diuresis occurs when non-reabsorbable solutes in the renal tubule carry away an excessive amount of water. If water loss is greater than sodium loss, the net result is an increase in serum sodium concentration, causing hypernatremia.",
+      "hashtags": [
+        "nephrology",
+        "hypernatremia",
+        "pathophysiology",
+        "osmotic_diuresis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main physiological compensatory mechanism to prevent hypernatremia?",
+      "options": [
+        "Decreased tubular reabsorption",
+        "Increased renal excretion",
+        "Stimulation of the thirst center",
+        "Natriuretic peptide release"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The thirst center, located in the hypothalamus, is the main defense mechanism against hypernatremia. It responds to increased plasma osmolarity by stimulating water intake, which helps dilute serum sodium and restore euvolemia.",
+      "hashtags": [
+        "nephrology",
+        "hypernatremia",
+        "pathophysiology",
+        "compensatory_mechanism",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What process allows brain cells to adapt to chronic hypernatremia?",
+      "options": [
+        "Activation of potassium channels",
+        "Generation of ideogenic osmolytes",
+        "Increase of the sodium-potassium pump",
+        "Contractile protein synthesis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In chronic hypernatremia, brain cells adapt by producing and accumulating ideogenic osmolytes. These intracellular solutes increase cellular osmolarity, counteracting initial shrinkage and restoring cell volume to protect function.",
+      "hashtags": [
+        "neurology",
+        "hypernatremia",
+        "pathophysiology",
+        "chronic_cellular_adaptation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What type of water loss is most commonly associated with the development of hypernatremia?",
+      "options": [
+        "Hypotonic water loss",
+        "Equitable sodium and water loss",
+        "Loss of pure water",
+        "Isotonic water loss"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hypernatremia develops mainly due to a loss of pure water or hypotonic solutions, meaning that more water is lost than solutes. Insensible losses, such as through the skin or breathing, are common examples of pure water loss.",
+      "hashtags": [
+        "nephrology",
+        "hypernatremia",
+        "pathophysiology",
+        "lost_pure_water",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What direct mechanism causes hypernatremia due to excessive sodium intake?",
+      "options": [
+        "Reduced ADH secretion",
+        "Decreased sodium reabsorption",
+        "Increase in plasma osmolarity",
+        "Increased renal water excretion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Excessive sodium intake, if not accompanied by a proportional water intake, directly increases sodium concentration in the plasma. This increases plasma osmolarity, drawing water from the intracellular space and causing cellular dehydration and hypernatremia.",
+      "hashtags": [
+        "nephrology",
+        "hypernatremia",
+        "pathophysiology",
+        "excessive_sodium_intake",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main mechanism of hypernatremia in severe gastrointestinal losses?",
+      "options": [
+        "Hypotonic fluid loss",
+        "Decreased glomerular filtration",
+        "Increased sodium absorption",
+        "Inhibition of ADH secretion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gastrointestinal losses, such as severe diarrhea or vomiting, can lead to hypernatremia if the fluids lost are hypotonic (i.e., have a lower sodium concentration than plasma). This results in a disproportionate loss of water relative to sodium.",
+      "hashtags": [
+        "gastroenterology",
+        "hypernatremia",
+        "pathophysiology",
+        "gastrointestinal_losses",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Why can severe hyperglycemia contribute to apparent or actual hypernatremia?",
+      "options": [
+        "Causes osmotic diuresis",
+        "Directly inhibits ADH",
+        "Increases tubular reabsorption",
+        "Stimulates the release of aldosterone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Severe hyperglycemia increases renal tubular fluid osmolarity, leading to significant osmotic diuresis. This diuresis is characterized by a loss of water disproportionately greater than that of sodium, which can cause or exacerbate hypernatremia.",
       "hashtags": [
         "endocrinology",
         "hypernatremia",
-        "etiology",
-        "glucosuria",
-        "PATHOLOGY",
+        "pathophysiology",
+        "hyperglycemia_diuresis",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is an iatrogenic cause of net sodium gain?",
+      "question": "What is the most common initial neurological manifestation in acute hypernatremia?",
       "options": [
-        "loop diuretics",
-        "Lactated Ringer's Infusion",
-        "Administration of 3% NaCl",
-        "Gastrointestinal losses"
+        "Anisochoric pupils",
+        "sudden hemiparesis",
+        "Lethargy and weakness",
+        "Focal seizures"
       ],
       "correctAnswer": 3,
-      "explanation": "Administration of hypertonic sodium solutions, such as 3% saline (3% NaCl), is an iatrogenic cause of net sodium gain that can lead to hypervolemic hypernatremia.",
+      "explanation": "In acute hypernatremia, the rapid increase in serum osmolality causes dehydration of brain cells. This initially manifests itself with nonspecific symptoms such as lethargy, weakness, irritability or confusion, before progressing to more serious symptoms if the electrolyte disturbance is not corrected.",
       "hashtags": [
-        "nephrology",
+        "internal_medicine",
         "hypernatremia",
-        "etiology",
-        "iatrogenic_sodium_gain",
-        "PATHOLOGY",
+        "clinical_manifestations",
+        "initial_symptoms",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What alteration in the elderly contributes to the risk of hypernatremia?",
+      "question": "What serious neurological symptom may indicate severe hypernatremia?",
       "options": [
-        "Increased thirst",
-        "motor hyperactivity",
-        "Higher body water content",
-        "Decreased kidney capacity"
+        "Seizures and coma",
+        "Distal paresthesias",
+        "Transient dysarthria",
+        "Mild throbbing headache"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Severe hypernatremia, with very high sodium concentrations or a very rapid rise, can cause severe cerebral dehydration and severe neurological dysfunction. The occurrence of generalized seizures and the development of coma are indicators of critical neurological compromise and require immediate intervention.",
+      "hashtags": [
+        "emergencies",
+        "hypernatremia",
+        "clinical_manifestations",
+        "severe_symptoms",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main mechanism of brain adaptation to chronic hypernatremia?",
+      "options": [
+        "Accumulation of idiogenic osmoles",
+        "Increased cerebral blood flow",
+        "Decreased blood-brain barrier",
+        "Sodium-potassium pump activation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In chronic hypernatremia, brain cells adapt to extracellular hyperosmolality through the synthesis and intracellular accumulation of osmotically active substances, such as amino acids or polyalcohols, known as idiogenic osmoles. These increase intracellular osmolality, counteracting water loss and protecting the brain from excessive dehydration.",
+      "hashtags": [
+        "pathophysiology",
+        "hypernatremia",
+        "pathophysiology",
+        "brain_adaptation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What neurological complication is associated with rapid correction of chronic hypernatremia?",
+      "options": [
+        "Central pontine myelinolysis",
+        "Sagittal sinus thrombosis",
+        "malignant hyperthermia",
+        "Acute cerebral edema"
       ],
       "correctAnswer": 4,
-      "explanation": "The elderly are vulnerable to hypernatremia due to decreased thirst perception, lower total body water content, and reduced renal concentrating ability.",
+      "explanation": "Too rapid correction of chronic hypernatremia can be dangerous. After brain adaptation with idiogenic osmoles, if plasma sodium decreases abruptly, the brain remains relatively hyperosmolar with respect to plasma. This causes a rapid influx of water into the brain cells, resulting in brain edema and risk of herniation.",
       "hashtags": [
-        "geriatrics",
-        "hypernatremia",
-        "epidemiology",
-        "elderly_risk",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What mechanism does the brain adapt to chronic hyperosmolarity?",
-      "options": [
-        "Accumulation of ideogenic osmolytes",
-        "Decreased blood-brain barrier",
-        "Reduction in neuronal size",
-        "Increased blood flow"
-      ],
-      "correctAnswer": 1,
-      "explanation": "In response to chronic hyperosmolarity, brain cells activate adaptive mechanisms by generating and accumulating ideogenic (organic) osmolytes in their cytoplasm, thus partially restoring their volume and protecting them from excessive retraction.",
-      "hashtags": [
-        "neurology",
-        "hypernatremia",
-        "pathophysiology",
-        "ideogenic_osmolytes",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main pathophysiological impact of hypernatremia?",
-      "options": [
-        "cellular dehydration",
-        "Pulmonary edema",
-        "metabolic acidosis",
-        "High blood pressure"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The main pathophysiological impact of hypernatremia is cellular dehydration induced by the osmotic movement of water from the intracellular to the extracellular compartment, severely affecting the brain.",
-      "hashtags": [
-        "pathophysiology",
-        "hypernatremia",
-        "pathophysiology",
-        "cellular_dehydration",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What happens if chronic hypernatremia is quickly corrected?",
-      "options": [
-        "Brain edema",
-        "Improved mental status",
-        "Rapid kidney recovery",
-        "Increased serum potassium"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Rapid correction of chronic hypernatremia can cause cerebral edema, as water moves rapidly into brain cells that have accumulated osmolytes, increasing their volume.",
-      "hashtags": [
-        "neurology",
+        "nephrology",
         "hypernatremia",
         "complications",
-        "brain_edema",
-        "PATHOLOGY",
+        "quick_fix",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What serious neurological symptom is associated with severe acute hypernatremia?",
+      "question": "What clinical sign is common in patients with hypernatremia and dehydration?",
       "options": [
-        "Occasional dizziness",
-        "Seizures",
-        "fine tremor",
-        "Mild paresthesias"
+        "Edema of extremities",
+        "Decreased skin turgor",
+        "Marked bradycardia",
+        "Cold and pale skin"
       ],
       "correctAnswer": 2,
-      "explanation": "Seizures are a serious sign of brain dysfunction in hypernatremia, especially when it is acute and severe, with sodium levels above 158-160 mEq/L.",
+      "explanation": "Hypernatremia is often accompanied by extracellular dehydration, which involves a loss of total body water. Decreased skin turgor, along with dry mucous membranes and sunken eyes, are classic signs of dehydration that reflect the contraction of the volume of body fluids in these patients.",
       "hashtags": [
-        "neurology",
+        "internal_medicine",
         "hypernatremia",
-        "clinical_table",
-        "seizures",
-        "PATHOLOGY",
+        "clinical_manifestations",
+        "signs_dehydration",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is the main defense mechanism against hypernatremia?",
+      "question": "What is the main mechanism of neurological symptoms in acute hypernatremia?",
       "options": [
-        "breathing",
-        "sweat",
-        "urination",
-        "the thirst"
+        "Selective neuronal ischemia",
+        "Brain cellular dehydration",
+        "Brain cellular swelling",
+        "Increased cerebral blood flow"
       ],
-      "correctAnswer": 4,
-      "explanation": "Thirst is the main physiological defense mechanism against hypernatremia, motivating fluid intake to replace water deficit and normalize plasma osmolarity.",
+      "correctAnswer": 2,
+      "explanation": "In acute hypernatremia, increased sodium concentration in the extracellular fluid rapidly increases plasma osmolality. This creates a powerful osmotic gradient that draws water from inside brain cells into the extracellular space, causing dehydration, cellular shrinkage, and consequently neurological dysfunction.",
       "hashtags": [
         "pathophysiology",
         "hypernatremia",
-        "clinical_table",
-        "sed_mechanism",
-        "PATHOLOGY",
+        "pathophysiology",
+        "symptom_mechanism",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What sign of dehydration is not reliable in the elderly?",
+      "question": "What is the main brain protection against rapid volume changes?",
       "options": [
-        "sunken eyes",
-        "dry mucous membranes",
-        "Absence of tears",
-        "Decreased turgor"
+        "Synthesis of idiogenic osmoles",
+        "Elasticity of the meninges",
+        "Vascular self-regulation capacity",
+        "Impenetrable blood-brain barrier"
       ],
-      "correctAnswer": 4,
-      "explanation": "Decreased skin turgor is less reliable in the elderly as an indicator of dehydration due to the natural loss of skin elasticity associated with aging.",
+      "correctAnswer": 1,
+      "explanation": "The brain has adaptation mechanisms to protect itself from sudden changes in cell volume. The synthesis and accumulation or rapid elimination of idiogenic osmoles is crucial to equalize intracellular with extracellular osmolality, thus minimizing cell volume changes that could lead to dehydration or brain edema.",
+      "hashtags": [
+        "pathophysiology",
+        "hypernatremia",
+        "pathophysiology",
+        "brain_defense",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What risk factor increases susceptibility to neurological complications in hypernatremia?",
+      "options": [
+        "Chronic alcohol consumption",
+        "Older age with comorbidities",
+        "Controlled arterial hypertension",
+        "Regular physical exercise"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Elderly patients, especially those with comorbidities such as pre-existing neurological diseases, dementia or alterations in thirst perception, are more vulnerable to developing serious neurological complications due to hypernatremia due to their lower physiological compensation capacity and greater brain fragility.",
       "hashtags": [
         "geriatrics",
         "hypernatremia",
-        "concept",
-        "elderly_skin_turgor",
-        "PATHOLOGY",
+        "complications",
+        "neurological_risk_factors",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Which finding is characteristic of hypervolemic hypernatremia?",
+      "question": "Which of these neurological symptoms suggests more advanced involvement in hypernatremia?",
       "options": [
-        "Oliguria",
-        "Orthostatic hypotension",
-        "dry mucous membranes",
-        "Peripheral edema"
+        "Loss of tendon reflexes",
+        "Mild irritability",
+        "Difficulty concentrating",
+        "Generalized seizures"
       ],
       "correctAnswer": 4,
-      "explanation": "Patients with hypervolemic hypernatremia present with signs of volume overload, such as peripheral edema, pulmonary edema, weight gain, and jugular venous distention.",
+      "explanation": "While irritability, difficulty concentrating, or lethargy are initial or moderate symptoms of brain dysfunction in hypernatremia, the occurrence of generalized seizures indicates significant neuronal dysfunction and severe and advanced neurological compromise due to severe brain dehydration.",
       "hashtags": [
-        "nephrology",
+        "emergencies",
         "hypernatremia",
-        "clinical_table",
-        "hypervolemia_signs",
-        "PATHOLOGY",
+        "clinical_manifestations",
+        "severe_neurological_compromise",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is the expected urine osmolarity in dehydration due to fever?",
+      "question": "What is the brain's main strategy to avoid edema during correction of chronic hypernatremia?",
       "options": [
-        "Greater than 800 mOsm/kg",
-        "Equals plasma osmolarity",
-        "Less than 150 mOsm/kg",
-        "Between 300-500 mOsm/kg"
-      ],
-      "correctAnswer": 1,
-      "explanation": "In dehydration due to extrarenal losses, such as fever, the kidneys attempt to conserve water in response to ADH, resulting in highly concentrated urine, typically greater than 800 mOsm/kg.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "diagnosis",
-        "urinary_osmolarity_fever",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What test confirms nephrogenic diabetes insipidus?",
-      "options": [
-        "Low plasma ADH level",
-        "Response to desmopressin",
-        "Lack of response to desmopressin",
-        "High urinary osmolarity"
+        "Selective closure of water channels",
+        "Increased venous blood flow",
+        "Rapid excretion of idiogenic osmoles",
+        "Rapid increase in cell volume"
       ],
       "correctAnswer": 3,
-      "explanation": "Nephrogenic diabetes insipidus is diagnosed by the lack of significant response of urinary osmolarity to desmopressin administration, since the kidneys are resistant to ADH.",
+      "explanation": "When chronic hypernatremia is corrected, the brain must rapidly remove the idiogenic osmoles it has accumulated to prevent edema. If these osmoles are not excreted in time, the intracellular osmolality would remain high compared to the now hyposmolar extracellular medium, causing a massive influx of water and cerebral edema.",
+      "hashtags": [
+        "pathophysiology",
+        "hypernatremia",
+        "pathophysiology",
+        "adaptation_correction",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the first essential urinary parameter to evaluate when hypernatremia is suspected to guide the differential diagnosis?",
+      "options": [
+        "Urine osmolarity",
+        "urinary sodium",
+        "urinary potassium",
+        "urinary glucose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Urine osmolarity is the most critical initial parameter in the diagnosis of hypernatremia. It allows us to quickly distinguish between causes with loss of free water (low osmolarity) and those with loss of water and solutes or excessive sodium intake (high osmolarity, kidney trying to conserve water).",
+      "hashtags": [
+        "nephrology",
+        "hypernatremia",
+        "initial_evaluation",
+        "urinary_osmolarity",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In a patient with hypernatremia and persistently low urine osmolarity (<300 mOsm/kg), which diagnosis should primarily be considered?",
+      "options": [
+        "Diabetes insipidus",
+        "Gastrointestinal losses",
+        "Fever and sweating",
+        "Osmotic diuresis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An inappropriately low urine osmolarity in the presence of hypernatremia is the hallmark of diabetes insipidus (central or nephrogenic), since the kidney is unable to concentrate urine despite elevation of plasma osmolarity.",
       "hashtags": [
         "nephrology",
         "hypernatremia",
         "diagnosis",
-        "di_nephrogenic_diagnosis",
-        "PATHOLOGY",
+        "diabetes_insipidus",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What type of hypernatremia is the most common?",
+      "question": "A hypernatremic patient has high urinary osmolarity (>700-800 mOsm/kg). What does this finding imply in diagnostic terms?",
       "options": [
-        "Hypervolemic",
-        "Hypovolemic",
-        "Euvolemic",
-        "Normovolemic"
+        "Diabetes insipidus",
+        "Extrarenal water loss",
+        "Inappropriate secretion syndrome",
+        "Chronic kidney failure"
       ],
       "correctAnswer": 2,
-      "explanation": "Hypovolemic hypernatremia is the most common form; it occurs when there is a disproportionate loss of free water compared to sodium, leading to depletion of both extracellular and intracellular volumes.",
+      "explanation": "A high urine osmolarity in hypernatremia indicates that the kidney is responding appropriately by conserving water. This suggests that the cause is a loss of water of extrarenal origin (e.g. gastrointestinal, cutaneous, respiratory) or insufficient intake, and not an alteration in the renal concentrating capacity.",
+      "hashtags": [
+        "internal_medicine",
+        "hypernatremia",
+        "laboratory_interpretation",
+        "extrarenal_losses",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the expected value of urinary sodium in a patient with hypernatremia due to pure water deficit without significant extracellular volume depletion?",
+      "options": [
+        "High (>100 mEq/L)",
+        "Undetectable",
+        "Low (<20 mEq/L)",
+        "Normal (40-60 mEq/L)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In a pure water deficit, the kidney attempts to conserve both water (maximum urinary concentration) and sodium to maintain volume. Active sodium reabsorption at the tubular level results in low urinary sodium, indicating an appropriate conservative renal response.",
       "hashtags": [
         "nephrology",
         "hypernatremia",
-        "concept",
-        "hypovolemic_hypernatremia",
-        "PATHOLOGY",
+        "pathophysiology",
+        "low_urinary_sodium",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is the maximum rate of sodium decline in chronic hypernatremia?",
+      "question": "How would we expect to find urinary sodium in a patient with hypernatremia secondary to osmotic diuresis due to severe hyperglycemia?",
       "options": [
-        "More than 15 mEq/L/day",
-        "0.5 mEq/L/hour",
-        "1-2 mEq/L/hour",
-        "2-3 mEq/L/hour"
+        "Normal (40-60 mEq/L)",
+        "Very low (<10 mEq/L)",
+        "Extremely low",
+        "Moderately high"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In osmotic diuresis, excess solutes such as glucose in the renal tubule prevent normal reabsorption of water and electrolytes. This causes a 'washout' of sodium, resulting in urinary sodium that is moderately elevated, despite the patient's potential volume depletion.",
+      "hashtags": [
+        "endocrinology",
+        "hypernatremia",
+        "pathophysiology",
+        "osmotic_diuresis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "When a patient with hypernatremia has inappropriately low urinary osmolarity (<300 mOsm/kg) and low urinary sodium, what is the most likely underlying condition?",
+      "options": [
+        "Diabetes insipidus",
+        "Osmotic diuresis",
+        "Excess mineralocorticoids",
+        "Gastrointestinal losses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This combination is characteristic of diabetes insipidus (central or nephrogenic) where the kidney cannot concentrate urine (low osmolarity) but is responding to volume depletion (often associated with severe hypernatremia) by conserving sodium (low urinary sodium).",
+      "hashtags": [
+        "nephrology",
+        "diabetes_insipidus",
+        "differential_diagnosis",
+        "u_osm_u_na",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "A kidney functioning correctly in response to hypernatremia and free water deficit, what patterns of urinary osmolarity and sodium would it show?",
+      "options": [
+        "Low U_osm and high U_Na",
+        "High U_osm and high U_Na",
+        "High U_osm and low U_Na",
+        "Low U_osm and low U_Na"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A healthy, functional kidney, faced with a free water deficit causing hypernatremia, will maximize water reabsorption (resulting in high urinary osmolarity) and will also conserve sodium to maintain effective circulating volume (resulting in low urinary sodium).",
+      "hashtags": [
+        "renal_physiology",
+        "water_homeostasis",
+        "pathophysiology",
+        "normal_renal_response",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What value of urine osmolarity would you expect to find in a patient with hypernatremia caused by insensible water losses without alteration of renal function?",
+      "options": [
+        "Variable, depending on hydration",
+        "300-600 mOsm/kg",
+        "<300 mOsm/kg",
+        ">700-800 mOsm/kg"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Insensible water losses (skin, breathing) cause a free water deficit. In a patient with normal renal function, the kidney will compensate by maximally concentrating urine to save water, which is reflected in a very high urine osmolarity, typically >700-800 mOsm/kg.",
+      "hashtags": [
+        "nephrology",
+        "hypernatremia",
+        "initial_evaluation",
+        "insensible_losses",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "If hypernatremia is caused by excessive sodium intake (e.g., hypertonic saline solutions), what would urinary sodium be expected to be?",
+      "options": [
+        "Normal (40-60 mEq/L)",
+        "Very low (<10 mEq/L)",
+        "Moderately low (20-40 mEq/L)",
+        "Very high (>100 mEq/L)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "When faced with sodium overload, the kidney activates mechanisms to excrete the excess. This includes the excretion of large amounts of sodium in the urine, resulting in very high urinary sodium, in an attempt to restore electrolyte and volume balance.",
+      "hashtags": [
+        "internal_medicine",
+        "hypernatremia",
+        "diagnosis",
+        "sodium_overload",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In a patient with suspected nephrogenic diabetes insipidus and hypernatremia, without performing a desmopressin test, what pattern of osmolarity and urinary sodium is the most characteristic?",
+      "options": [
+        "Low Osmolarity, High Sodium",
+        "Low Osmolarity, Low Sodium",
+        "High Osmolarity, Low Sodium",
+        "High Osmolarity, High Sodium"
       ],
       "correctAnswer": 2,
-      "explanation": "For chronic hypernatremia, correction should be slow, no more than 0.5 mEq/L/hour (or 8-10 mEq/L in the first 24 hours), to avoid the risk of cerebral edema.",
+      "explanation": "In nephrogenic diabetes insipidus, the kidney cannot respond to vasopressin, resulting in low urine osmolarity (inability to concentrate). If the patient is hypernatremic with some degree of volume depletion, the kidney will compensate by conserving sodium, leading to low urinary sodium.",
+      "hashtags": [
+        "nephrology",
+        "diabetes_insipidus",
+        "differential_diagnosis",
+        "nephrogenica_u_osm_u_na",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the preferred fluid to correct free water deficit in a patient with normovolemic hypernatremia?",
+      "options": [
+        "Dextrose 5% in water",
+        "Saline 0.9%",
+        "Saline 0.45%",
+        "Lactated Ringer's"
+      ],
+      "correctAnswer": 1,
+      "explanation": "5% dextrose in water (D5W) is the liquid of choice to correct the free water deficit in normovolemic patients with hypernatremia, since it provides water without a significant contribution of electrolytes once glucose is metabolized.",
+      "hashtags": [
+        "internal_medicine",
+        "hypernatremia",
+        "treatment",
+        "water_reposition",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the maximum recommended rate to reduce serum sodium in chronic hypernatremia, to avoid complications?",
+      "options": [
+        "2-4 mEq/L/24h",
+        "10-12 mEq/L/24h",
+        "15-20 mEq/L/24h",
+        "6-8 mEq/L/24h"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correction of serum sodium in chronic hypernatremia should be slow to avoid cerebral edema, with a maximum recommended reduction of 10-12 mEq/L in the first 24 hours and no more than 18 mEq/L in 48 hours.",
       "hashtags": [
         "nephrology",
         "hypernatremia",
         "treatment",
         "speed_correction",
-        "PATHOLOGY",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What fluid is used initially in hypovolemic hypernatremia with shock?",
+      "question": "Which agent is key in the treatment of hypernatremia caused by central diabetes insipidus?",
       "options": [
-        "Saline solution 0.45%",
-        "5% dextrose",
-        "Sterile water",
-        "Normal saline 0.9%"
-      ],
-      "correctAnswer": 4,
-      "explanation": "In patients with severe hypovolemic hypernatremia and hemodynamic compromise (shock), the priority is to restore circulating volume with isotonic solutions, such as 0.9% normal saline.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "treatment",
-        "shock_fluids",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What medication treats central diabetes insipidus?",
-      "options": [
-        "Furosemide",
-        "Lithium",
-        "Desmopressin",
-        "Hydrochlorothiazide"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Central diabetes insipidus is treated with desmopressin, a synthetic analogue of antidiuretic hormone (ADH), which replaces ADH deficiency and reduces diuresis.",
-      "hashtags": [
-        "endocrinology",
-        "hypernatremia",
-        "treatment",
-        "desmopressin_di_central",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What electrolytes should be monitored every 2-4 hours in hypernatremia?",
-      "options": [
-        "Sodium, potassium and chlorine",
-        "Glucose and lactate",
-        "Magnesium and calcium",
-        "Phosphorus and bicarbonate"
-      ],
-      "correctAnswer": 1,
-      "explanation": "It is crucial to monitor serum electrolytes (sodium, potassium, chloride) every 2-4 hours initially in the treatment of hypernatremia, to ensure sodium declines predictably and safely.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "diagnosis",
-        "electrolyte_monitoring",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What would a BUN/Creatinine > 20:1 indicate in hypernatremia?",
-      "options": [
-        "Glomerulonephritis",
-        "Chronic kidney failure",
-        "Pre-kidney failure (prerenal)",
-        "Acute tubular injury"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A BUN/Creatinine ratio > 20:1, along with elevation of both, suggests pre-renal (prerenal) failure due to severe dehydration, common in hypovolemic hypernatremia.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "diagnosis",
-        "bun_creatinine",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which neurological symptom is not associated with severe hypernatremia?",
-      "options": [
-        "Ataxia",
-        "Coma",
-        "Neck stiffness",
-        "Exaggerated reflexes"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Severe hypernatremia can cause coma, neck stiffness, and ataxia due to brain retraction, but changes in deep tendon reflexes are nonspecific and are not considered a hallmark symptom of severity.",
-      "hashtags": [
-        "neurology",
-        "hypernatremia",
-        "clinical_table",
-        "neurological_symptoms",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the urine osmolarity in complete central DI?",
-      "options": [
-        "Equals plasma osmolarity",
-        "> 800 mOsm/kg",
-        "Between 500-700 mOsm/kg",
-        "< 150 mOsm/kg"
-      ],
-      "correctAnswer": 4,
-      "explanation": "In complete central diabetes insipidus, ADH deficiency leads to an extreme inability to concentrate urine, resulting in a very low urine osmolarity, typically less than 150 mOsm/kg.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "diagnosis",
-        "central_di_osmolarity",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is primary hypodipsia in the context of hypernatremia?",
-      "options": [
-        "Hypothalamic osmoreceptor dysfunction",
-        "Kidney inability to respond to ADH",
-        "Excess ADH",
-        "Kidney water loss"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Primary hypodipsia is a dysfunction of the hypothalamic osmoreceptors, leading to an alteration of the thirst center, where the patient does not feel thirst despite hypernatremia and hyperosmolarity.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "etiology",
-        "primary_hypodipsia",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is seen on physical examination for hypervolemic hypernatremia?",
-      "options": [
-        "Decreased skin turgor",
-        "Pulmonary edema",
-        "dry mucous membranes",
-        "Orthostatic hypotension"
-      ],
-      "correctAnswer": 2,
-      "explanation": "In hypervolemic hypernatremia, signs of volume overload such as pulmonary edema (crackles, dyspnea), jugular venous distention, and peripheral edema are observed.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "concept",
-        "signs_hypervolemia",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is an ideogenic osmolyte accumulated in the brain due to chronic hypernatremia?",
-      "options": [
-        "Chlorine",
-        "Sodium",
-        "Glutamine",
-        "Calcium"
-      ],
-      "correctAnswer": 3,
-      "explanation": "In brain adaptation to chronic hypernatremia, brain cells accumulate ideogenic osmolytes such as amino acids (e.g. taurine, glutamine), methylamines and inositols to restore their volume.",
-      "hashtags": [
-        "neurology",
-        "hypernatremia",
-        "pathophysiology",
-        "osmolytes_glutamine",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which population has the highest prevalence of hypernatremia in the ICU?",
-      "options": [
-        "Patients with acute appendicitis",
-        "Patients with pancreatitis",
-        "Asthma patients",
-        "Patients with traumatic brain injury"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The prevalence of hypernatremia is especially high in critically ill patients, such as those with head trauma or subarachnoid hemorrhage, due to factors such as altered consciousness and possible central DI.",
-      "hashtags": [
-        "neurology",
-        "hypernatremia",
-        "epidemiology",
-        "cranioencephalic_trauma_icu",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What type of hypernatremia is associated with low ADH levels?",
-      "options": [
-        "Osmotic diuresis",
-        "Dehydration due to diarrhea",
-        "center DI",
-        "Nephrogenic DI"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Central diabetes insipidus is characterized by low or undetectable ADH levels despite hypernatremia and plasma hyperosmolarity, due to a deficiency in its production or release.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "diagnosis",
-        "adh_di_central_levels",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What factor does not contribute to hypernatremia in infants?",
-      "options": [
-        "Kidney immaturity",
-        "Higher surface/volume ratio",
-        "Higher body water content",
-        "Inability to communicate thirst"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Infants are vulnerable to hypernatremia because of their higher body surface area to volume ratio, inability to communicate thirst, and renal immaturity, not because of higher body water content, which is in fact a protective factor.",
-      "hashtags": [
-        "pediatrics",
-        "hypernatremia",
-        "epidemiology",
-        "infant_risk",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What does a urinary osmolarity < 300 mOsm/kg mean in hypernatremia?",
-      "options": [
-        "Diabetes insipidus",
-        "Severe dehydration",
-        "Extrarenal losses",
-        "Kidney conserving water"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A low urine osmolarity (<300 mOsm/kg) despite hypernatremia and plasma hyperosmolarity indicates an inability of the kidney to concentrate urine, which is characteristic of diabetes insipidus.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "diagnosis",
-        "low urinary_osmolarity",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is pseudohypernatremia?",
-      "options": [
-        "Excess salt intake",
-        "Real high serum sodium",
-        "Asymptomatic hypernatremia",
-        "Laboratory error due to lipids/proteins"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Pseudohypernatremia is an artificial increase in serum sodium measured by certain laboratory methods in the presence of a very high proportion of lipids (severe hypertriglyceridemia) or proteins in the plasma, not true hypernatremia.",
-      "hashtags": [
-        "laboratory",
-        "hypernatremia",
-        "concept",
-        "pseudohypernatremia",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What characterizes euvolemic hypernatremia?",
-      "options": [
-        "Net sodium gain",
-        "Water and sodium loss",
-        "Overhydration",
-        "Loss of free water without sodium"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Euvolemic hypernatremia involves a net loss of free water without a significant loss of sodium, maintaining relatively normal intravascular volume, with diabetes insipidus being its prototype.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "concept",
-        "euvolemic_hypernatremia",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What severity classification corresponds to serum sodium > 160 mEq/L?",
-      "options": [
-        "Mild",
-        "Serious",
-        "Moderate",
-        "Criticism"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Severe hypernatremia is classified as a serum sodium greater than 160 mEq/L, which is associated with high mortality and severe neurological symptoms such as stupor, coma, and seizures.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "concept",
-        "gravity",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What fluid is the first choice for euvolemic hypernatremia?",
-      "options": [
-        "Saline solution 0.9%",
-        "5% dextrose in water",
-        "3% saline solution",
-        "Lactated Ringer's"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Dextrose 5% in water (D5W) is the first choice for euvolemic hypernatremia, as it provides sodium-free free water, which helps to gradually reduce plasma osmolarity.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "treatment",
-        "euvolemic_fluids",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What diuretic is used in nephrogenic DI to reduce urine output?",
-      "options": [
-        "Mannitol",
-        "Furosemide",
+        "Indomethacin",
+        "Desmopressin (DDAVP)",
         "Hydrochlorothiazide",
-        "Acetazolamide"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Thiazide diuretics, such as hydrochlorothiazide, are paradoxically used in nephrogenic diabetes insipidus to reduce diuresis by inducing mild volume depletion that increases sodium and water reabsorption in the proximal tubule.",
-      "hashtags": [
-        "pharmacology",
-        "hypernatremia",
-        "treatment",
-        "thiazides_di_nephrogenic",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What neurological sign can occur due to cerebral retraction in hypernatremia?",
-      "options": [
-        "Miosis",
-        "Shaking",
-        "Subarachnoid hemorrhage",
-        "Throbbing headache"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Brain retraction in hypernatremia can stretch and rupture the blood vessels connecting the brain to the meninges, which can lead to intracerebral or subarachnoid hemorrhages.",
-      "hashtags": [
-        "neurology",
-        "hypernatremia",
-        "complications",
-        "subarachnoid_hemorrhage",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What should be monitored daily in addition to water balance?",
-      "options": [
-        "capillary glucose level",
-        "Oxygen saturation",
-        "Body temperature",
-        "body weight"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Daily body weight is an excellent indicator of changes in fluid volume, and it is essential to monitor it in patients with hypernatremia to evaluate the response to treatment.",
-      "hashtags": [
-        "internal_medicine",
-        "hypernatremia",
-        "diagnosis",
-        "weight_monitoring",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the cause of nephrogenic DI in multiple myeloma?",
-      "options": [
-        "pituitary destruction",
-        "ADH production",
-        "Potassium deficiency",
-        "Chronic hypercalcemia"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Chronic hypercalcemia is one of the acquired causes of nephrogenic diabetes insipidus, and may be present in diseases such as multiple myeloma, affecting the renal response to ADH.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "etiology",
-        "di_nephrogenic_hypercalcemia",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What symptom is common in conscious patients with hypernatremia?",
-      "options": [
-        "intense thirst",
-        "Anorexia",
-        "Oliguria",
-        "Polyuria"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Intense thirst is a prominent symptom in most conscious patients with hypernatremia, as it is the main defense mechanism to replenish water deficit.",
-      "hashtags": [
-        "internal_medicine",
-        "hypernatremia",
-        "clinical_table",
-        "intense_thirst",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the in-hospital mortality associated with hypernatremia?",
-      "options": [
-        "70-80%",
-        "40-60%",
-        "5-10%",
-        "15-25%"
+        "Furosemide"
       ],
       "correctAnswer": 2,
-      "explanation": "Hypernatremia is associated with a significantly high in-hospital mortality, ranging between 40-60%, indicating its severity as a marker of underlying disease.",
-      "hashtags": [
-        "internal_medicine",
-        "hypernatremia",
-        "epidemiology",
-        "hospital_mortality",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the 'fold sign' on physical examination?",
-      "options": [
-        "skin ecchymosis",
-        "Skin fold that persists",
-        "parchment skin",
-        "dry skin"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The 'fold sign' refers to a skin fold that persists for more than 2-3 seconds after clamping, indicating a decrease in interstitial fluid and dehydration.",
-      "hashtags": [
-        "internal_medicine",
-        "hypernatremia",
-        "concept",
-        "fold_sign",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What serum osmolarity is indicative of hyperosmolarity in hypernatremia?",
-      "options": [
-        "> 295 mOsm/kg",
-        "280-295 mOsm/kg",
-        "< 280 mOsm/kg",
-        "> 350 mOsm/kg"
-      ],
-      "correctAnswer": 1,
-      "explanation": "In hypernatremia, the effective serum osmolarity will always be elevated (>295 mOsm/kg), confirming a true hyperosmolar state caused primarily by sodium.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "diagnosis",
-        "high_serum_osmolarity",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What causes hypernatremia in the hyperglycemic hyperosmolar state?",
-      "options": [
-        "Excessive sodium intake",
-        "insulin resistance",
-        "Excessive production of ADH",
-        "Osmotic glucose diuresis"
-      ],
-      "correctAnswer": 4,
-      "explanation": "In the hyperglycemic hyperosmolar state, glucose not reabsorbed in the kidney acts as an osmotic diuretic, drawing in water and causing a loss of free water leading to hypernatremia.",
+      "explanation": "Desmopressin (DDAVP) is a synthetic analogue of antidiuretic hormone (ADH) and is the treatment of choice for central diabetes insipidus, by replacing ADH deficiency and reducing aqueous diuresis.",
       "hashtags": [
         "endocrinology",
         "hypernatremia",
-        "etiology",
-        "osmotic_hyperglycemia",
-        "PATHOLOGY",
+        "treatment",
+        "central_diabetes_insipidus",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is evaluated in the Water Deprivation Test for ID?",
+      "question": "What intervention is prioritized in severe hypernatremia due to iatrogenic sodium and volume overload?",
       "options": [
-        "Urine glucose level",
-        "Kidney concentration capacity",
-        "Total blood volume",
-        "sodium excretion"
+        "Oral water restriction",
+        "loop diuretics",
+        "Antidiuretics",
+        "Saline solutions 0.9%"
       ],
       "correctAnswer": 2,
-      "explanation": "The Water Deprivation Test (Thirst Test) evaluates the kidney's ability to concentrate urine in the absence of water intake and its response to exogenous ADH, being key to diagnosing diabetes insipidus.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "diagnosis",
-        "water_privation_test",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What type of hypernatremia results from 3% NaCl infusion?",
-      "options": [
-        "Hypovolemic",
-        "Euvolemic",
-        "Diuretic",
-        "Hypervolemic"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Infusion of hypertonic sodium solutions, such as 3% NaCl, results in a net sodium gain that exceeds the water gain, leading to hypervolemic hypernatremia with increased extracellular volume.",
+      "explanation": "In cases of severe hypernatremia due to iatrogenic sodium overload, especially if volume expanded, the treatment of choice is the administration of loop diuretics to promote renal excretion of sodium and water. This is usually combined with Dextrose 5% in water (D5W).",
       "hashtags": [
         "internal_medicine",
         "hypernatremia",
-        "etiology",
-        "nacl_hypertonic",
-        "PATHOLOGY",
+        "treatment",
+        "sodium_overload",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What complication is avoided with the gradual correction of chronic hypernatremia?",
+      "question": "What serious complication can result from excessively rapid correction of chronic hypernatremia?",
       "options": [
+        "Hypoglycemia",
         "Brain edema",
-        "Heart failure",
-        "Hypocalcemia",
-        "Seizures"
+        "Pontine myelinolysis",
+        "intracranial hypertension"
       ],
-      "correctAnswer": 1,
-      "explanation": "Gradual correction of chronic hypernatremia is essential to avoid cerebral edema, which occurs due to the rapid influx of water into osmolyte-adapted brain cells if extracellular osmolarity decreases abruptly.",
+      "correctAnswer": 2,
+      "explanation": "Too rapid correction of chronic hypernatremia can lead to a shift of water into brain cells, causing cerebral edema and its serious neurological consequences, including seizures and coma.",
       "hashtags": [
-        "neurology",
+        "nephrology",
         "hypernatremia",
-        "complications",
-        "cerebral_edema_correction",
-        "PATHOLOGY",
+        "treatment",
+        "complication_correction",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What loop diuretics can contribute to hypernatremia?",
+      "question": "Which drug is useful in hypernatremia due to nephrogenic diabetes insipidus?",
       "options": [
         "Hydrochlorothiazide",
+        "Desmopressin",
         "Amiloride",
-        "Furosemide",
-        "Spironolactone"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Although loop diuretics such as furosemide primarily cause hyponatremia, in cases of severe dehydration and lack of water replacement, they may contribute to hypernatremia by increasing free water loss.",
-      "hashtags": [
-        "pharmacology",
-        "hypernatremia",
-        "etiology",
-        "diuretics_asa",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What nonspecific gastrointestinal symptom in hypernatremia?",
-      "options": [
-        "Nausea and vomiting",
-        "Constipation",
-        "Reflux",
-        "Diarrhea"
+        "Furosemide"
       ],
       "correctAnswer": 1,
-      "explanation": "Nausea and vomiting are nonspecific gastrointestinal symptoms that can occur in hypernatremia, and can be both a cause and a consequence of electrolyte disturbance.",
-      "hashtags": [
-        "internal_medicine",
-        "hypernatremia",
-        "clinical_table",
-        "gastrointestinal symptoms",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What to look for in the fundus in severe hypernatremia?",
-      "options": [
-        "Falls",
-        "Glaucoma",
-        "Papilledema",
-        "diabetic retinopathy"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Although not routine, fundus papilledema could indicate severe cerebral edema if the hypernatremia has been corrected too quickly or if there is other underlying intracranial pathology, although it is not a direct sign of hypernatremia itself.",
-      "hashtags": [
-        "neurology",
-        "hypernatremia",
-        "concept",
-        "papilledema_eye_fundus",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the calculated plasma osmolarity in hypernatremia?",
-      "options": [
-        "[Na+] + [Glucose]/18 + [BUN]/2.8",
-        "2 x [Na+] + [Glucose]/18 + [BUN]/2.8",
-        "2 x [Na+] - [Glucose]/18",
-        "2 x [Na+] + [BUN]/2.8"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The formula for the calculated effective serum osmolarity is 2 x [Na+] + [Glucose]/18 + [BUN]/2.8 (in mg/dL), which reflects the tonicity of the plasma, which is essential in the diagnosis of hypernatremia.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "diagnosis",
-        "osmolarity_formula",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What does low urinary sodium (< 20 mEq/L) indicate in hypernatremia?",
-      "options": [
-        "Hypovolemia with adequate renal response",
-        "Diabetes insipidus",
-        "sodium overload",
-        "Renal sodium loss"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Low urinary sodium (< 20 mEq/L) suggests that the kidneys are conserving sodium and water, which is indicative of hypovolemia and an appropriate renal response to dehydration.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "diagnosis",
-        "low_urinary_sodium",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which thirst test result indicates nephrogenic DI?",
-      "options": [
-        "I do not increase Uosm with desmopressin",
-        "Normal Uosm at start",
-        "Uosm increase with desmopressin",
-        "Uosm high at the end of the test"
-      ],
-      "correctAnswer": 1,
-      "explanation": "In nephrogenic diabetes insipidus, urine osmolarity remains low and does not increase significantly after the administration of vasopressin (desmopressin) in the water deprivation test, since the kidneys do not respond.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "diagnosis",
-        "test_sed_di_nephrogenic",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What type of hypernatremia develops in less than 48 hours?",
-      "options": [
-        "Chronicle",
-        "Moderate",
-        "Mild",
-        "Acute"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Acute hypernatremia is defined as hypernatremia that develops in less than 24-48 hours. In these cases, the brain has not had time to adapt, making it more vulnerable to brain retraction.",
-      "hashtags": [
-        "nephrology",
-        "hypernatremia",
-        "concept",
-        "acute_hypernatremia",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which patients may have altered thirst mechanism?",
-      "options": [
-        "Active elderly",
-        "Comatose",
-        "Athletes at rest",
-        "Mindfulness"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Patients with an altered level of consciousness, such as those who are comatose, sedated, or have advanced dementia, have their thirst mechanism or their ability to access water compromised, increasing the risk of hypernatremia.",
-      "hashtags": [
-        "neurology",
-        "hypernatremia",
-        "etiology",
-        "altered_consciousness",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What fluid is used in the correction phase of hypovolemic hypernatremia?",
-      "options": [
-        "Saline solution 0.9%",
-        "Albumin",
-        "Dextrose 5% in water",
-        "3% saline solution"
-      ],
-      "correctAnswer": 3,
-      "explanation": "In the water correction phase for hypovolemic hypernatremia (after hemodynamic stabilization), 5% dextrose in water (D5W) or 0.45% saline can be used to replenish the free water deficit.",
+      "explanation": "In nephrogenic diabetes insipidus, where the kidneys do not respond to ADH, thiazides such as hydrochlorothiazide can reduce urine volume and sodium, helping to concentrate urine and improve hypernatremia.",
       "hashtags": [
         "nephrology",
         "hypernatremia",
         "treatment",
-        "hypovolemic_correction_fluids",
-        "PATHOLOGY",
+        "diabetes_insipidus_nephrogenic",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What class of drug is used for nephrogenic DI?",
+      "question": "Which parameter is essential to monitor during the correction of hypernatremia?",
       "options": [
-        "calcium antagonists",
-        "beta blockers",
-        "ACE inhibitors",
-        "NSAIDs (Indomethacin)"
+        "serum sodium",
+        "Blood glucose",
+        "Serum calcium",
+        "Serum potassium"
       ],
-      "correctAnswer": 4,
-      "explanation": "NSAIDs, such as indomethacin, may be useful in nephrogenic diabetes insipidus by reducing the production of renal prostaglandins, which antagonize the action of ADH in the kidney.",
-      "hashtags": [
-        "pharmacology",
-        "hypernatremia",
-        "treatment",
-        "aines_di_nephrogenic",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which cardiovascular symptom suggests significant hypovolemia?",
-      "options": [
-        "Bradycardia",
-        "Peripheral edema",
-        "Sustained hypertension",
-        "Filiform pulse and tachycardia"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Tachycardia and a weak, thready pulse suggest significant hypovolemia as the heart attempts to compensate for reduced blood volume to maintain cardiac output.",
-      "hashtags": [
-        "cardiology",
-        "hypernatremia",
-        "clinical_table",
-        "cardiovascular_signs",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What laboratory test measures urine osmolarity?",
-      "options": [
-        "Standard urinalysis",
-        "urine culture",
-        "Urine osmolarity",
-        "urine test strips"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Urinary osmolarity is a specific laboratory test to measure the concentration of solutes in the urine, being crucial to differentiate the causes of free water loss in hypernatremia.",
-      "hashtags": [
-        "laboratory",
-        "hypernatremia",
-        "diagnosis",
-        "urinary_osmolarity_test",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is increased insensible water loss through the skin?",
-      "options": [
-        "Vomiting",
-        "Diarrhea",
-        "Polyuria",
-        "Fever"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Fever is a cause of increased insensible water losses through the skin due to increased perspiration and evaporation, contributing to hypernatremia if there is inadequate fluid intake.",
+      "correctAnswer": 1,
+      "explanation": "Serum sodium should be monitored regularly and closely (every 2-4 hours initially) during correction of hypernatremia to ensure that the rate of correction is adequate and to avoid serious complications such as cerebral edema.",
       "hashtags": [
         "internal_medicine",
         "hypernatremia",
-        "etiology",
-        "insensible_losses_fever",
-        "PATHOLOGY",
+        "treatment",
+        "monitoring",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Which patients have a prevalence of hypernatremia of 5-9%?",
+      "question": "What is the initial priority in severe hypernatremia with hemodynamically unstable hypovolemia?",
       "options": [
-        "Controlled diabetics",
-        "Post-surgical",
-        "Outpatient clinics",
-        "Critics in ICU"
+        "Manage D5W",
+        "Replenish volume with 0.9% NaCl",
+        "Correct the underlying cause",
+        "Infuse loop diuretics"
       ],
-      "correctAnswer": 4,
-      "explanation": "The prevalence of hypernatremia in critically ill patients in the ICU can reach 5-9%, due to multiple factors such as altered consciousness, mechanical ventilation and uncontrolled fluid losses.",
+      "correctAnswer": 2,
+      "explanation": "In patients with hypernatremia and hypovolemia that compromises hemodynamics, the priority is to restore effective circulating volume with isotonic solutions such as 0.9% saline to stabilize the patient before correcting sodium.",
       "hashtags": [
         "intensive_medicine",
         "hypernatremia",
-        "epidemiology",
-        "icu_prevalence",
-        "PATHOLOGY",
+        "treatment",
+        "hypovolemia_hemodynamics",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What should be evaluated in the general condition of the patient with hypernatremia?",
+      "question": "In mild hypernatremia, if the patient can eat, what is the first option to correct the deficit?",
       "options": [
-        "Limb muscle strength",
-        "Alert level and guidance",
-        "Osteotendinous reflexes",
-        "Skin sensitivity"
+        "Saline 0.9% IV",
+        "IV glucose solutions",
+        "oral water",
+        "Dietary saline restriction"
       ],
-      "correctAnswer": 2,
-      "explanation": "In the general evaluation of the patient with hypernatremia, it is essential to observe the level of alertness, orientation and response capacity, since neurological alterations are critical.",
+      "correctAnswer": 3,
+      "explanation": "If the patient with mild hypernatremia is conscious, able to drink, and does not have significant neurological alterations, oral water administration is the simplest and safest method to replace the free water deficit.",
       "hashtags": [
         "internal_medicine",
         "hypernatremia",
-        "concept",
-        "general_evaluation",
-        "PATHOLOGY",
+        "treatment",
+        "via_oral",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What defines moderate hypernatremia?",
+      "question": "What factor is used in the formula to calculate free water deficit in an adult with hypernatremia?",
       "options": [
-        "Sodium > 160 mEq/L",
-        "Sodium 145-150 mEq/L",
-        "Sodium 151-159 mEq/L",
-        "Sodium 140-145 mEq/L"
+        "Baseline serum sodium",
+        "Total body water (TCA)",
+        "Total body weight",
+        "Serum glucose concentration"
       ],
-      "correctAnswer": 3,
-      "explanation": "Moderate hypernatremia is classified with a serum sodium concentration between 151-159 mEq/L, where symptoms such as pronounced thirst, lethargy and irritability are common.",
+      "correctAnswer": 2,
+      "explanation": "The formula for free water deficit uses estimated total body water (ACT) (usually 0.5-0.6 times body weight) multiplied by (Current Sodium / Desired Sodium) - 1, to calculate the amount of water needed.",
       "hashtags": [
         "nephrology",
         "hypernatremia",
-        "concept",
-        "moderate_severity",
-        "PATHOLOGY",
+        "treatment",
+        "water_deficit_calculation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most serious and potentially lethal neurological complication of severe acute hypernatremia?",
+      "options": [
+        "Tonic-clonic seizures",
+        "Progressive vascular dementia",
+        "Diffuse cortical atrophy",
+        "intracerebral hemorrhage"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Severe hypernatremia causes a significant contraction of brain volume due to the osmotic displacement of water from neuronal cells to the extracellular space. This can stretch and tear the blood vessels connecting the brain to the meninges, resulting in intracranial hemorrhage, a serious and life-threatening neurological complication that requires urgent intervention.",
+      "hashtags": [
+        "internal_medicine",
+        "hypernatremia",
+        "complications",
+        "brain_hemorrhage",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "A common complication of severe hypernatremia is altered consciousness, which may manifest as:",
+      "options": [
+        "Psychomotor hyperactivity",
+        "Sudden panic attack",
+        "acute retrograde amnesia",
+        "Drowsiness or lethargy"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Hypernatremia induces neuronal dehydration due to the osmotic gradient, which impairs normal brain function. Clinically, this manifests as a spectrum of altered consciousness, from drowsiness and lethargy to stupor and coma in the most severe cases.",
+      "hashtags": [
+        "internal_medicine",
+        "hypernatremia",
+        "clinical_table",
+        "consciousness_alteration",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most feared and serious neurological complication associated with the excessively rapid correction of severe chronic hypernatremia?",
+      "options": [
+        "Severe cerebral edema",
+        "Central pontine myelinolysis",
+        "Transient cortical blindness",
+        "Focal epileptic seizures"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Excessively rapid correction of chronic hypernatremia may result in a rapid influx of water into brain cells that had previously adapted osmotically. This abrupt change can damage the myelin sheaths in the pons, causing central pontine myelinolysis, a condition with devastating and irreversible neurological consequences.",
+      "hashtags": [
+        "internal_medicine",
+        "hypernatremia",
+        "management_complications",
+        "pontine_myelinolysis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Prolonged severe hypernatremia may contribute to the development of an acute kidney complication due to:",
+      "options": [
+        "Kidney stone formation",
+        "Chronic kidney failure",
+        "Autoimmune glomerulonephritis",
+        "Acute tubular necrosis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Severe hypernatremia often coexists with significant dehydration and a reduction in effective circulating volume. Prolonged renal hypoperfusion resulting from hypovolemia can cause ischemia of the renal tubules, leading to the development of acute tubular necrosis, a common form of acute renal failure.",
+      "hashtags": [
+        "internal_medicine",
+        "hypernatremia",
+        "complications",
+        "acute_tubular_necrosis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is a potentially serious systemic muscular complication of severe hypernatremia that causes cellular destruction?",
+      "options": [
+        "Chronic night cramps",
+        "spinal muscular atrophy",
+        "Acquired myasthenia gravis",
+        "Acute rhabdomyolysis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Severe hypernatremia, especially in the context of extreme dehydration or cellular injury, can precipitate rhabdomyolysis. This condition is characterized by the lysis of skeletal muscle cells, releasing intracellular contents such as myoglobin, which is nephrotoxic and can cause acute renal failure.",
+      "hashtags": [
+        "internal_medicine",
+        "hypernatremia",
+        "complications",
+        "rhabdomyolysis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "A cardiovascular complication associated with severe hypernatremia and dehydration is the manifestation of:",
+      "options": [
+        "Malignant arterial hypertension",
+        "Chronic atrial fibrillation",
+        "Persistent sinus bradycardia",
+        "Tachycardia and hypotension"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Hypernatremia frequently results from significant dehydration, which leads to intravascular volume depletion. The body compensates for this hypovolemia with an increase in heart rate (tachycardia) and a decrease in blood pressure (hypotension), which are classic signs of hemodynamic compromise due to dehydration.",
+      "hashtags": [
+        "internal_medicine",
+        "hypernatremia",
+        "pathophysiology",
+        "hemodynamic_commitment",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Generalized cellular dehydration caused by hypernatremia can lead to systemic dysfunction manifesting as:",
+      "options": [
+        "Generalized peripheral edema",
+        "Dryness of mucous membranes and skin",
+        "Increased urinary volume",
+        "Paresthesias in extremities"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hypernatremia induces an osmotic movement of water from inside cells to the extracellular space, causing cellular dehydration throughout the organism. This generalized dehydration manifests clinically with signs such as dry mucous membranes, dry skin, decreased skin turgor and, sometimes, sunken eyes.",
+      "hashtags": [
+        "internal_medicine",
+        "hypernatremia",
+        "clinical_table",
+        "cellular_dehydration",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Seizures are a potential neurological complication of hypernatremia, especially when serum sodium exceeds:",
+      "options": [
+        "145 mEq/L",
+        "150 mEq/L",
+        "155 mEq/L",
+        "160 mEq/L"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Serum sodium levels greater than 160 mEq/L are considered severe hypernatremia and carry a significantly increased risk of severe neurological complications, including seizures. This severe neuronal dehydration alters excitability and normal brain electrical function, increasing the likelihood of seizure activity.",
+      "hashtags": [
+        "internal_medicine",
+        "hypernatremia",
+        "complications",
+        "seizures",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is a hematologic complication that can develop in patients with severe hypernatremia due to hemoconcentration?",
+      "options": [
+        "Leukocytosis with left shift",
+        "Risk of thrombotic events",
+        "Microangiopathic hemolytic anemia",
+        "Severe consumption coagulopathy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Severe hypernatremia is often associated with significant dehydration and, consequently, hemoconcentration. The resulting increase in blood viscosity, together with possible endothelial dysfunction and platelet activation, markedly increases the risk of developing thrombotic events, both arterial and venous, in the circulatory system.",
+      "hashtags": [
+        "internal_medicine",
+        "hypernatremia",
+        "complications",
+        "thrombosis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Brain volume contraction in severe hypernatremia can tear vessels, predisposing to what type of brain hemorrhage?",
+      "options": [
+        "Intraparenchymal hemorrhage",
+        "Subdural hematoma",
+        "Subarachnoid hemorrhage",
+        "Epidural hemorrhage"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Severe hypernatremia induces osmotic dehydration and significant brain shrinkage. This reduction in brain volume can stretch and ultimately rupture the bridging veins that traverse the subdural space, leading to the formation of a subdural hematoma, a potentially lethal neurological complication.",
+      "hashtags": [
+        "internal_medicine",
+        "hypernatremia",
+        "pathophysiology",
+        "subdural_hematoma",
+        "MEDICAL_TOPIC",
         ""
       ]
     }
