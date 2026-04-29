@@ -1,287 +1,1028 @@
 {
   "questions": [
     {
-      "question": "Qual é a definição de Pressão Arterial Elevada (PAE) segundo os números das consultas tradicionais?",
+      "question": "De acordo com as diretrizes internacionais, qual é o limite para considerar a hipertensão arterial no consultório?",
       "options": [
-        "PAS < 140 mmHg e PAD < 90 mmHg",
-        "PAS ≥ 140 mmHg e/ou PAD ≥ 90 mmHg",
-        "PAS ≥ 120 mmHg e PAD < 80 mmHg",
-        "PAS 130-139 mmHg e PAD 80-89 mmHg"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Tradicionalmente, a hipertensão é definida pela elevação persistente da pressão arterial sistólica (PAS) para 140 mmHg ou mais e/ou pressão arterial diastólica (PAD) para 90 mmHg ou mais, aferida em consulta.",
-      "hashtags": [
-        "medicina_interna",
-        "hipertensão_arterial_(hta)",
-        "conceito",
-        "definição_pressão_sangue",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que percentagem aproximada de casos de hipertensão corresponde a hipertensão essencial (primária)?",
-      "options": [
-        "90-95%",
-        "10-20%",
-        "50-60%",
-        "5-10%"
+        "≥140/90mmHg",
+        "≥130/80mmHg",
+        "≥120/70mmHg",
+        "≥150/95mmHg"
       ],
       "correctAnswer": 1,
-      "explanation": "A hipertensão essencial, cuja causa específica é desconhecida, representa a grande maioria dos casos de hipertensão arterial, aproximadamente entre 90% e 95%.",
+      "explanation": "As diretrizes atuais definem hipertensão de consultório como pressão arterial sistólica ≥140 mmHg ou pressão arterial diastólica ≥90 mmHg, com base em estudos de risco cardiovascular.",
       "hashtags": [
         "medicina_interna",
-        "hipertensão_arterial_(hta)",
-        "etiologia",
-        "essencial_hta",
-        "PATOLOGIA",
-        ""
+        "hipertensão_arterial",
+        "tabela_clínica",
+        "pa_classificação",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023 --- Guia AHA/ACC 2017"
       ]
     },
     {
-      "question": "Qual das alternativas a seguir NÃO é um fator de risco ambiental ou de estilo de vida para hipertensão essencial?",
+      "question": "Qual categoria de pressão arterial corresponde a valores entre 130-139/85-89 mmHg de acordo com as diretrizes europeias?",
       "options": [
-        "Alta ingestão de sódio",
-        "Obesidade",
-        "História familiar de hipertensão",
-        "Dieta com baixo teor de potássio"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A história familiar de hipertensão é considerada um fator genético, não um fator ambiental ou de estilo de vida. Os outros fatores mencionados são causas ambientais ou de estilo de vida conhecidas.",
-      "hashtags": [
-        "medicina_interna",
-        "hipertensão_arterial_(hta)",
-        "etiologia",
-        "fatores_de_risco essenciais",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual das alternativas a seguir é uma causa comum de hipertensão secundária relacionada à doença renal?",
-      "options": [
-        "Hipertensão pulmonar",
-        "Insuficiência Cardíaca Congestiva",
-        "Diabetes Mellitus tipo 1",
-        "Glomerulonefrite"
+        "Ideal",
+        "Hipertensão grau 2",
+        "Hipertensão grau 1",
+        "Alto normal"
       ],
       "correctAnswer": 4,
-      "explanation": "A doença renal parenquimatosa, como a glomerulonefrite, é uma causa comum de hipertensão arterial secundária, alterando a função de regulação da pressão renal.",
+      "explanation": "As diretrizes europeias classificam a PA sistólica 130-139 mmHg ou diastólica 85-89 mmHg como 'normal alta', indicando alto risco e necessidade de intervenção não farmacológica.",
       "hashtags": [
         "medicina_interna",
-        "hipertensão_arterial_(hta)",
-        "etiologia",
-        "secundário_renal_hta",
-        "PATOLOGIA",
-        ""
+        "hipertensão_arterial",
+        "tabela_clínica",
+        "categorias_pa",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
       ]
     },
     {
-      "question": "Qual patologia endócrina é caracterizada pela secreção excessiva de aldosterona e pode causar hipertensão secundária?",
+      "question": "Qual é o valor da pressão arterial que define hipertensão grau 2 de acordo com a diretriz AHA/ACC 2017?",
       "options": [
+        "≥160/100mmHg",
+        "≥140/90mmHg",
+        "≥150/100mmHg",
+        "≥130/80mmHg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A diretriz AHA/ACC 2017 classifica hipertensão grau 2 como PA sistólica ≥160 mmHg ou PA diastólica ≥100 mmHg, necessitando de início de tratamento farmacológico combinado.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_arterial",
+        "tabela_clínica",
+        "classificação_aha",
+        "MEDICAL_TOPIC",
+        "Guia AHA/ACC 2017"
+      ]
+    },
+    {
+      "question": "Qual parâmetro é usado para classificar a hipertensão sistólica isolada?",
+      "options": [
+        "Sistólica ≥130 e diastólica <80",
+        "Sistólica ≥140 e diastólica <90",
+        "Diastólica ≥90 e sistólica <140",
+        "Ambos elevados ≥140/90"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A hipertensão sistólica isolada é definida por pressão sistólica ≥140 mmHg com pressão diastólica <90 mmHg, comum em idosos devido à rigidez arterial.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_arterial",
+        "tabela_clínica",
+        "hipertensão_sistólica_isolada",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual é a pressão arterial considerada ideal de acordo com a maioria das diretrizes internacionais?",
+      "options": [
+        "<130/85mmHg",
+        "<140/90mmHg",
+        "<120/80mmHg",
+        "<110/70mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A PA ideal é definida como <120/80 mmHg, associada ao menor risco cardiovascular; Valores mais elevados aumentam progressivamente o risco de eventos.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_arterial",
+        "tabela_clínica",
+        "pressão_sangue_óptima",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023 --- Guia AHA/ACC 2017"
+      ]
+    },
+    {
+      "question": "Qual método de medição é recomendado para confirmar a hipertensão antes de iniciar o tratamento?",
+      "options": [
+        "Medição casual em farmácia",
+        "Registro de enfermagem",
+        "Automedição única",
+        "Acompanhamento ambulatorial 24 horas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A monitorização ambulatorial da pressão arterial (MAPA) de 24 horas é o método de referência para confirmar a hipertensão, evitando o efeito do avental branco e falsos diagnósticos.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_arterial",
+        "diagnóstico",
+        "mapa",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual é a causa mais comum de hipertensão arterial secundária?",
+      "options": [
+        "Hiperaldosteronismo primário",
         "Síndrome de Cushing",
-        "Feocromocitoma",
-        "Hipertireoidismo",
-        "Hiperaldosteronismo Primário"
+        "Doença renovascular",
+        "Feocromocitoma"
       ],
-      "correctAnswer": 4,
-      "explanation": "O hiperaldosteronismo primário (Síndrome de Conn) envolve a produção excessiva de aldosterona pelas supra-renais, levando à retenção de sódio e hipertensão arterial secundária.",
+      "correctAnswer": 1,
+      "explanation": "O hiperaldosteronismo primário é a causa mais comum de hipertensão secundária, especialmente em pacientes com hipocalemia e resistência ao tratamento anti-hipertensivo.",
       "hashtags": [
         "medicina_interna",
-        "hipertensão_arterial_(hta)",
-        "etiologia",
-        "endócrino_secundário_hta",
-        "PATOLOGIA",
-        ""
+        "hipertensão_secundária",
+        "tabela_clínica",
+        "primário_hiperaldosteronismo",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
       ]
     },
     {
-      "question": "Qual destes medicamentos pode causar hipertensão secundária ou piorá-la?",
+      "question": "Qual teste laboratorial é fundamental na triagem do hiperaldosteronismo primário?",
       "options": [
-        "Paracetamol",
-        "Amoxicilina",
-        "Antiinflamatórios não esteróides (AINEs)",
-        "Omeprazol"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Os antiinflamatórios não esteróides (AINEs) são conhecidos por seu potencial de aumentar a pressão arterial, reter sódio e água e afetar a função renal.",
-      "hashtags": [
-        "medicina_interna",
-        "hipertensão_arterial_(hta)",
-        "etiologia",
-        "droga_induzida_hta",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual sistema fisiopatológico contribui para a hipertensão através da vasoconstrição e aumento do débito cardíaco?",
-      "options": [
-        "Sistema imunológico",
-        "Sistema Digestivo",
-        "Sistema Nervoso Simpático (SNA)",
-        "Sistema Linfático"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A hiperatividade do Sistema Nervoso Simpático (SNS) leva à vasoconstrição periférica, aumento da frequência cardíaca e da contratilidade, elevando a pressão arterial.",
-      "hashtags": [
-        "medicina_interna",
-        "hipertensão_arterial_(hta)",
-        "conceito",
-        "sistema_nervoso_simpático",
-        "FISIOPATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o papel da angiotensina II na fisiopatologia da hipertensão?",
-      "options": [
-        "Promove a excreção de sódio",
-        "Poderoso vasoconstritor",
-        "Reduz a liberação de aldosterona",
-        "Poderoso vasodilatador"
+        "Cortisol livre urinário",
+        "Renina plasmática baixa",
+        "Metanefrinas plasmáticas",
+        "Sódio na urina de 24 horas"
       ],
       "correctAnswer": 2,
-      "explanation": "A angiotensina II é um potente vasoconstritor que aumenta a resistência vascular periférica e estimula a liberação de aldosterona, elevando a pressão arterial.",
+      "explanation": "Renina plasmática baixa juntamente com aldosterona elevada sugerem hiperaldosteronismo primário; A relação aldosterona/renina é o teste de triagem inicial.",
       "hashtags": [
         "medicina_interna",
-        "hipertensão_arterial_(hta)",
-        "conceito",
-        "sistema_renina_angiotensina",
-        "FISIOPATOLOGIA",
-        ""
+        "primário_hiperaldosteronismo",
+        "diagnóstico",
+        "relação aldosterona_renina",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
       ]
     },
     {
-      "question": "Que alteração vascular é caracterizada por diminuição do óxido nítrico (NO) e aumento da endotelina-1?",
+      "question": "Qual achado de imagem sugere estenose da artéria renal como causa de hipertensão?",
       "options": [
-        "Remodelação arterial normal",
-        "Vasodilatação fisiológica",
-        "Disfunção endotelial",
-        "Aumento da complacência vascular"
+        "Tumor renal cístico",
+        "Aneurisma da aorta abdominal",
+        "Rim pequeno unilateral",
+        "Calcificação adrenal"
       ],
       "correctAnswer": 3,
-      "explanation": "A disfunção endotelial na hipertensão manifesta-se com menor produção de NO (vasodilatador) e maior produção de endotelina-1 (vasoconstritor), contribuindo para o aumento da PA.",
+      "explanation": "A estenose da artéria renal produz hipoperfusão renal crônica, resultando em atrofia do rim afetado, visível como um pequeno rim unilateral na ultrassonografia ou na angiografia.",
       "hashtags": [
         "medicina_interna",
-        "hipertensão_arterial_(hta)",
-        "alterações_funcionais",
-        "disfunção_endotelial",
-        "FISIOPATOLOGIA",
-        ""
+        "estenose_artéria_renal",
+        "diagnóstico",
+        "rim_unilateral_pequeno",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
       ]
     },
     {
-      "question": "Como o equilíbrio de sódio e água afeta a fisiopatologia da hipertensão?",
+      "question": "Qual medicamento é contra-indicado na hipertensão por estenose bilateral da artéria renal?",
       "options": [
-        "Diminui a resistência vascular periférica",
-        "Aumenta a excreção de potássio",
-        "Causa hipovolemia e hipotensão",
-        "Leva à retenção de volume e aumento da PA"
+        "Amlodipina",
+        "Metoprolol",
+        "Enalapril",
+        "Hidroclorotiazida"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os inibidores da ECA (como o enalapril) inibem a vasoconstrição eferente compensatória, reduzindo a filtração glomerular e potencialmente causando insuficiência renal aguda na estenose bilateral.",
+      "hashtags": [
+        "farmacologia",
+        "hipertensão_renovascular",
+        "contra-indicações",
+        "ieca_in_renal_stenosis",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual é o sintoma clássico do feocromocitoma?",
+      "options": [
+        "Dor de cabeça episódica",
+        "Dor lombar crônica",
+        "Hipotensão ortostática",
+        "Poliúria noturna"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A cefaleia episódica, juntamente com palpitações e sudorese, forma a tríade clássica do feocromocitoma devido à liberação paroxística de catecolaminas.",
+      "hashtags": [
+        "medicina_interna",
+        "feocromocitoma",
+        "tabela_clínica",
+        "tríade_clássica",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual exame de imagem é preferido para localizar um feocromocitoma?",
+      "options": [
+        "Angiografia renal",
+        "ressonância magnética",
+        "Tomografia computadorizada",
+        "ultrassonografia abdominal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A ressonância magnética é a modalidade de escolha devido à sua alta sensibilidade para tumores adrenais e ausência de radiação, ideal para caracterizar feocromocitomas.",
+      "hashtags": [
+        "medicina_interna",
+        "feocromocitoma",
+        "diagnóstico",
+        "ressonância_magnética",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual é o mecanismo de ação dos inibidores do sistema renina-angiotensina como primeira linha na hipertensão?",
+      "options": [
+        "Ativação de vasopressina",
+        "Bloqueio dos canais de cálcio",
+        "Inibição da enzima conversora de angiotensina",
+        "Estimulação de receptores beta-1"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os inibidores da enzima conversora de angiotensina (inibidores da ECA) bloqueiam a conversão da angiotensina I em angiotensina II, reduzindo a vasoconstrição e a liberação de aldosterona, que reduz a pressão arterial.",
+      "hashtags": [
+        "cardiologia",
+        "hipertensão_arterial",
+        "tratamento",
+        "mecanismo_ieca",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual classe de medicamento é considerada de primeira linha na hipertensão arterial não complicada em pacientes com mais de 65 anos?",
+      "options": [
+        "Diuréticos tiazídicos",
+        "Bloqueadores alfa",
+        "betabloqueadores",
+        "Vasodilatadores diretos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Os diuréticos tiazídicos são recomendados como primeira linha na hipertensão não complicada, especialmente em pacientes idosos, devido à sua eficácia na redução de eventos cardiovasculares e acidentes vasculares cerebrais.",
+      "hashtags": [
+        "cardiologia",
+        "hipertensão_arterial",
+        "tratamento",
+        "indicação_tiazidas",
+        "MEDICAL_TOPIC",
+        "JNC 8"
+      ]
+    },
+    {
+      "question": "Qual efeito adverso é característico dos bloqueadores dos canais de cálcio dihidropiridínicos no tratamento da hipertensão?",
+      "options": [
+        "Bradicardia grave",
+        "Tosse seca",
+        "Hipercalemia",
+        "edema maleolar"
       ],
       "correctAnswer": 4,
-      "explanation": "O consumo excessivo de sódio e a diminuição da excreção renal levam à retenção de volume, aumento do débito cardíaco e, a longo prazo, aumento da resistência vascular periférica.",
+      "explanation": "O edema maleolar é um efeito adverso comum dos bloqueadores dos canais de cálcio dihidropiridínicos (como a amlodipina), devido à vasodilatação arteriolar seletiva que aumenta a pressão hidrostática capilar.",
       "hashtags": [
-        "medicina_interna",
-        "hipertensão_arterial_(hta)",
-        "conceito",
-        "equilíbrio_água_sódio",
-        "FISIOPATOLOGIA",
-        ""
+        "cardiologia",
+        "hipertensão_arterial",
+        "efeitos_adversos",
+        "maleolar_edema",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
       ]
     },
     {
-      "question": "Que tipo de remodelamento arterial ocorre a longo prazo na hipertensão?",
+      "question": "Qual é a combinação anti-hipertensiva de primeira linha recomendada para potencializar o efeito sinérgico?",
       "options": [
-        "Remodelagem concêntrica",
-        "Dilatação arterial generalizada",
-        "Espessamento da adventícia",
-        "Aumento do lúmen arterial"
+        "IECA mais diurético tiazídico",
+        "IECA mais betabloqueador",
+        "Bloqueador beta mais bloqueador alfa",
+        "Antagonista de cálcio mais bloqueador alfa"
       ],
       "correctAnswer": 1,
-      "explanation": "A PA elevada induz remodelação concêntrica das paredes arteriais, aumentando a espessura e diminuindo a complacência, o que perpetua a PAE.",
+      "explanation": "A combinação do IECA com um diurético tiazídico é sinérgica porque o diurético ativa o sistema renina-angiotensina, que é bloqueado pelo IECA, potencializando a redução da pressão arterial e minimizando os efeitos adversos.",
       "hashtags": [
-        "medicina_interna",
-        "hipertensão_arterial_(hta)",
-        "conceito",
-        "remodelação_vascular",
-        "FISIOPATOLOGIA",
-        ""
+        "cardiologia",
+        "hipertensão_arterial",
+        "tratamento",
+        "combinação_sinérgica",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
       ]
     },
     {
-      "question": "A hipertensão secundária representa que porcentagem aproximada do total de casos?",
+      "question": "Em qual paciente com hipertensão o uso de betabloqueadores é contraindicado como primeira linha?",
       "options": [
-        "5-10%",
-        "50-60%",
-        "20-30%",
-        "70-80%"
+        "Com asma brônquica",
+        "Com hipertrofia ventricular",
+        "Com diabetes tipo 2",
+        "Com insuficiência cardíaca"
       ],
       "correctAnswer": 1,
-      "explanation": "A hipertensão secundária, causada por uma condição médica subjacente identificável, representa uma minoria dos casos, aproximadamente 5% a 10%.",
+      "explanation": "Os betabloqueadores são contraindicados em pacientes com asma brônquica porque bloqueiam os receptores beta-2, causando broncoconstrição e piorando o controle da asma.",
+      "hashtags": [
+        "cardiologia",
+        "hipertensão_arterial",
+        "contra-indicações",
+        "betabloqueadores_asma",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual parâmetro laboratorial deve ser monitorado ao iniciar IECA em paciente hipertenso?",
+      "options": [
+        "Colesterol LDL",
+        "Hemoglobina glicosilada",
+        "tempo de protrombina",
+        "Creatinina e potássio séricos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os IECA podem reduzir a taxa de filtração glomerular e aumentar o potássio sérico, portanto a creatinina e o potássio devem ser monitorados para detectar insuficiência renal ou hipercalemia.",
+      "hashtags": [
+        "cardiologia",
+        "hipertensão_arterial",
+        "tratamento",
+        "ieca_monitoring",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual é a definição de crise hipertensiva?",
+      "options": [
+        "PAS ≥ 200 ou PAD ≥ 130 mmHg",
+        "PAS ≥ 160 ou PAD ≥ 100 mmHg",
+        "PAS ≥ 140 ou PAD ≥ 90 mmHg",
+        "PAS ≥ 180 ou PAD ≥ 120 mmHg"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A crise hipertensiva é definida como uma elevação grave da pressão arterial, com PAS ≥ 180 mmHg ou PAD ≥ 120 mmHg, necessitando de avaliação e manejo urgentes.",
       "hashtags": [
         "medicina_interna",
-        "hipertensão_arterial_(hta)",
-        "etiologia",
-        "secundário_hta_prevalência",
-        "PATOLOGIA",
+        "crise_hipertensiva",
+        "conceito",
+        "definição",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023 --- JNC 8"
+      ]
+    },
+    {
+      "question": "Qual a principal diferença entre emergência e urgência hipertensiva?",
+      "options": [
+        "Resposta aos anti-hipertensivos",
+        "Danos agudos em órgãos-alvo",
+        "Idade do paciente",
+        "nível de pressão arterial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A emergência hipertensiva é caracterizada por danos agudos e progressivos em órgãos-alvo, enquanto na emergência hipertensiva não há evidência de tais danos, sendo esta a principal diferença.",
+      "hashtags": [
+        "medicina_interna",
+        "emergência_hipertensiva",
+        "conceito",
+        "diferenciação",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual órgão é mais frequentemente afetado na emergência hipertensiva?",
+      "options": [
+        "Cérebro",
+        "Coração",
+        "Pulmão",
+        "Rim"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O cérebro é o órgão mais frequentemente afetado na emergência hipertensiva, manifestando-se como encefalopatia hipertensiva, acidente vascular cerebral ou hemorragia intracraniana.",
+      "hashtags": [
+        "medicina_interna",
+        "emergência_hipertensiva",
+        "tabela_clínica",
+        "órgão_alvo",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual sistema regula a pressão arterial por meio da vasoconstrição e da reabsorção de sódio?",
+      "question": "Qual é o medicamento anti-hipertensivo intravenoso de escolha na emergência hipertensiva?",
       "options": [
-        "Sistema endócrino pancreático",
-        "Sistema Nervoso Central",
-        "Sistema Renina-Angiotensina-Aldosterona (SRAA)",
-        "Sistema Linfático"
+        "nitroprussiato de sódio",
+        "Labetalol",
+        "Enalaprilato",
+        "Furosemida"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O labetalol é um dos anti-hipertensivos intravenosos mais utilizados em emergências hipertensivas devido ao seu rápido início de ação e perfil de segurança, embora o nitroprussiato também seja utilizado em casos selecionados.",
+      "hashtags": [
+        "farmacologia",
+        "emergência_hipertensiva",
+        "tratamento",
+        "anti-hipertensivo_iv",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual é a complicação mais temida da encefalopatia hipertensiva?",
+      "options": [
+        "Infarto cerebral",
+        "Edema cerebral",
+        "Hérnia cerebral",
+        "hemorragia intracraniana"
       ],
       "correctAnswer": 3,
-      "explanation": "O Sistema Renina-Angiotensina-Aldosterona (SRAA) é fundamental na regulação da pressão arterial, promovendo vasoconstrição (Angiotensina II) e reabsorção de sódio (Aldosterona).",
+      "explanation": "A hérnia cerebral é a complicação mais temida da encefalopatia hipertensiva, pois pode levar à morte por compressão do tronco encefálico, necessitando de redução imediata da pressão arterial.",
       "hashtags": [
         "medicina_interna",
-        "hipertensão_arterial_(hta)",
-        "conceito",
-        "regulamento_sraa",
-        "FISIOPATOLOGIA",
+        "encefalopatia_hipertensiva",
+        "complicações",
+        "herniação cerebral",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual achado fundoscópico é característico da emergência hipertensiva?",
+      "options": [
+        "Papiledema bilateral",
+        "Hemorragias de chama",
+        "Exsudados algodoados",
+        "estreitamento arteriolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O papiledema bilateral é um achado clássico de emergência hipertensiva, indicando edema do disco óptico devido à hipertensão grave, associado à encefalopatia hipertensiva.",
+      "hashtags": [
+        "medicina_interna",
+        "emergência_hipertensiva",
+        "diagnóstico",
+        "fundo_do_olho",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual é a causa cardiovascular da hipertensão secundária?",
+      "question": "Qual das alternativas a seguir é um órgão-alvo clássico na hipertensão?",
       "options": [
-        "Coartação da aorta",
-        "Feocromocitoma",
-        "Glomerulonefrite",
+        "Pulmão",
+        "Baço",
+        "Pâncreas",
+        "Rim"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O rim é um dos órgãos-alvo mais afetados pela hipertensão, junto com o coração, o cérebro e a retina. Danos renais podem se manifestar como microalbuminúria ou insuficiência renal crônica.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_arterial",
+        "tabela_clínica",
+        "órgão_branco",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual descoberta sugere danos cardíacos causados ​​por pressão alta?",
+      "options": [
+        "Hipertrofia ventricular esquerda",
+        "Derrame pericárdico",
+        "estenose aórtica",
+        "bloqueio atrioventricular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A hipertrofia ventricular esquerda é uma adaptação ao aumento crônico da pós-carga na hipertensão arterial. É um marcador de dano cardíaco e está associado ao aumento do risco cardiovascular.",
+      "hashtags": [
+        "cardiologia",
+        "hipertensão_arterial",
+        "fisiopatologia",
+        "hipertrofia_ventricular",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o marcador inicial de dano renal na hipertensão?",
+      "options": [
+        "Microalbuminúria",
+        "Hematúria franca",
+        "cilindros granulados",
+        "proteinúria maciça"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A microalbuminúria é o primeiro sinal de lesão renal na hipertensão, indicando alteração da barreira de filtração glomerular. É um fator prognóstico independente para progressão para nefropatia.",
+      "hashtags": [
+        "nefrologia",
+        "hipertensão_arterial",
+        "diagnóstico",
+        "microalbuminúria",
+        "MEDICAL_TOPIC",
+        "KDIGO 2023"
+      ]
+    },
+    {
+      "question": "Que alteração da retina é característica dos danos causados ​​pela hipertensão?",
+      "options": [
+        "Exsudados algodoados",
+        "Descolamento de retina",
+        "edema macular",
+        "Cruzamentos arteriovenosos patológicos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os cruzamentos arteriovenosos patológicos (sinal de Gunn) são um achado clássico na retinopatia hipertensiva crônica, refletindo espessamento da parede arteriolar e compressão venular.",
+      "hashtags": [
+        "oftalmologia",
+        "hipertensão_arterial",
+        "tabela_clínica",
+        "retinopatia_hipertensiva",
+        "MEDICAL_TOPIC",
+        "AAO 2022"
+      ]
+    },
+    {
+      "question": "Que complicação neurológica está associada à crise hipertensiva?",
+      "options": [
+        "Encefalopatia hipertensiva",
+        "Neuralgia do trigêmeo",
+        "Enxaqueca com aura",
+        "Ataque isquêmico transitório"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A encefalopatia hipertensiva é uma complicação neurológica aguda devido à elevação grave da pressão arterial, que produz edema cerebral e disfunção neurológica reversível se tratada prontamente.",
+      "hashtags": [
+        "neurologia",
+        "hipertensão_arterial",
+        "complicações",
+        "encefalopatia_hipertensiva",
+        "MEDICAL_TOPIC",
+        "Guia AHA 2022"
+      ]
+    },
+    {
+      "question": "Qual é o primeiro passo no tratamento de danos a órgãos-alvo devido à hipertensão?",
+      "options": [
+        "Controle rigoroso da pressão arterial",
+        "Cirurgia de revascularização",
+        "Diálise urgente",
+        "transplante de rim"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O controle rigoroso da pressão arterial é a medida fundamental para prevenir e retardar a progressão dos danos aos órgãos-alvo. O tratamento anti-hipertensivo reduz a morbimortalidade cardiovascular e renal.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_arterial",
+        "tratamento",
+        "pressão_sangue_controle",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023 --- JNC 8"
+      ]
+    },
+    {
+      "question": "Qual é o principal critério para diagnosticar hipertensão resistente?",
+      "options": [
+        "Pressão alta com monoterapia",
+        "Pressão alta apenas à noite",
+        "Pressão descontrolada com três medicamentos",
+        "Pressão normal com dieta rigorosa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A hipertensão resistente é definida como pressão arterial não controlada apesar do uso de três medicamentos anti-hipertensivos de diferentes classes, incluindo um diurético, todos em doses ideais.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_resistente",
+        "conceito",
+        "definição",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual medicamento é considerado essencial no tratamento da hipertensão resistente?",
+      "options": [
+        "um bloqueador beta",
+        "Um antagonista do cálcio",
+        "Um diurético tiazídico",
+        "Um IECA"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na hipertensão resistente, um diurético tiazídico (como a clortalidona) é essencial como parte do regime de três medicamentos, uma vez que a retenção de sódio é um mecanismo chave.",
+      "hashtags": [
+        "farmacologia",
+        "hipertensão_resistente",
+        "tratamento",
+        "tiazida_diurético",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é uma causa comum de hipertensão refratária?",
+      "options": [
+        "Dieta rigorosa com baixo teor de sódio",
+        "Uso de suplementos de potássio",
+        "Exercício aeróbico regular",
         "Hiperaldosteronismo primário"
       ],
-      "correctAnswer": 1,
-      "explanation": "A coarctação da aorta, um estreitamento congênito da aorta, é uma causa cardiovascular que pode causar hipertensão arterial secundária.",
+      "correctAnswer": 4,
+      "explanation": "O hiperaldosteronismo primário é uma causa secundária comum de hipertensão refratária, pois produz retenção de sódio e expansão de volume, dificultando o controle pressórico.",
       "hashtags": [
         "medicina_interna",
-        "hipertensão_arterial_(hta)",
+        "hipertensão_refratária",
         "etiologia",
-        "secundário_cardiovascular_hta",
-        "PATOLOGIA",
+        "hiperaldosteronismo",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Que tipo de medicamento é Losartan?",
+      "question": "Qual exame é recomendado para descartar hipertensão do avental branco em pacientes com suspeita de resistência?",
       "options": [
-        "IECA",
-        "ARA-II",
-        "Betabloqueador",
-        "Diurético tiazídico"
+        "Ecocardiograma transtorácico",
+        "eletrocardiograma de repouso",
+        "Radiografia de tórax",
+        "Acompanhamento ambulatorial 24 horas"
       ],
-      "correctAnswer": 2,
-      "explanation": "Losartan é um medicamento pertencente à classe dos Antagonistas dos Receptores da Angiotensina II (ARA-II), utilizado no tratamento da hipertensão.",
+      "correctAnswer": 4,
+      "explanation": "A monitorização ambulatorial da pressão arterial (MAPA) de 24 horas é o teste padrão para identificar o fenômeno do avental branco, que pode mimetizar a hipertensão resistente.",
       "hashtags": [
         "medicina_interna",
-        "hipertensão_arterial_(hta)",
+        "hipertensão_resistente",
+        "diagnóstico",
+        "mapa",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Quando um paciente é considerado portador de hipertensão refratária?",
+      "options": [
+        "Falha de pelo menos quatro medicamentos",
+        "Pressão controlada com dois medicamentos",
+        "Pressão elevada devido ao estresse agudo",
+        "Resposta parcial a um único medicamento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A hipertensão refratária é definida como a pressão arterial que não é controlada apesar do uso de pelo menos quatro medicamentos anti-hipertensivos, incluindo um diurético, ou que não atinge a meta com a terapia máxima tolerada.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_refratária",
         "conceito",
-        "ara_ii_losartan",
-        "FARMACOLOGIA",
+        "definição",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que intervenção não farmacológica é prioritária na hipertensão resistente?",
+      "options": [
+        "Reduzindo o consumo de sódio",
+        "Consumo moderado de álcool",
+        "Aumento da ingestão de cálcio",
+        "Suplementação de magnésio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A redução do sódio na dieta é a intervenção não farmacológica mais importante na hipertensão resistente, uma vez que a retenção de sódio contribui significativamente para a falta de resposta ao tratamento.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_resistente",
+        "tratamento",
+        "dieta_com baixo teor de sódio",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual valor médio de pressão arterial em 24 horas define hipertensão na MAPA?",
+      "options": [
+        "≥ 120/75mmHg",
+        "≥ 135/85mmHg",
+        "≥ 130/80mmHg",
+        "≥ 140/90mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A monitorização ambulatorial da pressão arterial (MAPA) considera hipertensão quando a média de 24 horas for ≥ 130/80 mmHg, conforme diretrizes internacionais.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_arterial",
+        "diagnóstico",
+        "monitoramento_ambulatorial",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual é a principal vantagem da MAPA em comparação com a medição clínica?",
+      "options": [
+        "Requer menos tempo",
+        "Elimina o efeito jaleco branco",
+        "Menor custo econômico",
+        "Não é necessária calibração"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A MAPA permite identificar a hipertensão do avental branco e a hipertensão mascarada, registrando a pressão nas condições habituais do paciente.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_arterial",
+        "conceito",
+        "vantagens_mapa",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual parâmetro da MAPA está associado a maior risco cardiovascular?",
+      "options": [
+        "Pressão de pulso matinal",
+        "Pressão sistólica diurna",
+        "Queda de pressão noturna",
+        "Pressão diastólica noturna"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A ausência ou redução insuficiente da queda de pressão noturna (non-dipper) está associada a um risco aumentado de eventos cardiovasculares e danos a órgãos-alvo.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_arterial",
+        "fisiopatologia",
+        "padrão_circadiano",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Quantas medições válidas são necessárias para um MAP confiável?",
+      "options": [
+        "Pelo menos 7 diurnos e 3 noturnos",
+        "Pelo menos 14 diurnos e 7 noturnos",
+        "Pelo menos 10 durante o dia e 5 à noite",
+        "Pelo menos 20 diurnos e 10 noturnos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As diretrizes recomendam um mínimo de 14 medições diurnas e 7 noturnas para garantir a representatividade e evitar preconceitos devido à atividade ou ao sono.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_arterial",
+        "diagnóstico",
+        "qualidade_de_registro",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual padrão de MAPA sugere hipertensão mascarada?",
+      "options": [
+        "PA clínica elevada e MAPA normal",
+        "Clínica BP e MAPA ambos normais",
+        "PA clínica normal e MAPA elevada",
+        "PA clínica e MAPA ambas elevadas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A hipertensão mascarada é caracterizada por pressão arterial normal no consultório, mas MAPA elevada, o que aumenta o risco cardiovascular oculto.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_arterial",
+        "tabela_clínica",
+        "mascarado_hipertensão",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual a principal indicação para a realização de uma PAM?",
+      "options": [
+        "Avaliação da resposta ao exercício",
+        "Paciente com pressão arterial normal",
+        "Monitoramento da hipotensão ortostática",
+        "Suspeita de hipertensão do jaleco branco"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A MAPA é especialmente indicada quando há suspeita de hipertensão do avental branco para confirmar o diagnóstico e evitar tratamentos desnecessários.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_arterial",
+        "indicações",
+        "casaco_branco",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual é a definição de pré-eclâmpsia segundo os critérios atuais?",
+      "options": [
+        "Pressão arterial ≥150/90 mmHg com dor de cabeça",
+        "Pressão arterial ≥140/90 mmHg com proteinúria",
+        "Pressão arterial ≥160/100 mmHg com edema",
+        "Pressão arterial ≥130/80 mmHg sem proteinúria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A pré-eclâmpsia é definida como pressão arterial ≥140/90 mmHg em duas ocasiões separadas por pelo menos 4 horas, acompanhada de proteinúria significativa (≥300 mg em 24 horas) após 20 semanas de gestação.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_gravidez",
+        "tabela_clínica",
+        "definição_pré-eclâmpsia",
+        "MEDICAL_TOPIC",
+        "ACOG 2023"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha para crise hipertensiva na gravidez?",
+      "options": [
+        "Metoprolol intravenoso",
+        "Enalapril intravenoso",
+        "amlodipina oral",
+        "Labetalol intravenoso"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O labetalol intravenoso é o medicamento de escolha para o manejo da crise hipertensiva na gravidez, devido à sua eficácia e perfil de segurança fetal. Os inibidores da ECA, como o enalapril, são contra-indicados devido ao risco de oligoidrâmnio e danos renais fetais.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_gravidez",
+        "tratamento",
+        "crise_hipertensiva",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual achado clínico sugere pré-eclâmpsia grave?",
+      "options": [
+        "Trombocitopenia inferior a 100.000",
+        "Pressão arterial 155/95 mmHg",
+        "Edema leve em membros inferiores",
+        "Proteinúria de 500 mg em 24 horas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A trombocitopenia (plaquetas <100.000/μL) é critério de gravidade na pré-eclâmpsia, indicando envolvimento hematológico. Outros critérios incluem pressão arterial ≥160/110 mmHg, proteinúria >5 g/24h e sintomas em órgãos-alvo.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_gravidez",
+        "tabela_clínica",
+        "pré-eclâmpsia_severidade",
+        "MEDICAL_TOPIC",
+        "ACOG 2023"
+      ]
+    },
+    {
+      "question": "Qual é o mecanismo fisiopatológico central da pré-eclâmpsia?",
+      "options": [
+        "Hiperaldosteronismo primário",
+        "Disfunção tireoidiana gestacional",
+        "Placentação anormal com isquemia",
+        "Aumento do débito cardíaco materno"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A pré-eclâmpsia é causada por placentação anormal, com falha na remodelação das artérias espirais uterinas, resultando em isquemia placentária e liberação de fatores antiangiogênicos que causam disfunção endotelial sistêmica e hipertensão.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_gravidez",
+        "fisiopatologia",
+        "placenta_anormal",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a complicação mais temida da pré-eclâmpsia não tratada?",
+      "options": [
+        "parto prematuro leve",
+        "Diabetes gestacional",
+        "Eclâmpsia com convulsões",
+        "Anemia grave por deficiência de ferro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A eclâmpsia, caracterizada por convulsões tônico-clônicas generalizadas, é a complicação mais grave da pré-eclâmpsia não tratada, com risco de morte materna e fetal. Ocorre devido à encefalopatia hipertensiva e edema cerebral secundário à disfunção endotelial.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_gravidez",
+        "complicações",
+        "eclampsia",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual é o manejo definitivo da pré-eclâmpsia com critérios de gravidade?",
+      "options": [
+        "Aumento da dose de labetalol",
+        "Administração de diuréticos orais",
+        "Indução do parto ou cesariana",
+        "Descanso absoluto em casa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O manejo definitivo da pré-eclâmpsia grave é a interrupção da gravidez, por indução do parto ou cesariana, uma vez que a placenta é a fonte do dano endotelial. O repouso e os medicamentos anti-hipertensivos são medidas temporárias até a resolução da gravidez.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_gravidez",
+        "tratamento",
+        "gravidez_terminação",
+        "MEDICAL_TOPIC",
+        "ACOG 2023"
+      ]
+    },
+    {
+      "question": "Qual dos seguintes fatores de risco cardiovascular é considerado modificável?",
+      "options": [
+        "Sexo masculino",
+        "Pressão alta",
+        "Velhice",
+        "História familiar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A hipertensão arterial é um fator de risco cardiovascular que pode ser modificado por meio de mudanças no estilo de vida e tratamento farmacológico, diferentemente da idade, sexo e histórico familiar, que não são modificáveis.",
+      "hashtags": [
+        "medicina_interna",
+        "fatores_de_risco_cardiovasculares",
+        "epidemiologia",
+        "fatores_modificáveis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual parâmetro é utilizado para definir a síndrome metabólica como fator de risco cardiovascular?",
+      "options": [
+        "triglicerídeos elevados",
+        "Proteína C reativa",
+        "Hemoglobina glicosilada",
+        "Colesterol total elevado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A síndrome metabólica inclui triglicerídeos elevados (≥150 mg/dL) como um de seus critérios diagnósticos, juntamente com obesidade abdominal, glicose prejudicada, HDL baixo e pressão arterial elevada.",
+      "hashtags": [
+        "medicina_interna",
+        "síndrome_metabólica",
+        "diagnóstico",
+        "critérios_diagnóstico",
+        "MEDICAL_TOPIC",
+        "ATPIII 2001"
+      ]
+    },
+    {
+      "question": "Qual é o principal mecanismo pelo qual a obesidade aumenta o risco cardiovascular?",
+      "options": [
+        "resistência à insulina",
+        "Hipercolesterolemia isolada",
+        "Fibrinólise diminuída",
+        "Aumento do débito cardíaco"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A obesidade induz resistência à insulina, o que gera hiperinsulinemia, dislipidemia, inflamação crônica e disfunção endotelial, mecanismos que aumentam o risco cardiovascular.",
+      "hashtags": [
+        "medicina_interna",
+        "obesidade",
+        "fisiopatologia",
+        "resistência à insulina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual nível de colesterol LDL é considerado de alto risco cardiovascular de acordo com as diretrizes?",
+      "options": [
+        "Maior que 190 mg/dL",
+        "Maior que 160 mg/dL",
+        "Maior que 130 mg/dL",
+        "Maior que 100 mg/dL"
+      ],
+      "correctAnswer": 4,
+      "explanation": "As diretrizes atuais consideram o LDL >100 mg/dL como um fator de alto risco, especialmente em pacientes com doença cardiovascular estabelecida ou diabetes, necessitando de tratamento intensivo.",
+      "hashtags": [
+        "medicina_interna",
+        "dislipidemia",
+        "tratamento",
+        "ldl_colesterol",
+        "MEDICAL_TOPIC",
+        "Guia ACC/AHA 2018"
+      ]
+    },
+    {
+      "question": "Qual dos seguintes fatores de risco cardiovascular é mais prevalente na população em geral?",
+      "options": [
+        "Diabetes mellitus tipo 2",
+        "Fumar ativo",
+        "Obesidade mórbida",
+        "Pressão alta"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A hipertensão arterial é o fator de risco cardiovascular mais prevalente em todo o mundo, afetando aproximadamente 30-45% da população adulta, superando em frequência o diabetes, o tabagismo e a obesidade.",
+      "hashtags": [
+        "medicina_interna",
+        "hipertensão_arterial",
+        "epidemiologia",
+        "prevalência",
+        "MEDICAL_TOPIC",
+        "OMS 2023"
+      ]
+    },
+    {
+      "question": "Que efeito o tabagismo tem no sistema cardiovascular que aumenta o risco?",
+      "options": [
+        "Frequência cardíaca reduzida",
+        "Vasodilatação periférica",
+        "Disfunção endotelial",
+        "Aumento do colesterol HDL"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O tabagismo provoca disfunção endotelial devido ao estresse oxidativo e danos diretos ao endotélio vascular, promovendo inflamação, vasoconstrição e formação de placas ateroscleróticas.",
+      "hashtags": [
+        "medicina_interna",
+        "fumar",
+        "fisiopatologia",
+        "disfunção_endotelial",
+        "MEDICAL_TOPIC",
         ""
       ]
     }

@@ -1,1333 +1,1143 @@
 {
   "questions": [
     {
-      "question": "Qual é a definição primária de pericardite aguda?",
+      "question": "Qual é o achado eletrocardiográfico mais característico da pericardite aguda?",
       "options": [
-        "Inflamação miocárdica",
-        "Inflamação do pericárdio",
-        "Inflamação das válvulas cardíacas",
-        "Inflamação dos vasos coronários"
+        "Complexos QS em V1-V3",
+        "Ondas T invertidas simétricas",
+        "Onda R alta em V5-V6",
+        "Elevação ST difusa"
       ],
-      "correctAnswer": 2,
-      "explanation": "A pericardite aguda é especificamente definida como inflamação da membrana serosa de dupla camada que envolve o coração, conhecida como pericárdio.",
+      "correctAnswer": 4,
+      "explanation": "A elevação difusa do segmento ST (elevação côncava para cima em múltiplas derivações) é o achado clássico do ECG na pericardite aguda, refletindo a inflamação do epicárdio subjacente.",
       "hashtags": [
-        "medicina_interna",
+        "cardiologia",
         "pericardite_aguda",
-        "conceito",
-        "definição_básica",
-        "PATOLOGIA",
+        "seção",
+        "ecg_finding",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Quais camadas do pericárdio estão tipicamente inflamadas na pericardite?",
+      "question": "Qual é o sinal físico clássico de pericardite aguda?",
       "options": [
-        "Camadas viscerais e parietais",
-        "Somente a camada parietal",
-        "Somente o epicárdio",
-        "Somente a camada visceral"
+        "Sopro pansistólico",
+        "Terceira bulha cardíaca",
+        "Clique pericárdico",
+        "fricção pericárdica"
       ],
-      "correctAnswer": 1,
-      "explanation": "Na pericardite, a inflamação afeta tanto a camada visceral do pericárdio (que cobre o coração, também chamada de epicárdio) quanto a camada parietal.",
+      "correctAnswer": 4,
+      "explanation": "A fricção pericárdica é um sinal auscultatório patognomônico de pericardite aguda, produzida pela fricção das camadas pericárdicas inflamadas; Geralmente é de alta frequência e evanescente.",
       "hashtags": [
-        "medicina_interna",
+        "cardiologia",
         "pericardite_aguda",
-        "conceito",
-        "camadas_pericárdicas",
-        "PATOLOGIA",
+        "seção",
+        "pericárdio_rub",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual é uma possível consequência da inflamação pericárdica de longo prazo?",
+      "question": "Qual característica da dor torácica é típica na pericardite aguda?",
       "options": [
-        "Pericardite constritiva",
-        "estenose aórtica",
-        "Insuficiência mitral grave",
-        "Dilatação ventricular"
+        "Dor opressiva retroesternal",
+        "Dor surda no hemitórax esquerdo",
+        "Dor aguda que melhora ao sentar",
+        "Dor em queimação epigástrica"
       ],
-      "correctAnswer": 1,
-      "explanation": "A inflamação crônica do pericárdio pode causar espessamento e fibrose, resultando em pericardite constritiva, que restringe o enchimento diastólico do coração.",
+      "correctAnswer": 3,
+      "explanation": "A dor na pericardite aguda é aguda ou pleurítica, muitas vezes aliviada ao sentar-se e inclinar-se para a frente, e piora com a inspiração e a posição supina.",
       "hashtags": [
-        "medicina_interna",
+        "cardiologia",
         "pericardite_aguda",
-        "complicações",
-        "pericardite_crônica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o sintoma cardinal mais comum da pericardite aguda?",
-      "options": [
-        "Dor no peito",
-        "Edema de membros inferiores",
-        "Dispneia aos esforços",
-        "Palpitações"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A dor torácica é o sintoma mais característico e frequente da pericardite aguda, apresentando frequentemente características pleuríticas e posicionais.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tabela_clínica",
+        "seção",
         "dor no peito",
-        "PATOLOGIA",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual achado auscultatório é patognomônico de pericardite aguda?",
+      "question": "Qual é a primeira linha de tratamento na pericardite aguda sem critérios de alto risco?",
       "options": [
-        "Galope S3",
-        "Rolamento protodiastólico",
-        "Fricção pericárdica",
-        "Sopro sistólico aórtico"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A fricção pericárdica é um som áspero e raspado, considerado o sinal mais específico de inflamação do pericárdio, embora possa ser transitório.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "diagnóstico",
-        "ausculta",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é uma causa viral comum implicada na pericardite aguda?",
-      "options": [
-        "Vírus Epstein-Barr",
-        "Vírus Coxsackie B",
-        "Virus de la Hepatitis B",
-        "Citomegalovírus"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Os vírus Coxsackie B são uma das causas virais mais frequentemente identificadas em casos de pericardite idiopática aguda em pacientes imunocompetentes.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "etiologia",
-        "causas_virais",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que doença autoimune está frequentemente associada à pericardite?",
-      "options": [
-        "Diabetes Mellitus tipo 1",
-        "asma brônquica",
-        "Artrite reumatoide",
-        "Doença de Crohn"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A Artrite Reumatóide e o Lúpus Eritematoso Sistêmico são doenças do tecido conjuntivo que frequentemente se apresentam com inflamação pericárdica.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "etiologia",
-        "causas_autoinmunes",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a causa infecciosa bacteriana a ser considerada na pericardite?",
-      "options": [
-        "Mycobacterium tuberculose",
-        "Escherichia coli",
-        "Pseudomonas aeruginosa",
-        "Staphylococcus epidermidis"
+        "Colchicina mais AINEs",
+        "Prednisona em altas doses",
+        "Pericardiocentese urgente",
+        "Anticoagulação oral"
       ],
       "correctAnswer": 1,
-      "explanation": "A tuberculose é uma causa importante de pericardite, especialmente em países endêmicos ou em pacientes com HIV, e pode causar derrames exsudativos e constrição.",
+      "explanation": "O tratamento de primeira linha na pericardite aguda sem critérios de alto risco é a combinação de anti-inflamatórios não esteroides (AINEs) e colchicina, que reduz a recorrência e acelera a resolução.",
       "hashtags": [
-        "medicina_interna",
+        "cardiologia",
         "pericardite_aguda",
-        "etiologia",
-        "tuberculose",
-        "PATOLOGIA",
+        "seção",
+        "tratamento_inicial",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Que condição metabólica pode causar pericardite?",
+      "question": "Qual das alternativas a seguir é o principal critério diagnóstico para pericardite aguda?",
       "options": [
-        "Hipertireoidismo",
-        "Uremia",
-        "Diabetes insípido",
-        "Hipoparatireoidismo"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O acúmulo de resíduos metabólicos na insuficiência renal avançada (uremia) pode desencadear pericardite urêmica.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "etiologia",
-        "uremia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que é uma neoplasia que pode causar pericardite?",
-      "options": [
-        "adenoma hepático",
-        "Linfoma",
-        "Carcinoma basocelular",
-        "Mioma uterino"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Os linfomas, assim como as metástases de outros tumores, como pulmão ou mama, são causas importantes de pericardite neoplásica, muitas vezes com derrame hemorrágico.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "etiologia",
-        "neoplasias",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que evento cardíaco pode precipitar a pericardite (Síndrome de Dressler)?",
-      "options": [
-        "Arritmia supraventricular",
-        "estenose da válvula aórtica",
-        "Infarto agudo do miocárdio",
-        "Insuficiência cardíaca aguda"
+        "Febre superior a 38°C",
+        "PCR elevada",
+        "fricção pericárdica",
+        "Derrame pericárdico grave"
       ],
       "correctAnswer": 3,
-      "explanation": "A síndrome de Dressler é uma resposta inflamatória autoimune retardada que ocorre semanas a meses após um infarto agudo do miocárdio.",
+      "explanation": "A fricção pericárdica é um dos principais critérios diagnósticos para pericardite aguda, juntamente com dor típica, elevação difusa do segmento ST e derrame pericárdico novo ou agravado.",
       "hashtags": [
-        "medicina_interna",
+        "cardiologia",
         "pericardite_aguda",
-        "etiologia",
-        "infarto do miocárdio",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é uma possível complicação hemodinâmica aguda da pericardite?",
-      "options": [
-        "estenose mitral",
-        "tamponamento cardíaco",
-        "arritmia sinusal",
-        "Hipertensão pulmonar"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O acúmulo de líquido no espaço pericárdico pode comprimir as câmaras cardíacas, levando ao tamponamento cardíaco com grave comprometimento hemodinâmico.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "fisiopatologia",
-        "cardíaco_tamponade",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual sinal clínico está associado ao tamponamento cardíaco e reflete a interdependência ventricular?",
-      "options": [
-        "Taquicardia supraventricular",
-        "Pulso alternado",
-        "Pulso paradoxal",
-        "ritmo de galope"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Pulsus paradoxus, uma queda exagerada na pressão arterial sistólica durante a inspiração, é um sinal característico de tamponamento cardíaco.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "fisiopatologia",
-        "pulsus_paradoxus",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Quais alterações eletrocardiográficas são características da pericardite aguda?",
-      "options": [
-        "Inversão de onda P",
-        "Elevação ST difusa",
-        "Elevação ST focada",
-        "Ondas Q patológicas"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A pericardite aguda normalmente apresenta elevação difusa do segmento ST, côncava para cima, em oposição à elevação focal observada no infarto do miocárdio.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "diagnóstico",
-        "eletrocardiograma",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a modalidade de imagem de escolha para avaliar derrame pericárdico?",
-      "options": [
-        "RM cardíaca",
-        "Tomografia computadorizada",
-        "Ecocardiograma transtorácico",
-        "Radiografia de tórax"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A ecocardiografia transtorácica é a ferramenta mais sensível e acessível para detectar, quantificar e avaliar o impacto de um derrame pericárdico.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "diagnóstico",
-        "ecocardiograma",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual marcador inflamatório normalmente está elevado na pericardite aguda?",
-      "options": [
-        "Pró BNP",
-        "Proteína C Reativa (PCR)",
-        "Troponina I",
-        "Creatina quinase (CK)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A proteína C reativa (PCR) é um marcador de inflamação sistêmica que está elevada na pericardite aguda e ajuda a monitorar a resposta ao tratamento.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "diagnóstico",
-        "marcadores_inflamatórios",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual a principal indicação da pericardiocentese na pericardite aguda?",
-      "options": [
-        "tamponamento cardíaco",
-        "febre persistente",
-        "Dor leve no peito",
-        "Pequeno derrame pericárdico"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A pericardiocentese é indicada prioritariamente quando há tamponamento cardíaco, que compromete a função hemodinâmica do coração.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tratamento",
-        "pericardiocentese",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o tratamento de primeira linha para pericardite aguda não complicada?",
-      "options": [
-        "Antibióticos e AINEs",
-        "Observação sem tratamento",
-        "Corticosteróides sozinhos",
-        "AINEs e colchicina"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A combinação de Antiinflamatórios Não Esteroides (AINEs) e ibuprofeno e colchicina é o tratamento de escolha para pericardite aguda não complicada.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tratamento",
-        "primeira_linha",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual o principal papel da colchicina no tratamento da pericardite?",
-      "options": [
-        "Causa vasodilatação",
-        "Reduzir a dor aguda",
-        "Prevenir recorrências",
-        "Elimine a infecção bacteriana"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A colchicina é crucial para melhorar a resposta ao tratamento e reduzir significativamente o risco de recorrência da pericardite.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tratamento",
-        "colchicina",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Por quanto tempo geralmente é recomendado o tratamento com colchicina?",
-      "options": [
-        "1 semana",
-        "2 semanas",
-        "3 meses",
-        "6 meses"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A colchicina é normalmente administrada por pelo menos três meses para garantir a resolução da inflamação e minimizar o risco de recorrência.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tratamento",
-        "duração_tratamento",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Quando a pericardite é geralmente considerada recorrente?",
-      "options": [
-        "Após 48 horas após o término do tratamento",
-        "No início do tratamento",
-        "4-6 semanas após interromper o tratamento",
-        "Depois de 1 ano"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A pericardite é definida como recorrente quando os sintomas reaparecem após um período de recuperação completo de pelo menos 4-6 semanas após a descontinuação do tratamento.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "conceito",
-        "pericardite_recorrente",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é uma das causas mais comuns de pericardite idiopática?",
-      "options": [
-        "Radioterapia",
-        "Trauma direto",
-        "infecção viral",
-        "Ingestão de álcool"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A pericardite idiopática, onde nenhuma causa específica é identificada, é frequentemente presumida como sendo de origem viral subclínica ou autoimune.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "etiologia",
-        "idiopático",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Quais características da dor torácica sugerem pericardite aguda?",
-      "options": [
-        "Constritivo, associado ao esforço",
-        "Opressivo, irradiando para o braço esquerdo",
-        "Pleurítico, pior quando deitado",
-        "Queima, associada a alimentos"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A dor tipicamente pleurítica é característica, piorando com inspiração profunda e deitado, e melhor quando sentado inclinado para a frente.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tabela_clínica",
-        "características_da_dor",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que sinal pode indicar comprometimento hemodinâmico grave na pericardite?",
-      "options": [
-        "Ingurgitamento jugular",
-        "Pressão arterial normal",
-        "Pulso arterial forte",
-        "Bradicardia sinusal"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O ingurgitamento jugular, especialmente acentuado durante a expiração, é um sinal de aumento da pressão venosa central, sugestivo de comprometimento do enchimento cardíaco.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tabela_clínica",
-        "sinais_entupimento",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual destes medicamentos está ocasionalmente associado à pericardite?",
-      "options": [
-        "Procainamida",
-        "Metformina",
-        "Sinvastatina",
-        "Omeprazol"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Certos medicamentos, como procainamida, hidralazina e isoniazida, têm sido associados à indução de pericardite ou lúpus induzido por medicamentos.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "etiologia",
-        "drogas",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual achado de RMC é sugestivo de inflamação pericárdica ativa?",
-      "options": [
-        "Espessamento pericárdico leve",
-        "Diminuição do volume pericárdico",
-        "Falta de aprimoramento tardio",
-        "Realce tardio de gadolínio"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O realce tardio do gadolínio nas sequências de ressonância magnética cardíaca é um indicador de inflamação ativa no pericárdio.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "diagnóstico",
-        "ressonância_magnética",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual critério é fundamental para o diagnóstico de pericardite de acordo com diretrizes recentes?",
-      "options": [
-        "Dois dos quatro critérios (clínico, ECG, imagem, inflamatório)",
-        "Apenas fricção pericárdica",
-        "Apenas dor no peito",
-        "Apenas elevação da PCR"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O diagnóstico de pericardite aguda requer a presença de pelo menos dois dos quatro conjuntos de critérios: clínicos, alterações no ECG, evidência de derrame nos exames de imagem e marcadores inflamatórios elevados.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "diagnóstico",
+        "seção",
         "critérios_diagnóstico",
-        "PATOLOGIA",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual é a implicação clínica da elevação difusa do segmento ST na pericardite?",
+      "question": "Qual complicação deve ser suspeitada em caso de hipotensão e pulso paradoxal na pericardite aguda?",
       "options": [
-        "Reflete inflamação generalizada do pericárdio",
-        "Sugere dano miocárdico",
-        "Associado à arritmia ventricular",
-        "Indica infarto localizado"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A elevação difusa e côncava do segmento ST na pericardite aguda é interpretada como envolvimento inflamatório generalizado do pericárdio, e não focal como no IAM.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "diagnóstico",
-        "eletrocardiograma_interpretação",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que deve ser suspeitado se ocorrer pericardite em um paciente com HIV avançado?",
-      "options": [
-        "Pericardite viral comum",
-        "Pericardite autoimune",
-        "Pericardite tuberculosa",
-        "Pericardite isquêmica"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Em pacientes imunocomprometidos, especialmente com HIV, a pericardite tuberculosa é uma causa importante a considerar, além de outras infecções oportunistas.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "etiologia",
-        "HIV",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual a principal característica da dor na pericardite que a diferencia da angina?",
-      "options": [
-        "Caráter pleurítico",
-        "Relação com esforço físico",
-        "Duração",
-        "Intensidade"
+        "Miocardite associada",
+        "tamponamento cardíaco",
+        "infarto do miocárdio",
+        "Embolia pulmonar"
       ],
       "correctAnswer": 2,
-      "explanation": "A dor pericárdica geralmente é pleurítica e posicional, enquanto a dor anginosa é tipicamente opressiva e relacionada ao esforço físico ou emocional.",
+      "explanation": "O tamponamento cardíaco é uma complicação grave da pericardite aguda que se apresenta com hipotensão, pulso paradoxal, ingurgitamento jugular e diminuição dos sons cardíacos.",
       "hashtags": [
-        "medicina_interna",
+        "cardiologia",
         "pericardite_aguda",
-        "tabela_clínica",
-        "dor_diferencial",
-        "PATOLOGIA",
+        "seção",
+        "cardíaco_tamponade",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual fator de risco aumenta a probabilidade de recorrência da pericardite?",
+      "question": "Qual é o principal mecanismo fisiopatológico da dor na pericardite aguda?",
       "options": [
-        "causa idiopática",
-        "Início repentino dos sintomas",
-        "Tratamento com colchicina",
-        "Uso de AINEs em altas doses"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A pericardite idiopática apresenta maior taxa de recorrência em comparação àquelas com causa identificada e tratável.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "complicações",
-        "fatores_de_risco_de_recorrência",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Por que deve-se ter cautela com a anticoagulação na pericardite aguda?",
-      "options": [
-        "Causa hipotensão",
-        "Aumenta o risco de IAM",
-        "Reduz a eficácia dos AINEs",
-        "Pode causar hemopericárdio e tamponamento"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A anticoagulação em um pericárdio inflamado e potencialmente sangrante aumenta significativamente o risco de acúmulo de sangue no espaço pericárdico, levando ao tamponamento hemorrágico.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tratamento",
-        "anticoagulação",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a duração típica da fase aguda da pericardite?",
-      "options": [
-        "Até 4-6 semanas",
-        "Até 72 horas",
-        "Mais de 6 meses",
-        "Até 1 semana"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A pericardite aguda é definida pela presença de sintomas e sinais de inflamação pericárdica que duram até um período de 4 a 6 semanas.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "conceito",
-        "cronologia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que significa 'Tríade de Beck' no contexto do tamponamento cardíaco?",
-      "options": [
-        "Dor no peito, dispneia, tosse",
-        "Hipotensão, taquicardia, febre",
-        "Arritmia, edema, cianose",
-        "Hipotensão, ingurgitamento jugular, sons cardíacos abafados"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A tríade clássica de Beck de tamponamento cardíaco consiste em hipotensão arterial, ingurgitamento jugular e sons cardíacos abafados ou distantes.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tabela_clínica",
-        "triada_beck",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Quando deve ser considerado o uso de corticosteróides na pericardite aguda?",
-      "options": [
-        "Em casos refratários a AINEs e colchicina",
-        "Sempre na primeira linha",
-        "Somente na pericardite viral",
-        "Para qualquer derrame pericárdico"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Os corticosteróides são reservados para casos de pericardite aguda refratária ao tratamento padrão com AINEs e colchicina, ou em etiologias específicas como tuberculosa ou autoimune.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tratamento",
-        "corticosteróides",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que achado na ausculta deve levar alguém a suspeitar de miopericardite?",
-      "options": [
-        "Apenas fricção pericárdica clara",
-        "Apenas sopros sistólicos",
-        "Ausência de sons cardíacos",
-        "Fricção pericárdica e sinais de disfunção miocárdica"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A miopericardite envolve inflamação do pericárdio e do miocárdio, de modo que a fricção pericárdica pode ocorrer juntamente com alterações no ritmo, condução ou contratilidade miocárdica.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tabela_clínica",
-        "miopericardite",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual a importância da análise do líquido pericárdico na pericardite?",
-      "options": [
-        "Para ajudar a determinar a etiologia",
-        "Só para confirmar o vazamento",
-        "Para sempre descartar embolia pulmonar",
-        "Não tem uso clínico"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A análise do líquido pericárdico (culturas, citologia, bioquímica) é crucial para identificar a causa subjacente, especialmente em derrames moderados a grandes ou se houver suspeita de infecção ou malignidade.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "diagnóstico",
-        "fluido_pericárdico",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual o principal motivo para recomendar repouso físico na pericardite?",
-      "options": [
-        "Prevenir a trombose venosa profunda",
-        "Melhorar a resposta aos AINEs",
-        "Reduza a carga de trabalho cardíaco e evite recorrências",
-        "Facilitar a ausculta"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O repouso físico ajuda a reduzir a demanda miocárdica, reduz o estresse no pericárdio inflamado e está associado a um menor risco de recorrência da pericardite.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tratamento",
-        "descanso_físico",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que significa a pericardite ser “idiopática”?",
-      "options": [
-        "Que é de origem bacteriana",
-        "Que é causado por um vírus",
-        "Que é secundário a uma doença autoimune",
-        "Que a causa não foi identificada"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A pericardite é classificada como idiopática quando, após uma avaliação minuciosa, uma causa específica não pode ser determinada.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "conceito",
-        "etiologia_idiopática",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é uma possível complicação crônica da pericardite aguda não tratada?",
-      "options": [
-        "estenose mitral grave",
-        "Hipertensão arterial pulmonar primária",
-        "Cardiomiopatia dilatada",
-        "Pericardite constritiva"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A inflamação crônica e a fibrose pericárdica resultantes de uma pericardite aguda mal controlada podem progredir para pericardite constritiva.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "complicações",
-        "pericardite_constritiva_crônica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que característica da dor na pericardite pode simular um infarto agudo do miocárdio?",
-      "options": [
-        "Piora com inspiração",
-        "Caráter opressivo e persistente",
-        "Alívio ao inclinar-se para frente",
-        "Irradiação do pescoço"
+        "Compressão das artérias coronárias",
+        "Inflamação das camadas pericárdicas",
+        "Isquemia miocárdica transitória",
+        "Distensão da cápsula pericárdica"
       ],
       "correctAnswer": 2,
-      "explanation": "Se houver envolvimento miocárdico concomitante (miopericardite), a dor pode tornar-se mais opressiva, semelhante à da isquemia miocárdica, e persistente.",
+      "explanation": "A dor na pericardite aguda é devida à inflamação das camadas pericárdicas, que estimula as terminações nervosas do pericárdio parietal, ao contrário da isquemia ou compressão coronariana.",
       "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tabela_clínica",
-        "dor_miopericardite",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a função do pericárdio?",
-      "options": [
-        "Filtrar sangue arterial",
-        "Produzir válvulas cardíacas",
-        "Proteja e ancore o coração",
-        "Bombear sangue ativamente"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O pericárdio é um saco fibroso que envolve o coração, proporcionando proteção física, ancorando-o em sua posição no mediastino e limitando sua dilatação excessiva.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "conceito",
-        "função_pericárdio",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de exsudato é característico da pericardite bacteriana piogênica?",
-      "options": [
-        "seroso claro",
-        "Purulento",
-        "Serohemorrágico",
-        "Líquido citrino"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A pericardite purulenta, causada por bactérias piogênicas, é caracterizada pela presença de exsudato espesso, opaco e semelhante a pus.",
-      "hashtags": [
-        "medicina_interna",
+        "cardiologia",
         "pericardite_aguda",
         "fisiopatologia",
-        "exsudato_purulento",
-        "PATOLOGIA",
-        ""
+        "dor_pleurítica",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
       ]
     },
     {
-      "question": "Por que a elevação do segmento ST na pericardite geralmente é difusa?",
+      "question": "Que característica da dor indica pericardite aguda em vez de infarto agudo do miocárdio?",
       "options": [
-        "Devido à resposta à radioterapia",
-        "Devido a um bloqueio coronário",
-        "Devido à isquemia miocárdica focal",
-        "Devido ao envolvimento inflamatório generalizado do pericárdio"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A natureza inflamatória difusa do pericárdio explica porque a elevação do segmento ST, quando presente, afeta simetricamente múltiplas derivações eletrocardiográficas.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "fisiopatologia",
-        "difuso_ecg",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o critério de alto risco na pericardite aguda de acordo com as diretrizes da ESC 2023?",
-      "options": [
-        "Dor de início gradual",
-        "Resposta completa aos AINEs em 48 horas",
-        "PCR normal",
-        "Febre persistente (>38°C) por mais de uma semana"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A presença de febre persistente (temperatura >38°C) por mais de uma semana é critério de alto risco indicando necessidade de internação e manejo mais intensivo.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "diagnóstico",
-        "critérios_de_alto_risco",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de derrame é mais comum na pericardite neoplásica?",
-      "options": [
-        "Fibrinoso",
-        "Purulento",
-        "Serohemorrágico ou hemorrágico",
-        "Seroso"
-      ],
-      "correctAnswer": 3,
-      "explanation": "As neoplasias que infiltram o pericárdio geralmente provocam resposta inflamatória com sangramento, resultando em derrames sero-hemorrágicos ou francamente hemorrágicos.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "etiologia",
-        "neoplasia_efusão",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a sequela de longo prazo da pericardite que causa insuficiência cardíaca direita?",
-      "options": [
-        "estenose pulmonar",
-        "Insuficiência aórtica",
-        "Pericardite constritiva",
-        "Cardiomiopatia hipertrófica"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A pericardite constritiva é uma forma crônica de inflamação pericárdica caracterizada por um pericárdio espesso e rígido que restringe gravemente o enchimento diastólico, mimetizando insuficiência cardíaca direita.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "complicações",
-        "right_heart_failure",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que manobra pode ajudar a ouvir melhor o atrito pericárdico?",
-      "options": [
-        "Peça ao paciente para se deitar",
-        "Incline-se para frente e prenda a respiração",
-        "Pressão no ápice cardíaco",
-        "Auscultar em decúbito ventral"
+        "Constante e dura mais de 30 min",
+        "Afiado e melhora ao inclinar",
+        "Irradiado para o braço esquerdo",
+        "Opressivo e retroesternal"
       ],
       "correctAnswer": 2,
-      "explanation": "Inclinar-se para frente reduz a quantidade de ar nos pulmões e aproxima o pericárdio da parede torácica, facilitando a audição do atrito pericárdico.",
+      "explanation": "A dor na pericardite é tipicamente pleurítica, em pontada e melhora ao inclinar-se para frente, enquanto o infarto costuma ser opressivo e constante, o que auxilia no diagnóstico diferencial.",
       "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "diagnóstico",
-        "manobra_auscultação",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a principal causa de pericardite em pacientes idosos hospitalizados?",
-      "options": [
-        "infartos do miocárdio",
-        "Causas autoimunes",
-        "Neoplasias",
-        "Infecções virais comuns"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Em pacientes idosos hospitalizados, especialmente aqueles com história de oncologia, as neoplasias (primárias ou metastáticas) são uma causa significativa de pericardite.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "epidemiologia",
-        "idosos",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que a troponina elevada sugere em um paciente com pericardite?",
-      "options": [
-        "Pericardite isolada não complicada",
-        "Embolia pulmonar aguda",
-        "Dissecção aórtica tipo A",
-        "Miocardite concomitante ou miopericardite"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A elevação das troponinas indica dano miocárdico. No contexto da pericardite, sugere a presença de miocardite associada (miopericardite).",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "diagnóstico",
-        "miocardite",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual atitude é recomendada em relação à atividade física na pericardite?",
-      "options": [
-        "Atividade intensa imediata",
-        "Esportes competitivos se a dor diminuir",
-        "Descanso absoluto indefinido",
-        "Descanso relativo, evite esforços intensos por meses"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Recomenda-se repouso relativo, evitando esforços intensos e esportes competitivos por pelo menos 3-6 meses após resolução dos sintomas e normalização da PCR, para prevenir recorrências.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tratamento",
-        "atividade física",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que pode causar acúmulo de líquido pericárdico?",
-      "options": [
-        "Inflamação e aumento da permeabilidade vascular pericárdica",
-        "Diminuição da pressão arterial",
-        "Aumento da pressão venosa central",
-        "Hipertrofia ventricular esquerda"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A inflamação do pericárdio leva ao aumento da permeabilidade dos capilares locais, permitindo o extravasamento de líquido, proteínas e células para o espaço pericárdico.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "fisiopatologia",
-        "derrame_pericárdico",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a principal diferença entre pericardite aguda e crônica?",
-      "options": [
-        "A etiologia viral é exclusiva da doença aguda",
-        "A dor no peito ocorre apenas em casos agudos",
-        "A duração dos sintomas (até 4-6 semanas vs >4-6 meses)",
-        "A constrição é apenas crônica"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A principal distinção baseia-se na cronologia: a pericardite aguda dura até 4-6 semanas, enquanto a pericardite crónica persiste por mais de 4-6 meses.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "conceito",
-        "cronologia_diferença",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Por que a dissecção aórtica pode causar pericardite?",
-      "options": [
-        "Devido à estenose da artéria coronária",
-        "Por disseminação hematogênica",
-        "Devido à reação autoimune retardada",
-        "Devido à irritação direta do pericárdio pelo sangue"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Se a dissecção aórtica afetar a raiz da aorta, pode haver extravasamento de sangue para o espaço pericárdico (hemopericárdio), causando irritação e inflamação (pericardite reativa).",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "etiologia",
-        "dissecção_aórtica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual dos seguintes sinais NÃO é típico de pericardite aguda?",
-      "options": [
-        "Elevação ST difusa",
-        "dor pleurítica",
-        "Febre baixa",
-        "Sopro holossistólico mitral"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O sopro holossistólico mitral não é um sinal típico de pericardite aguda; sugere patologia valvular ou miocárdica.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tabela_clínica",
-        "sinais_não típicos",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a consequência da compressão extrínseca das câmaras cardíacas devido ao derrame pericárdico?",
-      "options": [
-        "Diminuição do enchimento diastólico",
-        "Frequência cardíaca reduzida",
-        "Aumento do retorno venoso",
-        "Aumento da contratilidade"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A pressão do líquido pericárdico dificulta o enchimento das câmaras cardíacas, principalmente durante a diástole, reduzindo o volume sistólico e o débito cardíaco.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "fisiopatologia",
-        "preenchimento_diastólico",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual terapia é considerada de segunda linha para pericardite recorrente refratária?",
-      "options": [
-        "AINEs e colchicina em altas doses",
-        "Prednisona em dose baixa",
-        "Antibióticos de amplo espectro",
-        "Diuréticos poderosos"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Nos casos de pericardite recorrente que não respondem ao tratamento padrão, podem ser utilizados corticosteroides em baixas doses, juntamente com outras terapias imunomoduladoras.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tratamento",
-        "pericardite_recorrente",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Por que a RMC é superior à ecocardiografia na avaliação da inflamação miocárdica?",
-      "options": [
-        "Meça a pressão arterial com mais precisão",
-        "É mais rápido e acessível",
-        "Avalia realce tardio de gadolínio no miocárdio",
-        "Detecta melhor o derrame pericárdico"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A Ressonância Magnética Cardíaca (RMC) utiliza sequências específicas, como realce tardio com gadolínio, para identificar e caracterizar inflamação e fibrose miocárdica, que é mais limitada na ecocardiografia.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "diagnóstico",
-        "rmc_miocardite",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual a implicação do hipotireoidismo grave no pericárdio?",
-      "options": [
-        "Derrame pericárdico e possível inflamação",
-        "Hipertrofia pericárdica",
-        "Calcificação pericárdica",
-        "Aumento da espessura pericárdica"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O hipotireoidismo grave pode estar associado a derrames pericárdicos, que, embora muitas vezes serosos, podem inflamar e simular pericardite.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "etiologia",
-        "hipotireoidismo",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o principal objetivo do tratamento da pericardite aguda?",
-      "options": [
-        "Remover completamente o líquido pericárdico",
-        "Aliviar a dor, controlar a inflamação e prevenir complicações",
-        "Evitar a formação de aderências",
-        "Restaurar a função da válvula"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O manejo da pericardite aguda busca controlar os sintomas (dor, inflamação), tratar a causa subjacente e prevenir complicações de curto e longo prazo, como tamponamento ou recorrência.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tratamento",
-        "tratamento_metas",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de dor no peito é mais sugestiva de pericardite?",
-      "options": [
-        "Pleurítico, pior com inspiração profunda",
-        "Ponto lateral, constante",
-        "Opressivo, irradiando para o braço direito",
-        "Constritivo, não relacionado à respiração"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O caráter pleurítico, com exacerbação da dor ao respirar fundo ou tossir, é uma característica distintiva da dor pericárdica.",
-      "hashtags": [
-        "medicina_interna",
+        "cardiologia",
         "pericardite_aguda",
         "tabela_clínica",
         "dor_pleurítica",
-        "PATOLOGIA",
-        ""
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015 --- Harrison 21ed"
       ]
     },
     {
-      "question": "Em que população a tuberculose é uma causa importante de pericardite?",
+      "question": "Qual manobra costuma aliviar a dor na pericardite aguda?",
       "options": [
-        "Jovem imunocompetente",
-        "Países em desenvolvimento e coinfecção por HIV",
-        "Nasceu na Europa Ocidental",
-        "Pacientes com doença renal crônica"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A tuberculose continua a ser uma causa primária de pericardite, especialmente em regiões com elevada prevalência da doença e em pacientes com sistema imunológico comprometido, como aqueles co-infectados com HIV.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "epidemiologia",
-        "tuberculose_global",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que se observa no ECG na fase de recuperação da pericardite aguda?",
-      "options": [
-        "Elevação ST persistente",
-        "Depressão ST recíproca acentuada",
-        "Inversão da onda T",
-        "Onda Q patológica"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Após a fase de elevação do segmento ST, a inversão da onda T é uma alteração eletrocardiográfica que pode persistir por semanas ou meses no curso da pericardite aguda.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "diagnóstico",
-        "ecg_evolução",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a principal diferença entre pericardite fibrinosa e serosa?",
-      "options": [
-        "A pericardite fibrinosa é viral, a serosa é bacteriana",
-        "A serosa causa constrição, o tamponamento fibrinoso",
-        "Fibrinoso tem mais depósito de fibrina, serosa tem mais líquido claro",
-        "Não há diferença significativa"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A pericardite fibrinosa é caracterizada por um exsudato rico em fibrina e pode levar a aderências, enquanto a pericardite serosa apresenta um exsudato mais claro, rico em proteínas e células mononucleares.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "fisiopatologia",
-        "exsudato_types",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual manobra de Valsalva pode mostrar alterações na frequência cardíaca no tamponamento?",
-      "options": [
-        "Ambas as fases produzem um aumento na frequência cardíaca",
-        "Não há mudanças significativas",
-        "A fase de estresse diminui a FC, a descompressão aumenta",
-        "A fase de descompressão aumenta a FC, a fase de esforço a mantém"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Durante a manobra de Valsalva, em um coração normal, o esforço aumenta a frequência e a descompressão a diminui. No plugging, essa resposta pode estar alterada ou ausente.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tabela_clínica",
-        "manobra_valsalva",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que é uma causa iatrogênica de pericardite?",
-      "options": [
-        "Radioterapia torácica",
-        "transfusão de sangue",
-        "fratura de costela",
-        "Administração intravenosa de ferro"
+        "Inclinação para frente",
+        "Posição supina",
+        "Tosse forçada",
+        "Inspiração profunda"
       ],
       "correctAnswer": 1,
-      "explanation": "A radioterapia na região torácica, comumente usada para tratar cânceres como câncer de mama ou linfoma, pode induzir inflamação pericárdica.",
+      "explanation": "A dor pericárdica melhora com a inclinação para frente porque reduz o atrito entre as camadas pericárdicas inflamadas, enquanto a posição supina ou inspiração profunda piora a dor.",
       "hashtags": [
-        "medicina_interna",
+        "cardiologia",
         "pericardite_aguda",
-        "etiologia",
-        "iatrogênico",
-        "PATOLOGIA",
-        ""
+        "tabela_clínica",
+        "alívio da dor",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
       ]
     },
     {
-      "question": "O que se espera encontrar em um paciente com pericardite constritiva?",
+      "question": "Qual achado no exame físico é mais sugestivo de pericardite aguda?",
       "options": [
-        "Elevação ST difusa",
-        "Dor torácica pleurítica aguda",
-        "Edema periférico e ascite",
-        "Taquicardia paroxística"
+        "fricção pericárdica",
+        "Terceira bulha cardíaca",
+        "Sopro sistólico em foco aórtico",
+        "Ingurgitamento jugular"
       ],
-      "correctAnswer": 3,
-      "explanation": "A pericardite constritiva restringe o enchimento diastólico, causando sobrecarga de volume e pressão no sistema venoso, manifestando-se como edema, ascite e hepatomegalia.",
+      "correctAnswer": 1,
+      "explanation": "A fricção pericárdica, audível na sístole e na diástole, é o sinal clássico de pericardite aguda devido à fricção das camadas pericárdicas inflamadas, ao contrário dos sopros ou sinais congestivos.",
       "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "complicações",
-        "pericardite_constritiva",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que recomendação é feita quanto ao uso de antiplaquetários na pericardite idiopática aguda?",
-      "options": [
-        "Sempre use aspirina e clopidogrel",
-        "Eles são o tratamento de primeira linha",
-        "Use somente se houver alto risco de trombose",
-        "Evite o uso rotineiro"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O uso de agentes antiplaquetários e anticoagulantes na pericardite idiopática aguda costuma ser evitado ou utilizado com extrema cautela devido ao risco de hemopericárdio.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "tratamento",
-        "antiagregantes",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a causa mais comum de pericardite na população em geral?",
-      "options": [
-        "Tuberculose",
-        "Neoplasias",
-        "Causas virais ou idiopáticas",
-        "Uremia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Em pacientes jovens e saudáveis, a maioria dos casos de pericardite aguda é de origem viral ou é classificada como idiopática, sendo frequentemente assumida uma causa viral subclínica.",
-      "hashtags": [
-        "medicina_interna",
-        "pericardite_aguda",
-        "epidemiologia",
-        "geral_common_cause",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que implica o colapso diastólico das câmaras direitas no ecocardiograma?",
-      "options": [
-        "Disfunção sistólica grave",
-        "Sinal de tamponamento cardíaco",
-        "Hipertensão pulmonar primária",
-        "Pericardite constritiva"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O colapso diastólico do ventrículo direito e do átrio é um sinal ecocardiográfico altamente específico para tamponamento cardíaco, indicando que a pressão intrapericárdica excede a pressão dentro dessas cavidades.",
-      "hashtags": [
-        "medicina_interna",
+        "cardiologia",
         "pericardite_aguda",
         "diagnóstico",
-        "ecocardiograma_tamponade",
-        "PATOLOGIA",
-        ""
+        "pericárdio_rub",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---Braunwald 11ed"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha para pericardite idiopática aguda?",
+      "options": [
+        "Betabloqueadores intravenosos",
+        "Anticoagulação oral",
+        "Colchicina e AINEs",
+        "Corticosteroides sistêmicos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A combinação de AINEs (ibuprofeno) e colchicina é o tratamento de primeira linha para a pericardite aguda, reduzindo a inflamação e as recorrências; os corticosteróides são reservados para casos refratários.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tratamento",
+        "AINE_Colchicina",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual complicação deve ser suspeitada se a dor pericárdica for acompanhada de hipotensão e distensão jugular?",
+      "options": [
+        "tamponamento cardíaco",
+        "Ruptura da aorta torácica",
+        "Embolia pulmonar maciça",
+        "Infarto ventricular direito"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O tamponamento cardíaco se manifesta com hipotensão, ingurgitamento jugular e sons cardíacos abafados, secundários ao derrame pericárdico tenso que comprime o coração, uma complicação da pericardite.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "complicações",
+        "cardíaco_tamponade",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o achado eletrocardiográfico característico da pericardite aguda?",
+      "options": [
+        "Depressão do segmento ST em II-III",
+        "Ondas Q patológicas em V1-V3",
+        "Elevação difusa do segmento ST",
+        "Inversão simétrica da onda T"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A elevação difusa do segmento ST é o achado típico da pericardite aguda, refletindo inflamação do pericárdio visceral; ondas Q patológicas sugerem infarto prévio.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico",
+        "elevação_st",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ª edição"
+      ]
+    },
+    {
+      "question": "Quais derivações normalmente mostram elevação do segmento ST na pericardite aguda?",
+      "options": [
+        "Difundir em vários leads",
+        "Somente leads inferiores",
+        "Somente derivações precordiais",
+        "Somente ramos laterais"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Na pericardite aguda, a elevação do segmento ST é difusa, afetando tanto as derivações precordiais quanto as extremidades, sem se limitar a um território coronariano específico.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico",
+        "ecg_leads",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ª edição"
+      ]
+    },
+    {
+      "question": "Qual sinal eletrocardiográfico diferencia a pericardite aguda do infarto com supradesnivelamento do segmento ST?",
+      "options": [
+        "Elevação ST côncava",
+        "Ritmo de fibrilação atrial",
+        "Ondas Q patológicas",
+        "bloqueio de ramo esquerdo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A elevação côncava do segmento ST (formato de sela) é típica da pericardite, enquanto no IAMCSST geralmente é convexa; Ondas Q são incomuns na pericardite.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico_diferencial",
+        "morfologia_st",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ª edição"
+      ]
+    },
+    {
+      "question": "Qual tratamento de primeira linha está indicado na pericardite aguda com supradesnivelamento do segmento ST?",
+      "options": [
+        "Heparina e nitroglicerina",
+        "Estatinas e betabloqueadores",
+        "Aspirina e clopidogrel",
+        "Ibuprofeno e colchicina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O tratamento inicial da pericardite aguda inclui antiinflamatórios não esteróides (como o ibuprofeno) e colchicina para reduzir a inflamação e prevenir a recorrência.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tratamento",
+        "aines_colchicina",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Que complicação deve ser suspeitada se surgir derrame com tamponamento na pericardite aguda?",
+      "options": [
+        "Infarto agudo do miocárdio",
+        "Miocardite associada",
+        "Pericardite constritiva",
+        "Embolia pulmonar maciça"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A miocardite associada (miopericardite) pode complicar a pericardite aguda, manifestando-se com troponinas elevadas e disfunção ventricular, enquanto o tamponamento é raro sem miocardite.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "complicações",
+        "miopericardite",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ª edição"
+      ]
+    },
+    {
+      "question": "Que achado ecocardiográfico apoia o diagnóstico de pericardite aguda?",
+      "options": [
+        "Hipocinesia septal",
+        "Válvula aórtica bicúspide",
+        "Derrame pericárdico leve",
+        "Hipertrofia ventricular"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O derrame pericárdico, embora nem sempre presente, é um achado ecocardiográfico que sustenta a pericardite aguda; hipocinesia septal sugere cardiopatia isquêmica.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico",
+        "ecocardiograma",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ª edição"
+      ]
+    },
+    {
+      "question": "Qual é o achado clínico patognomônico da pericardite aguda?",
+      "options": [
+        "Austin FlintPuff",
+        "Terceira bulha cardíaca",
+        "fricção pericárdica",
+        "Clique pericárdico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A fricção pericárdica é um sinal físico clássico e patognomônico de pericardite aguda, produzido pela fricção das camadas pericárdicas inflamadas.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tabela_clínica",
+        "pericárdio_rub",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual característica acústica apresenta o atrito pericárdico?",
+      "options": [
+        "Som de clique metálico",
+        "Som de alta frequência",
+        "som de baixa frequência",
+        "Som de tom musical"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A fricção pericárdica é um som áspero e de baixa frequência, descrito como “fricção” ou “raspagem”, que é melhor ouvido com o diafragma do estetoscópio.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tabela_clínica",
+        "ausculta",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Em que fase do ciclo cardíaco a fricção pericárdica é ouvida com mais frequência?",
+      "options": [
+        "Somente na sístole",
+        "Na sístole e na diástole",
+        "Somente na diástole",
+        "Somente no final da diástole"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O atrito pericárdico geralmente é trifásico ou bifásico, sendo audível tanto na sístole quanto na diástole, diferentemente dos sopros que geralmente são apenas sistólicos ou diastólicos.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tabela_clínica",
+        "ciclo_cardíaco",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ª edição"
+      ]
+    },
+    {
+      "question": "Qual é a manobra que intensifica o atrito pericárdico?",
+      "options": [
+        "Inspiração profunda",
+        "Inclinação para frente",
+        "Posição supina",
+        "Expiração forçada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A fricção pericárdica intensifica-se com o paciente inclinando-se para frente e expirando, pois aproxima o coração da parede torácica e favorece a ausculta.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "exploração_física",
+        "auscultação_manobras",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual processo fisiopatológico gera fricção pericárdica?",
+      "options": [
+        "Inflamação das camadas pericárdicas",
+        "Fibrose pericárdica crônica",
+        "Derrame pericárdico maciço",
+        "Calcificação do pericárdio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A fricção pericárdica é produzida pela fricção entre as camadas visceral e parietal inflamadas do pericárdio, característica da pericardite fibrinosa aguda.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "fisiopatologia",
+        "dano_mecanismo",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ª edição"
+      ]
+    },
+    {
+      "question": "Que achado eletrocardiográfico geralmente acompanha o atrito pericárdico na pericardite aguda?",
+      "options": [
+        "bloqueio de ramo esquerdo",
+        "Ondas T invertidas simétricas",
+        "Elevação difusa do segmento ST",
+        "Ondas Q patológicas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A elevação difusa do segmento ST com depressão PR é o achado eletrocardiográfico típico de pericardite aguda, que geralmente acompanha o atrito pericárdico.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico",
+        "eletrocardiógrafo",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual é o principal achado ecocardiográfico no tamponamento cardíaco?",
+      "options": [
+        "Hipocinesia global do ventrículo esquerdo",
+        "Colapso diastólico da câmara direita",
+        "Espessamento pericárdico difuso",
+        "Derrame pericárdico grave"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O colapso diastólico das câmaras direitas é o sinal ecocardiográfico mais específico de tamponamento cardíaco, indicando compressão por líquido pericárdico de alta pressão.",
+      "hashtags": [
+        "cardiologia",
+        "derrame_pericárdico_com_risco_de_tamponamento_cardíaco",
+        "diagnóstico",
+        "ecocardiografia",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ª edição"
+      ]
+    },
+    {
+      "question": "Qual sinal clínico clássico está associado ao tamponamento cardíaco?",
+      "options": [
+        "Pulso paradoxal",
+        "Refluxo hepatojugular",
+        "Austin FlintPuff",
+        "Clique pericárdico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pulsus paradoxus é uma queda exagerada da pressão arterial sistólica durante a inspiração, típica de tamponamento cardíaco devido à limitação do enchimento diastólico.",
+      "hashtags": [
+        "cardiologia",
+        "derrame_pericárdico_com_risco_de_tamponamento_cardíaco",
+        "tabela_clínica",
+        "pulso_paradoxo",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha para tamponamento cardíaco com instabilidade hemodinâmica?",
+      "options": [
+        "Pericardiectomia urgente",
+        "Colocação da janela pericárdica",
+        "Administração de colóides intravenosos",
+        "Pericardiocentese evacuativa"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A pericardiocentese evacuativa é o tratamento imediato para aliviar a compressão cardíaca no tamponamento com instabilidade, pois drena o líquido pericárdico e restaura o débito cardíaco.",
+      "hashtags": [
+        "cardiologia",
+        "derrame_pericárdico_com_risco_de_tamponamento_cardíaco",
+        "tratamento",
+        "pericardiocentese",
+        "MEDICAL_TOPIC",
+        "Diretrizes ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual tríade clássica caracteriza o tamponamento cardíaco?",
+      "options": [
+        "Dispneia, ortopneia, edema de membros inferiores",
+        "Dor no peito, febre, atrito pericárdico",
+        "Hipotensão, ingurgitamento jugular, sons cardíacos abafados",
+        "Cianose, sopro sistólico, pulso alternado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A tríade de Beck (hipotensão, ingurgitamento jugular e sons cardíacos abafados) é o tamponamento cardíaco clássico, refletindo baixo débito e compressão diastólica.",
+      "hashtags": [
+        "cardiologia",
+        "derrame_pericárdico_com_risco_de_tamponamento_cardíaco",
+        "tabela_clínica",
+        "beck_triad",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ª edição"
+      ]
+    },
+    {
+      "question": "Qual achado eletrocardiográfico sugere derrame pericárdico grave?",
+      "options": [
+        "Complexos QRS de baixa tensão",
+        "alternância elétrica",
+        "Ondas T invertidas em precordiais",
+        "Elevação difusa do segmento ST"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A baixa voltagem dos complexos QRS é característica do derrame pericárdico grave, devido à atenuação do sinal elétrico pelo líquido pericárdico, podendo ser acompanhada de alternância elétrica.",
+      "hashtags": [
+        "cardiologia",
+        "derrame_pericárdico_com_risco_de_tamponamento_cardíaco",
+        "diagnóstico",
+        "eletrocardiograma",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é a causa mais comum de tamponamento cardíaco na prática clínica?",
+      "options": [
+        "Pericardite urêmica",
+        "Pericardite tuberculosa",
+        "Pericardite neoplásica",
+        "Pericardite idiopática"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A pericardite neoplásica (devido a metástases de tumores sólidos, especialmente de pulmão e mama) é a causa mais comum de tamponamento cardíaco, seguida por causas infecciosas e urêmicas.",
+      "hashtags": [
+        "cardiologia",
+        "derrame_pericárdico_com_risco_de_tamponamento_cardíaco",
+        "etiologia",
+        "neoplasia",
+        "MEDICAL_TOPIC",
+        "Diretrizes ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual o principal objetivo da ecocardiografia na pericardite aguda?",
+      "options": [
+        "Detectar arritmias atriais",
+        "Medir a pressão arterial",
+        "Calcular o débito cardíaco",
+        "Avaliar derrame pericárdico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Na pericardite aguda, o ecocardiograma é utilizado principalmente para detectar e quantificar derrame pericárdico, bem como para avaliar a função cardíaca e descartar tamponamento cardíaco.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico",
+        "ecocardiograma",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual achado ecocardiográfico sugere tamponamento cardíaco na pericardite?",
+      "options": [
+        "Colapso diastólico do átrio direito",
+        "Espessamento pericárdico difuso",
+        "Hipocinesia septal inspiratória",
+        "Derrame pericárdico loculado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O colapso diastólico do átrio direito é um sinal ecocardiográfico precoce de tamponamento cardíaco, indicando compressão extrínseca por líquido pericárdico de alta pressão.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico",
+        "cardíaco_tamponade",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual variável ecocardiográfica é essencial para avaliar a função cardíaca na pericardite?",
+      "options": [
+        "E/A velocidade do fluxo mitral",
+        "Diâmetro da raiz aórtica",
+        "Espessura do pericárdio parietal",
+        "Fração de ejeção do ventrículo esquerdo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A fração de ejeção do ventrículo esquerdo é o parâmetro padrão para quantificar a função sistólica global, permitindo a detecção de disfunção miocárdica associada à pericardite.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "avaliação_funcional",
+        "fração_de_ejeção",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual técnica ecocardiográfica melhora a detecção de pequeno derrame pericárdico?",
+      "options": [
+        "Ecocardiografia transesofágica",
+        "Doppler colorido do fluxo mitral",
+        "Modo M no eixo longo paraesternal",
+        "Visão subcostal com transdutor de baixa frequência"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A incidência subcostal com transdutor de baixa frequência permite a visualização do espaço pericárdico posterior e a identificação de pequenos derrames que podem passar despercebidos em outras janelas acústicas.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico",
+        "subcostal_view",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Quando é indicado um ecocardiograma urgente na suspeita de pericardite aguda?",
+      "options": [
+        "Sempre que houver febre superior a 38°C",
+        "Se houver histórico de cirurgia cardíaca",
+        "Dados sinais de tamponamento cardíaco",
+        "Quando o ECG mostra elevação do segmento ST"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A indicação urgente de ecocardiografia na pericardite aguda é a suspeita clínica de tamponamento cardíaco (hipotensão, ingurgitamento jugular, pulso paradoxal), para confirmar e orientar a drenagem.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tratamento",
+        "cardíaco_tamponade",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual parâmetro ecocardiográfico diferencia o derrame pericárdico do derrame pleural?",
+      "options": [
+        "Movimento ondulante do coração dentro do líquido",
+        "Aparência ecogênica homogênea",
+        "Presença de bandas fibrinosas",
+        "Localização anterior ao ventrículo direito"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O derrame pericárdico localiza-se anterior ao ventrículo direito na incidência paraesternal, enquanto o derrame pleural localiza-se posteriormente à aorta descendente, sendo esta uma chave ultrassonográfica diferencial.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico",
+        "derrame_pericárdico",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha na pericardite idiopática aguda?",
+      "options": [
+        "Corticosteróides e azatioprina",
+        "AINEs e metotrexato",
+        "AINEs e colchicina",
+        "Corticosteróides e colchicina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os AINEs (como o ibuprofeno ou a aspirina) combinados com a colchicina constituem o tratamento de primeira linha para a pericardite idiopática aguda, reduzindo a recorrência e a inflamação.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tratamento",
+        "primeira_linha",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual medicamento é adicionado aos AINEs para reduzir o risco de recorrência na pericardite aguda?",
+      "options": [
+        "Anakinra",
+        "Metotrexato",
+        "Prednisona",
+        "Colchicina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A colchicina é administrada juntamente com AINEs na pericardite aguda para reduzir significativamente a taxa de recorrência, de acordo com estudos clínicos e diretrizes internacionais.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tratamento",
+        "colchicina",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual é a duração típica do tratamento com AINEs na pericardite aguda não complicada?",
+      "options": [
+        "1 a 3 dias",
+        "4 a 6 semanas",
+        "7 a 14 dias",
+        "3 a 6 meses"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O tratamento com AINEs na pericardite aguda não complicada geralmente dura de 7 a 14 dias, com redução gradual da dose dependendo da resposta clínica e dos níveis de PCR.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tratamento",
+        "duração_aines",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual a dose inicial recomendada de colchicina na pericardite aguda (sem carga prévia)?",
+      "options": [
+        "0,5 mg a cada 12 horas",
+        "1 mg a cada 8 horas",
+        "2 mg a cada 12 horas",
+        "0,5 mg a cada 24 horas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A dose inicial típica de colchicina na pericardite aguda é de 0,5 mg a cada 12 horas (em pacientes >70 kg ou sem intolerância), ajustada de acordo com o peso e a função renal.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "posologia",
+        "dose_colchicina",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual contraindicação absoluta impede o uso de AINEs como primeira linha na pericardite aguda?",
+      "options": [
+        "Insuficiência renal crônica",
+        "Hipertensão arterial leve",
+        "Diabetes mellitus tipo 2",
+        "asma brônquica leve"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A insuficiência renal crônica avançada é uma importante contraindicação relativa ao uso de AINEs, mas na pericardite aguda é preferível evitá-la se a taxa de filtração glomerular for baixa, optando pela colchicina isolada ou corticosteróides.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "contra-indicações",
+        "aines_indicação",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Quando o uso de corticosteróides é considerado como alternativa na pericardite aguda?",
+      "options": [
+        "Paciente com dor leve",
+        "Falha de AINEs e colchicina",
+        "Primeiro episódio sem complicações",
+        "Suspeita de pericardite viral"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Os corticosteróides são reservados para casos de pericardite aguda que não respondem aos AINEs e à colchicina, ou quando há contraindicações para eles, pois seu uso precoce está associado a maior recorrência.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tratamento",
+        "corticosteróides_alternativa",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual é a causa mais comum de pericardite aguda nos países desenvolvidos?",
+      "options": [
+        "Pericardite tuberculosa",
+        "Pericardite urêmica",
+        "Pericardite bacteriana",
+        "pericardite viral"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A pericardite viral é a causa mais comum de pericardite aguda nos países desenvolvidos, seguida pela pericardite idiopática e pós-infarto. As causas bacterianas e tuberculosas são menos comuns.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "etiologia",
+        "most_common_causes",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Aproximadamente que porcentagem de pericardite aguda é classificada como idiopática?",
+      "options": [
+        "30-50%",
+        "90-100%",
+        "10-20%",
+        "60-80%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aproximadamente 30-50% dos casos de pericardite aguda são considerados idiopáticos, embora muitos sejam provavelmente de origem viral não identificada. Esta é uma causa comum na prática clínica.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "epidemiologia",
+        "frequência_idiopática",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Em que contexto clínico ocorre a pericardite pós-infarto precoce?",
+      "options": [
+        "Entre 1 e 3 meses",
+        "Durante a primeira semana",
+        "depois de 6 meses",
+        "Entre 2 e 4 semanas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A pericardite pós-infarto precoce ocorre nos primeiros 7 dias após um infarto agudo do miocárdio, associada à necrose transmural. É uma complicação clássica de um ataque cardíaco.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tabela_clínica",
+        "pericardite_pós-infarto",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---Braunwald"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha para pericardite viral aguda não complicada?",
+      "options": [
+        "AINEs mais colchicina",
+        "Antibióticos intravenosos",
+        "Prednisona oral",
+        "Colchicina sozinha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O tratamento de primeira linha para pericardite viral aguda não complicada combina antiinflamatórios não esteróides (AINEs) com colchicina, o que reduz a recorrência e acelera a resolução dos sintomas.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tratamento",
+        "primeira_linha",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual achado eletrocardiográfico é típico na pericardite viral aguda?",
+      "options": [
+        "bloqueio de ramo esquerdo",
+        "Elevação ST difusa",
+        "Depressão ST em V1-V3",
+        "Ondas Q patológicas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A elevação difusa do segmento ST com depressão recíproca na aVR é característica da pericardite viral aguda, diferentemente do infarto, onde a elevação é regional e há ondas Q.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico",
+        "eletrocardiograma",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual das alternativas a seguir NÃO é uma causa comum de pericardite aguda?",
+      "options": [
+        "Pós-cirurgia cardíaca",
+        "infecção viral",
+        "Idiopático",
+        "Insuficiência renal crônica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A insuficiência renal crônica avançada pode causar pericardite urêmica, mas não é uma causa comum de pericardite aguda na população geral; As causas mais comuns são virais, idiopáticas e pós-infarto ou pós-cirúrgico.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "etiologia",
+        "causas_não_comuns",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o mecanismo fisiopatológico do pulso paradoxal no grande derrame pericárdico?",
+      "options": [
+        "Diminuição do enchimento ventricular esquerdo",
+        "Hipercontratilidade miocárdica reflexa",
+        "Obstrução da via de saída do VE",
+        "Aumento do retorno venoso sistêmico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O pulso paradoxal no tamponamento cardíaco devido ao grande derrame pericárdico é devido à diminuição crítica do enchimento ventricular esquerdo durante a inspiração, devido à compressão externa do coração.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "fisiopatologia",
+        "mecanismo_de_pulso_paradoxo",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Que sinal físico clássico está associado a grande derrame pericárdico e compressão do pulmão esquerdo?",
+      "options": [
+        "Sinal de Ewart",
+        "Sinal de Kussmaul",
+        "Sinal de Osler",
+        "Sinal de colina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O sinal de Ewart (embotamento e broncofonia na base do pulmão esquerdo) ocorre devido à compressão do pulmão esquerdo por grande derrame pericárdico, clássico na pericardite com derrame significativo.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tabela_clínica",
+        "ewart_sign",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ª edição"
+      ]
+    },
+    {
+      "question": "Em um paciente com grande derrame pericárdico, qual achado de pulso arterial é característico?",
+      "options": [
+        "Pulso filiforme",
+        "Pulso alternado",
+        "Pulso paradoxal",
+        "Pulso de Bisferien"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O pulso paradoxal (queda exagerada da pressão arterial sistólica >10 mmHg durante a inspiração) é característico de tamponamento cardíaco devido a grande derrame pericárdico.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tabela_clínica",
+        "pulso_paradoxo",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual das alternativas a seguir é um achado típico no exame físico de um paciente com grande derrame pericárdico?",
+      "options": [
+        "Clique pericárdico",
+        "Ingurgitamento jugular com Kussmaul",
+        "Sopro pansistólico no ápice",
+        "Fricção pericárdica audível"
+      ],
+      "correctAnswer": 2,
+      "explanation": "No grande derrame pericárdico com tamponamento, o ingurgitamento jugular e o sinal de Kussmaul (aumento da pressão venosa com inspiração) são achados clássicos devido à limitação do enchimento diastólico.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tabela_clínica",
+        "kussmaul_sign",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ª edição"
+      ]
+    },
+    {
+      "question": "Qual estudo de imagem confirma melhor a presença de um grande derrame pericárdico?",
+      "options": [
+        "Ecocardiograma transtorácico",
+        "Radiografia de tórax",
+        "Eletrocardiograma",
+        "Tomografia computadorizada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O ecocardiograma transtorácico é o exame de escolha para confirmar derrame pericárdico, avaliar seu tamanho e detectar sinais de tamponamento como colapso diastólico das câmaras direitas.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico",
+        "ecocardiograma",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha em um paciente com grande derrame pericárdico e tamponamento cardíaco?",
+      "options": [
+        "Antiinflamatórios não esteróides",
+        "Pericardiocentese de emergência",
+        "Ventilação mecânica não invasiva",
+        "Corticosteroides sistêmicos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A pericardiocentese de emergência é o tratamento de escolha no tamponamento cardíaco com comprometimento hemodinâmico, pois drena o líquido pericárdico e alivia a compressão cardíaca.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tratamento",
+        "pericardiocentese",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015 --- Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Qual marcador inflamatório aumenta mais cedo na pericardite aguda?",
+      "options": [
+        "Procalcitonina",
+        "Taxa de sedimentação",
+        "Interleucina-6",
+        "Proteína C reativa"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A proteína C reativa (PCR) aumenta nas primeiras horas da inflamação, sendo mais precoce que a VHS na pericardite aguda.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico",
+        "marcadores_inflamatórios",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o valor típico da PCR na pericardite aguda?",
+      "options": [
+        "Elevado (> 10 mg/L)",
+        "diminuiu ligeiramente",
+        "Elevado apenas na fase crônica",
+        "Normal ou indetectável"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Na pericardite aguda, a PCR geralmente está significativamente elevada (> 10 mg/L), refletindo a resposta inflamatória sistêmica.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico",
+        "alto_pcr",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Que combinação de marcadores é característica da pericardite aguda?",
+      "options": [
+        "PCR normal e VHS elevada",
+        "PCR elevada e VHS normal",
+        "PCR alta e VHS alta",
+        "PCR e VHS normais"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na pericardite aguda, ambos os marcadores inflamatórios (PCR e VHS) estão tipicamente elevados, indicando inflamação ativa.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "fisiopatologia",
+        "resposta_inflamatória",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual a utilidade clínica da PCR no acompanhamento da pericardite?",
+      "options": [
+        "Diagnosticar complicações crônicas",
+        "Monitore a resposta ao tratamento",
+        "Preveja o risco de entupimento",
+        "Diferenciar de infarto agudo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A PCR é utilizada para monitorar a resposta ao tratamento antiinflamatório, pois sua diminuição se correlaciona com a melhora clínica.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "tratamento",
+        "pcr_tracking",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
+      ]
+    },
+    {
+      "question": "Qual fator pode elevar a VHS na pericardite aguda?",
+      "options": [
+        "Uso de anticoagulantes",
+        "Inflamação sistêmica",
+        "bloqueio atrioventricular",
+        "Desidratação leve"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A VHS está elevada na pericardite aguda como consequência da inflamação sistêmica, aumentando a agregação eritrocitária.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "fisiopatologia",
+        "vsg_high",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Quando a PCR é considerada normalizada na pericardite?",
+      "options": [
+        "Quando a dor no peito desaparece",
+        "Após a conclusão de 4 semanas de AINEs",
+        "Ao cair abaixo de 5 mg/L",
+        "Quando o ECG normaliza"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A PCR é considerada normalizada quando cai abaixo de 5 mg/L, valor que geralmente acompanha a resolução inflamatória.",
+      "hashtags": [
+        "cardiologia",
+        "pericardite_aguda",
+        "diagnóstico",
+        "normalização_pcr",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2015"
       ]
     }
   ]

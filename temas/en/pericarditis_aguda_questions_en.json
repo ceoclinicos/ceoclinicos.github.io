@@ -1,1333 +1,1143 @@
 {
   "questions": [
     {
-      "question": "What is the primary definition of acute pericarditis?",
+      "question": "What is the most characteristic electrocardiographic finding in acute pericarditis?",
       "options": [
-        "Myocardial inflammation",
-        "Inflammation of the pericardium",
-        "Inflammation of the heart valves",
-        "Inflammation of the coronary vessels"
+        "QS complexes in V1-V3",
+        "Symmetric inverted T waves",
+        "High R wave in V5-V6",
+        "Diffuse ST elevation"
       ],
-      "correctAnswer": 2,
-      "explanation": "Acute pericarditis is specifically defined as inflammation of the double-layered serous membrane surrounding the heart, known as the pericardium.",
+      "correctAnswer": 4,
+      "explanation": "Diffuse ST elevation (concave-up elevation in multiple leads) is the classic ECG finding in acute pericarditis, reflecting inflammation of the underlying epicardium.",
       "hashtags": [
-        "internal_medicine",
+        "cardiology",
         "acute_pericarditis",
-        "concept",
-        "basic_definition",
-        "PATHOLOGY",
+        "section",
+        "ecg_finding",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Which layers of the pericardium are typically inflamed in pericarditis?",
+      "question": "What is the classic physical sign of acute pericarditis?",
       "options": [
-        "Both visceral and parietal layers",
-        "Only the parietal layer",
-        "The epicardium only",
-        "Only the visceral layer"
+        "Pansystolic murmur",
+        "Third heart sound",
+        "Pericardial click",
+        "pericardial rub"
       ],
-      "correctAnswer": 1,
-      "explanation": "In pericarditis, inflammation affects both the visceral layer of the pericardium (which covers the heart, also called epicardium) and the parietal layer.",
+      "correctAnswer": 4,
+      "explanation": "Pericardial rub is a pathognomonic auscultatory sign of acute pericarditis, produced by rubbing of the inflamed pericardial layers; It is usually high frequency and evanescent.",
       "hashtags": [
-        "internal_medicine",
+        "cardiology",
         "acute_pericarditis",
-        "concept",
-        "pericardial_layers",
-        "PATHOLOGY",
+        "section",
+        "pericardial_rub",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is a possible consequence of long-term pericardial inflammation?",
+      "question": "Which feature of chest pain is typical in acute pericarditis?",
       "options": [
-        "Constrictive pericarditis",
-        "aortic stenosis",
-        "Severe mitral regurgitation",
-        "Ventricular dilation"
+        "Retrosternal oppressive pain",
+        "Dull pain in left hemithorax",
+        "Stabbing pain that improves when sitting",
+        "Epigastric burning pain"
       ],
-      "correctAnswer": 1,
-      "explanation": "Chronic inflammation of the pericardium can lead to thickening and fibrosis, resulting in constrictive pericarditis, which restricts diastolic filling of the heart.",
+      "correctAnswer": 3,
+      "explanation": "The pain in acute pericarditis is stabbing or pleuritic, often relieved by sitting and leaning forward, and worsens with inspiration and supine position.",
       "hashtags": [
-        "internal_medicine",
+        "cardiology",
         "acute_pericarditis",
-        "complications",
-        "chronic_pericarditis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most common cardinal symptom of acute pericarditis?",
-      "options": [
-        "Chest pain",
-        "Lower limb edema",
-        "Dyspnea on exertion",
-        "Palpitations"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Chest pain is the most characteristic and frequent symptom of acute pericarditis, often presenting pleuritic and positional characteristics.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "clinical_table",
+        "section",
         "chest_pain",
-        "PATHOLOGY",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Which auscultatory finding is pathognomonic of acute pericarditis?",
+      "question": "What is the first line of treatment in acute pericarditis without high-risk criteria?",
       "options": [
-        "Gallop S3",
-        "Protodiastolic bearing",
-        "Pericardial friction",
-        "Aortic systolic murmur"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Pericardial friction is a harsh, scraping sound, considered the most specific sign of inflammation of the pericardium, although it can be transient.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "diagnosis",
-        "auscultation",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a common viral cause implicated in acute pericarditis?",
-      "options": [
-        "Epstein-Barr virus",
-        "Coxsackie B virus",
-        "Hepatitis B Virus",
-        "Cytomegalovirus"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Coxsackie B viruses are one of the most frequently identified viral causes in cases of acute idiopathic pericarditis in immunocompetent patients.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "etiology",
-        "viral_causes",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What autoimmune disease is frequently associated with pericarditis?",
-      "options": [
-        "Diabetes Mellitus type 1",
-        "bronchial asthma",
-        "Rheumatoid Arthritis",
-        "Crohn's disease"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Rheumatoid Arthritis and Systemic Lupus Erythematosus are connective tissue diseases that frequently present with pericardial inflammation.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "etiology",
-        "autoimmune_causes",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a bacterial infectious cause to consider in pericarditis?",
-      "options": [
-        "Mycobacterium tuberculosis",
-        "Escherichia coli",
-        "Pseudomonas aeruginosa",
-        "Staphylococcus epidermidis"
+        "Colchicine plus NSAIDs",
+        "High dose prednisone",
+        "Urgent pericardiocentesis",
+        "Oral anticoagulation"
       ],
       "correctAnswer": 1,
-      "explanation": "Tuberculosis is an important cause of pericarditis, especially in endemic countries or in patients with HIV, and can cause exudative effusions and constriction.",
+      "explanation": "The first-line treatment in acute pericarditis without high-risk criteria is the combination of nonsteroidal anti-inflammatory drugs (NSAIDs) and colchicine, which reduces recurrence and accelerates resolution.",
       "hashtags": [
-        "internal_medicine",
+        "cardiology",
         "acute_pericarditis",
-        "etiology",
-        "tuberculosis",
-        "PATHOLOGY",
+        "section",
+        "initial_treatment",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What metabolic condition can cause pericarditis?",
+      "question": "Which of the following is a major diagnostic criterion for acute pericarditis?",
       "options": [
-        "Hyperthyroidism",
-        "Uremia",
-        "Diabetes insipidus",
-        "Hypoparathyroidism"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The accumulation of metabolic waste products in advanced kidney failure (uremia) can trigger uremic pericarditis.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "etiology",
-        "uremia",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a neoplasm that can cause pericarditis?",
-      "options": [
-        "hepatic adenoma",
-        "Lymphoma",
-        "Basal cell carcinoma",
-        "Uterine fibroid"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Lymphomas, as well as metastases from other tumors such as lung or breast, are important causes of neoplastic pericarditis, often with hemorrhagic effusion.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "etiology",
-        "neoplasms",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What cardiac event can precipitate pericarditis (Dressler Syndrome)?",
-      "options": [
-        "Supraventricular arrhythmia",
-        "aortic valve stenosis",
-        "Acute myocardial infarction",
-        "Acute heart failure"
+        "Fever greater than 38°C",
+        "elevated CRP",
+        "pericardial rub",
+        "Severe pericardial effusion"
       ],
       "correctAnswer": 3,
-      "explanation": "Dressler syndrome is a delayed autoimmune inflammatory response that occurs weeks to months after an acute myocardial infarction.",
+      "explanation": "Pericardial rub is one of the major diagnostic criteria for acute pericarditis, along with typical pain, diffuse ST elevation, and new or worsening pericardial effusion.",
       "hashtags": [
-        "internal_medicine",
+        "cardiology",
         "acute_pericarditis",
-        "etiology",
-        "myocardial_infarction",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a possible acute hemodynamic complication of pericarditis?",
-      "options": [
-        "mitral stenosis",
-        "cardiac tamponade",
-        "sinus arrhythmia",
-        "Pulmonary hypertension"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The accumulation of fluid in the pericardial space can compress the cardiac chambers, leading to cardiac tamponade with severe hemodynamic compromise.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "pathophysiology",
-        "cardiac_tamponade",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What clinical sign is associated with cardiac tamponade and reflects ventricular interdependence?",
-      "options": [
-        "Supraventricular tachycardia",
-        "Alternating pulse",
-        "Pulsus paradoxus",
-        "gallop rhythm"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Pulsus paradoxus, an exaggerated drop in systolic blood pressure during inspiration, is a hallmark sign of cardiac tamponade.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "pathophysiology",
-        "pulsus_paradoxus",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What electrocardiographic changes are characteristic of acute pericarditis?",
-      "options": [
-        "P wave inversion",
-        "Diffuse ST elevation",
-        "Focused ST elevation",
-        "Pathological Q waves"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Acute pericarditis typically presents diffuse ST-segment elevation, concave upward, as opposed to the focal elevation seen in myocardial infarction.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "diagnosis",
-        "electrocardiogram",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the imaging modality of choice to evaluate a pericardial effusion?",
-      "options": [
-        "Cardiac MRI",
-        "CT scan",
-        "Transthoracic echocardiogram",
-        "Chest x-ray"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Transthoracic echocardiography is the most sensitive and accessible tool to detect, quantify and evaluate the impact of a pericardial effusion.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "diagnosis",
-        "echocardiogram",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which inflammatory marker is typically elevated in acute pericarditis?",
-      "options": [
-        "Pro BNP",
-        "C-Reactive Protein (CRP)",
-        "Troponin I",
-        "Creatine kinase (CK)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "C-Reactive Protein (CRP) is a marker of systemic inflammation that is elevated in acute pericarditis and helps monitor response to treatment.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "diagnosis",
-        "inflammatory_markers",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main indication for pericardiocentesis in acute pericarditis?",
-      "options": [
-        "cardiac tamponade",
-        "persistent fever",
-        "Mild chest pain",
-        "Small pericardial effusion"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Pericardiocentesis is indicated as a priority when there is cardiac tamponade, which compromises the hemodynamic function of the heart.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "treatment",
-        "pericardiocentesis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the first-line treatment for acute uncomplicated pericarditis?",
-      "options": [
-        "Antibiotics and NSAIDs",
-        "Observation without treatment",
-        "Corticosteroids alone",
-        "NSAIDs and colchicine"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The combination of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) and ibuprofen and colchicine is the treatment of choice for uncomplicated acute pericarditis.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "treatment",
-        "first_line",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main role of colchicine in the treatment of pericarditis?",
-      "options": [
-        "Cause vasodilation",
-        "Reduce acute pain",
-        "Prevent recurrences",
-        "Eliminate bacterial infection"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Colchicine is crucial to improve response to treatment and significantly reduce the risk of pericarditis recurrence.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "treatment",
-        "colchicine",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "How long is colchicine treatment generally recommended?",
-      "options": [
-        "1 week",
-        "2 weeks",
-        "3 months",
-        "6 months"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Colchicine is typically administered for at least three months to ensure resolution of inflammation and minimize the risk of recurrence.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "treatment",
-        "treatment_duration",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "When is pericarditis generally considered recurrent?",
-      "options": [
-        "After 48 hours after the end of treatment",
-        "At the beginning of treatment",
-        "4-6 weeks after stopping treatment",
-        "After 1 year"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Pericarditis is defined as recurrent when symptoms reappear after a complete recovery period of at least 4-6 weeks following discontinuation of treatment.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "concept",
-        "recurrent_pericarditis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is one of the most common causes of idiopathic pericarditis?",
-      "options": [
-        "Radiotherapy",
-        "Direct trauma",
-        "viral infection",
-        "Alcohol intake"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Idiopathic pericarditis, where no specific cause is identified, is often presumed to be of subclinical viral or autoimmune origin.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "etiology",
-        "idiopathic",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What features of chest pain suggest acute pericarditis?",
-      "options": [
-        "Constrictive, associated with effort",
-        "Oppressive, radiating to left arm",
-        "Pleuritic, worse when lying down",
-        "Burning, associated with foods"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Typically pleuritic pain, worse with deep inspiration and lying down, and better with sitting leaning forward, is characteristic.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "clinical_table",
-        "pain_characteristics",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What sign may indicate severe hemodynamic compromise in pericarditis?",
-      "options": [
-        "Jugular engorgement",
-        "Normal blood pressure",
-        "Strong arterial pulse",
-        "Sinus bradycardia"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Jugular engorgement, especially marked during expiration, is a sign of increased central venous pressure, suggestive of compromised cardiac filling.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "clinical_table",
-        "clogging_signs",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which of these drugs is occasionally associated with pericarditis?",
-      "options": [
-        "Procainamide",
-        "Metformin",
-        "Simvastatin",
-        "Omeprazole"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Certain drugs such as procainamide, hydralazine, and isoniazid have been associated with the induction of pericarditis or drug-induced lupus.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "etiology",
-        "drugs",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which CMR finding is suggestive of active pericardial inflammation?",
-      "options": [
-        "Mild pericardial thickening",
-        "Decreased pericardial volume",
-        "Lack of late enhancement",
-        "Late gadolinium enhancement"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Late gadolinium enhancement on cardiac MRI sequences is an indicator of active inflammation in the pericardium.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "diagnosis",
-        "magnetic_resonance",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What criterion is key for the diagnosis of pericarditis according to recent guidelines?",
-      "options": [
-        "Two of four criteria (clinical, ECG, imaging, inflammatory)",
-        "Pericardial friction only",
-        "Chest pain only",
-        "CRP elevation only"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The diagnosis of acute pericarditis requires the presence of at least two of the four sets of criteria: clinical, ECG changes, evidence of effusion on imaging, and elevated inflammatory markers.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "diagnosis",
+        "section",
         "diagnostic_criteria",
-        "PATHOLOGY",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is the clinical implication of diffuse ST elevation in pericarditis?",
+      "question": "What complication should be suspected in the event of hypotension and pulsus paradoxus in acute pericarditis?",
       "options": [
-        "Reflects generalized inflammation of the pericardium",
-        "Suggests myocardial damage",
-        "Associated with ventricular arrhythmia",
-        "Indicates localized infarction"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The diffuse and concave elevation of the ST segment in acute pericarditis is interpreted as generalized inflammatory involvement of the pericardium, not focal as in AMI.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "diagnosis",
-        "electrocardiogram_interpretation",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What should be suspected if pericarditis occurs in a patient with advanced HIV?",
-      "options": [
-        "Common viral pericarditis",
-        "Autoimmune pericarditis",
-        "Tuberculous pericarditis",
-        "Ischemic pericarditis"
-      ],
-      "correctAnswer": 3,
-      "explanation": "In immunocompromised patients, especially with HIV, tuberculous pericarditis is an important cause to consider, in addition to other opportunistic infections.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "etiology",
-        "hiv",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main characteristic of pain in pericarditis that differentiates it from angina?",
-      "options": [
-        "Pleuritic character",
-        "Relationship with physical effort",
-        "Duration",
-        "Intensity"
+        "Associated myocarditis",
+        "cardiac tamponade",
+        "myocardial infarction",
+        "Pulmonary embolism"
       ],
       "correctAnswer": 2,
-      "explanation": "Pericardial pain is usually pleuritic and positional, while anginal pain is typically oppressive and related to physical or emotional exertion.",
+      "explanation": "Cardiac tamponade is a serious complication of acute pericarditis that presents with hypotension, pulsus paradoxus, jugular engorgement, and decreased heart sounds.",
       "hashtags": [
-        "internal_medicine",
+        "cardiology",
         "acute_pericarditis",
-        "clinical_table",
-        "differential_pain",
-        "PATHOLOGY",
+        "section",
+        "cardiac_tamponade",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What risk factor increases the likelihood of pericarditis recurrence?",
+      "question": "What is the main pathophysiological mechanism of pain in acute pericarditis?",
       "options": [
-        "idiopathic cause",
-        "Sudden onset of symptoms",
-        "Colchicine treatment",
-        "Use of NSAIDs at high doses"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Idiopathic pericarditis has a higher recurrence rate compared to those with an identified and treatable cause.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "complications",
-        "recurrence_risk_factors",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Why should caution be used with anticoagulation in acute pericarditis?",
-      "options": [
-        "Causes hypotension",
-        "Increases risk of AMI",
-        "Reduces the effectiveness of NSAIDs",
-        "May cause hemopericardium and tamponade"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Anticoagulation in an inflamed and potentially bleeding pericardium significantly increases the risk of blood accumulation in the pericardial space, leading to hemorrhagic tamponade.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "treatment",
-        "anticoagulation",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the typical duration of the acute phase of pericarditis?",
-      "options": [
-        "Up to 4-6 weeks",
-        "Up to 72 hours",
-        "More than 6 months",
-        "Up to 1 week"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Acute pericarditis is defined by the presence of symptoms and signs of pericardial inflammation that last up to a period of 4 to 6 weeks.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "concept",
-        "chronology",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What does 'Beck's Triad' mean in the context of cardiac tamponade?",
-      "options": [
-        "Chest pain, dyspnea, cough",
-        "Hypotension, tachycardia, fever",
-        "Arrhythmia, edema, cyanosis",
-        "Hypotension, jugular engorgement, muffled heart sounds"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The classic Beck triad of cardiac tamponade consists of arterial hypotension, jugular engorgement, and muffled or distant heart sounds.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "clinical_table",
-        "triada_beck",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "When should the use of corticosteroids be considered in acute pericarditis?",
-      "options": [
-        "In cases refractory to NSAIDs and colchicine",
-        "Always first line",
-        "Only in viral pericarditis",
-        "For any pericardial effusion"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Corticosteroids are reserved for cases of acute pericarditis refractory to standard treatment with NSAIDs and colchicine, or in specific etiologies such as tuberculous or autoimmune.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "treatment",
-        "corticosteroids",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What finding on auscultation should lead one to suspect myopericarditis?",
-      "options": [
-        "Only clear pericardial friction",
-        "Only systolic murmurs",
-        "Absence of heart sounds",
-        "Pericardial friction and signs of myocardial dysfunction"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Myopericarditis involves inflammation of both the pericardium and myocardium, so pericardial friction may occur along with alterations in myocardial rhythm, conduction, or contractility.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "clinical_table",
-        "myopericarditis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "How important is the analysis of pericardial fluid in pericarditis?",
-      "options": [
-        "To help determine the etiology",
-        "Just to confirm the spill",
-        "To always rule out pulmonary embolism",
-        "It has no clinical use"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Analysis of pericardial fluid (cultures, cytology, biochemistry) is crucial to identify the underlying cause, especially in moderate to large effusions or if infection or malignancy is suspected.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "diagnosis",
-        "pericardial_fluid",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main reason for recommending physical rest in pericarditis?",
-      "options": [
-        "Prevent deep vein thrombosis",
-        "Improve response to NSAIDs",
-        "Reduce cardiac workload and prevent recurrences",
-        "Facilitate auscultation"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Physical rest helps reduce myocardial demand, reduces stress on the inflamed pericardium, and is associated with a lower risk of pericarditis recurrence.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "treatment",
-        "physical_rest",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What does it mean for pericarditis to be 'idiopathic'?",
-      "options": [
-        "Which is of bacterial origin",
-        "Which is caused by a virus",
-        "Which is secondary to an autoimmune disease",
-        "That the cause has not been identified"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Pericarditis is classified as idiopathic when, after a thorough evaluation, a specific cause cannot be determined.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "concept",
-        "idiopathic_etiology",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a possible chronic complication of untreated acute pericarditis?",
-      "options": [
-        "severe mitral stenosis",
-        "Primary pulmonary arterial hypertension",
-        "Dilated cardiomyopathy",
-        "Constrictive pericarditis"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Chronic inflammation and pericardial fibrosis resulting from poorly managed acute pericarditis can progress to constrictive pericarditis.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "complications",
-        "chronic_constrictive_pericarditis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What characteristic of pain in pericarditis can simulate an acute myocardial infarction?",
-      "options": [
-        "Worsening with inspiration",
-        "Oppressive and persistent character",
-        "Relief when leaning forward",
-        "Neck irradiation"
+        "Compression of the coronary arteries",
+        "Inflammation of the pericardial layers",
+        "Transient myocardial ischemia",
+        "Distension of the pericardial capsule"
       ],
       "correctAnswer": 2,
-      "explanation": "If there is concomitant myocardial involvement (myopericarditis), the pain may become more oppressive, similar to that of myocardial ischemia, and persistent.",
+      "explanation": "Pain in acute pericarditis is due to inflammation of the pericardial layers, which stimulates nerve endings in the parietal pericardium, unlike ischemia or coronary compression.",
       "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "clinical_table",
-        "myopericarditis_pain",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the function of the pericardium?",
-      "options": [
-        "Filter arterial blood",
-        "Produce heart valves",
-        "Protect and anchor the heart",
-        "Actively pump blood"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The pericardium is a fibrous sac that surrounds the heart, providing physical protection, anchoring it in its position in the mediastinum and limiting its excessive dilation.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "concept",
-        "pericardium_function",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What type of exudate is characteristic of pyogenic bacterial pericarditis?",
-      "options": [
-        "clear serous",
-        "Purulent",
-        "Serohemorrhagic",
-        "Citrine liquid"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Purulent pericarditis, caused by pyogenic bacteria, is characterized by the presence of thick, opaque, pus-like exudate.",
-      "hashtags": [
-        "internal_medicine",
+        "cardiology",
         "acute_pericarditis",
         "pathophysiology",
-        "purulent_exudate",
-        "PATHOLOGY",
-        ""
+        "pleuritic_pain",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "Why is ST elevation in pericarditis usually diffuse?",
+      "question": "What characteristic of pain indicates acute pericarditis rather than acute myocardial infarction?",
       "options": [
-        "Due to response to radiotherapy",
-        "Due to a coronary blockage",
-        "Due to focal myocardial ischemia",
-        "Due to generalized inflammatory involvement of the pericardium"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The diffuse inflammatory nature of the pericardium explains why ST segment elevation, when present, affects multiple electrocardiographic leads symmetrically.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "pathophysiology",
-        "diffuse_ecg",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a high-risk criterion in acute pericarditis according to the ESC 2023 guidelines?",
-      "options": [
-        "Gradual onset pain",
-        "Complete response to NSAIDs in 48 hours",
-        "normal PCR",
-        "Persistent fever (>38°C) for more than a week"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The presence of persistent fever (temperature >38°C) for more than a week is a high-risk criterion indicating the need for hospitalization and more intensive management.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "diagnosis",
-        "high_risk_criteria",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What type of effusion is most common in neoplastic pericarditis?",
-      "options": [
-        "Fibrinous",
-        "Purulent",
-        "Serohemorrhagic or hemorrhagic",
-        "Serous"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Neoplasms that infiltrate the pericardium usually cause an inflammatory response with bleeding, resulting in serohemorrhagic or frankly hemorrhagic effusions.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "etiology",
-        "neoplasia_effusion",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a long-term sequelae of pericarditis causing right heart failure?",
-      "options": [
-        "pulmonary stenosis",
-        "Aortic insufficiency",
-        "Constrictive pericarditis",
-        "Hypertrophic cardiomyopathy"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Constrictive pericarditis is a chronic form of pericardial inflammation characterized by a thickened and rigid pericardium that severely restricts diastolic filling, mimicking right heart failure.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "complications",
-        "right_heart_failure",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What maneuver can help to better listen to pericardial friction?",
-      "options": [
-        "Ask the patient to lie down",
-        "Lean forward and hold your breath",
-        "Pressure on the cardiac apex",
-        "Auscultate in prone position"
+        "Constant and lasts more than 30 min",
+        "Sharp and improves when leaning",
+        "Radiated to left arm",
+        "Oppressive and retrosternal"
       ],
       "correctAnswer": 2,
-      "explanation": "Leaning forward reduces the amount of air in the lungs and brings the pericardium closer to the chest wall, making it easier to hear pericardial friction.",
+      "explanation": "The pain in pericarditis is typically pleuritic, stabbing and improves when leaning forward, while infarction is usually oppressive and constant, which helps in differential diagnosis.",
       "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "diagnosis",
-        "auscultation_maneuver",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a major cause of pericarditis in elderly hospitalized patients?",
-      "options": [
-        "myocardial infarctions",
-        "Autoimmune causes",
-        "Neoplasms",
-        "Common viral infections"
-      ],
-      "correctAnswer": 3,
-      "explanation": "In elderly hospitalized patients, especially those with a history of oncology, neoplasms (primary or metastatic) are a significant cause of pericarditis.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "epidemiology",
-        "seniors",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What does elevated troponin suggest in a patient with pericarditis?",
-      "options": [
-        "Isolated uncomplicated pericarditis",
-        "Acute pulmonary embolism",
-        "Type A aortic dissection",
-        "Concomitant myocarditis or myopericarditis"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Elevation of troponins indicates myocardial damage. In the context of pericarditis, it suggests the presence of associated myocarditis (myopericarditis).",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "diagnosis",
-        "myocarditis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What attitude is recommended regarding physical activity in pericarditis?",
-      "options": [
-        "Immediate intense activity",
-        "Competitive sports if the pain subsides",
-        "Indefinite absolute rest",
-        "Relative rest, avoid intense efforts for months"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Relative rest is recommended, avoiding intense efforts and competitive sports for at least 3-6 months after resolution of symptoms and normalization of CRP, to prevent recurrences.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "treatment",
-        "physical_activity",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What can cause pericardial fluid buildup?",
-      "options": [
-        "Inflammation and increased pericardial vascular permeability",
-        "Decreased blood pressure",
-        "Increased central venous pressure",
-        "Left ventricular hypertrophy"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Inflammation of the pericardium leads to an increase in the permeability of local capillaries, allowing extravasation of fluid, proteins and cells into the pericardial space.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "pathophysiology",
-        "pericardial_effusion",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main difference between acute and chronic pericarditis?",
-      "options": [
-        "The viral etiology is exclusive to the acute",
-        "Chest pain only occurs in acute",
-        "The duration of symptoms (up to 4-6 weeks vs >4-6 months)",
-        "The constriction is only chronic"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The main distinction is based on chronology: acute pericarditis lasts up to 4-6 weeks, while chronic pericarditis persists for more than 4-6 months.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "concept",
-        "chronology_difference",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Why can aortic dissection cause pericarditis?",
-      "options": [
-        "Due to stenosis of the coronary artery",
-        "By hematogenous dissemination",
-        "Due to delayed autoimmune reaction",
-        "Due to direct irritation of the pericardium by blood"
-      ],
-      "correctAnswer": 4,
-      "explanation": "If the aortic dissection affects the root of the aorta, there may be extravasation of blood into the pericardial space (hemopericardium), causing irritation and inflammation (reactive pericarditis).",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "etiology",
-        "aortic_dissection",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which of the following signs is NOT typical of acute pericarditis?",
-      "options": [
-        "Diffuse ST elevation",
-        "pleuritic pain",
-        "Low fever",
-        "Mitral holosystolic murmur"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A mitral holosystolic murmur is not a typical sign of acute pericarditis; suggests valvular or myocardial pathology.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "clinical_table",
-        "non-typical_signs",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the consequence of extrinsic compression of the cardiac chambers due to pericardial effusion?",
-      "options": [
-        "Decreased diastolic filling",
-        "Reduced heart rate",
-        "Increased venous return",
-        "Increased contractility"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The pressure of the pericardial fluid makes it difficult to fill the cardiac chambers, especially during diastole, reducing stroke volume and cardiac output.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "pathophysiology",
-        "diastolic_filling",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What therapy is considered second line for refractory recurrent pericarditis?",
-      "options": [
-        "NSAIDs and colchicine at high doses",
-        "Low dose prednisone",
-        "Broad spectrum antibiotics",
-        "Powerful diuretics"
-      ],
-      "correctAnswer": 2,
-      "explanation": "In cases of recurrent pericarditis that do not respond to standard treatment, low-dose corticosteroids can be used, along with other immunomodulatory therapies.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "treatment",
-        "recurrent_pericarditis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Why is CMR superior to echocardiography for evaluating myocardial inflammation?",
-      "options": [
-        "Measure blood pressure more accurately",
-        "It is faster and more accessible",
-        "Evaluates late gadolinium enhancement in the myocardium",
-        "Better detects pericardial effusion"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Cardiac Magnetic Resonance (CMR) uses specific sequences, such as late gadolinium enhancement, to identify and characterize myocardial inflammation and fibrosis, which is more limited in echocardiography.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "diagnosis",
-        "rmc_myocarditis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What implication does severe hypothyroidism have on the pericardium?",
-      "options": [
-        "Pericardial effusion and possible inflammation",
-        "Pericardial hypertrophy",
-        "Pericardial calcification",
-        "Increased pericardial thickness"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Severe hypothyroidism may be associated with pericardial effusions, which, although often serous, may become inflamed and mimic pericarditis.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "etiology",
-        "hypothyroidism",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main goal of treatment for acute pericarditis?",
-      "options": [
-        "Completely remove pericardial fluid",
-        "Relieve pain, control inflammation and prevent complications",
-        "Prevent the formation of adhesions",
-        "Restore valve function"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Management of acute pericarditis seeks to control symptoms (pain, inflammation), treat the underlying cause, and prevent short- and long-term complications such as tamponade or recurrence.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "treatment",
-        "treatment_goals",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What type of chest pain is most suggestive of pericarditis?",
-      "options": [
-        "Pleuritic, worse with deep inspiration",
-        "Side stitch, constant",
-        "Oppressive, radiating to right arm",
-        "Constrictive, unrelated to breathing"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The pleuritic character, with exacerbation of pain when taking a deep breath or coughing, is a distinctive feature of pericardial pain.",
-      "hashtags": [
-        "internal_medicine",
+        "cardiology",
         "acute_pericarditis",
         "clinical_table",
         "pleuritic_pain",
-        "PATHOLOGY",
-        ""
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015---Harrison 21ed"
       ]
     },
     {
-      "question": "In which population is tuberculosis an important cause of pericarditis?",
+      "question": "What maneuver usually relieves pain in acute pericarditis?",
       "options": [
-        "Young immunocompetent",
-        "Developing countries and HIV co-infection",
-        "Born in Western Europe",
-        "Patients with chronic kidney disease"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Tuberculosis remains a primary cause of pericarditis, especially in regions with high prevalence of the disease and in patients with compromised immune systems such as those co-infected with HIV.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "epidemiology",
-        "tuberculosis_global",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is observed on the ECG in the recovery phase of acute pericarditis?",
-      "options": [
-        "Persistent ST elevation",
-        "Marked reciprocal ST depression",
-        "T wave inversion",
-        "Pathological Q wave"
-      ],
-      "correctAnswer": 3,
-      "explanation": "After the ST elevation phase, T wave inversion is an electrocardiographic change that can persist for weeks or months in the course of acute pericarditis.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "diagnosis",
-        "ecg_evolution",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main difference between fibrinous and serous pericarditis?",
-      "options": [
-        "Fibrinous pericarditis is viral, serous is bacterial",
-        "The serosa causes constriction, the fibrinous tamponade",
-        "Fibrinous has more fibrin deposit, serosa has more clear fluid",
-        "There is no significant difference"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Fibrinous pericarditis is characterized by an exudate rich in fibrin and can lead to adhesions, while serous pericarditis presents a clearer exudate, rich in proteins and mononuclear cells.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "pathophysiology",
-        "exudate_types",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which Valsalva maneuver can show changes in heart rate in tamponade?",
-      "options": [
-        "Both phases produce an increase in heart rate",
-        "There are no significant changes",
-        "The stress phase decreases HR, decompression increases it",
-        "The decompression phase increases HR, the effort phase maintains it"
-      ],
-      "correctAnswer": 3,
-      "explanation": "During the Valsalva maneuver, in a normal heart, effort increases the rate and decompression decreases it. In plugging, this response may be altered or absent.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "clinical_table",
-        "maneuver_valsalva",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is an iatrogenic cause of pericarditis?",
-      "options": [
-        "Thoracic radiotherapy",
-        "blood transfusion",
-        "rib fracture",
-        "Intravenous iron administration"
+        "Forward lean",
+        "Supine position",
+        "Forced cough",
+        "Deep inspiration"
       ],
       "correctAnswer": 1,
-      "explanation": "Radiation therapy to the thoracic region, commonly used to treat cancers such as breast cancer or lymphoma, can induce pericardial inflammation.",
+      "explanation": "Pericardial pain is improved by leaning forward because it reduces friction between the inflamed pericardial layers, while supine position or deep inspiration worsens it.",
       "hashtags": [
-        "internal_medicine",
+        "cardiology",
         "acute_pericarditis",
-        "etiology",
-        "iatrogenic",
-        "PATHOLOGY",
-        ""
+        "clinical_table",
+        "pain_relief",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "What is expected to be found in a patient with constrictive pericarditis?",
+      "question": "Which finding on physical examination is most suggestive of acute pericarditis?",
       "options": [
-        "Diffuse ST elevation",
-        "Acute pleuritic chest pain",
-        "Peripheral edema and ascites",
-        "Paroxysmal tachycardia"
+        "pericardial rub",
+        "Third heart sound",
+        "Systolic murmur in aortic focus",
+        "Jugular engorgement"
       ],
-      "correctAnswer": 3,
-      "explanation": "Constrictive pericarditis restricts diastolic filling, causing volume and pressure overload in the venous system, manifesting as edema, ascites, and hepatomegaly.",
+      "correctAnswer": 1,
+      "explanation": "Pericardial rub, audible in systole and diastole, is the classic sign of acute pericarditis due to friction of the inflamed pericardial layers, unlike murmurs or congestive signs.",
       "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "complications",
-        "constrictive_pericarditis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What recommendation is made regarding the use of antiplatelet agents in acute idiopathic pericarditis?",
-      "options": [
-        "Always use aspirin and clopidogrel",
-        "They are the first line treatment",
-        "Use only if there is a high risk of thrombosis",
-        "Avoid routine use"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The use of antiplatelet agents and anticoagulants in acute idiopathic pericarditis is usually avoided or used with extreme caution due to the risk of hemopericardium.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "treatment",
-        "antiaggregants",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most common cause of pericarditis in the general population?",
-      "options": [
-        "Tuberculosis",
-        "Neoplasms",
-        "Viral or idiopathic causes",
-        "Uremia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "In young, healthy patients, most cases of acute pericarditis are of viral origin or are classified as idiopathic, with a subclinical viral cause frequently being assumed.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_pericarditis",
-        "epidemiology",
-        "general_common_cause",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What does diastolic collapse of the right chambers imply on echocardiogram?",
-      "options": [
-        "Severe systolic dysfunction",
-        "Sign of cardiac tamponade",
-        "Primary pulmonary hypertension",
-        "Constrictive pericarditis"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Diastolic collapse of the right ventricle and atrium is a highly specific echocardiographic sign for cardiac tamponade, indicating that intrapericardial pressure exceeds the pressure within these cavities.",
-      "hashtags": [
-        "internal_medicine",
+        "cardiology",
         "acute_pericarditis",
         "diagnosis",
-        "echocardiogram_tamponade",
-        "PATHOLOGY",
-        ""
+        "pericardial_rub",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---Braunwald 11ed"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for acute idiopathic pericarditis?",
+      "options": [
+        "Intravenous beta blockers",
+        "Oral anticoagulation",
+        "Colchicine and NSAIDs",
+        "Systemic corticosteroids"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The combination of NSAIDs (ibuprofen) and colchicine is the first-line treatment for acute pericarditis, reducing inflammation and recurrences; corticosteroids are reserved for refractory cases.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "treatment",
+        "NSAID_Colchicine",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What complication should be suspected if pericardial pain is accompanied by hypotension and jugular distention?",
+      "options": [
+        "cardiac tamponade",
+        "Rupture of the thoracic aorta",
+        "Massive pulmonary embolism",
+        "Right ventricular infarction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cardiac tamponade presents with hypotension, jugular engorgement, and muffled heart sounds, secondary to tense pericardial effusion that compresses the heart, a complication of pericarditis.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "complications",
+        "cardiac_tamponade",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the characteristic electrocardiographic finding of acute pericarditis?",
+      "options": [
+        "ST segment depression in II-III",
+        "Pathological Q waves in V1-V3",
+        "Diffuse ST segment elevation",
+        "Symmetric T wave inversion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Diffuse ST segment elevation is the typical finding in acute pericarditis, reflecting inflammation of the visceral pericardium; pathological Q waves suggest previous infarction.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "diagnosis",
+        "elevation_st",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ed"
+      ]
+    },
+    {
+      "question": "Which leads typically show ST elevation in acute pericarditis?",
+      "options": [
+        "Diffuse in multiple leads",
+        "Lower leads only",
+        "Precordial leads only",
+        "Lateral branches only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In acute pericarditis, ST elevation is diffuse, affecting both precordial and extremity leads, without being limited to a specific coronary territory.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "diagnosis",
+        "ecg_leads",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ed"
+      ]
+    },
+    {
+      "question": "What electrocardiographic sign differentiates acute pericarditis from ST elevation infarction?",
+      "options": [
+        "Concave ST elevation",
+        "Atrial fibrillation rhythm",
+        "Pathological Q waves",
+        "left bundle branch block"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Concave ST elevation (saddle shape) is typical of pericarditis, while in STEMI it is usually convex; Q waves are uncommon in pericarditis.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "differential_diagnosis",
+        "morphology_st",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ed"
+      ]
+    },
+    {
+      "question": "What first-line treatment is indicated in acute pericarditis with ST elevation?",
+      "options": [
+        "Heparin and nitroglycerin",
+        "Statins and beta blockers",
+        "Aspirin and clopidogrel",
+        "Ibuprofen and colchicine"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Initial management of acute pericarditis includes nonsteroidal anti-inflammatory drugs (such as ibuprofen) and colchicine to reduce inflammation and prevent recurrence.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "treatment",
+        "aines_colchicine",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What complication should be suspected if effusion with tamponade appears in acute pericarditis?",
+      "options": [
+        "Acute myocardial infarction",
+        "Associated myocarditis",
+        "Constrictive pericarditis",
+        "Massive pulmonary embolism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Associated myocarditis (myopericarditis) can complicate acute pericarditis, manifesting with elevated troponins and ventricular dysfunction, while tamponade is rare without myocarditis.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "complications",
+        "myopericarditis",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ed"
+      ]
+    },
+    {
+      "question": "What echocardiographic finding supports the diagnosis of acute pericarditis?",
+      "options": [
+        "Septal hypokinesia",
+        "Bicuspid aortic valve",
+        "Mild pericardial effusion",
+        "Ventricular hypertrophy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pericardial effusion, although not always present, is an echocardiographic finding that supports acute pericarditis; septal hypokinesia suggests ischemic heart disease.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "diagnosis",
+        "echocardiogram",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ed"
+      ]
+    },
+    {
+      "question": "What is the pathognomonic clinical finding of acute pericarditis?",
+      "options": [
+        "Austin Flint Puff",
+        "Third heart sound",
+        "pericardial rub",
+        "Pericardial click"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pericardial rub is a classic and pathognomonic physical sign of acute pericarditis, produced by the friction of the inflamed pericardial layers.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "clinical_table",
+        "pericardial_rub",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What acoustic characteristic does the pericardial rub present?",
+      "options": [
+        "Metal clicking sound",
+        "High frequency sound",
+        "low frequency sound",
+        "Musical tone sound"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pericardial rub is a harsh, low-frequency sound, described as 'rubbing' or 'scraping', that is best heard with the diaphragm of the stethoscope.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "clinical_table",
+        "auscultation",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "In what phase of the cardiac cycle is the pericardial friction rub heard most frequently?",
+      "options": [
+        "Only in systole",
+        "In systole and diastole",
+        "Only in diastole",
+        "Only in end diastole"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The pericardial rub is usually triphasic or biphasic, being heard in both systole and diastole, unlike murmurs that are usually only systolic or diastolic.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "clinical_table",
+        "cardiac_cycle",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ed"
+      ]
+    },
+    {
+      "question": "What is the maneuver that intensifies pericardial friction?",
+      "options": [
+        "Deep inspiration",
+        "Forward lean",
+        "Supine position",
+        "Forced expiration"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The pericardial rub intensifies with the patient leaning forward and exhaling, as it brings the heart closer to the chest wall and favors auscultation.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "physical_exploration",
+        "auscultation_maneuvers",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What pathophysiological process generates pericardial friction friction?",
+      "options": [
+        "Inflammation of the pericardial layers",
+        "Chronic pericardial fibrosis",
+        "Massive pericardial effusion",
+        "Calcification of the pericardium"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pericardial rub is produced by friction between the inflamed visceral and parietal layers of the pericardium, characteristic of acute fibrinous pericarditis.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "pathophysiology",
+        "damage_mechanism",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ed"
+      ]
+    },
+    {
+      "question": "What electrocardiographic finding usually accompanies pericardial rub in acute pericarditis?",
+      "options": [
+        "left bundle branch block",
+        "Symmetric inverted T waves",
+        "Diffuse ST segment elevation",
+        "Pathological Q waves"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Diffuse ST segment elevation with PR depression is the typical electrocardiographic finding of acute pericarditis, which usually accompanies pericardial rub.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "diagnosis",
+        "electrocardiograph",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What is the key echocardiographic finding in cardiac tamponade?",
+      "options": [
+        "Global hypokinesia of the left ventricle",
+        "Right chamber diastolic collapse",
+        "Diffuse pericardial thickening",
+        "Severe pericardial effusion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diastolic collapse of the right chambers is the most specific echocardiographic sign of cardiac tamponade, indicating compression by high-pressure pericardial fluid.",
+      "hashtags": [
+        "cardiology",
+        "pericardial_effusion_with_risk_of_cardiac_tamponade",
+        "diagnosis",
+        "echocardiography",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ed"
+      ]
+    },
+    {
+      "question": "What classic clinical sign is associated with cardiac tamponade?",
+      "options": [
+        "Paradoxical pulse",
+        "Hepato-jugular reflux",
+        "Austin Flint Puff",
+        "Pericardial click"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pulsus paradoxus is an exaggerated drop in systolic blood pressure during inspiration, typical of cardiac tamponade due to limitation of diastolic filling.",
+      "hashtags": [
+        "cardiology",
+        "pericardial_effusion_with_risk_of_cardiac_tamponade",
+        "clinical_table",
+        "paradoxical_pulse",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for cardiac tamponade with hemodynamic instability?",
+      "options": [
+        "Urgent pericardiectomy",
+        "Pericardial window placement",
+        "Administration of intravenous colloids",
+        "Evacuative pericardiocentesis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Evacuative pericardiocentesis is the immediate treatment to relieve cardiac compression in tamponade with instability, as it drains pericardial fluid and restores cardiac output.",
+      "hashtags": [
+        "cardiology",
+        "pericardial_effusion_with_risk_of_cardiac_tamponade",
+        "treatment",
+        "pericardiocentesis",
+        "MEDICAL_TOPIC",
+        "ESC Guidelines 2015"
+      ]
+    },
+    {
+      "question": "What classic triad characterizes cardiac tamponade?",
+      "options": [
+        "Dyspnea, orthopnea, lower limb edema",
+        "Chest pain, fever, pericardial rub",
+        "Hypotension, jugular engorgement, muffled heart sounds",
+        "Cyanosis, systolic murmur, alternating pulse"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Beck's triad (hypotension, jugular engorgement, and muffled heart sounds) is classic cardiac tamponade, reflecting low output and diastolic compression.",
+      "hashtags": [
+        "cardiology",
+        "pericardial_effusion_with_risk_of_cardiac_tamponade",
+        "clinical_table",
+        "beck_triad",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ed"
+      ]
+    },
+    {
+      "question": "Which electrocardiographic finding suggests severe pericardial effusion?",
+      "options": [
+        "Low voltage QRS complexes",
+        "electrical alternation",
+        "Inverted T waves in precordials",
+        "Diffuse ST segment elevation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Low voltage of the QRS complexes is characteristic of severe pericardial effusion, due to the attenuation of the electrical signal by the pericardial fluid, and may be accompanied by electrical alternans.",
+      "hashtags": [
+        "cardiology",
+        "pericardial_effusion_with_risk_of_cardiac_tamponade",
+        "diagnosis",
+        "electrocardiogram",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the most common cause of cardiac tamponade in clinical practice?",
+      "options": [
+        "Uremic pericarditis",
+        "Tuberculous pericarditis",
+        "Neoplastic pericarditis",
+        "Idiopathic pericarditis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Neoplastic pericarditis (due to metastasis from solid tumors, especially lung and breast) is the most common cause of cardiac tamponade, followed by infectious and uremic causes.",
+      "hashtags": [
+        "cardiology",
+        "pericardial_effusion_with_risk_of_cardiac_tamponade",
+        "etiology",
+        "neoplasia",
+        "MEDICAL_TOPIC",
+        "ESC Guidelines 2015"
+      ]
+    },
+    {
+      "question": "What is the main objective of echocardiography in acute pericarditis?",
+      "options": [
+        "Detect atrial arrhythmias",
+        "Measure blood pressure",
+        "Calculate cardiac output",
+        "Evaluate pericardial effusion"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In acute pericarditis, echocardiogram is primarily used to detect and quantify pericardial effusion, as well as to evaluate cardiac function and rule out cardiac tamponade.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "diagnosis",
+        "echocardiogram",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "Which echocardiographic finding suggests cardiac tamponade in pericarditis?",
+      "options": [
+        "Right atrial diastolic collapse",
+        "Diffuse pericardial thickening",
+        "Inspiratory septal hypokinesia",
+        "Loculated pericardial effusion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diastolic collapse of the right atrium is an early echocardiographic sign of cardiac tamponade, indicating extrinsic compression by high-pressure pericardial fluid.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "diagnosis",
+        "cardiac_tamponade",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What echocardiographic variable is essential to evaluate cardiac function in pericarditis?",
+      "options": [
+        "E/A mitral flow velocity",
+        "Aortic root diameter",
+        "Thickness of the parietal pericardium",
+        "Left ventricular ejection fraction"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The left ventricular ejection fraction is the standard parameter to quantify global systolic function, allowing the detection of myocardial dysfunction associated with pericarditis.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "functional_evaluation",
+        "ejection_fraction",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "Which echocardiographic technique improves the detection of small pericardial effusion?",
+      "options": [
+        "Transesophageal echocardiography",
+        "Color Doppler of mitral flow",
+        "M mode in parasternal long axis",
+        "Subcostal view with low frequency transducer"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The subcostal view with a low-frequency transducer allows visualization of the posterior pericardial space and identification of small effusions that may go unnoticed in other acoustic windows.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "diagnosis",
+        "subcostal_view",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "When is an urgent echocardiogram indicated in suspected acute pericarditis?",
+      "options": [
+        "Whenever there is a fever greater than 38°C",
+        "If there is a history of cardiac surgery",
+        "Given signs of cardiac tamponade",
+        "When the ECG shows ST elevation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The urgent indication for echocardiography in acute pericarditis is clinical suspicion of cardiac tamponade (hypotension, jugular engorgement, pulsus paradoxus), to confirm and guide drainage.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "treatment",
+        "cardiac_tamponade",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What echocardiographic parameter differentiates pericardial effusion from pleural effusion?",
+      "options": [
+        "Undulating movement of the heart within the liquid",
+        "Homogeneous echogenic appearance",
+        "Presence of fibrinous bands",
+        "Location anterior to the right ventricle"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The pericardial effusion is located anterior to the right ventricle in the parasternal view, while the pleural effusion is located posterior to the descending aorta, this being a differential ultrasound key.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "diagnosis",
+        "pericardial_effusion",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment in acute idiopathic pericarditis?",
+      "options": [
+        "Corticosteroids and azathioprine",
+        "NSAIDs and methotrexate",
+        "NSAIDs and colchicine",
+        "Corticosteroids and colchicine"
+      ],
+      "correctAnswer": 3,
+      "explanation": "NSAIDs (such as ibuprofen or aspirin) combined with colchicine constitute the first-line treatment for acute idiopathic pericarditis, reducing recurrence and inflammation.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "treatment",
+        "first_line",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What drug is added to NSAIDs to reduce the risk of recurrence in acute pericarditis?",
+      "options": [
+        "Anakinra",
+        "Methotrexate",
+        "Prednisone",
+        "Colchicine"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Colchicine is administered together with NSAIDs in acute pericarditis to significantly reduce the recurrence rate, according to clinical studies and international guidelines.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "treatment",
+        "colchicine",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What is the typical duration of treatment with NSAIDs in acute uncomplicated pericarditis?",
+      "options": [
+        "1 to 3 days",
+        "4 to 6 weeks",
+        "7 to 14 days",
+        "3 to 6 months"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Treatment with NSAIDs in uncomplicated acute pericarditis usually lasts 7 to 14 days, with gradual reduction of the dose depending on the clinical response and CRP levels.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "treatment",
+        "duration_aines",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What is the recommended initial dose of colchicine in acute pericarditis (without prior loading)?",
+      "options": [
+        "0.5 mg every 12 hours",
+        "1 mg every 8 hours",
+        "2 mg every 12 hours",
+        "0.5 mg every 24 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The typical initial dose of colchicine in acute pericarditis is 0.5 mg every 12 hours (in patients >70 kg or without intolerance), adjusted according to weight and renal function.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "posology",
+        "colchicine_dose",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What absolute contraindication prevents the use of NSAIDs as first line in acute pericarditis?",
+      "options": [
+        "Chronic kidney failure",
+        "Mild arterial hypertension",
+        "Diabetes mellitus type 2",
+        "mild bronchial asthma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Advanced chronic renal failure is an important relative contraindication for NSAIDs, but in acute pericarditis it is preferred to avoid it if glomerular filtration rate is low, opting for colchicine alone or corticosteroids.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "contraindications",
+        "aines_contraindication",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "When is the use of corticosteroids considered as an alternative in acute pericarditis?",
+      "options": [
+        "Patient with mild pain",
+        "Failure of NSAIDs and colchicine",
+        "First episode without complications",
+        "Suspected viral pericarditis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Corticosteroids are reserved for cases of acute pericarditis that do not respond to NSAIDs and colchicine, or when there are contraindications for them, since their early use is associated with greater recurrence.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "treatment",
+        "corticosteroids_alternative",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What is the most common cause of acute pericarditis in developed countries?",
+      "options": [
+        "Tuberculous pericarditis",
+        "Uremic pericarditis",
+        "Bacterial pericarditis",
+        "viral pericarditis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Viral pericarditis is the most common cause of acute pericarditis in developed countries, followed by idiopathic and post-infarction pericarditis. Bacterial and tuberculous causes are less common.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "etiology",
+        "most_common_causes",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Approximately what percentage of acute pericarditis is classified as idiopathic?",
+      "options": [
+        "30-50%",
+        "90-100%",
+        "10-20%",
+        "60-80%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Approximately 30-50% of cases of acute pericarditis are considered idiopathic, although many are probably of unidentified viral origin. This is a common cause in clinical practice.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "epidemiology",
+        "idiopathic_frequency",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "In what clinical context does early postinfarction pericarditis occur?",
+      "options": [
+        "Between 1 and 3 months",
+        "During the first week",
+        "after 6 months",
+        "Between 2 and 4 weeks"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Early postinfarction pericarditis occurs within the first 7 days after an acute myocardial infarction, associated with transmural necrosis. It is a classic complication of a heart attack.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "clinical_table",
+        "pericarditis_post-infarction",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---Braunwald"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for acute uncomplicated viral pericarditis?",
+      "options": [
+        "NSAIDs plus colchicine",
+        "Intravenous antibiotics",
+        "Oral prednisone",
+        "Colchicine alone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First-line treatment for uncomplicated acute viral pericarditis combines nonsteroidal anti-inflammatory drugs (NSAIDs) with colchicine, which reduces recurrence and accelerates resolution of symptoms.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "treatment",
+        "first_line",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What electrocardiographic finding is typical in acute viral pericarditis?",
+      "options": [
+        "left bundle branch block",
+        "Diffuse ST elevation",
+        "ST depression in V1-V3",
+        "Pathological Q waves"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diffuse ST segment elevation with reciprocal depression in aVR is characteristic of acute viral pericarditis, unlike infarction where the elevation is regional and there are Q waves.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "diagnosis",
+        "electrocardiogram",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a common cause of acute pericarditis?",
+      "options": [
+        "Post-cardiac surgery",
+        "viral infection",
+        "Idiopathic",
+        "Chronic kidney failure"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Advanced chronic renal failure can cause uremic pericarditis, but is not a common cause of acute pericarditis in the general population; The most common causes are viral, idiopathic and post-infarction or post-surgery.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "etiology",
+        "non_common_causes",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the pathophysiological mechanism of pulsus paradoxus in large pericardial effusion?",
+      "options": [
+        "Decreased left ventricular filling",
+        "Reflex myocardial hypercontractility",
+        "LV outflow tract obstruction",
+        "Increased systemic venous return"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pulsus paradoxus in cardiac tamponade due to large pericardial effusion is due to the critical decrease in left ventricular filling during inspiration, due to external compression of the heart.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "pathophysiology",
+        "paradoxical_pulse_mechanism",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What classic physical sign is associated with a large pericardial effusion and left lung compression?",
+      "options": [
+        "Ewart's sign",
+        "Kussmaul sign",
+        "Osler's sign",
+        "Hill sign"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ewart's sign (dullness and bronchophony at the left lung base) occurs due to compression of the left lung by a large pericardial effusion, classic in pericarditis with significant effusion.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "clinical_table",
+        "ewart_sign",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ed"
+      ]
+    },
+    {
+      "question": "In a patient with a large pericardial effusion, which arterial pulse finding is characteristic?",
+      "options": [
+        "Filiform pulse",
+        "Alternating pulse",
+        "Paradoxical pulse",
+        "Bisferiens pulse"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pulsus paradoxus (exaggerated drop in systolic blood pressure >10 mmHg during inspiration) is characteristic of cardiac tamponade due to large pericardial effusion.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "clinical_table",
+        "paradoxical_pulse",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which of the following is a typical finding on physical examination of a patient with a large pericardial effusion?",
+      "options": [
+        "Pericardial click",
+        "Jugular engorgement with Kussmaul",
+        "Pansystolic murmur in apex",
+        "Audible pericardial rub"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In large pericardial effusion with tamponade, jugular engorgement and Kussmaul's sign (increased venous pressure with inspiration) are classic findings due to limitation of diastolic filling.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "clinical_table",
+        "kussmaul_sign",
+        "MEDICAL_TOPIC",
+        "Braunwald 12ed"
+      ]
+    },
+    {
+      "question": "Which imaging study best confirms the presence of a large pericardial effusion?",
+      "options": [
+        "Transthoracic echocardiogram",
+        "Chest x-ray",
+        "Electrocardiogram",
+        "CT scan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transthoracic echocardiogram is the test of choice to confirm pericardial effusion, evaluate its size and detect signs of tamponade such as diastolic collapse of the right chambers.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "diagnosis",
+        "echocardiogram",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment in a patient with a large pericardial effusion and cardiac tamponade?",
+      "options": [
+        "Non-steroidal anti-inflammatory drugs",
+        "Emergency pericardiocentesis",
+        "Non-invasive mechanical ventilation",
+        "Systemic corticosteroids"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Emergency pericardiocentesis is the treatment of choice in cardiac tamponade with hemodynamic compromise, as it drains pericardial fluid and relieves cardiac compression.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "treatment",
+        "pericardiocentesis",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What inflammatory marker rises earliest in acute pericarditis?",
+      "options": [
+        "Procalcitonin",
+        "Sedimentation rate",
+        "Interleukin-6",
+        "C-reactive protein"
+      ],
+      "correctAnswer": 4,
+      "explanation": "C-reactive protein (CRP) rises in the first hours of inflammation, being earlier than ESR in acute pericarditis.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "diagnosis",
+        "inflammatory_markers",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the typical CRP value in acute pericarditis?",
+      "options": [
+        "Elevated (> 10 mg/L)",
+        "slightly decreased",
+        "Only elevated in chronic phase",
+        "Normal or undetectable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In acute pericarditis, CRP is usually significantly elevated (> 10 mg/L), reflecting the systemic inflammatory response.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "diagnosis",
+        "high_pcr",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What combination of markers is characteristic of acute pericarditis?",
+      "options": [
+        "Normal CRP and elevated ESR",
+        "Elevated CRP and normal ESR",
+        "High CRP and high ESR",
+        "Normal CRP and ESR"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In acute pericarditis, both inflammatory markers (CRP and ESR) are typically elevated, indicating active inflammation.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "pathophysiology",
+        "inflammatory_response",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the clinical usefulness of PCR in the follow-up of pericarditis?",
+      "options": [
+        "Diagnose chronic complications",
+        "Monitor response to treatment",
+        "Predict risk of plugging",
+        "Differentiate from acute infarction"
+      ],
+      "correctAnswer": 2,
+      "explanation": "CRP is used to monitor the response to anti-inflammatory treatment, since its decrease correlates with clinical improvement.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "treatment",
+        "pcr_tracking",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
+      ]
+    },
+    {
+      "question": "What factor can elevate ESR in acute pericarditis?",
+      "options": [
+        "Use of anticoagulants",
+        "Systemic inflammation",
+        "atrioventricular block",
+        "Mild dehydration"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ESR is elevated in acute pericarditis as a consequence of systemic inflammation, increasing erythrocyte aggregation.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "pathophysiology",
+        "vsg_high",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "When is CRP considered to have normalized in pericarditis?",
+      "options": [
+        "When chest pain disappears",
+        "Upon completion of 4 weeks of NSAIDs",
+        "When falling below 5 mg/L",
+        "When the ECG normalizes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "CRP is considered normalized when it falls below 5 mg/L, a value that usually accompanies inflammatory resolution.",
+      "hashtags": [
+        "cardiology",
+        "acute_pericarditis",
+        "diagnosis",
+        "normalization_pcr",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2015"
       ]
     }
   ]

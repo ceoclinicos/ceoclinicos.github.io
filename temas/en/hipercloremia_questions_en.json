@@ -1,265 +1,94 @@
 {
   "questions": [
     {
-      "question": "What is the definition of hyperchloremia?",
+      "question": "What is the most common cause of hyperchloremia in adults?",
       "options": [
-        "Chloride concentration below normal",
-        "Chloride concentration above normal",
-        "Absence of chloride in serum",
-        "Normal chloride concentration"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Hyperchloremia is defined as the presence of a concentration of chloride ion (Cl-) in the blood serum above the upper limit of normal, which is typically between 100-106 mEq/L.",
-      "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
-        "definition",
-        "swedish_concentration",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main extracellular anion in plasma?",
-      "options": [
-        "Proteins",
-        "Baking soda",
-        "Chloride",
-        "Phosphate"
+        "Hypertonic dehydration",
+        "Nephrogenic diabetes insipidus",
+        "Renal tubular acidosis",
+        "Adrenal insufficiency"
       ],
       "correctAnswer": 3,
-      "explanation": "The chloride ion (Cl-) is the main extracellular anion, playing a crucial role in maintaining the water, osmotic and acid-base balance of the organism.",
+      "explanation": "Renal tubular acidosis, especially the distal type, is the most common cause of hyperchloremia because it generates a renal loss of bicarbonate with compensatory retention of chloride.",
       "hashtags": [
-        "internal_medicine",
-        "chlorine",
-        "physiology",
-        "extracellular_anion",
+        "nephrology",
+        "hyperchloremia",
+        "etiology",
+        "renal_tubular_acidosis",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What role does chloride play in the body's homeostasis?",
+      "question": "What type of renal tubular acidosis is most frequently associated with hyperchloremia?",
       "options": [
-        "Oxygen transport only",
-        "Maintenance of water, osmotic and acid-base balance",
-        "Exclusive enzymatic function",
-        "Cellular energy production"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Chloride is a fundamental ion for maintaining the body's water, osmotic and acid-base balance, in addition to being involved in the regulation of extracellular volume and blood pressure.",
-      "hashtags": [
-        "internal_medicine",
-        "chlorine",
-        "physiology",
-        "homeostasis",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is one of the most common causes of hyperchloremia?",
-      "options": [
-        "Decreased serum glucose",
-        "Excess sodium gain",
-        "Increased potassium intake",
-        "Bicarbonate loss"
+        "Mixed type (type 3)",
+        "Type 4 (hyperkalemic)",
+        "Proximal type (type 2)",
+        "Distal type (type 1)"
       ],
       "correctAnswer": 4,
-      "explanation": "The loss of bicarbonate, either through the gastrointestinal or renal routes (as in chronic diarrhea or renal tubular acidosis), is one of the most frequent causes of hyperchloremia, leading to metabolic acidosis with a normal anion gap.",
+      "explanation": "Distal renal tubular acidosis (type 1) is most frequently associated with hyperchloremia due to the inability to excrete acids, resulting in compensatory retention of serum chloride.",
       "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
-        "causes",
-        "bicarbonate_loss",
+        "nephrology",
+        "renal_tubular_acidosis",
+        "clinical_table",
+        "distal_type",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What diagnostic tool helps differentiate the causes of hyperchloremia?",
+      "question": "Which electrolyte disorder is most commonly seen in distal renal tubular acidosis?",
       "options": [
-        "Serum potassium measurement",
-        "blood glucose level",
-        "Glycosylated hemoglobin",
-        "Calculation of the anion gap (BA)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Determination of the anion gap (BA = Na+ - (Cl- + HCO3-)) is a key diagnostic tool that helps differentiate hyperchloremia due to chloride gain or bicarbonate loss (normal BA) from other causes of metabolic acidosis with an elevated anion gap.",
-      "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
-        "diagnosis",
-        "anion_gap",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What does a normal anion gap indicate in a patient with hyperchloremia and metabolic acidosis?",
-      "options": [
-        "Methanol poisoning",
-        "Loss of bicarbonate or gain of chloride",
-        "Potassium overdose",
-        "Presence of unmeasured anions"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A normal anion gap (8-12 mEq/L) in the presence of hyperchloremia and metabolic acidosis suggests that the acidosis is due to a net loss of bicarbonate (e.g., diarrhea, ATR) or a gain of chloride (e.g., saline infusion).",
-      "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
-        "diagnosis",
-        "normal_anion_gap",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main cause of bicarbonate loss in the gastrointestinal tract?",
-      "options": [
-        "Pancreatic and biliary secretion",
-        "Salivary enzymes",
-        "gastric secretion",
-        "Intestinal absorption"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Pancreatic juice and bile are fluids rich in bicarbonate. Losses of these fluids, as occurs in chronic diarrhea or bilio-pancreatic fistulas, result in a net loss of bicarbonate.",
-      "hashtags": [
-        "internal_medicine",
-        "baking soda",
-        "gastrointestinal_physiology",
-        "gastrointestinal_loss",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What type of renal tubular acidosis is most directly associated with bicarbonate loss and hyperchloremia?",
-      "options": [
-        "Type I (Distal)",
-        "Any of the above",
-        "Type II (Proximal)",
-        "Type IV (Hyperkalemic)"
+        "Hypokalemia",
+        "Hypernatremia",
+        "Hyperchloremia",
+        "Hyperphosphatemia"
       ],
       "correctAnswer": 3,
-      "explanation": "Renal Tubular Acidosis type II (RTA type II), or proximal renal tubular acidosis, is characterized by a primary defect in bicarbonate reabsorption in the proximal tubule, leading to its loss and consequent hyperchloremia.",
+      "explanation": "In distal renal tubular acidosis, hyperchloremia is the most common electrolyte disorder, accompanied by metabolic acidosis with a normal anion gap due to compensatory chloride retention.",
       "hashtags": [
-        "internal_medicine",
-        "atr",
-        "kidney_physiopathology",
-        "atr_type_ii",
+        "nephrology",
+        "renal_tubular_acidosis",
+        "diagnosis",
+        "electrolytes",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Why can excessive administration of 0.9% saline cause hyperchloremia?",
+      "question": "What is the main pathophysiological mechanism of hyperchloremia in distal renal tubular acidosis?",
       "options": [
-        "Decreases sodium reabsorption",
-        "Chloride concentration is higher than in plasma",
-        "Contains low chloride",
-        "Increases chloride excretion"
+        "Decreased water intake",
+        "Renal chloride retention",
+        "Increased intestinal absorption",
+        "Excessive sodium excretion"
       ],
       "correctAnswer": 2,
-      "explanation": "0.9% saline solution has a chloride concentration of 154 mEq/L, which is significantly higher than the physiological concentration in plasma (100-106 mEq/L). Infusion of large volumes may overload the kidney's ability to excrete the excess.",
+      "explanation": "In distal renal tubular acidosis, the defect in acid excretion leads to compensatory renal retention of chloride to maintain electroneutrality, generating hyperchloremia.",
       "hashtags": [
-        "internal_medicine",
-        "saline_solution",
-        "clinical_pharmacology",
-        "chloride_load",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What pathophysiological mechanism best describes hyperchloremia due to administration of 0.9% NaCl?",
-      "options": [
-        "Increased gastric secretion",
-        "Decreased sodium reabsorption",
-        "Excessive chloride gain",
-        "Renal bicarbonate loss"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Administration of large volumes of 0.9% saline introduces an excessive chloride load into the body. The kidney attempts to maintain electrical neutrality, which can lead to an increase in serum chloride and metabolic acidosis, with displacement of bicarbonate.",
-      "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
+        "nephrology",
+        "renal_tubular_acidosis",
         "pathophysiology",
-        "chloride_gain",
+        "chlorine_retention",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What are common symptoms associated with metabolic acidosis in patients with hyperchloremia?",
+      "question": "What type of metabolic acidosis is typically associated with hyperchloremia due to renal tubular acidosis?",
       "options": [
-        "Muscle weakness and headache",
-        "Constipation and oliguria",
-        "Bradypnea and bradycardia",
-        "Increased blood pressure"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Metabolic acidosis can manifest with muscle weakness, fatigue, headache, nausea, vomiting, and deep, rapid breathing (compensatory hyperventilation) as the body attempts to eliminate CO2 to raise the pH.",
-      "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
-        "clinical_manifestations",
-        "metabolic_acidosis",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What neurological symptom may occur if hyperchloremia coexists with hypernatremia?",
-      "options": [
-        "Tendon hyperreflexia",
-        "Lethargy, stupor, or coma",
-        "extreme hyperactivity",
-        "visual hallucinations"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Although pure hyperchloremia does not cause direct neurological symptoms, if it coexists with hypernatremia, the latter can cause lethargy, stupor, coma, irritability, agitation or seizures, depending on the severity and rapidity of its development.",
-      "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
-        "clinical_manifestations",
-        "neurological_symptoms",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is essential for the diagnosis of hyperchloremia?",
-      "options": [
-        "Parathyroid hormone levels",
-        "Genetic study",
-        "Biochemical determination of serum chloride",
-        "Kidney biopsy"
+        "Lactic type A",
+        "Lactic type B",
+        "Normal anion gap",
+        "High anion gap"
       ],
       "correctAnswer": 3,
-      "explanation": "The first and fundamental step in diagnosing hyperchloremia is the measurement of serum chloride, which should be above the normal range (typically 100-106 mEq/L).",
+      "explanation": "Renal tubular acidosis produces metabolic acidosis with a normal anion gap (hyperchloremic), since the loss of bicarbonate is replaced by chlorine retention, maintaining electroneutrality.",
       "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
-        "diagnosis",
-        "serum_chloride",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What additional analysis is crucial to guide the etiology of hyperchloremia in metabolic acidosis?",
-      "options": [
-        "venous blood gases",
-        "Calculation of serum anion gap",
-        "Electrolytes in urine",
-        "Amylase levels"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Calculation of the serum anion gap (BA = Na+ - (Cl- + HCO3-)) is essential. A normal BA suggests causes such as bicarbonate loss or chloride gain, while an elevated BA points to other causes of metabolic acidosis.",
-      "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
+        "nephrology",
+        "renal_tubular_acidosis",
         "diagnosis",
         "anion_gap",
         "MEDICAL_TOPIC",
@@ -267,455 +96,18 @@
       ]
     },
     {
-      "question": "What does a negative urinary anion gap (UAG) indicate in the differential diagnosis?",
+      "question": "Which of the following is a characteristic laboratory finding in hyperchloremia due to distal renal tubular acidosis?",
       "options": [
-        "Primary kidney problem",
-        "Aldosterone deficiency",
-        "Baking soda overdose",
-        "Gastrointestinal loss of bicarbonate"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A negative (or close to zero) urinary anion gap suggests that the kidney is excreting ammonia adequately to try to correct the acidosis, which is compatible with bicarbonate losses of gastrointestinal origin.",
-      "hashtags": [
-        "internal_medicine",
-        "metabolic_acidosis",
-        "diagnosis",
-        "urinary_anion_gap",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the mainstay of the treatment of hyperchloremia associated with type II RTA?",
-      "options": [
-        "Oral or IV sodium bicarbonate",
-        "Potassium restriction",
-        "Saline administration",
-        "loop diuretics"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The main treatment for type II TKA is the administration of sodium bicarbonate (or other alkalizers) to replace losses and correct acidosis. Thiazide diuretics can be an adjuvant.",
-      "hashtags": [
-        "internal_medicine",
-        "atr",
-        "treatment",
-        "sodium_bicarbonate",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What type of intravenous solution can be beneficial in cases of hyperchloremic metabolic acidosis to provide bicarbonate?",
-      "options": [
-        "Lactated Ringer's",
-        "Hypertonic saline",
-        "0.9% saline solution",
-        "5% glucose solution"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Lactated Ringer's solution contains lactate, which is metabolized in the liver to bicarbonate, helping to correct metabolic acidosis. Additionally, it has a lower chloride load than isotonic saline.",
-      "hashtags": [
-        "internal_medicine",
-        "metabolic_acidosis",
-        "treatment",
-        "ringer_lactate",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main goal of hyperchloremia treatment?",
-      "options": [
-        "Reduce water consumption",
-        "Increase potassium excretion",
-        "Correct the underlying cause",
-        "Increase salt intake"
+        "Urinary pH < 5.0",
+        "Low urinary potassium",
+        "Urinary pH > 5.5",
+        "Elevated urinary sodium"
       ],
       "correctAnswer": 3,
-      "explanation": "Hyperchloremia is a sign. Treatment focuses on identifying and treating the underlying pathology that is causing it, be it a loss of bicarbonate, gain of chloride, or kidney alteration.",
+      "explanation": "In distal renal tubular acidosis, the urinary pH is persistently greater than 5.5 due to the inability to acidify the urine, accompanied by hyperchloremia and metabolic acidosis.",
       "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
-        "treatment",
-        "underlying_cause",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the typical normal range of serum chloride in adults?",
-      "options": [
-        "100-106 mEq/L",
-        "50-75 mEq/L",
-        "200-250 mEq/L",
-        "120-140 mEq/L"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The normal upper limit for blood serum chloride concentration is typically between 100-106 mEq/L in adults, although ranges may vary slightly between laboratories.",
-      "hashtags": [
-        "internal_medicine",
-        "serum_chloride",
-        "normal_values",
-        "normal_range",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What does normotonic hyperchloremia imply?",
-      "options": [
-        "Normal or slightly elevated total serum osmolarity",
-        "Very high potassium concentration",
-        "Severe hyponatremia",
-        "Marked hypernatremia"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Hyperchloremia can be classified as normotonic, meaning that the total serum osmolarity is normal or only slightly elevated, unlike hyperosmotic which coexists with marked hypernatremia.",
-      "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
-        "classification",
-        "normotonic_hyperchloremia",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What does hyperosmotic hyperchloremia imply?",
-      "options": [
-        "Normal serum osmolarity",
-        "Marked hyponatremia",
-        "High bicarbonate concentration",
-        "Coexists with marked hypernatremia"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Hyperosmotic hyperchloremia is defined as hyperchloremia that coexists with marked hypernatremia, raising the total osmolarity of the serum.",
-      "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
-        "classification",
-        "hyperchloremia_hyperosmotic",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What role does the kidney play in regulating chloride and bicarbonate?",
-      "options": [
-        "It only secretes bicarbonate",
-        "Reabsorbs sodium promoting Cl reabsorption",
-        "Does not participate in its regulation",
-        "Excrete both selectively"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The kidney is the main regulatory organ for chloride and bicarbonate. Chloride reabsorption in the renal tubule is closely linked to sodium reabsorption, and in the proximal tubule, Na+ reabsorption promotes Cl- reabsorption.",
-      "hashtags": [
-        "internal_medicine",
-        "kidney",
-        "renal_physiology",
-        "electrolyte_regulation",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the function of the Na+-K+-2Cl- cotransporter in the loop of Henle?",
-      "options": [
-        "Potassium excretion",
-        "Hydrogen secretion",
-        "Bicarbonate filtration",
-        "Reabsorption of sodium, potassium and chloride"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The Na+-K+-2Cl- cotransporter (NKCC) is vital in the loop of Henle, facilitating the reabsorption of sodium, potassium and, crucially, chloride, which is essential for urine concentration and electrolyte balance.",
-      "hashtags": [
-        "internal_medicine",
-        "asa_henle",
-        "renal_physiology",
-        "nkcc",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Why is chloride important in the secretion of hydrochloric acid in the stomach?",
-      "options": [
-        "It is an essential component of HCl",
-        "Stimulates bile production",
-        "It is a precursor of pepsinogen",
-        "Regulates absorption pH"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Chloride is an essential component of hydrochloric acid (HCl) that is secreted by the parietal cells of the stomach for the digestion of food. Losses of this acid (vomiting) imply loss of Cl- and H+.",
-      "hashtags": [
-        "internal_medicine",
-        "stomach",
-        "gastrointestinal_physiology",
-        "hydrochloric acid",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What membrane transport mechanism is key for chloride in red blood cells?",
-      "options": [
-        "Cl-/HCO3- exchanger (band 3)",
-        "Simple diffusion",
-        "Voltage-gated Cl- channel",
-        "Primary active transport"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The Cl-/HCO3- exchanger, known as band 3 protein, is essential in red blood cells for the transport of carbon dioxide (CO2) as bicarbonate, and vice versa, involving the exchange of Cl- and HCO3- across the membrane.",
-      "hashtags": [
-        "internal_medicine",
-        "red_blood",
-        "membrane_transport",
-        "exchanger_cl_hco3",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What hormone can influence chloride reabsorption in the collecting duct?",
-      "options": [
-        "Antidiuretic hormone (ADH)",
-        "Glucagon",
-        "Insulin",
-        "Parathyroid hormone (PTH)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Antidiuretic hormone (ADH) can influence chloride reabsorption in the collecting duct, in addition to regulating water channels and the expression of other solute transporters, affecting urine concentration.",
-      "hashtags": [
-        "internal_medicine",
-        "collector_tube",
-        "renal_physiology",
-        "adh",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "How does aldosterone affect chloride reabsorption indirectly?",
-      "options": [
-        "Inhibits bicarbonate transport",
-        "Increases chloride secretion",
-        "Promotes sodium reabsorption, influencing Cl-",
-        "Decreases water reabsorption"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Aldosterone promotes sodium reabsorption. Through coupling or electroneutral mechanisms, this may indirectly influence chloride reabsorption and potassium and proton excretion in the distal renal tubules.",
-      "hashtags": [
-        "internal_medicine",
-        "aldosterone",
-        "renal_physiology",
-        "sodium_regulation",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "How are the causes of hyperchloremia classified according to the anion gap?",
-      "options": [
-        "Hyperchloremia with normal BA and with elevated BA",
-        "High chloride and low chloride",
-        "Hyperosmotic and normotonic hyperchloremia",
-        "Normochloremia and hyperchloremia"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Hyperchloremia is frequently classified in the context of metabolic acidosis. If the anion gap is normal, it is called hyperchloremic metabolic acidosis; if it is high, other unmeasured anions are involved.",
-      "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
-        "classification",
-        "anion_gap",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main cause of bicarbonate loss through the kidneys?",
-      "options": [
-        "Forced diuresis",
-        "Renal Tubular Acidosis (RTA)",
-        "Addison's disease",
-        "Diabetes insipidus"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Renal Tubular Acidoses (RTA), especially type II (proximal) and type I (distal), involve a defect in the reabsorption or secretion of bicarbonate and acid, respectively, leading to renal losses of bicarbonate and acidosis.",
-      "hashtags": [
-        "internal_medicine",
-        "atr",
-        "kidney_physiopathology",
-        "kidney_loss_bicarbonate",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What diuretics can cause increased bicarbonate excretion?",
-      "options": [
-        "Carbonic anhydrase inhibitors",
-        "Osmotic diuretics",
-        "Potassium-sparing diuretics",
-        "loop diuretics"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Carbonic anhydrase inhibitors, such as acetazolamide, block bicarbonate reabsorption in the proximal tubule, increasing its excretion and potentially causing hyperchloremia and metabolic acidosis.",
-      "hashtags": [
-        "internal_medicine",
-        "diuretics",
-        "pharmacology",
-        "carbonic_anhydrase_inhibitors",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Which condition can cause hyperchloremia due to chloride and acid gain?",
-      "options": [
-        "Magnesium consumption",
-        "Consumption of sodium salts",
-        "Consumption of potassium salts",
-        "Consumption of ammonium salts (NH4Cl)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Ammonium chloride (NH4Cl) is a substance that, when metabolized, releases protons (H+) and chloride (Cl-), acting as an acidifying agent and increasing the chloride load in the body, potentially inducing hyperchloremia.",
-      "hashtags": [
-        "internal_medicine",
-        "ammonium_chloride",
-        "pharmacology",
-        "exogenous_cause",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What happens to chloride reabsorption in the proximal tubule if sodium is reabsorbed?",
-      "options": [
-        "Decreases chloride reabsorption",
-        "There is no relationship",
-        "Chloride reabsorption is promoted",
-        "Chloride is secreted"
-      ],
-      "correctAnswer": 3,
-      "explanation": "In the proximal tubule, sodium (Na+) reabsorption is coupled to chloride (Cl-) reabsorption, jointly promoting the movement of both electrolytes from the tubule into the interstitium and blood.",
-      "hashtags": [
-        "internal_medicine",
-        "proximal_tubule",
-        "renal_physiology",
-        "sodium_chloride_transport",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is hyperchloremia in the context of kidney failure?",
-      "options": [
-        "Increased reabsorption in the tubule",
-        "A decrease in chloride excretion",
-        "An increase in chloride production",
-        "Increased secretion of bicarbonate"
-      ],
-      "correctAnswer": 2,
-      "explanation": "In kidney failure, the kidney's ability to excrete solutes, including chloride, decreases. This can lead to chloride accumulation and consequently hyperchloremia, especially if intake exceeds excretion.",
-      "hashtags": [
-        "internal_medicine",
-        "kidney_failure",
-        "kidney_physiopathology",
-        "excretion_chloride",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What does hypertonic dehydration involve in relation to chloride?",
-      "options": [
-        "Loss of water and bicarbonate",
-        "Loss of water and sodium with predominance of sodium gain",
-        "Water and sodium loss with predominance of water loss",
-        "Water and sodium gain"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Hypertonic dehydration is characterized by a combination of water and sodium loss, but with a proportionally greater water loss or sodium gain, which can result in hypernatremia and hyperchloremia.",
-      "hashtags": [
-        "internal_medicine",
-        "dehydration",
-        "pathophysiology",
-        "hypertonic_dehydration",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What type of intravenous solution should be used with caution in patients with hyperchloremia and volume overload?",
-      "options": [
-        "Lactated Ringer's Solution",
-        "Baking soda solution",
-        "0.9% saline solution",
-        "5% dextrose in water"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The 0.9% saline solution has a high concentration of chloride (154 mEq/L) and sodium. Its administration in patients with volume overload may exacerbate hyperchloremia and metabolic acidosis.",
-      "hashtags": [
-        "internal_medicine",
-        "hyperchloremia",
-        "clinical_pharmacology",
-        "saline_solution",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Which parameter is crucial to evaluate the compensatory response to metabolic acidosis?",
-      "options": [
-        "Blood pressure",
-        "Heart rate",
-        "oxygen level",
-        "Arterial blood gas"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Arterial blood gas (ABG) allows evaluation of serum pH, partial pressure of CO2 and bicarbonate, which is essential to confirm and quantify metabolic acidosis and observe whether there is adequate respiratory compensation (decrease in CO2).",
-      "hashtags": [
-        "internal_medicine",
-        "metabolic_acidosis",
-        "diagnosis",
-        "gsa",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What does low urine osmolarity indicate in a patient with hyperchloremia?",
-      "options": [
-        "Very high water intake",
-        "Ability to concentrate urine",
-        "Defect in water or solute reabsorption",
-        "Excessive production of ADH"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Low urinary osmolarity, especially in the presence of hypernatremia (which may coexist with hyperchloremia), suggests that the kidney is not adequately concentrating urine, which may be due to a defect in the reabsorption of water (diabetes insipidus) or solutes.",
-      "hashtags": [
-        "internal_medicine",
-        "kidney",
-        "renal_physiology",
-        "urinary_osmolarity",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Which urinalysis finding is critical for the diagnosis of TKA?",
-      "options": [
-        "Proteins in urine",
-        "Ketones in urine",
-        "urinary pH",
-        "Presence of glucose"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Urinary pH is a key diagnostic tool in the evaluation of Renal Tubular Acidosis (RTA). A consistently elevated urinary pH (>5.5) in the presence of metabolic acidosis suggests type I (distal) or type IV RTA.",
-      "hashtags": [
-        "internal_medicine",
-        "atr",
+        "nephrology",
+        "renal_tubular_acidosis",
         "diagnosis",
         "urinary_ph",
         "MEDICAL_TOPIC",
@@ -723,514 +115,1027 @@
       ]
     },
     {
-      "question": "What other condition can cause metabolic alkalosis and hypokalemia, but also complex changes in chloride?",
+      "question": "What is the most common cause of hyperchloremia with a normal anion gap?",
       "options": [
-        "Hyperaldosteronism",
-        "diabetic ketoacidosis",
-        "iron deficiency",
-        "Liver failure"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Primary or secondary hyperaldosteronism promotes sodium reabsorption and potassium and hydrogen excretion, typically causing hypokalemic metabolic alkalosis. Volume and chloride management can be complex and vary.",
-      "hashtags": [
-        "internal_medicine",
-        "hyperaldosteronism",
-        "endocrinology",
-        "metabolic_alkalosis",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Why can profuse vomiting complicate hyperchloremia despite the loss of HCl?",
-      "options": [
-        "Decreases sodium reabsorption",
-        "The renal compensatory response and fluid therapy can alter the balance",
-        "Causes bicarbonate gain",
-        "Directly increases chloride secretion"
+        "Primary hyperaldosteronism",
+        "Loss of digestive bicarbonate",
+        "Distal renal tubular acidosis",
+        "Acute adrenal insufficiency"
       ],
       "correctAnswer": 2,
-      "explanation": "Although profuse vomiting causes loss of HCl (hypochloremic and theoretically alkalinizing), the compensatory response of the kidney (retention of Na+ and H+ with excretion of bicarbonate) and the possible administration of fluids can complicate the electrolyte balance, leading to variable conditions that may include hyperchloremia.",
-      "hashtags": [
-        "internal_medicine",
-        "vomit",
-        "gastrointestinal_physiopathology",
-        "complications_volume",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the risk of rapid correction of hyperchloremia and metabolic acidosis?",
-      "options": [
-        "Hypokalemia and tetany",
-        "Volume overload and rebound alkalosis",
-        "Severe hypernatremia",
-        "cellular dehydration"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Too rapid correction of metabolic acidosis, especially with bicarbonate, can lead to rebound metabolic alkalosis. Additionally, administration of fluids to correct acidosis may precipitate volume overload in susceptible patients.",
-      "hashtags": [
-        "internal_medicine",
-        "treatment",
-        "metabolic_acidosis",
-        "adverse_effects",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What type of patients are most susceptible to developing hyperchloremia due to administration of saline solution?",
-      "options": [
-        "Malnourished patients",
-        "Patients with kidney or heart failure",
-        "Patients with mild diarrhea",
-        "Healthy patients with normal kidney function"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Patients with compromised renal function, congestive heart failure, sepsis, or tissue hypoperfusion have a reduced capacity to excrete the sodium and chloride load administered with saline solutions, increasing the risk of hyperchloremia and hyperchloremic metabolic acidosis.",
+      "explanation": "The loss of bicarbonate due to diarrhea or digestive fistulas is the most common cause of hyperchloremic metabolic acidosis with a normal anion gap, since chloride increases to maintain electroneutrality.",
       "hashtags": [
         "internal_medicine",
         "hyperchloremia",
-        "risk_factors",
-        "kidney_failure",
+        "etiology",
+        "anion_gap_normal",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What consequence can uncorrected metabolic acidosis have on the cardiovascular system?",
+      "question": "In hyperchloremic metabolic acidosis, the serum anion gap is found:",
       "options": [
-        "Increased myocardial contractility",
-        "Pulmonary vasoconstriction",
-        "Decreased contractility and vasodilation",
-        "Increased mean arterial pressure"
+        "Normal with high chlorine",
+        "Normal with high baking soda",
+        "Elevated with high osmolar gap",
+        "Decreased with normal chlorine"
       ],
-      "correctAnswer": 3,
-      "explanation": "Uncorrected severe metabolic acidosis can negatively affect cardiovascular function, causing decreased myocardial contractility and peripheral vasodilation, which can lead to hypotension and shock.",
+      "correctAnswer": 1,
+      "explanation": "In hyperchloremic metabolic acidosis the anion gap remains normal because the decrease in bicarbonate is compensated by an equivalent increase in chloride, maintaining the anion difference unchanged.",
       "hashtags": [
         "internal_medicine",
-        "metabolic_acidosis",
+        "hyperchloremia",
         "pathophysiology",
-        "cardiovascular_effects",
+        "anion_gap",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is essential in the management of hyperchloremia in critically ill patients?",
+      "question": "What acid-base disorder presents with a normal anion gap and hyperchloremia?",
       "options": [
-        "Body temperature monitoring",
-        "Empirical administration of diuretics",
-        "Individualized management considering comorbidities",
-        "Strict fluid restriction"
+        "Lactic acidosis type A",
+        "Hyperchloremic metabolic acidosis",
+        "Compensated respiratory acidosis",
+        "Hypochloremic metabolic alkalosis"
       ],
-      "correctAnswer": 3,
-      "explanation": "The management of hyperchloremia in critically ill patients is complex. It requires an individualized approach, considering the presence of other comorbidities (renal failure, heart failure, sepsis), and the response to therapeutic interventions.",
+      "correctAnswer": 2,
+      "explanation": "Hyperchloremic metabolic acidosis is characterized by a normal anion gap, low bicarbonate, and elevated serum chloride, unlike acidosis due to accumulation of non-chlorinated acids that elevate the anion gap.",
       "hashtags": [
         "internal_medicine",
         "hyperchloremia",
-        "critical_treatment",
-        "individualized_handling",
+        "clinical_table",
+        "acid_base_disorder",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Why is 0.9% saline considered hyperchloremic with respect to plasma?",
+      "question": "In metabolic acidosis due to bicarbonate loss, the increase in serum chloride is due to:",
       "options": [
-        "It has 154 mEq/L of Cl-",
-        "It has 0 mEq/L of Cl-",
-        "It has 100 mEq/L of Cl-",
-        "It has 54 mEq/L of Cl-"
+        "Compensatory renal chloride retention",
+        "Dilution due to excess free water",
+        "Secondary hyperaldosteronism",
+        "Active tubular secretion of chlorine"
       ],
       "correctAnswer": 1,
-      "explanation": "Isotonic 0.9% saline contains 154 mEq/L chloride, while the normal range of serum chloride is 100-106 mEq/L. This difference makes it hyperchloremic compared to plasma.",
-      "hashtags": [
-        "internal_medicine",
-        "saline_solution",
-        "pharmacology",
-        "electrolytic_composition",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What does an elevated anion gap mean in the evaluation of metabolic acidosis?",
-      "options": [
-        "Decreased sodium excretion",
-        "Presence of excess unmeasured anions",
-        "Excessive loss of bicarbonate",
-        "Chloride gain"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A high serum anion gap (>12 mEq/L) suggests the presence of unmeasured anions that are compensating for low bicarbonate. These may be lactate, ketone bodies, uremia (sulfates, phosphates), methanol, ethylene glycol, or salicylates.",
-      "hashtags": [
-        "internal_medicine",
-        "metabolic_acidosis",
-        "diagnosis",
-        "high_anion_gap",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the implication of hyperchloremia with respect to total serum osmolarity?",
-      "options": [
-        "It doesn't affect her",
-        "It can be normotonic or hyperosmotic.",
-        "It always increases it",
-        "It always decreases it"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Hyperchloremia can be classified as normotonic (normal or slightly elevated serum osmolarity) or hyperosmotic (when it coexists with marked hypernatremia and elevates total osmolarity).",
+      "explanation": "The kidney retains chlorine to accompany sodium and maintain electroneutrality in the face of bicarbonate loss, generating hyperchloremia without modifying the anion gap.",
       "hashtags": [
         "internal_medicine",
         "hyperchloremia",
-        "osmolarity",
-        "osmolar_classification",
+        "pathophysiology",
+        "kidney_compensation",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What renal mechanism is crucial for the maintenance of acid-base balance involving chloride and sodium?",
-      "options": [
-        "Urea excretion",
-        "Glomerular ultrafiltration",
-        "tubular secretion of potassium",
-        "Tubular reabsorption of sodium and chloride"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Chloride reabsorption in the renal tubule is closely linked to sodium reabsorption. This process is fundamental for electroneutrality and volume management, indirectly influencing the regulation of acid-base balance.",
-      "hashtags": [
-        "internal_medicine",
-        "renal_physiology",
-        "acid_base_balance",
-        "sodium_chloride_reabsorption",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Which condition causes a loss of bicarbonate-rich fluids, leading to hyperchloremia?",
-      "options": [
-        "Cushing syndrome",
-        "Biliary or pancreatic fistulas",
-        "Use of thiazide diuretics",
-        "Diabetes Mellitus type 1"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Biliary or pancreatic fistulas drain bicarbonate-rich fluids. Its excessive loss results in a relative retention of chloride and a compensatory fall in serum bicarbonate, causing hyperchloremia.",
-      "hashtags": [
-        "internal_medicine",
-        "gastrointestinal_physiopathology",
-        "bicarbonate_loss",
-        "pancreatic_biliary_fistula",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Which diuretics, by increasing bicarbonate excretion, can cause hyperchloremia?",
+      "question": "Which of the following drugs can induce hyperchloremic metabolic acidosis?",
       "options": [
         "Spironolactone",
-        "Amiloride",
+        "Hydrochlorothiazide",
         "Acetazolamide",
         "Furosemide"
       ],
       "correctAnswer": 3,
-      "explanation": "Acetazolamide is a carbonic anhydrase inhibitor that blocks bicarbonate reabsorption in the proximal tubule, increasing its urinary excretion and potentially resulting in hyperchloremia and metabolic acidosis.",
+      "explanation": "Acetazolamide inhibits carbonic anhydrase, reducing bicarbonate reabsorption and causing a hyperchloremic metabolic acidosis with a normal anion gap, by increasing urinary bicarbonate excretion.",
       "hashtags": [
         "internal_medicine",
-        "acetazolamide",
-        "renal_pharmacology",
-        "carbonic_anhydrase_inhibitor",
+        "hyperchloremia",
+        "treatment",
+        "drugs",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What effect can metabolic acidosis have on neuromuscular excitability?",
+      "question": "In a patient with chronic diarrhea, the expected finding on the ionogram is:",
       "options": [
-        "Decreased excitability",
-        "Increased excitability",
-        "No effect",
-        "Sporadic muscle cramps"
+        "High baking soda and high chlorine",
+        "High baking soda and low chlorine",
+        "Low baking soda and high chlorine",
+        "Low baking soda and low chlorine"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chronic diarrhea produces bicarbonate loss, generating hyperchloremic metabolic acidosis; Serum chloride rises as a compensatory mechanism to maintain ionic balance, with a normal anion gap.",
+      "hashtags": [
+        "internal_medicine",
+        "hyperchloremia",
+        "diagnosis",
+        "ionogram",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most common cause of hyperchloremia in hospitalized patients?",
+      "options": [
+        "Administration of 0.9% saline solution",
+        "Nephrogenic diabetes insipidus",
+        "Chronic kidney failure",
+        "Primary hyperaldosteronism"
       ],
       "correctAnswer": 1,
-      "explanation": "Metabolic acidosis can affect neuromuscular excitability, contributing to muscle weakness and fatigue. Although not the main mechanism, changes in pH and electrolytes influence muscle function.",
+      "explanation": "The intravenous administration of 0.9% saline solution is the most common cause of hyperchloremia in hospitalized patients, due to its high chlorine content (154 mEq/L) in relation to plasma.",
       "hashtags": [
         "internal_medicine",
-        "metabolic_acidosis",
-        "pathophysiology",
-        "neuromuscular_effects",
+        "hyperchloremia",
+        "etiology",
+        "saline_solution",
         "MEDICAL_TOPIC",
-        ""
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "What is the function of the Cl-/HCO3- exchanger (band 3) in red blood cells?",
+      "question": "What acid-base disorder is typically associated with saline hyperchloremia?",
       "options": [
-        "oxygen transport",
-        "Transport of CO2 as HCO3- and exchange of Cl-",
-        "Removal of cellular debris",
-        "ATP production"
+        "metabolic alkalosis",
+        "Respiratory acidosis",
+        "Hyperchloremic metabolic acidosis",
+        "Respiratory alkalosis"
       ],
-      "correctAnswer": 2,
-      "explanation": "The Cl-/HCO3- exchanger (band 3 protein) is vital for the transport of carbon dioxide in the blood. It facilitates the exchange of chloride from the plasma into the red blood cell as bicarbonate leaves, and vice versa, allowing the solubility and transport of CO2.",
+      "correctAnswer": 3,
+      "explanation": "Infusion of large volumes of 0.9% saline solution produces hyperchloremic metabolic acidosis due to dilution of bicarbonate and decrease in the difference of strong ions.",
       "hashtags": [
         "internal_medicine",
-        "red_blood",
-        "gas_transport",
-        "exchanger_cl_hco3",
+        "hyperchloremia",
+        "pathophysiology",
+        "metabolic_acidosis",
         "MEDICAL_TOPIC",
-        ""
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "What does a positive urinary anion gap (UAG) suggest in metabolic acidosis?",
+      "question": "What is the primary mechanism of saline-induced hyperchloremia?",
       "options": [
-        "Excessive use of laxatives",
-        "Gastrointestinal loss of bicarbonate",
-        "Saline overload",
-        "Renal Tubular Acidosis (RTA)"
+        "Decreased renal chlorine excretion",
+        "Redistribution of intracellular chlorine",
+        "Increased tubular chlorine reabsorption",
+        "Exogenous supply of excess chlorine"
       ],
       "correctAnswer": 4,
-      "explanation": "A positive urinary anion gap (UAG = [Na+ urine] - [Cl- urine]) in the context of metabolic acidosis is indicative that the kidney is not excreting ammonium adequately, which is characteristic of Renal Tubular Acidosis (RTA).",
+      "explanation": "Saline hyperchloremia is due to the exogenous supply of chlorine in supraphysiological concentrations (154 mEq/L), exceeding the rapid renal excretion capacity.",
+      "hashtags": [
+        "internal_medicine",
+        "hyperchloremia",
+        "pathophysiology",
+        "exogenous_contribution",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What laboratory parameter is characteristically altered in saline hyperchloremia?",
+      "options": [
+        "Increased serum bicarbonate",
+        "Decreased serum sodium",
+        "Decreased serum bicarbonate",
+        "Increased serum potassium"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In hyperchloremic saline metabolic acidosis, serum bicarbonate decreases as a consequence of the dilution effect and the reduction of the strong ion difference.",
+      "hashtags": [
+        "internal_medicine",
+        "hyperchloremia",
+        "diagnosis",
+        "serum_bicarbonate",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What strategy helps prevent saline hyperchloremia in resuscitation?",
+      "options": [
+        "Prefer balanced solutions",
+        "Use 0.45% saline solution",
+        "Administer baking soda",
+        "Increase infusion rate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Balanced solutions (such as lactated Ringer's or Plasmalyte) have chloride concentrations closer to plasma (98-110 mEq/L), reducing the risk of hyperchloremia compared to 0.9% saline.",
+      "hashtags": [
+        "internal_medicine",
+        "hyperchloremia",
+        "treatment",
+        "balanced_solutions",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the renal complication associated with saline hyperchloremia?",
+      "options": [
+        "Rapidly progressive glomerulonephritis",
+        "Acute interstitial nephritis",
+        "Acute tubular necrosis",
+        "Acute renal vasoconstriction"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Saline-induced hyperchloremia can cause acute renal vasoconstriction, reducing renal blood flow and glomerular filtration rate, predisposing to acute kidney injury.",
+      "hashtags": [
+        "internal_medicine",
+        "hyperchloremia",
+        "complications",
+        "renal_vasoconstriction",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the main mechanism of hyperchloremia in acute renal failure?",
+      "options": [
+        "Increased chlorine intake",
+        "Secondary hyperaldosteronism",
+        "Decreased renal chlorine excretion",
+        "Gastrointestinal loss of bicarbonate"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In acute renal failure, reduced glomerular filtration rate decreases renal chloride excretion, leading to its serum accumulation.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "pathophysiology",
+        "acute_renal_failure",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What acid-base disorder is typically associated with hyperchloremia in acute renal failure?",
+      "options": [
+        "Respiratory acidosis",
+        "Hyperchloremic metabolic acidosis",
+        "Respiratory alkalosis",
+        "metabolic alkalosis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hyperchloremia in acute renal failure is often accompanied by hyperchloremic metabolic acidosis, due to chloride retention and bicarbonate loss.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "clinical_table",
+        "acid_base_disorder",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is a serum chloride value characteristic of hyperchloremia in acute renal failure?",
+      "options": [
+        "98 mEq/L",
+        "112 mEq/L",
+        "105 mEq/L",
+        "120 mEq/L"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hyperchloremia is defined as serum chloride >108 mEq/L; The value of 112 mEq/L is a representative example in acute renal failure.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "diagnosis",
+        "serum_values",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which laboratory parameter helps differentiate hyperchloremic metabolic acidosis from lactic acidosis?",
+      "options": [
+        "alkaline arterial pH",
+        "High anion gap",
+        "normal anion gap",
+        "Elevated serum bicarbonate"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hyperchloremic metabolic acidosis typically has a normal anion gap, unlike lactic acidosis, which has an elevated anion gap.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "diagnosis",
+        "anion_gap",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for symptomatic hyperchloremia in acute renal failure?",
+      "options": [
+        "Intravenous sodium bicarbonate",
+        "Water restriction",
+        "Hemodialysis",
+        "loop diuretics"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In acute renal failure with symptomatic hyperchloremia, hemodialysis is the treatment of choice to quickly correct the electrolyte imbalance.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "treatment",
+        "hemodialysis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What electrolyte alteration usually accompanies hyperchloremia in acute renal failure due to acute tubular necrosis?",
+      "options": [
+        "Hyperkalemia",
+        "Hypermagnesemia",
+        "Hyponatremia",
+        "Hypocalcemia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In acute tubular necrosis, hyperchloremia is frequently associated with hyperkalemia due to decreased renal potassium excretion.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "complications",
+        "hyperkalemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most common cause of primary hyperaldosteronism?",
+      "options": [
+        "Familial hyperaldosteronism type I",
+        "Bilateral adrenal hyperplasia",
+        "Unilateral adrenal adenoma",
+        "Adrenal carcinoma"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bilateral adrenal hyperplasia is the most common cause of primary hyperaldosteronism, accounting for approximately 60% of cases, followed by aldosterone-producing adenoma.",
+      "hashtags": [
+        "internal_medicine",
+        "primary_hyperaldosteronism",
+        "etiology",
+        "frequent_causes",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which laboratory finding is characteristic of primary hyperaldosteronism?",
+      "options": [
+        "Hypokalemia and hypernatremia",
+        "Hypokalemia and hyponatremia",
+        "Hyperkalemia and hyponatremia",
+        "Hyperkalemia and hypernatremia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Primary hyperaldosteronism presents with hypokalemia due to renal potassium loss and hypernatremia due to aldosterone-mediated sodium retention, leading to metabolic alkalosis.",
+      "hashtags": [
+        "internal_medicine",
+        "primary_hyperaldosteronism",
+        "clinical_table",
+        "electrolytic_alterations",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the diagnostic confirmation test of choice for primary hyperaldosteronism?",
+      "options": [
+        "Adrenal MRI",
+        "Fludrocortisone suppression test",
+        "Abdominal CT scan",
+        "Elevated aldosterone/renin ratio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The fludrocortisone suppression test is the gold standard for confirming primary hyperaldosteronism by demonstrating autonomous production of non-suppressible aldosterone by volume expansion.",
+      "hashtags": [
+        "internal_medicine",
+        "primary_hyperaldosteronism",
+        "diagnosis",
+        "confirmatory_test",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023---Harrison"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment in bilateral adrenal hyperplasia?",
+      "options": [
+        "Calcium channel blockers",
+        "Converting enzyme inhibitors",
+        "Mineralocorticoid receptor antagonists",
+        "Bilateral surgical resection"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In bilateral adrenal hyperplasia, the treatment of choice is pharmacological with mineralocorticoid receptor antagonists such as spironolactone or eplerenone, since surgery is not curative.",
+      "hashtags": [
+        "internal_medicine",
+        "primary_hyperaldosteronism",
+        "treatment",
+        "mineralocorticoid_antagonists",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "What imaging study is recommended to differentiate adenoma from bilateral hyperplasia?",
+      "options": [
+        "Selective adrenal angiography",
+        "Adrenal ultrasound",
+        "Adrenal CT scan",
+        "Iodocholesterol scan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Contrast-enhanced adrenal computed tomography is the imaging modality of choice to identify unilateral adenomas (>1 cm) and differentiate them from bilateral hyperplasia in primary hyperaldosteronism.",
+      "hashtags": [
+        "internal_medicine",
+        "primary_hyperaldosteronism",
+        "diagnosis",
+        "adrenal_image",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the cardiovascular complication most associated with primary hyperaldosteronism?",
+      "options": [
+        "Dilated cardiomyopathy",
+        "Acute myocardial infarction",
+        "Left ventricular hypertrophy",
+        "aortic rupture"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Left ventricular hypertrophy is the most common cardiovascular complication in primary hyperaldosteronism, due to the direct effects of aldosterone on the myocardium and chronic hypertension.",
+      "hashtags": [
+        "internal_medicine",
+        "primary_hyperaldosteronism",
+        "complications",
+        "ventricular_hypertrophy",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "Which acid-base disorder is typically associated with hyperchloremia due to bicarbonate loss?",
+      "options": [
+        "Respiratory acidosis",
+        "metabolic acidosis",
+        "Respiratory alkalosis",
+        "metabolic alkalosis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Loss of bicarbonate, as in diarrhea or renal tubular acidosis, causes metabolic acidosis with compensatory hyperchloremia.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "pathophysiology",
+        "metabolic_acidosis",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "In dehydration due to loss of bicarbonate, hyperchloremia is mainly due to:",
+      "options": [
+        "Hemoconcentration and renal retention",
+        "Excess chloride intake",
+        "Increased secretion of aldosterone",
+        "Decrease in extracellular volume"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The loss of bicarbonate reduces circulating volume, activating renal mechanisms that retain chlorine to maintain electroneutrality.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "pathophysiology",
+        "compensating_mechanism",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most common replacement anion when bicarbonate is lost in the urine?",
+      "options": [
+        "Chloride",
+        "Phosphate",
+        "Lactate",
+        "Sulfate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In proximal renal tubular acidosis, bicarbonate is not reabsorbed and chloride is reabsorbed in excess, generating hyperchloremia.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "pathophysiology",
+        "renal_tubular acidosis",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which laboratory finding is characteristic of hyperchloremic metabolic acidosis?",
+      "options": [
+        "Elevated serum bicarbonate",
+        "alkaline arterial pH",
+        "High anion gap",
+        "normal anion gap"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In hyperchloremic metabolic acidosis, the anion gap is normal because the decrease in bicarbonate is compensated by an increase in chloride.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "diagnosis",
+        "anion_gap",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most common cause of hyperchloremia with bicarbonate loss in children?",
+      "options": [
+        "Kidney failure",
+        "acute diarrhea",
+        "Diabetes insipidus",
+        "Profuse vomiting"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acute diarrhea causes loss of bicarbonate in feces, dehydration and hyperchloremic metabolic acidosis, common in pediatrics.",
+      "hashtags": [
+        "pediatrics",
+        "hyperchloremia",
+        "clinical_table",
+        "acute_diarrhea",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What initial treatment is indicated in hyperchloremic metabolic acidosis due to dehydration?",
+      "options": [
+        "Intravenous sodium bicarbonate",
+        "loop diuretics",
+        "oral potassium chloride",
+        "Isotonic saline solution"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Isotonic saline corrects dehydration and allows the kidney to excrete excess chlorine, normalizing the acid-base balance.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "treatment",
+        "saline_solution",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What major risk is associated with rapid correction of metabolic acidosis with bicarbonate?",
+      "options": [
+        "Acute hypernatremia",
+        "Lethal hypokalemia",
+        "Severe hypercalcemia",
+        "Symptomatic hypocalcemia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rapid administration of bicarbonate in metabolic acidosis can cause severe hypokalemia due to intracellular potassium shift, which can trigger cardiac arrhythmias.",
+      "hashtags": [
+        "internal_medicine",
+        "rapid_correction_metabolic_acidosis",
+        "treatment",
+        "bicarbonate_risk",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "In metabolic acidosis with hyperlactatemia, what is the main contraindication to intravenous bicarbonate?",
+      "options": [
+        "Worsening intracellular acidosis",
+        "Acute kidney failure",
+        "Refractory hypoxemia",
+        "Imminent hyperkalemia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In lactic acidosis, bicarbonate can worsen intracellular acidosis by generating CO2 that diffuses into the cell, aggravating the cellular acid-base state.",
+      "hashtags": [
+        "internal_medicine",
+        "rapid_correction_metabolic_acidosis",
+        "contraindications",
+        "lactic_acidosis",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the most common acid-base disorder after rapidly correcting metabolic acidosis?",
+      "options": [
+        "Respiratory alkalosis",
+        "metabolic alkalosis",
+        "Respiratory acidosis",
+        "Mixed metabolic acidosis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Excessive or rapid correction of metabolic acidosis leads to metabolic alkalosis due to bicarbonate overload and acid elimination.",
+      "hashtags": [
+        "internal_medicine",
+        "rapid_correction_metabolic_acidosis",
+        "pathophysiology",
+        "metabolic_alkalosis",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "In severe metabolic acidosis (pH < 7.1), what parameter limits the rate of bicarbonate infusion?",
+      "options": [
+        "Total serum calcium",
+        "Serum potassium",
+        "serum lactate",
+        "serum sodium"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Rapid infusion of bicarbonate can cause acute hypernatremia due to the sodium load, requiring monitoring and limiting the rate of administration.",
+      "hashtags": [
+        "internal_medicine",
+        "rapid_correction_metabolic_acidosis",
+        "treatment",
+        "infusion_monitoring",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What neurological adverse effect can trigger rapid correction of chronic metabolic acidosis?",
+      "options": [
+        "Acute peripheral neuropathy",
+        "Central pontine myelinolysis",
+        "Irreversible cerebral edema",
+        "Seizures due to hypocalcemia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rapid correction of chronic metabolic acidosis may cause central pontine myelinolysis due to abrupt osmotic changes in the central nervous system.",
+      "hashtags": [
+        "internal_medicine",
+        "rapid_correction_metabolic_acidosis",
+        "complications",
+        "pontine_myelinolysis",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the recommended initial dose of sodium bicarbonate in severe metabolic acidosis in adults?",
+      "options": [
+        "1 mEq/kg in 10 min",
+        "0.25 mEq/kg in 1 hour",
+        "0.5 mEq/kg in 30 min",
+        "2 mEq/kg bolus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The usual initial dose is 0.5 mEq/kg administered over 30 minutes to avoid osmotic and electrolyte complications, adjusting according to blood gases.",
+      "hashtags": [
+        "internal_medicine",
+        "rapid_correction_metabolic_acidosis",
+        "posology",
+        "bicarbonate_dose",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the primary mechanism by which acetazolamide reduces serum chloride?",
+      "options": [
+        "Inhibits carbonic anhydrase",
+        "Stimulates aldosterone secretion",
+        "Increases bicarbonate reabsorption",
+        "Blocks the NKCC2 cotransporter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Acetazolamide is a carbonic anhydrase inhibitor that decreases bicarbonate reabsorption in the proximal tubule, resulting in an alkaline diuresis and removing chlorine along with sodium and water, thereby reducing chloremia.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "action_mechanism",
+        "carbonic_anhydrase_inhibition",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In which segment of the nephron does acetazolamide primarily act?",
+      "options": [
+        "Ascending loop of Henle",
+        "proximal tubule",
+        "collecting tubule",
+        "distal tubule"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acetazolamide acts in the proximal convoluted tubule, where it inhibits carbonic anhydrase, reducing bicarbonate reabsorption and promoting the excretion of chlorine, sodium and water.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "pharmacokinetics",
+        "tubular_action_site",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What electrolyte alteration may accompany the use of acetazolamide to reduce chlorine?",
+      "options": [
+        "Hypercalcemia",
+        "Hypokalemia",
+        "Hyperkalemia",
+        "Hypermagnesemia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acetazolamide, by increasing the excretion of bicarbonate and sodium, produces an alkalinization of the urine that favors the loss of potassium, which can cause hypokalemia, especially in prolonged treatments.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "adverse_effects",
+        "hypokalemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is an expected metabolic adverse effect with the use of acetazolamide?",
+      "options": [
+        "Hypernatremia",
+        "metabolic alkalosis",
+        "Severe hypochloremia",
+        "metabolic acidosis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Acetazolamide, by inhibiting carbonic anhydrase, reduces bicarbonate reabsorption, which causes urinary loss of this base and can generate hyperchloremic metabolic acidosis.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "adverse_effects",
+        "metabolic_acidosis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In what type of hyperchloremia is acetazolamide indicated as a treatment?",
+      "options": [
+        "Hyperchloremia due to dehydration",
+        "Hyperchloremia due to water intoxication",
+        "Hyperchloremia due to kidney failure",
+        "Hyperchloremia due to tubular acidosis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Acetazolamide is used in hyperchloremia associated with distal or proximal renal tubular acidosis, since by inhibiting carbonic anhydrase it corrects acidosis and promotes chlorine excretion.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "indications",
+        "renal_tubular_acidosis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What urinary parameter is useful to monitor the effect of acetazolamide on chloride?",
+      "options": [
+        "low urinary chlorine",
+        "alkaline urinary pH",
+        "Positive ketonuria",
+        "High urinary density"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acetazolamide produces an alkalinization of the urine (urinary pH > 7) due to the excretion of bicarbonate, which correlates with the elimination of chlorine and sodium, allowing its diuretic effect to be monitored.",
+      "hashtags": [
+        "nephrology",
+        "hyperchloremia",
+        "diagnosis",
+        "urinary_ph",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main mechanism of hyperchloremia in nephrogenic diabetes insipidus?",
+      "options": [
+        "Excessive sodium excretion",
+        "Inappropriate secretion of ADH",
+        "Loss of free water",
+        "Increased chlorine intake"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In nephrogenic diabetes insipidus, the kidneys do not respond to ADH, causing free water loss and hemoconcentration, raising serum chloride.",
+      "hashtags": [
+        "nephrology",
+        "diabetes_insipidus_nephrogenic",
+        "pathophysiology",
+        "lost_free_water",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which laboratory finding is typical in hyperchloremia due to nephrogenic diabetes insipidus?",
+      "options": [
+        "Hypoosmolar hypercalcemia",
+        "Hyperosmolar hypernatremia",
+        "Dilutional hyponatremia",
+        "Hypoosmolar hypochloremia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The loss of free water without solutes generates hypernatremia and hyperosmolarity, accompanied by hyperchloremia due to hemoconcentration.",
+      "hashtags": [
+        "nephrology",
+        "diabetes_insipidus_nephrogenic",
+        "diagnosis",
+        "laboratory",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which test confirms nephrogenic diabetes insipidus as a cause of hyperchloremia?",
+      "options": [
+        "Water overload test",
+        "Urinary cortisol dosage",
+        "ADH dehydration test",
+        "Plasma renin measurement"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The dehydration test followed by administration of exogenous ADH differentiates nephrogenic (non-responsive) from central (responsive) diabetes insipidus.",
+      "hashtags": [
+        "nephrology",
+        "diabetes_insipidus_nephrogenic",
+        "diagnosis",
+        "dehydration_test",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What first-line treatment is used in hyperchloremia due to nephrogenic diabetes insipidus?",
+      "options": [
+        "Intravenous furosemide",
+        "Hypertonic saline",
+        "intranasal desmopressin",
+        "Hydrochlorothiazide and low sodium diet"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Thiazides such as hydrochlorothiazide reduce extracellular volume and free water excretion, improving hyperchloremia and polyuria.",
+      "hashtags": [
+        "nephrology",
+        "diabetes_insipidus_nephrogenic",
+        "treatment",
+        "thiazides",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What ionic alteration typically accompanies hyperchloremia in this pathology?",
+      "options": [
+        "mild hypophosphatemia",
+        "Moderate hypermagnesemia",
+        "Severe hypernatremia",
+        "Severe hypocalcemia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The loss of free water without electrolytes concentrates both sodium and chloride, causing severe hypernatremia along with hyperchloremia.",
+      "hashtags": [
+        "nephrology",
+        "diabetes_insipidus_nephrogenic",
+        "clinical_table",
+        "hypernatremia",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the most common cause of acquired nephrogenic diabetes insipidus?",
+      "options": [
+        "Mild hypercalcemia",
+        "Chronic lithium",
+        "Head trauma",
+        "V2 receptor mutation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lithium is the most common acquired cause of nephrogenic diabetes insipidus, by interfering with the tubular response to ADH, generating hyperchloremia.",
+      "hashtags": [
+        "nephrology",
+        "diabetes_insipidus_nephrogenic",
+        "etiology",
+        "lithium",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which acid-base disorder is typically associated with severe hyperchloremia?",
+      "options": [
+        "metabolic acidosis",
+        "Respiratory acidosis",
+        "Respiratory alkalosis",
+        "metabolic alkalosis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Severe hyperchloremia usually causes hyperchloremic metabolic acidosis due to a decrease in the anion gap, secondary to loss of bicarbonate or excess chlorine.",
+      "hashtags": [
+        "internal_medicine",
+        "hyperchloremia",
+        "pathophysiology",
+        "metabolic_acidosis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main mechanism of lactic acidosis type A?",
+      "options": [
+        "Metformin use",
+        "tissue hypoperfusion",
+        "insulin deficiency",
+        "Excess chlorine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Type A lactic acidosis is due to tissue hypoperfusion or hypoxia, which increases lactate production; excess chlorine is not the main mechanism.",
+      "hashtags": [
+        "internal_medicine",
+        "lactic_acidosis",
+        "pathophysiology",
+        "type_a",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which laboratory finding distinguishes hyperchloremic metabolic acidosis from lactic acidosis?",
+      "options": [
+        "alkaline pH",
+        "High anion gap",
+        "Low serum chlorine",
+        "Normal anion gap"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Hyperchloremic metabolic acidosis presents a normal anion gap, while lactic acidosis presents with a high anion gap due to lactate accumulation.",
       "hashtags": [
         "internal_medicine",
         "metabolic_acidosis",
         "diagnosis",
-        "urinary_anion_gap",
+        "anion_gap",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is the main extracellular cation associated with chloride in volume regulation?",
+      "question": "What is a common cause of hyperchloremia with metabolic acidosis?",
       "options": [
-        "Potassium",
-        "Magnesium",
-        "Calcium",
-        "Sodium"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Chloride, along with sodium, is a major determinant of extracellular fluid osmolarity and crucial for maintaining neutral electrical charge. The balance of sodium and chloride regulates intravascular volume and, consequently, blood pressure.",
-      "hashtags": [
-        "internal_medicine",
-        "physiology",
-        "electrolytes",
-        "volume_regulation",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What action of the kidney is closely linked to that of chloride?",
-      "options": [
-        "sodium reabsorption",
-        "Potassium excretion",
-        "Ammonium secretion",
-        "Creatinine filtration"
+        "severe diarrhea",
+        "septic shock",
+        "Kidney failure",
+        "diabetic ketoacidosis"
       ],
       "correctAnswer": 1,
-      "explanation": "Chloride reabsorption in the renal tubules is closely coupled to sodium reabsorption. Mechanisms such as Na+ reabsorption that promotes Cl- reabsorption in the proximal tubule are key examples.",
-      "hashtags": [
-        "internal_medicine",
-        "renal_physiology",
-        "electrolyte_transport",
-        "sodium_reabsorption",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most direct consequence of excessive loss of bicarbonate in the body?",
-      "options": [
-        "Hypokalemia",
-        "metabolic alkalosis",
-        "metabolic acidosis",
-        "Hypernatremia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The net loss of bicarbonate (a base) from the body leads to a decrease in the body's primary buffer, resulting in metabolic acidosis. If chloride is relatively retained, it is called hyperchloremic metabolic acidosis.",
-      "hashtags": [
-        "internal_medicine",
-        "baking soda",
-        "metabolic_acidosis",
-        "pathophysiology",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What can happen if kidney function is compromised and ammonium chloride is administered?",
-      "options": [
-        "Severe hyperchloremic metabolic acidosis",
-        "Hyponatremia",
-        "Hypochloremia",
-        "metabolic alkalosis"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Administration of ammonium chloride generates acid and chloride. In a kidney with compromised function, excretion of these may be deficient, leading to accumulation and severe hyperchloremic metabolic acidosis.",
-      "hashtags": [
-        "internal_medicine",
-        "ammonium_chloride",
-        "kidney_failure",
-        "hyperchloremic_acidosis",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What does it mean that hyperchloremia is a sign and not a disease?",
-      "options": [
-        "Which is a manifestation of another underlying problem",
-        "Which is always asymptomatic",
-        "Which resolves spontaneously",
-        "Which requires direct chloride treatment"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Hyperchloremia is not a primary pathology, but rather a biochemical finding that indicates a hydroelectrolyte imbalance or an underlying medical condition. Management focuses on the root cause.",
+      "explanation": "Severe diarrhea causes bicarbonate loss and chloride retention, generating hyperchloremic metabolic acidosis with a normal anion gap; The other options usually present with a high anion gap.",
       "hashtags": [
         "internal_medicine",
         "hyperchloremia",
-        "definition",
-        "clinical_sign",
+        "etiology",
+        "diarrhea",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What cells in the stomach secrete hydrochloric acid, using chloride?",
+      "question": "In a patient with lactic acidosis, which parameter is usually significantly elevated?",
       "options": [
-        "Parietal cells",
-        "mucous cells",
-        "Main cells",
-        "G cells"
+        "serum lactate",
+        "Serum bicarbonate",
+        "arterial pH",
+        "serum chlorine"
       ],
       "correctAnswer": 1,
-      "explanation": "The parietal cells of the gastric mucosa are responsible for the secretion of hydrochloric acid (HCl), a process that requires the participation of the chloride ion.",
+      "explanation": "Lactic acidosis is characterized by elevated serum lactate (>2 mmol/L), while chloride may be normal and bicarbonate and pH may be decreased.",
       "hashtags": [
         "internal_medicine",
-        "stomach",
-        "gastrointestinal_anatomy",
-        "parietal_cells",
+        "lactic_acidosis",
+        "diagnosis",
+        "lactate",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "How does hypovolemia influence renal chloride reabsorption?",
+      "question": "What metabolic disorder should be suspected in the presence of normal anion gap acidosis and hyperchloremia?",
       "options": [
-        "Reduces it to preserve it",
-        "Increases it to conserve sodium and water",
-        "It increases it to excrete it",
-        "It has no effect"
-      ],
-      "correctAnswer": 2,
-      "explanation": "In states of hypovolemia, the body tries to conserve sodium and water. Sodium reabsorption is coupled to chloride reabsorption. The renal response may be increased chloride retention to maintain electroneutrality and volume.",
-      "hashtags": [
-        "internal_medicine",
-        "hypovolemia",
-        "renal_physiology",
-        "chloride_reabsorption",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What effect can rapid administration of hypertonic saline have to treat hyponatremia?",
-      "options": [
-        "Cause hyperchloremia and other complications",
-        "Induce severe hyponatremia",
-        "Cause metabolic alkalosis",
-        "Decrease serum osmolarity"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Hypertonic saline solutions, although necessary in severe hyponatremia, should be administered with control. If used excessively or without adequate monitoring, they can cause hyperchloremia and other complications resulting from iatrogenic correction.",
-      "hashtags": [
-        "internal_medicine",
-        "hyponatremia",
-        "clinical_pharmacology",
-        "adverse_effects",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Approximately what percentage is filtered chloride reabsorbed in the proximal tubule?",
-      "options": [
-        "90%",
-        "10%",
-        "65%",
-        "25%"
+        "Salicylate poisoning",
+        "Alcoholic ketoacidosis",
+        "Renal tubular acidosis",
+        "Lactic acidosis"
       ],
       "correctAnswer": 3,
-      "explanation": "Chloride reabsorption is an extensive process in the nephron. Approximately 65% ​​of the filtered chloride is reabsorbed in the proximal tubule, followed by 25% in the loop of Henle and 10% in the distal and collecting tubule.",
+      "explanation": "Renal tubular acidosis produces hyperchloremic metabolic acidosis with a normal anion gap, while the other causes present with a high anion gap.",
       "hashtags": [
         "internal_medicine",
-        "proximal_tubule",
-        "renal_physiology",
-        "chloride_reabsorption",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main function of chloride in maintaining acid-base balance?",
-      "options": [
-        "Promote H+ excretion",
-        "Act as primary buffer",
-        "Its concentration is inversely related to bicarbonate",
-        "Regulate CO2 production"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Chloride plays a fundamental role in acid-base balance. Its concentration in the plasma is inversely related to that of bicarbonate (HCO3-), the body's main buffer, and the kidney regulates both.",
-      "hashtags": [
-        "internal_medicine",
-        "acid_base_balance",
-        "physiology",
-        "chloride_bicarbonate_ratio",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What type of ion channels allow passive diffusion of chloride across cell membranes?",
-      "options": [
-        "sodium channels",
-        "potassium channels",
-        "calcium channels",
-        "Cl- channels"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Chloride transport across cell membranes occurs by various mechanisms, including passive diffusion through Cl-specific ion channels (voltage-gated, ligand-gated, or mechanosensory).",
-      "hashtags": [
-        "internal_medicine",
-        "membrane_transport",
-        "cell_physiology",
-        "chlorine_channels",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "How is hyperchloremia managed in patients with chronic and refractory renal failure?",
-      "options": [
-        "Solute restriction and possible dialysis",
-        "Chloride supplements",
-        "High sodium diet",
-        "Administration of saline solutions"
-      ],
-      "correctAnswer": 1,
-      "explanation": "In advanced renal failure, chloride excretion is compromised. Management may include restriction of solutes (sodium and chloride) in the diet and, in severe or refractory cases, dialysis to remove excess electrolytes and acids.",
-      "hashtags": [
-        "internal_medicine",
-        "chronic_renal_failure",
-        "treatment",
-        "dialysis_management",
+        "hyperchloremia",
+        "differential_diagnosis",
+        "renal_tubular_acidosis",
         "MEDICAL_TOPIC",
         ""
       ]

@@ -1,265 +1,94 @@
 {
   "questions": [
     {
-      "question": "Qual é a definição de hipercloremia?",
+      "question": "Qual é a causa mais comum de hipercloremia em adultos?",
       "options": [
-        "Concentração de cloreto abaixo do normal",
-        "Concentração de cloreto acima do normal",
-        "Ausência de cloreto no soro",
-        "Concentração normal de cloreto"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A hipercloremia é definida como a presença de uma concentração de íon cloreto (Cl-) no soro sanguíneo acima do limite superior do normal, que normalmente está entre 100-106 mEq/L.",
-      "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
-        "definição",
-        "concentração_sueca",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o principal ânion extracelular no plasma?",
-      "options": [
-        "Proteínas",
-        "Bicarbonato de sódio",
-        "Cloreto",
-        "Fosfato"
+        "Desidratação hipertônica",
+        "Diabetes insípido nefrogênico",
+        "Acidose tubular renal",
+        "Insuficiência adrenal"
       ],
       "correctAnswer": 3,
-      "explanation": "O íon cloreto (Cl-) é o principal ânion extracelular, desempenhando papel crucial na manutenção do equilíbrio hídrico, osmótico e ácido-base do organismo.",
+      "explanation": "A acidose tubular renal, especialmente a distal, é a causa mais comum de hipercloremia porque gera perda renal de bicarbonato com retenção compensatória de cloreto.",
       "hashtags": [
-        "medicina_interna",
-        "cloro",
-        "fisiologia",
-        "ânion_extracelular",
+        "nefrologia",
+        "hipercloremia",
+        "etiologia",
+        "acidose_tubular_renal",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual o papel do cloreto na homeostase do corpo?",
+      "question": "Que tipo de acidose tubular renal está mais frequentemente associada à hipercloremia?",
       "options": [
-        "Somente transporte de oxigênio",
-        "Manutenção do equilíbrio hídrico, osmótico e ácido-base",
-        "Função enzimática exclusiva",
-        "Produção de energia celular"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O cloreto é um íon fundamental para a manutenção do equilíbrio hídrico, osmótico e ácido-base do organismo, além de estar envolvido na regulação do volume extracelular e da pressão arterial.",
-      "hashtags": [
-        "medicina_interna",
-        "cloro",
-        "fisiologia",
-        "homeostase",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é uma das causas mais comuns de hipercloremia?",
-      "options": [
-        "Diminuição da glicose sérica",
-        "Excesso de ganho de sódio",
-        "Aumento da ingestão de potássio",
-        "Perda de bicarbonato"
+        "Tipo misto (tipo 3)",
+        "Tipo 4 (hipercalêmico)",
+        "Tipo proximal (tipo 2)",
+        "Tipo distal (tipo 1)"
       ],
       "correctAnswer": 4,
-      "explanation": "A perda de bicarbonato, seja pela via gastrointestinal ou renal (como na diarreia crônica ou na acidose tubular renal), é uma das causas mais frequentes de hipercloremia, levando à acidose metabólica com hiato aniônico normal.",
+      "explanation": "A acidose tubular renal distal (tipo 1) está mais frequentemente associada à hipercloremia devido à incapacidade de excretar ácidos, resultando em retenção compensatória de cloreto sérico.",
       "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
-        "causas",
-        "bicarbonato_perda",
+        "nefrologia",
+        "acidose_tubular_renal",
+        "tabela_clínica",
+        "tipo_distal",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual ferramenta de diagnóstico ajuda a diferenciar as causas da hipercloremia?",
+      "question": "Qual distúrbio eletrolítico é mais comumente observado na acidose tubular renal distal?",
       "options": [
-        "Medição de potássio sérico",
-        "nível de glicose no sangue",
-        "Hemoglobina glicosilada",
-        "Cálculo do hiato aniônico (BA)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A determinação do hiato aniônico (BA = Na+ - (Cl- + HCO3-)) é uma ferramenta diagnóstica fundamental que ajuda a diferenciar a hipercloremia devido ao ganho de cloreto ou perda de bicarbonato (BA normal) de outras causas de acidose metabólica com hiato aniônico elevado.",
-      "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
-        "diagnóstico",
-        "anion_gap",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que indica um hiato aniônico normal em um paciente com hipercloremia e acidose metabólica?",
-      "options": [
-        "Envenenamento por metanol",
-        "Perda de bicarbonato ou ganho de cloreto",
-        "Overdose de potássio",
-        "Presença de ânions não medidos"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Um anion gap normal (8-12 mEq/L) na presença de hipercloremia e acidose metabólica sugere que a acidose é devida a uma perda líquida de bicarbonato (por exemplo, diarreia, ATR) ou a um ganho de cloreto (por exemplo, infusão de solução salina).",
-      "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
-        "diagnóstico",
-        "normal_anion_gap",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a principal causa da perda de bicarbonato no trato gastrointestinal?",
-      "options": [
-        "Secreção pancreática e biliar",
-        "Enzimas salivares",
-        "secreção gástrica",
-        "Absorção intestinal"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O suco pancreático e a bile são líquidos ricos em bicarbonato. As perdas desses líquidos, como ocorre na diarreia crônica ou nas fístulas biliopancreáticas, resultam em uma perda líquida de bicarbonato.",
-      "hashtags": [
-        "medicina_interna",
-        "bicarbonato de sódio",
-        "fisiologia_gastrointestinal",
-        "perda_gastrointestinal",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de acidose tubular renal está mais diretamente associada à perda de bicarbonato e à hipercloremia?",
-      "options": [
-        "Tipo I (Distal)",
-        "Qualquer um dos acima",
-        "Tipo II (Proximal)",
-        "Tipo IV (hipercalêmico)"
+        "Hipocalemia",
+        "Hipernatremia",
+        "Hipercloremia",
+        "Hiperfosfatemia"
       ],
       "correctAnswer": 3,
-      "explanation": "A Acidose Tubular Renal tipo II (ATR tipo II), ou acidose tubular renal proximal, é caracterizada por um defeito primário na reabsorção de bicarbonato no túbulo proximal, levando à sua perda e consequente hipercloremia.",
+      "explanation": "Na acidose tubular renal distal, a hipercloremia é o distúrbio eletrolítico mais comum, acompanhada de acidose metabólica com hiato aniônico normal devido à retenção compensatória de cloreto.",
       "hashtags": [
-        "medicina_interna",
-        "atr",
-        "rim_fisiopatologia",
-        "atr_type_ii",
+        "nefrologia",
+        "acidose_tubular_renal",
+        "diagnóstico",
+        "eletrólitos",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Por que a administração excessiva de solução salina a 0,9% pode causar hipercloremia?",
+      "question": "Qual é o principal mecanismo fisiopatológico da hipercloremia na acidose tubular renal distal?",
       "options": [
-        "Diminui a reabsorção de sódio",
-        "A concentração de cloreto é maior que no plasma",
-        "Contém baixo teor de cloreto",
-        "Aumenta a excreção de cloreto"
+        "Diminuição da ingestão de água",
+        "Retenção renal de cloreto",
+        "Aumento da absorção intestinal",
+        "Excreção excessiva de sódio"
       ],
       "correctAnswer": 2,
-      "explanation": "A solução salina a 0,9% tem concentração de cloreto de 154 mEq/L, que é significativamente superior à concentração fisiológica no plasma (100-106 mEq/L). A infusão de grandes volumes pode sobrecarregar a capacidade do rim de excretar o excesso.",
+      "explanation": "Na acidose tubular renal distal, o defeito na excreção ácida leva à retenção renal compensatória de cloreto para manter a eletroneutralidade, gerando hipercloremia.",
       "hashtags": [
-        "medicina_interna",
-        "solução salina",
-        "farmacologia_clínica",
-        "cloreto_load",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual mecanismo fisiopatológico melhor descreve a hipercloremia devido à administração de NaCl a 0,9%?",
-      "options": [
-        "Aumento da secreção gástrica",
-        "Diminuição da reabsorção de sódio",
-        "Ganho excessivo de cloreto",
-        "Perda renal de bicarbonato"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A administração de grandes volumes de solução salina a 0,9% introduz uma carga excessiva de cloreto no corpo. O rim tenta manter a neutralidade elétrica, o que pode levar ao aumento do cloreto sérico e à acidose metabólica, com deslocamento do bicarbonato.",
-      "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
+        "nefrologia",
+        "acidose_tubular_renal",
         "fisiopatologia",
-        "cloreto_ganho",
+        "retenção_de cloro",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Quais são os sintomas comuns associados à acidose metabólica em pacientes com hipercloremia?",
+      "question": "Que tipo de acidose metabólica está tipicamente associada à hipercloremia devido à acidose tubular renal?",
       "options": [
-        "Fraqueza muscular e dor de cabeça",
-        "Constipação e oligúria",
-        "Bradipneia e bradicardia",
-        "Aumento da pressão arterial"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A acidose metabólica pode se manifestar com fraqueza muscular, fadiga, dor de cabeça, náusea, vômito e respiração profunda e rápida (hiperventilação compensatória) à medida que o corpo tenta eliminar CO2 para aumentar o pH.",
-      "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
-        "manifestações_clínicas",
-        "acidose_metabólica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que sintoma neurológico pode ocorrer se a hipercloremia coexistir com a hipernatremia?",
-      "options": [
-        "Hiperreflexia do tendão",
-        "Letargia, estupor ou coma",
-        "hiperatividade extrema",
-        "alucinações visuais"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Embora a hipercloremia pura não cause sintomas neurológicos diretos, se coexistir com a hipernatremia, esta última pode causar letargia, estupor, coma, irritabilidade, agitação ou convulsões, dependendo da gravidade e rapidez do seu desenvolvimento.",
-      "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
-        "manifestações_clínicas",
-        "sintomas_neurológicos",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que é essencial para o diagnóstico de hipercloremia?",
-      "options": [
-        "Níveis de hormônio da paratireóide",
-        "Estudo genético",
-        "Determinação bioquímica de cloreto sérico",
-        "Biópsia renal"
+        "Láctico tipo A",
+        "Láctico tipo B",
+        "Intervalo aniônico normal",
+        "Intervalo aniônico alto"
       ],
       "correctAnswer": 3,
-      "explanation": "O primeiro e fundamental passo no diagnóstico da hipercloremia é a dosagem do cloreto sérico, que deve estar acima da faixa normal (normalmente 100-106 mEq/L).",
+      "explanation": "A acidose tubular renal produz acidose metabólica com anion gap normal (hiperclorêmico), pois a perda de bicarbonato é substituída pela retenção de cloro, mantendo a eletroneutralidade.",
       "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
-        "diagnóstico",
-        "soro_cloreto",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que análise adicional é crucial para orientar a etiologia da hipercloremia na acidose metabólica?",
-      "options": [
-        "gases sanguíneos venosos",
-        "Cálculo do anion gap sérico",
-        "Eletrólitos na urina",
-        "Níveis de amilase"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O cálculo do anion gap sérico (BA = Na+ - (Cl- + HCO3-)) é essencial. Uma AB normal sugere causas como perda de bicarbonato ou ganho de cloreto, enquanto uma AB elevada aponta para outras causas de acidose metabólica.",
-      "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
+        "nefrologia",
+        "acidose_tubular_renal",
         "diagnóstico",
         "anion_gap",
         "MEDICAL_TOPIC",
@@ -267,455 +96,18 @@
       ]
     },
     {
-      "question": "O que um anion gap urinário negativo (UAG) indica no diagnóstico diferencial?",
+      "question": "Qual das alternativas a seguir é um achado laboratorial característico na hipercloremia devido à acidose tubular renal distal?",
       "options": [
-        "Problema renal primário",
-        "Deficiência de aldosterona",
-        "Overdose de bicarbonato de sódio",
-        "Perda gastrointestinal de bicarbonato"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Um anion gap urinário negativo (ou próximo de zero) sugere que o rim está excretando amônia de forma adequada para tentar corrigir a acidose, o que é compatível com perdas de bicarbonato de origem gastrointestinal.",
-      "hashtags": [
-        "medicina_interna",
-        "acidose_metabólica",
-        "diagnóstico",
-        "lacuna_anion_urinária",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a base do tratamento da hipercloremia associada à ATR tipo II?",
-      "options": [
-        "Bicarbonato de sódio oral ou IV",
-        "Restrição de potássio",
-        "Administração salina",
-        "diuréticos de alça"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O principal tratamento da ATJ tipo II é a administração de bicarbonato de sódio (ou outros alcalinizantes) para repor as perdas e corrigir a acidose. Os diuréticos tiazídicos podem ser um adjuvante.",
-      "hashtags": [
-        "medicina_interna",
-        "atr",
-        "tratamento",
-        "bicarbonato de sódio",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de solução intravenosa pode ser benéfica em casos de acidose metabólica hiperclorêmica para fornecer bicarbonato?",
-      "options": [
-        "Ringer com lactato",
-        "Solução salina hipertônica",
-        "Solução salina 0,9%",
-        "Solução de glicose a 5%"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A solução de Ringer com Lactato contém lactato, que é metabolizado no fígado em bicarbonato, ajudando a corrigir a acidose metabólica. Além disso, possui menor carga de cloreto do que a solução salina isotônica.",
-      "hashtags": [
-        "medicina_interna",
-        "acidose_metabólica",
-        "tratamento",
-        "ringer_lactato",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o principal objetivo do tratamento da hipercloremia?",
-      "options": [
-        "Reduza o consumo de água",
-        "Aumentar a excreção de potássio",
-        "Corrija a causa subjacente",
-        "Aumentar a ingestão de sal"
+        "pH urinário < 5,0",
+        "Potássio urinário baixo",
+        "pH urinário > 5,5",
+        "Sódio urinário elevado"
       ],
       "correctAnswer": 3,
-      "explanation": "A hipercloremia é um sinal. O tratamento se concentra em identificar e tratar a patologia subjacente que o causa, seja perda de bicarbonato, ganho de cloreto ou alteração renal.",
+      "explanation": "Na acidose tubular renal distal, o pH urinário é persistentemente superior a 5,5 devido à incapacidade de acidificar a urina, acompanhado de hipercloremia e acidose metabólica.",
       "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
-        "tratamento",
-        "causa_subjacente",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a faixa normal típica de cloreto sérico em adultos?",
-      "options": [
-        "100-106 mEq/L",
-        "50-75 mEq/L",
-        "200-250 mEq/L",
-        "120-140 mEq/L"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O limite superior normal para a concentração sérica de cloreto no sangue é normalmente entre 100-106 mEq/L em adultos, embora os intervalos possam variar ligeiramente entre os laboratórios.",
-      "hashtags": [
-        "medicina_interna",
-        "soro_cloreto",
-        "valores_normais",
-        "intervalo_normal",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que significa hipercloremia normotônica?",
-      "options": [
-        "Osmolaridade sérica total normal ou ligeiramente elevada",
-        "Concentração de potássio muito alta",
-        "Hiponatremia grave",
-        "Hipernatremia acentuada"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A hipercloremia pode ser classificada como normotônica, o que significa que a osmolaridade sérica total é normal ou apenas ligeiramente elevada, ao contrário da hiperosmótica que coexiste com hipernatremia acentuada.",
-      "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
-        "classificação",
-        "normotônico_hipercloremia",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que significa hipercloremia hiperosmótica?",
-      "options": [
-        "Osmolaridade sérica normal",
-        "Hiponatremia acentuada",
-        "Alta concentração de bicarbonato",
-        "Coexiste com hipernatremia acentuada"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A hipercloremia hiperosmótica é definida como hipercloremia que coexiste com hipernatremia acentuada, elevando a osmolaridade total do soro.",
-      "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
-        "classificação",
-        "hipercloremia_hiperosmótica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual o papel do rim na regulação do cloreto e do bicarbonato?",
-      "options": [
-        "Só secreta bicarbonato",
-        "Reabsorve sódio promovendo a reabsorção de Cl",
-        "Não participa de sua regulamentação",
-        "Excretar ambos seletivamente"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O rim é o principal órgão regulador do cloreto e do bicarbonato. A reabsorção de cloreto no túbulo renal está intimamente ligada à reabsorção de sódio e, no túbulo proximal, a reabsorção de Na+ promove a reabsorção de Cl-.",
-      "hashtags": [
-        "medicina_interna",
-        "rim",
-        "fisiologia_renal",
-        "regulação eletrolítica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a função do cotransportador Na+-K+-2Cl- na alça de Henle?",
-      "options": [
-        "Excreção de potássio",
-        "Secreção de hidrogênio",
-        "Filtração de bicarbonato",
-        "Reabsorção de sódio, potássio e cloreto"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O cotransportador Na+-K+-2Cl- (NKCC) é vital na alça de Henle, facilitando a reabsorção de sódio, potássio e, principalmente, cloreto, que é essencial para a concentração urinária e o equilíbrio eletrolítico.",
-      "hashtags": [
-        "medicina_interna",
-        "asa_henle",
-        "fisiologia_renal",
-        "nkcc",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Por que o cloreto é importante na secreção de ácido clorídrico no estômago?",
-      "options": [
-        "É um componente essencial do HCl",
-        "Estimula a produção de bile",
-        "É um precursor do pepsinogênio",
-        "Regula o pH de absorção"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O cloreto é um componente essencial do ácido clorídrico (HCl) secretado pelas células parietais do estômago para a digestão dos alimentos. Perdas deste ácido (vômito) implicam perda de Cl- e H+.",
-      "hashtags": [
-        "medicina_interna",
-        "estômago",
-        "fisiologia_gastrointestinal",
-        "ácido clorídrico",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual mecanismo de transporte de membrana é fundamental para o cloreto nos glóbulos vermelhos?",
-      "options": [
-        "Trocador Cl-/HCO3- (banda 3)",
-        "Difusão simples",
-        "Canal Cl dependente de voltagem",
-        "Transporte ativo primário"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O trocador Cl-/HCO3-, conhecido como proteína da banda 3, é essencial nos glóbulos vermelhos para o transporte de dióxido de carbono (CO2) como bicarbonato e vice-versa, envolvendo a troca de Cl- e HCO3- através da membrana.",
-      "hashtags": [
-        "medicina_interna",
-        "sangue_vermelho",
-        "membrana_transporte",
-        "trocador_cl_hco3",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual hormônio pode influenciar a reabsorção de cloreto no ducto coletor?",
-      "options": [
-        "Hormônio antidiurético (ADH)",
-        "Glucagon",
-        "Insulina",
-        "Hormônio da paratireóide (PTH)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O hormônio antidiurético (ADH) pode influenciar a reabsorção de cloreto no ducto coletor, além de regular os canais de água e a expressão de outros transportadores de solutos, afetando a concentração urinária.",
-      "hashtags": [
-        "medicina_interna",
-        "tubo_coletor",
-        "fisiologia_renal",
-        "adh",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Como a aldosterona afeta indiretamente a reabsorção de cloreto?",
-      "options": [
-        "Inibe o transporte de bicarbonato",
-        "Aumenta a secreção de cloreto",
-        "Promove a reabsorção de sódio, influenciando o Cl-",
-        "Diminui a reabsorção de água"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A aldosterona promove a reabsorção de sódio. Através de mecanismos de acoplamento ou eletroneutro, isso pode influenciar indiretamente a reabsorção de cloreto e a excreção de potássio e prótons nos túbulos renais distais.",
-      "hashtags": [
-        "medicina_interna",
-        "aldosterona",
-        "fisiologia_renal",
-        "regulação_de sódio",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Como são classificadas as causas da hipercloremia de acordo com o anion gap?",
-      "options": [
-        "Hipercloremia com AB normal e com AB elevada",
-        "Cloreto alto e baixo cloreto",
-        "Hipercloremia hiperosmótica e normotônica",
-        "Normocloremia e hipercloremia"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A hipercloremia é frequentemente classificada no contexto de acidose metabólica. Se o hiato aniônico for normal, é chamado de acidose metabólica hiperclorêmica; se for alto, outros ânions não medidos estão envolvidos.",
-      "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
-        "classificação",
-        "anion_gap",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a principal causa da perda de bicarbonato pelos rins?",
-      "options": [
-        "Diurese forçada",
-        "Acidose Tubular Renal (ATR)",
-        "Doença de Addison",
-        "Diabetes insípido"
-      ],
-      "correctAnswer": 2,
-      "explanation": "As Acidoses Tubulares Renais (ATR), especialmente tipo II (proximal) e tipo I (distal), envolvem um defeito na reabsorção ou secreção de bicarbonato e ácido, respectivamente, levando a perdas renais de bicarbonato e acidose.",
-      "hashtags": [
-        "medicina_interna",
-        "atr",
-        "rim_fisiopatologia",
-        "perda_rim_bicarbonato",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Quais diuréticos podem causar aumento da excreção de bicarbonato?",
-      "options": [
-        "Inibidores da anidrase carbônica",
-        "Diuréticos osmóticos",
-        "Diuréticos poupadores de potássio",
-        "diuréticos de alça"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Os inibidores da anidrase carbônica, como a acetazolamida, bloqueiam a reabsorção de bicarbonato no túbulo proximal, aumentando sua excreção e potencialmente causando hipercloremia e acidose metabólica.",
-      "hashtags": [
-        "medicina_interna",
-        "diuréticos",
-        "farmacologia",
-        "inibidores_da_anidrase_carbônica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual condição pode causar hipercloremia devido ao ganho de cloreto e ácido?",
-      "options": [
-        "Consumo de magnésio",
-        "Consumo de sais de sódio",
-        "Consumo de sais de potássio",
-        "Consumo de sais de amônio (NH4Cl)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O cloreto de amônio (NH4Cl) é uma substância que, ao ser metabolizada, libera prótons (H+) e cloreto (Cl-), atuando como agente acidificante e aumentando a carga de cloreto no organismo, podendo induzir hipercloremia.",
-      "hashtags": [
-        "medicina_interna",
-        "cloreto de amônio",
-        "farmacologia",
-        "causa_exógena",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que acontece com a reabsorção de cloreto no túbulo proximal se o sódio for reabsorvido?",
-      "options": [
-        "Diminui a reabsorção de cloreto",
-        "Não há relacionamento",
-        "A reabsorção de cloreto é promovida",
-        "O cloreto é secretado"
-      ],
-      "correctAnswer": 3,
-      "explanation": "No túbulo proximal, a reabsorção de sódio (Na+) é acoplada à reabsorção de cloreto (Cl-), promovendo conjuntamente o movimento de ambos os eletrólitos do túbulo para o interstício e sangue.",
-      "hashtags": [
-        "medicina_interna",
-        "túbulo_proximal",
-        "fisiologia_renal",
-        "transporte_de cloreto de sódio",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que é hipercloremia no contexto da insuficiência renal?",
-      "options": [
-        "Aumento da reabsorção no túbulo",
-        "Uma diminuição na excreção de cloreto",
-        "Um aumento na produção de cloreto",
-        "Aumento da secreção de bicarbonato"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Na insuficiência renal, a capacidade do rim de excretar solutos, incluindo cloreto, diminui. Isto pode levar ao acúmulo de cloreto e consequentemente à hipercloremia, especialmente se a ingestão exceder a excreção.",
-      "hashtags": [
-        "medicina_interna",
-        "insuficiência renal",
-        "rim_fisiopatologia",
-        "excreção_cloreto",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que envolve a desidratação hipertônica em relação ao cloreto?",
-      "options": [
-        "Perda de água e bicarbonato",
-        "Perda de água e sódio com predomínio de ganho de sódio",
-        "Perda de água e sódio com predomínio de perda de água",
-        "Ganho de água e sódio"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A desidratação hipertônica é caracterizada por uma combinação de perda de água e sódio, mas com perda de água ou ganho de sódio proporcionalmente maior, o que pode resultar em hipernatremia e hipercloremia.",
-      "hashtags": [
-        "medicina_interna",
-        "desidratação",
-        "fisiopatologia",
-        "desidratação_hipertônica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de solução intravenosa deve ser utilizada com cautela em pacientes com hipercloremia e sobrecarga de volume?",
-      "options": [
-        "Solução de Ringer com Lactato",
-        "Solução de bicarbonato de sódio",
-        "Solução salina 0,9%",
-        "5% de dextrose em água"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A solução salina 0,9% apresenta alta concentração de cloreto (154 mEq/L) e sódio. Sua administração em pacientes com sobrecarga de volume pode exacerbar a hipercloremia e a acidose metabólica.",
-      "hashtags": [
-        "medicina_interna",
-        "hipercloremia",
-        "farmacologia_clínica",
-        "solução salina",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual parâmetro é crucial para avaliar a resposta compensatória à acidose metabólica?",
-      "options": [
-        "Pressão arterial",
-        "Frequência cardíaca",
-        "nível de oxigênio",
-        "Gasometria arterial"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A gasometria arterial (GAO) permite avaliar o pH sérico, a pressão parcial de CO2 e o bicarbonato, o que é essencial para confirmar e quantificar a acidose metabólica e observar se há compensação respiratória adequada (diminuição do CO2).",
-      "hashtags": [
-        "medicina_interna",
-        "acidose_metabólica",
-        "diagnóstico",
-        "gsa",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que indica baixa osmolaridade urinária em um paciente com hipercloremia?",
-      "options": [
-        "Ingestão de água muito alta",
-        "Capacidade de concentrar urina",
-        "Defeito na reabsorção de água ou soluto",
-        "Produção excessiva de ADH"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A baixa osmolaridade urinária, especialmente na presença de hipernatremia (que pode coexistir com hipercloremia), sugere que o rim não está concentrando adequadamente a urina, o que pode ser devido a um defeito na reabsorção de água (diabetes insipidus) ou solutos.",
-      "hashtags": [
-        "medicina_interna",
-        "rim",
-        "fisiologia_renal",
-        "osmolaridade_urinária",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual achado do exame de urina é crítico para o diagnóstico de ATJ?",
-      "options": [
-        "Proteínas na urina",
-        "Cetonas na urina",
-        "pH urinário",
-        "Presença de glicose"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O pH urinário é uma ferramenta diagnóstica fundamental na avaliação da Acidose Tubular Renal (ATR). Um pH urinário consistentemente elevado (>5,5) na presença de acidose metabólica sugere ATR tipo I (distal) ou tipo IV.",
-      "hashtags": [
-        "medicina_interna",
-        "atr",
+        "nefrologia",
+        "acidose_tubular_renal",
         "diagnóstico",
         "urinário_ph",
         "MEDICAL_TOPIC",
@@ -723,516 +115,915 @@
       ]
     },
     {
-      "question": "Que outra condição pode causar alcalose metabólica e hipocalemia, mas também alterações complexas no cloreto?",
+      "question": "Qual é a causa mais comum de hipercloremia com hiato aniônico normal?",
       "options": [
-        "Hiperaldosteronismo",
-        "cetoacidose diabética",
-        "deficiência de ferro",
-        "Insuficiência hepática"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O hiperaldosteronismo primário ou secundário promove a reabsorção de sódio e a excreção de potássio e hidrogênio, causando tipicamente alcalose metabólica hipocalêmica. O gerenciamento de volume e cloreto pode ser complexo e variar.",
-      "hashtags": [
-        "medicina_interna",
-        "hiperaldosteronismo",
-        "endocrinologia",
-        "alcalose metabólica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Por que o vômito profuso pode complicar a hipercloremia apesar da perda de HCl?",
-      "options": [
-        "Diminui a reabsorção de sódio",
-        "A resposta compensatória renal e a fluidoterapia podem alterar o equilíbrio",
-        "Causa ganho de bicarbonato",
-        "Aumenta diretamente a secreção de cloreto"
+        "Hiperaldosteronismo primário",
+        "Perda de bicarbonato digestivo",
+        "Acidose tubular renal distal",
+        "Insuficiência adrenal aguda"
       ],
       "correctAnswer": 2,
-      "explanation": "Embora o vômito profuso provoque perda de HCl (hipoclorêmico e teoricamente alcalinizante), a resposta compensatória do rim (retenção de Na+ e H+ com excreção de bicarbonato) e a possível administração de líquidos podem complicar o equilíbrio eletrolítico, levando a quadros variáveis ​​que podem incluir hipercloremia.",
-      "hashtags": [
-        "medicina_interna",
-        "vomitar",
-        "fisiopatologia_gastrointestinal",
-        "complicações_volume",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o risco da correção rápida da hipercloremia e da acidose metabólica?",
-      "options": [
-        "Hipocalemia e tetania",
-        "Sobrecarga de volume e alcalose de rebote",
-        "Hipernatremia grave",
-        "desidratação celular"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A correção muito rápida da acidose metabólica, especialmente com bicarbonato, pode levar à alcalose metabólica rebote. Além disso, a administração de líquidos para corrigir a acidose pode precipitar sobrecarga de volume em pacientes suscetíveis.",
-      "hashtags": [
-        "medicina_interna",
-        "tratamento",
-        "acidose_metabólica",
-        "efeitos_adversos",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de paciente é mais suscetível a desenvolver hipercloremia devido à administração de solução salina?",
-      "options": [
-        "Pacientes desnutridos",
-        "Pacientes com insuficiência renal ou cardíaca",
-        "Pacientes com diarreia leve",
-        "Pacientes saudáveis ​​com função renal normal"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Pacientes com função renal comprometida, insuficiência cardíaca congestiva, sepse ou hipoperfusão tecidual apresentam capacidade reduzida de excretar a carga de sódio e cloreto administrada com soluções salinas, aumentando o risco de hipercloremia e acidose metabólica hiperclorêmica.",
+      "explanation": "A perda de bicarbonato devido a diarreia ou fístulas digestivas é a causa mais comum de acidose metabólica hiperclorêmica com hiato aniônico normal, uma vez que o cloreto aumenta para manter a eletroneutralidade.",
       "hashtags": [
         "medicina_interna",
         "hipercloremia",
-        "fatores_de risco",
-        "insuficiência renal",
+        "etiologia",
+        "anion_gap_normal",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Que consequências a acidose metabólica não corrigida pode ter no sistema cardiovascular?",
+      "question": "Na acidose metabólica hiperclorêmica, o anion gap sérico é encontrado:",
       "options": [
-        "Aumento da contratilidade miocárdica",
-        "Vasoconstrição pulmonar",
-        "Diminuição da contratilidade e vasodilatação",
-        "Aumento da pressão arterial média"
+        "Normal com alto teor de cloro",
+        "Normal com alto teor de bicarbonato de sódio",
+        "Elevado com alto gap osmolar",
+        "Diminuiu com cloro normal"
       ],
-      "correctAnswer": 3,
-      "explanation": "A acidose metabólica grave não corrigida pode afetar negativamente a função cardiovascular, causando diminuição da contratilidade miocárdica e vasodilatação periférica, o que pode levar à hipotensão e ao choque.",
+      "correctAnswer": 1,
+      "explanation": "Na acidose metabólica hiperclorêmica, o hiato aniônico permanece normal porque a diminuição do bicarbonato é compensada por um aumento equivalente do cloreto, mantendo a diferença aniônica inalterada.",
       "hashtags": [
         "medicina_interna",
-        "acidose_metabólica",
+        "hipercloremia",
         "fisiopatologia",
-        "efeitos_cardiovasculares",
+        "anion_gap",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "O que é essencial no manejo da hipercloremia em pacientes críticos?",
+      "question": "Que distúrbio ácido-base se apresenta com hiato aniônico normal e hipercloremia?",
       "options": [
-        "Monitoramento da temperatura corporal",
-        "Administração empírica de diuréticos",
-        "Manejo individualizado considerando comorbidades",
-        "Restrição estrita de líquidos"
+        "Acidose láctica tipo A",
+        "Acidose metabólica hiperclorêmica",
+        "Acidose respiratória compensada",
+        "Alcalose metabólica hipoclorêmica"
       ],
-      "correctAnswer": 3,
-      "explanation": "O manejo da hipercloremia em pacientes gravemente enfermos é complexo. Requer abordagem individualizada, considerando a presença de outras comorbidades (insuficiência renal, insuficiência cardíaca, sepse) e a resposta às intervenções terapêuticas.",
+      "correctAnswer": 2,
+      "explanation": "A acidose metabólica hiperclorêmica é caracterizada por um hiato aniônico normal, baixo bicarbonato e cloreto sérico elevado, diferentemente da acidose devido ao acúmulo de ácidos não clorados que elevam o hiato aniônico.",
       "hashtags": [
         "medicina_interna",
         "hipercloremia",
-        "tratamento_crítico",
-        "manuseio_individualizado",
+        "tabela_clínica",
+        "distúrbio_base_ácido",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Por que a solução salina a 0,9% é considerada hiperclorêmica em relação ao plasma?",
+      "question": "Na acidose metabólica por perda de bicarbonato, o aumento do cloreto sérico se deve a:",
       "options": [
-        "Possui 154 mEq/L de Cl-",
-        "Possui 0 mEq/L de Cl-",
-        "Possui 100 mEq/L de Cl-",
-        "Possui 54 mEq/L de Cl-"
+        "Retenção renal compensatória de cloreto",
+        "Diluição devido ao excesso de água livre",
+        "Hiperaldosteronismo secundário",
+        "Secreção tubular ativa de cloro"
       ],
       "correctAnswer": 1,
-      "explanation": "A solução salina isotônica a 0,9% contém 154 mEq/L de cloreto, enquanto a faixa normal de cloreto sérico é de 100-106 mEq/L. Essa diferença o torna hiperclorêmico em comparação ao plasma.",
-      "hashtags": [
-        "medicina_interna",
-        "solução salina",
-        "farmacologia",
-        "composição_eletrolítica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que significa um hiato aniônico elevado na avaliação da acidose metabólica?",
-      "options": [
-        "Diminuição da excreção de sódio",
-        "Presença de excesso de ânions não medidos",
-        "Perda excessiva de bicarbonato",
-        "Ganho de cloreto"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Um hiato aniônico sérico elevado (>12 mEq/L) sugere a presença de ânions não medidos que compensam o baixo bicarbonato. Estes podem ser lactato, corpos cetônicos, uremia (sulfatos, fosfatos), metanol, etilenoglicol ou salicilatos.",
-      "hashtags": [
-        "medicina_interna",
-        "acidose_metabólica",
-        "diagnóstico",
-        "high_anion_gap",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a implicação da hipercloremia em relação à osmolaridade sérica total?",
-      "options": [
-        "Isso não a afeta",
-        "Pode ser normotônico ou hiperosmótico.",
-        "Sempre aumenta",
-        "Sempre diminui"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A hipercloremia pode ser classificada como normotônica (osmolaridade sérica normal ou levemente elevada) ou hiperosmótica (quando coexiste com hipernatremia acentuada e eleva a osmolaridade total).",
+      "explanation": "O rim retém cloro para acompanhar o sódio e manter a eletroneutralidade diante da perda de bicarbonato, gerando hipercloremia sem modificar o anion gap.",
       "hashtags": [
         "medicina_interna",
         "hipercloremia",
-        "osmolaridade",
-        "classificação_osmolar",
+        "fisiopatologia",
+        "compensação_rim",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual mecanismo renal é crucial para a manutenção do equilíbrio ácido-base envolvendo cloreto e sódio?",
-      "options": [
-        "Excreção de uréia",
-        "Ultrafiltração glomerular",
-        "secreção tubular de potássio",
-        "Reabsorção tubular de sódio e cloreto"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A reabsorção de cloreto no túbulo renal está intimamente ligada à reabsorção de sódio. Este processo é fundamental para a eletroneutralidade e gerenciamento de volume, influenciando indiretamente a regulação do equilíbrio ácido-base.",
-      "hashtags": [
-        "medicina_interna",
-        "fisiologia_renal",
-        "equilíbrio_base_ácido",
-        "cloreto_de_sódio_reabsorção",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual condição causa perda de líquidos ricos em bicarbonato, levando à hipercloremia?",
-      "options": [
-        "Síndrome de Cushing",
-        "Fístulas biliares ou pancreáticas",
-        "Uso de diuréticos tiazídicos",
-        "Diabetes Mellitus tipo 1"
-      ],
-      "correctAnswer": 2,
-      "explanation": "As fístulas biliares ou pancreáticas drenam líquidos ricos em bicarbonato. Sua perda excessiva resulta em retenção relativa de cloreto e queda compensatória de bicarbonato sérico, causando hipercloremia.",
-      "hashtags": [
-        "medicina_interna",
-        "fisiopatologia_gastrointestinal",
-        "bicarbonato_perda",
-        "fístula_biliar_pancreática",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Quais diuréticos, ao aumentarem a excreção de bicarbonato, podem causar hipercloremia?",
+      "question": "Qual dos seguintes medicamentos pode induzir acidose metabólica hiperclorêmica?",
       "options": [
         "Espironolactona",
-        "Amilorida",
+        "Hidroclorotiazida",
         "Acetazolamida",
         "Furosemida"
       ],
       "correctAnswer": 3,
-      "explanation": "A acetazolamida é um inibidor da anidrase carbônica que bloqueia a reabsorção de bicarbonato no túbulo proximal, aumentando sua excreção urinária e potencialmente resultando em hipercloremia e acidose metabólica.",
-      "hashtags": [
-        "medicina_interna",
-        "acetazolamida",
-        "farmacologia_renal",
-        "inibidor_de_anidrase_carbônica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que efeito a acidose metabólica pode ter na excitabilidade neuromuscular?",
-      "options": [
-        "Excitabilidade diminuída",
-        "Maior excitabilidade",
-        "Sem efeito",
-        "Cãibras musculares esporádicas"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A acidose metabólica pode afetar a excitabilidade neuromuscular, contribuindo para fraqueza muscular e fadiga. Embora não seja o mecanismo principal, as alterações no pH e nos eletrólitos influenciam a função muscular.",
-      "hashtags": [
-        "medicina_interna",
-        "acidose_metabólica",
-        "fisiopatologia",
-        "efeitos_neuromusculares",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a função do trocador Cl-/HCO3- (banda 3) nas hemácias?",
-      "options": [
-        "transporte de oxigênio",
-        "Transporte de CO2 como HCO3- e troca de Cl-",
-        "Remoção de detritos celulares",
-        "Produção de ATP"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O trocador Cl-/HCO3- (proteína da banda 3) é vital para o transporte de dióxido de carbono no sangue. Facilita a troca de cloreto do plasma para os glóbulos vermelhos à medida que o bicarbonato sai e vice-versa, permitindo a solubilidade e o transporte de CO2.",
-      "hashtags": [
-        "medicina_interna",
-        "sangue_vermelho",
-        "transporte_gás",
-        "trocador_cl_hco3",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que um anion gap urinário positivo (UAG) sugere na acidose metabólica?",
-      "options": [
-        "Uso excessivo de laxantes",
-        "Perda gastrointestinal de bicarbonato",
-        "Sobrecarga salina",
-        "Acidose Tubular Renal (ATR)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Um anion gap urinário positivo (UAG = [Na+ urina] - [Cl- urina]) no contexto de acidose metabólica é indicativo de que o rim não está excretando amônio adequadamente, o que é característico da Acidose Tubular Renal (ATR).",
-      "hashtags": [
-        "medicina_interna",
-        "acidose_metabólica",
-        "diagnóstico",
-        "lacuna_anion_urinária",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o principal cátion extracelular associado ao cloreto na regulação do volume?",
-      "options": [
-        "Potássio",
-        "Magnésio",
-        "Cálcio",
-        "Sódio"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O cloreto, juntamente com o sódio, é um dos principais determinantes da osmolaridade do fluido extracelular e crucial para manter a carga elétrica neutra. O equilíbrio de sódio e cloreto regula o volume intravascular e, consequentemente, a pressão arterial.",
-      "hashtags": [
-        "medicina_interna",
-        "fisiologia",
-        "eletrólitos",
-        "regulação_volume",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que ação do rim está intimamente ligada à do cloreto?",
-      "options": [
-        "reabsorção de sódio",
-        "Excreção de potássio",
-        "Secreção de amônio",
-        "Filtragem de creatinina"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A reabsorção de cloreto nos túbulos renais está intimamente ligada à reabsorção de sódio. Mecanismos como a reabsorção de Na+ que promove a reabsorção de Cl- no túbulo proximal são exemplos-chave.",
-      "hashtags": [
-        "medicina_interna",
-        "fisiologia_renal",
-        "eletrólito_transporte",
-        "sódio_reabsorção",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a consequência mais direta da perda excessiva de bicarbonato no organismo?",
-      "options": [
-        "Hipocalemia",
-        "alcalose metabólica",
-        "acidose metabólica",
-        "Hipernatremia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A perda líquida de bicarbonato (uma base) do corpo leva a uma diminuição do tampão primário do corpo, resultando em acidose metabólica. Se o cloreto for relativamente retido, isso é chamado de acidose metabólica hiperclorêmica.",
-      "hashtags": [
-        "medicina_interna",
-        "bicarbonato de sódio",
-        "acidose_metabólica",
-        "fisiopatologia",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que pode acontecer se a função renal estiver comprometida e for administrado cloreto de amônio?",
-      "options": [
-        "Acidose metabólica hiperclorêmica grave",
-        "Hiponatremia",
-        "Hipocloremia",
-        "alcalose metabólica"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A administração de cloreto de amônio gera ácido e cloreto. Num rim com função comprometida, a excreção destes pode ser deficiente, levando à acumulação e acidose metabólica hiperclorémica grave.",
-      "hashtags": [
-        "medicina_interna",
-        "cloreto de amônio",
-        "insuficiência renal",
-        "acidose_hiperclorêmica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que significa que a hipercloremia é um sinal e não uma doença?",
-      "options": [
-        "O que é uma manifestação de outro problema subjacente",
-        "Que é sempre assintomático",
-        "O que resolve espontaneamente",
-        "O que requer tratamento direto com cloreto"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A hipercloremia não é uma patologia primária, mas sim um achado bioquímico que indica um desequilíbrio hidroeletrolítico ou uma condição médica subjacente. A gestão se concentra na causa raiz.",
+      "explanation": "A acetazolamida inibe a anidrase carbônica, reduzindo a reabsorção de bicarbonato e causando acidose metabólica hiperclorêmica com hiato aniônico normal, por aumentar a excreção urinária de bicarbonato.",
       "hashtags": [
         "medicina_interna",
         "hipercloremia",
-        "definição",
-        "sinal_clínico",
+        "tratamento",
+        "drogas",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Quais células do estômago secretam ácido clorídrico, usando cloreto?",
+      "question": "Num paciente com diarreia crónica, o achado esperado no ionograma é:",
       "options": [
-        "Células parietais",
-        "células mucosas",
-        "Células principais",
-        "Células G"
-      ],
-      "correctAnswer": 1,
-      "explanation": "As células parietais da mucosa gástrica são responsáveis ​​pela secreção de ácido clorídrico (HCl), processo que requer a participação do íon cloreto.",
-      "hashtags": [
-        "medicina_interna",
-        "estômago",
-        "anatomia_gastrointestinal",
-        "células_parietais",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Como a hipovolemia influencia a reabsorção renal de cloreto?",
-      "options": [
-        "Reduz para preservá-lo",
-        "Aumenta para conservar sódio e água",
-        "Aumenta para excretá-lo",
-        "Não tem efeito"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Nos estados de hipovolemia, o corpo tenta conservar sódio e água. A reabsorção de sódio está acoplada à reabsorção de cloreto. A resposta renal pode ser o aumento da retenção de cloreto para manter a eletroneutralidade e o volume.",
-      "hashtags": [
-        "medicina_interna",
-        "hipovolemia",
-        "fisiologia_renal",
-        "cloreto_reabsorção",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que efeito a administração rápida de solução salina hipertônica pode ter no tratamento da hiponatremia?",
-      "options": [
-        "Causa hipercloremia e outras complicações",
-        "Induzir hiponatremia grave",
-        "Causa alcalose metabólica",
-        "Diminuir a osmolaridade sérica"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Soluções salinas hipertônicas, embora necessárias na hiponatremia grave, devem ser administradas com controle. Se utilizados excessivamente ou sem monitoramento adequado, podem causar hipercloremia e outras complicações decorrentes da correção iatrogênica.",
-      "hashtags": [
-        "medicina_interna",
-        "hiponatremia",
-        "farmacologia_clínica",
-        "efeitos_adversos",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Aproximadamente qual porcentagem do cloreto filtrado é reabsorvida no túbulo proximal?",
-      "options": [
-        "90%",
-        "10%",
-        "65%",
-        "25%"
+        "Alto teor de bicarbonato de sódio e alto teor de cloro",
+        "Alto teor de bicarbonato de sódio e baixo teor de cloro",
+        "Baixo teor de bicarbonato de sódio e alto teor de cloro",
+        "Baixo teor de bicarbonato de sódio e baixo teor de cloro"
       ],
       "correctAnswer": 3,
-      "explanation": "A reabsorção de cloreto é um processo extenso no néfron. Aproximadamente 65% do cloreto filtrado é reabsorvido no túbulo proximal, seguido de 25% na alça de Henle e 10% no túbulo distal e coletor.",
+      "explanation": "A diarreia crônica produz perda de bicarbonato, gerando acidose metabólica hiperclorêmica; O cloreto sérico aumenta como mecanismo compensatório para manter o equilíbrio iônico, com hiato aniônico normal.",
       "hashtags": [
         "medicina_interna",
-        "túbulo_proximal",
-        "fisiologia_renal",
-        "cloreto_reabsorção",
+        "hipercloremia",
+        "diagnóstico",
+        "ionograma",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual é a principal função do cloreto na manutenção do equilíbrio ácido-base?",
+      "question": "Qual é a causa mais comum de hipercloremia em pacientes hospitalizados?",
       "options": [
-        "Promover a excreção de H+",
-        "Atuar como buffer primário",
-        "Sua concentração está inversamente relacionada ao bicarbonato",
-        "Regular a produção de CO2"
+        "Administração de solução salina 0,9%",
+        "Diabetes insípido nefrogênico",
+        "Insuficiência renal crônica",
+        "Hiperaldosteronismo primário"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A administração intravenosa de solução salina 0,9% é a causa mais comum de hipercloremia em pacientes hospitalizados, devido ao seu elevado teor de cloro (154 mEq/L) em relação ao plasma.",
+      "hashtags": [
+        "medicina_interna",
+        "hipercloremia",
+        "etiologia",
+        "solução salina",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Que distúrbio ácido-base está tipicamente associado à hipercloremia salina?",
+      "options": [
+        "alcalose metabólica",
+        "Acidose respiratória",
+        "Acidose metabólica hiperclorêmica",
+        "Alcalose respiratória"
       ],
       "correctAnswer": 3,
-      "explanation": "O cloreto desempenha um papel fundamental no equilíbrio ácido-base. Sua concentração no plasma está inversamente relacionada à do bicarbonato (HCO3-), o principal tampão do corpo, e os rins regulam ambos.",
+      "explanation": "A infusão de grandes volumes de solução salina a 0,9% produz acidose metabólica hiperclorêmica devido à diluição do bicarbonato e diminuição da diferença de íons fortes.",
       "hashtags": [
         "medicina_interna",
-        "equilíbrio_base_ácido",
-        "fisiologia",
-        "proporção_cloreto_bicarbonato",
+        "hipercloremia",
+        "fisiopatologia",
+        "acidose_metabólica",
         "MEDICAL_TOPIC",
-        ""
+        "Harrison 21 anos"
       ]
     },
     {
-      "question": "Que tipo de canais iônicos permitem a difusão passiva de cloreto através das membranas celulares?",
+      "question": "Qual é o principal mecanismo da hipercloremia induzida por solução salina?",
       "options": [
-        "canais de sódio",
-        "canais de potássio",
-        "canais de cálcio",
-        "Canais de Cl"
+        "Diminuição da excreção renal de cloro",
+        "Redistribuição de cloro intracelular",
+        "Aumento da reabsorção tubular de cloro",
+        "Fornecimento exógeno de excesso de cloro"
       ],
       "correctAnswer": 4,
-      "explanation": "O transporte de cloreto através das membranas celulares ocorre por vários mecanismos, incluindo difusão passiva através de canais iônicos específicos de Cl (dependentes de voltagem, controlados por ligantes ou mecanossensoriais).",
+      "explanation": "A hipercloremia salina é decorrente do fornecimento exógeno de cloro em concentrações suprafisiológicas (154 mEq/L), excedendo a capacidade de excreção renal rápida.",
       "hashtags": [
         "medicina_interna",
-        "membrana_transporte",
-        "fisiologia_celular",
-        "cloro_canais",
+        "hipercloremia",
+        "fisiopatologia",
+        "contribuição_exógena",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual parâmetro laboratorial está caracteristicamente alterado na hipercloremia salina?",
+      "options": [
+        "Aumento do bicarbonato sérico",
+        "Diminuição do sódio sérico",
+        "Diminuição do bicarbonato sérico",
+        "Aumento do potássio sérico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na acidose metabólica hiperclorêmica com solução salina, o bicarbonato sérico diminui como consequência do efeito de diluição e da redução da diferença de íons fortes.",
+      "hashtags": [
+        "medicina_interna",
+        "hipercloremia",
+        "diagnóstico",
+        "soro_bicarbonato",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual estratégia ajuda a prevenir a hipercloremia salina na reanimação?",
+      "options": [
+        "Prefira soluções equilibradas",
+        "Use solução salina 0,45%",
+        "Administrar bicarbonato de sódio",
+        "Aumentar a taxa de infusão"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Soluções balanceadas (como Ringer com lactato ou Plasmalyte) apresentam concentrações de cloreto mais próximas do plasma (98-110 mEq/L), reduzindo o risco de hipercloremia em comparação com solução salina a 0,9%.",
+      "hashtags": [
+        "medicina_interna",
+        "hipercloremia",
+        "tratamento",
+        "soluções_equilibradas",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é a complicação renal associada à hipercloremia salina?",
+      "options": [
+        "Glomerulonefrite rapidamente progressiva",
+        "Nefrite intersticial aguda",
+        "Necrose tubular aguda",
+        "Vasoconstrição renal aguda"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A hipercloremia induzida por solução salina pode causar vasoconstrição renal aguda, reduzindo o fluxo sanguíneo renal e a taxa de filtração glomerular, predispondo à lesão renal aguda.",
+      "hashtags": [
+        "medicina_interna",
+        "hipercloremia",
+        "complicações",
+        "vasoconstrição renal",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o principal mecanismo de hipercloremia na insuficiência renal aguda?",
+      "options": [
+        "Aumento da ingestão de cloro",
+        "Hiperaldosteronismo secundário",
+        "Diminuição da excreção renal de cloro",
+        "Perda gastrointestinal de bicarbonato"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na insuficiência renal aguda, a redução da taxa de filtração glomerular diminui a excreção renal de cloreto, levando ao seu acúmulo sérico.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "fisiopatologia",
+        "insuficiência_renal aguda",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Como é tratada a hipercloremia em pacientes com insuficiência renal crônica e refratária?",
+      "question": "Que distúrbio ácido-básico está tipicamente associado à hipercloremia na insuficiência renal aguda?",
       "options": [
-        "Restrição de solutos e possível diálise",
-        "Suplementos de cloreto",
-        "Dieta rica em sódio",
-        "Administração de soluções salinas"
+        "Acidose respiratória",
+        "Acidose metabólica hiperclorêmica",
+        "Alcalose respiratória",
+        "alcalose metabólica"
       ],
-      "correctAnswer": 1,
-      "explanation": "Na insuficiência renal avançada, a excreção de cloreto fica comprometida. O manejo pode incluir restrição de solutos (sódio e cloreto) na dieta e, em casos graves ou refratários, diálise para remover o excesso de eletrólitos e ácidos.",
+      "correctAnswer": 2,
+      "explanation": "A hipercloremia na insuficiência renal aguda é frequentemente acompanhada por acidose metabólica hiperclorêmica, devido à retenção de cloreto e perda de bicarbonato.",
       "hashtags": [
-        "medicina_interna",
-        "insuficiência_renal_crônica",
-        "tratamento",
-        "diálise_management",
+        "nefrologia",
+        "hipercloremia",
+        "tabela_clínica",
+        "distúrbio_base_ácido",
         "MEDICAL_TOPIC",
         ""
+      ]
+    },
+    {
+      "question": "Qual é o valor de cloreto sérico característico da hipercloremia na insuficiência renal aguda?",
+      "options": [
+        "98 mEq/L",
+        "112 mEq/L",
+        "105 mEq/L",
+        "120 mEq/L"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A hipercloremia é definida como cloreto sérico >108 mEq/L; O valor de 112 mEq/L é um exemplo representativo na insuficiência renal aguda.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "diagnóstico",
+        "valores_séricos",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual parâmetro laboratorial ajuda a diferenciar a acidose metabólica hiperclorêmica da acidose láctica?",
+      "options": [
+        "pH arterial alcalino",
+        "Intervalo aniônico alto",
+        "hiato aniônico normal",
+        "Bicarbonato sérico elevado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A acidose metabólica hiperclorêmica normalmente apresenta um anion gap normal, ao contrário da acidose láctica, que apresenta um anion gap elevado.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "diagnóstico",
+        "anion_gap",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha para hipercloremia sintomática na insuficiência renal aguda?",
+      "options": [
+        "Bicarbonato de sódio intravenoso",
+        "Restrição de água",
+        "Hemodiálise",
+        "diuréticos de alça"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na insuficiência renal aguda com hipercloremia sintomática, a hemodiálise é o tratamento de escolha para corrigir rapidamente o desequilíbrio eletrolítico.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "tratamento",
+        "hemodiálise",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que alteração eletrolítica geralmente acompanha a hipercloremia na insuficiência renal aguda devido à necrose tubular aguda?",
+      "options": [
+        "Hipercalemia",
+        "Hipermagnesemia",
+        "Hiponatremia",
+        "Hipocalcemia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Na necrose tubular aguda, a hipercloremia está frequentemente associada à hipercalemia devido à diminuição da excreção renal de potássio.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "complicações",
+        "hipercalemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a causa mais comum de hiperaldosteronismo primário?",
+      "options": [
+        "Hiperaldosteronismo familiar tipo I",
+        "Hiperplasia adrenal bilateral",
+        "Adenoma adrenal unilateral",
+        "Carcinoma adrenal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A hiperplasia adrenal bilateral é a causa mais comum de hiperaldosteronismo primário, representando aproximadamente 60% dos casos, seguida pelo adenoma produtor de aldosterona.",
+      "hashtags": [
+        "medicina_interna",
+        "primário_hiperaldosteronismo",
+        "etiologia",
+        "causas_frequentes",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual achado laboratorial é característico do hiperaldosteronismo primário?",
+      "options": [
+        "Hipocalemia e hipernatremia",
+        "Hipocalemia e hiponatremia",
+        "Hipercalemia e hiponatremia",
+        "Hipercalemia e hipernatremia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O hiperaldosteronismo primário apresenta-se com hipocalemia devido à perda renal de potássio e hipernatremia devido à retenção de sódio mediada pela aldosterona, levando à alcalose metabólica.",
+      "hashtags": [
+        "medicina_interna",
+        "primário_hiperaldosteronismo",
+        "tabela_clínica",
+        "alterações_eletrolíticas",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o teste de confirmação diagnóstica de escolha para hiperaldosteronismo primário?",
+      "options": [
+        "RM adrenal",
+        "Teste de supressão de fludrocortisona",
+        "Tomografia computadorizada abdominal",
+        "Relação aldosterona/renina elevada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O teste de supressão com fludrocortisona é o padrão ouro para confirmar o hiperaldosteronismo primário, demonstrando a produção autônoma de aldosterona não supressível por expansão de volume.",
+      "hashtags": [
+        "medicina_interna",
+        "primário_hiperaldosteronismo",
+        "diagnóstico",
+        "teste_confirmatório",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023 --- Harrison"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha na hiperplasia adrenal bilateral?",
+      "options": [
+        "Bloqueadores dos canais de cálcio",
+        "Conversão de inibidores enzimáticos",
+        "Antagonistas dos receptores mineralocorticóides",
+        "Ressecção cirúrgica bilateral"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na hiperplasia adrenal bilateral, o tratamento de escolha é farmacológico com antagonistas dos receptores mineralocorticóides como espironolactona ou eplerenona, uma vez que a cirurgia não é curativa.",
+      "hashtags": [
+        "medicina_interna",
+        "primário_hiperaldosteronismo",
+        "tratamento",
+        "antagonistas_mineralocorticóides",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual exame de imagem é recomendado para diferenciar adenoma de hiperplasia bilateral?",
+      "options": [
+        "Angiografia adrenal seletiva",
+        "Ultrassom adrenal",
+        "Tomografia computadorizada adrenal",
+        "Exame de iodocolesterol"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A tomografia computadorizada adrenal com contraste é a modalidade de imagem de escolha para identificar adenomas unilaterais (>1 cm) e diferenciá-los da hiperplasia bilateral no hiperaldosteronismo primário.",
+      "hashtags": [
+        "medicina_interna",
+        "primário_hiperaldosteronismo",
+        "diagnóstico",
+        "adrenal_image",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é a complicação cardiovascular mais associada ao hiperaldosteronismo primário?",
+      "options": [
+        "Cardiomiopatia dilatada",
+        "Infarto agudo do miocárdio",
+        "Hipertrofia ventricular esquerda",
+        "ruptura aórtica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A hipertrofia ventricular esquerda é a complicação cardiovascular mais comum no hiperaldosteronismo primário, devido aos efeitos diretos da aldosterona no miocárdio e na hipertensão crônica.",
+      "hashtags": [
+        "medicina_interna",
+        "primário_hiperaldosteronismo",
+        "complicações",
+        "hipertrofia_ventricular",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2023"
+      ]
+    },
+    {
+      "question": "Qual distúrbio ácido-básico está tipicamente associado à hipercloremia devido à perda de bicarbonato?",
+      "options": [
+        "Acidose respiratória",
+        "acidose metabólica",
+        "Alcalose respiratória",
+        "alcalose metabólica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A perda de bicarbonato, como na diarreia ou na acidose tubular renal, causa acidose metabólica com hipercloremia compensatória.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "fisiopatologia",
+        "acidose_metabólica",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Na desidratação por perda de bicarbonato, a hipercloremia se deve principalmente a:",
+      "options": [
+        "Hemoconcentração e retenção renal",
+        "Ingestão excessiva de cloreto",
+        "Aumento da secreção de aldosterona",
+        "Diminuição do volume extracelular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A perda de bicarbonato reduz o volume circulante, ativando mecanismos renais que retêm o cloro para manter a eletroneutralidade.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "fisiopatologia",
+        "mecanismo_de compensação",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o ânion de reposição mais comum quando o bicarbonato é perdido na urina?",
+      "options": [
+        "Cloreto",
+        "Fosfato",
+        "Lactato",
+        "Sulfato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Na acidose tubular renal proximal, o bicarbonato não é reabsorvido e o cloreto é reabsorvido em excesso, gerando hipercloremia.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "fisiopatologia",
+        "acidose tubular renal",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual achado laboratorial é característico da acidose metabólica hiperclorêmica?",
+      "options": [
+        "Bicarbonato sérico elevado",
+        "pH arterial alcalino",
+        "Intervalo aniônico alto",
+        "hiato aniônico normal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Na acidose metabólica hiperclorêmica, o hiato aniônico é normal porque a diminuição do bicarbonato é compensada pelo aumento do cloreto.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "diagnóstico",
+        "anion_gap",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a causa mais comum de hipercloremia com perda de bicarbonato em crianças?",
+      "options": [
+        "Insuficiência renal",
+        "diarreia aguda",
+        "Diabetes insípido",
+        "Vômito profuso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A diarreia aguda causa perda de bicarbonato nas fezes, desidratação e acidose metabólica hiperclorêmica, comum em pediatria.",
+      "hashtags": [
+        "pediatria",
+        "hipercloremia",
+        "tabela_clínica",
+        "diarréia_aguda",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual tratamento inicial é indicado na acidose metabólica hiperclorêmica por desidratação?",
+      "options": [
+        "Bicarbonato de sódio intravenoso",
+        "diuréticos de alça",
+        "cloreto de potássio oral",
+        "Solução salina isotônica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A solução salina isotônica corrige a desidratação e permite que o rim excrete o excesso de cloro, normalizando o equilíbrio ácido-base.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "tratamento",
+        "solução salina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual o principal risco associado à rápida correção da acidose metabólica com bicarbonato?",
+      "options": [
+        "Hipernatremia aguda",
+        "Hipocalemia letal",
+        "Hipercalcemia grave",
+        "Hipocalcemia sintomática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A administração rápida de bicarbonato na acidose metabólica pode causar hipocalemia grave devido ao desvio intracelular de potássio, que pode desencadear arritmias cardíacas.",
+      "hashtags": [
+        "medicina_interna",
+        "correção_rápida_acidose_metabólica",
+        "tratamento",
+        "risco_de_bicarbonato",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Na acidose metabólica com hiperlactatemia, qual a principal contraindicação ao bicarbonato intravenoso?",
+      "options": [
+        "Piora da acidose intracelular",
+        "Insuficiência renal aguda",
+        "Hipoxemia refratária",
+        "Hipercalemia iminente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Na acidose láctica, o bicarbonato pode piorar a acidose intracelular ao gerar CO2 que se difunde na célula, agravando o estado ácido-base celular.",
+      "hashtags": [
+        "medicina_interna",
+        "correção_rápida_acidose_metabólica",
+        "contra-indicações",
+        "acidose láctica",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o distúrbio ácido-básico mais comum após a correção rápida da acidose metabólica?",
+      "options": [
+        "Alcalose respiratória",
+        "alcalose metabólica",
+        "Acidose respiratória",
+        "Acidose metabólica mista"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A correção excessiva ou rápida da acidose metabólica leva à alcalose metabólica devido à sobrecarga de bicarbonato e eliminação de ácido.",
+      "hashtags": [
+        "medicina_interna",
+        "correção_rápida_acidose_metabólica",
+        "fisiopatologia",
+        "alcalose metabólica",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Na acidose metabólica grave (pH < 7,1), qual parâmetro limita a taxa de infusão de bicarbonato?",
+      "options": [
+        "Cálcio sérico total",
+        "Potássio sérico",
+        "lactato sérico",
+        "sódio sérico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A infusão rápida de bicarbonato pode causar hipernatremia aguda devido à carga de sódio, exigindo monitoramento e limitando a velocidade de administração.",
+      "hashtags": [
+        "medicina_interna",
+        "correção_rápida_acidose_metabólica",
+        "tratamento",
+        "infusão_monitoramento",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Que efeito adverso neurológico pode desencadear a rápida correção da acidose metabólica crônica?",
+      "options": [
+        "Neuropatia periférica aguda",
+        "Mielinólise pontina central",
+        "Edema cerebral irreversível",
+        "Convulsões devido a hipocalcemia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A rápida correção da acidose metabólica crônica pode causar mielinólise pontina central devido a alterações osmóticas abruptas no sistema nervoso central.",
+      "hashtags": [
+        "medicina_interna",
+        "correção_rápida_acidose_metabólica",
+        "complicações",
+        "pontine_mielinólise",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é a dose inicial recomendada de bicarbonato de sódio na acidose metabólica grave em adultos?",
+      "options": [
+        "1 mEq/kg em 10 min",
+        "0,25 mEq/kg em 1 hora",
+        "0,5 mEq/kg em 30 min",
+        "Bolus de 2 mEq/kg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A dose inicial habitual é de 0,5 mEq/kg administrada durante 30 minutos para evitar complicações osmóticas e eletrolíticas, ajustando de acordo com a gasometria arterial.",
+      "hashtags": [
+        "medicina_interna",
+        "correção_rápida_acidose_metabólica",
+        "posologia",
+        "dose_bicarbonato",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o principal mecanismo pelo qual a acetazolamida reduz o cloreto sérico?",
+      "options": [
+        "Inibe a anidrase carbônica",
+        "Estimula a secreção de aldosterona",
+        "Aumenta a reabsorção de bicarbonato",
+        "Bloqueia o cotransportador NKCC2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A acetazolamida é um inibidor da anidrase carbônica que diminui a reabsorção de bicarbonato no túbulo proximal, resultando em diurese alcalina e remoção de cloro junto com sódio e água, reduzindo assim a cloremia.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "mecanismo_de_ação",
+        "inibição_da_anidrase_carbônica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Em qual segmento do néfron a acetazolamida atua principalmente?",
+      "options": [
+        "Alça ascendente de Henle",
+        "túbulo proximal",
+        "túbulo coletor",
+        "túbulo distal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A acetazolamida atua no túbulo contorcido proximal, onde inibe a anidrase carbônica, reduzindo a reabsorção de bicarbonato e promovendo a excreção de cloro, sódio e água.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "farmacocinética",
+        "tubular_action_site",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que alteração eletrolítica pode acompanhar o uso de acetazolamida para reduzir o cloro?",
+      "options": [
+        "Hipercalcemia",
+        "Hipocalemia",
+        "Hipercalemia",
+        "Hipermagnesemia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A acetazolamida, ao aumentar a excreção de bicarbonato e sódio, produz uma alcalinização da urina que favorece a perda de potássio, o que pode causar hipocalemia, principalmente em tratamentos prolongados.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "efeitos_adversos",
+        "hipocalemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o efeito adverso metabólico esperado com o uso de acetazolamida?",
+      "options": [
+        "Hipernatremia",
+        "alcalose metabólica",
+        "Hipocloremia grave",
+        "acidose metabólica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A acetazolamida, ao inibir a anidrase carbônica, reduz a reabsorção de bicarbonato, o que provoca perda urinária dessa base e pode gerar acidose metabólica hiperclorêmica.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "efeitos_adversos",
+        "acidose_metabólica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Em que tipo de hipercloremia a acetazolamida é indicada como tratamento?",
+      "options": [
+        "Hipercloremia devido à desidratação",
+        "Hipercloremia por intoxicação hídrica",
+        "Hipercloremia devido a insuficiência renal",
+        "Hipercloremia por acidose tubular"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A acetazolamida é utilizada na hipercloremia associada à acidose tubular renal distal ou proximal, pois ao inibir a anidrase carbônica corrige a acidose e promove a excreção de cloro.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "indicações",
+        "acidose_tubular_renal",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual parâmetro urinário é útil para monitorar o efeito da acetazolamida sobre o cloreto?",
+      "options": [
+        "cloro urinário baixo",
+        "pH urinário alcalino",
+        "Cetonúria positiva",
+        "Alta densidade urinária"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A acetazolamida produz uma alcalinização da urina (pH urinário > 7) devido à excreção de bicarbonato, que se correlaciona com a eliminação de cloro e sódio, permitindo monitorar seu efeito diurético.",
+      "hashtags": [
+        "nefrologia",
+        "hipercloremia",
+        "diagnóstico",
+        "urinário_ph",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o principal mecanismo de hipercloremia no diabetes insípido nefrogênico?",
+      "options": [
+        "Excreção excessiva de sódio",
+        "Secreção inadequada de ADH",
+        "Perda de água livre",
+        "Aumento da ingestão de cloro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "No diabetes insipidus nefrogênico, os rins não respondem ao ADH, causando perda de água livre e hemoconcentração, elevando o cloreto sérico.",
+      "hashtags": [
+        "nefrologia",
+        "diabetes_insipidus_nefrogênico",
+        "fisiopatologia",
+        "água_livre_perdida",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual achado laboratorial é típico na hipercloremia devido ao diabetes insipidus nefrogênico?",
+      "options": [
+        "Hipercalcemia hipoosmolar",
+        "Hipernatremia hiperosmolar",
+        "Hiponatremia dilucional",
+        "Hipocloremia hipoosmolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A perda de água livre sem solutos gera hipernatremia e hiperosmolaridade, acompanhada de hipercloremia por hemoconcentração.",
+      "hashtags": [
+        "nefrologia",
+        "diabetes_insipidus_nefrogênico",
+        "diagnóstico",
+        "laboratório",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual teste confirma o diabetes insípido nefrogênico como causa de hipercloremia?",
+      "options": [
+        "Teste de sobrecarga de água",
+        "Dosagem de cortisol urinário",
+        "Teste de desidratação ADH",
+        "Medição de renina plasmática"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O teste de desidratação seguido pela administração de ADH exógeno diferencia o diabetes insípido nefrogênico (não responsivo) do central (responsivo).",
+      "hashtags": [
+        "nefrologia",
+        "diabetes_insipidus_nefrogênico",
+        "diagnóstico",
+        "teste_dehidratação",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual tratamento de primeira linha é utilizado na hipercloremia devido ao diabetes insípido nefrogênico?",
+      "options": [
+        "Furosemida intravenosa",
+        "Solução salina hipertônica",
+        "desmopressina intranasal",
+        "Hidroclorotiazida e dieta pobre em sódio"
+      ],
+      "correctAnswer": 4,
+      "explanation": "As tiazidas, como a hidroclorotiazida, reduzem o volume extracelular e a excreção de água livre, melhorando a hipercloremia e a poliúria.",
+      "hashtags": [
+        "nefrologia",
+        "diabetes_insipidus_nefrogênico",
+        "tratamento",
+        "tiazidas",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Que alteração iônica normalmente acompanha a hipercloremia nesta patologia?",
+      "options": [
+        "hipofosfatemia leve",
+        "Hipermagnesemia moderada",
+        "Hipernatremia grave",
+        "Hipocalcemia grave"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A perda de água livre sem eletrólitos concentra sódio e cloreto, causando hipernatremia grave juntamente com hipercloremia.",
+      "hashtags": [
+        "nefrologia",
+        "diabetes_insipidus_nefrogênico",
+        "tabela_clínica",
+        "hipernatremia",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é a causa mais comum de diabetes insípido nefrogênico adquirido?",
+      "options": [
+        "Hipercalcemia leve",
+        "Lítio crônico",
+        "Traumatismo craniano",
+        "Mutação do receptor V2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O lítio é a causa adquirida mais comum de diabetes insipidus nefrogênico, por interferir na resposta tubular ao ADH, gerando hipercloremia.",
+      "hashtags": [
+        "nefrologia",
+        "diabetes_insipidus_nefrogênico",
+        "etiologia",
+        "lítio",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
       ]
     }
   ]

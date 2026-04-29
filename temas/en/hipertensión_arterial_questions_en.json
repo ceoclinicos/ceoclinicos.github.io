@@ -1,287 +1,1028 @@
 {
   "questions": [
     {
-      "question": "What is the definition of High Blood Pressure (HBP) according to traditional consultation figures?",
+      "question": "According to international guidelines, what is the threshold for considering high blood pressure in the office?",
       "options": [
-        "SBP < 140 mmHg and DBP < 90 mmHg",
-        "SBP ≥ 140 mmHg and/or DBP ≥ 90 mmHg",
-        "SBP ≥ 120 mmHg and DBP < 80 mmHg",
-        "SBP 130-139 mmHg and DBP 80-89 mmHg"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Traditionally, HTN is defined by the persistent elevation of systolic blood pressure (SBP) to 140 mmHg or more and/or diastolic blood pressure (DBP) to 90 mmHg or more, measured in consultation.",
-      "hashtags": [
-        "internal_medicine",
-        "arterial_hypertension_(hta)",
-        "concept",
-        "definition_blood_pressure",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What approximate percentage of HTN cases correspond to essential (primary) HTN?",
-      "options": [
-        "90-95%",
-        "10-20%",
-        "50-60%",
-        "5-10%"
+        "≥140/90 mmHg",
+        "≥130/80 mmHg",
+        "≥120/70 mmHg",
+        "≥150/95 mmHg"
       ],
       "correctAnswer": 1,
-      "explanation": "Essential HTN, whose specific cause is unknown, represents the vast majority of cases of high blood pressure, approximately between 90% and 95%.",
+      "explanation": "Current guidelines define office hypertension as systolic blood pressure ≥140 mmHg or diastolic blood pressure ≥90 mmHg, based on cardiovascular risk studies.",
       "hashtags": [
         "internal_medicine",
-        "arterial_hypertension_(hta)",
-        "etiology",
-        "essential_hta",
-        "PATHOLOGY",
-        ""
+        "arterial_hypertension",
+        "clinical_table",
+        "pa_classification",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023---AHA/ACC Guide 2017"
       ]
     },
     {
-      "question": "Which of the following is NOT an environmental or lifestyle risk factor for essential HTN?",
+      "question": "What blood pressure category corresponds to values ​​between 130-139/85-89 mmHg according to European guidelines?",
       "options": [
-        "High sodium intake",
-        "Obesity",
-        "Family history of HTN",
-        "Low potassium diet"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Family history of HTN is considered a genetic factor, not an environmental or lifestyle factor. The other factors mentioned are known environmental or lifestyle causes.",
-      "hashtags": [
-        "internal_medicine",
-        "arterial_hypertension_(hta)",
-        "etiology",
-        "essential_risk_factors",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which of the following is a common cause of secondary HTN related to kidney disease?",
-      "options": [
-        "Pulmonary Hypertension",
-        "Congestive Heart Failure",
-        "Diabetes Mellitus type 1",
-        "Glomerulonephritis"
+        "Optimal",
+        "Grade 2 hypertension",
+        "Grade 1 hypertension",
+        "Normal high"
       ],
       "correctAnswer": 4,
-      "explanation": "Parenchymal kidney disease, such as glomerulonephritis, is a common cause of secondary arterial hypertension, altering renal pressure regulation function.",
+      "explanation": "European guidelines classify systolic BP 130-139 mmHg or diastolic 85-89 mmHg as 'high normal', indicating high risk and the need for non-pharmacological intervention.",
       "hashtags": [
         "internal_medicine",
-        "arterial_hypertension_(hta)",
-        "etiology",
-        "secondary_renal_hta",
-        "PATHOLOGY",
-        ""
+        "arterial_hypertension",
+        "clinical_table",
+        "categories_pa",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
       ]
     },
     {
-      "question": "What endocrine pathology is characterized by excessive secretion of aldosterone and can cause secondary HTN?",
+      "question": "What is the blood pressure value that defines grade 2 hypertension according to the AHA/ACC 2017 guideline?",
       "options": [
+        "≥160/100 mmHg",
+        "≥140/90 mmHg",
+        "≥150/100 mmHg",
+        "≥130/80 mmHg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The AHA/ACC 2017 guideline classifies grade 2 hypertension as systolic BP ≥160 mmHg or diastolic BP ≥100 mmHg, requiring initiation of combined pharmacological treatment.",
+      "hashtags": [
+        "internal_medicine",
+        "arterial_hypertension",
+        "clinical_table",
+        "classification_aha",
+        "MEDICAL_TOPIC",
+        "AHA/ACC Guide 2017"
+      ]
+    },
+    {
+      "question": "What parameter is used to classify isolated systolic hypertension?",
+      "options": [
+        "Systolic ≥130 and diastolic <80",
+        "Systolic ≥140 and diastolic <90",
+        "Diastolic ≥90 and systolic <140",
+        "Both elevated ≥140/90"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Isolated systolic hypertension is defined by systolic pressure ≥140 mmHg with diastolic pressure <90 mmHg, common in older adults due to arterial stiffness.",
+      "hashtags": [
+        "internal_medicine",
+        "arterial_hypertension",
+        "clinical_table",
+        "isolated_systolic_hypertension",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the blood pressure considered optimal according to most international guidelines?",
+      "options": [
+        "<130/85 mmHg",
+        "<140/90 mmHg",
+        "<120/80 mmHg",
+        "<110/70 mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Optimal BP is defined as <120/80 mmHg, associated with the lowest cardiovascular risk; Higher values ​​progressively increase the risk of events.",
+      "hashtags": [
+        "internal_medicine",
+        "arterial_hypertension",
+        "clinical_table",
+        "optimal_blood_pressure",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023---AHA/ACC Guide 2017"
+      ]
+    },
+    {
+      "question": "What measurement method is recommended to confirm hypertension before starting treatment?",
+      "options": [
+        "Casual measurement in pharmacy",
+        "Nursing record",
+        "Unique self-measurement",
+        "24-hour ambulatory monitoring"
+      ],
+      "correctAnswer": 4,
+      "explanation": "24-hour ambulatory blood pressure monitoring (ABPM) is the reference method to confirm hypertension, avoiding the white coat effect and false diagnoses.",
+      "hashtags": [
+        "internal_medicine",
+        "arterial_hypertension",
+        "diagnosis",
+        "map",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the most common cause of secondary arterial hypertension?",
+      "options": [
+        "Primary hyperaldosteronism",
         "Cushing syndrome",
-        "Pheochromocytoma",
-        "Hyperthyroidism",
-        "Primary Hyperaldosteronism"
+        "Renovascular disease",
+        "Pheochromocytoma"
       ],
-      "correctAnswer": 4,
-      "explanation": "Primary hyperaldosteronism (Conn Syndrome) involves excessive production of aldosterone by the adrenals, leading to sodium retention and secondary HBP.",
+      "correctAnswer": 1,
+      "explanation": "Primary hyperaldosteronism is the most common cause of secondary hypertension, especially in patients with hypokalemia and resistance to antihypertensive treatment.",
       "hashtags": [
         "internal_medicine",
-        "arterial_hypertension_(hta)",
-        "etiology",
-        "endocrine_secondary_hta",
-        "PATHOLOGY",
-        ""
+        "secondary_hypertension",
+        "clinical_table",
+        "primary_hyperaldosteronism",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "Which of these drugs can cause secondary HTN or worsen it?",
+      "question": "What laboratory test is key in screening for primary hyperaldosteronism?",
       "options": [
-        "Paracetamol",
-        "Amoxicillin",
-        "Nonsteroidal Anti-Inflammatories (NSAIDs)",
-        "Omeprazole"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) are known for their potential to raise blood pressure, retaining sodium and water, and affecting kidney function.",
-      "hashtags": [
-        "internal_medicine",
-        "arterial_hypertension_(hta)",
-        "etiology",
-        "drug_induced_hta",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What pathophysiological system contributes to HTN through vasoconstriction and increased cardiac output?",
-      "options": [
-        "Immune System",
-        "Digestive System",
-        "Sympathetic Nervous System (ANS)",
-        "Lymphatic System"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Hyperactivity of the Sympathetic Nervous System (SNS) leads to peripheral vasoconstriction, increased heart rate and contractility, raising blood pressure.",
-      "hashtags": [
-        "internal_medicine",
-        "arterial_hypertension_(hta)",
-        "concept",
-        "sympathetic_nervous_system",
-        "PATHOPHYSIOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the role of angiotensin II in the pathophysiology of HTN?",
-      "options": [
-        "Promotes sodium excretion",
-        "Powerful vasoconstrictor",
-        "Reduces aldosterone release",
-        "Powerful vasodilator"
+        "Urinary free cortisol",
+        "Low plasma renin",
+        "Plasma metanephrines",
+        "Sodium in 24-hour urine"
       ],
       "correctAnswer": 2,
-      "explanation": "Angiotensin II is a potent vasoconstrictor that increases peripheral vascular resistance and stimulates the release of aldosterone, raising blood pressure.",
+      "explanation": "Low plasma renin along with elevated aldosterone suggests primary hyperaldosteronism; The aldosterone/renin ratio is the initial screening test.",
       "hashtags": [
         "internal_medicine",
-        "arterial_hypertension_(hta)",
-        "concept",
-        "renin_angiotensin_system",
-        "PATHOPHYSIOLOGY",
-        ""
+        "primary_hyperaldosteronism",
+        "diagnosis",
+        "aldosterone_renin ratio",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
       ]
     },
     {
-      "question": "What vascular alteration is characterized by a decrease in nitric oxide (NO) and an increase in endothelin-1?",
+      "question": "Which imaging finding suggests renal artery stenosis as a cause of hypertension?",
       "options": [
-        "Normal arterial remodeling",
-        "Physiological vasodilation",
-        "Endothelial dysfunction",
-        "Increased vascular compliance"
+        "Cystic kidney tumor",
+        "Abdominal aortic aneurysm",
+        "Unilateral small kidney",
+        "Adrenal calcification"
       ],
       "correctAnswer": 3,
-      "explanation": "Endothelial dysfunction in HTN manifests itself with lower production of NO (vasodilator) and greater production of endothelin-1 (vasoconstrictor), contributing to the increase in BP.",
+      "explanation": "Renal artery stenosis produces chronic renal hypoperfusion, resulting in atrophy of the affected kidney, visible as a small unilateral kidney on ultrasound or angiography.",
       "hashtags": [
         "internal_medicine",
-        "arterial_hypertension_(hta)",
-        "functional_alterations",
-        "endothelial_dysfunction",
-        "PATHOPHYSIOLOGY",
-        ""
+        "renal_artery_stenosis",
+        "diagnosis",
+        "small_unilateral_kidney",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "How does sodium and water balance affect the pathophysiology of HTN?",
+      "question": "What drug is contraindicated in hypertension due to bilateral renal artery stenosis?",
       "options": [
-        "Decreases peripheral vascular resistance",
-        "Increases potassium excretion",
-        "Causes hypovolemia and hypotension",
-        "Leads to volume retention and increased BP"
+        "Amlodipine",
+        "Metoprolol",
+        "Enalapril",
+        "Hydrochlorothiazide"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ACE inhibitors (such as enalapril) inhibit compensatory efferent vasoconstriction, reducing glomerular filtration and potentially causing acute renal failure in bilateral stenosis.",
+      "hashtags": [
+        "pharmacology",
+        "renovascular_hypertension",
+        "contraindications",
+        "ieca_in_renal_stenosis",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the classic symptom of pheochromocytoma?",
+      "options": [
+        "Episodic headache",
+        "Chronic low back pain",
+        "Orthostatic hypotension",
+        "Nocturnal polyuria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Episodic headache, together with palpitations and diaphoresis, forms the classic triad of pheochromocytoma due to paroxysmal release of catecholamines.",
+      "hashtags": [
+        "internal_medicine",
+        "pheochromocytoma",
+        "clinical_table",
+        "classic_triad",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which imaging study is preferred to locate a pheochromocytoma?",
+      "options": [
+        "Renal angiography",
+        "MRI",
+        "CT scan",
+        "abdominal ultrasound"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Magnetic resonance imaging is the modality of choice due to its high sensitivity for adrenal tumors and absence of radiation, ideal for characterizing pheochromocytomas.",
+      "hashtags": [
+        "internal_medicine",
+        "pheochromocytoma",
+        "diagnosis",
+        "magnetic_resonance",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the mechanism of action of renin-angiotensin system inhibitors as first line in hypertension?",
+      "options": [
+        "Vasopressin activation",
+        "Calcium channel blockade",
+        "Inhibition of angiotensin-converting enzyme",
+        "Stimulation of beta-1 receptors"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Angiotensin-converting enzyme inhibitors (ACE inhibitors) block the conversion of angiotensin I to angiotensin II, reducing vasoconstriction and the release of aldosterone, which lowers blood pressure.",
+      "hashtags": [
+        "cardiology",
+        "arterial_hypertension",
+        "treatment",
+        "ieca_mechanism",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "What class of drug is considered first-line in uncomplicated arterial hypertension in patients over 65 years of age?",
+      "options": [
+        "Thiazide diuretics",
+        "Alpha blockers",
+        "beta blockers",
+        "Direct vasodilators"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Thiazide diuretics are recommended as first line in uncomplicated hypertension, especially in older patients, due to their effectiveness in reducing cardiovascular events and strokes.",
+      "hashtags": [
+        "cardiology",
+        "arterial_hypertension",
+        "treatment",
+        "thiazides_indication",
+        "MEDICAL_TOPIC",
+        "JNC 8"
+      ]
+    },
+    {
+      "question": "What adverse effect is characteristic of dihydropyridine calcium channel blockers in the treatment of hypertension?",
+      "options": [
+        "Severe bradycardia",
+        "Hacking cough",
+        "Hyperkalemia",
+        "malleolar edema"
       ],
       "correctAnswer": 4,
-      "explanation": "Excessive sodium consumption and decreased renal excretion lead to volume retention, increased cardiac output, and, in the long term, increased peripheral vascular resistance.",
+      "explanation": "Malleolar edema is a common adverse effect of dihydropyridine calcium channel blockers (such as amlodipine), due to selective arteriolar vasodilation that increases capillary hydrostatic pressure.",
       "hashtags": [
-        "internal_medicine",
-        "arterial_hypertension_(hta)",
-        "concept",
-        "water_sodium_balance",
-        "PATHOPHYSIOLOGY",
-        ""
+        "cardiology",
+        "arterial_hypertension",
+        "adverse_effects",
+        "malleolar_edema",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "What type of arterial remodeling occurs in the long term in HTN?",
+      "question": "What is the recommended first-line antihypertensive combination to enhance the synergistic effect?",
       "options": [
-        "Concentric reshaping",
-        "Generalized arterial dilation",
-        "Thickening of the adventitia",
-        "Increased arterial lumen"
+        "ACEI plus thiazide diuretic",
+        "ACEI plus beta blocker",
+        "Beta blocker plus alpha blocker",
+        "Calcium antagonist plus alpha blocker"
       ],
       "correctAnswer": 1,
-      "explanation": "Elevated BP induces concentric remodeling of the arterial walls, increasing thickness and decreasing compliance, which perpetuates HBP.",
+      "explanation": "The combination of ACEI with a thiazide diuretic is synergistic because the diuretic activates the renin-angiotensin system, which is blocked by the ACEI, enhancing the reduction of blood pressure and minimizing adverse effects.",
       "hashtags": [
-        "internal_medicine",
-        "arterial_hypertension_(hta)",
-        "concept",
-        "vascular_remodeling",
-        "PATHOPHYSIOLOGY",
-        ""
+        "cardiology",
+        "arterial_hypertension",
+        "treatment",
+        "synergistic_combination",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
       ]
     },
     {
-      "question": "Secondary HTN represents what approximate percentage of total cases?",
+      "question": "In which patient with hypertension is the use of beta-blockers contraindicated as first line?",
       "options": [
-        "5-10%",
-        "50-60%",
-        "20-30%",
-        "70-80%"
+        "With bronchial asthma",
+        "With ventricular hypertrophy",
+        "With type 2 diabetes",
+        "With heart failure"
       ],
       "correctAnswer": 1,
-      "explanation": "Secondary HTN, caused by an identifiable underlying medical condition, represents a minority of cases, approximately 5% to 10%.",
+      "explanation": "Beta blockers are contraindicated in patients with bronchial asthma because they block beta-2 receptors, causing bronchoconstriction and worsening asthma control.",
+      "hashtags": [
+        "cardiology",
+        "arterial_hypertension",
+        "contraindications",
+        "beta blockers_asthma",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What laboratory parameter should be monitored when starting an ACEI in a hypertensive patient?",
+      "options": [
+        "LDL cholesterol",
+        "Glycosylated hemoglobin",
+        "prothrombin time",
+        "Serum creatinine and potassium"
+      ],
+      "correctAnswer": 4,
+      "explanation": "ACEIs can reduce glomerular filtration rate and increase serum potassium, so creatinine and potassium should be monitored to detect renal impairment or hyperkalemia.",
+      "hashtags": [
+        "cardiology",
+        "arterial_hypertension",
+        "treatment",
+        "ieca_monitoring",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the definition of hypertensive crisis?",
+      "options": [
+        "SBP ≥ 200 or DBP ≥ 130 mmHg",
+        "SBP ≥ 160 or DBP ≥ 100 mmHg",
+        "SBP ≥ 140 or DBP ≥ 90 mmHg",
+        "SBP ≥ 180 or DBP ≥ 120 mmHg"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Hypertensive crisis is defined as a severe elevation in blood pressure, with SBP ≥ 180 mmHg or DBP ≥ 120 mmHg, requiring urgent evaluation and management.",
       "hashtags": [
         "internal_medicine",
-        "arterial_hypertension_(hta)",
-        "etiology",
-        "secondary_hta_prevalence",
-        "PATHOLOGY",
+        "hypertensive_crisis",
+        "concept",
+        "definition",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023---JNC 8"
+      ]
+    },
+    {
+      "question": "What is the main difference between emergency and hypertensive urgency?",
+      "options": [
+        "Response to antihypertensives",
+        "Acute target organ damage",
+        "Patient age",
+        "blood pressure level"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hypertensive emergency is characterized by acute and progressive target organ damage, while in hypertensive emergency there is no evidence of such damage, this being the key difference.",
+      "hashtags": [
+        "internal_medicine",
+        "hypertensive_emergency",
+        "concept",
+        "differentiation",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What organ is most frequently affected in hypertensive emergency?",
+      "options": [
+        "Brain",
+        "Heart",
+        "Lung",
+        "Kidney"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The brain is the organ most frequently affected in hypertensive emergency, manifesting as hypertensive encephalopathy, stroke or intracranial hemorrhage.",
+      "hashtags": [
+        "internal_medicine",
+        "hypertensive_emergency",
+        "clinical_table",
+        "target_organ",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Which system regulates blood pressure through vasoconstriction and sodium reabsorption?",
+      "question": "What is the intravenous antihypertensive drug of choice in hypertensive emergency?",
       "options": [
-        "Pancreatic Endocrine System",
-        "Central Nervous System",
-        "Renin-Angiotensin-Aldosterone System (RAAS)",
-        "Lymphatic System"
+        "sodium nitroprusside",
+        "Labetalol",
+        "Enalaprilat",
+        "Furosemide"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Labetalol is one of the most used intravenous antihypertensives in hypertensive emergencies due to its rapid onset of action and safety profile, although nitroprusside is also used in selected cases.",
+      "hashtags": [
+        "pharmacology",
+        "hypertensive_emergency",
+        "treatment",
+        "antihypertensive_iv",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the most feared complication of hypertensive encephalopathy?",
+      "options": [
+        "Cerebral infarction",
+        "Brain edema",
+        "Brain herniation",
+        "intracranial hemorrhage"
       ],
       "correctAnswer": 3,
-      "explanation": "The Renin-Angiotensin-Aldosterone System (RAAS) is crucial in the regulation of blood pressure, promoting vasoconstriction (Angiotensin II) and sodium reabsorption (Aldosterone).",
+      "explanation": "Brain herniation is the most feared complication of hypertensive encephalopathy, as it can lead to death due to compression of the brainstem, requiring immediate reduction in blood pressure.",
       "hashtags": [
         "internal_medicine",
-        "arterial_hypertension_(hta)",
-        "concept",
-        "sraa_regulation",
-        "PATHOPHYSIOLOGY",
+        "hypertensive_encephalopathy",
+        "complications",
+        "brain_herniation",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which funduscopic finding is characteristic of hypertensive emergency?",
+      "options": [
+        "Bilateral papilledema",
+        "Flame hemorrhages",
+        "Cottony exudates",
+        "arteriolar narrowing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bilateral papilledema is a classic finding of hypertensive emergency, indicating optic disc edema due to severe hypertension, associated with hypertensive encephalopathy.",
+      "hashtags": [
+        "internal_medicine",
+        "hypertensive_emergency",
+        "diagnosis",
+        "fund_of_eye",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is a cardiovascular cause of secondary HTN?",
+      "question": "Which of the following is a classic target organ in high blood pressure?",
       "options": [
-        "Coarctation of aorta",
-        "Pheochromocytoma",
-        "Glomerulonephritis",
+        "Lung",
+        "Spleen",
+        "Pancreas",
+        "Kidney"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The kidney is one of the target organs most affected by high blood pressure, along with the heart, brain and retina. Kidney damage can manifest as microalbuminuria or chronic kidney failure.",
+      "hashtags": [
+        "internal_medicine",
+        "arterial_hypertension",
+        "clinical_table",
+        "white_organ",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "Which finding suggests heart damage from high blood pressure?",
+      "options": [
+        "Left ventricular hypertrophy",
+        "Pericardial effusion",
+        "aortic stenosis",
+        "atrioventricular block"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Left ventricular hypertrophy is an adaptation to the chronic increase in afterload in arterial hypertension. It is a marker of heart damage and is associated with increased cardiovascular risk.",
+      "hashtags": [
+        "cardiology",
+        "arterial_hypertension",
+        "pathophysiology",
+        "ventricular_hypertrophy",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the initial marker of kidney damage in high blood pressure?",
+      "options": [
+        "Microalbuminuria",
+        "Frank hematuria",
+        "granular cylinders",
+        "massive proteinuria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Microalbuminuria is the first sign of kidney damage in high blood pressure, indicating alteration of the glomerular filtration barrier. It is an independent prognostic factor for progression to nephropathy.",
+      "hashtags": [
+        "nephrology",
+        "arterial_hypertension",
+        "diagnosis",
+        "microalbuminuria",
+        "MEDICAL_TOPIC",
+        "KDIGO 2023"
+      ]
+    },
+    {
+      "question": "What retinal alteration is characteristic of damage due to high blood pressure?",
+      "options": [
+        "Cottony exudates",
+        "Retinal detachment",
+        "macular edema",
+        "Pathological arteriovenous crossings"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Pathological arteriovenous crossings (Gunn's sign) are a classic finding in chronic hypertensive retinopathy, reflecting thickening of the arteriolar wall and venular compression.",
+      "hashtags": [
+        "ophthalmology",
+        "arterial_hypertension",
+        "clinical_table",
+        "hypertensive_retinopathy",
+        "MEDICAL_TOPIC",
+        "AAO 2022"
+      ]
+    },
+    {
+      "question": "What neurological complication is associated with hypertensive crisis?",
+      "options": [
+        "Hypertensive encephalopathy",
+        "Trigeminal neuralgia",
+        "Migraine with aura",
+        "Transient ischemic attack"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hypertensive encephalopathy is an acute neurological complication due to severe elevation of blood pressure, which produces cerebral edema and reversible neurological dysfunction if treated promptly.",
+      "hashtags": [
+        "neurology",
+        "arterial_hypertension",
+        "complications",
+        "hypertensive_encephalopathy",
+        "MEDICAL_TOPIC",
+        "AHA Guide 2022"
+      ]
+    },
+    {
+      "question": "What is the first step in the management of target organ damage due to hypertension?",
+      "options": [
+        "Strict blood pressure control",
+        "Revascularization surgery",
+        "Urgent dialysis",
+        "kidney transplant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Strict control of blood pressure is the fundamental measure to prevent and slow the progression of damage to target organs. Antihypertensive treatment reduces cardiovascular and renal morbidity and mortality.",
+      "hashtags": [
+        "internal_medicine",
+        "arterial_hypertension",
+        "treatment",
+        "blood_pressure_control",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023---JNC 8"
+      ]
+    },
+    {
+      "question": "What is the main criterion for diagnosing resistant hypertension?",
+      "options": [
+        "High blood pressure with monotherapy",
+        "High blood pressure only at night",
+        "Uncontrolled pressure with three drugs",
+        "Normal pressure with strict diet"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Resistant hypertension is defined as uncontrolled blood pressure despite the use of three antihypertensive drugs from different classes, including a diuretic, all at optimal doses.",
+      "hashtags": [
+        "internal_medicine",
+        "resistant_hypertension",
+        "concept",
+        "definition",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which drug is considered essential in the treatment of resistant hypertension?",
+      "options": [
+        "a beta blocker",
+        "A calcium antagonist",
+        "A thiazide diuretic",
+        "An ACEI"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In resistant hypertension, a thiazide diuretic (such as chlorthalidone) is essential as part of the three-drug regimen, as sodium retention is a key mechanism.",
+      "hashtags": [
+        "pharmacology",
+        "resistant_hypertension",
+        "treatment",
+        "thiazide_diuretic",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is a common cause of refractory hypertension?",
+      "options": [
+        "Strict low sodium diet",
+        "Use of potassium supplements",
+        "Regular aerobic exercise",
         "Primary hyperaldosteronism"
       ],
-      "correctAnswer": 1,
-      "explanation": "Coarctation of the aorta, a congenital narrowing of the aorta, is a cardiovascular cause that can cause secondary arterial hypertension.",
+      "correctAnswer": 4,
+      "explanation": "Primary hyperaldosteronism is a common secondary cause of refractory hypertension, as it produces sodium retention and volume expansion, making pressure control difficult.",
       "hashtags": [
         "internal_medicine",
-        "arterial_hypertension_(hta)",
+        "refractory_hypertension",
         "etiology",
-        "secondary_cardiovascular_hta",
-        "PATHOLOGY",
+        "hyperaldosteronism",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What type of drug is Losartan?",
+      "question": "What test is recommended to rule out white coat hypertension in patients with suspected resistance?",
       "options": [
-        "ACEI",
-        "ARA-II",
-        "Beta blocker",
-        "Thiazide diuretic"
+        "Transthoracic echocardiogram",
+        "resting electrocardiogram",
+        "Chest x-ray",
+        "24-hour ambulatory monitoring"
       ],
-      "correctAnswer": 2,
-      "explanation": "Losartan is a drug belonging to the class of Angiotensin II Receptor Antagonists (ARA-II), used to treat high blood pressure.",
+      "correctAnswer": 4,
+      "explanation": "24-hour ambulatory blood pressure monitoring (ABPM) is the standard test to identify white coat phenomenon, which can mimic resistant hypertension.",
       "hashtags": [
         "internal_medicine",
-        "arterial_hypertension_(hta)",
+        "resistant_hypertension",
+        "diagnosis",
+        "map",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "When is a patient considered to have refractory hypertension?",
+      "options": [
+        "Failure of at least four drugs",
+        "Controlled pressure with two drugs",
+        "Elevated pressure due to acute stress",
+        "Partial response to a single drug"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Refractory hypertension is defined as blood pressure that is not controlled despite the use of at least four antihypertensive drugs, including a diuretic, or that does not reach target with maximally tolerated therapy.",
+      "hashtags": [
+        "internal_medicine",
+        "refractory_hypertension",
         "concept",
-        "ara_ii_losartan",
-        "PHARMACOLOGY",
+        "definition",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What non-pharmacological intervention is a priority in resistant hypertension?",
+      "options": [
+        "Reducing sodium consumption",
+        "Moderate alcohol consumption",
+        "Increased calcium intake",
+        "Magnesium supplementation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reducing dietary sodium is the most important non-pharmacological intervention in resistant hypertension, since sodium retention contributes significantly to the lack of response to treatment.",
+      "hashtags": [
+        "internal_medicine",
+        "resistant_hypertension",
+        "treatment",
+        "low_sodium_diet",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What 24-hour average blood pressure value defines hypertension in ABPM?",
+      "options": [
+        "≥ 120/75 mmHg",
+        "≥ 135/85 mmHg",
+        "≥ 130/80 mmHg",
+        "≥ 140/90 mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ambulatory blood pressure monitoring (ABPM) considers hypertension when the 24-hour average is ≥ 130/80 mmHg, according to international guidelines.",
+      "hashtags": [
+        "internal_medicine",
+        "arterial_hypertension",
+        "diagnosis",
+        "ambulatory_monitoring",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the main advantage of ABPM compared to clinical measurement?",
+      "options": [
+        "Requires less time",
+        "Eliminates the white coat effect",
+        "Lower economic cost",
+        "No calibration needed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ABPM allows you to identify white coat hypertension and masked hypertension by recording the pressure under the patient's usual conditions.",
+      "hashtags": [
+        "internal_medicine",
+        "arterial_hypertension",
+        "concept",
+        "advantages_map",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which ABPM parameter is associated with greater cardiovascular risk?",
+      "options": [
+        "Morning pulse pressure",
+        "Daytime systolic pressure",
+        "Night pressure drop",
+        "Night diastolic pressure"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The absence or insufficient reduction of the nocturnal pressure drop (non-dipper) is associated with an increased risk of cardiovascular events and damage to target organs.",
+      "hashtags": [
+        "internal_medicine",
+        "arterial_hypertension",
+        "pathophysiology",
+        "circadian_pattern",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "How many valid measurements are required for a reliable MAP?",
+      "options": [
+        "At least 7 daytime and 3 nighttime",
+        "At least 14 daytime and 7 nighttime",
+        "At least 10 during the day and 5 at night",
+        "At least 20 daytime and 10 nighttime"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The guidelines recommend a minimum of 14 daytime and 7 nighttime measurements to ensure representativeness and avoid bias due to activity or sleep.",
+      "hashtags": [
+        "internal_medicine",
+        "arterial_hypertension",
+        "diagnosis",
+        "record_quality",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "Which ABPM pattern suggests masked hypertension?",
+      "options": [
+        "Elevated clinical BP and normal ABPM",
+        "Clinic BP and ABPM both normal",
+        "Normal clinical BP and elevated ABPM",
+        "Clinic BP and ABPM both elevated"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Masked hypertension is characterized by normal office blood pressure but elevated ABPM, which increases hidden cardiovascular risk.",
+      "hashtags": [
+        "internal_medicine",
+        "arterial_hypertension",
+        "clinical_table",
+        "masked_hypertension",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the main indication for performing a MAP?",
+      "options": [
+        "Exercise response evaluation",
+        "Patient with normal blood pressure",
+        "Monitoring of orthostatic hypotension",
+        "Suspected white coat hypertension"
+      ],
+      "correctAnswer": 4,
+      "explanation": "ABPM is especially indicated when white coat hypertension is suspected to confirm the diagnosis and avoid unnecessary treatments.",
+      "hashtags": [
+        "internal_medicine",
+        "arterial_hypertension",
+        "indications",
+        "white_coat",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the definition of preeclampsia according to current criteria?",
+      "options": [
+        "Blood pressure ≥150/90 mmHg with headache",
+        "Blood pressure ≥140/90 mmHg with proteinuria",
+        "Blood pressure ≥160/100 mmHg with edema",
+        "Blood pressure ≥130/80 mmHg without proteinuria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Preeclampsia is defined as blood pressure ≥140/90 mmHg on two occasions separated by at least 4 hours, accompanied by significant proteinuria (≥300 mg in 24 hours) after 20 weeks of gestation.",
+      "hashtags": [
+        "internal_medicine",
+        "hypertension_pregnancy",
+        "clinical_table",
+        "definition_preeclampsia",
+        "MEDICAL_TOPIC",
+        "ACOG 2023"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for hypertensive crisis in pregnancy?",
+      "options": [
+        "Intravenous metoprolol",
+        "Intravenous enalapril",
+        "oral amlodipine",
+        "Intravenous labetalol"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Intravenous labetalol is the drug of choice for the management of hypertensive crisis in pregnancy, due to its effectiveness and fetal safety profile. ACE inhibitors such as enalapril are contraindicated due to the risk of oligohydramnios and fetal kidney damage.",
+      "hashtags": [
+        "internal_medicine",
+        "hypertension_pregnancy",
+        "treatment",
+        "hypertensive_crisis",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "Which clinical finding suggests severe preeclampsia?",
+      "options": [
+        "Thrombocytopenia less than 100,000",
+        "Blood pressure 155/95 mmHg",
+        "Mild edema in lower limbs",
+        "Proteinuria of 500 mg in 24 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Thrombocytopenia (platelets <100,000/μL) is a criterion of severity in preeclampsia, indicating hematological involvement. Other criteria include blood pressure ≥160/110 mmHg, proteinuria >5 g/24h, and target organ symptoms.",
+      "hashtags": [
+        "internal_medicine",
+        "hypertension_pregnancy",
+        "clinical_table",
+        "preeclampsia_severity",
+        "MEDICAL_TOPIC",
+        "ACOG 2023"
+      ]
+    },
+    {
+      "question": "What is the central pathophysiological mechanism of preeclampsia?",
+      "options": [
+        "Primary hyperaldosteronism",
+        "Gestational thyroid dysfunction",
+        "Abnormal placentation with ischemia",
+        "Increased maternal cardiac output"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Preeclampsia is caused by abnormal placentation, with failure to remodel the uterine spiral arteries, resulting in placental ischemia and release of antiangiogenic factors that cause systemic endothelial dysfunction and hypertension.",
+      "hashtags": [
+        "internal_medicine",
+        "hypertension_pregnancy",
+        "pathophysiology",
+        "abnormal_placentation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most feared complication of untreated preeclampsia?",
+      "options": [
+        "mild preterm birth",
+        "Gestational diabetes",
+        "Eclampsia with seizures",
+        "Severe iron deficiency anemia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Eclampsia, characterized by generalized tonic-clonic seizures, is the most serious complication of untreated preeclampsia, with risk of maternal and fetal death. It occurs due to hypertensive encephalopathy and cerebral edema secondary to endothelial dysfunction.",
+      "hashtags": [
+        "internal_medicine",
+        "hypertension_pregnancy",
+        "complications",
+        "eclampsia",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the definitive management of preeclampsia with severity criteria?",
+      "options": [
+        "Labetalol dose increase",
+        "Administration of oral diuretics",
+        "Induction of labor or cesarean section",
+        "Absolute rest at home"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The definitive management of severe preeclampsia is termination of pregnancy, by induction of labor or cesarean section, since the placenta is the source of endothelial damage. Rest and antihypertensive medications are temporary measures until the pregnancy is resolved.",
+      "hashtags": [
+        "internal_medicine",
+        "hypertension_pregnancy",
+        "treatment",
+        "pregnancy_termination",
+        "MEDICAL_TOPIC",
+        "ACOG 2023"
+      ]
+    },
+    {
+      "question": "Which of the following cardiovascular risk factors is considered modifiable?",
+      "options": [
+        "Male sex",
+        "High blood pressure",
+        "Old age",
+        "Family history"
+      ],
+      "correctAnswer": 2,
+      "explanation": "High blood pressure is a cardiovascular risk factor that can be modified through lifestyle changes and pharmacological treatment, unlike age, sex, and family history, which are non-modifiable.",
+      "hashtags": [
+        "internal_medicine",
+        "cardiovascular_risk_factors",
+        "epidemiology",
+        "modifiable_factors",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What parameter is used to define metabolic syndrome as a cardiovascular risk factor?",
+      "options": [
+        "elevated triglycerides",
+        "C-reactive protein",
+        "Glycosylated hemoglobin",
+        "High total cholesterol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Metabolic syndrome includes elevated triglycerides (≥150 mg/dL) as one of its diagnostic criteria, along with abdominal obesity, impaired glucose, low HDL, and elevated blood pressure.",
+      "hashtags": [
+        "internal_medicine",
+        "metabolic_syndrome",
+        "diagnosis",
+        "diagnostic_criteria",
+        "MEDICAL_TOPIC",
+        "ATP III 2001"
+      ]
+    },
+    {
+      "question": "What is the main mechanism by which obesity increases cardiovascular risk?",
+      "options": [
+        "insulin resistance",
+        "Isolated hypercholesterolemia",
+        "Decreased fibrinolysis",
+        "Increased cardiac output"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Obesity induces insulin resistance, which generates hyperinsulinemia, dyslipidemia, chronic inflammation and endothelial dysfunction, all mechanisms that increase cardiovascular risk.",
+      "hashtags": [
+        "internal_medicine",
+        "obesity",
+        "pathophysiology",
+        "insulin_resistance",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What level of LDL cholesterol is considered high cardiovascular risk according to the guidelines?",
+      "options": [
+        "Greater than 190 mg/dL",
+        "Greater than 160 mg/dL",
+        "Greater than 130 mg/dL",
+        "Greater than 100 mg/dL"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Current guidelines consider LDL >100 mg/dL as a high risk factor, especially in patients with established cardiovascular disease or diabetes, requiring intensive management.",
+      "hashtags": [
+        "internal_medicine",
+        "dyslipidemia",
+        "treatment",
+        "ldl_cholesterol",
+        "MEDICAL_TOPIC",
+        "ACC/AHA Guide 2018"
+      ]
+    },
+    {
+      "question": "Which of the following cardiovascular risk factors is most prevalent in the general population?",
+      "options": [
+        "Diabetes mellitus type 2",
+        "Active smoking",
+        "Morbid obesity",
+        "High blood pressure"
+      ],
+      "correctAnswer": 4,
+      "explanation": "High blood pressure is the most prevalent cardiovascular risk factor worldwide, affecting approximately 30-45% of the adult population, surpassing diabetes, smoking and obesity in frequency.",
+      "hashtags": [
+        "internal_medicine",
+        "arterial_hypertension",
+        "epidemiology",
+        "prevalence",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What effect does smoking have on the cardiovascular system that increases risk?",
+      "options": [
+        "Reduced heart rate",
+        "Peripheral vasodilation",
+        "Endothelial dysfunction",
+        "Increased HDL cholesterol"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Smoking causes endothelial dysfunction due to oxidative stress and direct damage to the vascular endothelium, promoting inflammation, vasoconstriction and the formation of atherosclerotic plaques.",
+      "hashtags": [
+        "internal_medicine",
+        "smoking",
+        "pathophysiology",
+        "endothelial_dysfunction",
+        "MEDICAL_TOPIC",
         ""
       ]
     }
