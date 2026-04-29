@@ -1371,6 +1371,37 @@
         "#cirugia_cardiaca"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "amebiasis",
+      "titulo": "Amebiasis",
+      "descripcion": "Infección intestinal causada por el parásito Entamoeba histolytica, que puede provocar desde diarrea leve hasta disentería grave y abscesos hepáticos.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#parasitologia",
+        "#gastroenterologia",
+        "#enfermedades_infecciosas",
+        "#medicina_tropical"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "carbohidratos",
+      "titulo": "Carbohidratos",
+      "descripcion": "Estudio del metabolismo, clasificación y relevancia clínica de los carbohidratos en el organismo humano.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#bioquimica",
+        "#nutricion",
+        "#metabolismo",
+        "#endocrinologia",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
     }
   ]
 }
