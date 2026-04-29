@@ -1,169 +1,492 @@
 {
   "questions": [
     {
-      "question": "Qual é a concentração sérica de cloreto que geralmente define hipocloremia?",
+      "question": "Qual é o principal motivo da hipocloremia em vômitos intensos ou aspiração nasogástrica prolongada?",
       "options": [
-        "Exatamente 100 mEq/L",
-        "Acima de 100 mEq/L",
-        "Entre 100 e 106 mEq/L",
-        "Abaixo de 98-100 mEq/L"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A hipocloremia é definida como uma concentração sérica de cloreto abaixo dos limites normais estabelecidos, sendo comumente aceito um valor abaixo de 98-100 mEq/L (ou mmol/L).",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "definição",
-        "concentração_de cloreto",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o papel principal do cloreto no corpo?",
-      "options": [
-        "Sinalização nervosa",
-        "transporte de oxigênio",
-        "contração muscular",
-        "Manutenção do equilíbrio hídrico e ácido-base"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O cloreto é o ânion extracelular predominante e é crucial para manter o equilíbrio hídrico, eletrolítico e ácido-base do corpo.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "fisiologia",
-        "equilíbrio eletrolítico",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a principal relação da hipocloremia com o sódio sérico?",
-      "options": [
-        "O sódio sempre aumenta com a hipocloremia",
-        "Suas variações geralmente refletem alterações no sódio",
-        "Suas variações são opostas",
-        "Eles são independentes"
+        "Perda renal excessiva de cloreto.",
+        "Perda gástrica de ácido clorídrico.",
+        "Diminuição da ingestão de sal.",
+        "Aumento da excreção cutânea de íons."
       ],
       "correctAnswer": 2,
-      "explanation": "A concentração de cloreto está intimamente ligada à de sódio e suas variações geralmente refletem alterações no volume e na tonicidade do líquido extracelular.",
+      "explanation": "A perda direta de ácido clorídrico do estômago, seja por vômito ou por sucção nasogástrica, remove grandes quantidades de íons cloreto do corpo, o que leva diretamente à hipocloremia, um componente-chave da alcalose metabólica.",
       "hashtags": [
         "medicina_interna",
-        "hipocloremia",
-        "fisiologia",
-        "proporção_de_cloreto de sódio",
+        "vômito_nasogástrico_sucção",
+        "fisiopatologia",
+        "perda_de_cloro gástrico",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Em que ambiente clínico a hipocloremia é particularmente prevalente?",
+      "question": "A alteração mais comum do equilíbrio ácido-base em pacientes com vômitos intensos é:",
       "options": [
-        "Unidades de terapia intensiva (UTI)",
-        "Cuidados primários",
-        "Clínicas dentárias",
-        "Ginásios"
+        "Alcalose metabólica hipoclorêmica.",
+        "Alcalose respiratória primária.",
+        "Acidose metabólica com hiato aniônico elevado.",
+        "Acidose respiratória compensada."
       ],
       "correctAnswer": 1,
-      "explanation": "A hipocloremia é mais frequentemente observada em ambientes clínicos específicos, como unidades de terapia intensiva (UTI), devido às condições médicas subjacentes e aos tratamentos comuns nesses pacientes.",
+      "explanation": "Vômitos intensos ou aspiração nasogástrica resultam em perda de íons hidrogênio e cloreto, o que eleva o bicarbonato sérico e causa alcalose metabólica. A hipocloremia é uma marca registrada desta condição devido à perda direta de HCl.",
       "hashtags": [
         "medicina_interna",
-        "hipocloremia",
-        "epidemiologia",
-        "UTI",
+        "vômito_nasogástrico_sucção",
+        "alterações_eletrolíticas",
+        "alcalose metabólica",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual grupo de medicamentos é uma causa comum de hipocloremia iatrogênica?",
+      "question": "Qual mecanismo renal contribui para a manutenção da alcalose metabólica na hipovolemia por vômito?",
       "options": [
-        "Diuréticos de alça e tiazídicos",
-        "Antibióticos beta-lactâmicos",
-        "Estatinas",
-        "Inibidores da bomba de prótons"
+        "Diminuição da reabsorção de sódio.",
+        "Aumento da síntese de amônio.",
+        "Retenção de bicarbonato e excreção de potássio.",
+        "Aumento da excreção de bicarbonato."
       ],
-      "correctAnswer": 1,
-      "explanation": "O uso de diuréticos, tanto diuréticos de alça (furosemida, bumetanida) quanto diuréticos tiazídicos (hidroclorotiazida), é uma das causas mais comuns de hipocloremia iatrogênica.",
+      "correctAnswer": 3,
+      "explanation": "Em resposta à depleção de volume e à hipocloremia, o rim aumenta a reabsorção de bicarbonato para manter o equilíbrio ácido-base, enquanto excreta potássio na tentativa de conservar sódio, perpetuando assim a alcalose.",
       "hashtags": [
-        "farmacologia",
-        "hipocloremia",
-        "etiologia",
-        "diuréticos",
+        "nefrologia",
+        "alcalose metabólica",
+        "fisiopatologia",
+        "retenção_de_bicarbonato",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "O vômito crônico ou intratável é uma causa comum de hipocloremia devido à perda de que substância?",
+      "question": "O tratamento inicial de escolha para hipocloremia e alcalose metabólica em paciente com aspiração nasogástrica é:",
       "options": [
-        "Ácido clorídrico",
-        "Potássio",
-        "água grátis",
-        "bicarbonato de sódio"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O conteúdo gástrico é rico em ácido clorídrico (HCl). A perda direta de HCl através de vômito crônico ou sucção nasogástrica leva a uma perda líquida de cloreto.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "etiologia",
-        "perdas_gastrointestinais",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual síndrome renal genética é caracterizada por hipocloremia, hipocalemia e alcalose metabólica?",
-      "options": [
-        "Síndrome de Fanconi",
-        "Síndrome nefrótica",
-        "Síndrome de Alport",
-        "Síndrome de Bartter"
+        "Administração de bicarbonato de sódio.",
+        "Furosemida intravenosa.",
+        "Suplementos orais de potássio.",
+        "Solução salina normal intravenosa."
       ],
       "correctAnswer": 4,
-      "explanation": "A síndrome de Bartter é um grupo de doenças genéticas que afetam a alça de Henle, resultando em hipocloremia, hipocalemia e alcalose metabólica.",
+      "explanation": "A administração de solução salina normal intravenosa (NaCl 0,9%) é o tratamento inicial de escolha. Repõe volume, sódio e cloreto, permitindo a correção da hipocloremia e a excreção renal do excesso de bicarbonato, uma vez restaurado o volume circulante.",
+      "hashtags": [
+        "medicina_interna",
+        "vômito_nasogástrico_sucção",
+        "tratamento",
+        "cloro_reposição",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual dos seguintes eletrólitos geralmente está diminuído em pacientes com vômitos intensos juntamente com hipocloremia?",
+      "options": [
+        "Fosfato plasmático.",
+        "Cálcio ionizado.",
+        "Potássio sérico.",
+        "Magnésio total."
+      ],
+      "correctAnswer": 3,
+      "explanation": "A hipocalemia é uma complicação muito comum em pacientes com vômitos intensos ou aspiração nasogástrica, devido à perda direta de potássio pela via gástrica e ao aumento da sua excreção renal no contexto de alcalose metabólica e hiperaldosteronismo secundário à hipovolemia.",
+      "hashtags": [
+        "medicina_interna",
+        "vômito_nasogástrico_sucção",
+        "alterações_eletrolíticas",
+        "hipocalemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Um sinal neurológico grave de alcalose metabólica, especialmente se houver hipocalcemia associada, é:",
+      "options": [
+        "Bradicardia sinusal.",
+        "Sonolência profunda.",
+        "Cãibras musculares e tetania.",
+        "Hiperventilação compensatória."
+      ],
+      "correctAnswer": 3,
+      "explanation": "A alcalose metabólica grave, ao aumentar a ligação do cálcio às proteínas, reduz o cálcio ionizado, aumentando a excitabilidade neuromuscular. Isto pode manifestar-se como cãibras musculares, parestesias e, em casos mais graves, tetania ou convulsões.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalose metabólica",
+        "tabela_clínica",
+        "tetania_convulsões",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o principal mecanismo pelo qual os diuréticos de alça contribuem para o desenvolvimento da hipocloremia?",
+      "options": [
+        "Aumento da excreção direta de cloro.",
+        "Aumento da reabsorção distal de cloro.",
+        "Estimulação direta da aldosterona renal.",
+        "Inibição do cotransportador Na-K-2Cl."
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os diuréticos de alça atuam inibindo o cotransportador sódio-potássio-dois-cloro (NKCC2) no ramo ascendente espesso da alça de Henle, reduzindo significativamente a reabsorção de cloreto e sódio, levando ao aumento de sua excreção e, consequentemente, à hipocloremia.",
       "hashtags": [
         "nefrologia",
         "hipocloremia",
-        "etiologia",
-        "síndrome_bartter",
+        "fisiopatologia",
+        "diuréticos_asa",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual das seguintes situações pode causar hipocloremia dilucional?",
+      "question": "Além da hipocloremia, qual é o distúrbio eletrolítico mais comumente associado ao uso crônico de diuréticos tiazídicos?",
       "options": [
-        "Ingestão excessiva de água livre",
-        "Alta ingestão de sódio",
-        "perda de sangue",
-        "Desidratação grave"
+        "Hipercalemia.",
+        "Hipomagnesemia.",
+        "Hipercalcemia.",
+        "Hiponatremia."
       ],
-      "correctAnswer": 1,
-      "explanation": "A hipocloremia de diluição ocorre quando há ingestão excessiva de água livre (hipotônica) ou administração de grandes volumes de soluções intravenosas hipotônicas, diluindo as concentrações de solutos.",
+      "correctAnswer": 3,
+      "explanation": "Os diuréticos tiazídicos, ao inibirem o cotransportador cloreto de sódio no túbulo contorcido distal, promovem aumento da reabsorção de cálcio nesse segmento, o que pode resultar em hipercalcemia, característica dessas drogas.",
+      "hashtags": [
+        "farmacologia",
+        "tiazida_diuréticos",
+        "efeitos_adversos",
+        "alterações_eletrolíticas",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Num paciente com hipocloremia sintomática grave induzida por diurético, qual a medida terapêutica inicial mais adequada?",
+      "options": [
+        "Comece o tratamento com um inibidor da ECA.",
+        "Restringir estritamente a ingestão de sódio.",
+        "Reposição intravenosa de cloreto de sódio.",
+        "Administrar diuréticos de alça adicionais."
+      ],
+      "correctAnswer": 3,
+      "explanation": "A hipocloremia grave, especialmente se sintomática ou acompanhada de depleção de volume, requer reposição de cloreto de sódio intravenoso para restaurar o déficit de ambos os eletrólitos e corrigir o volume efetivo do paciente.",
       "hashtags": [
         "medicina_interna",
         "hipocloremia",
-        "etiologia",
-        "hipocloremia dilucional",
+        "gerenciamento",
+        "reposição_eletrólito",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "A hipocloremia está frequentemente associada a qual distúrbio do equilíbrio ácido-base?",
+      "question": "Qual fator fisiopatológico exacerba a hipocloremia e a alcalose metabólica em pacientes com contração de volume devido a diuréticos?",
       "options": [
+        "Inibição da secreção de aldosterona.",
+        "Diminuição da atividade da renina.",
+        "Aumento da reabsorção de bicarbonato.",
+        "Redução direta da filtração glomerular."
+      ],
+      "correctAnswer": 3,
+      "explanation": "A contração do volume induzida por diuréticos ativa mecanismos compensatórios renais, incluindo aumento da reabsorção de bicarbonato e diminuição da excreção tubular proximal de cloreto, exacerbando alcalose metabólica e hipocloremia.",
+      "hashtags": [
+        "fisiopatologia",
+        "hipocloremia",
+        "danos_mecanismos",
+        "contração_volume",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual dos seguintes diuréticos tem maior probabilidade de causar hipocloremia sintomática em um paciente com insuficiência cardíaca descompensada?",
+      "options": [
+        "Amilorida.",
+        "Hidroclorotiazida.",
+        "Furosemida.",
+        "Espironolactona."
+      ],
+      "correctAnswer": 3,
+      "explanation": "A furosemida é um potente diurético de alça que inibe a reabsorção na alça de Henle, causando perda significativa de cloreto, sódio e água, sendo uma causa comum de hipocloremia sintomática na insuficiência cardíaca descompensada.",
+      "hashtags": [
+        "cardiologia",
+        "insuficiência cardíaca",
+        "farmacologia",
+        "diuréticos_asa",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Uma consequência clínica importante da hipocloremia grave prolongada, especialmente induzida por diuréticos, é:",
+      "options": [
+        "alcalose metabólica.",
+        "Hipocalcemia.",
+        "Hipernatremia.",
+        "Acidose metabólica."
+      ],
+      "correctAnswer": 1,
+      "explanation": "A hipocloremia grave, muitas vezes acompanhada de depleção de volume e ativação do sistema renina-angiotensina-aldosterona, contribui para a retenção de bicarbonato e excreção de prótons pelo rim, resultando em alcalose de contração metabólica.",
+      "hashtags": [
+        "medicina_interna",
+        "hipocloremia",
+        "complicações",
+        "ácidobase",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual dos seguintes distúrbios eletrolíticos é uma causa comum e um fator de manutenção da alcalose metabólica?",
+      "options": [
+        "Hipocalemia",
+        "Hipercloremia",
+        "Hipocloremia",
+        "Hipernatremia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A hipocloremia é uma causa frequente e crucial na manutenção da alcalose metabólica. A perda de cloreto, muitas vezes junto com o hidrogênio, contribui para o desequilíbrio ácido-base ao impedir a excreção renal de bicarbonato.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalose metabólica",
+        "etiologia",
+        "hidroeletrólito_desequilíbrio",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Como a hipocloremia contribui para a manutenção da alcalose metabólica?",
+      "options": [
+        "Aumenta a excreção de bicarbonato.",
+        "Promove a reabsorção renal de bicarbonato.",
+        "Diminui a reabsorção de sódio.",
+        "Melhora a secreção de potássio."
+      ],
+      "correctAnswer": 2,
+      "explanation": "A hipocloremia reduz a disponibilidade de cloreto para troca por bicarbonato nas células tubulares renais. Isto leva ao aumento da reabsorção de bicarbonato e, portanto, à manutenção da alcalose metabólica, uma vez que os rins não conseguem excretar o excesso de bicarbonato de forma eficaz.",
+      "hashtags": [
+        "fisiopatologia",
+        "alcalose metabólica",
+        "danos_mecanismos",
+        "bicarbonato_reabsorção",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual das seguintes situações clínicas está frequentemente associada a hipocloremia e alcalose metabólica?",
+      "options": [
+        "Hiperaldosteronismo primário.",
+        "Cetoacidose diabética.",
+        "Insuficiência renal crônica.",
+        "Vômito persistente."
+      ],
+      "correctAnswer": 4,
+      "explanation": "O vômito persistente causa perda de ácido clorídrico do estômago, levando à hipocloremia e, consequentemente, à alcalose metabólica. Líquido e potássio também são perdidos, contribuindo para a contração de volume e hipocalemia.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalose metabólica",
+        "etiologia",
+        "perda_gástrica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Além da hipocloremia, que outro fator é crucial na perpetuação da alcalose metabólica em situações de perdas gastrointestinais?",
+      "options": [
+        "Contração de volume.",
+        "Aumento da osmolaridade sérica.",
+        "Hipercalemia grave.",
+        "Expansão de volume."
+      ],
+      "correctAnswer": 1,
+      "explanation": "A contração do volume, comum nas perdas gastrointestinais, estimula o eixo renina-angiotensina-aldosterona e a reabsorção de sódio e bicarbonato no túbulo renal. Isto, juntamente com a hipocloremia, perpetua a alcalose metabólica, impedindo a excreção de bicarbonato.",
+      "hashtags": [
+        "fisiopatologia",
+        "alcalose metabólica",
+        "etiopatogenia",
+        "renal_volemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "O tratamento fundamental da alcalose metabólica devido à hipocloremia geralmente inclui a administração de:",
+      "options": [
+        "Bicarbonato de sódio.",
+        "Diuréticos de alça.",
+        "Soluções ricas em potássio.",
+        "Cloreto (geralmente como NaCl)."
+      ],
+      "correctAnswer": 4,
+      "explanation": "Para corrigir a alcalose metabólica associada à hipocloremia, é essencial a administração de cloreto (frequentemente na forma de solução salina isotônica ou hipotônica). O cloreto restaurado permite que os rins excretem o excesso de bicarbonato e corrijam a contração do volume.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalose metabólica",
+        "tratamento",
+        "cloreto_reposição",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que tipo de medicamento pode induzir hipocloremia e alcalose metabólica ao aumentar a excreção de cloreto e potássio?",
+      "options": [
+        "Inibidores da ECA.",
+        "Bloqueadores beta-adrenérgicos.",
+        "Antagonistas do cálcio.",
+        "Diuréticos de alça ou tiazídicos."
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os diuréticos de alça e as tiazidas atuam inibindo a reabsorção de cloreto e sódio em diferentes segmentos do túbulo renal. Isto leva a perdas urinárias de cloreto, potássio e água, resultando em hipocloremia, contração de volume e alcalose metabólica.",
+      "hashtags": [
+        "farmacologia",
+        "diuréticos",
+        "efeitos_adversos",
+        "hidroeletrólito_desequilíbrio",
+        "FARMACOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "Qual dos seguintes medicamentos é uma causa comum de hipocloremia e hipocalemia com alcalose metabólica?",
+      "options": [
+        "antagonistas do cálcio",
+        "diuréticos de alça",
+        "Bloqueadores beta",
+        "Inibidores da ECA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diuréticos de alça, como furosemida e diuréticos tiazídicos, são causas comuns de hipocloremia e hipocalemia. Isso ocorre devido ao aumento da excreção renal de potássio e cloreto, juntamente com a ativação do sistema renina-angiotensina-aldosterona e a subsequente alcalose metabólica por perda de hidrogênio.",
+      "hashtags": [
+        "nefrologia",
+        "hipocloremia_hipocalemia",
+        "etiologia",
+        "diuréticos_asa",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que alteração fisiopatológica contribui para a alcalose metabólica na hipocloremia grave com hipocalemia?",
+      "options": [
+        "Renina diminuída",
+        "Aumento da aldosterona",
+        "Deficiência de bicarbonato",
+        "Excesso de ácido láctico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A hipovolemia, frequentemente associada a hipocloremia e hipocalemia, ativa o sistema renina-angiotensina-aldosterona. A aldosterona elevada promove a reabsorção de sódio às custas da secreção de íons hidrogênio e potássio nos túbulos renais, exacerbando a alcalose metabólica.",
+      "hashtags": [
+        "fisiopatologia",
+        "hipocloremia_hipocalemia",
+        "fisiopatologia",
+        "aldosterona",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Em um paciente com hipocloremia e hipocalemia devido a vômitos persistentes, que achado é esperado na gasometria arterial?",
+      "options": [
+        "Alcalose respiratória",
         "Acidose respiratória",
         "acidose metabólica",
-        "Alcalose respiratória",
         "alcalose metabólica"
       ],
       "correctAnswer": 4,
-      "explanation": "A hipocloremia é quase sempre um reflexo da alcalose metabólica. Freqüentemente, eles coexistem e se perpetuam mutuamente.",
+      "explanation": "O vômito persistente causa perda de ácido clorídrico do estômago, causando hipocloremia e hipovolemia. A contração do volume e a reabsorção renal de bicarbonato, juntamente com a perda de potássio, resultam em uma alcalose metabólica típica, perpetuando o desequilíbrio.",
       "hashtags": [
         "medicina_interna",
+        "hipocloremia_hipocalemia",
+        "manifestações_clínicas",
+        "alcalose metabólica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Para corrigir hipocloremia grave e alcalose metabólica, qual infusão intravenosa é mais adequada?",
+      "options": [
+        "Solução de Ringer com Lactato",
+        "Solução de dextrose a 5%",
+        "Bicarbonato de sódio 1 molar",
+        "Solução salina 0,9%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A infusão de solução salina normal (NaCl 0,9%) é o tratamento de escolha. Fornece sódio e cloreto, o que ajuda a corrigir a hipovolemia e a hipocloremia. A reposição de cloreto permite que o rim excrete o excesso de bicarbonato, corrigindo assim a alcalose metabólica.",
+      "hashtags": [
+        "nefrologia",
+        "hipocloremia_hipocalemia",
+        "tratamento",
+        "solução salina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual das seguintes síndromes genéticas apresenta hipocloremia, hipocalemia e alcalose metabólica grave?",
+      "options": [
+        "Síndrome de Liddle",
+        "Síndrome de Cushing",
+        "Síndrome de Bartter",
+        "Síndrome de Gitelman"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A síndrome de Bartter é uma doença genética que afeta a reabsorção de sódio e cloreto na alça de Henle, semelhante ao efeito dos diuréticos de alça. Isto leva à perda renal crônica de cloreto e potássio, resultando em hipocloremia, hipocalemia e alcalose metabólica grave.",
+      "hashtags": [
+        "nefrologia",
+        "síndrome_bartter",
+        "etiologia",
+        "distúrbios_tubular",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Contração do volume extracelular na hipocloremia com hipocalemia, qual o efeito sobre o bicarbonato renal?",
+      "options": [
+        "Diminui sua excreção",
+        "Diminui sua reabsorção",
+        "Aumenta sua reabsorção",
+        "Aumenta a excreção"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A contração do volume extracelular ativa mecanismos de conservação de sódio e água. Isto inclui aumento da reabsorção de bicarbonato nos túbulos proximais e distais do rim, contribuindo para perpetuar a alcalose metabólica presente na hipocloremia e na hipocalemia.",
+      "hashtags": [
+        "fisiopatologia",
+        "hipocloremia_hipocalemia",
+        "fisiopatologia",
+        "bicarbonato_reabsorção",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que tipo de diurético tem maior probabilidade de causar perda excessiva de cloreto renal?",
+      "options": [
+        "Amilorida",
+        "Manitol",
+        "Furosemida",
+        "Espironolactona"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A furosemida é um diurético de alça que atua inibindo o cotransportador Na-K-2Cl no ramo ascendente espesso da alça de Henle, resultando em excreção significativa de cloreto e sódio, podendo levar à hipocloremia.",
+      "hashtags": [
+        "farmacologia",
+        "perda_de_cloreto_renal excessiva",
+        "mecanismo_de_ação",
+        "loop_diuréticos",
+        "FARMACOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "Uma consequência metabólica comum da perda renal excessiva de cloreto é a alteração do equilíbrio ácido-base, manifestando-se como:",
+      "options": [
+        "alcalose metabólica",
+        "Alcalose respiratória",
+        "acidose metabólica",
+        "Acidose respiratória"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A perda renal excessiva de cloreto, muitas vezes acompanhada de depleção de volume, promove a reabsorção de bicarbonato e a excreção de íons hidrogênio no túbulo renal, resultando em alcalose metabólica.",
+      "hashtags": [
+        "nefrologia",
         "hipocloremia",
         "fisiopatologia",
         "equilíbrio_base_ácido",
@@ -172,1046 +495,191 @@
       ]
     },
     {
-      "question": "Qual sistema fisiológico é ativado secundariamente à depleção de volume induzida por diuréticos, exacerbando a alcalose metabólica e a hipocloremia?",
+      "question": "Em um paciente com hipocloremia e alcalose metabólica devido a possível perda renal de cloreto, qual achado na urina sustenta uma etiologia renal?",
       "options": [
-        "sistema linfático",
-        "Sistema renina-angiotensina-aldosterona (SRAA)",
-        "sistema nervoso parassimpático",
-        "sistema endócrino da tireóide"
+        "cloro urinário baixo",
+        "Cloro urinário alto",
+        "Baixo sódio urinário",
+        "Potássio urinário baixo"
       ],
       "correctAnswer": 2,
-      "explanation": "A depleção de volume ativa o sistema renina-angiotensina-aldosterona (SRAA). A aldosterona aumenta a reabsorção de sódio e bicarbonato no túbulo proximal renal, perpetuando alcalose metabólica e hipocloremia.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "fisiopatologia",
-        "senhora",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Na alcalose metabólica, como o cloreto contribui para manter a eletroneutralidade?",
-      "options": [
-        "Liga-se ao sódio",
-        "Aumenta a reabsorção renal",
-        "É excretado para reduzir sua concentração",
-        "É trocado por bicarbonato"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Na alcalose metabólica, o íon cloreto pode ser trocado por bicarbonato para manter a eletroneutralidade no líquido extracelular, levando a uma diminuição na concentração de cloreto.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "fisiopatologia",
-        "troca_iônica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "A hipocloremia grave pode limitar a capacidade do rim de excretar que substância, tornando a alcalose refratária?",
-      "options": [
-        "Potássio",
-        "Bicarbonato de sódio",
-        "Água",
-        "Sódio"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A hipocloremia grave pode limitar a capacidade renal de excretar bicarbonato, uma vez que a reabsorção de bicarbonato no túbulo proximal depende da disponibilidade de cloreto.",
+      "explanation": "Cloreto urinário elevado (geralmente >20 mEq/L) na presença de alcalose metabólica sugere perda renal de cloreto, em oposição a causas extrarrenais, como vômitos, onde o cloreto urinário estaria baixo devido à preservação renal.",
       "hashtags": [
         "nefrologia",
-        "hipocloremia",
-        "fisiopatologia",
-        "excreção_bicarbonato",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o sintoma muscular associado à hipocloremia, especialmente se for grave?",
-      "options": [
-        "Hiperreflexia",
-        "Rigidez muscular",
-        "fasciculações",
-        "Fraqueza muscular e fadiga"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A hipocloremia pode afetar a excitabilidade neuromuscular, manifestando-se como fraqueza muscular e fadiga, embora outros eletrólitos como o potássio sejam mais proeminentes nestes sintomas.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "manifestações_clínicas",
-        "fraqueza muscular",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Os sintomas de confusão e letargia na hipocloremia grave podem ser exacerbados pela coexistência de quais outros distúrbios?",
-      "options": [
-        "Hipermagnesemia e alcalose",
-        "Hipocalemia e acidose",
-        "Hiponatremia e alcalose metabólica",
-        "Hipernatremia e acidose"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Em casos graves, especialmente quando coexistem com hiponatremia significativa e/ou alcalose metabólica grave, a hipocloremia pode afetar o sistema nervoso central, causando confusão e letargia.",
-      "hashtags": [
-        "neurologia",
-        "hipocloremia",
-        "manifestações_clínicas",
-        "snc_alterações",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual sintoma gastrointestinal é comum à causa subjacente do vômito que leva à hipocloremia?",
-      "options": [
-        "dor abdominal",
-        "Constipação",
-        "Fome",
-        "Disfagia"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O vômito persistente, que é uma das principais causas de hipocloremia, costuma ser acompanhado de náusea e dor abdominal, indicando o problema gastrointestinal subjacente.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "manifestações_clínicas",
-        "sintomas gastrointestinais",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Na alcalose metabólica, a diminuição do cálcio iônico livre se deve, em parte, à competição de qual íon pelos sítios de ligação da albumina?",
-      "options": [
-        "Hidrogênio (H+)",
-        "Potássio",
-        "Magnésio",
-        "Sódio"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Na alcalose metabólica, há menos H+ livre; Estes competem com o Ca++ pelos sítios de ligação da albumina. Com menos H+ competindo, mais Ca++ se liga à albumina, diminuindo o Ca++ iônico livre.",
-      "hashtags": [
-        "endocrinologia",
-        "hipocloremia",
-        "manifestações_clínicas",
-        "cálcio_iônico",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que achado físico pode indicar hipovolemia em um paciente com hipocloremia?",
-      "options": [
-        "membranas mucosas secas",
-        "Estalos pulmonares",
-        "Ingurgitamento jugular",
-        "Edema periférico"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A hipovolemia manifesta-se clinicamente com sinais como mucosas secas, diminuição das pregas cutâneas, hipotensão e taquicardia.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "manifestações_clínicas",
-        "hipovolemia",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o principal teste bioquímico para o diagnóstico de hipocloremia?",
-      "options": [
-        "uréia sérica",
-        "glicose sérica",
-        "Hemoglobina",
-        "Cloreto sérico"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A confirmação bioquímica da hipocloremia é realizada pela dosagem direta do cloreto sérico, cujo valor normal está entre 98 e 106 mEq/L.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
+        "diagnóstico_hipocloremia",
         "diagnóstico",
-        "soro_eletrólitos",
+        "cloro_urinário",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "A medição do cloreto urinário (U-Cl) é útil para diferenciar quais tipos de causas de hipocloremia?",
+      "question": "Qual das seguintes síndromes genéticas é caracterizada por perda renal excessiva e crônica de cloreto, mimetizando o efeito de um diurético de alça?",
       "options": [
-        "Primário e secundário",
-        "Diluição e perda",
-        "Aguda e crônica",
-        "Gastrointestinal e renal"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O cloreto urinário ajuda a distinguir entre perdas extrarrenais (U-Cl baixo) e causas renais de hipocloremia (U-Cl alto), como o uso de diuréticos.",
-      "hashtags": [
-        "nefrologia",
-        "hipocloremia",
-        "diagnóstico",
-        "cloreto_urinário",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Um nível baixo de cloreto urinário (U-Cl) (entre 10-20 mEq/L) sugere fortemente que tipo de causa de hipocloremia?",
-      "options": [
-        "Alcalose respiratória",
-        "Uso de diuréticos tiazídicos",
+        "Síndrome de Addison",
+        "Síndrome de Cushing",
         "Síndrome de Bartter",
-        "Perdas extrarrenais (gastrointestinais)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Um U-Cl baixo é indicativo de perdas extrarrenais (gastrointestinais) ou depleção de volume com ativação do SRAA, onde o rim tenta ativamente conservar cloreto.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "diagnóstico",
-        "cloreto_urinário baixo",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que outros eletrólitos séricos são importantes para medir junto com o cloreto para avaliar o status ácido-básico?",
-      "options": [
-        "Cálcio",
-        "Bicarbonato de sódio",
-        "Magnésio",
-        "Fosfato"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A medição simultânea do bicarbonato sérico é essencial, uma vez que a hipocloremia é frequentemente acompanhada por alcalose metabólica (bicarbonato elevado).",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "diagnóstico",
-        "soro_bicarbonato",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Uma história médica detalhada deve perguntar especialmente sobre o uso de que tipo de medicamentos em pacientes com hipocloremia?",
-      "options": [
-        "Anti-hipertensivos (IECA, ARA II)",
-        "Analgésicos (AINEs)",
-        "Agentes hipolipemiantes (estatinas)",
-        "Diuréticos e laxantes"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A história clínica deve questionar ativamente sobre o uso de diuréticos e laxantes, pois são causas iatrogênicas de hipocloremia muito comuns.",
-      "hashtags": [
-        "farmacologia",
-        "hipocloremia",
-        "diagnóstico",
-        "histórico_clínico",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "A combinação de hipocloremia, alcalose metabólica, hipovolemia e baixa U-Cl sugere fortemente qual etiologia?",
-      "options": [
-        "Síndrome de Bartter",
-        "Uso de diuréticos",
-        "Sobrecarga de água",
-        "Perdas gastrointestinais"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Essa combinação de achados é altamente sugestiva de perdas extrarrenais significativas, como aquelas que ocorrem em vômitos crônicos ou diarréia.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "diagnóstico",
-        "diagnóstico_diferencial",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "A hipocloremia com alcalose metabólica e U-Cl elevada é mais sugestiva de que causa?",
-      "options": [
-        "Sucção nasogástrica",
-        "diarreia secretora",
-        "Uso de diuréticos ou causa renal",
-        "Fístulas biliares"
+        "Síndrome de Conn"
       ],
       "correctAnswer": 3,
-      "explanation": "Cloreto urinário elevado na presença de hipocloremia e alcalose metabólica aponta para uma causa renal primária, como uso de diuréticos ou síndromes de Bartter/Gitelman.",
+      "explanation": "A síndrome de Bartter é uma doença hereditária caracterizada por defeitos no cotransportador Na-K-2Cl na alça de Henle, resultando em perda significativa de cloreto, sódio e potássio, com desenvolvimento de alcalose metabólica e hipocalemia.",
       "hashtags": [
         "nefrologia",
-        "hipocloremia",
-        "diagnóstico",
-        "cloreto_urinário alto",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a primeira linha de tratamento para hipocloremia associada à hipovolemia?",
-      "options": [
-        "Administração de bicarbonato de sódio",
-        "Infusão de cloreto de potássio",
-        "Administração de solução salina hipertônica",
-        "Solução salina isotônica (NaCl 0,9%)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A solução salina isotônica (NaCl 0,9%) é a terapia inicial de escolha para restaurar o volume extracelular e repor o cloreto perdido em pacientes hipovolêmicos.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "tratamento",
-        "solução salina",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Em que situação clínica poderia ser considerado o uso de cloridrato de amônio (NH4Cl) para tratamento de hipocloremia?",
-      "options": [
-        "Hipocloremia dilucional",
-        "Má ingestão de sal",
-        "Hipocloremia hipovolêmica devido a vômito",
-        "Alcalose metabólica hipoclorêmica grave e refratária"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O cloridrato de amônio é utilizado nos casos graves de alcalose metabólica hipoclorêmica refratária, pois libera H+ quando metabolizado, auxiliando na correção da alcalose.",
-      "hashtags": [
-        "farmacologia",
-        "hipocloremia",
-        "tratamento",
-        "cloridrato de amônio",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Se a hipocloremia for causada pelo uso de diuréticos, qual é uma das primeiras medidas terapêuticas?",
-      "options": [
-        "Suspender ou ajustar o diurético",
-        "Aumentar a dose do diurético",
-        "Iniciar tratamento com diuréticos poupadores de potássio",
-        "Administrar solução salina hipotônica"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Se a hipocloremia for iatrogênica devido aos diuréticos, a medida mais direta é suspender ou ajustar a dose do medicamento agressor.",
-      "hashtags": [
-        "farmacologia",
-        "hipocloremia",
-        "tratamento",
-        "suspensão_diuréticos",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O monitoramento frequente de quais eletrólitos séricos é essencial durante o tratamento da hipocloremia?",
-      "options": [
-        "Sódio, potássio, bicarbonato",
-        "Cálcio, fósforo, magnésio",
-        "Uréia, creatinina, ácido úrico",
-        "Magnésio, cálcio, potássio"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Durante o tratamento, é fundamental monitorar sódio, potássio e bicarbonato, além do cloreto, para avaliar a resposta e prevenir desequilíbrios.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "tratamento",
-        "monitoramento_eletrólito",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de solução intravenosa deve ser preferida para reposição volêmica na maioria das situações para evitar diluição eletrolítica?",
-      "options": [
-        "Solução salina hipotônica",
-        "água grátis",
-        "Solução de dextrose a 5%",
-        "Solução salina isotônica (NaCl 0,9%)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A solução salina isotônica (NaCl 0,9%) é mais indicada para reposição volêmica, pois mantém a osmolaridade do líquido extracelular e evita a diluição dos eletrólitos.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "tratamento",
-        "solução isotônica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Na prevenção da hipocloremia recomenda-se o uso prudente de diuréticos, o que é estratégia?",
-      "options": [
-        "Use sempre as doses máximas",
-        "Sempre combine diuréticos de alça e tiazídicos",
-        "Evite diuréticos de alça",
-        "Use doses mínimas eficazes"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Deve ser utilizada a dose mínima eficaz de diuréticos e alternativas consideradas, se possível, para minimizar o risco de desequilíbrios eletrolíticos.",
-      "hashtags": [
-        "farmacologia",
-        "hipocloremia",
-        "prevenção",
-        "diuréticos_uso",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual medida preventiva é importante em pacientes com vômitos persistentes ou diarreia grave?",
-      "options": [
-        "Reposição adequada de fluidos e eletrólitos",
-        "Restrição estrita de água",
-        "Administração de laxantes",
-        "Uso de antiácidos"
-      ],
-      "correctAnswer": 1,
-      "explanation": "É crucial garantir a reposição adequada de líquidos e eletrólitos, incluindo cloreto, em pacientes com perdas gastrointestinais significativas para prevenir a hipocloremia.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "prevenção",
-        "perdas_gastrointestinais",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que é recomendado em pacientes em dietas com restrição de sal para garantir a ingestão adequada de cloreto?",
-      "options": [
-        "Use apenas água destilada",
-        "Evite a ingestão de líquidos",
-        "Suplemento apenas de potássio",
-        "Certifique-se de que o fornecimento de cloreto seja adequado"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Em pacientes em dieta com baixo teor de sal, deve-se garantir que a ingestão de cloreto seja suficiente, principalmente se houver aumento de perdas, para evitar hipocloremia.",
-      "hashtags": [
-        "nutrição",
-        "hipocloremia",
-        "prevenção",
-        "dieta com baixo teor de sal",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O monitoramento regular dos eletrólitos séricos é especialmente importante em pacientes que tomam diuréticos e apresentam quais comorbidades?",
-      "options": [
-        "Diabetes mellitus tipo 1",
-        "Doença pulmonar obstrutiva crônica",
-        "hipertensão intracraniana",
-        "Insuficiência cardíaca ou renal"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Pacientes com insuficiência cardíaca ou renal são particularmente vulneráveis ​​a desequilíbrios eletrolíticos induzidos por diuréticos, exigindo monitoramento rigoroso.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "prevenção",
-        "monitoramento de risco",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Na prevenção, o que deve ser evitado em pacientes com tendência à hiponatremia ou hipocloremia?",
-      "options": [
-        "Ingestão de alimentos salgados",
-        "Consumo de frutas",
-        "Ingestão excessiva de água livre",
-        "Administração de fluidos orais"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A ingestão excessiva de água livre (soluções hipotônicas) deve ser evitada em pacientes de risco, pois pode diluir os eletrólitos e precipitar hiponatremia ou hipocloremia.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "prevenção",
-        "entrada_de_água_livre",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a principal característica da Síndrome de Gitelman em comparação com a Síndrome de Bartter?",
-      "options": [
-        "Hipomagnesemia (além de hipocloremia)",
-        "Maior tendência à hipertensão",
-        "Hipocalcemia (além de hipocloremia)",
-        "Aumento da perda renal de cálcio"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A síndrome de Gitelman afeta o túbulo distal e está associada a hipocloremia, hipocalemia, alcalose metabólica, hipomagnesemia e, às vezes, hipocalcemia.",
-      "hashtags": [
-        "nefrologia",
-        "hipocloremia",
-        "etiologia",
-        "síndrome de gitelman",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "A hipocloremia pode ser um indicador de que tipo de distúrbios subjacentes?",
-      "options": [
-        "Infeccioso benigno",
-        "Neurológico primário",
-        "Endócrino isolado",
-        "Fluidos e eletrólitos significativos"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A importância clínica da hipocloremia é que ela pode ser um indicador de distúrbios subjacentes significativos no equilíbrio hídrico e eletrolítico.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "definição",
-        "significado_clínico",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O cloreto é o principal ânion extracelular; Sua concentração é vital para manter o que junto com o sódio?",
-      "options": [
-        "transporte de glicose",
-        "Homeostase do cálcio",
-        "eletroneutralidade",
-        "O potencial de membrana"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O cloreto, juntamente com o sódio, é essencial para manter a eletroneutralidade no fluido extracelular, um princípio fundamental da homeostase iônica.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "fisiopatologia",
-        "eletroneutralidade",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual o efeito da ativação do sistema renina-angiotensina-aldosterona (SRAA) na reabsorção renal no contexto de hipocloremia devido a perdas gastrointestinais?",
-      "options": [
-        "Diminui a reabsorção de sódio e aumenta a reabsorção de cloreto",
-        "Aumenta a reabsorção de sódio e bicarbonato",
-        "Aumenta a excreção de sódio e a reabsorção de bicarbonato",
-        "Diminui a reabsorção de sódio e bicarbonato"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A aldosterona, parte do SRAA, promove a reabsorção de Na+ e HCO3- no túbulo proximal renal, o que é fundamental na perpetuação da alcalose e da hipocloremia.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "fisiopatologia",
-        "sraa_renal",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "A alcalose metabólica pode contribuir para sintomas neuromusculares como tetania ou parestesia devido a que fator?",
-      "options": [
-        "Diminuição do potássio iônico",
-        "Aumento de magnésio",
-        "Diminuição do cálcio iônico livre",
-        "Aumento do cálcio iônico livre"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A alcalose metabólica diminui o cálcio iônico livre porque o H+ compete com o Ca++ pelos sítios de ligação da albumina; Com menos H+ livre, mais Ca++ se liga à albumina, reduzindo o Ca++ iônico.",
-      "hashtags": [
-        "neurologia",
-        "hipocloremia",
-        "manifestações_clínicas",
-        "cálcio_iônico_livre",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de doença renal pode, em casos avançados, alterar a capacidade de reabsorção de eletrólitos e contribuir para a hipocloremia?",
-      "options": [
-        "Insuficiência renal crônica",
-        "Nefropatia diabética precoce",
-        "Pielonefrite",
-        "Glomerulonefrite aguda"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Na doença renal crônica avançada, a capacidade do rim de regular a reabsorção e excreção de eletrólitos pode estar alterada, contribuindo para desequilíbrios como a hipocloremia.",
-      "hashtags": [
-        "nefrologia",
-        "hipocloremia",
-        "etiologia",
-        "insuficiência_renal_crônica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "A hipocloremia, especialmente quando grave, pode causar alcalose metabólica.",
-      "options": [
-        "Autolimitado",
-        "Fácil de tratar com reposição de volume",
-        "Resposta rápida aos diuréticos",
-        "Refratário ao tratamento"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A hipocloremia grave pode impedir a excreção adequada de bicarbonato pelos rins, tornando a alcalose metabólica resistente às medidas terapêuticas convencionais.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "fisiopatologia",
-        "alcalose_refratária",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que outra síndrome renal hereditária, semelhante à de Bartter, também se apresenta com hipocloremia e alcalose metabólica, mas afeta o túbulo distal?",
-      "options": [
-        "Síndrome de Gitelman",
-        "Síndrome de Liddle",
-        "Síndrome de Fanconi",
-        "Síndrome de Bartter"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A síndrome de Gitelman afeta os transportadores no túbulo distal, resultando em hipocloremia, hipocalemia, alcalose metabólica, hipomagnesemia e, às vezes, hipocalcemia.",
-      "hashtags": [
-        "nefrologia",
-        "hipocloremia",
-        "etiologia",
-        "síndrome de gitelman",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual a importância de avaliar o cloreto sérico juntamente com o sódio e o bicarbonato?",
-      "options": [
-        "Para uma compreensão abrangente do equilíbrio eletrolítico e ácido-base",
-        "Para avaliar a função hepática",
-        "Para prever a resposta ao tratamento com antibióticos",
-        "Para determinar a necessidade de transfusão"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A avaliação do cloreto sérico juntamente com o sódio e o bicarbonato permite uma compreensão abrangente do equilíbrio eletrolítico e ácido-base do paciente, facilitando o diagnóstico e o tratamento.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "diagnóstico",
-        "equilíbrio eletrolítico",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Fístulas intestinais ou biliares podem ser causa de hipocloremia devido à perda de que tipo de secreções?",
-      "options": [
-        "Pobre em água",
-        "Rico em eletrólitos",
-        "Baixo teor de sódio",
-        "Rico em potássio"
-      ],
-      "correctAnswer": 2,
-      "explanation": "As secreções provenientes de fístulas intestinais ou biliares são ricas em eletrólitos, incluindo cloreto, cuja perda pode precipitar hipocloremia.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "etiologia",
-        "fístulas digestivas",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual o efeito da hipocloremia grave na resposta ventilatória ao CO2 em pacientes com alcalose metabólica?",
-      "options": [
-        "Não tem efeito",
-        "Aumenta temporariamente",
-        "Aumenta a resposta ventilatória",
-        "Diminui a resposta ventilatória"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Na alcalose metabólica, o centro respiratório é menos sensível à hipercapnia (CO2 elevado), o que pode levar à diminuição da resposta ventilatória e piorar a retenção de CO2.",
-      "hashtags": [
-        "fisiopatologia",
-        "hipocloremia",
-        "alcalose metabólica",
-        "resposta_ventilativa",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "A hipocloremia pode ser um achado frequente em pacientes com que tipo de doenças gastrointestinais?",
-      "options": [
-        "Apendicite aguda",
-        "Vômito ou diarréia profusa",
-        "Doença inflamatória intestinal (tipo Crohn)",
-        "Úlcera péptica assintomática"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Pacientes com doenças gastrointestinais que apresentam vômitos ou diarreia profusa freqüentemente desenvolvem hipocloremia devido a perdas eletrolíticas significativas.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "epidemiologia",
-        "doença_gastrointestinal",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o principal mecanismo pelo qual os diuréticos de alça causam hipocloremia?",
-      "options": [
-        "Aumento da reabsorção de sódio",
-        "Estimulação da secreção de aldosterona",
-        "Inibição do cotransportador Na+-K+-2Cl-",
-        "Inibição do cotransportador Na+-Cl-"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Os diuréticos de alça atuam inibindo o cotransportador Na+-K+-2Cl- na alça de Henle, aumentando a excreção de sódio e cloreto.",
-      "hashtags": [
-        "farmacologia",
-        "hipocloremia",
-        "mecanismo_de_ação",
-        "diuréticos_asa",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que é hipocloremia por diluição?",
-      "options": [
-        "Perda de cloreto através do suor",
-        "Uso de soluções salinas hipotônicas",
-        "Ingestão excessiva de água com perda de cloreto",
-        "Diluição de todos os solutos extracelulares devido ao excesso de água"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A hipocloremia dilucional ocorre quando há excesso de água livre que dilui as concentrações de todos os solutos no líquido extracelular, incluindo o cloreto.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "etiologia",
-        "hipocloremia dilucional",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "A hipocloremia em pacientes com insuficiência cardíaca congestiva está associada a qual desfecho clínico?",
-      "options": [
-        "Maior morbidade e mortalidade",
-        "Melhor prognóstico",
-        "Menor morbidade e mortalidade",
-        "Melhor resposta ao tratamento"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Em pacientes com insuficiência cardíaca congestiva, a hipocloremia, especialmente aquela induzida por diuréticos, está associada a maior morbimortalidade e pior resposta ao tratamento.",
-      "hashtags": [
-        "cardiologia",
-        "hipocloremia",
-        "epidemiologia",
-        "insuficiência cardíaca",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "O que significa alcalose metabólica “refratária” no contexto da hipocloremia?",
-      "options": [
-        "A correção de volume resolve isso rapidamente",
-        "Não melhora facilmente com medidas habituais",
-        "Requer ventilação mecânica",
-        "Responde bem à administração de potássio"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Uma alcalose metabólica refratária é aquela que não é facilmente corrigida com intervenções padrão, muitas vezes devido à hipocloremia grave que limita a excreção renal de bicarbonato.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "tratamento",
-        "alcalose_refratária",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Na síndrome de Bartter, o comprometimento do transporte de eletrólitos ocorre principalmente em qual parte do néfron?",
-      "options": [
-        "túbulo coletor",
-        "túbulo proximal",
-        "túbulo distal",
-        "Laço de Henle"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A síndrome de Bartter é caracterizada por defeitos nos transportadores de eletrólitos na alça de Henle, levando a perdas de NaCl, K+ e H+.",
-      "hashtags": [
-        "nefrologia",
-        "hipocloremia",
-        "fisiopatologia",
-        "asa_de_henle",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Por que a hipocloremia pode tornar a alcalose metabólica refratária ao tratamento?",
-      "options": [
-        "Estimula a produção de ácido gástrico",
-        "Reduz a reabsorção de sódio",
-        "Aumenta a excreção de potássio",
-        "Impede a excreção renal de bicarbonato"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A reabsorção de bicarbonato no túbulo proximal depende parcialmente da disponibilidade de cloreto. A hipocloremia grave limita esse processo, dificultando a correção da alcalose.",
-      "hashtags": [
-        "nefrologia",
-        "hipocloremia",
-        "fisiopatologia",
-        "bicarbonato_reabsorção",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "No momento do diagnóstico, qual valor de cloreto urinário (U-Cl) é indicativo de causa renal de hipocloremia?",
-      "options": [
-        "Maior que 20-30 mEq/L",
-        "Exatamente 15 mEq/L",
-        "Menos de 10 mEq/L",
-        "Entre 10 e 20 mEq/L"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Cloreto urinário persistentemente elevado (maior que 20-30 mEq/L) sugere uma causa renal de hipocloremia, como uso de diuréticos ou distúrbios primários de transporte de íons.",
-      "hashtags": [
-        "nefrologia",
-        "hipocloremia",
-        "diagnóstico",
-        "cloreto_urinário",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é uma das causas mais comuns de hipocloremia em bebês e idosos?",
-      "options": [
-        "Insuficiência cardíaca descompensada",
-        "Vômito devido a gastroenterite viral",
-        "Alterações na gestão de fluidos e eletrólitos",
-        "Dietas restritivas de sal"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Bebês e idosos podem ser mais suscetíveis à hipocloremia devido a diferenças fisiológicas no manejo de líquidos e eletrólitos e menor reserva.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "epidemiologia",
-        "populações_de risco",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Se a hipocloremia for muito grave e o paciente estiver hipovolêmico, além da solução salina isotônica, que outra solução pode ser considerada?",
-      "options": [
-        "Água destilada",
-        "Solução salina hipotônica",
-        "Solução de dextrose a 5%",
-        "Solução salina hipertônica (NaCl a 3%)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Em casos de hipocloremia muito grave e/ou hiponatremia sintomática, solução salina hipertônica (NaCl a 3%) pode ser necessária para correção rápida, mas cautelosa.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "tratamento",
-        "solução_hipertônica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual destas síndromes renais genéticas apresenta hipocloremia e alcalose metabólica, mas normalmente NÃO apresenta hipomagnesemia?",
-      "options": [
-        "Síndrome de Liddle",
-        "Síndrome de Fanconi",
-        "Síndrome de Gitelman",
-        "Síndrome de Bartter"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A síndrome de Bartter é caracterizada por hipocloremia, hipocalemia e alcalose metabólica, mas a hipomagnesemia não é uma característica definidora como na síndrome de Gitelman.",
-      "hashtags": [
-        "nefrologia",
-        "hipocloremia",
-        "etiologia",
         "síndrome_bartter",
+        "etiologia",
+        "genética",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "O uso crônico de laxantes estimulantes pode induzir diarreia e perda de quais eletrólitos, contribuindo para a hipocloremia?",
+      "question": "Em qual segmento do néfron ocorre a disfunção primária na síndrome de Bartter, resultando em perda excessiva de cloreto?",
       "options": [
-        "Cloreto e potássio",
-        "sódio e cálcio",
-        "Potássio e magnésio",
-        "sódio e potássio"
+        "Alça ascendente de Henle",
+        "Túbulo contorcido distal",
+        "Túbulo contorcido proximal",
+        "Ducto coletor cortical"
       ],
       "correctAnswer": 1,
-      "explanation": "O uso crônico de laxantes estimulantes pode causar diarreia secretora e perda de eletrólitos, incluindo cloreto e potássio, levando a hipocloremia e hipocalemia.",
+      "explanation": "A síndrome de Bartter se deve a uma alteração no cotransportador Na-K-2Cl (NKCC2) encontrado na membrana apical das células da alça ascendente espessa de Henle, o que impede a reabsorção normal desses íons e leva à sua perda excessiva.",
       "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "etiologia",
-        "laxantes",
+        "fisiologia_renal",
+        "síndrome_bartter",
+        "conceito",
+        "localização_nefron",
+        "FISIOPATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "Para corrigir a hipocloremia e a alcalose metabólica associadas à perda excessiva de cloreto renal, qual a intervenção terapêutica inicial mais adequada?",
+      "options": [
+        "Restrição de ingestão de sódio",
+        "diuréticos de alça",
+        "Administração de bicarbonato",
+        "Administração salina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A administração de solução salina isotônica é a intervenção inicial mais adequada para corrigir a hipocloremia e a alcalose metabólica por perda renal de cloreto, pois repõe o volume e o cloreto, permitindo ao rim excretar o excesso de bicarbonato.",
+      "hashtags": [
+        "nefrologia",
+        "gerenciamento_hipocloremia",
+        "tratamento",
+        "cloreto_reposição",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "A avaliação do volume extracelular é fundamental no diagnóstico da hipocloremia, quais sinais físicos devem ser observados?",
+      "question": "Qual a solução intravenosa de escolha para reposição inicial de cloreto em paciente com hipocloremia sintomática?",
       "options": [
-        "Dor no peito e dispneia",
-        "Taquicardia e hipotensão",
-        "Icterícia e ascite",
-        "Febre e tosse"
+        "8,4% de bicarbonato de sódio",
+        "Solução salina normal a 0,9%",
+        "5% de dextrose",
+        "Solução de Ringer com Lactato"
       ],
       "correctAnswer": 2,
-      "explanation": "Sinais como taquicardia, hipotensão, mucosas secas e diminuição do turgor cutâneo são indicativos de hipovolemia.",
+      "explanation": "O soro fisiológico 0,9% (NaCl) é a opção preferida porque fornece cloreto e sódio em concentrações fisiológicas, ajudando a corrigir tanto a hipocloremia quanto a hipovolemia frequentemente associada.",
       "hashtags": [
         "medicina_interna",
         "hipocloremia",
-        "diagnóstico",
-        "exame_físico",
+        "tratamento",
+        "solução_salina_normal",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "O que poderia ser recomendado para a manutenção da correção da hipocloremia leve, se a causa permitir?",
+      "question": "Durante a reposição ativa de cloreto em paciente com hipocloremia grave, qual parâmetro deve ser monitorado com maior frequência para garantir a segurança e eficácia do tratamento?",
       "options": [
-        "Aumentar a ingestão de sal (cloreto de sódio)",
-        "Restrição de água",
-        "Evite alimentos salgados",
-        "Apenas suplemento de potássio"
+        "Eletrólitos séricos e pH",
+        "nível de glicose no sangue",
+        "Diurese horária",
+        "Pressão arterial média"
       ],
       "correctAnswer": 1,
-      "explanation": "Para hipocloremia leve ou de manutenção, um aumento na ingestão de sal (cloreto de sódio) na dieta pode ser benéfico, especialmente se a causa subjacente permitir.",
+      "explanation": "O monitoramento frequente dos eletrólitos séricos (especialmente cloreto, sódio e potássio) e do pH é crucial para orientar a reposição, prevenir complicações como acidose metabólica hiperclorêmica e garantir a correção do desequilíbrio ácido-base associado.",
       "hashtags": [
-        "nutrição",
+        "nefrologia",
         "hipocloremia",
-        "tratamento",
-        "dieta_sal",
+        "manuseio_eletrolítico",
+        "controle_eletrólito",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "No tratamento da alcalose metabólica hipoclorêmica grave e refratária, o que pode ser administrado com extrema cautela?",
+      "question": "Uma complicação potencial da correção excessivamente rápida da hipocloremia grave é:",
       "options": [
-        "bicarbonato de sódio",
-        "Diuréticos tiazídicos",
-        "ácido clorídrico diluído",
-        "cloreto de potássio oral"
+        "Hipercalemia",
+        "Hiponatremia dilucional",
+        "Acidose metabólica hiperclorêmica",
+        "alcalose metabólica"
       ],
       "correctAnswer": 3,
-      "explanation": "O ácido clorídrico diluído pode ser administrado por via intravenosa em casos muito graves e refratários de alcalose metabólica hipoclorêmica, sob monitoramento rigoroso e por pessoal experiente.",
+      "explanation": "A administração rápida e excessiva de cloreto pode causar acidose metabólica hiperclorêmica, caracterizada pela diminuição do bicarbonato sérico e aumento do cloreto, alterando o equilíbrio ácido-base do paciente.",
       "hashtags": [
-        "farmacologia",
+        "medicina_interna",
         "hipocloremia",
-        "tratamento",
-        "ácido clorídrico",
+        "complicações_terapêuticas",
+        "acidose_metabólica_hiperclorêmica",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "A hipoventilação grave pode levar à retenção de CO2, o que aumenta o bicarbonato e pode, secundariamente, o que acontece com o cloreto?",
+      "question": "Além da reposição direta de cloreto, que aspecto é essencial abordar no manejo abrangente da hipocloremia?",
       "options": [
-        "diminui",
-        "Permanece inalterado",
-        "Aumenta significativamente",
-        "Equilibra com sódio"
+        "A causa subjacente",
+        "O tipo de dieta",
+        "O nível de atividade física",
+        "Ingestão calórica diária"
       ],
       "correctAnswer": 1,
-      "explanation": "A retenção de CO2 (hipoventilação) leva ao aumento do bicarbonato. Para manter a eletroneutralidade, o corpo pode precisar diminuir o cloreto ou aumentar outros ânions.",
+      "explanation": "É imperativo identificar e tratar a causa subjacente da hipocloremia (como vômitos persistentes, uso de diuréticos ou vazamentos gastrointestinais) para alcançar uma resolução duradoura e prevenir recorrências de distúrbios eletrolíticos.",
+      "hashtags": [
+        "nefrologia",
+        "hipocloremia",
+        "tratamento",
+        "etiologia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "A reposição de cloreto é especialmente importante e eficaz para corrigir a alcalose metabólica quando associada a:",
+      "options": [
+        "Hipocloremia persistente",
+        "Desidratação grave",
+        "Hiponatremia leve",
+        "Hipercalcemia sintomática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Na alcalose metabólica sensível ao cloreto, a hipocloremia persistente contribui para a manutenção da alcalose. A reposição de cloreto facilita a excreção renal de bicarbonato, corrigindo assim o desequilíbrio ácido-base.",
       "hashtags": [
         "medicina_interna",
         "hipocloremia",
         "fisiopatologia",
-        "hipoventilação",
+        "cloro_sensível_metabólica_alcalose",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual é o sintoma relacionado à alcalose metabólica concomitante que pode se manifestar como parestesias ou fraqueza muscular?",
+      "question": "Nos casos de hipocloremia leve a moderada, coexistindo com hipocalemia, qual suplemento oral pode ser uma opção de tratamento eficaz para reposição de cloreto?",
       "options": [
-        "Redução de fósforo",
-        "Diminuição do cálcio iônico livre",
-        "Elevação do potássio sérico",
-        "Aumento do magnésio sérico"
+        "cloreto de potássio",
+        "fosfato de sódio",
+        "Bicarbonato de cálcio",
+        "Sulfato de magnésio"
       ],
-      "correctAnswer": 2,
-      "explanation": "A diminuição do cálcio iônico livre na alcalose metabólica pode contribuir para sintomas neuromusculares, como parestesias, tetania e fraqueza muscular.",
+      "correctAnswer": 1,
+      "explanation": "O cloreto de potássio é uma excelente opção oral porque repõe simultaneamente o cloreto e o potássio, que muitas vezes estão baixos em pacientes com hipocloremia, especialmente se associados à alcalose metabólica.",
       "hashtags": [
-        "neurologia",
+        "farmacologia",
         "hipocloremia",
-        "manifestações_clínicas",
-        "cálcio_iônico",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Pacientes com hipocloremia, principalmente se induzidos por diuréticos na insuficiência cardíaca, apresentam pior evolução clínica associada a quê?",
-      "options": [
-        "Melhor resposta à terapia",
-        "Menor risco de readmissão",
-        "Internação hospitalar mais curta",
-        "Aumento do risco de readmissão"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Estudos epidemiológicos associam a hipocloremia a piores resultados clínicos, incluindo internamentos hospitalares mais prolongados e maior risco de readmissão, particularmente em doentes com determinadas patologias crónicas.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "epidemiologia",
-        "previsão",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Na hipocloremia, a avaliação do estado volêmico do paciente é crucial. O que se procura para determinar se o paciente está hipovolêmico?",
-      "options": [
-        "Presença de edema e estertores",
-        "Ingurgitamento jugular",
-        "Ausculta de ruídos intestinais",
-        "Pressão arterial, frequência cardíaca, turgor da pele"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A avaliação do estado do volume envolve a procura de sinais como hipotensão, taquicardia, mucosas secas e diminuição do turgor cutâneo, indicativos de hipovolemia.",
-      "hashtags": [
-        "medicina_interna",
-        "hipocloremia",
-        "diagnóstico",
-        "avaliação_volume",
+        "farmacologia",
+        "cloreto_de potássio",
         "MEDICAL_TOPIC",
         ""
       ]

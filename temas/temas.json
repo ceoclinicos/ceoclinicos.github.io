@@ -632,7 +632,7 @@
       "descripcion": "Estudia la anatomía, fisiopatología, diagnóstico y opciones de tratamiento de la hernia inguinal, una de las patologías quirúrgicas más frecuentes.",
       "pdfUrl": "",
       "precioPildoras": "barato",
-      "numPreguntas": 80,
+      "numPreguntas": 92,
       "etiquetas": [
         "#cirugia",
         "#hernia",
@@ -678,7 +678,7 @@
       "descripcion": "La hipertensión arterial, o presión alta, es una condición crónica que aumenta el riesgo de enfermedades cardíacas y accidentes cerebrovasculares. Conoce sus causas, síntomas y manejo.",
       "pdfUrl": "",
       "precioPildoras": "medio",
-      "numPreguntas": 15,
+      "numPreguntas": 60,
       "etiquetas": [
         "#hipertensión",
         "#hta",
@@ -726,7 +726,7 @@
       "descripcion": "Estudio de la inflamación súbita del pericardio, la membrana que envuelve el corazón. Incluye diagnóstico, causas y tratamiento.",
       "pdfUrl": "",
       "precioPildoras": "medio",
-      "numPreguntas": 70,
+      "numPreguntas": 60,
       "etiquetas": [
         "#cardiologia",
         "#pericarditis",
@@ -1193,7 +1193,7 @@
       "descripcion": "La hipercloremia se refiere a un nivel elevado de cloruro en la sangre. Puede ser indicativa de desequilibrios hídricos o metabólicos.",
       "pdfUrl": "",
       "precioPildoras": "medio",
-      "numPreguntas": 0,
+      "numPreguntas": 60,
       "etiquetas": [
         "#nefrologia",
         "#medicina_interna",
@@ -1337,6 +1337,38 @@
         "#urgencias",
         "#medicina_interna",
         "#pericardio"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "disección_aórtica",
+      "titulo": "Disección Aórtica",
+      "descripcion": "Rotura de la capa íntima de la aorta que permite la entrada de sangre en la pared arterial, creando un falso lumen. Urgencia cardiovascular con alta mortalidad.",
+      "pdfUrl": "",
+      "precioPildoras": "caro",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#cardiologia",
+        "#diseccion_aortica",
+        "#urgencias_cardiovasculares",
+        "#medicina_interna",
+        "#cirugia_cardiovascular"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "cardiopatías_congénitas",
+      "titulo": "Cardiopatías Congénitas",
+      "descripcion": "Estudio de las anomalías estructurales del corazón presentes desde el nacimiento, incluyendo su clasificación, fisiopatología, diagnóstico y tratamiento.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#cardiologia",
+        "#cardiopatias_congenitas",
+        "#pediatria",
+        "#medicina_interna",
+        "#cirugia_cardiaca"
       ],
       "tieneGuia": false
     }
