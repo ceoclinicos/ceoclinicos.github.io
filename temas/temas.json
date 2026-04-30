@@ -611,22 +611,6 @@
       "tieneGuia": false
     },
     {
-      "id": "apendicitis_aguda",
-      "titulo": "Apendicitis Aguda",
-      "descripcion": "Revisa los aspectos clave del diagnóstico, manejo y tratamiento de la apendicitis aguda, la emergencia quirúrgica abdominal más común.",
-      "pdfUrl": "",
-      "precioPildoras": "barato",
-      "numPreguntas": 80,
-      "etiquetas": [
-        "#cirugia",
-        "#emergencias",
-        "#gastroenterologia",
-        "#apendicitis_aguda",
-        "#abdomen_agudo"
-      ],
-      "tieneGuia": false
-    },
-    {
       "id": "hernia_inguinal",
       "titulo": "Hernia Inguinal",
       "descripcion": "Estudia la anatomía, fisiopatología, diagnóstico y opciones de tratamiento de la hernia inguinal, una de las patologías quirúrgicas más frecuentes.",
@@ -1603,6 +1587,128 @@
         "#pediatria",
         "#medicina_interna",
         "#enfermedades_infecciosas"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "uncinariasis",
+      "titulo": "Uncinariasis",
+      "descripcion": "Infección parasitaria intestinal causada por nematodos del género Ancylostoma o Necator, que provoca anemia y malabsorción. Aprende sobre su ciclo, diagnóstico y tratamiento.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#parasitologia",
+        "#enfermedades_infecciosas",
+        "#medicina_tropical",
+        "#uncinariasis"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "strongyloidiasis",
+      "titulo": "Estrongiloidiasis",
+      "descripcion": "Infección parasitaria causada por Strongyloides stercoralis, prevalente en regiones tropicales y subtropicales, con riesgo de hiperinfección en inmunocomprometidos.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#parasitologia",
+        "#enfermedades_infecciosas",
+        "#medicina_tropical",
+        "#strongyloidiasis"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "triquinosis",
+      "titulo": "Triquinosis",
+      "descripcion": "Enfermedad parasitaria causada por el consumo de carne cruda o mal cocida contaminada con larvas del género Trichinella. Afecta principalmente el tejido muscular y puede presentar síntomas gastrointestinales y sistémicos.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 54,
+      "etiquetas": [
+        "#parasitologia",
+        "#triquinosis",
+        "#enfermedades_infecciosas",
+        "#medicina_interna",
+        "#zoonosis"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "larva_migrans_cutánea",
+      "titulo": "Larva Migrans Cutánea",
+      "descripcion": "Infección parasitaria cutánea causada por larvas de anquilostomas, que migran bajo la piel generando túneles serpiginosos y prurito intenso.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#dermatologia",
+        "#parasitologia",
+        "#larva_migrans_cutanea",
+        "#enfermedades_infecciosas",
+        "#medicina_tropical"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "teniasis",
+      "titulo": "Teniasis",
+      "descripcion": "Infección intestinal causada por el parásito Taenia, transmitida por consumo de carne cruda o mal cocida.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 54,
+      "etiquetas": [
+        "#parasitologia",
+        "#teniasis",
+        "#medicina_tropical"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "cisticercosis",
+      "titulo": "Cisticercosis",
+      "descripcion": "Infección parasitaria causada por la larva de Taenia solium, que afecta principalmente el sistema nervioso central, músculos y ojos.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#medicina_interna",
+        "#enfermedades_infecciosas",
+        "#parasitologia",
+        "#neurologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "hidatidosis",
+      "titulo": "Hidatidosis",
+      "descripcion": "Enfermedad parasitaria causada por el estadio larvario del género Echinococcus, que forma quistes en hígado, pulmones y otros órganos. Abarca diagnóstico, tratamiento y prevención.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#parasitologia",
+        "#hidatidosis",
+        "#enfermedades_infecciosas",
+        "#medicina_interna",
+        "#cirugia_general"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "apendicitis_aguda",
+      "titulo": "Apendicitis aguda",
+      "descripcion": "Tema médico sobre el diagnóstico, clasificación y manejo de la apendicitis aguda, incluyendo cuadro clínico, imagenología y tratamiento quirúrgico.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 66,
+      "etiquetas": [
+        "#cirugia_general",
+        "#apendicitis_aguda",
+        "#urgencias",
+        "#abdomen_agudo"
       ],
       "tieneGuia": false
     }
