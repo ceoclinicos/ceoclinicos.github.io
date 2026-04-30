@@ -1402,6 +1402,209 @@
         "#medicina_interna"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "criptosporidiosis",
+      "titulo": "Criptosporidiosis",
+      "descripcion": "Infección parasitaria intestinal causada por Cryptosporidium spp., que cursa con diarrea acuosa y afecta principalmente a inmunocomprometidos.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#parasitologia",
+        "#enfermedades_infecciosas",
+        "#gastroenterologia",
+        "#medicina_interna",
+        "#criptosporidiosis"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "proteinas",
+      "titulo": "Proteínas",
+      "descripcion": "Estudio del metabolismo, funciones y trastornos relacionados con las proteínas en el organismo humano.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#bioquimica",
+        "#proteinas",
+        "#medicina_interna",
+        "#nutricion",
+        "#metabolismo"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "toxoplasmosis",
+      "titulo": "Toxoplasmosis",
+      "descripcion": "Enfermedad infecciosa causada por el parásito Toxoplasma gondii, de importancia en inmunocomprometidos y embarazadas.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 54,
+      "etiquetas": [
+        "#infecciones",
+        "#toxoplasmosis",
+        "#enfermedades_parasitarias",
+        "#medicina_interna",
+        "#infectologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "lipidos_y_metabolismo_del_colesterol",
+      "titulo": "Lípidos y Metabolismo del Colesterol",
+      "descripcion": "Estudio del metabolismo de lípidos, lipoproteínas y colesterol, incluyendo su regulación y dislipidemias.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#lipidos",
+        "#colesterol",
+        "#metabolismo",
+        "#dislipidemia",
+        "#bioquimica",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "ciclo_de_krebs_y_oxidaciones_biologicas",
+      "titulo": "Ciclo de Krebs y Oxidaciones Biológicas",
+      "descripcion": "Estudio del ciclo del ácido cítrico y las reacciones de oxidación en la mitocondria, fundamentales para el metabolismo energético celular.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#bioquimica",
+        "#ciclo_de_krebs",
+        "#oxidaciones_biologicas",
+        "#metabolismo",
+        "#medicina"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "aminoacidos",
+      "titulo": "Aminoácidos",
+      "descripcion": "Estudio de los aminoácidos esenciales y no esenciales, su metabolismo, funciones biológicas y relevancia clínica en diversas patologías.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 54,
+      "etiquetas": [
+        "#bioquimica",
+        "#aminoacidos",
+        "#metabolismo",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "biologia_molecular",
+      "titulo": "Biología Molecular",
+      "descripcion": "Estudio de los procesos moleculares que ocurren en las células, incluyendo la replicación del ADN, transcripción, traducción y regulación génica.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#biologia_molecular",
+        "#genetica",
+        "#medicina_molecular"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "tricomoniasis",
+      "titulo": "Tricomoniasis",
+      "descripcion": "Infección de transmisión sexual causada por Trichomonas vaginalis, que afecta principalmente el tracto urogenital.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#enfermedades_infecciosas",
+        "#ITS",
+        "#ginecologia",
+        "#tricomoniasis"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "malaria",
+      "titulo": "Malaria",
+      "descripcion": "Estudio de la malaria: epidemiología, ciclo parasitario, manifestaciones clínicas, diagnóstico, tratamiento y prevención.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#infectologia",
+        "#malaria",
+        "#medicina_tropical"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "enfermedad_de_chagas",
+      "titulo": "Enfermedad de Chagas",
+      "descripcion": "Infección parasitaria causada por Trypanosoma cruzi, con manifestaciones cardíacas y digestivas crónicas. Endémica en América Latina.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#enfermedad_de_chagas",
+        "#trypanosoma_cruzi",
+        "#cardiologia",
+        "#medicina_tropical",
+        "#parasitologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "leishmaniasis",
+      "titulo": "Leishmaniasis",
+      "descripcion": "Enfermedad parasitaria transmitida por la picadura de flebótomos, que afecta piel, mucosas y vísceras. Endémica en regiones tropicales y subtropicales.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#leishmaniasis",
+        "#enfermedades_infecciosas",
+        "#parasitologia",
+        "#medicina_tropical",
+        "#dermatologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "ascariasis",
+      "titulo": "Ascariasis",
+      "descripcion": "Infección intestinal causada por el nematodo Ascaris lumbricoides, frecuente en regiones tropicales y subtropicales. Afecta principalmente a niños y puede provocar desnutrición y obstrucción intestinal.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#parasitologia",
+        "#enfermedades_infecciosas",
+        "#medicina_tropical",
+        "#ascariasis",
+        "#helmintiasis"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "enterobiasis",
+      "titulo": "Enterobiasis",
+      "descripcion": "Infección intestinal causada por Enterobius vermicularis, común en niños, que provoca prurito anal y perianal. Conoce su diagnóstico, tratamiento y prevención.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#parasitologia",
+        "#enterobiasis",
+        "#pediatria",
+        "#medicina_interna",
+        "#enfermedades_infecciosas"
+      ],
+      "tieneGuia": false
     }
   ]
 }

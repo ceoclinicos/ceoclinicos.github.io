@@ -1,0 +1,1144 @@
+{
+  "questions": [
+    {
+      "question": "What is the first enzyme of the Krebs cycle that catalyzes the condensation of acetyl-CoA with oxaloacetate?",
+      "options": [
+        "Fumarase",
+        "Isocitrate dehydrogenase",
+        "Citrate synthase",
+        "Succinyl-CoA synthetase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Citrate synthase catalyzes the condensation of acetyl-CoA with oxaloacetate to form citrate, being the first reaction of the Krebs cycle and a key regulatory enzyme.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "citrate_synthase",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "Which Krebs cycle enzyme catalyzes the oxidative decarboxylation of isocitrate to α-ketoglutarate?",
+      "options": [
+        "Malate dehydrogenase",
+        "Succinate dehydrogenase",
+        "Isocitrate dehydrogenase",
+        "α-ketoglutarate dehydrogenase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Isocitrate dehydrogenase catalyzes the conversion of isocitrate to α-ketoglutarate through oxidative decarboxylation, generating NADH and being an important regulatory enzyme of the cycle.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "isocitrate_dehydrogenase",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "Which Krebs cycle enzyme is directly linked to the mitochondrial respiratory chain?",
+      "options": [
+        "Citrate synthase",
+        "Fumarase",
+        "Succinate dehydrogenase",
+        "Aconitase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Succinate dehydrogenase catalyzes the oxidation of succinate to fumarate and is directly linked to the respiratory chain as complex II, transferring electrons to the FAD.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "succinate_dehydrogenase",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "Which Krebs cycle enzyme catalyzes the conversion of α-ketoglutarate to succinyl-CoA?",
+      "options": [
+        "Malate dehydrogenase",
+        "Succinyl-CoA synthetase",
+        "Isocitrate dehydrogenase",
+        "α-ketoglutarate dehydrogenase"
+      ],
+      "correctAnswer": 4,
+      "explanation": "α-Ketoglutarate dehydrogenase is a multienzyme complex that catalyzes the oxidative decarboxylation of α-ketoglutarate to succinyl-CoA, generating NADH and CO₂.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "alpha_ketoglutarate_dehydrogenase",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "Which Krebs cycle enzyme catalyzes the reaction that produces GTP or ATP at the substrate level?",
+      "options": [
+        "Citrate synthase",
+        "Fumarase",
+        "Succinyl-CoA synthetase",
+        "Aconitase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Succinyl-CoA synthetase catalyzes the conversion of succinyl-CoA to succinate, generating GTP (or ATP in some organisms) through substrate-level phosphorylation.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "succinyl_coa_synthetase",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "Which Krebs cycle enzyme catalyzes the hydration of fumarate to malate?",
+      "options": [
+        "Aconitase",
+        "Malate dehydrogenase",
+        "Fumarase",
+        "Succinate dehydrogenase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fumarase (fumarate hydratase) catalyzes the reversible addition of water to fumarate to form L-malate, being a stereospecific enzyme of the Krebs cycle.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "fumarase",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "What is the main effect of NADH on the Krebs cycle?",
+      "options": [
+        "Increases GTP production",
+        "Inhibits isocitrate dehydrogenase",
+        "Stimulates succinyl-CoA synthetase",
+        "Activates citrate synthase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NADH allosterically inhibits isocitrate dehydrogenase and other key enzymes of the Krebs cycle, negatively regulating flux when cellular energy is high.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "pathophysiology",
+        "enzyme_regulation",
+        "MEDICAL_TOPIC",
+        "Lehninger 8ed"
+      ]
+    },
+    {
+      "question": "What effect does ATP have on the pyruvate dehydrogenase complex?",
+      "options": [
+        "Activates it by phosphorylation",
+        "Inhibits it by phosphorylation",
+        "Stimulates its catalytic activity",
+        "Has no effect on the complex"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ATP activates a kinase that phosphorylates and inactivates the pyruvate dehydrogenase complex, reducing the entry of acetyl-CoA into the Krebs cycle when energy is abundant.",
+      "hashtags": [
+        "biochemistry",
+        "pyruvate_dehydrogenase",
+        "pathophysiology",
+        "allosteric_regulation",
+        "MEDICAL_TOPIC",
+        "Harper 32ed"
+      ]
+    },
+    {
+      "question": "What relationship exists between the NADH/NAD+ ratio and the activity of the Krebs cycle?",
+      "options": [
+        "High NADH/NAD+ ratio accelerates the cycle",
+        "There is no relationship between both parameters",
+        "High NADH/NAD+ ratio inhibits the cycle",
+        "Low NADH/NAD+ ratio inhibits the cycle"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A high NADH/NAD+ ratio indicates an excess of reducing equivalents, which allosterically inhibits key enzymes of the Krebs cycle, slowing its speed.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "pathophysiology",
+        "relationship_nadh_nad",
+        "MEDICAL_TOPIC",
+        "Stryer 9ed"
+      ]
+    },
+    {
+      "question": "What consequence does excess ATP in the cell have on the Krebs cycle?",
+      "options": [
+        "Decreases the activity of isocitrate dehydrogenase",
+        "Stimulates succinate dehydrogenase",
+        "Increases NADH production",
+        "Increases the activity of citrate synthase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ATP allosterically inhibits isocitrate dehydrogenase, reducing the flow of the Krebs cycle when the cell has sufficient energy.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "pathophysiology",
+        "inhibition_by_atp",
+        "MEDICAL_TOPIC",
+        "Lehninger 8ed"
+      ]
+    },
+    {
+      "question": "What is the effect of NADH on the enzyme alpha-ketoglutarate dehydrogenase?",
+      "options": [
+        "Activation by allosteric binding",
+        "Feedback inhibition",
+        "Stimulation by phosphorylation",
+        "Induction of its gene expression"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NADH inhibits alpha-ketoglutarate dehydrogenase by negative feedback, slowing the Krebs cycle when the cell has a high energy load.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "pathophysiology",
+        "alpha_ketoglutarate_dehydrogenase",
+        "MEDICAL_TOPIC",
+        "Harper 32ed"
+      ]
+    },
+    {
+      "question": "What regulatory mechanism do NADH and ATP share on the Krebs cycle?",
+      "options": [
+        "Allosteric inhibition of key enzymes",
+        "Stimulation of genetic transcription",
+        "Activation by phosphorylation",
+        "Increased affinity for the substrate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both NADH and ATP act as allosteric inhibitors of enzymes such as isocitrate dehydrogenase and alpha-ketoglutarate dehydrogenase, reducing the flux of the Krebs cycle.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "pathophysiology",
+        "allosteric_inhibition",
+        "MEDICAL_TOPIC",
+        "Stryer 9ed"
+      ]
+    },
+    {
+      "question": "What enzyme catalyzes the formation of acetyl-CoA from pyruvate?",
+      "options": [
+        "Pyruvate dehydrogenase",
+        "Pyruvate decarboxylase",
+        "Pyruvate carboxylase",
+        "Pyruvate kinase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pyruvate dehydrogenase complex converts pyruvate to acetyl-CoA, releasing CO₂ and reducing NAD⁺ to NADH, an essential step to enter the Krebs cycle.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "pyruvate_dehydrogenase",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "What is the primary fate of acetyl-CoA in aerobic metabolism?",
+      "options": [
+        "Fatty acid synthesis",
+        "Formation of ketone bodies",
+        "Hepatic gluconeogenesis",
+        "Oxidation in the Krebs cycle"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Acetyl-CoA condenses with oxaloacetate to form citrate and initiate the Krebs cycle, where it is completely oxidized to CO₂, generating reducing equivalents for the respiratory chain.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "destination_acetyl_coa",
+        "MEDICAL_TOPIC",
+        "Harper 31ed"
+      ]
+    },
+    {
+      "question": "What coenzyme transports the acetyl group from the mitochondria to the cytosol for lipogenesis?",
+      "options": [
+        "Acetyl-CoA synthetase",
+        "Acetyl-CoA carboxylase",
+        "Malonyl-CoA decarboxylase",
+        "Citrate lyase"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Citrate, formed in the mitochondria, is transported to the cytosol and cleaved by citrate lyase into acetyl-CoA and oxaloacetate, providing acetyl-CoA for fatty acid synthesis.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "pathophysiology",
+        "transport_acetyl_coa",
+        "MEDICAL_TOPIC",
+        "Stryer 9ed"
+      ]
+    },
+    {
+      "question": "What compound is formed when acetyl-CoA condenses with oxaloacetate?",
+      "options": [
+        "Citrate",
+        "Malate",
+        "Succinyl-CoA",
+        "Isocitrate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Citrate synthase catalyzes the condensation of acetyl-CoA (2C) with oxaloacetate (4C) to form citrate (6C), a reaction that initiates the Krebs cycle and is thermodynamically favorable.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "citrate_synthase",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "What enzyme deficiency causes pyruvate and lactate accumulation with acidosis?",
+      "options": [
+        "Citrate synthase deficiency",
+        "Pyruvate dehydrogenase deficiency",
+        "Succinate dehydrogenase deficiency",
+        "Isocitrate dehydrogenase deficiency"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Deficiency of the pyruvate dehydrogenase complex prevents the conversion of pyruvate to acetyl-CoA, accumulating pyruvate that is reduced to lactate, causing lactic acidosis and affecting the Krebs cycle.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "pathophysiology",
+        "pyruvate_dehydrogenase_deficiency",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "How many CO₂ molecules are released for each acetyl-CoA oxidized in the Krebs cycle?",
+      "options": [
+        "three molecules",
+        "two molecules",
+        "a molecule",
+        "Four molecules"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In the Krebs cycle, acetyl-CoA (2C) is completely oxidized to two CO₂ molecules, one in the conversion of isocitrate to α-ketoglutarate and another in the conversion of α-ketoglutarate to succinyl-CoA.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "co2_release",
+        "MEDICAL_TOPIC",
+        "Harper 31ed"
+      ]
+    },
+    {
+      "question": "What substrates does citrate synthase condense in the Krebs cycle?",
+      "options": [
+        "Citrate and coenzyme A",
+        "Oxaloacetate and acetyl-CoA",
+        "Malate and NAD+",
+        "Succinyl-CoA and GDP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Citrate synthase catalyzes the condensation of oxaloacetate with acetyl-CoA to form citrate and release coenzyme A, being the first step of the Krebs cycle.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "citrate_synthase",
+        "MEDICAL_TOPIC",
+        "Lehninger 6ed"
+      ]
+    },
+    {
+      "question": "What is the coenzyme released during the citrate synthase reaction?",
+      "options": [
+        "GTP",
+        "Coenzyme A",
+        "FADH2",
+        "NADH"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In the citrate synthase reaction, the acetyl group of acetyl-CoA is transferred to oxaloacetate, releasing free coenzyme A, which can be reused in other metabolic reactions.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "action_mechanism",
+        "liberation_coa",
+        "MEDICAL_TOPIC",
+        "Lehninger 6ed"
+      ]
+    },
+    {
+      "question": "What type of reaction does citrate synthase catalyze in the Krebs cycle?",
+      "options": [
+        "aldol condensation",
+        "Oxidative decarboxylation",
+        "Transamination",
+        "Reversible hydration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Citrate synthase catalyzes an aldol condensation between the methyl carbon of acetyl-CoA and the carbonyl carbon of oxaloacetate, forming citril-CoA which is then hydrolyzed to citrate.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "aldol_condensation",
+        "MEDICAL_TOPIC",
+        "Lehninger 6ed"
+      ]
+    },
+    {
+      "question": "What metal ion does citrate synthase require for its catalytic activity?",
+      "options": [
+        "Zinc (Zn2+)",
+        "Calcium (Ca2+)",
+        "Iron (Fe2+)",
+        "Magnesium (Mg2+)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Citrate synthase requires magnesium (Mg2+) as a cofactor to stabilize the negative charge of oxaloacetate and facilitate condensation with acetyl-CoA, essential for its enzymatic activity.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "action_mechanism",
+        "magnesium_cofactor",
+        "MEDICAL_TOPIC",
+        "Lehninger 6ed"
+      ]
+    },
+    {
+      "question": "What is the immediate product of the citrate synthase reaction before hydrolysis?",
+      "options": [
+        "Succinate",
+        "Citril-CoA",
+        "Fumarate",
+        "Isocitrate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The condensation of oxaloacetate and acetyl-CoA first generates citril-CoA, a high-energy intermediate that is then rapidly hydrolyzed to citrate and free coenzyme A, driving the reaction forward.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "citril_coa",
+        "MEDICAL_TOPIC",
+        "Lehninger 6ed"
+      ]
+    },
+    {
+      "question": "What effect does NADH have on citrate synthase activity?",
+      "options": [
+        "Allosteric inhibition",
+        "Allosteric activation",
+        "Expression induction",
+        "Covalent modification"
+      ],
+      "correctAnswer": 1,
+      "explanation": "NADH acts as an allosteric inhibitor of citrate synthase, negatively regulating the Krebs cycle when the cell has high energy, preventing the overproduction of reducing equivalents.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "action_mechanism",
+        "inhibition_nadh",
+        "MEDICAL_TOPIC",
+        "Lehninger 6ed"
+      ]
+    },
+    {
+      "question": "Which coenzyme participates in the oxidative decarboxylation of pyruvate?",
+      "options": [
+        "NAD+",
+        "FADH2",
+        "GTP",
+        "ATP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Oxidative decarboxylation of pyruvate requires NAD+ as an electron acceptor, being reduced to NADH in the reaction catalyzed by the pyruvate dehydrogenase complex.",
+      "hashtags": [
+        "biochemistry",
+        "oxidative_decarboxylation",
+        "concept",
+        "coenzymes",
+        "MEDICAL_TOPIC",
+        "Lehninger 8ed"
+      ]
+    },
+    {
+      "question": "What is the direct product of the oxidative decarboxylation of alpha-ketoglutarate?",
+      "options": [
+        "Succinyl-CoA",
+        "Citrate",
+        "Malate",
+        "Oxaloacetate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The alpha-ketoglutarate dehydrogenase complex catalyzes the oxidative decarboxylation of alpha-ketoglutarate generating succinyl-CoA, NADH and CO2.",
+      "hashtags": [
+        "biochemistry",
+        "cycle_krebs",
+        "concept",
+        "oxidative_decarboxylation",
+        "MEDICAL_TOPIC",
+        "Lehninger 8ed"
+      ]
+    },
+    {
+      "question": "What enzyme complex catalyzes the oxidative decarboxylation of pyruvate?",
+      "options": [
+        "Isocitrate dehydrogenase",
+        "Pyruvate dehydrogenase",
+        "Succinate dehydrogenase",
+        "Citrate synthase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The pyruvate dehydrogenase complex, located in the mitochondrial matrix, catalyzes the conversion of pyruvate to acetyl-CoA through oxidative decarboxylation.",
+      "hashtags": [
+        "biochemistry",
+        "oxidative_decarboxylation",
+        "concept",
+        "enzyme_complex",
+        "MEDICAL_TOPIC",
+        "Lehninger 8ed"
+      ]
+    },
+    {
+      "question": "Which vitamin is essential for the activity of the pyruvate dehydrogenase complex?",
+      "options": [
+        "Cyanocobalamin (B12)",
+        "Thiamine (B1)",
+        "Folic acid (B9)",
+        "Riboflavin (B2)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Thiamine (vitamin B1) as thiamine pyrophosphate is a cofactor of the E1 component of the pyruvate dehydrogenase complex, essential for the decarboxylation of pyruvate.",
+      "hashtags": [
+        "biochemistry",
+        "oxidative_decarboxylation",
+        "concept",
+        "vitamin_cofactors",
+        "MEDICAL_TOPIC",
+        "Lehninger 8ed"
+      ]
+    },
+    {
+      "question": "What molecule is produced directly in the oxidative decarboxylation of pyruvate?",
+      "options": [
+        "Acetyl-CoA",
+        "Citrate",
+        "Lactate",
+        "Oxaloacetate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pyruvate is oxidatively decarboxylated to acetyl-CoA by the pyruvate dehydrogenase complex, further generating NADH and CO2 in the mitochondrial matrix.",
+      "hashtags": [
+        "biochemistry",
+        "oxidative_decarboxylation",
+        "concept",
+        "product_reaction",
+        "MEDICAL_TOPIC",
+        "Lehninger 8ed"
+      ]
+    },
+    {
+      "question": "Which coenzyme is reduced in the oxidative decarboxylation of alpha-ketoglutarate?",
+      "options": [
+        "NAD+",
+        "Coenzyme Q",
+        "FAD",
+        "NADP+"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Oxidative decarboxylation of alpha-ketoglutarate reduces NAD+ to NADH, a reaction catalyzed by the alpha-ketoglutarate dehydrogenase complex, similar to the pyruvate dehydrogenase complex.",
+      "hashtags": [
+        "biochemistry",
+        "oxidative_decarboxylation",
+        "concept",
+        "coenzymes",
+        "MEDICAL_TOPIC",
+        "Lehninger 8ed"
+      ]
+    },
+    {
+      "question": "At what stage of metabolism is GTP generated by substrate-level phosphorylation?",
+      "options": [
+        "Krebs cycle",
+        "respiratory chain",
+        "Beta oxidation",
+        "Glycolysis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In the Krebs cycle, the enzyme succinyl-CoA synthetase catalyzes the conversion of succinyl-CoA to succinate, generating GTP by substrate-level phosphorylation.",
+      "hashtags": [
+        "biochemistry",
+        "phosphorylation_gtp",
+        "concept",
+        "cycle_krebs",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "What enzyme catalyzes the substrate-level phosphorylation that produces GTP in the Krebs cycle?",
+      "options": [
+        "Isocitrate dehydrogenase",
+        "Citrate synthase",
+        "Succinyl-CoA synthetase",
+        "Succinate dehydrogenase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Succinyl-CoA synthetase (also called succinyl-CoA thiokinase) catalyzes the conversion of succinyl-CoA to succinate, generating GTP from GDP and inorganic phosphate.",
+      "hashtags": [
+        "biochemistry",
+        "phosphorylation_gtp",
+        "concept",
+        "succinyl_coa_synthetase",
+        "MEDICAL_TOPIC",
+        "Harper 31ed"
+      ]
+    },
+    {
+      "question": "What is the direct substrate that donates the high-energy phosphate group in substrate-level phosphorylation of the Krebs cycle?",
+      "options": [
+        "NADH",
+        "ATP",
+        "Succinyl-CoA",
+        "Acetyl-CoA"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The energy of the thioester bond of succinyl-CoA drives the phosphorylation of GDP to GTP, with succinyl-CoA being the donor of the high-energy phosphate group.",
+      "hashtags": [
+        "biochemistry",
+        "phosphorylation_gtp",
+        "concept",
+        "succinyl_coa",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "Which nucleotide can be converted directly to ATP from the GTP generated in the Krebs cycle?",
+      "options": [
+        "CTP",
+        "UTP",
+        "TTP",
+        "ADP"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The generated GTP can donate its phosphate group to ADP via the enzyme nucleoside diphosphate kinase, producing ATP and GDP.",
+      "hashtags": [
+        "biochemistry",
+        "phosphorylation_gtp",
+        "concept",
+        "conversion_gtp_atp",
+        "MEDICAL_TOPIC",
+        "Harper 31ed"
+      ]
+    },
+    {
+      "question": "How many GTP molecules are produced per fully oxidized glucose molecule in the Krebs cycle?",
+      "options": [
+        "Two",
+        "Three",
+        "A",
+        "Four"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For each molecule of glucose, two turns of the Krebs cycle occur (one for each pyruvate), generating two molecules of GTP.",
+      "hashtags": [
+        "biochemistry",
+        "phosphorylation_gtp",
+        "concept",
+        "energy_performance",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "What type of reaction represents substrate-level phosphorylation in the Krebs cycle?",
+      "options": [
+        "Dehydration",
+        "Direct oxidation",
+        "GTP synthesis",
+        "ATP hydrolysis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Phosphorylation at the substrate level involves the direct synthesis of GTP from GDP and inorganic phosphate, coupled to the energy released from succinyl-CoA.",
+      "hashtags": [
+        "biochemistry",
+        "phosphorylation_gtp",
+        "concept",
+        "gtp_synthesis",
+        "MEDICAL_TOPIC",
+        "Harper 31ed"
+      ]
+    },
+    {
+      "question": "What is the net yield of ATP for each turn of the Krebs cycle?",
+      "options": [
+        "3 ATP",
+        "1 ATP",
+        "4 ATP",
+        "2 ATP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "For each turn of the Krebs cycle, 1 GTP (equivalent to 1 ATP) is directly generated by succinyl-CoA synthetase. The rest of the energy is stored in reduced coenzymes that produce ATP in the respiratory chain.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "energy_performance",
+        "MEDICAL_TOPIC",
+        "Harper 31ed"
+      ]
+    },
+    {
+      "question": "Which coenzyme is directly reduced in the isocitrate dehydrogenase reaction?",
+      "options": [
+        "NAD+",
+        "FAD",
+        "Coenzyme A",
+        "NADP+"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Isocitrate dehydrogenase catalyzes the oxidative decarboxylation of isocitrate to α-ketoglutarate, reducing NAD+ to NADH. It is one of the three reactions in the cycle that generate NADH.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "damage_mechanisms",
+        "redox_reactions",
+        "MEDICAL_TOPIC",
+        "Lehninger 8ed"
+      ]
+    },
+    {
+      "question": "How many CO2 molecules are released for each acetyl-CoA oxidized in the Krebs cycle?",
+      "options": [
+        "3 molecules",
+        "1 molecule",
+        "2 molecules",
+        "4 molecules"
+      ],
+      "correctAnswer": 3,
+      "explanation": "For each acetyl-CoA that enters the cycle, two CO2 molecules are released: one in the decarboxylation of isocitrate and another in that of α-ketoglutarate. This represents complete oxidation of the acetyl group.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "decarboxylations",
+        "MEDICAL_TOPIC",
+        "Stryer 9ed"
+      ]
+    },
+    {
+      "question": "Which Krebs cycle enzyme catalyzes a reaction that generates FADH2?",
+      "options": [
+        "Fumarase",
+        "Citrate synthase",
+        "Succinate dehydrogenase",
+        "Malate dehydrogenase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Succinate dehydrogenase (complex II of the respiratory chain) oxidizes succinate to fumarate and reduces FAD to FADH2. It is the only enzyme in the cycle that generates FADH2 directly.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "damage_mechanisms",
+        "key_enzymes",
+        "MEDICAL_TOPIC",
+        "Harper 31ed"
+      ]
+    },
+    {
+      "question": "What is the total balance of coenzymes reduced by each acetyl-CoA in the Krebs cycle?",
+      "options": [
+        "4 NADH and 1 FADH2",
+        "2 NADH and 2 FADH2",
+        "1 NADH and 3 FADH2",
+        "3 NADH and 1 FADH2"
+      ],
+      "correctAnswer": 4,
+      "explanation": "For each acetyl-CoA oxidized in the Krebs cycle, 3 NADH (isocitrate, α-ketoglutarate and malate dehydrogenases) and 1 FADH2 (succinate dehydrogenase) are produced. These then feed the respiratory chain to produce ATP.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "energy_balance",
+        "MEDICAL_TOPIC",
+        "Lehninger 8ed"
+      ]
+    },
+    {
+      "question": "Which product of the Krebs cycle is a substrate for gluconeogenesis?",
+      "options": [
+        "Succinyl-CoA",
+        "Citrate",
+        "Oxaloacetate",
+        "Fumarate"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Oxaloacetate can exit the Krebs cycle and be converted to phosphoenolpyruvate by PEP carboxykinase, being a key substrate for gluconeogenesis. This connects the cycle to glucose synthesis.",
+      "hashtags": [
+        "biochemistry",
+        "krebs_cycle",
+        "concept",
+        "metabolic_intermediates",
+        "MEDICAL_TOPIC",
+        "Stryer 9ed"
+      ]
+    },
+    {
+      "question": "Which of the following respiratory chain complexes receives electrons from NADH?",
+      "options": [
+        "Complex IV",
+        "Complex II",
+        "Complex III",
+        "Complex I"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Complex I (NADH dehydrogenase) accepts electrons from NADH and transfers them to ubiquinone, being the first entry point for electrons in the respiratory chain.",
+      "hashtags": [
+        "biochemistry",
+        "respiratory_chain",
+        "concept",
+        "complex_i",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "Which respiratory chain complex is specifically inhibited by cyanide?",
+      "options": [
+        "Complex I",
+        "Complex IV",
+        "Complex III",
+        "Complex II"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cyanide binds to the iron of cytochrome a3 in Complex IV (cytochrome c oxidase), blocking the transfer of electrons to oxygen and stopping oxidative phosphorylation.",
+      "hashtags": [
+        "biochemistry",
+        "respiratory_chain",
+        "pharmacology",
+        "complex_iv_inhibitors",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the final electron acceptor in the mitochondrial respiratory chain?",
+      "options": [
+        "NAD+",
+        "Oxygen",
+        "FAD",
+        "Ubiquinone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Molecular oxygen acts as the final electron acceptor in Complex IV, reducing to water; Without oxygen the respiratory chain stops.",
+      "hashtags": [
+        "biochemistry",
+        "respiratory_chain",
+        "concept",
+        "final_acceptor",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "Which respiratory chain complex transfers electrons from succinate to ubiquinone?",
+      "options": [
+        "Complex IV",
+        "Complex III",
+        "Complex II",
+        "Complex I"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Complex II (succinate dehydrogenase) oxidizes succinate to fumarate in the Krebs cycle and transfers electrons to FADH2, which are then oxidized by reducing ubiquinone.",
+      "hashtags": [
+        "biochemistry",
+        "respiratory_chain",
+        "concept",
+        "complex_ii",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "Which component of the respiratory chain acts as a mobile electron carrier between Complex III and Complex IV?",
+      "options": [
+        "NADH",
+        "Cytochrome c",
+        "Ubiquinone",
+        "FADH2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cytochrome c is a soluble intermembrane space protein that transports electrons from Complex III (cytochrome bc1) to Complex IV (cytochrome c oxidase).",
+      "hashtags": [
+        "biochemistry",
+        "respiratory_chain",
+        "concept",
+        "cytochrome_c",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "Which of the following complexes pumps protons into the intermembrane space during electron transfer?",
+      "options": [
+        "Complex V",
+        "Complex IV",
+        "Complex II",
+        "Complex I"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Complex I (NADH dehydrogenase) pumps protons into the intermembrane space while transferring electrons from NADH to ubiquinone, contributing to the electrochemical gradient.",
+      "hashtags": [
+        "biochemistry",
+        "respiratory_chain",
+        "pathophysiology",
+        "proton_pump",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "What force drives ATP synthesis in ATP synthase?",
+      "options": [
+        "Proton gradient",
+        "Potassium gradient",
+        "Calcium gradient",
+        "sodium gradient"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ATP synthase uses the energy of the electrochemical proton gradient across the inner mitochondrial membrane to phosphorylate ADP and generate ATP.",
+      "hashtags": [
+        "biochemistry",
+        "electron_carrier_chain",
+        "pathophysiology",
+        "protonic_gradient",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the rotary component of ATP synthase?",
+      "options": [
+        "Subunit F0",
+        "F1 subunit",
+        "Subunit b",
+        "Subunit a"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The F0 subunit is the transmembrane component that rotates to the passage of protons, coupling the proton flow to the synthesis of ATP in the F1 subunit.",
+      "hashtags": [
+        "biochemistry",
+        "atp_synthase",
+        "concept",
+        "enzyme_subunits",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What happens if the mitochondrial proton gradient dissipates?",
+      "options": [
+        "Krebs cycle increases",
+        "Decreases ATP synthesis",
+        "Beta-oxidation is activated",
+        "Increases glycolysis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Without a proton gradient, ATP synthase cannot phosphorylate ADP, dramatically reducing ATP production and forcing the cell to rely on anaerobic glycolysis.",
+      "hashtags": [
+        "biochemistry",
+        "mitochondrial_uncoupling",
+        "pathophysiology",
+        "energy_deficit",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What classical uncoupling agent dissipates the proton gradient?",
+      "options": [
+        "Rotenone",
+        "Cyanide",
+        "Antimycin A",
+        "Dinitrophenol"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Dinitrophenol (DNP) is a classical uncoupler that transports protons across the inner mitochondrial membrane, dissipating the gradient and uncoupling oxidation from phosphorylation.",
+      "hashtags": [
+        "pharmacology",
+        "mitochondrial_uncouplings",
+        "action_mechanism",
+        "dinitrophenol",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "How many protons does ATP synthase require to synthesize one molecule of ATP?",
+      "options": [
+        "two protons",
+        "four protons",
+        "three protons",
+        "a proton"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ATP synthase needs approximately four protons flowing through F0 to generate one ATP at F1, considering the transport of Pi and ADP into the matrix.",
+      "hashtags": [
+        "biochemistry",
+        "oxidative_phosphorylation",
+        "concept",
+        "proton_stoichiometry",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which inhibitor directly blocks ATP synthase?",
+      "options": [
+        "Malonate",
+        "Cyanide",
+        "Oligomycin",
+        "Rotenone"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Oligomycin binds to the F0 subunit of ATP synthase and blocks the flow of protons, stopping ATP synthesis without affecting electron transport until the gradient is depleted.",
+      "hashtags": [
+        "pharmacology",
+        "oxidative_phosphorylation_inhibitors",
+        "action_mechanism",
+        "oligomycin",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which of the following is an inhibitor of complex I of the respiratory chain?",
+      "options": [
+        "Rotenone",
+        "Oligomycin",
+        "Cyanide",
+        "Antimycin A"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rotenone specifically inhibits complex I (NADH dehydrogenase) of the mitochondrial respiratory chain, blocking the transfer of electrons from NADH to ubiquinone.",
+      "hashtags": [
+        "biochemistry",
+        "respiratory_chain_inhibitors",
+        "action_mechanism",
+        "complex_i",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "What respiratory chain inhibitor acts by blocking complex IV?",
+      "options": [
+        "Rotenone",
+        "Cyanide",
+        "Malonate",
+        "Antimycin A"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cyanide binds to the iron of cytochrome a3 in complex IV (cytochrome c oxidase), preventing the transfer of electrons to oxygen and causing severe tissue hypoxia.",
+      "hashtags": [
+        "biochemistry",
+        "respiratory_chain_inhibitors",
+        "action_mechanism",
+        "complex_iv",
+        "MEDICAL_TOPIC",
+        "Harper 32ed"
+      ]
+    },
+    {
+      "question": "What is the mechanism of action of antimycin A in the respiratory chain?",
+      "options": [
+        "Blocks complex II",
+        "Blocks complex III",
+        "Inhibits ATP synthase",
+        "Uncouples phosphorylation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antimycin A inhibits complex III (cytochrome bc1) by binding to the Qn site of cytochrome b, disrupting the flow of electrons from ubiquinone to cytochrome c.",
+      "hashtags": [
+        "biochemistry",
+        "respiratory_chain_inhibitors",
+        "action_mechanism",
+        "complex_iii",
+        "MEDICAL_TOPIC",
+        "Stryer 9ed"
+      ]
+    },
+    {
+      "question": "What effect does 2,4-dinitrophenol have on the mitochondria?",
+      "options": [
+        "Inhibits complex III",
+        "Inhibits complex I",
+        "Blocks complex V",
+        "Uncouples oxidative phosphorylation"
+      ],
+      "correctAnswer": 4,
+      "explanation": "2,4-Dinitrophenol acts as an uncoupler by dissipating the proton gradient across the inner mitochondrial membrane, generating heat instead of ATP.",
+      "hashtags": [
+        "biochemistry",
+        "respiratory_chain_inhibitors",
+        "action_mechanism",
+        "decoupler",
+        "MEDICAL_TOPIC",
+        "Lehninger 7ed"
+      ]
+    },
+    {
+      "question": "Which of these inhibitors acts on complex V (ATP synthase)?",
+      "options": [
+        "Antimycin A",
+        "Cyanide",
+        "Rotenone",
+        "Oligomycin"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Oligomycin binds to the F0 subunit of ATP synthase (complex V), blocking the passage of protons through the channel and inhibiting ATP synthesis.",
+      "hashtags": [
+        "biochemistry",
+        "respiratory_chain_inhibitors",
+        "action_mechanism",
+        "complex_v",
+        "MEDICAL_TOPIC",
+        "Harper 32ed"
+      ]
+    },
+    {
+      "question": "What direct cellular consequence does the inhibition of complex IV by cyanide have?",
+      "options": [
+        "NADH accumulation",
+        "Increased ATP production",
+        "Decreased oxygen consumption",
+        "Activation of aerobic glycolysis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "By blocking complex IV, cyanide prevents the transfer of electrons to oxygen, which stops oxygen consumption and oxidative phosphorylation, leading to cellular hypoxia.",
+      "hashtags": [
+        "biochemistry",
+        "respiratory_chain_inhibitors",
+        "pathophysiology",
+        "cellular_hypoxia",
+        "MEDICAL_TOPIC",
+        "Robbins 10ed"
+      ]
+    }
+  ]
+}
