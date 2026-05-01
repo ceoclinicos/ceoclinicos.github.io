@@ -1,0 +1,77 @@
+{
+  "id": "cáncer_colorrectal",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Factores de riesgo: edad, tabaco, obesidad",
+      "title": "Factores de riesgo",
+      "contentHtml": "<h2>Factores de riesgo</h2><ul><li><b>Edad ≥50 años</b> es el principal factor no modificable; el 90% de los casos ocurre en >50 años.</li><li><b>Tabaco</b> incrementa el riesgo de adenomas y cáncer colorrectal (RR 1.2-1.4), especialmente en recto.</li><li><b>Obesidad</b> (IMC >30) se asocia a mayor incidencia de cáncer de colon, mediado por hiperinsulinemia e IGF-1.</li><li>Otros: diabetes tipo 2, alcohol, dieta rica en carnes rojas y procesadas, baja ingesta de fibra.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Tamizaje: colonoscopia cada 10 años desde 50",
+      "title": "Tamizaje",
+      "contentHtml": "<h2>Tamizaje</h2><ul><li>Población promedio: iniciar a los <b>50 años</b> (USPSTF) o <b>45 años</b> (ACS) con <b>colonoscopia cada 10 años</b>.</li><li>Alternativas: <b>sangre oculta en heces inmunoquímica (FIT)</b> anual, <b>sigmoidoscopia flexible</b> cada 5 años + FIT cada 3 años, o <b>colonografía por TC</b> cada 5 años.</li><li>La colonoscopia permite detección y resección de pólipos adenomatosos (prevención secundaria).</li><li>En antecedente familiar de primer grado con CCR: iniciar a los 40 años o 10 años antes del caso más joven.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Síndrome de Lynch y poliposis adenomatosa familiar",
+      "title": "Síndromes hereditarios",
+      "contentHtml": "<h2>Síndromes hereditarios</h2><ul><li><b>Síndrome de Lynch</b> (HNPCC): mutación en genes reparadores del ADN (<b>MLH1, MSH2, MSH6, PMS2</b>); causa <5% de CCR; se caracteriza por inestabilidad de microsatélites (MSI-H).</li><li><b>Criterios de Ámsterdam II</b>: ≥3 familiares con CCR o cáncer asociado (endometrio, ovario, etc.) en dos generaciones, uno <50 años.</li><li><b>Poliposis adenomatosa familiar (PAF)</b>: mutación en <b>APC</b>; >100 adenomas colorrectales; riesgo de CCR >90% a los 40 años si no se realiza colectomía profiláctica.</li><li>En PAF, cribado con <b>colonoscopia anual desde los 10-12 años</b>.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Localización más frecuente: recto y sigma",
+      "title": "Localización anatómica",
+      "contentHtml": "<h2>Localización anatómica</h2><ul><li>La localización más frecuente es <b>recto y sigma</b> (~55% de los casos).</li><li>En países occidentales, la mayoría de CCR son izquierdos (distales al ángulo esplénico).</li><li>El cáncer de colon derecho (ciego, colon ascendente) es más frecuente en mujeres y ancianos; suele ser exofítico y produce anemia ferropénica.</li><li>El cáncer izquierdo tiende a ser infiltrativo/estenótico, manifestándose con cambio del hábito intestinal y obstrucción.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Presentación clínica: sangrado rectal y cambio hábito",
+      "title": "Presentación clínica",
+      "contentHtml": "<h2>Presentación clínica</h2><ul><li><b>Sangrado rectal</b> (hematoquecia o rectorragia) es el síntoma más común en cáncer de recto y sigma.</li><li><b>Cambio del hábito intestinal</b>: estreñimiento alternado con diarrea, tenesmo, sensación de evacuación incompleta.</li><li>Dolor abdominal tipo cólico, distensión, y pérdida de peso involuntaria son signos de enfermedad avanzada.</li><li>La <b>obstrucción intestinal</b> es más frecuente en tumores izquierdos; la <b>perforación</b> es una urgencia quirúrgica.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Cáncer de colon derecho: anemia ferropénica",
+      "title": "Cáncer de colon derecho",
+      "contentHtml": "<h2>Cáncer de colon derecho</h2><ul><li>Se presenta típicamente con <b>anemia ferropénica</b> por sangrado crónico oculto (heces mezcladas, no visibles).</li><li>Los tumores derechos son más exofíticos y voluminosos, con menor tendencia a obstruir precozmente.</li><li>La <b>colonoscopia</b> es el método diagnóstico; si hay anemia ferropénica de novo en >50 años, debe descartarse CCR derecho.</li><li>Histológicamente suelen ser <b>mucinosos</b> o con inestabilidad de microsatélites (MSI-H).</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Estadificación TNM y ganglios linfáticos",
+      "title": "Estadificación TNM",
+      "contentHtml": "<h2>Estadificación TNM</h2><ul><li><b>TNM (AJCC 8ª edición)</b>: Tis (intramucoso), T1 (submucosa), T2 (muscular propia), T3 (subserosa/grasa pericolónica), T4a (peritoneo visceral), T4b (órganos adyacentes).</li><li><b>N0</b>: sin ganglios; <b>N1</b>: 1-3 ganglios; <b>N2</b>: ≥4 ganglios.</li><li><b>M1a</b>: metástasis a un órgano; <b>M1b</b>: >1 órgano; <b>M1c</b>: metástasis peritoneales.</li><li>La evaluación ganglionar requiere <b>≥12 ganglios</b> analizados para una estadificación adecuada.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "CEA como marcador tumoral y seguimiento",
+      "title": "CEA",
+      "contentHtml": "<h2>CEA</h2><ul><li><b>CEA (antígeno carcinoembrionario)</b>: glicoproteína sérica; no es diagnóstico, pero útil en seguimiento postratamiento.</li><li>Valor normal <b><5 ng/mL</b>; elevación preoperatoria se asocia a peor pronóstico.</li><li>Se mide cada 3-6 meses durante 2-3 años, luego cada 6-12 meses hasta 5 años.</li><li>Si hay elevación persistente del <b>CEA</b> postcolectomía, sospechar recurrencia; indicar <b>colonoscopia</b> y <b>TC tóraco-abdomino-pélvico</b>.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Tratamiento quirúrgico: colectomía con linfadenectomía",
+      "title": "Tratamiento quirúrgico",
+      "contentHtml": "<h2>Tratamiento quirúrgico</h2><ul><li>La <b>colectomía con linfadenectomía</b> es el tratamiento curativo para CCR localizado (estadios I-III).</li><li>Resección oncológica: márgenes proximal y distal ≥5 cm; ligadura vascular central; <b>linfadenectomía</b> que incluya los ganglios regionales (≥12).</li><li>En cáncer de recto, <b>resección total del mesorrecto (TME)</b> es estándar para reducir recurrencia local.</li><li>Abordaje laparoscópico no es inferior a cirugía abierta en términos oncológicos.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Quimioterapia adyuvante en estadio III",
+      "title": "Quimioterapia adyuvante",
+      "contentHtml": "<h2>Quimioterapia adyuvante</h2><ul><li>Indicada en <b>estadio III</b> (ganglios positivos) y en estadio II de alto riesgo (T4, perforación, pobre diferenciación, <12 ganglios).</li><li>Régimen estándar: <b>FOLFOX</b> (5-FU, leucovorina, oxaliplatino) por 6 meses; alternativa <b>CAPOX</b> (capecitabina + oxaliplatino).</li><li>En pacientes >70 años, el beneficio de oxaliplatino es limitado; considerar <b>5-FU/LV</b> o capecitabina en monoterapia.</li><li>En tumores MSI-H estadio II, no se recomienda <b>5-FU</b> adyuvante (no beneficio, incluso podría ser deletéreo).</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Metástasis hepáticas: resección y quimioterapia",
+      "title": "Metástasis hepáticas",
+      "contentHtml": "<h2>Metástasis hepáticas</h2><ul><li>El hígado es el sitio más frecuente de metástasis (vía portal).</li><li>La <b>resección hepática</b> con intención curativa es posible si hay <3 nódulos, enfermedad hepática limitada a un lóbulo y función hepática preservada.</li><li>Quimioterapia perioperatoria: <b>FOLFOX</b> o <b>FOLFIRI</b> (irinotecán) ± biológicos (bevacizumab, cetuximab si RAS nativo).</li><li>La supervivencia a 5 años tras resección de metástasis hepáticas alcanza el 40-50%.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Seguimiento postratamiento: colonoscopia y CEA",
+      "title": "Seguimiento",
+      "contentHtml": "<h2>Seguimiento</h2><ul><li><b>Colonoscopia</b> al año de la cirugía (si no se realizó colonoscopia preoperatoria completa, hacer a los 3-6 meses).</li><li>Si normal, repetir a los 3 años, luego cada 5 años.</li><li><b>CEA</b> cada 3-6 meses durante 3 años, luego cada 6-12 meses hasta los 5 años.</li><li><b>TC tóraco-abdomino-pélvico</b> anual durante 3-5 años en pacientes con alto riesgo de recurrencia (estadio III o II de alto riesgo).</li></ul>"
+    }
+  ]
+}

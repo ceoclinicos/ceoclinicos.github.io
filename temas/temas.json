@@ -1588,6 +1588,69 @@
         "#gastroenterologia"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "vólvulos",
+      "titulo": "Vólvulos",
+      "descripcion": "Estudio de los vólvulos intestinales, su fisiopatología, diagnóstico y manejo quirúrgico urgente.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#cirugia_general",
+        "#urgencias",
+        "#gastroenterologia",
+        "#abdomen_agudo"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "isquemia_mesentérica",
+      "titulo": "Isquemia Mesentérica",
+      "descripcion": "Condición médica caracterizada por la reducción del flujo sanguíneo al intestino, que puede llevar a daño tisular y necrosis.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#cirugia_general",
+        "#medicina_interna",
+        "#urgencias",
+        "#isquemia_mesenterica"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "diverticulitis_aguda",
+      "titulo": "Diverticulitis Aguda",
+      "descripcion": "Manejo diagnóstico y terapéutico de la inflamación aguda de los divertículos colónicos, incluyendo clasificación, tratamiento médico y quirúrgico.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#diverticulitis_aguda",
+        "#cirugia_general",
+        "#medicina_interna",
+        "#urgencias"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "cáncer_colorrectal",
+      "titulo": "Cáncer Colorrectal",
+      "descripcion": "Tema sobre el cáncer de colon y recto: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento oncológico.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 66,
+      "etiquetas": [
+        "#oncologia",
+        "#cancer_colorrectal",
+        "#gastroenterologia",
+        "#medicina_interna",
+        "#coloproctologia"
+      ],
+      "tieneGuia": false
     }
   ]
 }

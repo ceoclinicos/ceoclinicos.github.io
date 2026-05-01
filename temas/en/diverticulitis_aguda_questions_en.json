@@ -1,1332 +1,1370 @@
 {
   "questions": [
     {
-      "question": "What is the main histological characteristic of a colonic diverticulum that classifies it as a pseudodiverticulum?",
+      "question": "Which Hinchey stage describes a paracolic abscess?",
       "options": [
-        "It is formed by invagination of serosa",
-        "Excludes the submucosal layer",
-        "It is a herniation of the mucosa and submucosa.",
-        "Contains all intestinal layers"
+        "Hinchey II",
+        "Hinchey I",
+        "Hinchey III",
+        "Hinchey IV"
       ],
-      "correctAnswer": 3,
-      "explanation": "A pseudodiverticulum, also known as a false diverticulum, is characterized histologically as a herniation of the mucosa and submucosa through the muscular layer of the colon, unlike a true diverticulum that contains all layers of the intestinal wall.",
+      "correctAnswer": 1,
+      "explanation": "The Hinchey classification for acute diverticulitis divides the stages according to the extent of the infection: Hinchey I (confined pericolic abscess), Hinchey II (pelvic or paracolic abscess), Hinchey III (purulent peritonitis) and Hinchey IV (fecaloid peritonitis).",
       "hashtags": [
-        "gastroenterology",
+        "general_surgery",
         "acute_diverticulitis",
-        "concept",
-        "pseudodiverticulum",
-        "PATHOLOGY",
-        ""
+        "clinical_table",
+        "hinchey_classification",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
       ]
     },
     {
-      "question": "What condition precedes acute diverticulitis and is characterized by the simple presence of sacculations in the colon?",
+      "question": "What is the surgical treatment of choice in Hinchey III?",
       "options": [
-        "Irritable bowel syndrome",
-        "Diverticulosis",
-        "Crohn's disease",
-        "Ischemic colitis"
+        "Laparoscopic lavage plus drainage",
+        "Diagnostic laparoscopy",
+        "Resection with primary anastomosis",
+        "Total colectomy with ileostomy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In Hinchey III (purulent peritonitis), laparoscopic lavage plus drainage has gained acceptance as a minimally invasive surgical option, reserving resection for cases without improvement or with fecaloid peritonitis (Hinchey IV).",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "treatment",
+        "laparoscopic_wash",
+        "MEDICAL_TOPIC",
+        "ASCRS Guide 2022"
+      ]
+    },
+    {
+      "question": "What tomographic finding characterizes Hinchey stage I?",
+      "options": [
+        "Generalized pneumoperitoneum",
+        "Pericolic abscess less than 4 cm",
+        "Diffuse purulent peritonitis",
+        "Paracolic abscess greater than 5 cm"
       ],
       "correctAnswer": 2,
-      "explanation": "Diverticulosis is the underlying condition that is defined by the mere presence of diverticula in the colon. Acute diverticulitis is an inflammatory complication of this condition, while the other options are differential diagnoses.",
+      "explanation": "In Hinchey I, a small pericolic abscess (less than 4 cm) confined to the mesentery or adjacent to the colon is observed; Major or distant abscesses correspond to Hinchey II, and peritonitis to stages III or IV.",
       "hashtags": [
-        "gastroenterology",
+        "radiology",
         "acute_diverticulitis",
-        "concept",
-        "diverticulosis",
-        "PATHOLOGY",
-        ""
+        "diagnosis",
+        "abdominal_tomography",
+        "MEDICAL_TOPIC",
+        "Radiology 2023"
       ]
     },
     {
-      "question": "What type of complication of diverticulitis is described as a localized collection of pus?",
+      "question": "What is the recommended initial management in Hinchey I?",
       "options": [
-        "Free drilling",
+        "Oral antibiotics and observation",
+        "Emergency surgery",
+        "Scheduled colectomy",
+        "Percutaneous abscess drainage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In Hinchey I (small confined abscess) conservative management with oral or intravenous antibiotics and observation is sufficient; Surgery or percutaneous drainage is reserved for larger abscesses or failure of medical treatment.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "treatment",
+        "conservative_management",
+        "MEDICAL_TOPIC",
+        "WSES Guide 2020"
+      ]
+    },
+    {
+      "question": "What complication defines Hinchey stage IV?",
+      "options": [
         "Fecal peritonitis",
-        "Pericolic phlegmon",
-        "Abscess"
-      ],
-      "correctAnswer": 4,
-      "explanation": "An abscess is a localized collection of pus that forms as a complication of diverticulitis when the microperforation is not effectively contained. A phlegmon is an inflammatory mass without encapsulated pus.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "concept",
-        "diverticular_abscess",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which of the following dietary factors is associated with an increased risk of developing diverticulosis and diverticulitis?",
-      "options": [
-        "High fluid intake",
-        "Low fiber and high fat diet",
-        "High fiber diet",
-        "Moderate consumption of vegetables"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The classic dietary hypothesis suggests that a low-fiber diet leads to lower stool volume and higher intraluminal pressure in the colon, promoting mucosal herniation. Diets rich in red meat and fat are also associated with increased risk.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "etiology",
-        "fiber_diet",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which medication has been shown to increase the risk of diverticulitis and its complications if used chronically?",
-      "options": [
-        "Antacids",
-        "Osmotic laxatives",
-        "Paracetamol",
-        "NSAIDs"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Chronic use of non-steroidal anti-inflammatory drugs (NSAIDs) increases the risk of diverticulitis and its complications such as bleeding and perforation, possibly by compromising the integrity of the intestinal mucosa.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "etiology",
-        "nsaid_medicines",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most accepted mechanism for the onset of acute diverticular inflammation?",
-      "options": [
-        "Use of probiotics",
-        "Diverticular orifice obstruction",
-        "Intense physical exercise",
-        "High fiber diet"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The most accepted and common cause of the onset of diverticular inflammation is obstruction of the diverticulum orifice by fecalith, seeds, or undigested food particles, leading to stasis and ischemia.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "etiology",
-        "diverticular_obstruction",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which lifestyle factor is consistently associated with an increased risk of diverticulosis and its complications?",
-      "options": [
-        "Fish consumption",
-        "vegetarian diet",
-        "Obesity",
-        "Regular exercise"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Lack of physical activity and excess body weight, particularly obesity, are consistently associated with an increased risk of developing diverticulosis and more severe forms of diverticulitis.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "etiology",
-        "obesity_life_style",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "How does aging contribute to the formation of diverticula in the colon?",
-      "options": [
-        "Increase dietary fiber",
-        "Causes degenerative changes in tissue",
-        "Decreases intraluminal pressure",
-        "Increases colonic motility"
-      ],
-      "correctAnswer": 2,
-      "explanation": "With age, degenerative changes occur in the connective tissue of the colonic wall, such as a decrease in elastin and type III collagen and an increase in type I collagen, making the wall more rigid and susceptible to herniation.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "etiology",
-        "advanced_age",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Why is the sigmoid colon the most common location for diverticulum formation?",
-      "options": [
-        "Lower intraluminal pressure",
-        "Absence of segmental peristalsis",
-        "Greater wall strength",
-        "Weak points due to blood vessels"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The sigmoid colon is the most common location due to the combination of elevated intraluminal pressures and structural weaknesses in the colonic wall, particularly at sites where blood vessels (vasa recta) penetrate the muscularis propria.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "pathophysiology",
-        "sigmoid_location",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What pathological event precedes microperforation in the pathophysiology of acute diverticulitis?",
-      "options": [
-        "Fibrotic scarring",
-        "Increased intradiverticular pressure",
-        "Fistula formation",
-        "Complete intestinal obstruction"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Obstruction of the diverticular neck leads to a buildup of contents and increased pressure within the diverticulum, which compromises blood flow, causing ischemia and edema that precedes microperforation.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "pathophysiology",
-        "inflammation_mechanism",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the central characteristic that defines the progression to acute diverticulitis from diverticulosis?",
-      "options": [
-        "massive hemorrhage",
-        "Pseudopolyp formation",
-        "Wall microperforation",
-        "Chronic constipation"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Microperforation of the diverticular wall is the central characteristic of acute diverticulitis, allowing the extravasation of bacteria and toxins to the pericolic tissue, triggering an inflammatory response.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "pathophysiology",
-        "microperforation",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What complication develops if the diverticular perforation is not effectively contained and diffuse purulent material is present?",
-      "options": [
-        "Localized abscess",
-        "colonic stenosis",
-        "Pericolic phlegmon",
-        "Purulent peritonitis"
-      ],
-      "correctAnswer": 4,
-      "explanation": "If the perforation is more significant or uncontained, it may result in generalized purulent peritonitis, where there is diffuse pus in the peritoneal cavity without gross fecal contamination.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "pathophysiology",
-        "purulent_peritonitis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What phenomenon is related to the pattern of higher amplitude segmental contractions in diverticulosis?",
-      "options": [
-        "Greater nutrient absorption",
-        "Reduction of ischemia",
-        "Colonic motility abnormalities",
-        "Decreased luminal pressure"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Patients with diverticulosis often present abnormal motility patterns, with segmental contractions of greater amplitude and duration that increase intraluminal pressure, contributing to the formation of diverticula.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "pathophysiology",
-        "colonic_motility",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the approximate prevalence of diverticulosis in people over 80 years of age?",
-      "options": [
-        "More than 70%",
-        "10-20%",
-        "less than 5%",
-        "30-50%"
+        "Colovesical fistula",
+        "paracolic abscess",
+        "intestinal obstruction"
       ],
       "correctAnswer": 1,
-      "explanation": "The prevalence of diverticulosis increases dramatically with age, affecting more than 70% of people over 80 years of age, being less common in young people.",
+      "explanation": "Hinchey IV is characterized by diffuse fecaloid peritonitis due to free perforation of the colon, requiring urgent surgery with resection and lavage; Abscesses correspond to stages I–II and fistulas are chronic complications not classified by Hinchey.",
       "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "epidemiology",
-        "age_prevalence",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the trend observed in the incidence of acute diverticulitis in recent decades?",
-      "options": [
-        "Steady increase",
-        "Stability at all ages",
-        "Only increase in people over 70 years of age",
-        "Steady decline"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The incidence of acute diverticulitis has shown a steady increase in recent decades, particularly in younger age groups (under 50 years).",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "epidemiology",
-        "incidence_trend",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What percentage of people with diverticulosis will develop acute diverticulitis during their lifetime?",
-      "options": [
-        "Almost 100%",
-        "Between 10% and 25%",
-        "More than 50%",
-        "less than 5%"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Of people with diverticulosis, only a minor percentage, estimated between 10% and 25% over a lifetime, will develop acute diverticulitis.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "epidemiology",
-        "conversion_risk",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most common location of abdominal pain in acute diverticulitis?",
-      "options": [
-        "Upper right quadrant",
-        "Epigastrium",
-        "Lower left quadrant",
-        "right iliac fossa"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The typical abdominal pain in acute diverticulitis is located in the left lower quadrant (LAC), since the sigmoid colon is the most commonly affected part of the colon.",
-      "hashtags": [
-        "gastroenterology",
+        "general_surgery",
         "acute_diverticulitis",
         "clinical_table",
-        "abdominal_pain",
-        "PATHOLOGY",
-        ""
+        "fecal_peritonitis",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
       ]
     },
     {
-      "question": "What urinary symptom may occur due to irritation of the bladder from pericolic inflammation?",
-      "options": [
-        "urinary retention",
-        "Anuria",
-        "Dysuria and frequency",
-        "Macroscopic hematuria"
-      ],
-      "correctAnswer": 3,
-      "explanation": "When the inflamed colon is adjacent to the bladder, irritation can cause urinary symptoms such as dysuria (pain when urinating), frequency (urinary frequency), and urinary urgency.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "clinical_table",
-        "urinary_symptoms",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which of the following changes in bowel habit is most common in acute diverticulitis?",
-      "options": [
-        "Fecal incontinence",
-        "Abundant bloody stools",
-        "Explosive diarrhea",
-        "Constipation"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Constipation is the most common alteration of bowel habits in patients with acute diverticulitis, reported by up to 50% of patients, due to local inflammation and colonic spasm.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "clinical_table",
-        "gut_habit",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What systemic sign indicates an inflammatory or infectious response in acute diverticulitis?",
-      "options": [
-        "Low grade fever",
-        "Bradycardia",
-        "Orthostatic hypotension",
-        "Hypothermia"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Fever is a common symptom in acute diverticulitis, typically low grade (38-38.5°C) in uncomplicated cases, and is an indicator of inflammation or infection.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "clinical_table",
-        "fever",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What finding on abdominal palpation is classic in acute diverticulitis?",
-      "options": [
-        "Sensitivity in right hypochondrium",
-        "Tenderness in left lower quadrant",
-        "Epigastric pulsatile mass",
-        "Nuchal rigidity"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Tenderness to palpation in the left lower quadrant (LAI) is the most classic and constant finding in the physical examination of patients with acute diverticulitis, given the most common location of the disease.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "diagnosis",
-        "physical_exam",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What does a tender, firm mass in the left lower quadrant indicate during physical examination?",
-      "options": [
-        "ectopic pregnancy",
-        "Retrocecal appendicitis",
-        "inguinal hernia",
-        "Inflammatory phlegmon"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A painful, firm, poorly circumscribed mass in the CII may indicate inflammatory phlegmon, an edematous inflammatory mass involving the affected diverticulum and surrounding pericolic tissue.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "diagnosis",
-        "palpable_mass",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which vital sign is commonly elevated in a patient with acute diverticulitis due to the systemic response to the infection?",
-      "options": [
-        "Hypothermia",
-        "Bradycardia",
-        "Body temperature",
-        "Orthostatic hypotension"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Fever (temperature >38°C) is common, indicating inflammation or infection. Tachycardia and tachypnea may also be elevated as part of the systemic response to infection (SIRS).",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "diagnosis",
-        "vital_signs",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the imaging modality of choice (gold standard) to confirm the diagnosis of acute diverticulitis and its complications?",
-      "options": [
-        "Computed Tomography (CT)",
-        "Magnetic resonance imaging (MRI)",
-        "abdominal ultrasound",
-        "Simple abdominal x-ray"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Computed Tomography (CT) of the abdomen and pelvis with contrast is the imaging modality of choice to confirm the diagnosis of acute diverticulitis, evaluate its extension and detect possible complications such as abscesses or perforations.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "diagnosis",
-        "tc_abdomen",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which laboratory finding is the most common and reflects the inflammatory/infectious response in acute diverticulitis?",
-      "options": [
-        "Leukocytosis",
-        "Hypoglycemia",
-        "Hypernatremia",
-        "Anemia"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Leukocytosis, an elevated white blood cell count with a shift to the left (neutrophilia with immature forms), is the most common laboratory finding, reflecting the body's inflammatory or infectious response.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "diagnosis",
-        "leukocytosis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Why is colonoscopy contraindicated in the acute phase of diverticulitis?",
-      "options": [
-        "Drilling risk",
-        "Need for deep sedation",
-        "Risk of bleeding",
-        "Diagnostic ineffectiveness"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Colonoscopy is contraindicated in the acute phase of diverticulitis due to the high risk of perforation of the inflamed intestinal wall when insufflating air or manipulating it. It is recommended to perform it 6-8 weeks after resolution.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "diagnosis",
-        "colonoscopy_contraindicated",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most sensitive radiological sign of acute diverticulitis on CT?",
-      "options": [
-        "Pericolic fat stretch marks",
-        "Proximal loop dilation",
-        "Gastric wall thickening",
-        "Subdiaphragmatic free air"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Fat stranding, indicating infiltration of adjacent mesenteric fat, is the most sensitive radiological sign of inflammation in acute diverticulitis on computed tomography.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "diagnosis",
-        "tc_findings",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "According to the modified Hinchey classification, what stage does mild diverticulitis or pericolic phlegmon without abscess correspond to?",
-      "options": [
-        "Stage II",
-        "Ib Stadium",
-        "Stadium 0",
-        "Ia Stadium"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Stage 0 of the modified Hinchey (or Sherman) classification corresponds to mild diverticulitis or pericolic phlegmon without evidence of abscess, perforation, fistula or obstruction, that is, uncomplicated diverticulitis.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "concept",
-        "hinchey_0",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which stage of Hinchey's classification is associated with generalized fecal peritonitis, indicating the most severe form?",
-      "options": [
-        "Ib Stadium",
-        "Stage II",
-        "Stage III",
-        "Ia Stadium"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Stage III of the modified Hinchey classification (and original IV) corresponds to generalized fecal peritonitis, where there is perforation with diffuse fecal contamination, being the most severe form with high mortality.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "concept",
-        "hinchey_iii",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the treatment of choice for a 5 cm pericolic abscess according to the ASCRS classification (Type 2b)?",
-      "options": [
-        "Observation without treatment",
-        "Outpatient oral antibiotics",
-        "Direct Hartmann surgery",
-        "Image-guided percutaneous drainage"
-      ],
-      "correctAnswer": 4,
-      "explanation": "According to the ASCRS classification, a large abscess (Type 2b, ≥ 3-4 cm) requires image-guided percutaneous drainage, in addition to intravenous antibiotics, due to its size and risk of complications if not drained.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "concept",
-        "large_abscess_treatment",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What urologic condition can mimic the left lower quadrant pain of acute diverticulitis?",
-      "options": [
-        "Right pyelonephritis",
-        "Left kidney stone",
-        "Benign prostatic hyperplasia",
-        "Right urine infection"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Ureterolithiasis (kidney stones) in the left ureter can cause severe cramping pain that radiates from the left flank to the groin, mimicking the pain of acute diverticulitis.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "concept",
-        "urolithiasis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the current recommendation regarding the use of antibiotics in immunocompetent patients with uncomplicated diverticulitis and mild symptoms?",
-      "options": [
-        "They are always mandatory",
-        "Not recommended",
-        "They may not be necessary",
-        "Topical antibiotics only"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Current guidelines suggest that antibiotics may not be necessary in immunocompetent patients with uncomplicated diverticulitis and mild symptoms who can be managed on an outpatient basis, based on studies showing similar success rates with and without them.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "treatment",
-        "antibiotics_not_complicated",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What types of analgesics should be avoided in patients with acute diverticulitis due to their association with increased risk of complications?",
-      "options": [
-        "Paracetamol",
-        "Spasmolytic analgesics",
-        "NSAIDs",
-        "Opioids"
-      ],
-      "correctAnswer": 3,
-      "explanation": "NSAIDs (nonsteroidal anti-inflammatory drugs) should be avoided in patients with acute diverticulitis due to their association with an increased risk of perforation, bleeding, and other intestinal complications.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "treatment",
-        "avoid_aines",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the surgical procedure of choice for generalized fecal peritonitis (Hinchey III)?",
-      "options": [
-        "Colectomy with primary anastomosis",
-        "laparoscopic lavage",
-        "Hartmann procedure",
-        "Percutaneous drainage only"
-      ],
-      "correctAnswer": 3,
-      "explanation": "For generalized fecal peritonitis (Hinchey III), the Hartmann procedure is the surgical gold standard due to high fecal contamination and the significant risk of anastomotic dehiscence if a primary anastomosis is performed.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "treatment",
-        "surgery_hinchey_iii",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What type of diet is initially indicated for a hospitalized patient with severe or complicated acute diverticulitis?",
-      "options": [
-        "Regular high fiber diet",
-        "Soft low-residue diet",
-        "Clear liquid diet",
-        "NPO (Nothing Oral)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "In cases of severe, complicated acute diverticulitis, or with symptoms such as intense pain, nausea/vomiting, distention or suspected perforation, NPO (Nothing Oral) is initially indicated to give intestinal rest.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "treatment",
-        "diet_orders",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most classic and constant finding in the abdominal physical examination of a patient with acute diverticulitis?",
-      "options": [
-        "Increased bowel sounds",
-        "Tenderness in the left lower quadrant",
-        "Generalized abdominal distension",
-        "Fluctuating palpable mass in DIC"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Tenderness in the left lower quadrant is the most classic and constant finding in the physical examination of patients with acute diverticulitis, reflecting inflammation of the sigmoid colon, which is the most common location of the disease.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_diverticulitis",
-        "concept",
-        "cii_sensitivity",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "On abdominal inspection of a patient with acute diverticulitis, what sign might indicate a serious complication such as generalized peritonitis?",
-      "options": [
-        "Visible hernias",
-        "Shallow breathing pattern",
-        "Abdominal distension",
-        "Scars from previous surgeries"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Abdominal distention may suggest ileus, intestinal obstruction, or generalized peritonitis, which are serious complications of acute diverticulitis. The other options are less specific findings or indicative of other conditions.",
-      "hashtags": [
-        "general_surgery",
-        "acute_diverticulitis",
-        "concept",
-        "abdominal_inspection",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most common finding on the complete blood count of a patient with acute diverticulitis?",
-      "options": [
-        "Thrombocytopenia",
-        "Hypoglycemia",
-        "Leukocytosis with left shift",
-        "Anemia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Leukocytosis, defined as an elevated white blood cell count, especially with neutrophilia and immature forms (left shift), is the most common laboratory finding, indicative of an inflammatory or infectious response.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_diverticulitis",
-        "diagnosis",
-        "laboratory_leukocytosis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most sensitive radiological sign of acute diverticulitis on computed tomography (CT)?",
-      "options": [
-        "Pericolic fat stranding",
-        "Thickening of the colonic wall",
-        "Presence of diverticula",
-        "Intra-abdominal free fluid"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Pericolic fat stranding or 'fat stranding' is the infiltration of adjacent mesenteric fat, indicating inflammation. This is considered the most sensitive radiological sign on CT for the diagnosis of acute diverticulitis, although the others are also typical findings.",
-      "hashtags": [
-        "general_surgery",
-        "acute_diverticulitis",
-        "diagnosis",
-        "tc_findings",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Why is colonoscopy contraindicated in the acute phase of diverticulitis?",
-      "options": [
-        "Drilling risk",
-        "Causes massive bleeding",
-        "Can spread infection",
-        "Difficulty viewing"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Colonoscopy is contraindicated in the acute phase of diverticulitis due to the high risk of perforation of the inflamed intestinal wall when insufflating air or manipulating the colon. It is postponed until 6-8 weeks after resolution of the acute episode.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "diagnosis",
-        "colonoscopy_contraindication",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "According to Hinchey's original classification, what describes Stage I?",
-      "options": [
-        "Generalized purulent peritonitis",
-        "Generalized fecal peritonitis",
-        "Distant intra-abdominal abscess",
-        "Localized pericolic or mesenteric abscess"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The original Hinchey classification describes Stage I as a localized pericolic or mesenteric abscess. The other options correspond to more advanced or different stages of the original Hinchey classification.",
-      "hashtags": [
-        "general_surgery",
-        "acute_diverticulitis",
-        "concept",
-        "hinchey_original_i",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "In the modified Hinchey classification, what condition is associated with Stage II (formerly original III)?",
-      "options": [
-        "Generalized fecal peritonitis",
-        "Generalized purulent peritonitis",
-        "Small pericolic abscess",
-        "Large intra-abdominal abscess"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The modified Hinchey classification, specifically Stage II (corresponding to the original Stage III), describes a perforation with generalized purulent peritonitis, where there is diffuse pus in the peritoneal cavity without gross fecal contamination.",
-      "hashtags": [
-        "general_surgery",
-        "acute_diverticulitis",
-        "concept",
-        "Hinchey_modified_ii",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What does the ASCRS Type 2c1 classification of acute diverticulitis describe?",
-      "options": [
-        "Purulent peritonitis",
-        "Uncomplicated diverticulitis",
-        "Fecal peritonitis",
-        "Small abscess (< 3-4 cm)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The ASCRS (American Society of Colon and Rectal Surgeons) Classification Type 2c1 describes purulent peritonitis, which is a form of diverticulitis complicated by diffuse pus in the peritoneal cavity without loose stools.",
-      "hashtags": [
-        "general_surgery",
-        "acute_diverticulitis",
-        "concept",
-        "ascrs_2c1",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What colonic pathology can simulate acute diverticulitis with acute abdominal pain on the left side and bloody stools?",
-      "options": [
-        "Ischemic colitis",
-        "Irritable bowel syndrome",
-        "Radiation colitis",
-        "colorectal cancer"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Ischemic colitis presents with acute abdominal pain, often colicky and on the left side, accompanied by bloody stools or diarrhea, which can be confused with acute diverticulitis, requiring careful differentiation.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_diverticulitis",
-        "concept",
-        "ischemic_colitis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What urological condition can cause severe cramping pain from the left flank to the groin, simulating diverticulitis?",
-      "options": [
-        "Urinary tract infection",
-        "Ureterolithiasis",
-        "Acute left pyelonephritis",
-        "Cystitis"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Ureterolithiasis (kidney stones) can cause severe cramping pain that radiates from the left flank toward the groin, a pattern that can be confused with the pain of diverticulitis, especially if there are associated urinary symptoms.",
-      "hashtags": [
-        "urology",
-        "acute_diverticulitis",
-        "concept",
-        "ureterolithiasis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which treatment approach is currently controversial for acute uncomplicated diverticulitis in immunocompetent patients with mild symptoms?",
-      "options": [
-        "Clear liquid diet",
-        "Antibiotic use",
-        "Pain management with NSAIDs",
-        "Reevaluation in 2-3 days"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Current guidelines suggest that antibiotics may not be necessary in immunocompetent patients with uncomplicated diverticulitis and mild symptoms who can be managed on an outpatient basis, based on studies showing similar success rates with and without them.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_diverticulitis",
-        "treatment",
-        "antibiotics_not_complicated",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the treatment of choice for a large pericolic abscess (≥ 3-4 cm) in acute diverticulitis?",
+      "question": "What is the treatment of choice in Hinchey II with an abscess greater than 5 cm?",
       "options": [
         "Intravenous antibiotics alone",
-        "Emergency Hartmann surgery",
-        "Image-guided percutaneous drainage",
-        "Strict liquid diet"
+        "CT-guided percutaneous drainage",
+        "laparoscopic lavage",
+        "Sigmoid colon resection"
       ],
-      "correctAnswer": 3,
-      "explanation": "For large abscesses (≥ 3-4 cm), the treatment of choice is percutaneous drainage guided by CT or ultrasound, in combination with intravenous antibiotics. This strategy is effective in avoiding emergency surgery in most cases.",
+      "correctAnswer": 2,
+      "explanation": "In Hinchey II, abscesses larger than 4–5 cm are managed with CT-guided percutaneous drainage to control the septic source, followed by antibiotics; Surgery is reserved for drainage failure or patient instability.",
       "hashtags": [
         "general_surgery",
         "acute_diverticulitis",
         "treatment",
-        "drain_abscess",
-        "PATHOLOGY",
-        ""
+        "percutaneous_drainage",
+        "MEDICAL_TOPIC",
+        "ASCRS Guide 2022"
       ]
     },
     {
-      "question": "Which surgical procedure is the gold standard for generalized fecal peritonitis in acute diverticulitis?",
+      "question": "What tomographic finding characterizes the chord sign in acute diverticulitis?",
       "options": [
-        "Hartmann procedure",
-        "Colectomy with primary anastomosis",
-        "Percutaneous drainage",
-        "laparoscopic lavage"
+        "Mesenteric fat infiltration",
+        "Intra-abdominal free air",
+        "Concentric mural thickening",
+        "Septated pericolic abscess"
       ],
       "correctAnswer": 1,
-      "explanation": "The Hartmann procedure (resection of the affected segment with terminal colostomy and closure of the rectal stump) is the gold standard for generalized fecal peritonitis due to high contamination and the risk of anastomotic dehiscence, prioritizing patient safety.",
+      "explanation": "The chord sign on CT corresponds to the linear densification of mesenteric fat adjacent to the inflamed colon, reflecting the extension of inflammation along the mesenteric vessels.",
+      "hashtags": [
+        "radiology",
+        "acute_diverticulitis",
+        "clinical_table",
+        "rope_sign",
+        "MEDICAL_TOPIC",
+        "Clinical Radiology 4ed"
+      ]
+    },
+    {
+      "question": "What is the most common location of the chord sign in diverticulitis?",
+      "options": [
+        "descending colon",
+        "transverse colon",
+        "ascending colon",
+        "sigmoid colon"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Acute diverticulitis most commonly affects the sigmoid colon, and the chord sign is typically seen in the mesenteric fat of this region due to peridiverticular inflammation.",
+      "hashtags": [
+        "radiology",
+        "acute_diverticulitis",
+        "clinical_table",
+        "sigmoid_location",
+        "MEDICAL_TOPIC",
+        "Clinical Radiology 4ed"
+      ]
+    },
+    {
+      "question": "What anatomical structure is affected in the chord sign on CT?",
+      "options": [
+        "mesenteric fat",
+        "muscular wall of the colon",
+        "intestinal lumen",
+        "colonic mucosa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The rope sign describes inflammation of the mesenteric fat adjacent to the affected colon, appearing as linear densification or striae on CT, without direct involvement of the muscle wall or lumen.",
+      "hashtags": [
+        "radiology",
+        "acute_diverticulitis",
+        "clinical_table",
+        "mesenteric_fat",
+        "MEDICAL_TOPIC",
+        "Clinical Radiology 4ed"
+      ]
+    },
+    {
+      "question": "What is the main differential diagnosis of the chord sign on CT?",
+      "options": [
+        "Ischemic colitis",
+        "Acute appendicitis",
+        "Gastric perforation",
+        "intestinal obstruction"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acute appendicitis may present a similar chord sign in the mesenteric fat of the right lower quadrant, making it the main differential diagnosis, especially when diverticulitis affects the right colon.",
+      "hashtags": [
+        "radiology",
+        "acute_diverticulitis",
+        "diagnosis",
+        "acute_appendicitis",
+        "MEDICAL_TOPIC",
+        "Clinical Radiology 4ed"
+      ]
+    },
+    {
+      "question": "What additional finding usually accompanies the chord sign in acute diverticulitis?",
+      "options": [
+        "pleural effusion",
+        "Mesenteric calcifications",
+        "Intestinal pneumatosis",
+        "Localized mural thickening"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In acute diverticulitis, the rope sign is frequently associated with localized mural thickening of the affected colon, visible on CT as a segmental thickening of the colonic wall.",
+      "hashtags": [
+        "radiology",
+        "acute_diverticulitis",
+        "clinical_table",
+        "mural_thickening",
+        "MEDICAL_TOPIC",
+        "Clinical Radiology 4ed"
+      ]
+    },
+    {
+      "question": "In which phase of acute diverticulitis is the chord sign most evident on CT?",
+      "options": [
+        "Acute inflammatory phase",
+        "Resolution phase",
+        "Chronic scar phase",
+        "Active bleeding phase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The chord sign is most prominent during the acute inflammatory phase of diverticulitis, when inflammation of the mesenteric fat is maximal and is seen as linear densification on CT.",
+      "hashtags": [
+        "radiology",
+        "acute_diverticulitis",
+        "clinical_table",
+        "inflammatory_phase",
+        "MEDICAL_TOPIC",
+        "Clinical Radiology 4ed"
+      ]
+    },
+    {
+      "question": "What is the main clinical sign that differentiates right diverticulitis from acute appendicitis?",
+      "options": [
+        "Pain in left iliac fossa",
+        "Pain in hypogastrium",
+        "High fever from the beginning",
+        "Rovsing sign"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Right diverticulitis usually presents pain in the left or diffuse iliac fossa, while acute appendicitis typically presents pain in the right iliac fossa.",
       "hashtags": [
         "general_surgery",
-        "acute_diverticulitis",
+        "diverticulitis_vs_appendicitis",
+        "clinical_table",
+        "abdominal_pain",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Which imaging study is most useful to differentiate right diverticulitis from acute appendicitis?",
+      "options": [
+        "CT scan with contrast",
+        "Simple abdominal ultrasound",
+        "Simple abdominal x-ray",
+        "MRI without contrast"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Contrast-enhanced computed tomography has high sensitivity and specificity in distinguishing right diverticulitis from acute appendicitis, showing mural thickening and diverticula.",
+      "hashtags": [
+        "general_surgery",
+        "diverticulitis_vs_appendicitis",
+        "diagnosis",
+        "computed tomography",
+        "MEDICAL_TOPIC",
+        "Radiology 2022"
+      ]
+    },
+    {
+      "question": "Which tomographic finding is characteristic of right diverticulitis rather than appendicitis?",
+      "options": [
+        "Transverse colon dilation",
+        "Periappendiceal abscess",
+        "Cecal wall thickening",
+        "Impacted appendicolith"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Thickening of the cecal wall with inflamed diverticula is typical of right diverticulitis, while a dilated appendix and appendicolith are seen in appendicitis.",
+      "hashtags": [
+        "general_surgery",
+        "diverticulitis_vs_appendicitis",
+        "diagnosis",
+        "tomographic_findings",
+        "MEDICAL_TOPIC",
+        "Radiology 2022"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for uncomplicated right diverticulitis?",
+      "options": [
+        "Antibiotics and intestinal rest",
+        "Percutaneous abscess drainage",
+        "Urgent exploratory laparotomy",
+        "Scheduled ileocecal resection"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Uncomplicated right diverticulitis is managed with broad-spectrum antibiotics and bowel rest, similar to left diverticulitis, without initial surgery.",
+      "hashtags": [
+        "general_surgery",
+        "diverticulitis_vs_appendicitis",
         "treatment",
-        "fecal_peritonitis_surgery",
-        "PATHOLOGY",
+        "conservative_management",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "What complication is more common in right diverticulitis than in acute appendicitis?",
+      "options": [
+        "Early intestinal obstruction",
+        "Free perforation with peritonitis",
+        "Secondary urinary sepsis",
+        "Enterocutaneous fistula"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Enterocutaneous fistula is a more common complication of recurrent right diverticulitis, while perforated appendicitis usually causes localized peritonitis.",
+      "hashtags": [
+        "general_surgery",
+        "diverticulitis_vs_appendicitis",
+        "complications",
+        "enterocutaneous fistula",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "What epidemiological factor is more associated with right diverticulitis than with appendicitis?",
+      "options": [
+        "Age less than 20 years",
+        "low fiber diet",
+        "History of previous surgery",
+        "Female sex"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A low-fiber diet is a risk factor for diverticulosis and right diverticulitis, while appendicitis is more common in young people with no clear dietary relationship.",
+      "hashtags": [
+        "general_surgery",
+        "diverticulitis_vs_appendicitis",
+        "epidemiology",
+        "risk_factors",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What types of drugs should be strictly avoided in the management of acute diverticulitis pain due to their risk of perforation and bleeding?",
+      "question": "What is the Hinchey stage indicating pericolic abscess?",
       "options": [
-        "Acetaminophen",
-        "Opioid pain relievers",
-        "muscle relaxants",
-        "Non-steroidal anti-inflammatory drugs (NSAIDs)"
+        "Hinchey IV",
+        "Hinchey II",
+        "Hinchey I",
+        "Hinchey III"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In Hinchey's classification, stage II is characterized by the presence of a pericolic or pelvic abscess, unlike stage I which only shows phlegmon or an abscess confined to the wall.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "clinical_table",
+        "hinchey_criteria",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Which tomographic finding corresponds to Hinchey III?",
+      "options": [
+        "Fecal peritonitis",
+        "Small pericolic abscess",
+        "Localized mural thickening",
+        "Diffuse purulent peritonitis"
       ],
       "correctAnswer": 4,
-      "explanation": "Nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen or ketorolac should be avoided in acute diverticulitis because they are associated with a greater risk of perforation and hemorrhage, complicating the clinical picture.",
+      "explanation": "Hinchey III describes diffuse purulent peritonitis without evident free perforation, while Hinchey IV involves fecal peritonitis due to open perforation. The others are minor stages.",
+      "hashtags": [
+        "radiology",
+        "acute_diverticulitis",
+        "diagnosis",
+        "computed tomography",
+        "MEDICAL_TOPIC",
+        "AJR 2022"
+      ]
+    },
+    {
+      "question": "What is the indicated surgical management for Hinchey IV?",
+      "options": [
+        "Resection with primary anastomosis",
+        "Laparoscopic lavage plus drainage",
+        "Diagnostic laparoscopy alone",
+        "Resection with Hartmann colostomy"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In Hinchey IV (fecaloid peritonitis), resection of the affected segment with end colostomy (Hartmann) is preferred due to the high risk of anastomotic leak. The other options are not safe in this context.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "treatment",
+        "emergency_surgery",
+        "MEDICAL_TOPIC",
+        "ACS 2023"
+      ]
+    },
+    {
+      "question": "What criterion defines Hinchey I in acute diverticulitis?",
+      "options": [
+        "Free perforation with fecal peritonitis",
+        "Generalized purulent peritonitis",
+        "Abscess confined to the colonic wall",
+        "Catheter-drainable pericolic abscess"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hinchey I is defined as an abscess or phlegmon confined to the wall of the colon, without significant extension to the peritoneal cavity. Stage II involves pericolic or pelvic abscess.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "clinical_table",
+        "hinchey_criteria",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "What is the main difference between Hinchey III and Hinchey IV?",
+      "options": [
+        "Location of the diverticulum",
+        "Abscess size",
+        "Type of peritonitis",
+        "Presence of fever"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The key difference is the type of peritonitis: Hinchey III presents with diffuse purulent peritonitis, while Hinchey IV shows fecaloid peritonitis due to free perforation. This determines a more aggressive surgical management.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "pathophysiology",
+        "peritonitis",
+        "MEDICAL_TOPIC",
+        "ACS 2023"
+      ]
+    },
+    {
+      "question": "What CT finding contraindicates initial conservative management?",
+      "options": [
+        "Gas in the colon wall",
+        "Diffuse fecal peritonitis",
+        "Thickening of the colonic wall",
+        "Pericolic abscess less than 3 cm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diffuse fecaloid peritonitis (Hinchey IV) requires emergency surgery, not conservative management. The other options can be managed initially with antibiotics or percutaneous drainage.",
+      "hashtags": [
+        "radiology",
+        "acute_diverticulitis",
+        "diagnosis",
+        "computed tomography",
+        "MEDICAL_TOPIC",
+        "AJR 2022"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment in acute uncomplicated diverticulitis?",
+      "options": [
+        "Oral antibiotics",
+        "abdominal radiotherapy",
+        "urgent colectomy",
+        "Diagnostic laparoscopy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In uncomplicated acute diverticulitis, initial medical treatment consists of oral antibiotics (such as metronidazole plus ciprofloxacin) and liquid diet, reserving surgery for complicated cases or therapeutic failure.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "treatment",
+        "initial_handling",
+        "MEDICAL_TOPIC",
+        "ASCRS Guide 2022"
+      ]
+    },
+    {
+      "question": "Which tomographic finding indicates diverticulitis complicated with abscess?",
+      "options": [
+        "Intestinal pneumatosis",
+        "Mesenteric lymphadenopathy",
+        "Liquid Collection",
+        "Parietal thickening"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The presence of a fluid collection (abscess) on abdominal CT is a criterion for complicated diverticulitis, which often requires percutaneous drainage or surgery, unlike the wall thickening typical of the uncomplicated form.",
+      "hashtags": [
+        "radiology",
+        "acute_diverticulitis",
+        "diagnosis",
+        "computed tomography",
+        "MEDICAL_TOPIC",
+        "ESGE Guide 2021"
+      ]
+    },
+    {
+      "question": "When is elective surgery indicated for acute diverticulitis?",
+      "options": [
+        "Generalized peritonitis",
+        "After a single episode",
+        "Abscess < 3 cm",
+        "Colovesical fistula"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Elective surgery is indicated in diverticulitis complicated with fistula (colovesical, colovaginal), stenosis or recurrent abscess, not in single uncomplicated episodes or in small abscesses manageable with drainage.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "treatment",
+        "surgical_indications",
+        "MEDICAL_TOPIC",
+        "ASCRS Guide 2022"
+      ]
+    },
+    {
+      "question": "What clinical criterion suggests failure of medical treatment in diverticulitis?",
+      "options": [
+        "Leukocytosis of 10,000/mm³",
+        "Persistent fever for 48 hours",
+        "Nausea without vomiting",
+        "Mild pain in the iliac fossa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Persistent fever (>48 hours) despite antibiotics is a sign of therapeutic failure that requires considering percutaneous drainage or surgery, while mild leukocytosis and controlled pain are expected in a favorable outcome.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_diverticulitis",
+        "clinical_table",
+        "therapeutic_response",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What type of surgery is preferred in perforated diverticulitis with peritonitis?",
+      "options": [
+        "Colectomy with anastomosis",
+        "Diagnostic laparoscopy",
+        "laparoscopic lavage",
+        "Hartmann surgery"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In diffuse peritonitis due to perforated diverticulitis, Hartmann surgery (sigmoid colectomy with colostomy) is the procedure of choice, as it avoids anastomoses in a contaminated abdomen, reducing the risk of dehiscence.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "treatment",
+        "emergency_surgery",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Which antibiotic is associated with a higher risk of Clostridium difficile colitis in diverticulitis?",
+      "options": [
+        "Clindamycin",
+        "Amoxicillin",
+        "Metronidazole",
+        "Ciprofloxacin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Clindamycin has a high risk of inducing Clostridium difficile colitis, so it is not recommended as first line in diverticulitis; Combinations such as metronidazole plus ciprofloxacin or amoxicillin-clavulanic acid are preferred.",
       "hashtags": [
         "pharmacology",
         "acute_diverticulitis",
+        "adverse_effects",
+        "associated_colitis_antibiotics",
+        "MEDICAL_TOPIC",
+        "IDSA Guide 2021"
+      ]
+    },
+    {
+      "question": "What is the main indication for urgent surgery in acute diverticulitis?",
+      "options": [
+        "persistent fever",
+        "Pain in iliac fossa",
+        "Generalized peritonitis",
+        "moderate leukocytosis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Generalized peritonitis indicates free perforation with diffuse contamination, requiring urgent surgery to control the septic focus.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
         "treatment",
-        "contraindication_aines",
-        "PATHOLOGY",
+        "urgent_surgery",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "What tomographic finding requires urgent surgery in diverticulitis?",
+      "options": [
+        "Parietal thickening",
+        "small abscess",
+        "Fat swelling",
+        "Intra-abdominal free air"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Intra-abdominal free air is a sign of free perforation, an urgent surgical indication due to the risk of fecaloid peritonitis.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "diagnosis",
+        "abdominal_tomography",
+        "MEDICAL_TOPIC",
+        "ASGE Guide 2023"
+      ]
+    },
+    {
+      "question": "What clinical criterion indicates failure of medical treatment in diverticulitis?",
+      "options": [
+        "mild abdominal pain",
+        "Persistence of fever at 72 hours",
+        "Tolerated liquid diet",
+        "Decreasing leukocytosis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The persistence of fever after 72 hours of antibiotics suggests failure of conservative treatment, indicating urgent surgery.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "treatment",
+        "therapeutic_failure",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which complication of diverticulitis requires emergency surgery?",
+      "options": [
+        "diverticular bleeding",
+        "Pericolic abscess",
+        "Colovesical fistula",
+        "intestinal obstruction"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Complete intestinal obstruction due to diverticulitis does not resolve with conservative measures, requiring urgent surgery for decompression.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "complications",
+        "intestinal_obstruction",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "What physical sign is an absolute indication for urgent surgery?",
+      "options": [
+        "Mild abdominal distention",
+        "Decreased intestinal sounds",
+        "Generalized abdominal defense",
+        "Tenderness in the iliac fossa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Generalized abdominal guarding indicates diffuse peritoneal irritation, a sign of peritonitis requiring urgent laparotomy.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "clinical_table",
+        "peritoneal_signs",
+        "MEDICAL_TOPIC",
+        "ESCP Guide 2022"
+      ]
+    },
+    {
+      "question": "What condition in diverticulitis contraindicates conservative management?",
+      "options": [
+        "Hinchey Ia diverticulitis",
+        "Sepsis of abdominal origin",
+        "Abscess less than 4 cm",
+        "Initial fever of 38°C"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sepsis of abdominal origin indicates organ failure due to uncontrolled infection, requiring urgent surgery for drainage and resection.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "treatment",
+        "abdominal_sepsis",
+        "MEDICAL_TOPIC",
+        "Surviving Sepsis Campaign 2023"
+      ]
+    },
+    {
+      "question": "What is the antibiotic of choice in uncomplicated diverticulitis?",
+      "options": [
+        "Vancomycin",
+        "Metronidazole",
+        "Ceftriaxone",
+        "Amoxicillin-clavulanate"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Amoxicillin-clavulanate is the first-line antibiotic in uncomplicated diverticulitis due to its coverage against gram-negative and anaerobes.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_diverticulitis",
+        "treatment",
+        "uncomplicated_antibiotictherapy",
+        "MEDICAL_TOPIC",
+        "ESCP Guide 2023"
+      ]
+    },
+    {
+      "question": "When is antibiotic therapy indicated in uncomplicated diverticulitis?",
+      "options": [
+        "Only in recurrences",
+        "Always on diagnosis",
+        "Only if there are comorbidities",
+        "It is never indicated"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In uncomplicated diverticulitis, antibiotic therapy is reserved for patients with comorbidities or immunosuppression, since the majority is managed with observation.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_diverticulitis",
+        "indications",
+        "antibiotic_criteria",
+        "MEDICAL_TOPIC",
+        "AGA Guide 2023"
+      ]
+    },
+    {
+      "question": "What does the antibiotic regimen cover in uncomplicated diverticulitis?",
+      "options": [
+        "Gram positive only",
+        "Gram-negative and anaerobic",
+        "Only anaerobes",
+        "Mycobacteria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The flora involved in diverticulitis includes gram-negative and anaerobic bacilli, so antibiotic therapy must cover both groups.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_diverticulitis",
+        "pathophysiology",
+        "bacterial_flora",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "When is it recommended to perform a colonoscopy after an episode of acute diverticulitis?",
+      "question": "What is an alternative to amoxicillin-clavulanate in uncomplicated diverticulitis?",
       "options": [
-        "Only if there is active bleeding",
-        "Immediately upon diagnosis",
-        "During the acute episode",
-        "6-8 weeks after resolution"
+        "Doxycycline",
+        "Azithromycin alone",
+        "Ciprofloxacin plus metronidazole",
+        "Clindamycin alone"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ciprofloxacin plus metronidazole covers gram-negative and anaerobic infections, being an alternative when there is an allergy or intolerance to beta-lactams.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_diverticulitis",
+        "treatment",
+        "antibiotic_alternatives",
+        "MEDICAL_TOPIC",
+        "ESCP Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the recommended duration of antibiotics in uncomplicated diverticulitis?",
+      "options": [
+        "28 days",
+        "14 to 21 days",
+        "7 to 10 days",
+        "3 to 5 days"
       ],
       "correctAnswer": 4,
-      "explanation": "Colonoscopy is recommended 6-8 weeks after complete resolution of an episode of acute diverticulitis to rule out underlying neoplasms or inflammatory bowel disease, as it is not safe during the acute phase.",
+      "explanation": "The recommended duration is 3 to 5 days, based on evidence that short courses are equally effective and reduce resistance.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_diverticulitis",
+        "posology",
+        "treatment_duration",
+        "MEDICAL_TOPIC",
+        "AGA Guide 2023"
+      ]
+    },
+    {
+      "question": "What factor contraindicates management without antibiotics in diverticulitis?",
+      "options": [
+        "mild leukocytosis",
+        "Immunosuppression",
+        "Age over 50 years",
+        "Pain in left iliac fossa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Immunosuppression is a risk factor for poor outcome, so these patients require antibiotic therapy even in uncomplicated diverticulitis.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_diverticulitis",
+        "contraindications",
+        "immunosuppression",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In the outpatient management of acute uncomplicated diverticulitis, what type of diet is recommended initially?",
+      "options": [
+        "High calorie diet",
+        "Low sodium diet",
+        "Clear liquid diet",
+        "High fiber diet"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A clear liquid diet is recommended for the first 24-48 hours to allow intestinal rest and reduce inflammation in acute uncomplicated diverticulitis managed on an outpatient basis.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_diverticulitis",
+        "treatment",
+        "initial_diet",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main objective of clear liquid diet in acute outpatient diverticulitis?",
+      "options": [
+        "Prevent dehydration",
+        "colon rest",
+        "Provide quick calories",
+        "Stimulate peristalsis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Colon rest is the main objective of the clear liquid diet, since it reduces intraluminal pressure and inflammation, favoring the resolution of the infectious process in acute diverticulitis.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_diverticulitis",
+        "pathophysiology",
+        "intestinal_rest",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which oral antibiotic is first-line for the outpatient management of acute uncomplicated diverticulitis?",
+      "options": [
+        "Clindamycin",
+        "Doxycycline",
+        "Ciprofloxacin",
+        "Amoxicillin"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ciprofloxacin, combined with metronidazole, is one of the first-line oral antibiotic regimens to cover gram-negative bacteria and anaerobes in uncomplicated acute diverticulitis managed on an outpatient basis.",
+      "hashtags": [
+        "pharmacology",
+        "acute_diverticulitis",
+        "indications",
+        "oral_antibiotic",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most important clinical criterion to decide outpatient management in acute diverticulitis?",
+      "options": [
+        "severe leukocytosis",
+        "Age over 70 years",
+        "Absence of peritonitis",
+        "Fever greater than 39°C"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The absence of signs of peritonitis or complications (abscess, perforation) is the key criterion for safe outpatient management, along with oral tolerance and good social support.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_diverticulitis",
+        "clinical_table",
+        "ambulatory_criteria",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What dietary progression is recommended after 48 hours of improvement in acute outpatient diverticulitis?",
+      "options": [
+        "Exclusive liquid diet",
+        "High fiber diet",
+        "High protein diet",
+        "Soft low fiber diet"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A soft, low-fiber diet is recommended after clinical improvement to avoid colonic distension while the inflammatory process resolves; fiber is reintroduced weeks later.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_diverticulitis",
+        "treatment",
+        "diet_progression",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What clinical sign contraindicates outpatient management of acute diverticulitis?",
+      "options": [
+        "Voluntary abdominal defense",
+        "Pain in left iliac fossa",
+        "Nausea without vomiting",
+        "Mild abdominal distention"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Voluntary abdominal guarding suggests peritoneal irritation, indicating complicated disease or perforation, requiring hospitalization and surgical or intravenous management.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_diverticulitis",
+        "clinical_table",
+        "peritoneal_signs",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most characteristic tomographic finding of peridiverticular abscess?",
+      "options": [
+        "Mesenteric lymphadenopathy",
+        "Fizzy Liquid Collection",
+        "Diffuse parietal thickening",
+        "Intestinal pneumatosis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Peridiverticular abscess presents as a liquid collection with gas on CT, secondary to contained perforation of an inflamed diverticulum.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "diagnosis",
+        "tomography_abscess",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the treatment of choice for a peridiverticular abscess smaller than 3 cm?",
+      "options": [
+        "surgical resection",
+        "Exploratory laparoscopy",
+        "Oral antibiotics",
+        "Percutaneous drainage"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Peridiverticular abscesses smaller than 3 cm usually respond to broad-spectrum antibiotics, reserving percutaneous drainage for larger collections.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "treatment",
+        "conservative_management",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What bacteria is most frequently isolated in peridiverticular abscesses?",
+      "options": [
+        "Escherichia coli",
+        "Pseudomonas aeruginosa",
+        "Staphylococcus aureus",
+        "Clostridium difficile"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Escherichia coli is the most common germ in peridiverticular abscesses, due to the usual colonic flora involved in diverticular perforation.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "microbiology",
+        "colonic_flora",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the Hinchey classification for peridiverticular abscess?",
+      "options": [
+        "Early and late phases",
+        "Stages I to IV",
+        "Grades 1 to 3",
+        "Types A and B"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hinchey's classification divides complicated diverticulitis into stages I to IV; Peridiverticular abscess corresponds to stage I (pericolic abscess).",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "concept",
+        "hinchey_classification",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What clinical sign suggests a complicated peridiverticular abscess?",
+      "options": [
+        "Pain in right iliac fossa",
+        "Nausea without vomiting",
+        "Fever and palpable mass",
+        "Mild abdominal distention"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fever associated with a palpable mass in the left lower quadrant is characteristic of a peridiverticular abscess, indicating a localized inflammatory collection.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "clinical_table",
+        "palpable_mass",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most feared complication of an undrained peridiverticular abscess?",
+      "options": [
+        "intestinal obstruction",
+        "urinary sepsis",
+        "Generalized peritonitis",
+        "Colovesical fistula"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Generalized peritonitis is the most serious complication, since rupture of the abscess into the peritoneal cavity spreads the infection and requires emergency surgery.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "complications",
+        "peritonitis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the emergency surgical indication in complicated acute diverticulitis?",
+      "options": [
+        "Chronic colovesical fistula",
+        "Asymptomatic colonic stricture",
+        "Pericolic abscess < 3 cm",
+        "Free perforation with peritonitis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Free perforation with generalized peritonitis requires urgent surgery due to the risk of sepsis and organ failure. The other options can be managed conservatively or electively.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "treatment",
+        "surgical_indication",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What tomographic finding is characteristic of free perforation in diverticulitis?",
+      "options": [
+        "extraluminal open air",
+        "Narrowing of the colonic lumen",
+        "Abscess with gas inside",
+        "Segmental wall thickening"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Extraluminal free air on CT indicates perforation of the hollow viscus. The thickening and abscess are compatible with diverticulitis without free perforation; the stenosis is chronic.",
+      "hashtags": [
+        "radiology",
+        "acute_diverticulitis",
+        "diagnosis",
+        "computed tomography",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most frequently isolated germ in peritonitis secondary to perforated diverticulitis?",
+      "options": [
+        "Clostridium difficile",
+        "Staphylococcus aureus",
+        "Pseudomonas aeruginosa",
+        "Escherichia coli"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Escherichia coli is the most common facultative anaerobic gram-negative bacillus in intra-abdominal infections of colonic origin. The other pathogens are less prevalent in this context.",
+      "hashtags": [
+        "microbiology",
+        "acute_diverticulitis",
+        "pathogeny",
+        "colonic_flora",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which clinical sign is most specific for generalized peritonitis?",
+      "options": [
+        "Low grade fever",
+        "Mild abdominal distention",
+        "Pain in right iliac fossa",
+        "involuntary abdominal contracture"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Involuntary abdominal contracture (muscle defense) indicates diffuse peritoneal irritation. Localized pain is typical of nonperforated processes; distension and fever are nonspecific.",
+      "hashtags": [
+        "semiology",
+        "acute_diverticulitis",
+        "clinical_table",
+        "peritoneal_sign",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the recommended initial management in a patient with peritonitis due to perforated diverticulitis?",
+      "options": [
+        "Antibiotics and emergency surgery",
+        "Percutaneous abscess drainage",
+        "Bowel rest and analgesia alone",
+        "Decompressive colonoscopy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Peritonitis due to free perforation requires urgent surgery plus broad-spectrum antibiotics. Percutaneous drainage is for localized abscesses; colonoscopy is contraindicated in perforation.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "treatment",
+        "emergency_handling",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What surgical procedure is preferred in fecaloid peritonitis due to diverticulitis?",
+      "options": [
+        "Exclusive loop colostomy",
+        "Diagnostic laparoscopy alone",
+        "Hartmann surgery",
+        "Resection with primary anastomosis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hartmann surgery (resection of the affected segment and terminal colostomy) is the standard in severe peritonitis with fecal contamination. The primary anastomosis has a high risk of dehiscence.",
+      "hashtags": [
+        "general_surgery",
+        "acute_diverticulitis",
+        "treatment",
+        "surgical_procedure",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main risk factor for recurrence of acute diverticulitis?",
+      "options": [
+        "Female sex",
+        "Old age",
+        "Morbid obesity",
+        "inflammatory bowel disease"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Advanced age is associated with a higher risk of recurrence due to structural changes in the colonic wall and a lower capacity for tissue repair.",
+      "hashtags": [
+        "gastroenterology",
+        "acute_diverticulitis",
+        "clinical_table",
+        "risk_factors",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What clinical criterion indicates the need for surgical prophylaxis after an episode of diverticulitis?",
+      "options": [
+        "Two uncomplicated episodes",
+        "Complicated single episode",
+        "Three episodes in two years",
+        "A single mild episode"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A single complicated episode (abscess, perforation) has a high risk of severe recurrence, so elective prophylactic surgery is recommended.",
       "hashtags": [
         "gastroenterology",
         "acute_diverticulitis",
         "treatment",
-        "post-acute_colonoscopy",
-        "PATHOLOGY",
+        "surgical_prophylaxis",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "In physician orders for acute diverticulitis, what is the initial dietary indication in a patient with severe pain or nausea/vomiting?",
+      "question": "What is the absolute surgical indication in acute recurrent diverticulitis?",
       "options": [
-        "clear liquids",
-        "Regular high fiber diet",
-        "NPO (Nothing Oral)",
-        "Soft low-residue diet"
-      ],
-      "correctAnswer": 3,
-      "explanation": "In patients with severe pain, nausea, vomiting, abdominal distension or suspected obstruction/perforation, the initial dietary indication is NPO (Nothing Oral) to ensure intestinal rest and avoid aggravating the inflammation.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_diverticulitis",
-        "concept",
-        "diet_npo",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a common intravenous antibiotic regimen for acute diverticulitis, covering Gram-negatives and anaerobes?",
-      "options": [
-        "Amoxicillin alone",
-        "Ceftriaxone + Metronidazole",
-        "Vancomycin + Gentamicin",
-        "Azithromycin + Doxycycline"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A common and effective option for coverage of Gram-negatives and anaerobes in acute diverticulitis is the combination of Ceftriaxone (for Gram-negatives) and Metronidazole (for anaerobes), being an adequate broad-spectrum regimen.",
-      "hashtags": [
-        "pharmacology",
-        "acute_diverticulitis",
-        "concept",
-        "antibiotics_iv",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which analgesic is recommended as the first choice for mild to moderate pain in acute diverticulitis?",
-      "options": [
-        "Intravenous acetaminophen",
-        "Intramuscular ketorolac",
-        "oral ibuprofen",
-        "intravenous morphine"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Intravenous acetaminophen is the preferred analgesic for mild to moderate pain in acute diverticulitis, since it is not associated with the risk of perforation or bleeding that NSAIDs have, and it is less potent than opioids.",
-      "hashtags": [
-        "pharmacology",
-        "acute_diverticulitis",
-        "concept",
-        "analgesia",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What laboratory markers should be monitored daily to evaluate the inflammatory response in hospitalized acute diverticulitis?",
-      "options": [
-        "Complete blood count and C-reactive protein",
-        "Glucose and triglycerides",
-        "Stool and lactate cultures",
-        "Urinalysis and electrolytes"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Complete blood count (with differential) and C-Reactive Protein (CRP) are key markers to daily monitor the inflammatory response and the progression or resolution of infection in hospitalized patients with acute diverticulitis.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_diverticulitis",
-        "concept",
-        "laboratories_monitoring",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a critical discharge criterion for a patient with acute diverticulitis who has been hospitalized?",
-      "options": [
-        "Persistent fever",
-        "Adequate tolerance to oral diet",
-        "Inability to tolerate oral diet",
-        "Need for IV antibiotics"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Adequate tolerance to oral diet (clear liquids or soft diet) is a fundamental discharge criterion, as it indicates resolution of the ileus or inflammation that prevented intake, allowing transition to oral treatment and outpatient management.",
-      "hashtags": [
-        "general_surgery",
-        "acute_diverticulitis",
-        "concept",
-        "high_criteria",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which law describes the relationship between pressure, wall tension, and radius in the colon, contributing to the formation of diverticula?",
-      "options": [
-        "Laplace's law",
-        "Ohm's Law",
-        "Boyle's Law",
-        "Starling's Law"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Laplace's Law states that the pressure inside a cylinder is inversely proportional to the radius. In the colon, narrower segments such as the sigmoid experience greater pressure, facilitating mucosal herniation and the formation of diverticula.",
-      "hashtags": [
-        "pathophysiology",
-        "acute_diverticulitis",
-        "etiology",
-        "laplace_law",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the central event leading to extravasation of bacteria and toxins in acute diverticulitis?",
-      "options": [
-        "Increased intradiverticular pressure",
-        "Wall microperforation",
-        "Diverticular neck obstruction",
-        "Local inflammatory response"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Microperforation of the diverticular wall is the central event; It is the point where ischemia and distension culminate in rupture of the diverticulum, allowing bacteria and luminal toxins to extravasate into the pericolic tissue, initiating inflammation.",
-      "hashtags": [
-        "pathophysiology",
-        "acute_diverticulitis",
-        "pathophysiology",
-        "microperforation",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most common location of diverticulosis in Western populations?",
-      "options": [
-        "transverse colon",
-        "Blind",
-        "sigmoid colon",
-        "ascending colon"
-      ],
-      "correctAnswer": 3,
-      "explanation": "In Western populations, diverticulosis is significantly more common in the sigmoid colon, affecting 90-95% of cases. This is due to the anatomical and physiological characteristics of this section of the colon.",
-      "hashtags": [
-        "epidemiology",
-        "acute_diverticulitis",
-        "epidemiology",
-        "frequent_location",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What urinary symptoms may occur due to bladder irritation from pericolic inflammation in diverticulitis?",
-      "options": [
-        "Anuria and oliguria",
-        "Acute urinary retention",
-        "Urinary incontinence",
-        "Dysuria and frequency"
+        "Recurrent fever",
+        "Persistent abdominal pain",
+        "moderate leukocytosis",
+        "Generalized peritonitis"
       ],
       "correctAnswer": 4,
-      "explanation": "Dysuria (painful urination) and frequency (urinary frequency) are common urinary symptoms that can occur due to irritation of the bladder when the inflamed colon is adjacent to it, even without an actual urinary tract infection.",
+      "explanation": "Generalized peritonitis due to diverticular perforation is an absolute surgical emergency, since it involves peritoneal contamination and risk of sepsis.",
       "hashtags": [
-        "internal_medicine",
-        "acute_diverticulitis",
-        "clinical_table",
-        "urinary_symptoms",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "How is herniation of the mucosa and submucosa through the muscular layer of the colon known histologically?",
-      "options": [
-        "mucous cyst",
-        "congenital diverticulum",
-        "Pseudodiverticulum",
-        "true diverticulum"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Histologically, a diverticulum that consists of herniation of the mucosa and submucosa through the muscular layer of the colon is known as a pseudodiverticulum or false diverticulum, as opposed to a true diverticulum that contains all layers of the intestinal wall.",
-      "hashtags": [
-        "pathology",
-        "acute_diverticulitis",
-        "concept",
-        "pseudodiverticulum",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which medications, by causing constipation, can increase intraluminal pressure and contribute to the risk of diverticulitis?",
-      "options": [
-        "Corticosteroids",
-        "NSAIDs",
-        "Proton pump inhibitors",
-        "Opioids"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Opioids are known to cause significant constipation, which can increase intraluminal pressure in the colon and contribute to the risk of developing diverticulosis and subsequently acute diverticulitis.",
-      "hashtags": [
-        "pharmacology",
-        "acute_diverticulitis",
-        "etiology",
-        "opioid_risk",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What structural change in the colonic wall, associated with aging, favors herniation and diverticulum formation?",
-      "options": [
-        "Decreased type I collagen",
-        "Increased type I collagen and stiffness",
-        "Thickening of the muscle layer",
-        "Increased elastin"
-      ],
-      "correctAnswer": 2,
-      "explanation": "With aging, there is a decrease in elastin and type III collagen, and an increase in type I collagen, which results in a more rigid and less elastic colonic wall, favoring mucosal herniation and the formation of diverticula.",
-      "hashtags": [
-        "pathophysiology",
-        "acute_diverticulitis",
-        "pathophysiology",
-        "structural_colon_changes",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What epidemiological trend has been observed in the incidence of acute diverticulitis in recent decades?",
-      "options": [
-        "Steady increase in young adults",
-        "Steady decrease in all groups",
-        "General stabilization",
-        "Increase only in those over 80 years of age"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The incidence of acute diverticulitis has shown a steady increase in recent decades, particularly in younger age groups (under 50 years), often associated with a more aggressive course and higher recurrence rate.",
-      "hashtags": [
-        "epidemiology",
-        "acute_diverticulitis",
-        "epidemiology",
-        "incidence_trends",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What type of abdominal pain, especially if diffuse with peritonism, suggests a serious complication of diverticulitis?",
-      "options": [
-        "Very severe and diffuse pain",
-        "Dull, gradual pain",
-        "Mild cramping pain",
-        "Isolated suprapubic pain"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Very severe abdominal pain, especially if it is diffuse or accompanied by signs of peritonism (rebound tenderness, guarding, rigidity), suggests a serious complication such as free perforation and peritonitis, which requires urgent medical attention.",
-      "hashtags": [
-        "general_surgery",
-        "acute_diverticulitis",
-        "clinical_table",
-        "severe_pain_complication",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What inflammatory marker, in addition to the blood count, is useful in monitoring the severity and response to treatment of diverticulitis?",
-      "options": [
-        "Amylase",
-        "C-Reactive Protein (CRP)",
-        "D-dimer",
-        "Troponins"
-      ],
-      "correctAnswer": 2,
-      "explanation": "C-Reactive Protein (CRP) is an inflammatory marker that is usually elevated in acute diverticulitis and correlates with the severity of inflammation, being useful for monitoring the patient's response to treatment.",
-      "hashtags": [
-        "internal_medicine",
-        "acute_diverticulitis",
-        "diagnosis",
-        "pcr_monitoring",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "According to the modified Hinchey classification, Stage 0 refers to?",
-      "options": [
-        "Fecal peritonitis",
-        "Pericolic abscess",
-        "Mild diverticulitis or phlegmon",
-        "Purulent peritonitis"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Stage 0 of the modified Hinchey classification refers to mild diverticulitis or pericolic phlegmon, which corresponds to uncomplicated diverticulitis, where the inflammation is contained without abscesses or macroscopic perforation.",
-      "hashtags": [
-        "general_surgery",
-        "acute_diverticulitis",
-        "concept",
-        "hindchey_modified_0",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which of the following gynecologic conditions is an emergency and can mimic diverticulitis with acute abdominal pain and vaginal bleeding?",
-      "options": [
-        "Ovarian cyst rupture",
-        "Ruptured ectopic pregnancy",
-        "Pelvic inflammatory disease",
-        "ovarian torsion"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A ruptured ectopic pregnancy is a gynecological emergency that causes acute and severe abdominal pain, often unilateral, with a history of amenorrhea and vaginal bleeding, and may mimic diverticulitis, requiring a rapid differential diagnosis.",
-      "hashtags": [
-        "gynecology",
-        "acute_diverticulitis",
-        "concept",
-        "ectopic_pregnancy",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What dietary recommendation is essential after the acute phase of diverticulitis to prevent recurrences?",
-      "options": [
-        "Indefinite clear liquid diet",
-        "Avoid seeds and nuts",
-        "High fiber diet",
-        "Low residue diet"
-      ],
-      "correctAnswer": 3,
-      "explanation": "After the acute phase, a diet high in fiber (25-30g/day) should be advised to increase stool volume, reduce intraluminal pressure and promote regular evacuations, which helps prevent recurrences.",
-      "hashtags": [
-        "nutrition",
+        "gastroenterology",
         "acute_diverticulitis",
         "treatment",
-        "diet_prevention",
-        "PATHOLOGY",
+        "emergency_surgery",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "In which cases of acute diverticulitis should General Surgery be consulted?",
+      "question": "Which surgical procedure is preferred in the prophylaxis of diverticulitis recurrence?",
       "options": [
-        "Only if the patient is immunocompromised",
-        "Only if there is no improvement with oral antibiotics",
-        "Always in cases of complicated diverticulitis",
-        "Only in mild uncomplicated cases"
+        "Derivative colostomy",
+        "Right colectomy",
+        "sigmoid resection",
+        "Left colectomy"
       ],
       "correctAnswer": 3,
-      "explanation": "General Surgery should be consulted for all cases of complicated diverticulitis (Hinchey Ia-III / ASCRS 2a-2c), as well as in case of diagnostic doubts, perforation, abscess, failure of medical treatment or indication for elective surgery.",
+      "explanation": "Sigmoid resection is the surgery of choice because most diverticula are located in the sigmoid colon, eliminating the affected segment.",
       "hashtags": [
-        "general_surgery",
+        "gastroenterology",
         "acute_diverticulitis",
-        "concept",
-        "specialized_consultation",
-        "PATHOLOGY",
+        "treatment",
+        "sigmoid_resection",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What main limitation does abdominal ultrasound have in the diagnosis of acute diverticulitis?",
+      "question": "Which tomographic finding contraindicates immediate elective surgical prophylaxis?",
       "options": [
-        "High radiation exposure",
-        "It is highly operator-dependent",
-        "Does not detect diverticula",
-        "It is very slow to do"
+        "Multiple diverticula",
+        "paracolic abscess",
+        "Mural thickening",
+        "Intestinal pneumatosis"
       ],
-      "correctAnswer": 2,
-      "explanation": "Abdominal ultrasound is a useful tool in some contexts, but its main limitation is that it is highly operator-dependent, and its sensitivity and specificity are lower than those of CT, especially in obese patients or with excessive intestinal gas.",
+      "correctAnswer": 4,
+      "explanation": "Pneumatosis intestinalis indicates ischemia or necrosis of the colonic wall, requiring emergency surgery rather than elective prophylaxis.",
       "hashtags": [
-        "diagnosis_by_image",
+        "gastroenterology",
         "acute_diverticulitis",
         "diagnosis",
-        "limitations_ultrasound",
-        "PATHOLOGY",
+        "abdominal_tomography",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the approximate recurrence rate after a first episode of acute diverticulitis?",
+      "options": [
+        "5-10%",
+        "50-60%",
+        "15-20%",
+        "30-40%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "After a first episode, recurrence is reported in 15-20% of patients, being more frequent in those with risk factors such as immunosuppression.",
+      "hashtags": [
+        "gastroenterology",
+        "acute_diverticulitis",
+        "epidemiology",
+        "recurrence",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most suggestive endoscopic finding of colorectal cancer in a patient with suspected acute diverticulitis?",
+      "options": [
+        "Thickened and congested folds",
+        "Erythematous and edematous mucosa",
+        "Ulcerated and friable mass",
+        "Diverticula with purulent exudate"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An ulcerated, friable mass is characteristic of colorectal cancer, while findings of diverticulitis include erythematous mucosa, diverticula with exudate, and thickened folds.",
+      "hashtags": [
+        "gastroenterology",
+        "acute_diverticulitis",
+        "diagnosis",
+        "endoscopy",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which symptom is more characteristic of colorectal cancer than of acute diverticulitis?",
+      "options": [
+        "Change in bowel habit",
+        "Pain in left iliac fossa",
+        "Unexplained weight loss",
+        "Fever and leukocytosis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Unexplained weight loss is a constitutional symptom most associated with advanced colorectal cancer, while pain, fever, and acute intestinal changes are common in diverticulitis.",
+      "hashtags": [
+        "gastroenterology",
+        "acute_diverticulitis",
+        "clinical_table",
+        "constitutional_symptoms",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which imaging test is most useful to differentiate acute diverticulitis from colorectal cancer?",
+      "options": [
+        "Simple abdominal x-ray",
+        "Abdominal ultrasound without contrast",
+        "CT scan with contrast",
+        "Virtual colonoscopy without preparation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Contrast-enhanced computed tomography is the test of choice to differentiate both entities, showing segmental mural thickening in diverticulitis and heterogeneous mass in cancer.",
+      "hashtags": [
+        "gastroenterology",
+        "acute_diverticulitis",
+        "diagnosis",
+        "computed tomography",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which tomographic finding is more indicative of colorectal cancer than diverticulitis?",
+      "options": [
+        "Long, concentric mural thickening",
+        "Infiltration of pericolonic fat",
+        "Presence of extraluminal gas",
+        "Asymmetrical and short mural thickening"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Short, asymmetrical mural thickening is typical of colorectal cancer, while long concentric thickening and fatty infiltration are more typical of diverticulitis.",
+      "hashtags": [
+        "gastroenterology",
+        "acute_diverticulitis",
+        "diagnosis",
+        "computed tomography",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What tumor marker can be elevated in colorectal cancer and rarely in diverticulitis?",
+      "options": [
+        "erythrocyte sedimentation rate",
+        "C-reactive protein (CRP)",
+        "Total leukocytes",
+        "Carcinoembryonic antigen (CEA)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Carcinoembryonic antigen (CEA) is a tumor marker that is elevated in colorectal cancer, while CRP, ESR and leukocytes are nonspecific acute phase reactants also elevated in diverticulitis.",
+      "hashtags": [
+        "gastroenterology",
+        "acute_diverticulitis",
+        "diagnosis",
+        "tumor_markers",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main indication for colonoscopy after an episode of acute diverticulitis?",
+      "options": [
+        "Rule out colorectal cancer",
+        "Take biopsies of normal mucosa",
+        "Rule out inflammatory bowel disease",
+        "Evaluate extension of diverticula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Colonoscopy is recommended after an episode of acute diverticulitis to rule out colorectal cancer, since both entities can share initial symptoms and radiological findings.",
+      "hashtags": [
+        "gastroenterology",
+        "acute_diverticulitis",
+        "diagnosis",
+        "colonoscopy",
+        "MEDICAL_TOPIC",
         ""
       ]
     }

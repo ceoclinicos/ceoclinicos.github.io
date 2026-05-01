@@ -1,1332 +1,1370 @@
 {
   "questions": [
     {
-      "question": "Qual a principal característica histológica de um divertículo colônico que o classifica como pseudodivertículo?",
+      "question": "Qual estágio de Hinchey descreve um abscesso paracólico?",
       "options": [
-        "É formado pela invaginação da serosa",
-        "Exclui a camada submucosa",
-        "É uma herniação da mucosa e submucosa.",
-        "Contém todas as camadas intestinais"
+        "Hinchey II",
+        "Hinchey eu",
+        "Hinchey III",
+        "Hinchey IV"
       ],
-      "correctAnswer": 3,
-      "explanation": "Um pseudodivertículo, também conhecido como falso divertículo, é caracterizado histologicamente como uma herniação da mucosa e submucosa através da camada muscular do cólon, ao contrário de um divertículo verdadeiro que contém todas as camadas da parede intestinal.",
+      "correctAnswer": 1,
+      "explanation": "A classificação Hinchey para diverticulite aguda divide os estágios de acordo com a extensão da infecção: Hinchey I (abscesso pericólico confinado), Hinchey II (abscesso pélvico ou paracólico), Hinchey III (peritonite purulenta) e Hinchey IV (peritonite fecalóide).",
       "hashtags": [
-        "gastroenterologia",
+        "cirurgia_geral",
         "diverticulite_aguda",
-        "conceito",
-        "pseudodivertículo",
-        "PATOLOGIA",
-        ""
+        "tabela_clínica",
+        "hinchey_classification",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
       ]
     },
     {
-      "question": "Qual condição precede a diverticulite aguda e é caracterizada pela simples presença de saculações no cólon?",
+      "question": "Qual é o tratamento cirúrgico de escolha no Hinchey III?",
       "options": [
-        "Síndrome do intestino irritável",
-        "Diverticulose",
-        "Doença de Crohn",
-        "Colite isquêmica"
+        "Lavagem laparoscópica mais drenagem",
+        "Laparoscopia diagnóstica",
+        "Ressecção com anastomose primária",
+        "Colectomia total com ileostomia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No Hinchey III (peritonite purulenta), a lavagem laparoscópica associada à drenagem ganhou aceitação como opção cirúrgica minimamente invasiva, reservando a ressecção para casos sem melhora ou com peritonite fecalóide (Hinchey IV).",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tratamento",
+        "lavagem_laparoscópica",
+        "MEDICAL_TOPIC",
+        "Guia ASCRS 2022"
+      ]
+    },
+    {
+      "question": "Que achado tomográfico caracteriza o estágio I de Hinchey?",
+      "options": [
+        "Pneumoperitônio generalizado",
+        "Abscesso pericólico menor que 4 cm",
+        "Peritonite purulenta difusa",
+        "Abscesso paracólico maior que 5 cm"
       ],
       "correctAnswer": 2,
-      "explanation": "A diverticulose é a condição subjacente definida pela mera presença de divertículos no cólon. A diverticulite aguda é uma complicação inflamatória dessa condição, enquanto as demais opções são diagnósticos diferenciais.",
+      "explanation": "No Hinchey I, observa-se um pequeno abscesso pericólico (menos de 4 cm) confinado ao mesentério ou adjacente ao cólon; Os abscessos maiores ou distantes correspondem ao Hinchey II e a peritonite aos estágios III ou IV.",
       "hashtags": [
-        "gastroenterologia",
+        "radiologia",
         "diverticulite_aguda",
-        "conceito",
-        "diverticulose",
-        "PATOLOGIA",
-        ""
+        "diagnóstico",
+        "tomografia_abdominal",
+        "MEDICAL_TOPIC",
+        "Radiologia 2023"
       ]
     },
     {
-      "question": "Que tipo de complicação da diverticulite é descrita como coleção localizada de pus?",
+      "question": "Qual é o manejo inicial recomendado em Hinchey I?",
       "options": [
-        "Perfuração grátis",
+        "Antibióticos orais e observação",
+        "Cirurgia de emergência",
+        "Colectomia programada",
+        "Drenagem percutânea de abscesso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No Hinchey I (pequeno abscesso confinado), o manejo conservador com antibióticos orais ou intravenosos e a observação são suficientes; A cirurgia ou drenagem percutânea é reservada para abscessos maiores ou falha no tratamento médico.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tratamento",
+        "gerenciamento_conservador",
+        "MEDICAL_TOPIC",
+        "Guia WSES 2020"
+      ]
+    },
+    {
+      "question": "Que complicação define o estágio IV de Hinchey?",
+      "options": [
         "Peritonite fecal",
-        "Flegmão pericólico",
-        "Abscesso"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Um abscesso é uma coleção localizada de pus que se forma como uma complicação da diverticulite quando a microperfuração não é contida de forma eficaz. Um flegmão é uma massa inflamatória sem pus encapsulado.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "conceito",
-        "abscesso_diverticular",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual dos seguintes fatores dietéticos está associado a um risco aumentado de desenvolver diverticulose e diverticulite?",
-      "options": [
-        "Alta ingestão de líquidos",
-        "Dieta pobre em fibras e rica em gordura",
-        "Dieta rica em fibras",
-        "Consumo moderado de vegetais"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A hipótese dietética clássica sugere que uma dieta pobre em fibras leva a menor volume de fezes e maior pressão intraluminal no cólon, promovendo herniação da mucosa. Dietas ricas em carne vermelha e gordura também estão associadas a um risco aumentado.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "etiologia",
-        "fibra_dieta",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual medicamento demonstrou aumentar o risco de diverticulite e suas complicações se usado cronicamente?",
-      "options": [
-        "Antiácidos",
-        "Laxantes osmóticos",
-        "Paracetamol",
-        "AINEs"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O uso crônico de antiinflamatórios não esteroidais (AINEs) aumenta o risco de diverticulite e suas complicações como sangramento e perfuração, possivelmente por comprometer a integridade da mucosa intestinal.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "etiologia",
-        "nsaid_medicines",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o mecanismo mais aceito para o aparecimento da inflamação diverticular aguda?",
-      "options": [
-        "Uso de probióticos",
-        "Obstrução do orifício diverticular",
-        "Exercício físico intenso",
-        "Dieta rica em fibras"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A causa mais aceita e comum do aparecimento da inflamação diverticular é a obstrução do orifício do divertículo por fecálitos, sementes ou partículas de alimentos não digeridos, levando à estase e isquemia.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "etiologia",
-        "obstrução_diverticular",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual fator de estilo de vida está consistentemente associado a um risco aumentado de diverticulose e suas complicações?",
-      "options": [
-        "Consumo de peixe",
-        "dieta vegetariana",
-        "Obesidade",
-        "Exercício regular"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A falta de atividade física e o excesso de peso corporal, especialmente a obesidade, estão consistentemente associados a um risco aumentado de desenvolver diverticulose e formas mais graves de diverticulite.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "etiologia",
-        "obesidade_estilo_de_vida",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Como o envelhecimento contribui para a formação de divertículos no cólon?",
-      "options": [
-        "Aumentar a fibra alimentar",
-        "Causa alterações degenerativas nos tecidos",
-        "Diminui a pressão intraluminal",
-        "Aumenta a motilidade do cólon"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Com a idade, ocorrem alterações degenerativas no tecido conjuntivo da parede do cólon, como diminuição da elastina e do colágeno tipo III e aumento do colágeno tipo I, tornando a parede mais rígida e suscetível à herniação.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "etiologia",
-        "idade_avançada",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Por que o cólon sigmóide é o local mais comum para a formação de divertículo?",
-      "options": [
-        "Pressão intraluminal mais baixa",
-        "Ausência de peristaltismo segmentar",
-        "Maior resistência da parede",
-        "Pontos fracos devido aos vasos sanguíneos"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O cólon sigmóide é a localização mais comum devido à combinação de pressões intraluminais elevadas e fraquezas estruturais na parede do cólon, particularmente em locais onde os vasos sanguíneos (vasa recta) penetram na muscular própria.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "fisiopatologia",
-        "sigmoid_location",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual evento patológico precede a microperfuração na fisiopatologia da diverticulite aguda?",
-      "options": [
-        "Cicatriz fibrótica",
-        "Aumento da pressão intradiverticular",
-        "Formação de fístula",
-        "Obstrução intestinal completa"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A obstrução do colo diverticular leva ao acúmulo de conteúdo e ao aumento da pressão dentro do divertículo, o que compromete o fluxo sanguíneo, causando isquemia e edema que precede a microperfuração.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "fisiopatologia",
-        "inflamação_mecanismo",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a característica central que define a progressão da diverticulose para diverticulite aguda?",
-      "options": [
-        "hemorragia maciça",
-        "Formação de pseudopólipo",
-        "Microperfuração de parede",
-        "Constipação crônica"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A microperfuração da parede diverticular é a característica central da diverticulite aguda, permitindo o extravasamento de bactérias e toxinas para o tecido pericólico, desencadeando uma resposta inflamatória.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "fisiopatologia",
-        "microperfuração",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que complicação se desenvolve se a perfuração diverticular não for efetivamente contida e houver presença de material purulento difuso?",
-      "options": [
-        "Abscesso localizado",
-        "estenose colônica",
-        "Flegmão pericólico",
-        "Peritonite purulenta"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Se a perfuração for mais significativa ou não contida, pode resultar em peritonite purulenta generalizada, onde há pus difuso na cavidade peritoneal sem contaminação fecal grave.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "fisiopatologia",
-        "peritonite_purulenta",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual fenômeno está relacionado ao padrão de contrações segmentares de maior amplitude na diverticulose?",
-      "options": [
-        "Maior absorção de nutrientes",
-        "Redução da isquemia",
-        "Anormalidades da motilidade colônica",
-        "Diminuição da pressão luminal"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Pacientes com diverticulose apresentam frequentemente padrões anormais de motilidade, com contrações segmentares de maior amplitude e duração que aumentam a pressão intraluminal, contribuindo para a formação de divertículos.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "fisiopatologia",
-        "motilidade_cólon",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a prevalência aproximada de diverticulose em pessoas com mais de 80 anos?",
-      "options": [
-        "Mais de 70%",
-        "10-20%",
-        "menos de 5%",
-        "30-50%"
+        "Fístula colovesical",
+        "abscesso paracólico",
+        "obstrução intestinal"
       ],
       "correctAnswer": 1,
-      "explanation": "A prevalência da diverticulose aumenta dramaticamente com a idade, afetando mais de 70% das pessoas com mais de 80 anos, sendo menos comum em jovens.",
+      "explanation": "Hinchey IV é caracterizada por peritonite fecalóide difusa por perfuração livre do cólon, necessitando de cirurgia urgente com ressecção e lavagem; Os abscessos correspondem aos estágios I-II e as fístulas são complicações crônicas não classificadas por Hinchey.",
       "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "epidemiologia",
-        "idade_prevalência",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual a tendência observada na incidência de diverticulite aguda nas últimas décadas?",
-      "options": [
-        "Aumento constante",
-        "Estabilidade em todas as idades",
-        "Aumenta apenas em pessoas com mais de 70 anos",
-        "Declínio constante"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A incidência de diverticulite aguda tem mostrado um aumento constante nas últimas décadas, particularmente em faixas etárias mais jovens (menos de 50 anos).",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "epidemiologia",
-        "tendência_incidência",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual a porcentagem de pessoas com diverticulose que desenvolverão diverticulite aguda durante a vida?",
-      "options": [
-        "Quase 100%",
-        "Entre 10% e 25%",
-        "Mais de 50%",
-        "menos de 5%"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Das pessoas com diverticulose, apenas uma pequena percentagem, estimada entre 10% e 25% ao longo da vida, desenvolverá diverticulite aguda.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "epidemiologia",
-        "risco_de_conversão",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a localização mais comum da dor abdominal na diverticulite aguda?",
-      "options": [
-        "Quadrante superior direito",
-        "Epigástrio",
-        "Quadrante inferior esquerdo",
-        "fossa ilíaca direita"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A dor abdominal típica na diverticulite aguda está localizada no quadrante inferior esquerdo (LAC), uma vez que o cólon sigmóide é a parte do cólon mais comumente afetada.",
-      "hashtags": [
-        "gastroenterologia",
+        "cirurgia_geral",
         "diverticulite_aguda",
         "tabela_clínica",
-        "dor_abdominal",
-        "PATOLOGIA",
-        ""
+        "peritonite_fecal",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
       ]
     },
     {
-      "question": "Que sintoma urinário pode ocorrer devido à irritação da bexiga causada pela inflamação pericólica?",
-      "options": [
-        "retenção urinária",
-        "Anúria",
-        "Disúria e frequência",
-        "Hematúria macroscópica"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Quando o cólon inflamado fica adjacente à bexiga, a irritação pode causar sintomas urinários como disúria (dor ao urinar), frequência (frequência urinária) e urgência urinária.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "tabela_clínica",
-        "sintomas_urinários",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual das seguintes alterações no hábito intestinal é mais comum na diverticulite aguda?",
-      "options": [
-        "Incontinência fecal",
-        "Fezes sangrentas abundantes",
-        "Diarréia explosiva",
-        "Constipação"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A constipação é a alteração mais comum do hábito intestinal em pacientes com diverticulite aguda, relatada por até 50% dos pacientes, devido à inflamação local e espasmo colônico.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "tabela_clínica",
-        "intestino_hábito",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual sinal sistêmico indica resposta inflamatória ou infecciosa na diverticulite aguda?",
-      "options": [
-        "Febre baixa",
-        "Bradicardia",
-        "Hipotensão ortostática",
-        "Hipotermia"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A febre é um sintoma comum na diverticulite aguda, geralmente de baixo grau (38-38,5°C) em casos não complicados, e é um indicador de inflamação ou infecção.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "tabela_clínica",
-        "febre",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual achado à palpação abdominal é clássico na diverticulite aguda?",
-      "options": [
-        "Sensibilidade no hipocôndrio direito",
-        "Ternura no quadrante inferior esquerdo",
-        "Massa pulsátil epigástrica",
-        "Rigidez nucal"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A sensibilidade à palpação no quadrante inferior esquerdo (IAE) é o achado mais clássico e constante no exame físico de pacientes com diverticulite aguda, dada a localização mais comum da doença.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "diagnóstico",
-        "exame_físico",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que indica uma massa sensível e firme no quadrante inferior esquerdo durante o exame físico?",
-      "options": [
-        "gravidez ectópica",
-        "Apendicite retrocecal",
-        "hérnia inguinal",
-        "Flegmão inflamatório"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Uma massa dolorosa, firme e mal circunscrita no CII pode indicar flegmão inflamatório, uma massa inflamatória edemaciada envolvendo o divertículo afetado e o tecido pericólico circundante.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "diagnóstico",
-        "massa_palpável",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual sinal vital é comumente elevado em um paciente com diverticulite aguda devido à resposta sistêmica à infecção?",
-      "options": [
-        "Hipotermia",
-        "Bradicardia",
-        "Temperatura corporal",
-        "Hipotensão ortostática"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Febre (temperatura >38°C) é comum, indicando inflamação ou infecção. Taquicardia e taquipnéia também podem estar elevadas como parte da resposta sistêmica à infecção (SIRS).",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "diagnóstico",
-        "sinais_vitais",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual a modalidade de imagem de escolha (padrão ouro) para confirmar o diagnóstico de diverticulite aguda e suas complicações?",
-      "options": [
-        "Tomografia Computadorizada (TC)",
-        "Ressonância magnética (MRI)",
-        "ultrassonografia abdominal",
-        "Radiografia abdominal simples"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A tomografia computadorizada (TC) de abdome e pelve com contraste é a modalidade de imagem de escolha para confirmar o diagnóstico de diverticulite aguda, avaliar sua extensão e detectar possíveis complicações como abscessos ou perfurações.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "diagnóstico",
-        "tc_abdômen",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual achado laboratorial é o mais comum e reflete a resposta inflamatória/infecciosa na diverticulite aguda?",
-      "options": [
-        "Leucocitose",
-        "Hipoglicemia",
-        "Hipernatremia",
-        "Anemia"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A leucocitose, uma contagem elevada de glóbulos brancos com desvio para a esquerda (neutrofilia com formas imaturas), é o achado laboratorial mais comum, refletindo a resposta inflamatória ou infecciosa do corpo.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "diagnóstico",
-        "leucocitose",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Por que a colonoscopia é contraindicada na fase aguda da diverticulite?",
-      "options": [
-        "Risco de perfuração",
-        "Necessidade de sedação profunda",
-        "Risco de sangramento",
-        "Ineficácia diagnóstica"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A colonoscopia é contraindicada na fase aguda da diverticulite devido ao alto risco de perfuração da parede intestinal inflamada ao insuflar ou manipular ar. Recomenda-se realizá-lo de 6 a 8 semanas após a resolução.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "diagnóstico",
-        "colonoscopia_contraindicada",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o sinal radiológico mais sensível de diverticulite aguda na TC?",
-      "options": [
-        "Estrias de gordura pericólica",
-        "Dilatação da alça proximal",
-        "Espessamento da parede gástrica",
-        "Ar livre subdiafragmático"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O encalhe de gordura, indicando infiltração de gordura mesentérica adjacente, é o sinal radiológico mais sensível de inflamação na diverticulite aguda na tomografia computadorizada.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "diagnóstico",
-        "tc_findings",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "De acordo com a classificação de Hinchey modificada, a que estágio corresponde a diverticulite leve ou o flegmão pericólico sem abscesso?",
-      "options": [
-        "Estágio II",
-        "Estádio Ib",
-        "Estádio 0",
-        "Estádio Ia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O estágio 0 da classificação de Hinchey (ou Sherman) modificada corresponde à diverticulite leve ou flegmão pericólico sem evidência de abscesso, perfuração, fístula ou obstrução, ou seja, diverticulite não complicada.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "conceito",
-        "hinchey_0",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual estágio da classificação de Hinchey está associado à peritonite fecal generalizada, indicando a forma mais grave?",
-      "options": [
-        "Estádio Ib",
-        "Estágio II",
-        "Estágio III",
-        "Estádio Ia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O estágio III da classificação de Hinchey modificada (e original IV) corresponde à peritonite fecal generalizada, onde há perfuração com contaminação fecal difusa, sendo a forma mais grave e com alta mortalidade.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "conceito",
-        "hinchey_iii",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual o tratamento de escolha para abscesso pericólico de 5 cm de acordo com a classificação ASCRS (Tipo 2b)?",
-      "options": [
-        "Observação sem tratamento",
-        "Antibióticos orais ambulatoriais",
-        "Cirurgia direta de Hartmann",
-        "Drenagem percutânea guiada por imagem"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Segundo a classificação ASCRS, um abscesso grande (Tipo 2b, ≥ 3-4 cm) necessita de drenagem percutânea guiada por imagem, além de antibióticos intravenosos, devido ao seu tamanho e ao risco de complicações se não for drenado.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "conceito",
-        "tratamento_de_abscesso grande",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que condição urológica pode imitar a dor no quadrante inferior esquerdo da diverticulite aguda?",
-      "options": [
-        "Pielonefrite direita",
-        "Pedra no rim esquerdo",
-        "Hiperplasia prostática benigna",
-        "Infecção urinária direita"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A ureterolitíase (pedras nos rins) no ureter esquerdo pode causar cólicas intensas que se irradiam do flanco esquerdo para a virilha, imitando a dor da diverticulite aguda.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "conceito",
-        "urolitíase",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a recomendação atual quanto ao uso de antibióticos em pacientes imunocompetentes com diverticulite não complicada e sintomas leves?",
-      "options": [
-        "Eles são sempre obrigatórios",
-        "Não recomendado",
-        "Eles podem não ser necessários",
-        "Apenas antibióticos tópicos"
-      ],
-      "correctAnswer": 3,
-      "explanation": "As diretrizes atuais sugerem que os antibióticos podem não ser necessários em pacientes imunocompetentes com diverticulite não complicada e sintomas leves que podem ser tratados ambulatorialmente, com base em estudos que mostram taxas de sucesso semelhantes com e sem eles.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "tratamento",
-        "antibióticos_não_complicados",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipos de analgésicos devem ser evitados em pacientes com diverticulite aguda devido à sua associação com risco aumentado de complicações?",
-      "options": [
-        "Paracetamol",
-        "Analgésicos espasmolíticos",
-        "AINEs",
-        "Opioides"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Os AINEs (antiinflamatórios não esteróides) devem ser evitados em pacientes com diverticulite aguda devido à sua associação com risco aumentado de perfuração, sangramento e outras complicações intestinais.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "tratamento",
-        "evite_aines",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o procedimento cirúrgico de escolha para peritonite fecal generalizada (Hinchey III)?",
-      "options": [
-        "Colectomia com anastomose primária",
-        "lavagem laparoscópica",
-        "Procedimento Hartmann",
-        "Somente drenagem percutânea"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Para peritonite fecal generalizada (Hinchey III), o procedimento de Hartmann é o padrão ouro cirúrgico devido à alta contaminação fecal e ao risco significativo de deiscência da anastomose se uma anastomose primária for realizada.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "tratamento",
-        "cirurgia_hinchey_iii",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de dieta é inicialmente indicada para paciente hospitalizado com diverticulite aguda grave ou complicada?",
-      "options": [
-        "Dieta regular rica em fibras",
-        "Dieta suave com baixo teor de resíduos",
-        "Dieta líquida clara",
-        "NPO (nada oral)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Em casos de diverticulite aguda grave e complicada, ou com sintomas como dor intensa, náusea/vômito, distensão ou suspeita de perfuração, o NPO (Nada Oral) é inicialmente indicado para dar repouso intestinal.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "tratamento",
-        "pedidos_dieta",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual o achado mais clássico e constante no exame físico abdominal de um paciente com diverticulite aguda?",
-      "options": [
-        "Aumento dos ruídos intestinais",
-        "Ternura no quadrante inferior esquerdo",
-        "Distensão abdominal generalizada",
-        "Massa palpável flutuante na DIC"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A sensibilidade no quadrante inferior esquerdo é o achado mais clássico e constante no exame físico de pacientes com diverticulite aguda, refletindo inflamação do cólon sigmóide, localização mais comum da doença.",
-      "hashtags": [
-        "medicina_interna",
-        "diverticulite_aguda",
-        "conceito",
-        "cii_sensibilidade",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Na inspeção abdominal de um paciente com diverticulite aguda, que sinal pode indicar uma complicação grave, como peritonite generalizada?",
-      "options": [
-        "Hérnias visíveis",
-        "Padrão de respiração superficial",
-        "Distensão abdominal",
-        "Cicatrizes de cirurgias anteriores"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A distensão abdominal pode sugerir íleo, obstrução intestinal ou peritonite generalizada, que são complicações graves da diverticulite aguda. As outras opções são resultados menos específicos ou indicativos de outras condições.",
-      "hashtags": [
-        "cirurgia_geral",
-        "diverticulite_aguda",
-        "conceito",
-        "inspeção_abdominal",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o achado mais comum no hemograma completo de um paciente com diverticulite aguda?",
-      "options": [
-        "Trombocitopenia",
-        "Hipoglicemia",
-        "Leucocitose com desvio à esquerda",
-        "Anemia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A leucocitose, definida como contagem elevada de leucócitos, especialmente com neutrofilia e formas imaturas (desvio para a esquerda), é o achado laboratorial mais comum, indicativo de resposta inflamatória ou infecciosa.",
-      "hashtags": [
-        "medicina_interna",
-        "diverticulite_aguda",
-        "diagnóstico",
-        "laboratório_leucocitose",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o sinal radiológico mais sensível de diverticulite aguda na tomografia computadorizada (TC)?",
-      "options": [
-        "Encaixe de gordura pericólica",
-        "Espessamento da parede do cólon",
-        "Presença de divertículos",
-        "Líquido livre intra-abdominal"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O encalhamento de gordura pericólica ou 'encordoamento de gordura' é a infiltração da gordura mesentérica adjacente, indicando inflamação. Este é considerado o sinal radiológico mais sensível na TC para o diagnóstico de diverticulite aguda, embora os demais também sejam achados típicos.",
-      "hashtags": [
-        "cirurgia_geral",
-        "diverticulite_aguda",
-        "diagnóstico",
-        "tc_findings",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Por que a colonoscopia é contraindicada na fase aguda da diverticulite?",
-      "options": [
-        "Risco de perfuração",
-        "Causa sangramento intenso",
-        "Pode espalhar infecção",
-        "Dificuldade de visualização"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A colonoscopia é contraindicada na fase aguda da diverticulite devido ao alto risco de perfuração da parede intestinal inflamada ao insuflar ar ou manipular o cólon. É adiado até 6-8 semanas após a resolução do episódio agudo.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "diagnóstico",
-        "colonoscopia_indicação",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "De acordo com a classificação original de Hinchey, o que descreve o Estágio I?",
-      "options": [
-        "Peritonite purulenta generalizada",
-        "Peritonite fecal generalizada",
-        "Abscesso intra-abdominal distante",
-        "Abscesso pericólico ou mesentérico localizado"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A classificação original de Hinchey descreve o Estágio I como um abscesso pericólico ou mesentérico localizado. As demais opções correspondem a estágios mais avançados ou diferentes da classificação original de Hinchey.",
-      "hashtags": [
-        "cirurgia_geral",
-        "diverticulite_aguda",
-        "conceito",
-        "hinchey_original_i",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Na classificação de Hinchey modificada, que condição está associada ao Estágio II (anteriormente original III)?",
-      "options": [
-        "Peritonite fecal generalizada",
-        "Peritonite purulenta generalizada",
-        "Abscesso pericólico pequeno",
-        "Grande abscesso intra-abdominal"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A classificação Hinchey modificada, especificamente Estágio II (correspondente ao Estágio III original), descreve uma perfuração com peritonite purulenta generalizada, onde há pus difuso na cavidade peritoneal sem contaminação fecal grosseira.",
-      "hashtags": [
-        "cirurgia_geral",
-        "diverticulite_aguda",
-        "conceito",
-        "Hinchey_modified_ii",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que descreve a classificação ASCRS Tipo 2c1 de diverticulite aguda?",
-      "options": [
-        "Peritonite purulenta",
-        "Diverticulite não complicada",
-        "Peritonite fecal",
-        "Abscesso pequeno (<3-4 cm)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A classificação tipo 2c1 da ASCRS (Sociedade Americana de Cirurgiões de Cólon e Retal) descreve peritonite purulenta, que é uma forma de diverticulite complicada por pus difuso na cavidade peritoneal sem fezes moles.",
-      "hashtags": [
-        "cirurgia_geral",
-        "diverticulite_aguda",
-        "conceito",
-        "ascrs_2c1",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que patologia do cólon pode simular diverticulite aguda com dor abdominal aguda no lado esquerdo e fezes com sangue?",
-      "options": [
-        "Colite isquêmica",
-        "Síndrome do intestino irritável",
-        "Colite por radiação",
-        "câncer colorretal"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A colite isquêmica apresenta-se com dor abdominal aguda, muitas vezes cólica e do lado esquerdo, acompanhada de fezes com sangue ou diarreia, que pode ser confundida com diverticulite aguda, necessitando de diferenciação cuidadosa.",
-      "hashtags": [
-        "gastroenterologia",
-        "diverticulite_aguda",
-        "conceito",
-        "colite_isquêmica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que condição urológica pode causar fortes cólicas do flanco esquerdo até a virilha, simulando diverticulite?",
-      "options": [
-        "Infecção do trato urinário",
-        "Ureterolitíase",
-        "Pielonefrite aguda esquerda",
-        "Cistite"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A ureterolitíase (pedras nos rins) pode causar cólicas intensas que se irradiam do flanco esquerdo em direção à virilha, um padrão que pode ser confundido com a dor da diverticulite, especialmente se houver sintomas urinários associados.",
-      "hashtags": [
-        "urologia",
-        "diverticulite_aguda",
-        "conceito",
-        "ureterolitíase",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual abordagem de tratamento é atualmente controversa para diverticulite aguda não complicada em pacientes imunocompetentes com sintomas leves?",
-      "options": [
-        "Dieta líquida clara",
-        "Uso de antibióticos",
-        "Tratamento da dor com AINEs",
-        "Reavaliação em 2-3 dias"
-      ],
-      "correctAnswer": 2,
-      "explanation": "As diretrizes atuais sugerem que os antibióticos podem não ser necessários em pacientes imunocompetentes com diverticulite não complicada e sintomas leves que podem ser tratados ambulatorialmente, com base em estudos que mostram taxas de sucesso semelhantes com e sem eles.",
-      "hashtags": [
-        "medicina_interna",
-        "diverticulite_aguda",
-        "tratamento",
-        "antibióticos_não_complicados",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o tratamento de escolha para um grande abscesso pericólico (≥ 3-4 cm) na diverticulite aguda?",
+      "question": "Qual é o tratamento de escolha em Hinchey II com abscesso maior que 5 cm?",
       "options": [
         "Somente antibióticos intravenosos",
-        "Cirurgia de emergência Hartmann",
-        "Drenagem percutânea guiada por imagem",
-        "Dieta líquida rigorosa"
+        "Drenagem percutânea guiada por TC",
+        "lavagem laparoscópica",
+        "Ressecção do cólon sigmóide"
       ],
-      "correctAnswer": 3,
-      "explanation": "Para abscessos grandes (≥ 3-4 cm), o tratamento de escolha é a drenagem percutânea guiada por tomografia computadorizada ou ultrassonografia, associada a antibióticos intravenosos. Esta estratégia é eficaz para evitar cirurgias de emergência na maioria dos casos.",
+      "correctAnswer": 2,
+      "explanation": "No Hinchey II, abscessos maiores que 4–5 cm são tratados com drenagem percutânea guiada por TC para controlar a origem séptica, seguida de antibióticos; A cirurgia é reservada para falha de drenagem ou instabilidade do paciente.",
       "hashtags": [
         "cirurgia_geral",
         "diverticulite_aguda",
         "tratamento",
-        "dreno_abscesso",
-        "PATOLOGIA",
-        ""
+        "drenagem_percutânea",
+        "MEDICAL_TOPIC",
+        "Guia ASCRS 2022"
       ]
     },
     {
-      "question": "Qual procedimento cirúrgico é o padrão ouro para peritonite fecal generalizada na diverticulite aguda?",
+      "question": "Qual achado tomográfico caracteriza o sinal da corda na diverticulite aguda?",
       "options": [
-        "Procedimento Hartmann",
-        "Colectomia com anastomose primária",
-        "Drenagem percutânea",
-        "lavagem laparoscópica"
+        "Infiltração de gordura mesentérica",
+        "Ar livre intra-abdominal",
+        "Espessamento mural concêntrico",
+        "Abscesso pericólico septado"
       ],
       "correctAnswer": 1,
-      "explanation": "A operação de Hartmann (ressecção do segmento afetado com colostomia terminal e fechamento do coto retal) é o padrão ouro para peritonite fecal generalizada devido à alta contaminação e ao risco de deiscência de anastomose, priorizando a segurança do paciente.",
+      "explanation": "O sinal da corda na TC corresponde à densificação linear da gordura mesentérica adjacente ao cólon inflamado, refletindo a extensão da inflamação ao longo dos vasos mesentéricos.",
+      "hashtags": [
+        "radiologia",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "corda_sinal",
+        "MEDICAL_TOPIC",
+        "Radiologia Clínica 4ed"
+      ]
+    },
+    {
+      "question": "Qual é a localização mais comum do sinal da corda na diverticulite?",
+      "options": [
+        "cólon descendente",
+        "cólon transverso",
+        "cólon ascendente",
+        "cólon sigmóide"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A diverticulite aguda afeta mais comumente o cólon sigmóide, e o sinal da corda é tipicamente observado na gordura mesentérica dessa região devido à inflamação peridiverticular.",
+      "hashtags": [
+        "radiologia",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "sigmoid_location",
+        "MEDICAL_TOPIC",
+        "Radiologia Clínica 4ed"
+      ]
+    },
+    {
+      "question": "Qual estrutura anatômica é afetada no sinal da corda na TC?",
+      "options": [
+        "gordura mesentérica",
+        "parede muscular do cólon",
+        "lúmen intestinal",
+        "mucosa do cólon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O sinal da corda descreve a inflamação da gordura mesentérica adjacente ao cólon afetado, aparecendo como densificação linear ou estrias na TC, sem envolvimento direto da parede ou lúmen muscular.",
+      "hashtags": [
+        "radiologia",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "mesentérica_fat",
+        "MEDICAL_TOPIC",
+        "Radiologia Clínica 4ed"
+      ]
+    },
+    {
+      "question": "Qual o principal diagnóstico diferencial do sinal da corda na TC?",
+      "options": [
+        "Colite isquêmica",
+        "Apendicite aguda",
+        "Perfuração gástrica",
+        "obstrução intestinal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A apendicite aguda pode apresentar sinal de corda semelhante na gordura mesentérica do quadrante inferior direito, tornando-se o principal diagnóstico diferencial, principalmente quando a diverticulite afeta o cólon direito.",
+      "hashtags": [
+        "radiologia",
+        "diverticulite_aguda",
+        "diagnóstico",
+        "apendicite_aguda",
+        "MEDICAL_TOPIC",
+        "Radiologia Clínica 4ed"
+      ]
+    },
+    {
+      "question": "Que achado adicional geralmente acompanha o sinal da corda na diverticulite aguda?",
+      "options": [
+        "derrame pleural",
+        "Calcificações mesentéricas",
+        "Pneumatose intestinal",
+        "Espessamento mural localizado"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Na diverticulite aguda, o sinal da corda está frequentemente associado ao espessamento mural localizado do cólon afetado, visível na TC como um espessamento segmentar da parede do cólon.",
+      "hashtags": [
+        "radiologia",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "mural_espessamento",
+        "MEDICAL_TOPIC",
+        "Radiologia Clínica 4ed"
+      ]
+    },
+    {
+      "question": "Em qual fase da diverticulite aguda o sinal da corda é mais evidente na TC?",
+      "options": [
+        "Fase inflamatória aguda",
+        "Fase de resolução",
+        "Fase de cicatriz crônica",
+        "Fase de sangramento ativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O sinal da corda é mais proeminente durante a fase inflamatória aguda da diverticulite, quando a inflamação da gordura mesentérica é máxima e é vista como densificação linear na TC.",
+      "hashtags": [
+        "radiologia",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "fase_inflamatória",
+        "MEDICAL_TOPIC",
+        "Radiologia Clínica 4ed"
+      ]
+    },
+    {
+      "question": "Qual é o principal sinal clínico que diferencia a diverticulite direita da apendicite aguda?",
+      "options": [
+        "Dor na fossa ilíaca esquerda",
+        "Dor no hipogástrio",
+        "Febre alta desde o início",
+        "Sinal de Rovsing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A diverticulite direita geralmente apresenta dor na fossa ilíaca esquerda ou difusa, enquanto a apendicite aguda geralmente apresenta dor na fossa ilíaca direita.",
       "hashtags": [
         "cirurgia_geral",
-        "diverticulite_aguda",
+        "diverticulite_vs_apendicite",
+        "tabela_clínica",
+        "dor_abdominal",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual exame de imagem é mais útil para diferenciar a diverticulite direita da apendicite aguda?",
+      "options": [
+        "Tomografia computadorizada com contraste",
+        "Ultrassonografia abdominal simples",
+        "Radiografia abdominal simples",
+        "RM sem contraste"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A tomografia computadorizada com contraste apresenta alta sensibilidade e especificidade em distinguir diverticulite direita de apendicite aguda, evidenciando espessamento mural e divertículos.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_vs_apendicite",
+        "diagnóstico",
+        "tomografia computadorizada",
+        "MEDICAL_TOPIC",
+        "Radiologia 2022"
+      ]
+    },
+    {
+      "question": "Qual achado tomográfico é característico de diverticulite direita e não de apendicite?",
+      "options": [
+        "Dilatação do cólon transverso",
+        "Abscesso periapendicular",
+        "Espessamento da parede cecal",
+        "Apendicólito impactado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O espessamento da parede cecal com divertículos inflamados é típico da diverticulite direita, enquanto um apêndice dilatado e apendicólito são observados na apendicite.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_vs_apendicite",
+        "diagnóstico",
+        "achados_tomográficos",
+        "MEDICAL_TOPIC",
+        "Radiologia 2022"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha para diverticulite direita não complicada?",
+      "options": [
+        "Antibióticos e repouso intestinal",
+        "Drenagem percutânea de abscesso",
+        "Laparotomia exploradora urgente",
+        "Ressecção ileocecal programada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A diverticulite direita não complicada é tratada com antibióticos de amplo espectro e repouso intestinal, semelhante à diverticulite esquerda, sem cirurgia inicial.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_vs_apendicite",
         "tratamento",
-        "cirurgia_peritonite_fecal",
-        "PATOLOGIA",
+        "gerenciamento_conservador",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual complicação é mais comum na diverticulite direita do que na apendicite aguda?",
+      "options": [
+        "Obstrução intestinal precoce",
+        "Perfuração livre com peritonite",
+        "Sepse urinária secundária",
+        "Fístula enterocutânea"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A fístula enterocutânea é uma complicação mais comum da diverticulite direita recorrente, enquanto a apendicite perfurada geralmente causa peritonite localizada.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_vs_apendicite",
+        "complicações",
+        "fístula enterocutânea",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual fator epidemiológico está mais associado à diverticulite direita do que à apendicite?",
+      "options": [
+        "Idade inferior a 20 anos",
+        "dieta pobre em fibras",
+        "História de cirurgia anterior",
+        "Sexo feminino"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Uma dieta pobre em fibras é um fator de risco para diverticulose e diverticulite direita, enquanto a apendicite é mais comum em jovens sem uma relação alimentar clara.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_vs_apendicite",
+        "epidemiologia",
+        "fatores_de risco",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Que tipos de medicamentos devem ser estritamente evitados no tratamento da dor aguda da diverticulite devido ao risco de perfuração e sangramento?",
+      "question": "Qual é o estágio de Hinchey que indica abscesso pericólico?",
       "options": [
-        "Paracetamol",
-        "Analgésicos opioides",
-        "relaxantes musculares",
-        "Antiinflamatórios não esteróides (AINEs)"
+        "Hinchey IV",
+        "Hinchey II",
+        "Hinchey eu",
+        "Hinchey III"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Na classificação de Hinchey, o estágio II é caracterizado pela presença de abscesso pericólico ou pélvico, ao contrário do estágio I que apresenta apenas flegmão ou abscesso confinado à parede.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "critérios_hinchey",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual achado tomográfico corresponde a Hinchey III?",
+      "options": [
+        "Peritonite fecal",
+        "Abscesso pericólico pequeno",
+        "Espessamento mural localizado",
+        "Peritonite purulenta difusa"
       ],
       "correctAnswer": 4,
-      "explanation": "Anti-inflamatórios não esteroides (AINEs), como ibuprofeno ou cetorolaco, devem ser evitados na diverticulite aguda, pois estão associados a maior risco de perfuração e hemorragia, complicando o quadro clínico.",
+      "explanation": "Hinchey III descreve peritonite purulenta difusa sem perfuração livre evidente, enquanto Hinchey IV envolve peritonite fecal devido a perfuração aberta. Os outros são estágios menores.",
+      "hashtags": [
+        "radiologia",
+        "diverticulite_aguda",
+        "diagnóstico",
+        "tomografia computadorizada",
+        "MEDICAL_TOPIC",
+        "AJR 2022"
+      ]
+    },
+    {
+      "question": "Qual é o manejo cirúrgico indicado para Hinchey IV?",
+      "options": [
+        "Ressecção com anastomose primária",
+        "Lavagem laparoscópica mais drenagem",
+        "Laparoscopia diagnóstica sozinha",
+        "Ressecção com colostomia Hartmann"
+      ],
+      "correctAnswer": 4,
+      "explanation": "No Hinchey IV (peritonite fecalóide), a ressecção do segmento afetado com colostomia terminal (Hartmann) é preferida devido ao alto risco de fístula anastomótica. As outras opções não são seguras neste contexto.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tratamento",
+        "emergência_cirurgia",
+        "MEDICAL_TOPIC",
+        "ACS 2023"
+      ]
+    },
+    {
+      "question": "Qual critério define Hinchey I na diverticulite aguda?",
+      "options": [
+        "Perfuração livre com peritonite fecal",
+        "Peritonite purulenta generalizada",
+        "Abscesso confinado à parede do cólon",
+        "Abscesso pericólico drenável por cateter"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hinchey I é definido como um abscesso ou flegmão confinado à parede do cólon, sem extensão significativa para a cavidade peritoneal. O estágio II envolve abscesso pericólico ou pélvico.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "critérios_hinchey",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual é a principal diferença entre Hinchey III e Hinchey IV?",
+      "options": [
+        "Localização do divertículo",
+        "Tamanho do abscesso",
+        "Tipo de peritonite",
+        "Presença de febre"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A principal diferença é o tipo de peritonite: Hinchey III apresenta peritonite purulenta difusa, enquanto Hinchey IV apresenta peritonite fecalóide devido à perfuração livre. Isso determina um manejo cirúrgico mais agressivo.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "fisiopatologia",
+        "peritonite",
+        "MEDICAL_TOPIC",
+        "ACS 2023"
+      ]
+    },
+    {
+      "question": "Qual achado tomográfico contraindica o manejo conservador inicial?",
+      "options": [
+        "Gás na parede do cólon",
+        "Peritonite fecal difusa",
+        "Espessamento da parede do cólon",
+        "Abscesso pericólico menor que 3 cm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A peritonite fecalóide difusa (Hinchey IV) requer cirurgia de emergência, não tratamento conservador. As demais opções podem ser tratadas inicialmente com antibióticos ou drenagem percutânea.",
+      "hashtags": [
+        "radiologia",
+        "diverticulite_aguda",
+        "diagnóstico",
+        "tomografia computadorizada",
+        "MEDICAL_TOPIC",
+        "AJR 2022"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha na diverticulite aguda não complicada?",
+      "options": [
+        "Antibióticos orais",
+        "radioterapia abdominal",
+        "colectomia urgente",
+        "Laparoscopia diagnóstica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Na diverticulite aguda não complicada, o tratamento médico inicial consiste em antibióticos orais (como metronidazol mais ciprofloxacina) e dieta líquida, reservando-se a cirurgia para casos complicados ou falha terapêutica.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tratamento",
+        "manuseio_inicial",
+        "MEDICAL_TOPIC",
+        "Guia ASCRS 2022"
+      ]
+    },
+    {
+      "question": "Qual achado tomográfico indica diverticulite complicada com abscesso?",
+      "options": [
+        "Pneumatose intestinal",
+        "Linfadenopatia mesentérica",
+        "Coleta de Líquidos",
+        "Espessamento parietal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A presença de coleção líquida (abscesso) na TC abdominal é critério para diverticulite complicada, que muitas vezes requer drenagem percutânea ou cirurgia, diferentemente do espessamento parietal típico da forma não complicada.",
+      "hashtags": [
+        "radiologia",
+        "diverticulite_aguda",
+        "diagnóstico",
+        "tomografia computadorizada",
+        "MEDICAL_TOPIC",
+        "Guia ESGE 2021"
+      ]
+    },
+    {
+      "question": "Quando a cirurgia eletiva é indicada para diverticulite aguda?",
+      "options": [
+        "Peritonite generalizada",
+        "Depois de um único episódio",
+        "Abscesso < 3 cm",
+        "Fístula colovesical"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A cirurgia eletiva está indicada na diverticulite complicada com fístula (colovesical, colovaginal), estenose ou abscesso recorrente, e não em episódios únicos não complicados ou em pequenos abscessos tratáveis ​​com drenagem.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tratamento",
+        "indicações_cirúrgicas",
+        "MEDICAL_TOPIC",
+        "Guia ASCRS 2022"
+      ]
+    },
+    {
+      "question": "Qual critério clínico sugere falha no tratamento médico na diverticulite?",
+      "options": [
+        "Leucocitose de 10.000/mm³",
+        "Febre persistente por 48 horas",
+        "Náusea sem vômito",
+        "Dor leve na fossa ilíaca"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Febre persistente (>48 horas), apesar dos antibióticos, é um sinal de falha terapêutica que requer drenagem percutânea ou cirurgia, enquanto leucocitose leve e dor controlada são esperadas com resultado favorável.",
+      "hashtags": [
+        "medicina_interna",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "resposta_terapêutica",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Que tipo de cirurgia é preferida na diverticulite perfurada com peritonite?",
+      "options": [
+        "Colectomia com anastomose",
+        "Laparoscopia diagnóstica",
+        "lavagem laparoscópica",
+        "Cirurgia Hartmann"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Na peritonite difusa por diverticulite perfurada, a cirurgia de Hartmann (colectomia sigmoide com colostomia) é o procedimento de escolha, pois evita anastomoses em abdome contaminado, reduzindo o risco de deiscência.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tratamento",
+        "emergência_cirurgia",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual antibiótico está associado a um risco maior de colite por Clostridium difficile na diverticulite?",
+      "options": [
+        "Clindamicina",
+        "Amoxicilina",
+        "Metronidazol",
+        "Ciprofloxacina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A clindamicina apresenta alto risco de induzir colite por Clostridium difficile, por isso não é recomendada como primeira linha na diverticulite; Combinações como metronidazol mais ciprofloxacina ou amoxicilina-ácido clavulânico são preferidas.",
       "hashtags": [
         "farmacologia",
         "diverticulite_aguda",
+        "efeitos_adversos",
+        "colite_associada_antibióticos",
+        "MEDICAL_TOPIC",
+        "Guia IDSA 2021"
+      ]
+    },
+    {
+      "question": "Qual a principal indicação de cirurgia urgente na diverticulite aguda?",
+      "options": [
+        "febre persistente",
+        "Dor na fossa ilíaca",
+        "Peritonite generalizada",
+        "leucocitose moderada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A peritonite generalizada indica perfuração livre com contaminação difusa, necessitando de cirurgia urgente para controle do foco séptico.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
         "tratamento",
-        "contraindicação_aines",
-        "PATOLOGIA",
+        "cirurgia_urgente",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual achado tomográfico requer cirurgia urgente na diverticulite?",
+      "options": [
+        "Espessamento parietal",
+        "pequeno abscesso",
+        "Inchaço de gordura",
+        "Ar livre intra-abdominal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Ar livre intra-abdominal é sinal de perfuração livre, indicação cirúrgica urgente devido ao risco de peritonite fecalóide.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "diagnóstico",
+        "tomografia_abdominal",
+        "MEDICAL_TOPIC",
+        "Guia ASGE 2023"
+      ]
+    },
+    {
+      "question": "Qual critério clínico indica falha do tratamento médico na diverticulite?",
+      "options": [
+        "dor abdominal leve",
+        "Persistência da febre em 72 horas",
+        "Dieta líquida tolerada",
+        "Diminuindo a leucocitose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A persistência da febre após 72 horas de antibióticos sugere falha do tratamento conservador, indicando cirurgia urgente.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tratamento",
+        "falha_terapêutica",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual complicação da diverticulite requer cirurgia de emergência?",
+      "options": [
+        "sangramento diverticular",
+        "Abscesso pericólico",
+        "Fístula colovesical",
+        "obstrução intestinal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A obstrução intestinal completa por diverticulite não se resolve com medidas conservadoras, necessitando de cirurgia urgente para descompressão.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "complicações",
+        "obstrução_intestinal",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual sinal físico é indicação absoluta para cirurgia urgente?",
+      "options": [
+        "Distensão abdominal leve",
+        "Diminuição dos sons intestinais",
+        "Defesa abdominal generalizada",
+        "Ternura na fossa ilíaca"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A proteção abdominal generalizada indica irritação peritoneal difusa, um sinal de peritonite que requer laparotomia urgente.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "sinais_peritoneais",
+        "MEDICAL_TOPIC",
+        "Guia ESCP 2022"
+      ]
+    },
+    {
+      "question": "Que condição na diverticulite contra-indica o tratamento conservador?",
+      "options": [
+        "Diverticulite Hinchey Ia",
+        "Sepse de origem abdominal",
+        "Abscesso menor que 4 cm",
+        "Febre inicial de 38°C"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sepse de origem abdominal indica falência de órgãos por infecção não controlada, necessitando de cirurgia urgente para drenagem e ressecção.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tratamento",
+        "sepse_abdominal",
+        "MEDICAL_TOPIC",
+        "Campanha Sobrevivendo à Sepse 2023"
+      ]
+    },
+    {
+      "question": "Qual é o antibiótico de escolha na diverticulite não complicada?",
+      "options": [
+        "Vancomicina",
+        "Metronidazol",
+        "Ceftriaxona",
+        "Amoxicilina-clavulanato"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A amoxicilina-clavulanato é o antibiótico de primeira linha na diverticulite não complicada devido à sua cobertura contra gram-negativos e anaeróbios.",
+      "hashtags": [
+        "medicina_interna",
+        "diverticulite_aguda",
+        "tratamento",
+        "antibiótica_descomplicada",
+        "MEDICAL_TOPIC",
+        "Guia ESCP 2023"
+      ]
+    },
+    {
+      "question": "Quando a antibioticoterapia é indicada na diverticulite não complicada?",
+      "options": [
+        "Somente em recorrências",
+        "Sempre no diagnóstico",
+        "Somente se houver comorbidades",
+        "Nunca é indicado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na diverticulite não complicada, a antibioticoterapia é reservada para pacientes com comorbidades ou imunossupressão, já que a maioria é tratada com observação.",
+      "hashtags": [
+        "medicina_interna",
+        "diverticulite_aguda",
+        "indicações",
+        "critérios_antibióticos",
+        "MEDICAL_TOPIC",
+        "Guia AGA 2023"
+      ]
+    },
+    {
+      "question": "O que o regime antibiótico cobre na diverticulite não complicada?",
+      "options": [
+        "Apenas Gram positivo",
+        "Gram-negativos e anaeróbicos",
+        "Apenas anaeróbios",
+        "Micobactérias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A flora envolvida na diverticulite inclui bacilos gram-negativos e anaeróbios, portanto a antibioticoterapia deve abranger ambos os grupos.",
+      "hashtags": [
+        "medicina_interna",
+        "diverticulite_aguda",
+        "fisiopatologia",
+        "flora_bacteriana",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Quando é recomendada a realização de colonoscopia após episódio de diverticulite aguda?",
+      "question": "Qual é uma alternativa à amoxicilina-clavulanato na diverticulite não complicada?",
       "options": [
-        "Somente se houver sangramento ativo",
-        "Imediatamente após o diagnóstico",
-        "Durante o episódio agudo",
-        "6-8 semanas após a resolução"
+        "Doxiciclina",
+        "Azitromicina sozinha",
+        "Ciprofloxacina mais metronidazol",
+        "Clindamicina sozinha"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ciprofloxacino mais metronidazol cobre infecções por gram-negativos e anaeróbios, sendo uma alternativa quando há alergia ou intolerância a betalactâmicos.",
+      "hashtags": [
+        "medicina_interna",
+        "diverticulite_aguda",
+        "tratamento",
+        "antibiótico_alternativas",
+        "MEDICAL_TOPIC",
+        "Guia ESCP 2023"
+      ]
+    },
+    {
+      "question": "Qual é a duração recomendada dos antibióticos na diverticulite não complicada?",
+      "options": [
+        "28 dias",
+        "14 a 21 dias",
+        "7 a 10 dias",
+        "3 a 5 dias"
       ],
       "correctAnswer": 4,
-      "explanation": "A colonoscopia é recomendada 6 a 8 semanas após a resolução completa de um episódio de diverticulite aguda para descartar neoplasias subjacentes ou doença inflamatória intestinal, pois não é segura durante a fase aguda.",
+      "explanation": "A duração recomendada é de 3 a 5 dias, com base em evidências de que cursos de curta duração são igualmente eficazes e reduzem a resistência.",
+      "hashtags": [
+        "medicina_interna",
+        "diverticulite_aguda",
+        "posologia",
+        "duração_tratamento",
+        "MEDICAL_TOPIC",
+        "Guia AGA 2023"
+      ]
+    },
+    {
+      "question": "Qual fator contra-indica o manejo sem antibióticos na diverticulite?",
+      "options": [
+        "leucocitose leve",
+        "Imunossupressão",
+        "Idade acima de 50 anos",
+        "Dor na fossa ilíaca esquerda"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A imunossupressão é um fator de risco para resultados desfavoráveis, por isso esses pacientes necessitam de terapia antibiótica mesmo na diverticulite não complicada.",
+      "hashtags": [
+        "medicina_interna",
+        "diverticulite_aguda",
+        "contra-indicações",
+        "imunossupressão",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "No tratamento ambulatorial da diverticulite aguda não complicada, que tipo de dieta é recomendada inicialmente?",
+      "options": [
+        "Dieta hipercalórica",
+        "Dieta com baixo teor de sódio",
+        "Dieta líquida clara",
+        "Dieta rica em fibras"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Recomenda-se uma dieta líquida clara durante as primeiras 24-48 horas para permitir o repouso intestinal e reduzir a inflamação na diverticulite aguda não complicada tratada em regime ambulatorial.",
+      "hashtags": [
+        "medicina_interna",
+        "diverticulite_aguda",
+        "tratamento",
+        "dieta_inicial",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o principal objetivo da dieta líquida clara na diverticulite ambulatorial aguda?",
+      "options": [
+        "Prevenir a desidratação",
+        "descanso do cólon",
+        "Fornece calorias rápidas",
+        "Estimular o peristaltismo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O repouso do cólon é o principal objetivo da dieta líquida clara, pois reduz a pressão intraluminal e a inflamação, favorecendo a resolução do processo infeccioso na diverticulite aguda.",
+      "hashtags": [
+        "medicina_interna",
+        "diverticulite_aguda",
+        "fisiopatologia",
+        "descanso_intestinal",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual antibiótico oral é de primeira linha para o tratamento ambulatorial da diverticulite aguda não complicada?",
+      "options": [
+        "Clindamicina",
+        "Doxiciclina",
+        "Ciprofloxacina",
+        "Amoxicilina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A ciprofloxacina, combinada com metronidazol, é um dos regimes antibióticos orais de primeira linha para cobrir bactérias gram-negativas e anaeróbios na diverticulite aguda não complicada tratada em regime ambulatorial.",
+      "hashtags": [
+        "farmacologia",
+        "diverticulite_aguda",
+        "indicações",
+        "antibiótico_oral",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o critério clínico mais importante para decidir o manejo ambulatorial na diverticulite aguda?",
+      "options": [
+        "leucocitose grave",
+        "Idade acima de 70 anos",
+        "Ausência de peritonite",
+        "Febre superior a 39°C"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A ausência de sinais de peritonite ou complicações (abscesso, perfuração) é o critério chave para um manejo ambulatorial seguro, juntamente com tolerância oral e bom apoio social.",
+      "hashtags": [
+        "medicina_interna",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "critérios_ambulatoriais",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual progressão dietética é recomendada após 48 horas de melhora na diverticulite ambulatorial aguda?",
+      "options": [
+        "Dieta líquida exclusiva",
+        "Dieta rica em fibras",
+        "Dieta rica em proteínas",
+        "Dieta suave com baixo teor de fibras"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Recomenda-se dieta leve e pobre em fibras após melhora clínica para evitar distensão do cólon enquanto o processo inflamatório remite; a fibra é reintroduzida semanas depois.",
+      "hashtags": [
+        "medicina_interna",
+        "diverticulite_aguda",
+        "tratamento",
+        "dieta_progressão",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual sinal clínico contra-indica o tratamento ambulatorial da diverticulite aguda?",
+      "options": [
+        "Defesa abdominal voluntária",
+        "Dor na fossa ilíaca esquerda",
+        "Náusea sem vômito",
+        "Distensão abdominal leve"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A proteção abdominal voluntária sugere irritação peritoneal, indicando doença complicada ou perfuração, exigindo hospitalização e tratamento cirúrgico ou intravenoso.",
+      "hashtags": [
+        "medicina_interna",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "sinais_peritoneais",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o achado tomográfico mais característico do abscesso peridiverticular?",
+      "options": [
+        "Linfadenopatia mesentérica",
+        "Coleção de líquidos efervescentes",
+        "Espessamento parietal difuso",
+        "Pneumatose intestinal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O abscesso peridiverticular apresenta-se como uma coleção líquida com gás na TC, secundária à perfuração contida de um divertículo inflamado.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "diagnóstico",
+        "tomografia_abscesso",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual o tratamento de escolha para abscesso peridiverticular menor que 3 cm?",
+      "options": [
+        "ressecção cirúrgica",
+        "Laparoscopia exploratória",
+        "Antibióticos orais",
+        "Drenagem percutânea"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Abscessos peridiverticulares menores que 3 cm geralmente respondem a antibióticos de amplo espectro, reservando a drenagem percutânea para coleções maiores.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tratamento",
+        "gerenciamento_conservador",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual bactéria é mais frequentemente isolada em abscessos peridiverticulares?",
+      "options": [
+        "Escherichia coli",
+        "Pseudomonas aeruginosa",
+        "Staphylococcus aureus",
+        "Clostridium difficile"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Escherichia coli é o germe mais comum nos abscessos peridiverticulares, devido à flora colônica usual envolvida na perfuração diverticular.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "microbiologia",
+        "flora_cólon",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a classificação de Hinchey para abscesso peridiverticular?",
+      "options": [
+        "Fases iniciais e finais",
+        "Estágios I a IV",
+        "Graus 1 a 3",
+        "Tipos A e B"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A classificação de Hinchey divide a diverticulite complicada em estágios I a IV; O abscesso peridiverticular corresponde ao estágio I (abscesso pericólico).",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "conceito",
+        "hinchey_classification",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que sinal clínico sugere um abscesso peridiverticular complicado?",
+      "options": [
+        "Dor na fossa ilíaca direita",
+        "Náusea sem vômito",
+        "Febre e massa palpável",
+        "Distensão abdominal leve"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Febre associada a massa palpável no quadrante inferior esquerdo é característica de abscesso peridiverticular, indicando coleção inflamatória localizada.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "massa_palpável",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a complicação mais temida de um abscesso peridiverticular não drenado?",
+      "options": [
+        "obstrução intestinal",
+        "sepse urinária",
+        "Peritonite generalizada",
+        "Fístula colovesical"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A peritonite generalizada é a complicação mais grave, uma vez que a ruptura do abscesso na cavidade peritoneal espalha a infecção e requer cirurgia de emergência.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "complicações",
+        "peritonite",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual a indicação cirúrgica de emergência na diverticulite aguda complicada?",
+      "options": [
+        "Fístula colovesical crônica",
+        "Estenose colônica assintomática",
+        "Abscesso pericólico < 3 cm",
+        "Perfuração livre com peritonite"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A perfuração livre com peritonite generalizada requer cirurgia urgente devido ao risco de sepse e falência de órgãos. As demais opções podem ser gerenciadas de forma conservadora ou eletiva.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tratamento",
+        "indicação_cirúrgica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual achado tomográfico é característico de perfuração livre na diverticulite?",
+      "options": [
+        "extraluminal ao ar livre",
+        "Estreitamento do lúmen do cólon",
+        "Abscesso com gás dentro",
+        "Espessamento segmentar da parede"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ar livre extraluminal na TC indica perfuração da víscera oca. O espessamento e o abscesso são compatíveis com diverticulite sem perfuração livre; a estenose é crônica.",
+      "hashtags": [
+        "radiologia",
+        "diverticulite_aguda",
+        "diagnóstico",
+        "tomografia computadorizada",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o germe mais frequentemente isolado na peritonite secundária à diverticulite perfurada?",
+      "options": [
+        "Clostridium difficile",
+        "Staphylococcus aureus",
+        "Pseudomonas aeruginosa",
+        "Escherichia coli"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Escherichia coli é o bacilo gram-negativo anaeróbio facultativo mais comum em infecções intra-abdominais de origem colônica. Os outros patógenos são menos prevalentes neste contexto.",
+      "hashtags": [
+        "microbiologia",
+        "diverticulite_aguda",
+        "patogenia",
+        "flora_cólon",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual sinal clínico é mais específico para peritonite generalizada?",
+      "options": [
+        "Febre baixa",
+        "Distensão abdominal leve",
+        "Dor na fossa ilíaca direita",
+        "contratura abdominal involuntária"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A contratura abdominal involuntária (defesa muscular) indica irritação peritoneal difusa. A dor localizada é típica de processos não perfurados; distensão e febre são inespecíficas.",
+      "hashtags": [
+        "semiologia",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "sinal_peritoneal",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o manejo inicial recomendado em um paciente com peritonite por diverticulite perfurada?",
+      "options": [
+        "Antibióticos e cirurgia de emergência",
+        "Drenagem percutânea de abscesso",
+        "Repouso intestinal e analgesia isoladamente",
+        "Colonoscopia descompressiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A peritonite por perfuração livre requer cirurgia urgente associada a antibióticos de amplo espectro. A drenagem percutânea é para abscessos localizados; a colonoscopia é contraindicada na perfuração.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tratamento",
+        "tratamento_deemergência",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual procedimento cirúrgico é preferido na peritonite fecalóide por diverticulite?",
+      "options": [
+        "Colostomia em alça exclusiva",
+        "Laparoscopia diagnóstica sozinha",
+        "Cirurgia Hartmann",
+        "Ressecção com anastomose primária"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A cirurgia de Hartmann (ressecção do segmento afetado e colostomia terminal) é o padrão na peritonite grave com contaminação fecal. A anastomose primária apresenta alto risco de deiscência.",
+      "hashtags": [
+        "cirurgia_geral",
+        "diverticulite_aguda",
+        "tratamento",
+        "procedimento_cirúrgico",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o principal fator de risco para recorrência de diverticulite aguda?",
+      "options": [
+        "Sexo feminino",
+        "Velhice",
+        "Obesidade mórbida",
+        "doença inflamatória intestinal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A idade avançada está associada a um maior risco de recorrência devido a alterações estruturais na parede do cólon e a uma menor capacidade de reparação tecidual.",
+      "hashtags": [
+        "gastroenterologia",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "fatores_de risco",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual critério clínico indica a necessidade de profilaxia cirúrgica após episódio de diverticulite?",
+      "options": [
+        "Dois episódios descomplicados",
+        "Episódio único complicado",
+        "Três episódios em dois anos",
+        "Um único episódio leve"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Um único episódio complicado (abscesso, perfuração) apresenta alto risco de recorrência grave, portanto é recomendada cirurgia profilática eletiva.",
       "hashtags": [
         "gastroenterologia",
         "diverticulite_aguda",
         "tratamento",
-        "pós-colonoscopia_aguda",
-        "PATOLOGIA",
+        "profilaxia cirúrgica",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Nas prescrições médicas para diverticulite aguda, qual a indicação dietética inicial em paciente com dor intensa ou náusea/vômito?",
+      "question": "Qual a indicação cirúrgica absoluta na diverticulite aguda recorrente?",
       "options": [
-        "líquidos claros",
-        "Dieta regular rica em fibras",
-        "NPO (nada oral)",
-        "Dieta suave com baixo teor de resíduos"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Em pacientes com dor intensa, náuseas, vômitos, distensão abdominal ou suspeita de obstrução/perfuração, a indicação dietética inicial é NPO (Nada Oral) para garantir o repouso intestinal e evitar o agravamento da inflamação.",
-      "hashtags": [
-        "medicina_interna",
-        "diverticulite_aguda",
-        "conceito",
-        "dieta_npo",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é um regime antibiótico intravenoso comum para diverticulite aguda, abrangendo Gram-negativos e anaeróbios?",
-      "options": [
-        "Amoxicilina sozinha",
-        "Ceftriaxona + Metronidazol",
-        "Vancomicina + Gentamicina",
-        "Azitromicina + Doxiciclina"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Uma opção comum e eficaz para cobertura de Gram-negativos e anaeróbios na diverticulite aguda é a combinação de Ceftriaxona (para Gram-negativos) e Metronidazol (para anaeróbios), sendo um regime adequado de amplo espectro.",
-      "hashtags": [
-        "farmacologia",
-        "diverticulite_aguda",
-        "conceito",
-        "antibióticos_iv",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual analgésico é recomendado como primeira escolha para dor leve a moderada na diverticulite aguda?",
-      "options": [
-        "Paracetamol intravenoso",
-        "Cetorolaco intramuscular",
-        "ibuprofeno oral",
-        "morfina intravenosa"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O paracetamol intravenoso é o analgésico preferido para dor leve a moderada na diverticulite aguda, pois não está associado ao risco de perfuração ou sangramento que os AINEs apresentam e é menos potente que os opioides.",
-      "hashtags": [
-        "farmacologia",
-        "diverticulite_aguda",
-        "conceito",
-        "analgesia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Quais marcadores laboratoriais devem ser monitorados diariamente para avaliar a resposta inflamatória na diverticulite aguda hospitalizada?",
-      "options": [
-        "Hemograma completo e proteína C reativa",
-        "Glicose e triglicerídeos",
-        "Culturas de fezes e lactato",
-        "Urinálise e eletrólitos"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O hemograma completo (com diferencial) e a proteína C reativa (PCR) são marcadores-chave para monitorar diariamente a resposta inflamatória e a progressão ou resolução da infecção em pacientes hospitalizados com diverticulite aguda.",
-      "hashtags": [
-        "medicina_interna",
-        "diverticulite_aguda",
-        "conceito",
-        "laboratórios_monitoramento",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o critério de alta crítica para um paciente com diverticulite aguda que foi hospitalizado?",
-      "options": [
-        "Febre persistente",
-        "Tolerância adequada à dieta oral",
-        "Incapacidade de tolerar dieta oral",
-        "Necessidade de antibióticos intravenosos"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A tolerância adequada à dieta oral (líquidos claros ou dieta pastosa) é critério fundamental de alta, pois indica resolução do íleo ou inflamação que impediu a ingestão, permitindo a transição para tratamento oral e manejo ambulatorial.",
-      "hashtags": [
-        "cirurgia_geral",
-        "diverticulite_aguda",
-        "conceito",
-        "critérios_altos",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual lei descreve a relação entre pressão, tensão da parede e raio no cólon, contribuindo para a formação de divertículos?",
-      "options": [
-        "Lei de Laplace",
-        "Lei de Ohm",
-        "Lei de Boyle",
-        "Lei de Starling"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A Lei de Laplace afirma que a pressão dentro de um cilindro é inversamente proporcional ao raio. No cólon, segmentos mais estreitos, como o sigmóide, sofrem maior pressão, facilitando a herniação da mucosa e a formação de divertículos.",
-      "hashtags": [
-        "fisiopatologia",
-        "diverticulite_aguda",
-        "etiologia",
-        "laplace_law",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o evento central que leva ao extravasamento de bactérias e toxinas na diverticulite aguda?",
-      "options": [
-        "Aumento da pressão intradiverticular",
-        "Microperfuração de parede",
-        "Obstrução diverticular do pescoço",
-        "Resposta inflamatória local"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A microperfuração da parede diverticular é o evento central; É o ponto onde a isquemia e a distensão culminam na ruptura do divertículo, permitindo que bactérias e toxinas luminais extravasem para o tecido pericólico, iniciando a inflamação.",
-      "hashtags": [
-        "fisiopatologia",
-        "diverticulite_aguda",
-        "fisiopatologia",
-        "microperfuração",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a localização mais comum da diverticulose nas populações ocidentais?",
-      "options": [
-        "cólon transverso",
-        "Cego",
-        "cólon sigmóide",
-        "cólon ascendente"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Nas populações ocidentais, a diverticulose é significativamente mais comum no cólon sigmóide, afetando 90-95% dos casos. Isto é devido às características anatômicas e fisiológicas desta seção do cólon.",
-      "hashtags": [
-        "epidemiologia",
-        "diverticulite_aguda",
-        "epidemiologia",
-        "localização_frequente",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que sintomas urinários podem ocorrer devido à irritação da bexiga causada pela inflamação pericólica na diverticulite?",
-      "options": [
-        "Anúria e oligúria",
-        "Retenção urinária aguda",
-        "Incontinência urinária",
-        "Disúria e frequência"
+        "Febre recorrente",
+        "Dor abdominal persistente",
+        "leucocitose moderada",
+        "Peritonite generalizada"
       ],
       "correctAnswer": 4,
-      "explanation": "Disúria (dor ao urinar) e frequência (frequência urinária) são sintomas urinários comuns que podem ocorrer devido à irritação da bexiga quando o cólon inflamado está adjacente a ela, mesmo sem uma infecção real do trato urinário.",
+      "explanation": "A peritonite generalizada por perfuração diverticular é uma emergência cirúrgica absoluta, pois envolve contaminação peritoneal e risco de sepse.",
       "hashtags": [
-        "medicina_interna",
-        "diverticulite_aguda",
-        "tabela_clínica",
-        "sintomas_urinários",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Como é conhecida histologicamente a herniação da mucosa e submucosa através da camada muscular do cólon?",
-      "options": [
-        "cisto mucoso",
-        "divertículo congênito",
-        "Pseudodivertículo",
-        "divertículo verdadeiro"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Histologicamente, um divertículo que consiste na herniação da mucosa e submucosa através da camada muscular do cólon é conhecido como pseudodivertículo ou falso divertículo, em oposição a um divertículo verdadeiro que contém todas as camadas da parede intestinal.",
-      "hashtags": [
-        "patologia",
-        "diverticulite_aguda",
-        "conceito",
-        "pseudodivertículo",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Quais medicamentos, ao causarem constipação, podem aumentar a pressão intraluminal e contribuir para o risco de diverticulite?",
-      "options": [
-        "Corticosteróides",
-        "AINEs",
-        "Inibidores da bomba de prótons",
-        "Opioides"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Sabe-se que os opioides causam constipação significativa, o que pode aumentar a pressão intraluminal no cólon e contribuir para o risco de desenvolvimento de diverticulose e subsequentemente diverticulite aguda.",
-      "hashtags": [
-        "farmacologia",
-        "diverticulite_aguda",
-        "etiologia",
-        "risco_opioide",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que alteração estrutural na parede do cólon, associada ao envelhecimento, favorece a hérnia e a formação de divertículos?",
-      "options": [
-        "Diminuição do colágeno tipo I",
-        "Aumento do colágeno tipo I e rigidez",
-        "Espessamento da camada muscular",
-        "Aumento da elastina"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Com o envelhecimento, ocorre diminuição da elastina e do colágeno tipo III, e aumento do colágeno tipo I, o que resulta em uma parede colônica mais rígida e menos elástica, favorecendo a herniação da mucosa e a formação de divertículos.",
-      "hashtags": [
-        "fisiopatologia",
-        "diverticulite_aguda",
-        "fisiopatologia",
-        "estruturais_colon_changes",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual tendência epidemiológica tem sido observada na incidência de diverticulite aguda nas últimas décadas?",
-      "options": [
-        "Aumento constante em adultos jovens",
-        "Diminuição constante em todos os grupos",
-        "Estabilização geral",
-        "Aumento apenas em maiores de 80 anos"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A incidência de diverticulite aguda tem demonstrado um aumento constante nas últimas décadas, particularmente em grupos etários mais jovens (menos de 50 anos), frequentemente associada a um curso mais agressivo e a uma maior taxa de recorrência.",
-      "hashtags": [
-        "epidemiologia",
-        "diverticulite_aguda",
-        "epidemiologia",
-        "incidência_tendências",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de dor abdominal, especialmente se difusa com peritonismo, sugere uma complicação grave da diverticulite?",
-      "options": [
-        "Dor muito intensa e difusa",
-        "Dor surda e gradual",
-        "Dor de cólica leve",
-        "Dor suprapúbica isolada"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Dor abdominal muito intensa, especialmente se for difusa ou acompanhada de sinais de peritonismo (sensibilidade rebote, defesa, rigidez), sugere uma complicação grave, como perfuração livre e peritonite, que requer atenção médica urgente.",
-      "hashtags": [
-        "cirurgia_geral",
-        "diverticulite_aguda",
-        "tabela_clínica",
-        "dor_complicação_grave",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual marcador inflamatório, além do hemograma, é útil no monitoramento da gravidade e da resposta ao tratamento da diverticulite?",
-      "options": [
-        "Amilase",
-        "Proteína C Reativa (PCR)",
-        "D-dímero",
-        "Troponinas"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A Proteína C Reativa (PCR) é um marcador inflamatório que geralmente está elevado na diverticulite aguda e se correlaciona com a gravidade da inflamação, sendo útil para monitorar a resposta do paciente ao tratamento.",
-      "hashtags": [
-        "medicina_interna",
-        "diverticulite_aguda",
-        "diagnóstico",
-        "pcr_monitoramento",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "De acordo com a classificação de Hinchey modificada, o Estágio 0 refere-se a?",
-      "options": [
-        "Peritonite fecal",
-        "Abscesso pericólico",
-        "Diverticulite leve ou flegmão",
-        "Peritonite purulenta"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O estágio 0 da classificação de Hinchey modificada refere-se à diverticulite leve ou flegmão pericólico, que corresponde à diverticulite não complicada, onde a inflamação é contida sem abscessos ou perfuração macroscópica.",
-      "hashtags": [
-        "cirurgia_geral",
-        "diverticulite_aguda",
-        "conceito",
-        "hindchey_modified_0",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual das seguintes condições ginecológicas é uma emergência e pode mimetizar diverticulite com dor abdominal aguda e sangramento vaginal?",
-      "options": [
-        "Ruptura de cisto ovariano",
-        "Gravidez ectópica rompida",
-        "Doença inflamatória pélvica",
-        "torção ovariana"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A gravidez ectópica rompida é uma emergência ginecológica que causa dor abdominal aguda e intensa, muitas vezes unilateral, com história de amenorreia e sangramento vaginal, podendo mimetizar diverticulite, necessitando de rápido diagnóstico diferencial.",
-      "hashtags": [
-        "ginecologia",
-        "diverticulite_aguda",
-        "conceito",
-        "gravidez_ectópica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual recomendação dietética é essencial após a fase aguda da diverticulite para prevenir recorrências?",
-      "options": [
-        "Dieta líquida clara indefinida",
-        "Evite sementes e nozes",
-        "Dieta rica em fibras",
-        "Dieta com baixo teor de resíduos"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Após a fase aguda, deve-se aconselhar dieta rica em fibras (25-30g/dia) para aumentar o volume das fezes, reduzir a pressão intraluminal e promover evacuações regulares, o que ajuda a prevenir recorrências.",
-      "hashtags": [
-        "nutrição",
+        "gastroenterologia",
         "diverticulite_aguda",
         "tratamento",
-        "dieta_prevenção",
-        "PATOLOGIA",
+        "emergência_cirurgia",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Em que casos de diverticulite aguda deve ser consultada a Cirurgia Geral?",
+      "question": "Qual procedimento cirúrgico é preferido na profilaxia da recorrência da diverticulite?",
       "options": [
-        "Somente se o paciente estiver imunocomprometido",
-        "Somente se não houver melhora com antibióticos orais",
-        "Sempre em casos de diverticulite complicada",
-        "Somente em casos leves e não complicados"
+        "Colostomia derivada",
+        "Colectomia direita",
+        "ressecção sigmóide",
+        "Colectomia esquerda"
       ],
       "correctAnswer": 3,
-      "explanation": "A Cirurgia Geral deve ser consultada para todos os casos de diverticulite complicada (Hinchey Ia-III / ASCRS 2a-2c), bem como em caso de dúvidas diagnósticas, perfuração, abcesso, falha de tratamento médico ou indicação de cirurgia eletiva.",
+      "explanation": "A ressecção do sigmóide é a cirurgia de escolha porque a maioria dos divertículos está localizada no cólon sigmóide, eliminando o segmento afetado.",
       "hashtags": [
-        "cirurgia_geral",
+        "gastroenterologia",
         "diverticulite_aguda",
-        "conceito",
-        "consulta_especializada",
-        "PATOLOGIA",
+        "tratamento",
+        "sigmoid_resection",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual é a principal limitação da ultrassonografia abdominal no diagnóstico da diverticulite aguda?",
+      "question": "Qual achado tomográfico contraindica a profilaxia cirúrgica eletiva imediata?",
       "options": [
-        "Alta exposição à radiação",
-        "É altamente dependente do operador",
-        "Não detecta divertículos",
-        "É muito lento fazer"
+        "Divertículos múltiplos",
+        "abscesso paracólico",
+        "Espessamento mural",
+        "Pneumatose intestinal"
       ],
-      "correctAnswer": 2,
-      "explanation": "A ultrassonografia abdominal é uma ferramenta útil em alguns contextos, mas sua principal limitação é ser altamente dependente do operador e sua sensibilidade e especificidade são inferiores às da TC, especialmente em pacientes obesos ou com excesso de gases intestinais.",
+      "correctAnswer": 4,
+      "explanation": "Pneumatose intestinal indica isquemia ou necrose da parede do cólon, necessitando de cirurgia de emergência em vez de profilaxia eletiva.",
       "hashtags": [
-        "diagnóstico_por_imagem",
+        "gastroenterologia",
         "diverticulite_aguda",
         "diagnóstico",
-        "limitações_ultrassom",
-        "PATOLOGIA",
+        "tomografia_abdominal",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a taxa aproximada de recorrência após um primeiro episódio de diverticulite aguda?",
+      "options": [
+        "5-10%",
+        "50-60%",
+        "15-20%",
+        "30-40%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Após um primeiro episódio, a recorrência é relatada em 15-20% dos pacientes, sendo mais frequente naqueles com fatores de risco como imunossupressão.",
+      "hashtags": [
+        "gastroenterologia",
+        "diverticulite_aguda",
+        "epidemiologia",
+        "recorrência",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o achado endoscópico mais sugestivo de câncer colorretal em paciente com suspeita de diverticulite aguda?",
+      "options": [
+        "Dobras espessadas e congestionadas",
+        "Mucosa eritematosa e edematosa",
+        "Massa ulcerada e friável",
+        "Divertículos com exsudato purulento"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Uma massa ulcerada e friável é característica do câncer colorretal, enquanto os achados de diverticulite incluem mucosa eritematosa, divertículos com exsudato e dobras espessadas.",
+      "hashtags": [
+        "gastroenterologia",
+        "diverticulite_aguda",
+        "diagnóstico",
+        "endoscopia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual sintoma é mais característico do câncer colorretal do que da diverticulite aguda?",
+      "options": [
+        "Mudança no hábito intestinal",
+        "Dor na fossa ilíaca esquerda",
+        "Perda de peso inexplicável",
+        "Febre e leucocitose"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A perda de peso inexplicável é um sintoma constitucional mais associado ao câncer colorretal avançado, enquanto dor, febre e alterações intestinais agudas são comuns na diverticulite.",
+      "hashtags": [
+        "gastroenterologia",
+        "diverticulite_aguda",
+        "tabela_clínica",
+        "sintomas_constitucionais",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual exame de imagem é mais útil para diferenciar diverticulite aguda de câncer colorretal?",
+      "options": [
+        "Radiografia abdominal simples",
+        "Ultrassonografia abdominal sem contraste",
+        "Tomografia computadorizada com contraste",
+        "Colonoscopia virtual sem preparação"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A tomografia computadorizada com contraste é o exame de escolha para diferenciar ambas as entidades, mostrando espessamento mural segmentar na diverticulite e massa heterogênea no câncer.",
+      "hashtags": [
+        "gastroenterologia",
+        "diverticulite_aguda",
+        "diagnóstico",
+        "tomografia computadorizada",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual achado tomográfico é mais indicativo de câncer colorretal do que diverticulite?",
+      "options": [
+        "Espessamento mural longo e concêntrico",
+        "Infiltração de gordura pericolônica",
+        "Presença de gás extraluminal",
+        "Espessamento mural assimétrico e curto"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O espessamento mural curto e assimétrico é típico do câncer colorretal, enquanto o espessamento concêntrico longo e a infiltração gordurosa são mais típicos da diverticulite.",
+      "hashtags": [
+        "gastroenterologia",
+        "diverticulite_aguda",
+        "diagnóstico",
+        "tomografia computadorizada",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual marcador tumoral pode estar elevado no câncer colorretal e raramente na diverticulite?",
+      "options": [
+        "taxa de hemossedimentação",
+        "Proteína C reativa (PCR)",
+        "Leucócitos totais",
+        "Antígeno carcinoembrionário (CEA)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O antígeno carcinoembrionário (CEA) é um marcador tumoral elevado no câncer colorretal, enquanto a PCR, a VHS e os leucócitos são reagentes de fase aguda inespecíficos também elevados na diverticulite.",
+      "hashtags": [
+        "gastroenterologia",
+        "diverticulite_aguda",
+        "diagnóstico",
+        "marcadores_tumor",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual a principal indicação de colonoscopia após episódio de diverticulite aguda?",
+      "options": [
+        "Descartar câncer colorretal",
+        "Faça biópsias da mucosa normal",
+        "Descartar doença inflamatória intestinal",
+        "Avaliar a extensão dos divertículos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A colonoscopia é recomendada após um episódio de diverticulite aguda para descartar câncer colorretal, uma vez que ambas as entidades podem compartilhar sintomas iniciais e achados radiológicos.",
+      "hashtags": [
+        "gastroenterologia",
+        "diverticulite_aguda",
+        "diagnóstico",
+        "colonoscopia",
+        "MEDICAL_TOPIC",
         ""
       ]
     }
