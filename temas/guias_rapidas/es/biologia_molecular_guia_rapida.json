@@ -1,0 +1,71 @@
+{
+  "id": "biologia_molecular",
+  "items": [
+    {
+      "order": 0,
+      "foco": "Completo",
+      "title": "Completo",
+      "contentHtml": "<h2>Replicación del ADN</h2><h2>Replicación del ADN</h2><ul><li><b>Horquilla de replicación:</b> ADN helicasa desenrolla; topoisomerasa (ej. girasa en procariotas) alivia tensión; SSB proteínas estabilizan cadenas simples.</li><li><b>Frag. Okazaki:</b> en cadena rezagada (3'→5' leída), sintetizados por ADN polimerasa III en procariotas/ δ en eucariotas; unidos por ADN ligasa. <b>Trampa:</b> los cebadores de ARN (primasa) son necesarios; en examen preguntan que la cadena líder es continua 5'→3'.</li><li><b>Direccionalidad:</b> siempre síntesis 5'→3'; la horquilla es asimétrica.</li></ul><br><br><h2>Transcripción</h2><h2>Transcripción</h2><ul><li><b>ARN polimerasa:</b> en procariotas, una sola (ARN pol) con subunidad σ que reconoce promotor -10 (caja Pribnow) y -35. En eucariotas, ARN pol II transcribe ARNm; promotor incluye caja TATA (reconocida por TFIID).</li><li><b>Iniciación:</b> factores de transcripción (TFIIA, TFIIB, etc.) ensamblan complejo de preiniciación. <b>Trampa:</b> la ARN polimerasa no requiere cebador.</li><li><b>Terminación:</b> en procariotas, estructura horquilla (terminación intrínseca) o factor Rho; en eucariotas, señal de poliadenilación (AAUAAA).</li></ul><br><br><h2>Traducción</h2><h2>Traducción</h2><ul><li><b>Ribosoma:</b> 70S (procariota: 50S+30S) y 80S (eucariota: 60S+40S). Sitios A (aminoacil), P (peptidil), E (exit).</li><li><b>ARNt:</b> anticodón complementa codón del ARNm; aminoacil-ARNt sintetasa carga el aminoácido correcto (gasto de ATP).</li><li><b>Código genético:</b> degenerado, 61 codones sentido + 3 stop (UAA, UAG, UGA). <b>Inicio:</b> AUG (metionina en eucariotas; formilmetionina en procariotas). <b>Trampa:</b> la lectura es en marco; mutaciones frameshift alteran toda la proteína.</li></ul><br><br><h2>Mutaciones puntuales</h2><h2>Mutaciones puntuales</h2><ul><li><b>Silenciosa:</b> cambio de base no altera aminoácido (degeneración); sin efecto fenotípico.</li><li><b>Missense:</b> cambio de aminoácido; puede ser conservadora (similar química) o no conservadora (ej. HbS: Glu→Val en β-globina).</li><li><b>Sin sentido (nonsense):</b> codón se convierte en stop (UAA, UAG, UGA); produce proteína truncada (ej. distrofia muscular de Duchenne). <b>Trampa:</b> mutación sin sentido no es lo mismo que frameshift; frameshift es inserción/deleción no múltiplo de 3.</li></ul><br><br><h2>Reparación del ADN</h2><h2>Reparación del ADN</h2><ul><li><b>BER (escisión de bases):</b> repara bases dañadas (desaminación, alquilación). ADN glicosilasa reconoce y escinde base; AP endonucleasa corta; ADN pol β rellena; ligasa sella.</li><li><b>NER (escisión de nucleótidos):</b> repara dímeros de timina (UV), aductos voluminosos. Xeroderma pigmentoso: defecto en NER (proteínas XP). <b>Hallazgo clave:</b> fotosensibilidad, alto riesgo de cáncer cutáneo.</li><li><b>Trampa:</b> reparación de errores de apareamiento (MMR) corrige inserciones/deleciones; defecto en MMR → síndrome de Lynch (cáncer colorrectal hereditario).</li></ul><br><br><h2>Operón lac</h2><h2>Operón lac</h2><ul><li><b>Estructura:</b> promotor, operador (lacO), genes estructurales (lacZ, lacY, lacA). Represor lacI (constitutivo) se une a operador en ausencia de lactosa.</li><li><b>Inducción:</b> alolactosa (inducidor) se une al represor, lo libera del operador; ARN pol transcribe genes. <b>Trampa:</b> si hay glucosa, no hay AMPc → CAP no se une → baja transcripción (represión catabólica).</li><li><b>Perla:</b> mutación en lacI (represor) produce expresión constitutiva; mutación en operador (lacO^c) impide unión del represor.</li></ul><br><br><h2>PCR</h2><h2>PCR</h2><ul><li><b>Ciclos:</b> desnaturalización (94-98°C), hibridación (50-65°C, según Tm de cebadores), extensión (72°C, Taq polimerasa termoestable). 30-35 ciclos amplifican exponencialmente.</li><li><b>Componentes clave:</b> ADN molde, cebadores (primers), dNTPs, Taq pol, buffer con Mg²⁺ (cofactor). <b>Trampa:</b> Mg²⁺ excesivo puede aumentar inespecificidad; Tm se calcula con fórmula (2°C para A/T + 4°C para G/C).</li><li><b>PCR tiempo real (qPCR):</b> cuantifica ADN usando SYBR Green o sondas TaqMan; útil para carga viral (VIH, VHC).</li></ul><br><br><h2>Electroforesis y Southern blot</h2><h2>Electroforesis y Southern blot</h2><ul><li><b>Electroforesis:</b> ADN (cargado negativamente) migra hacia ánodo en gel de agarosa; fragmentos pequeños migran más rápido. <b>Tinción:</b> bromuro de etidio o SYBR Safe; se visualiza con UV.</li><li><b>Southern blot:</b> transferencia de ADN a membrana (nylon/nitrocelulosa) tras digestión con enzimas de restricción; hibridación con sonda marcada (radiactiva/quimioluminiscente). <b>Útil para:</b> detectar mutaciones, reordenamientos génicos (ej. clonalidad en linfomas).</li><li><b>Trampa:</b> Northern blot es para ARN; Western blot para proteínas.</li></ul><br><br><h2>Ciclo celular y apoptosis</h2><h2>Ciclo celular y apoptosis</h2><ul><li><b>Fases:</b> G1 (crecimiento), S (síntesis ADN), G2 (preparación mitosis), M (mitosis). <b>Puntos de control:</b> G1/S (restriction point, regulado por Rb/p53), G2/M (checkpoint daño ADN), M (checkpoint huso).</li><li><b>Apoptosis:</b> vía extrínseca (receptores de muerte, Fas/TNF) e intrínseca (mitocondrial, citocromo c, caspasas). p53 induce apoptosis si daño irreparable. <b>Trampa:</b> Bcl-2 es antiapoptótico; Bax es proapoptótico.</li><li><b>Perla:</b> mutaciones en p53 (gen supresor tumoral) se asocian a >50% de cánceres.</li></ul><br><br><h2>Enzimas de restricción y vectores</h2><h2>Enzimas de restricción y vectores</h2><ul><li><b>Enzimas de restricción:</b> endonucleasas que cortan ADN en secuencias palindrómicas (ej. EcoRI: GAATTC). Producen extremos cohesivos (sticky) o romos (blunt). <b>Utilidad:</b> mapeo de restricción, clonación.</li><li><b>Vectores de clonación:</b> plásmidos (origen de replicación, sitio múltiple de clonación, gen marcador de selección como ampR). <b>Otros vectores:</b> fagos, BAC (cromosoma artificial bacteriano), YAC.</li><li><b>Trampa:</b> ADN ligasa une fragmentos con extremos compatibles; fosfatasa alcalina evita relegación del vector.</li></ul>"
+    },
+    {
+      "order": 1,
+      "foco": "Replicación del ADN: horquilla y fragmentos de Okazaki",
+      "title": "Replicación del ADN",
+      "contentHtml": "<h2>Replicación del ADN</h2><ul><li><b>Horquilla de replicación:</b> ADN helicasa desenrolla; topoisomerasa (ej. girasa en procariotas) alivia tensión; SSB proteínas estabilizan cadenas simples.</li><li><b>Frag. Okazaki:</b> en cadena rezagada (3'→5' leída), sintetizados por ADN polimerasa III en procariotas/ δ en eucariotas; unidos por ADN ligasa. <b>Trampa:</b> los cebadores de ARN (primasa) son necesarios; en examen preguntan que la cadena líder es continua 5'→3'.</li><li><b>Direccionalidad:</b> siempre síntesis 5'→3'; la horquilla es asimétrica.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Transcripción: ARN polimerasa y promotores",
+      "title": "Transcripción",
+      "contentHtml": "<h2>Transcripción</h2><ul><li><b>ARN polimerasa:</b> en procariotas, una sola (ARN pol) con subunidad σ que reconoce promotor -10 (caja Pribnow) y -35. En eucariotas, ARN pol II transcribe ARNm; promotor incluye caja TATA (reconocida por TFIID).</li><li><b>Iniciación:</b> factores de transcripción (TFIIA, TFIIB, etc.) ensamblan complejo de preiniciación. <b>Trampa:</b> la ARN polimerasa no requiere cebador.</li><li><b>Terminación:</b> en procariotas, estructura horquilla (terminación intrínseca) o factor Rho; en eucariotas, señal de poliadenilación (AAUAAA).</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Traducción: ribosomas, ARNt y codones",
+      "title": "Traducción",
+      "contentHtml": "<h2>Traducción</h2><ul><li><b>Ribosoma:</b> 70S (procariota: 50S+30S) y 80S (eucariota: 60S+40S). Sitios A (aminoacil), P (peptidil), E (exit).</li><li><b>ARNt:</b> anticodón complementa codón del ARNm; aminoacil-ARNt sintetasa carga el aminoácido correcto (gasto de ATP).</li><li><b>Código genético:</b> degenerado, 61 codones sentido + 3 stop (UAA, UAG, UGA). <b>Inicio:</b> AUG (metionina en eucariotas; formilmetionina en procariotas). <b>Trampa:</b> la lectura es en marco; mutaciones frameshift alteran toda la proteína.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Mutaciones puntuales: silenciosa, sin sentido, missense",
+      "title": "Mutaciones puntuales",
+      "contentHtml": "<h2>Mutaciones puntuales</h2><ul><li><b>Silenciosa:</b> cambio de base no altera aminoácido (degeneración); sin efecto fenotípico.</li><li><b>Missense:</b> cambio de aminoácido; puede ser conservadora (similar química) o no conservadora (ej. HbS: Glu→Val en β-globina).</li><li><b>Sin sentido (nonsense):</b> codón se convierte en stop (UAA, UAG, UGA); produce proteína truncada (ej. distrofia muscular de Duchenne). <b>Trampa:</b> mutación sin sentido no es lo mismo que frameshift; frameshift es inserción/deleción no múltiplo de 3.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Reparación del ADN: escisión de bases y nucleótidos",
+      "title": "Reparación del ADN",
+      "contentHtml": "<h2>Reparación del ADN</h2><ul><li><b>BER (escisión de bases):</b> repara bases dañadas (desaminación, alquilación). ADN glicosilasa reconoce y escinde base; AP endonucleasa corta; ADN pol β rellena; ligasa sella.</li><li><b>NER (escisión de nucleótidos):</b> repara dímeros de timina (UV), aductos voluminosos. Xeroderma pigmentoso: defecto en NER (proteínas XP). <b>Hallazgo clave:</b> fotosensibilidad, alto riesgo de cáncer cutáneo.</li><li><b>Trampa:</b> reparación de errores de apareamiento (MMR) corrige inserciones/deleciones; defecto en MMR → síndrome de Lynch (cáncer colorrectal hereditario).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Regulación génica: operón lac en procariotas",
+      "title": "Operón lac",
+      "contentHtml": "<h2>Operón lac</h2><ul><li><b>Estructura:</b> promotor, operador (lacO), genes estructurales (lacZ, lacY, lacA). Represor lacI (constitutivo) se une a operador en ausencia de lactosa.</li><li><b>Inducción:</b> alolactosa (inducidor) se une al represor, lo libera del operador; ARN pol transcribe genes. <b>Trampa:</b> si hay glucosa, no hay AMPc → CAP no se une → baja transcripción (represión catabólica).</li><li><b>Perla:</b> mutación en lacI (represor) produce expresión constitutiva; mutación en operador (lacO^c) impide unión del represor.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Reacción en cadena de la polimerasa (PCR)",
+      "title": "PCR",
+      "contentHtml": "<h2>PCR</h2><ul><li><b>Ciclos:</b> desnaturalización (94-98°C), hibridación (50-65°C, según Tm de cebadores), extensión (72°C, Taq polimerasa termoestable). 30-35 ciclos amplifican exponencialmente.</li><li><b>Componentes clave:</b> ADN molde, cebadores (primers), dNTPs, Taq pol, buffer con Mg²⁺ (cofactor). <b>Trampa:</b> Mg²⁺ excesivo puede aumentar inespecificidad; Tm se calcula con fórmula (2°C para A/T + 4°C para G/C).</li><li><b>PCR tiempo real (qPCR):</b> cuantifica ADN usando SYBR Green o sondas TaqMan; útil para carga viral (VIH, VHC).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Electroforesis en gel y Southern blot",
+      "title": "Electroforesis y Southern blot",
+      "contentHtml": "<h2>Electroforesis y Southern blot</h2><ul><li><b>Electroforesis:</b> ADN (cargado negativamente) migra hacia ánodo en gel de agarosa; fragmentos pequeños migran más rápido. <b>Tinción:</b> bromuro de etidio o SYBR Safe; se visualiza con UV.</li><li><b>Southern blot:</b> transferencia de ADN a membrana (nylon/nitrocelulosa) tras digestión con enzimas de restricción; hibridación con sonda marcada (radiactiva/quimioluminiscente). <b>Útil para:</b> detectar mutaciones, reordenamientos génicos (ej. clonalidad en linfomas).</li><li><b>Trampa:</b> Northern blot es para ARN; Western blot para proteínas.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Ciclo celular: puntos de control y apoptosis",
+      "title": "Ciclo celular y apoptosis",
+      "contentHtml": "<h2>Ciclo celular y apoptosis</h2><ul><li><b>Fases:</b> G1 (crecimiento), S (síntesis ADN), G2 (preparación mitosis), M (mitosis). <b>Puntos de control:</b> G1/S (restriction point, regulado por Rb/p53), G2/M (checkpoint daño ADN), M (checkpoint huso).</li><li><b>Apoptosis:</b> vía extrínseca (receptores de muerte, Fas/TNF) e intrínseca (mitocondrial, citocromo c, caspasas). p53 induce apoptosis si daño irreparable. <b>Trampa:</b> Bcl-2 es antiapoptótico; Bax es proapoptótico.</li><li><b>Perla:</b> mutaciones en p53 (gen supresor tumoral) se asocian a >50% de cánceres.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Enzimas de restricción y vectores de clonación",
+      "title": "Enzimas de restricción y vectores",
+      "contentHtml": "<h2>Enzimas de restricción y vectores</h2><ul><li><b>Enzimas de restricción:</b> endonucleasas que cortan ADN en secuencias palindrómicas (ej. EcoRI: GAATTC). Producen extremos cohesivos (sticky) o romos (blunt). <b>Utilidad:</b> mapeo de restricción, clonación.</li><li><b>Vectores de clonación:</b> plásmidos (origen de replicación, sitio múltiple de clonación, gen marcador de selección como ampR). <b>Otros vectores:</b> fagos, BAC (cromosoma artificial bacteriano), YAC.</li><li><b>Trampa:</b> ADN ligasa une fragmentos con extremos compatibles; fosfatasa alcalina evita relegación del vector.</li></ul>"
+    }
+  ]
+}

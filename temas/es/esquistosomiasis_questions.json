@@ -1,243 +1,490 @@
 {
   "questions": [
     {
-      "question": "¿Cuál es el hospedero intermediario de Schistosoma mansoni?",
+      "question": "¿Cuál es el hospedero intermediario de Schistosoma?",
       "options": [
-        "Caracol del género Biomphalaria",
-        "Caracol del género Bulinus",
-        "Mosquito del género Anopheles",
-        "Molusco del género Oncomelania"
+        "Pulga de la rata",
+        "Garrapata del ganado",
+        "Caracol de agua dulce",
+        "Mosquito Anopheles"
       ],
-      "correctAnswer": 1,
-      "explanation": "Schistosoma mansoni utiliza caracoles del género Biomphalaria como hospedero intermediario, donde se desarrollan las larvas que infectan al humano.",
+      "correctAnswer": 3,
+      "explanation": "El caracol de agua dulce es el hospedero intermediario obligatorio donde se desarrollan las larvas de Schistosoma, permitiendo la transmisión de la esquistosomiasis.",
       "hashtags": [
         "parasitologia",
         "esquistosomiasis",
-        "ciclo_biologico",
+        "concepto",
         "hospedero_intermediario",
         "TEMA_MEDICO",
-        "Harrison 21ed"
+        ""
       ]
     },
     {
-      "question": "¿Qué forma larvaria infectante para el humano sale del caracol?",
+      "question": "¿Qué forma larvaria infecta al caracol en el ciclo de Schistosoma?",
       "options": [
-        "Esquistosómulo",
         "Cercaria",
         "Miracidio",
-        "Ovo"
+        "Esquistosómulo",
+        "Gusano adulto"
       ],
       "correctAnswer": 2,
-      "explanation": "La cercaria es la forma larvaria que emerge del caracol y penetra activamente la piel humana, iniciando la infección por esquistosomiasis.",
+      "explanation": "El miracidio, liberado de huevos en agua dulce, penetra activamente en el caracol hospedero intermediario para iniciar la fase de reproducción asexual.",
       "hashtags": [
         "parasitologia",
         "esquistosomiasis",
         "ciclo_biologico",
-        "forma_infectante",
+        "miracidio_infeccion",
         "TEMA_MEDICO",
-        "Harrison 21ed"
+        ""
       ]
     },
     {
-      "question": "¿Qué estructura del caracol alberga la reproducción asexual del parásito?",
+      "question": "¿Qué ocurre dentro del caracol durante el ciclo de Schistosoma?",
       "options": [
-        "Manto",
-        "Pie muscular",
-        "Hepatopáncreas",
-        "Concha calcárea"
+        "Reproducción sexual del parásito",
+        "Migración al sistema portal",
+        "Multiplicación asexual de larvas",
+        "Formación de huevos larvados"
       ],
       "correctAnswer": 3,
-      "explanation": "En el hepatopáncreas del caracol ocurre la reproducción asexual del esquistosoma, produciendo múltiples cercarias a partir de un miracidio.",
+      "explanation": "Dentro del caracol, el miracidio se transforma en esporocistos que se multiplican asexualmente, produciendo numerosas cercarias que luego emergen al agua.",
+      "hashtags": [
+        "parasitologia",
+        "esquistosomiasis",
+        "patogenia",
+        "esporocistos_multiplicacion",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué forma larvaria abandona el caracol para infectar al humano?",
+      "options": [
+        "Huevo embrionado",
+        "Esquistosómulo tisular",
+        "Miracidio ciliado",
+        "Cercaria nadadora libre"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las cercarias, con cola bifurcada, emergen del caracol y nadan en agua dulce hasta penetrar la piel humana, iniciando la infección en el hospedero definitivo.",
       "hashtags": [
         "parasitologia",
         "esquistosomiasis",
         "ciclo_biologico",
-        "reproduccion_asexual",
+        "cercaria_emision",
         "TEMA_MEDICO",
-        "Harrison 21ed"
+        ""
       ]
     },
     {
-      "question": "¿Cuál es el estímulo para que el miracidio penetre al caracol?",
+      "question": "¿Cuál es el principal factor que favorece la transmisión de esquistosomiasis?",
       "options": [
-        "Movimiento de la corriente",
-        "Temperatura elevada del agua",
-        "Secreción química del molusco",
-        "Presencia de luz ultravioleta"
+        "Ingesta de carne mal cocida",
+        "Picadura de mosquito infectado",
+        "Contacto con agua contaminada",
+        "Inhalación de polvo fecal"
       ],
       "correctAnswer": 3,
-      "explanation": "El miracidio es atraído por sustancias químicas secretadas por el caracol, lo que facilita su penetración y posterior desarrollo en el hepatopáncreas.",
+      "explanation": "La transmisión ocurre cuando el humano entra en contacto con agua dulce que contiene cercarias liberadas por caracoles infectados, lo que permite la penetración cutánea del parásito.",
       "hashtags": [
         "parasitologia",
         "esquistosomiasis",
-        "ciclo_biologico",
-        "penetracion_miracidio",
+        "epidemiologia_prevencion",
+        "transmision_hidrica",
         "TEMA_MEDICO",
-        "Harrison 21ed"
+        ""
       ]
     },
     {
-      "question": "¿Qué factor ambiental favorece la infección del caracol por miracidios?",
+      "question": "¿Qué fase del ciclo de Schistosoma ocurre exclusivamente en el caracol?",
       "options": [
-        "Aire húmedo tropical",
-        "Agua dulce estancada",
-        "Agua salada profunda",
-        "Suelo seco arenoso"
+        "Maduración de gusanos adultos",
+        "Reproducción asexual del parásito",
+        "Puesta de huevos en venas mesentéricas",
+        "Penetración de cercarias en piel"
       ],
       "correctAnswer": 2,
-      "explanation": "El ciclo del esquistosoma requiere agua dulce estancada o de movimiento lento para que el miracidio encuentre al caracol hospedero intermediario.",
+      "explanation": "La reproducción asexual mediante esporocistos es una fase exclusiva del hospedero intermediario (caracol), que amplifica la población de larvas antes de liberar cercarias.",
       "hashtags": [
         "parasitologia",
         "esquistosomiasis",
         "ciclo_biologico",
-        "ambiente_acuatico",
+        "reproduccion_asexual_caracol",
         "TEMA_MEDICO",
-        "Harrison 21ed"
+        ""
       ]
     },
     {
-      "question": "¿Cuánto tiempo tarda el desarrollo de cercarias dentro del caracol?",
+      "question": "¿Cuál es la forma clínica más frecuente de la esquistosomiasis por Schistosoma mansoni?",
       "options": [
-        "1 a 2 semanas",
-        "4 a 6 semanas",
-        "8 a 10 semanas",
-        "12 a 14 semanas"
+        "Forma neurológica",
+        "Forma cutánea",
+        "Forma intestinal",
+        "Forma pulmonar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Schistosoma mansoni produce principalmente la forma intestinal, caracterizada por dolor abdominal, diarrea y hepatomegalia, siendo la presentación clínica más común en áreas endémicas.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis",
+        "cuadro_clinico",
+        "forma_intestinal",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué órgano se afecta en la forma hepatoesplénica de la esquistosomiasis mansónica?",
+      "options": [
+        "Pulmón",
+        "Cerebro",
+        "Hígado y bazo",
+        "Riñón"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La forma hepatoesplénica de Schistosoma mansoni afecta el hígado y el bazo, causando fibrosis hepática periportal y esplenomegalia, con hipertensión portal como complicación principal.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis",
+        "cuadro_clinico",
+        "forma_hepatoesplenica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el mecanismo fisiopatológico central de la forma hepatoesplénica por Schistosoma mansoni?",
+      "options": [
+        "Hepatitis autoinmune inducida",
+        "Obstrucción de vías biliares",
+        "Infarto esplénico recurrente",
+        "Embolización de huevos en vénulas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los huevos de Schistosoma mansoni se depositan en las vénulas portales, causando granulomas y fibrosis periportal, lo que obstruye el flujo sanguíneo hepático y lleva a hipertensión portal y esplenomegalia.",
+      "hashtags": [
+        "fisiopatologia",
+        "esquistosomiasis",
+        "mecanismos_daño",
+        "embolizacion_venular",
+        "FISIOPATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el método diagnóstico de elección para la esquistosomiasis intestinal por Schistosoma mansoni?",
+      "options": [
+        "Examen coproparasitoscópico",
+        "Radiografía de abdomen",
+        "Tomografía computarizada",
+        "Ecografía abdominal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El examen coproparasitoscópico (sedimentación o Kato-Katz) permite detectar huevos de Schistosoma mansoni en heces, siendo el método estándar para confirmar la forma intestinal de la enfermedad.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis",
+        "diagnostico",
+        "examen_coproparasitoscopico",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento farmacológico de primera línea para la esquistosomiasis por Schistosoma mansoni?",
+      "options": [
+        "Mebendazol",
+        "Albendazol",
+        "Ivermectina",
+        "Prazicuantel"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Prazicuantel es el fármaco de elección para todas las formas de esquistosomiasis, actuando sobre el tegumento del parásito y causando su contracción y muerte, con alta eficacia contra Schistosoma mansoni.",
+      "hashtags": [
+        "farmacologia",
+        "esquistosomiasis",
+        "indicaciones",
+        "prazicuantel",
+        "FARMACOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué complicación grave se asocia típicamente con la forma hepatoesplénica crónica por Schistosoma mansoni?",
+      "options": [
+        "Hipertensión portal",
+        "Peritonitis bacteriana",
+        "Encefalopatía hepática",
+        "Insuficiencia renal aguda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hipertensión portal es la complicación principal de la forma hepatoesplénica crónica, secundaria a la fibrosis periportal que obstruye el flujo venoso portal, pudiendo causar varices esofágicas y hemorragia digestiva.",
+      "hashtags": [
+        "patologia",
+        "esquistosomiasis",
+        "complicaciones",
+        "hipertension_portal",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el signo clínico más característico de la esquistosomiasis urogenital por Schistosoma haematobium?",
+      "options": [
+        "Dolor lumbar",
+        "Prurito anal",
+        "Fiebre alta",
+        "Hematuria terminal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La hematuria terminal es el síntoma clásico y más frecuente de la esquistosomiasis urogenital, causada por Schistosoma haematobium, debido a la deposición de huevos en la pared vesical.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis_urogenital",
+        "cuadro_clinico",
+        "hematuria_terminal",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué estructura parasitaria es responsable directa del daño tisular en la esquistosomiasis urogenital?",
+      "options": [
+        "Gusano adulto",
+        "Esquistosómulo",
+        "Cercaria",
+        "Huevo espiculado"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los huevos espiculados de Schistosoma haematobium, al ser depositados en los plexos venosos perivesicales, provocan una reacción granulomatosa que genera daño tisular y hematuria.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis_urogenital",
+        "fisiopatologia",
+        "huevo_espiculado",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el método diagnóstico de elección para la esquistosomiasis urogenital activa?",
+      "options": [
+        "Serología por ELISA",
+        "Hemograma completo",
+        "Ultrasonido vesical",
+        "Examen de orina con filtro"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El examen de orina con filtro (técnica de filtración) es el estándar diagnóstico para detectar huevos de Schistosoma haematobium, siendo más sensible que el sedimento simple.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis_urogenital",
+        "diagnostico",
+        "filtracion_orina",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el fármaco de primera línea para tratar la esquistosomiasis urogenital?",
+      "options": [
+        "Metronidazol",
+        "Praziquantel",
+        "Ivermectina",
+        "Albendazol"
       ],
       "correctAnswer": 2,
-      "explanation": "El desarrollo desde miracidio hasta cercaria en el hepatopáncreas del caracol dura aproximadamente 4 a 6 semanas, dependiendo de la temperatura del agua.",
+      "explanation": "El praziquantel es el antiparasitario de elección para todas las formas de esquistosomiasis, incluida la urogenital por Schistosoma haematobium, actuando sobre los gusanos adultos.",
       "hashtags": [
-        "parasitologia",
-        "esquistosomiasis",
-        "ciclo_biologico",
-        "periodo_desarrollo",
+        "medicina_interna",
+        "esquistosomiasis_urogenital",
+        "tratamiento",
+        "praziquantel",
         "TEMA_MEDICO",
-        "Harrison 21ed"
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué complicación tardía se asocia clásicamente a la esquistosomiasis urogenital crónica?",
+      "options": [
+        "Insuficiencia renal",
+        "Hipertensión portal",
+        "Carcinoma de vejiga",
+        "Cirrosis hepática"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La infección crónica por Schistosoma haematobium es un factor de riesgo establecido para el carcinoma de células escamosas de vejiga, debido a la inflamación persistente y la metaplasia escamosa.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis_urogenital",
+        "complicaciones",
+        "carcinoma_vesical",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el reservorio principal de Schistosoma haematobium en la naturaleza?",
+      "options": [
+        "Perro doméstico",
+        "Caracol de agua dulce",
+        "Humano infectado",
+        "Ganado vacuno"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El ser humano es el hospedero definitivo y el principal reservorio de Schistosoma haematobium, ya que los huevos eliminan en la orina y completan el ciclo al alcanzar el agua dulce.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis_urogenital",
+        "epidemiologia",
+        "reservorio_humano",
+        "TEMA_MEDICO",
+        ""
       ]
     },
     {
       "question": "¿Cuál es el agente causal de la dermatitis del nadador?",
       "options": [
-        "Ooquistes de Cryptosporidium",
+        "Adultos de Schistosoma",
         "Cercarias de Schistosoma",
-        "Larvas de Ancylostoma",
-        "Trofozoítos de Giardia"
+        "Miracidios de Schistosoma",
+        "Huevos de Schistosoma"
       ],
       "correctAnswer": 2,
-      "explanation": "La dermatitis del nadador es causada por la penetración de cercarias de Schistosoma en la piel, lo que desencadena una reacción inflamatoria local.",
+      "explanation": "La dermatitis del nadador es causada por la penetración de cercarias (forma larval) de Schistosoma en la piel, que desencadena una reacción inflamatoria local.",
       "hashtags": [
         "infectologia",
         "dermatitis_del_nadador",
-        "cuadro_clinico",
-        "agente_causal",
+        "etiologia",
+        "cercarias",
         "TEMA_MEDICO",
-        "Mandell 9ed"
+        ""
       ]
     },
     {
-      "question": "¿Qué tipo de reacción cutánea caracteriza a la dermatitis del nadador?",
+      "question": "¿Qué tipo de reacción cutánea provoca la dermatitis del nadador?",
       "options": [
-        "Reacción de hipersensibilidad tipo III",
-        "Reacción de hipersensibilidad tipo IV",
-        "Reacción de hipersensibilidad tipo I",
-        "Reacción de hipersensibilidad tipo II"
+        "Reacción alérgica tipo I",
+        "Reacción autoinmune local",
+        "Reacción tóxica directa",
+        "Reacción de hipersensibilidad retardada"
       ],
-      "correctAnswer": 2,
-      "explanation": "La dermatitis del nadador es una reacción de hipersensibilidad tipo IV (retardada) mediada por linfocitos T, desencadenada por la penetración de cercarias en la piel.",
+      "correctAnswer": 4,
+      "explanation": "La dermatitis del nadador es una reacción de hipersensibilidad tipo IV (retardada) mediada por linfocitos T, que ocurre tras la penetración de cercarias en la piel.",
       "hashtags": [
-        "inmunologia",
+        "dermatologia",
         "dermatitis_del_nadador",
         "fisiopatologia",
-        "hipersensibilidad_tardia",
+        "hipersensibilidad",
         "TEMA_MEDICO",
-        "Abbas Inmunología 10ed"
+        ""
       ]
     },
     {
-      "question": "¿Cuál es el principal reservorio de Schistosoma en la dermatitis del nadador?",
+      "question": "¿Cuál es el síntoma inicial más frecuente tras la penetración de cercarias?",
       "options": [
-        "Caracoles de agua dulce",
-        "Roedores silvestres",
-        "Aves acuáticas",
-        "Peces de agua dulce"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Los caracoles de agua dulce son el hospedero intermediario de Schistosoma, liberando cercarias que penetran la piel humana y causan la dermatitis del nadador.",
-      "hashtags": [
-        "parasitologia",
-        "dermatitis_del_nadador",
-        "epidemiologia_prevencion",
-        "hospedero_intermediario",
-        "TEMA_MEDICO",
-        "OMS 2023"
-      ]
-    },
-    {
-      "question": "¿Cuál es el primer síntoma de la dermatitis del nadador tras la exposición?",
-      "options": [
-        "Tos seca persistente",
+        "Fiebre alta persistente",
+        "Dolor abdominal intenso",
         "Prurito intenso y pápulas",
-        "Fiebre y escalofríos",
-        "Dolor abdominal agudo"
+        "Disnea y tos seca"
       ],
-      "correctAnswer": 2,
-      "explanation": "El prurito intenso seguido de pápulas eritematosas aparece minutos u horas después de la penetración de cercarias, constituyendo el síntoma inicial característico.",
+      "correctAnswer": 3,
+      "explanation": "El síntoma inicial característico de la dermatitis del nadador es prurito intenso acompañado de pápulas eritematosas en el sitio de penetración de las cercarias.",
       "hashtags": [
         "dermatologia",
         "dermatitis_del_nadador",
         "cuadro_clinico",
-        "sintomas_iniciales",
+        "prurito",
         "TEMA_MEDICO",
-        "Fitzpatrick Dermatología 9ed"
+        ""
       ]
     },
     {
-      "question": "¿Qué examen diagnóstico confirma la dermatitis del nadador?",
+      "question": "¿En qué tipo de agua se adquiere típicamente la dermatitis del nadador?",
       "options": [
-        "Biopsia cutánea",
-        "Serología para Schistosoma",
-        "Cultivo de heces",
-        "Examen directo de orina"
+        "Agua dulce estancada",
+        "Agua destilada estéril",
+        "Agua potable clorada",
+        "Agua de mar salada"
       ],
       "correctAnswer": 1,
-      "explanation": "La biopsia cutánea puede mostrar infiltrado inflamatorio con eosinófilos, pero el diagnóstico es principalmente clínico-epidemiológico, basado en la exposición a aguas contaminadas.",
+      "explanation": "La dermatitis del nadador se adquiere en agua dulce estancada (lagos, lagunas o estanques) donde los caracoles liberan cercarias que penetran la piel humana.",
       "hashtags": [
         "infectologia",
         "dermatitis_del_nadador",
-        "diagnostico",
-        "biopsia_cutanea",
+        "epidemiologia",
+        "agua_dulce",
         "TEMA_MEDICO",
-        "Guía CDC 2022"
+        ""
       ]
     },
     {
-      "question": "¿Cuál es el tratamiento de elección para la dermatitis del nadador?",
+      "question": "¿Cuál es el tratamiento de primera línea para la dermatitis del nadador?",
       "options": [
         "Praziquantel oral",
-        "Antihistamínicos tópicos",
         "Corticoides sistémicos",
-        "Antibióticos tópicos"
+        "Antibióticos de amplio espectro",
+        "Antihistamínicos tópicos"
       ],
-      "correctAnswer": 2,
-      "explanation": "El tratamiento es sintomático con antihistamínicos tópicos u orales y corticoides tópicos para aliviar el prurito; los antiparasitarios no están indicados porque las cercarias mueren en la piel.",
+      "correctAnswer": 4,
+      "explanation": "El tratamiento de primera línea es sintomático con antihistamínicos tópicos u orales para aliviar el prurito; la infección no progresa a esquistosomiasis visceral.",
       "hashtags": [
-        "farmacologia",
+        "dermatologia",
         "dermatitis_del_nadador",
         "tratamiento",
-        "antihistaminicos_topicos",
+        "antihistaminicos",
         "TEMA_MEDICO",
-        "UpToDate 2024"
+        ""
       ]
     },
     {
-      "question": "¿Cuál es el agente etiológico principal de la fiebre de Katayama?",
+      "question": "¿Qué estructura del caracol libera las cercarias al agua?",
       "options": [
-        "Schistosoma haematobium",
-        "Schistosoma mansoni",
-        "Schistosoma japonicum",
-        "Schistosoma mekongi"
+        "Miracidios infectantes",
+        "Huevos embrionados",
+        "Cercarias nadadoras",
+        "Esquistosomas adultos"
       ],
       "correctAnswer": 3,
-      "explanation": "La fiebre de Katayama se asocia clásicamente a la infección aguda por Schistosoma japonicum, aunque también puede ocurrir con otras especies. Es una reacción de hipersensibilidad a los antígenos de los esquistosómulos en fase de migración.",
+      "explanation": "El caracol infectado libera cercarias nadadoras al agua, que son la forma larval infectante para el ser humano y causan la dermatitis del nadador al penetrar la piel.",
+      "hashtags": [
+        "parasitologia",
+        "dermatitis_del_nadador",
+        "ciclo_biologico",
+        "cercarias",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué mecanismo fisiopatológico explica la fiebre de Katayama en esquistosomiasis aguda?",
+      "options": [
+        "Infección bacteriana secundaria",
+        "Embolización de huevos en pulmón",
+        "Reacción de hipersensibilidad tipo III",
+        "Respuesta inflamatoria por migración de cercarias"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La fiebre de Katayama es una reacción de hipersensibilidad tipo III (complejos inmunes) desencadenada por la liberación masiva de antígenos de Schistosoma durante la fase de maduración de los gusanos adultos.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis",
+        "fisiopatologia",
+        "fiebre_katayama",
+        "TEMA_MEDICO",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el síntoma más característico de la fiebre de Katayama?",
+      "options": [
+        "Fiebre alta vespertina",
+        "Hepatomegalia dolorosa",
+        "Dolor abdominal crónico",
+        "Disnea progresiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La fiebre de Katayama se caracteriza por fiebre alta de predominio vespertino, acompañada de escalofríos, cefalea, mialgias y linfadenopatías, típicamente 2-6 semanas después de exposición a agua contaminada.",
       "hashtags": [
         "medicina_interna",
         "esquistosomiasis",
@@ -248,896 +495,877 @@
       ]
     },
     {
-      "question": "¿Cuándo aparece típicamente la fiebre de Katayama tras la exposición?",
+      "question": "¿Qué hallazgo de laboratorio es típico en la fiebre de Katayama?",
       "options": [
-        "3 a 6 meses",
-        "1 a 3 días",
-        "Más de 1 año",
-        "2 a 6 semanas"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La fiebre de Katayama se manifiesta entre 2 y 6 semanas después de la exposición al agua contaminada con cercarias, coincidiendo con la migración y maduración de los esquistosómulos y el inicio de la puesta de huevos.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "cuadro_clinico",
-        "periodo_incubacion",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es uno de los hallazgos de laboratorio más característicos en la fiebre de Katayama?",
-      "options": [
-        "Trombocitosis reactiva",
         "Eosinofilia marcada",
+        "Leucopenia severa",
         "Anemia microcítica",
-        "Neutropenia severa"
+        "Trombocitosis reactiva"
       ],
-      "correctAnswer": 2,
-      "explanation": "La eosinofilia marcada es un hallazgo típico en la fase aguda de la esquistosomiasis, reflejando la respuesta inmunitaria Th2 contra los parásitos. Puede alcanzar valores muy elevados y es clave para sospechar el diagnóstico.",
+      "correctAnswer": 1,
+      "explanation": "La eosinofilia marcada es un hallazgo característico en la fase aguda de la esquistosomiasis, incluida la fiebre de Katayama, reflejando la respuesta inmunológica contra los parásitos.",
       "hashtags": [
         "medicina_interna",
         "esquistosomiasis",
         "diagnostico",
         "eosinofilia",
         "TEMA_MEDICO",
-        ""
+        "Harrison 21ed"
       ]
     },
     {
       "question": "¿Cuál es el tratamiento de elección para la fiebre de Katayama?",
       "options": [
-        "Albendazol",
-        "Ivermectina",
-        "Praziquantel",
-        "Metronidazol"
+        "Praziquantel y corticoides",
+        "Albendazol solo",
+        "Mebendazol tópico",
+        "Metronidazol oral"
       ],
-      "correctAnswer": 3,
-      "explanation": "El praziquantel es el fármaco de elección para todas las formas de esquistosomiasis. En la fiebre de Katayama se administra tras la fase aguda, a veces combinado con corticoides para controlar la reacción inflamatoria.",
+      "correctAnswer": 1,
+      "explanation": "El tratamiento de la fiebre de Katayama combina praziquantel para eliminar los gusanos adultos y corticoides para controlar la reacción inflamatoria sistémica debida a los complejos inmunes.",
       "hashtags": [
         "medicina_interna",
         "esquistosomiasis",
         "tratamiento",
-        "praziquantel",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué mecanismo fisiopatológico explica la fiebre de Katayama?",
-      "options": [
-        "Autoinmunidad mediada por IgE",
-        "Infección bacteriana secundaria",
-        "Toxinas parasitarias directas",
-        "Reacción de hipersensibilidad"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La fiebre de Katayama es una reacción de hipersensibilidad aguda (tipo III o mixta) a los antígenos liberados por los esquistosómulos durante su migración y maduración, desencadenando fiebre, linfadenopatía y eosinofilia.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "fisiopatologia",
-        "hipersensibilidad",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál de los siguientes NO es un síntoma típico de la fiebre de Katayama?",
-      "options": [
-        "Cefalea y mialgias",
-        "Dolor lumbar irradiado",
-        "Tos seca y disnea",
-        "Fiebre y escalofríos"
-      ],
-      "correctAnswer": 2,
-      "explanation": "El dolor lumbar irradiado no forma parte del cuadro clínico de la fiebre de Katayama, que se caracteriza por fiebre, escalofríos, tos seca, disnea, cefalea, mialgias, linfadenopatía y hepatomegalia. El dolor lumbar sugiere otra patología.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "cuadro_clinico",
-        "sintomas_atipicos",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la característica morfológica distintiva de los huevos de Schistosoma mansoni?",
-      "options": [
-        "Espina subterminal corta",
-        "Espina terminal larga",
-        "Ausencia de espina",
-        "Espina lateral prominente"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Los huevos de Schistosoma mansoni presentan una espina lateral prominente, a diferencia de otras especies como S. haematobium (espina terminal) o S. japonicum (sin espina visible).",
-      "hashtags": [
-        "parasitologia",
-        "esquistosomiasis",
-        "morfologia",
-        "huevo_espina_lateral",
-        "TEMA_MEDICO",
-        "OPS 2023---Bogitsh 3ed"
-      ]
-    },
-    {
-      "question": "¿Qué tipo de espina poseen los huevos de Schistosoma haematobium?",
-      "options": [
-        "Espina terminal",
-        "Espina dorsal",
-        "Sin espina",
-        "Espina lateral"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Los huevos de Schistosoma haematobium se caracterizan por una espina terminal, a diferencia de S. mansoni que tiene espina lateral y S. japonicum que carece de espina.",
-      "hashtags": [
-        "parasitologia",
-        "esquistosomiasis",
-        "morfologia",
-        "huevo_espina_terminal",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el sitio principal de depósito de huevos de Schistosoma mansoni en el huésped humano?",
-      "options": [
-        "Plexo venoso mesentérico inferior",
-        "Venas pulmonares",
-        "Vejiga urinaria",
-        "Plexo venoso vesical"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Schistosoma mansoni se localiza en el plexo venoso mesentérico inferior, depositando sus huevos con espina lateral en las vénulas del intestino grueso, lo que causa patología hepática e intestinal.",
-      "hashtags": [
-        "parasitologia",
-        "esquistosomiasis",
-        "patogenia",
-        "plexo_mesenterico_inferior",
-        "TEMA_MEDICO",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "¿Qué complicación hepática se asocia típicamente con la infección crónica por Schistosoma mansoni?",
-      "options": [
-        "Cirrosis micronodular",
-        "Fibrosis de Symmers",
-        "Hepatitis granulomatosa difusa",
-        "Esteatohepatitis"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La fibrosis de Symmers (fibrosis hepática periportal) es la complicación clásica de la esquistosomiasis mansónica crónica, debida a la reacción granulomatosa alrededor de los huevos con espina lateral.",
-      "hashtags": [
-        "parasitologia",
-        "esquistosomiasis",
-        "cuadro_clinico",
-        "fibrosis_de_symmers",
-        "TEMA_MEDICO",
-        "Robbins 10ed"
-      ]
-    },
-    {
-      "question": "¿Cuál es el tratamiento de elección para la esquistosomiasis por Schistosoma mansoni?",
-      "options": [
-        "Ivermectina",
-        "Praziquantel",
-        "Metronidazol",
-        "Albendazol"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Praziquantel es el fármaco de elección para todas las especies de Schistosoma, actuando contra los gusanos adultos; los huevos con espina lateral no se afectan directamente, pero se eliminan al tratar la infección.",
-      "hashtags": [
-        "parasitologia",
-        "esquistosomiasis",
-        "tratamiento",
-        "praziquantel",
+        "praziquantel_corticoides",
         "TEMA_MEDICO",
         "Guía OMS 2022"
       ]
     },
     {
-      "question": "¿Qué método diagnóstico permite visualizar directamente los huevos con espina lateral de Schistosoma mansoni?",
+      "question": "¿Cuál es la principal complicación de la fiebre de Katayama no tratada?",
       "options": [
-        "Radiografía abdominal",
-        "PCR en sangre",
-        "Serología por ELISA",
-        "Examen coproparasitoscópico"
+        "Cirrosis hepática",
+        "Síndrome de Loeffler",
+        "Hipertensión portal",
+        "Insuficiencia renal aguda"
       ],
       "correctAnswer": 4,
-      "explanation": "El examen coproparasitoscópico (concentración por sedimentación o Kato-Katz) permite identificar los huevos característicos con espina lateral en heces, siendo el estándar de diagnóstico para S. mansoni.",
+      "explanation": "El síndrome de Loeffler (infiltrados pulmonares eosinofílicos) es una complicación respiratoria aguda de la fiebre de Katayama, debido a la migración de los parásitos y la respuesta inflamatoria en el parénquima pulmonar.",
       "hashtags": [
-        "parasitologia",
+        "medicina_interna",
         "esquistosomiasis",
-        "diagnostico",
-        "kato-katz",
+        "complicaciones",
+        "sindrome_loeffler",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Qué caracteriza morfológicamente a los huevos de Schistosoma haematobium?",
+      "question": "¿Qué factor de riesgo se asocia más frecuentemente a la fiebre de Katayama?",
       "options": [
-        "Espina terminal puntiaguda",
-        "Espina rudimentaria lateral",
-        "Ausencia de espina",
+        "Consumo de carne cruda",
+        "Picadura de mosquito",
+        "Contacto con agua dulce",
+        "Transfusión sanguínea"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La fiebre de Katayama ocurre tras el contacto con agua dulce contaminada con cercarias de Schistosoma, típicamente en viajeros o residentes de áreas endémicas que nadan o se bañan en lagos o ríos.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis",
+        "epidemiologia",
+        "agua_dulce",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el método de elección para diagnosticar esquistosomiasis intestinal crónica?",
+      "options": [
+        "Biopsia rectal",
+        "Radiografía abdominal",
+        "Examen de heces",
+        "Serología específica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El examen de heces es el método estándar para detectar huevos de Schistosoma mansoni y S. japonicum en esquistosomiasis intestinal crónica, ya que los huevos se eliminan con las heces.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis",
+        "diagnostico",
+        "examen_heces",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué especie de Schistosoma se diagnostica mediante la búsqueda de huevos en orina?",
+      "options": [
+        "Schistosoma intercalatum",
+        "Schistosoma japonicum",
+        "Schistosoma mansoni",
+        "Schistosoma haematobium"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Schistosoma haematobium afecta el plexo venoso de la vejiga y elimina huevos en la orina, a diferencia de otras especies que los eliminan principalmente en heces.",
+      "hashtags": [
+        "parasitologia",
+        "esquistosomiasis",
+        "diagnostico",
+        "huevos_orina",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la forma evolutiva de Schistosoma que se identifica en el diagnóstico parasitológico?",
+      "options": [
+        "Quiste",
+        "Trofozoíto",
+        "Ooquiste",
+        "Huevo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El diagnóstico de esquistosomiasis se basa en la identificación de huevos característicos en heces u orina, según la especie, ya que los huevos tienen morfología distintiva.",
+      "hashtags": [
+        "parasitologia",
+        "esquistosomiasis",
+        "diagnostico",
+        "identificacion_huevos",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué característica morfológica del huevo de Schistosoma mansoni es clave para su identificación?",
+      "options": [
+        "Forma redonda con opérculo",
+        "Espina terminal larga",
+        "Superficie lisa sin espina",
         "Espina lateral prominente"
       ],
-      "correctAnswer": 1,
-      "explanation": "Los huevos de Schistosoma haematobium presentan una espina terminal puntiaguda, a diferencia de S. mansoni (espina lateral) y S. japonicum (espina rudimentaria).",
-      "hashtags": [
-        "parasitologia",
-        "esquistosomiasis",
-        "morfologia",
-        "huevo_espina_terminal",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la localización anatómica principal de los huevos de Schistosoma haematobium?",
-      "options": [
-        "Venas esplénicas",
-        "Venas mesentéricas inferiores",
-        "Venas portales hepáticas",
-        "Venas del plexo vesical"
-      ],
       "correctAnswer": 4,
-      "explanation": "S. haematobium se aloja en el plexo venoso vesical y perivesical, depositando sus huevos en la pared de la vejiga, lo que causa hematuria y fibrosis.",
-      "hashtags": [
-        "parasitologia",
-        "esquistosomiasis",
-        "patogenia",
-        "plexo_venoso_vesical",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué síntoma clásico se asocia a la infección por Schistosoma haematobium?",
-      "options": [
-        "Diarrea crónica con sangre",
-        "Hepatomegalia dolorosa",
-        "Tos con expectoración hemoptoica",
-        "Hematuria terminal indolora"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La hematuria terminal indolora es el síntoma clásico de la esquistosomiasis urinaria, causada por la eliminación de huevos con espina terminal en la mucosa vesical.",
-      "hashtags": [
-        "parasitologia",
-        "esquistosomiasis",
-        "cuadro_clinico",
-        "hematuria_terminal",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué método diagnóstico directo es más específico para esquistosomiasis por S. haematobium?",
-      "options": [
-        "Cultivo de orina en agar sangre",
-        "Serología para antígenos somáticos",
-        "Biopsia hepática por punción",
-        "Examen de sedimento urinario"
-      ],
-      "correctAnswer": 4,
-      "explanation": "El examen de sedimento urinario permite observar los huevos con espina terminal característicos de S. haematobium, siendo el método de elección para diagnóstico directo.",
+      "explanation": "El huevo de S. mansoni presenta una espina lateral prominente, mientras que S. haematobium tiene espina terminal y S. japonicum es más redondeado con espina rudimentaria.",
       "hashtags": [
         "parasitologia",
         "esquistosomiasis",
         "diagnostico",
-        "sedimento_urinario",
+        "morfologia_huevos",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Cuál es el tratamiento de primera línea para esquistosomiasis urinaria?",
+      "question": "¿Qué técnica de concentración se recomienda para aumentar la sensibilidad del diagnóstico de huevos en heces?",
       "options": [
-        "Ivermectina en dos dosis",
-        "Praziquantel en dosis única",
-        "Albendazol por 7 días",
-        "Mebendazol en dosis única"
+        "Técnica de Gram",
+        "Técnica de Kato-Katz",
+        "Técnica de Baermann",
+        "Técnica de Ziehl-Neelsen"
       ],
       "correctAnswer": 2,
-      "explanation": "Praziquantel es el fármaco de elección para todas las formas de esquistosomiasis, administrado en dosis única de 40 mg/kg, y actúa contra los gusanos adultos.",
-      "hashtags": [
-        "parasitologia",
-        "esquistosomiasis",
-        "tratamiento",
-        "praziquantel",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué complicación tardía es más frecuente en la esquistosomiasis vesical crónica?",
-      "options": [
-        "Fibrosis pulmonar difusa",
-        "Carcinoma escamoso de vejiga",
-        "Hipertensión portal severa",
-        "Cirrosis hepática descompensada"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La inflamación crónica por huevos de S. haematobium en la pared vesical predispone al desarrollo de carcinoma escamoso de vejiga, complicación bien documentada.",
-      "hashtags": [
-        "parasitologia",
-        "esquistosomiasis",
-        "complicaciones",
-        "carcinoma_vesical",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué tipo de fibrosis hepática es característica de la esquistosomiasis por S. mansoni?",
-      "options": [
-        "Fibrosis en puentes",
-        "Fibrosis centrolobulillar",
-        "Fibrosis perisinusoidal",
-        "Fibrosis periportal"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La fibrosis hepática periportal, también conocida como fibrosis de Symmers, es la lesión clásica en la esquistosomiasis mansónica, causada por la deposición de huevos en las vénulas portales.",
+      "explanation": "La técnica de Kato-Katz es la más utilizada para cuantificar huevos de Schistosoma en heces, permitiendo estimar la carga parasitaria y aumentar la sensibilidad diagnóstica.",
       "hashtags": [
         "medicina_interna",
         "esquistosomiasis",
+        "diagnostico",
+        "kato_katz",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿En qué fase de la esquistosomiasis los huevos son más fácilmente detectables en heces?",
+      "options": [
+        "Fase de incubación",
+        "Fase aguda temprana",
+        "Fase crónica establecida",
+        "Fase de diseminación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la fase crónica, los huevos se eliminan de forma constante en heces u orina, mientras que en la fase aguda la eliminación puede ser irregular o aún no haber comenzado.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis",
+        "diagnostico",
+        "fase_cronica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el fundamento de la prueba de filtración de orina para el diagnóstico de esquistosomiasis urinaria?",
+      "options": [
+        "Cultivo de orina estéril",
+        "Medición de proteinuria",
+        "Identificación de huevos en orina",
+        "Detección de antígenos parasitarios"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La prueba de filtración de orina se basa en retener los huevos de Schistosoma haematobium mediante un filtro de membrana, permitiendo su observación microscópica directa para el diagnóstico.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis_urinaria",
+        "diagnostico",
+        "filtracion_orina",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué tipo de muestra se requiere para la prueba de filtración en esquistosomiasis urinaria?",
+      "options": [
+        "Orina de 24 horas",
+        "Orina del medio del chorro",
+        "Muestra de heces diarreicas",
+        "Orina de la primera micción"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Se recomienda recolectar la orina de la primera micción de la mañana, ya que concentra la mayor cantidad de huevos eliminados durante la noche, aumentando la sensibilidad del método.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis_urinaria",
+        "diagnostico",
+        "recoleccion_muestra",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el tamaño de poro del filtro utilizado en la prueba de filtración de orina para S. haematobium?",
+      "options": [
+        "20 micrómetros",
+        "1 micrómetro",
+        "5 micrómetros",
+        "12 micrómetros"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El filtro de membrana con poros de 12 micrómetros retiene los huevos de S. haematobium (aproximadamente 140 × 60 µm) mientras permite el paso de detritus y células pequeñas.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis_urinaria",
+        "diagnostico",
+        "tamizaje_filtro",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué característica morfológica permite identificar los huevos de S. haematobium en el filtrado de orina?",
+      "options": [
+        "Forma redondeada sin espina",
+        "Cáscara lisa y polar",
+        "Opérculo lateral visible",
+        "Espina terminal prominente"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los huevos de Schistosoma haematobium presentan una característica espina terminal, que los diferencia de otras especies de esquistosomas y es clave para la identificación microscópica.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis_urinaria",
+        "diagnostico",
+        "morfologia_huevos",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal ventaja de la prueba de filtración de orina frente al examen directo de sedimento urinario?",
+      "options": [
+        "Detección de infección activa",
+        "Mayor sensibilidad diagnóstica",
+        "Menor costo operativo",
+        "Resultados en tiempo real"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La filtración concentra los huevos presentes en un volumen mayor de orina, lo que incrementa la sensibilidad en comparación con el examen directo del sedimento, especialmente en cargas parasitarias bajas.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis_urinaria",
+        "diagnostico",
+        "ventajas_filtracion",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿En qué fase de la esquistosomiasis urinaria es más probable que la prueba de filtración de orina sea positiva?",
+      "options": [
+        "Fase crónica establecida",
+        "Fase de fibrosis hepática",
+        "Fase de invasión aguda",
+        "Fase prepatente asintomática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la fase crónica, los huevos son excretados de forma continua en la orina debido a la oviposición de los gusanos adultos en las vénulas vesicales, maximizando la detección por filtración.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis_urinaria",
         "fisiopatologia",
-        "fibrosis_hepatica",
+        "fase_cronica",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Cuál es la principal causa de la fibrosis hepática en la infección por S. mansoni?",
+      "question": "¿Qué estructura hepática es reemplazada por colágeno en la fibrosis de Symmers?",
       "options": [
-        "Respuesta autoinmune",
-        "Huevos del parásito",
-        "Adultos del gusano",
-        "Toxinas bacterianas"
+        "Hepatocito",
+        "Conducto biliar",
+        "Espacio porta",
+        "Vena centrolobulillar"
       ],
-      "correctAnswer": 2,
-      "explanation": "Los huevos de S. mansoni depositados en los espacios porta desencadenan una reacción granulomatosa crónica que lleva a fibrosis periportal, no los adultos ni toxinas bacterianas.",
+      "correctAnswer": 3,
+      "explanation": "La fibrosis de Symmers, típica de la esquistosomiasis crónica, se caracteriza por el depósito de colágeno en los espacios porta, respetando inicialmente los hepatocitos y el parénquima.",
       "hashtags": [
         "medicina_interna",
-        "esquistosomiasis",
-        "etiologia",
-        "huevos_del_parasito",
+        "esquistosomiasis_cronica",
+        "fisiopatologia",
+        "fibrosis_portal",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Qué hallazgo imagenológico es típico en la fibrosis hepática por S. mansoni?",
-      "options": [
-        "Calcificaciones periportales",
-        "Estenosis de la vena porta",
-        "Trombosis de la vena cava",
-        "Hígado nodular difuso"
-      ],
-      "correctAnswer": 1,
-      "explanation": "En la ecografía abdominal, la fibrosis periportal por esquistosomiasis se manifiesta como bandas ecogénicas gruesas alrededor de los espacios porta, a veces con calcificaciones lineales.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "diagnostico",
-        "ecografia_abdominal",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué complicación vascular se asocia con frecuencia a la fibrosis periportal por S. mansoni?",
+      "question": "¿Cuál es la manifestación clínica más frecuente de la fibrosis hepática por esquistosomiasis?",
       "options": [
         "Hipertensión portal",
-        "Trombosis arterial",
-        "Aneurisma aórtico",
-        "Hipertensión pulmonar"
+        "Ascitis a tensión",
+        "Encefalopatía hepática",
+        "Ictericia obstructiva"
       ],
       "correctAnswer": 1,
-      "explanation": "La fibrosis periportal obstruye el flujo venoso portal, generando hipertensión portal presinusoidal, que puede derivar en esplenomegalia y várices esofágicas.",
+      "explanation": "La fibrosis de Symmers produce obstrucción presinusoidal que lleva a hipertensión portal, siendo la manifestación más común; la ictericia y la encefalopatía son menos frecuentes en etapas tempranas.",
       "hashtags": [
         "medicina_interna",
-        "esquistosomiasis",
-        "complicaciones",
+        "esquistosomiasis_cronica",
+        "cuadro_clinico",
         "hipertension_portal",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Cuál es el tratamiento antiparasitario de elección para la esquistosomiasis mansónica?",
+      "question": "¿Qué parásito se asocia clásicamente con la fibrosis de Symmers hepática?",
+      "options": [
+        "Schistosoma mansoni",
+        "Schistosoma intercalatum",
+        "Schistosoma japonicum",
+        "Schistosoma haematobium"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Schistosoma mansoni es la especie que con mayor frecuencia causa la forma hepatosplénica crónica y la fibrosis de Symmers; S. haematobium afecta principalmente el tracto urinario.",
+      "hashtags": [
+        "parasitologia",
+        "esquistosomiasis",
+        "etiologia",
+        "schistosoma_mansoni",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el hallazgo histopatológico característico de la fibrosis de Symmers?",
+      "options": [
+        "Esteatosis microvesicular",
+        "Necrosis hepatocelular masiva",
+        "Cirrosis micronodular",
+        "Fibrosis en pipa de arcilla"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La fibrosis de Symmers recibe el nombre de fibrosis en pipa de arcilla por la apariencia de los espacios porta fibrosados y dilatados, sin llegar a formar nódulos de regeneración típicos de cirrosis.",
+      "hashtags": [
+        "patologia",
+        "esquistosomiasis_cronica",
+        "concepto",
+        "fibrosis_pipa_arcilla",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento antiparasitario de elección para la esquistosomiasis crónica hepática?",
+      "options": [
+        "Metronidazol",
+        "Albendazol",
+        "Praziquantel",
+        "Ivermectina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Praziquantel es el fármaco de elección para todas las formas de esquistosomiasis, actuando contra el gusano adulto; los otros fármacos no tienen actividad significativa contra Schistosoma spp.",
+      "hashtags": [
+        "farmacologia",
+        "esquistosomiasis",
+        "indicaciones",
+        "praziquantel",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes hallazgos de laboratorio es más esperable en la fibrosis de Symmers avanzada?",
+      "options": [
+        "Fosfatasa alcalina normal",
+        "Hipoalbuminemia severa",
+        "Elevación de transaminasas marcada",
+        "Plaquetopenia por hiperesplenismo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En la fibrosis de Symmers avanzada, el hiperesplenismo secundario a hipertensión portal causa plaquetopenia; las transaminasas suelen estar normales o levemente elevadas y la albúmina se conserva hasta etapas tardías.",
+      "hashtags": [
+        "medicina_interna",
+        "esquistosomiasis_cronica",
+        "diagnostico",
+        "plaquetopenia_hiperesplenismo",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la causa principal de hipertensión portal en esquistosomiasis avanzada?",
+      "options": [
+        "Cirrosis hepática alcohólica",
+        "Hepatitis viral crónica",
+        "Fibrosis hepática periportal",
+        "Trombosis de vena porta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la esquistosomiasis avanzada, los huevos del parásito inducen una reacción granulomatosa que lleva a fibrosis periportal (fibrosis de Symmers), obstruyendo el flujo portal sin cirrosis verdadera.",
+      "hashtags": [
+        "gastroenterologia",
+        "hipertension_portal",
+        "fisiopatologia",
+        "esquistosomiasis",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo endoscópico es característico en la hipertensión portal por esquistosomiasis?",
+      "options": [
+        "Úlcera gástrica activa",
+        "Varices esofágicas tortuosas",
+        "Esofagitis erosiva distal",
+        "Pólipos hiperplásicos gástricos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La hipertensión portal prolongada por esquistosomiasis produce varices esofágicas, que son venas colaterales dilatadas en el tercio distal del esófago, visibles en endoscopia.",
+      "hashtags": [
+        "gastroenterologia",
+        "varices_esofagicas",
+        "diagnostico",
+        "endoscopia",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué complicación aguda más temida se asocia a varices esofágicas por esquistosomiasis?",
+      "options": [
+        "Estenosis esofágica",
+        "Hemorragia digestiva alta",
+        "Fístula traqueoesofágica",
+        "Perforación esofágica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La rotura de varices esofágicas causa hemorragia digestiva alta masiva, con alta mortalidad si no se trata de urgencia mediante ligadura endoscópica o fármacos vasoactivos.",
+      "hashtags": [
+        "gastroenterologia",
+        "hemorragia_digestiva",
+        "complicaciones",
+        "varices_esofagicas",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento de primera línea para hemorragia aguda por varices esofágicas?",
+      "options": [
+        "Derivación portosistémica quirúrgica",
+        "Octreótido más ligadura endoscópica",
+        "Terlipresina más transfusión plaquetaria",
+        "Propranolol oral más dieta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La combinación de octreótido (vasoconstrictor esplácnico) con ligadura endoscópica de varices es la terapia inicial estándar para controlar la hemorragia aguda por varices.",
+      "hashtags": [
+        "gastroenterologia",
+        "hemorragia_variceal",
+        "tratamiento",
+        "ligadura_endoscopica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué fármaco se usa para prevenir la primera hemorragia por varices en esquistosomiasis?",
       "options": [
         "Praziquantel",
         "Albendazol",
-        "Metronidazol",
-        "Ivermectina"
+        "Omeprazol",
+        "Propranolol"
       ],
-      "correctAnswer": 1,
-      "explanation": "Praziquantel es el fármaco de elección contra todas las especies de Schistosoma, actuando sobre los gusanos adultos; los otros fármacos no son efectivos contra esquistosomas.",
+      "correctAnswer": 4,
+      "explanation": "El propranolol, un betabloqueante no selectivo, reduce la presión portal y se emplea como profilaxis primaria de hemorragia variceal en pacientes con varices de riesgo alto.",
       "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
+        "gastroenterologia",
+        "profilaxis_variceal",
         "tratamiento",
-        "praziquantel",
+        "betabloqueantes",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Qué mecanismo fisiopatológico predomina en la fibrosis hepática por S. mansoni?",
+      "question": "¿Qué alteración de laboratorio es típica en la hipertensión portal por esquistosomiasis?",
       "options": [
-        "Depósito directo de colágeno",
-        "Isquemia por obstrucción arterial",
-        "Necrosis hepatocitaria masiva",
-        "Inflamación granulomatosa crónica"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La respuesta inmunitaria a los huevos del parásito forma granulomas crónicos en los espacios porta, cuya cicatrización produce fibrosis periportal sin necrosis hepatocitaria significativa.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "fisiopatologia",
-        "granuloma_cronico",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el mecanismo principal de la hematuria terminal en esquistosomiasis urinaria?",
-      "options": [
-        "Inflamación granulomatosa vesical",
-        "Litiasis renal obstructiva",
-        "Necrosis tubular aguda",
-        "Hiperplasia prostática benigna"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La hematuria terminal se debe a la inflamación granulomatosa crónica inducida por los huevos de S. haematobium en la pared vesical, que causa ulceración y sangrado al final de la micción.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "fisiopatologia",
-        "hematuria_terminal",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué estudio de orina es característico en la esquistosomiasis urinaria activa?",
-      "options": [
-        "Leucocitos sin bacterias",
-        "Huevos con espolón terminal",
-        "Cristales de oxalato de calcio",
-        "Cilindros granulosos"
+        "Hiponatremia severa",
+        "Leucopenia con eosinofilia",
+        "Aumento de transaminasas 10 veces",
+        "Trombocitosis marcada"
       ],
       "correctAnswer": 2,
-      "explanation": "El hallazgo patognomónico en el sedimento urinario es la presencia de huevos de S. haematobium, que poseen un característico espolón terminal, confirmando la infección activa.",
+      "explanation": "En la esquistosomiasis hepatoesplénica, la hipertensión portal causa esplenomegalia congestiva con hiperesplenismo, produciendo leucopenia y trombocitopenia, mientras la eosinofilia persiste por la infección activa.",
       "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
+        "gastroenterologia",
+        "esquistosomiasis_hepatica",
         "diagnostico",
-        "sedimento_urinario",
+        "hiperesplenismo",
         "TEMA_MEDICO",
         ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el tratamiento de primera línea para la esquistosomiasis urinaria?",
-      "options": [
-        "Metronidazol oral",
-        "Albendazol oral",
-        "Ivermectina oral",
-        "Praziquantel oral"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Praziquantel es el fármaco de elección para todas las formas de esquistosomiasis, actuando sobre los gusanos adultos al aumentar la permeabilidad de su membrana al calcio.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "tratamiento",
-        "praziquantel",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué complicación tardía se asocia con la esquistosomiasis urinaria crónica?",
-      "options": [
-        "Carcinoma de células renales",
-        "Carcinoma urotelial vesical",
-        "Adenocarcinoma prostático",
-        "Carcinoma hepatocelular"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La inflamación crónica por S. haematobium es un factor de riesgo bien establecido para el carcinoma urotelial de vejiga, especialmente del tipo escamoso.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "complicaciones",
-        "carcinoma_vesical",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el principal reservorio de Schistosoma haematobium?",
-      "options": [
-        "Aves acuáticas migratorias",
-        "Roedores silvestres",
-        "Perros domésticos",
-        "Caracoles de agua dulce"
-      ],
-      "correctAnswer": 4,
-      "explanation": "El ciclo de vida de S. haematobium requiere caracoles del género Bulinus como hospedador intermediario, donde se desarrollan las cercarias que infectan al humano.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "epidemiologia_prevencion",
-        "reservorio",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué región geográfica es endémica para esquistosomiasis urinaria por S. haematobium?",
-      "options": [
-        "Europa mediterránea",
-        "África subsahariana",
-        "Sudeste asiático",
-        "Amazonía brasileña"
-      ],
-      "correctAnswer": 2,
-      "explanation": "África subsahariana es la región con mayor endemicidad para S. haematobium, especialmente en zonas con cuerpos de agua dulce contaminados donde habita el caracol Bulinus.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "epidemiologia_prevencion",
-        "endemia",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el principal factor carcinogénico en el carcinoma escamoso vesical asociado a esquistosomiasis?",
-      "options": [
-        "Infección crónica por Schistosoma haematobium",
-        "Metaplasia intestinal crónica",
-        "Tabaquismo crónico intenso",
-        "Exposición a arsénico en agua potable"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La infección crónica por Schistosoma haematobium induce inflamación persistente, fibrosis y daño del ADN urotelial, facilitando la carcinogénesis escamosa vesical.",
-      "hashtags": [
-        "medicina_interna",
-        "carcinoma_escamoso_vesical_asociado_a_esquistosomiasis",
-        "etiologia",
-        "schistosoma_haematobium",
-        "TEMA_MEDICO",
-        "Harrison 21ed---OPS 2023"
-      ]
-    },
-    {
-      "question": "¿Qué tipo histológico predomina en el cáncer vesical relacionado con esquistosomiasis?",
-      "options": [
-        "Carcinoma neuroendocrino",
-        "Carcinoma escamoso",
-        "Adenocarcinoma mucinoso",
-        "Carcinoma urotelial"
-      ],
-      "correctAnswer": 2,
-      "explanation": "En áreas endémicas de esquistosomiasis, el carcinoma escamoso es el tipo histológico más frecuente, a diferencia del carcinoma urotelial en la población general.",
-      "hashtags": [
-        "patologia",
-        "carcinoma_escamoso_vesical_asociado_a_esquistosomiasis",
-        "cuadro_clinico",
-        "tipo_histologico",
-        "TEMA_MEDICO",
-        "Robbins 10ed"
-      ]
-    },
-    {
-      "question": "¿Cuál es el hallazgo imagenológico típico de vejiga en esquistosomiasis crónica?",
-      "options": [
-        "Tumor papilar vegetante sin calcificaciones",
-        "Engrosamiento parietal con calcificaciones lineales",
-        "Quiste hidatídico intravesical",
-        "Divertículo vesical de gran tamaño"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La calcificación de la pared vesical, descrita como 'vejiga en cáscara de huevo', es característica de la esquistosomiasis crónica y predispone al carcinoma escamoso.",
-      "hashtags": [
-        "radiologia",
-        "carcinoma_escamoso_vesical_asociado_a_esquistosomiasis",
-        "diagnostico",
-        "calcificaciones_vesicales",
-        "TEMA_MEDICO",
-        "Radiología ESUR 2022"
-      ]
-    },
-    {
-      "question": "¿Qué parásito se asocia directamente con el carcinoma escamoso vesical?",
-      "options": [
-        "Schistosoma mansoni",
-        "Schistosoma japonicum",
-        "Schistosoma haematobium",
-        "Schistosoma intercalatum"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Schistosoma haematobium es el único que deposita huevos en el plexo venoso vesical, causando inflamación crónica y mutaciones que favorecen el carcinoma escamoso.",
-      "hashtags": [
-        "parasitologia",
-        "carcinoma_escamoso_vesical_asociado_a_esquistosomiasis",
-        "etiologia",
-        "schistosoma_haematobium",
-        "TEMA_MEDICO",
-        "OMS 2023"
-      ]
-    },
-    {
-      "question": "¿Cuál es la presentación clínica más frecuente del carcinoma escamoso vesical esquistosómico?",
-      "options": [
-        "Hematuria indolora y disuria crónica",
-        "Poliuria y nicturia progresiva",
-        "Dolor lumbar irradiado a pierna",
-        "Retención urinaria aguda febril"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La hematuria indolora es el síntoma inicial más común, a menudo acompañada de disuria crónica por la cistitis esquistosómica subyacente.",
-      "hashtags": [
-        "medicina_interna",
-        "carcinoma_escamoso_vesical_asociado_a_esquistosomiasis",
-        "cuadro_clinico",
-        "hematuria",
-        "TEMA_MEDICO",
-        "Campbell-Walsh Urology 12ed"
-      ]
-    },
-    {
-      "question": "¿Qué factor histopatológico distingue al carcinoma escamoso vesical esquistosómico del urotelial?",
-      "options": [
-        "Células claras con glucógeno citoplasmático",
-        "Células en anillo de sello difusas",
-        "Presencia de queratinización y perlas córneas",
-        "Patrón papilar con núcleos en cepillo"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El carcinoma escamoso se caracteriza por queratinización, perlas córneas y puentes intercelulares, hallazgos ausentes en el carcinoma urotelial convencional.",
-      "hashtags": [
-        "patologia",
-        "carcinoma_escamoso_vesical_asociado_a_esquistosomiasis",
-        "diagnostico",
-        "queratinizacion",
-        "TEMA_MEDICO",
-        "Robbins 10ed---WHO Classification 2022"
-      ]
-    },
-    {
-      "question": "¿Cuál es el método de referencia para el diagnóstico de esquistosomiasis intestinal crónica?",
-      "options": [
-        "Cultivo de orina",
-        "Serología por ELISA",
-        "Examen coproparasitoscópico",
-        "Biopsia hepática"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El examen coproparasitoscópico con técnicas de concentración permite visualizar huevos característicos de Schistosoma mansoni en heces, siendo el estándar de oro para el diagnóstico de la forma intestinal crónica.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "diagnostico",
-        "examen_coproparasitoscopico",
-        "TEMA_MEDICO",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "¿Qué técnica de concentración se emplea para detectar huevos de Schistosoma haematobium en orina?",
-      "options": [
-        "Frotis de sangre periférica",
-        "Tinción de Ziehl-Neelsen",
-        "Filtración de membrana",
-        "Método de Kato-Katz"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La filtración de membrana es la técnica de elección para concentrar y visualizar huevos de Schistosoma haematobium en orina, aprovechando su tamaño y forma característica, y es recomendada por la OMS.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "diagnostico",
-        "filtracion_membrana",
-        "TEMA_MEDICO",
-        "Guia OMS 2022"
-      ]
-    },
-    {
-      "question": "¿Cuál es la forma evolutiva del parásito que se identifica en el diagnóstico parasitológico directo?",
-      "options": [
-        "Miracidio",
-        "Esquistosómulo",
-        "Cercaria",
-        "Huevo"
-      ],
-      "correctAnswer": 4,
-      "explanation": "En el diagnóstico parasitológico directo de esquistosomiasis se identifican los huevos del parásito, ya que son las formas eliminadas en heces u orina y poseen morfología característica según la especie.",
-      "hashtags": [
-        "parasitologia",
-        "esquistosomiasis",
-        "diagnostico",
-        "huevo",
-        "TEMA_MEDICO",
-        "Bogitsh 3ed"
-      ]
-    },
-    {
-      "question": "¿Qué característica morfológica del huevo de Schistosoma mansoni permite diferenciarlo de otras especies?",
-      "options": [
-        "Cubierta lisa y redonda",
-        "Ausencia de espina",
-        "Espina lateral prominente",
-        "Espina terminal larga"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El huevo de Schistosoma mansoni presenta una espina lateral prominente, característica clave para diferenciarlo de otras especies como S. haematobium (espina terminal) o S. japonicum (espina rudimentaria).",
-      "hashtags": [
-        "parasitologia",
-        "esquistosomiasis",
-        "morfologia",
-        "espina_lateral",
-        "TEMA_MEDICO",
-        "Bogitsh 3ed---Harrison 21ed"
-      ]
-    },
-    {
-      "question": "Ante la sospecha de esquistosomiasis urinaria, ¿qué muestra biológica es la más adecuada para la detección de huevos?",
-      "options": [
-        "Sangre venosa",
-        "Líquido cefalorraquídeo",
-        "Heces diarreicas",
-        "Orina de 24 horas"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La orina de 24 horas o la muestra de orina concentrada al mediodía es la muestra de elección para detectar huevos de Schistosoma haematobium, ya que estos se eliminan intermitentemente en la orina.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "diagnostico",
-        "orina_24h",
-        "TEMA_MEDICO",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "¿Cuál es la principal limitación del examen coproparasitoscópico para el diagnóstico de esquistosomiasis?",
-      "options": [
-        "Requiere equipo de PCR",
-        "Alto costo del reactivo",
-        "Baja sensibilidad en infecciones leves",
-        "Solo detecta formas adultas"
-      ],
-      "correctAnswer": 3,
-      "explanation": "En infecciones leves o crónicas con baja carga parasitaria, el examen coproparasitoscópico puede tener baja sensibilidad, lo que requiere técnicas de concentración o muestras seriadas para aumentar la detección.",
-      "hashtags": [
-        "medicina_interna",
-        "esquistosomiasis",
-        "diagnostico",
-        "sensibilidad",
-        "TEMA_MEDICO",
-        "Harrison 21ed"
       ]
     },
     {
       "question": "¿Cuál es el mecanismo de acción del praziquantel en esquistosomiasis?",
       "options": [
-        "Altera la pared celular bacteriana",
-        "Bloquea la bomba de protones",
         "Aumenta la permeabilidad al calcio",
-        "Inhibe la síntesis de ácidos nucleicos"
+        "Inhibe la síntesis de ácidos nucleicos",
+        "Inhibe la síntesis de ergosterol",
+        "Bloquea la bomba de protones"
       ],
-      "correctAnswer": 3,
-      "explanation": "El praziquantel actúa aumentando la permeabilidad de la membrana del parásito al calcio, lo que provoca contracción muscular y parálisis, facilitando su eliminación.",
+      "correctAnswer": 1,
+      "explanation": "El praziquantel actúa aumentando la permeabilidad de la membrana del parásito al calcio, lo que produce contracción muscular y parálisis del esquistosoma, facilitando su eliminación.",
       "hashtags": [
-        "medicina_interna",
+        "farmacologia",
         "esquistosomiasis",
         "mecanismo_accion",
         "praziquantel",
         "FARMACOLOGIA",
-        "Katzung 14ed"
+        "Goodman & Gilman 13ed"
       ]
     },
     {
-      "question": "¿Cuál es la dosis estándar de praziquantel para tratar esquistosomiasis intestinal?",
+      "question": "¿Cuál es la dosis única recomendada de praziquantel para esquistosomiasis intestinal?",
       "options": [
-        "15 mg/kg cada 8 horas",
-        "40 mg/kg en dosis única",
-        "20 mg/kg por 7 días",
-        "60 mg/kg en tres dosis"
+        "20 mg/kg",
+        "60 mg/kg",
+        "40 mg/kg",
+        "80 mg/kg"
       ],
-      "correctAnswer": 2,
-      "explanation": "La dosis recomendada de praziquantel para esquistosomiasis intestinal es 40 mg/kg administrada en una sola dosis oral, con eficacia superior al 80%.",
+      "correctAnswer": 3,
+      "explanation": "La dosis estándar de praziquantel para esquistosomiasis intestinal es de 40 mg/kg en una sola toma, aunque puede variar según la especie y la indicación clínica.",
       "hashtags": [
-        "medicina_interna",
+        "farmacologia",
         "esquistosomiasis",
         "posologia",
-        "dosis_estandar",
+        "dosis_unica",
         "FARMACOLOGIA",
-        "OMS 2023"
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "¿Qué especie de Schistosoma es más sensible al tratamiento con praziquantel?",
+      "question": "¿Qué especie de esquistosoma requiere una dosis más alta de praziquantel (60 mg/kg)?",
       "options": [
-        "Schistosoma haematobium",
-        "Todas responden igual",
+        "Schistosoma intercalatum",
+        "Schistosoma japonicum",
         "Schistosoma mansoni",
-        "Schistosoma japonicum"
+        "Schistosoma haematobium"
       ],
-      "correctAnswer": 4,
-      "explanation": "Schistosoma japonicum requiere dosis más altas (60 mg/kg) por su menor sensibilidad, mientras que S. haematobium y S. mansoni responden bien a 40 mg/kg, pero no todas son igualmente sensibles.",
+      "correctAnswer": 2,
+      "explanation": "Schistosoma japonicum es menos sensible al praziquantel, por lo que se recomienda una dosis de 60 mg/kg en dosis divididas para lograr una curación adecuada.",
       "hashtags": [
-        "medicina_interna",
+        "farmacologia",
         "esquistosomiasis",
-        "tratamiento",
-        "sensibilidad_especies",
+        "posologia",
+        "schistosoma_japonicum",
         "TEMA_MEDICO",
-        "Harrison 21ed"
+        "Harrison 21ed---Organización Mundial de la Salud"
       ]
     },
     {
       "question": "¿Cuál es la principal contraindicación del praziquantel?",
       "options": [
-        "Cisticercosis cerebral activa",
         "Insuficiencia renal crónica",
-        "Hipertensión portal severa",
-        "Embarazo en primer trimestre"
+        "Embarazo en primer trimestre",
+        "Diabetes mellitus tipo 2",
+        "Hipertensión arterial"
       ],
-      "correctAnswer": 4,
-      "explanation": "El praziquantel está contraindicado en el primer trimestre del embarazo por potencial teratogénico en estudios animales; en segundo y tercer trimestre se usa con precaución.",
+      "correctAnswer": 2,
+      "explanation": "El praziquantel está contraindicado en el primer trimestre del embarazo por su potencial efecto teratogénico en estudios animales, aunque en el segundo y tercer trimestre se puede usar con precaución.",
       "hashtags": [
-        "medicina_interna",
+        "farmacologia",
         "esquistosomiasis",
         "contraindicaciones",
         "embarazo",
         "FARMACOLOGIA",
-        "UpToDate 2024"
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "¿Qué efecto adverso es más característico del praziquantel?",
+      "question": "¿Qué efecto adverso es más frecuente durante el tratamiento con praziquantel?",
       "options": [
-        "Hepatotoxicidad aguda",
-        "Mareos y cefalea transitorios",
-        "Nefrotoxicidad irreversible",
-        "Anafilaxis severa"
+        "Cardiotoxicidad",
+        "Hepatotoxicidad grave",
+        "Cefalea y mareos",
+        "Nefritis intersticial"
       ],
-      "correctAnswer": 2,
-      "explanation": "Los efectos adversos más comunes del praziquantel son mareos, cefalea, somnolencia y molestias abdominales, generalmente leves y autolimitados, relacionados con la liberación de antígenos del parásito.",
+      "correctAnswer": 3,
+      "explanation": "Cefalea y mareos son los efectos adversos más comunes del praziquantel, aunque suelen ser leves y autolimitados, relacionados con la liberación de antígenos parasitarios.",
       "hashtags": [
-        "medicina_interna",
+        "farmacologia",
         "esquistosomiasis",
         "efectos_adversos",
-        "mareos_cefalea",
+        "cefalea_mareos",
         "FARMACOLOGIA",
-        "Katzung 14ed"
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "¿Cuándo se recomienda repetir el tratamiento con praziquantel en esquistosomiasis?",
+      "question": "¿Qué fármaco se utiliza como alternativa al praziquantel en esquistosomiasis?",
       "options": [
-        "En todos los pacientes a los 3 meses",
-        "Nunca se repite por resistencia",
-        "Solo si persiste eosinofilia a 6 meses",
-        "A las 2-4 semanas si hay reinfección"
+        "Ivermectina",
+        "Oxamniquina",
+        "Albendazol",
+        "Mebendazol"
       ],
-      "correctAnswer": 4,
-      "explanation": "Se recomienda repetir el tratamiento a las 2-4 semanas si hay evidencia de reinfección o falta de respuesta (huevos viables en heces), ya que el praziquantel no previene reinfecciones.",
+      "correctAnswer": 2,
+      "explanation": "La oxamniquina es una alternativa al praziquantel, especialmente para Schistosoma mansoni, aunque su uso es limitado por disponibilidad y resistencia en algunas regiones.",
       "hashtags": [
-        "medicina_interna",
+        "farmacologia",
         "esquistosomiasis",
         "tratamiento",
-        "repeticion_dosis",
+        "oxamniquina",
         "TEMA_MEDICO",
-        "Guía OMS 2023"
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal tipo histológico de cáncer vesical asociado a S. haematobium?",
+      "options": [
+        "Adenocarcinoma",
+        "Carcinoma escamoso",
+        "Carcinoma de células pequeñas",
+        "Carcinoma urotelial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La infección crónica por Schistosoma haematobium se asocia con carcinoma escamoso vesical, que es el tipo histológico más frecuente en regiones endémicas, a diferencia del carcinoma urotelial en otras poblaciones.",
+      "hashtags": [
+        "oncologia",
+        "carcinoma_escamoso_vesical",
+        "etiologia",
+        "asociacion_parasitaria",
+        "TEMA_MEDICO",
+        "WHO Classification of Tumours 5th ed."
+      ]
+    },
+    {
+      "question": "¿Qué mecanismo fisiopatológico promueve la carcinogénesis por S. haematobium?",
+      "options": [
+        "Metástasis directa del parásito",
+        "Inflamación crónica y fibrosis",
+        "Producción de toxinas virales",
+        "Infección bacteriana secundaria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La inflamación crónica y la fibrosis inducidas por los huevos del parásito en la pared vesical generan estrés oxidativo y proliferación celular anómala, favoreciendo la transformación maligna hacia carcinoma escamoso.",
+      "hashtags": [
+        "oncologia",
+        "carcinoma_escamoso_vesical",
+        "fisiopatologia",
+        "carcinogenesis_inflamatoria",
+        "TEMA_MEDICO",
+        "Harrison 21ed---Infectious Diseases"
+      ]
+    },
+    {
+      "question": "¿Cuál es el factor de riesgo más específico para carcinoma escamoso vesical en áreas endémicas?",
+      "options": [
+        "Tabaquismo crónico",
+        "Exposición a arsénico",
+        "Cateterismo vesical prolongado",
+        "Infección por S. haematobium"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La infección crónica por Schistosoma haematobium es el factor de riesgo más específico y prevalente para carcinoma escamoso vesical en regiones endémicas de África y Medio Oriente, superando a otros factores clásicos.",
+      "hashtags": [
+        "oncologia",
+        "carcinoma_escamoso_vesical",
+        "epidemiologia",
+        "factores_riesgo",
+        "TEMA_MEDICO",
+        "IARC Monographs---WHO"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo imagenológico sugiere carcinoma escamoso vesical por esquistosomiasis?",
+      "options": [
+        "Calcificaciones lineales murales",
+        "Nódulo sólido en trígono",
+        "Tumor papilar en cúpula",
+        "Engrosamiento difuso de pared"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las calcificaciones lineales en la pared vesical, llamadas 'vejiga calcificada', son características de la esquistosomiasis crónica y se asocian frecuentemente con carcinoma escamoso en esos pacientes.",
+      "hashtags": [
+        "oncologia",
+        "carcinoma_escamoso_vesical",
+        "diagnostico",
+        "imagenologia",
+        "TEMA_MEDICO",
+        "Radiographics 2022---AJR"
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento de elección para carcinoma escamoso vesical asociado a esquistosomiasis?",
+      "options": [
+        "Radioterapia exclusiva",
+        "Praziquantel y vigilancia activa",
+        "Quimioterapia neoadyuvante sola",
+        "Cistectomía radical con linfadenectomía"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La cistectomía radical con linfadenectomía es el tratamiento estándar para el carcinoma escamoso vesical localizado, dado que responde poco a quimioterapia y radioterapia, y el praziquantel solo trata la infección activa.",
+      "hashtags": [
+        "oncologia",
+        "carcinoma_escamoso_vesical",
+        "tratamiento",
+        "cirugia_oncologica",
+        "TEMA_MEDICO",
+        "NCCN Guidelines Bladder Cancer 2024---EAU Guidelines"
+      ]
+    },
+    {
+      "question": "¿Qué característica histológica diferencia el carcinoma escamoso vesical del urotelial?",
+      "options": [
+        "Células en anillo de sello",
+        "Perlas córneas y queratinización",
+        "Papilas fibrovasculares",
+        "Patrón cribiforme"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La presencia de perlas córneas y queratinización es característica del carcinoma escamoso, a diferencia del urotelial que carece de estas diferenciaciones escamosas, siendo clave en el diagnóstico histopatológico.",
+      "hashtags": [
+        "oncologia",
+        "carcinoma_escamoso_vesical",
+        "concepto",
+        "histopatologia",
+        "TEMA_MEDICO",
+        "Robbins Pathologic Basis of Disease 10ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal medida para prevenir la esquistosomiasis en zonas endémicas?",
+      "options": [
+        "Uso de mosquiteros impregnados",
+        "Vacunación masiva oral",
+        "Quimioprofilaxis semanal",
+        "Control de caracoles hospedadores"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La principal medida preventiva es el control de los caracoles hospedadores intermediarios, ya que interrumpe el ciclo de vida del parásito al eliminar el vector donde se desarrollan las larvas.",
+      "hashtags": [
+        "medicina_preventiva",
+        "esquistosomiasis",
+        "epidemiologia",
+        "control_de_vectores",
+        "TEMA_MEDICO",
+        "Harrison 21ed---OMS 2023"
+      ]
+    },
+    {
+      "question": "¿Qué actividad humana aumenta el riesgo de contraer esquistosomiasis?",
+      "options": [
+        "Nadar en agua dulce contaminada",
+        "Consumir carne de cerdo cruda",
+        "Manipular tierra sin guantes",
+        "Inhalar polvo de heces secas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nadar o bañarse en agua dulce contaminada con cercarias liberadas por caracoles infectados es la principal vía de penetración del parásito a través de la piel.",
+      "hashtags": [
+        "medicina_preventiva",
+        "esquistosomiasis",
+        "cuadro_clinico",
+        "factores_de_riesgo",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes es el hospedador intermediario de Schistosoma?",
+      "options": [
+        "Caracol de agua dulce",
+        "Garrapata del género Ixodes",
+        "Pez de agua dulce",
+        "Mosquito Anopheles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los caracoles de agua dulce son los hospedadores intermediarios obligatorios donde se desarrollan las larvas de Schistosoma, y su control es clave en la prevención.",
+      "hashtags": [
+        "parasitologia",
+        "esquistosomiasis",
+        "ciclo_biologico",
+        "hospedador_intermediario",
+        "TEMA_MEDICO",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Qué forma larvaria de Schistosoma penetra la piel humana?",
+      "options": [
+        "Esporocisto",
+        "Redia",
+        "Miracidio",
+        "Cercaria"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La cercaria es la forma larvaria infectante que emerge del caracol y penetra activamente la piel humana durante el contacto con agua contaminada.",
+      "hashtags": [
+        "parasitologia",
+        "esquistosomiasis",
+        "morfologia",
+        "forma_infectante",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la estrategia más efectiva para eliminar caracoles en zonas endémicas?",
+      "options": [
+        "Uso de molusquicidas selectivos",
+        "Introducir peces depredadores",
+        "Aplicar antibióticos al agua",
+        "Drenar todos los cuerpos de agua"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El uso de molusquicidas selectivos, como la niclosamida, es la estrategia más efectiva para reducir la población de caracoles sin dañar gravemente el ecosistema acuático.",
+      "hashtags": [
+        "medicina_preventiva",
+        "esquistosomiasis",
+        "epidemiologia_prevencion",
+        "molusquicidas",
+        "TEMA_MEDICO",
+        "Guía OMS 2022"
+      ]
+    },
+    {
+      "question": "¿Qué recomendación se da a viajeros a zonas endémicas de esquistosomiasis?",
+      "options": [
+        "Usar repelente de insectos siempre",
+        "Evitar contacto con agua dulce",
+        "Tomar albendazol profiláctico",
+        "Dormir bajo mosquitero"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La recomendación principal es evitar el contacto con agua dulce de ríos, lagos o estanques en zonas endémicas, ya que la cercaria penetra la piel al nadar o bañarse.",
+      "hashtags": [
+        "medicina_viajero",
+        "esquistosomiasis",
+        "prevencion",
+        "recomendaciones_viajero",
+        "TEMA_MEDICO",
+        "CDC 2023"
       ]
     }
   ]

@@ -1,0 +1,71 @@
+{
+  "id": "ciclo_celular",
+  "items": [
+    {
+      "order": 0,
+      "foco": "Completo",
+      "title": "Completo",
+      "contentHtml": "<h2>Fases do ciclo celular</h2><h2>Fases do ciclo celular</h2><ul><li><b>G1:</b> crescimento celular, síntese de RNA e proteínas; duração variável (horas a dias).</li><li><b>S:</b> síntese de DNA (replicação semiconservativa) e duplicação de centríolos.</li><li><b>G2:</b> preparação para mitose, síntese de microtúbulos e proteínas do fuso.</li><li><b>M:</b> mitose (prófase, metáfase, anáfase, telófase) e citocinese.</li><li><b>[Armadilha exame]:</b> A Fase S é a única onde o DNA é duplicado; G2 não replica DNA. </li></ul><br><br><h2>Pontos de verificação do ciclo</h2><h2>Pontos de verificação</h2><ul><li><b>G1/S (ponto de restrição):</b> avalia tamanho celular, nutrientes, danos ao DNA; se houver dano → parada mediada por p53/p21.</li><li><b>G2/M:</b> verifica a integridade do DNA replicado e a integridade da replicação; parada por Chk1/Chk2.</li><li><b>M (ponto de verificação do fuso):</b> garante a fixação correta dos cromossomos ao fuso na metáfase; defeitos ativam <b>BubR1</b> e <b>Mad2</b> → bloqueio de APC/C. </li></ul><br><br><h2>Regulação por ciclina-CDK</h2><h2>Ciclina-CDK</h2><ul><li><b>Complexos principais:</b> Ciclina D/CDK4/6 (G1), Ciclina E/CDK2 (transição G1/S), Ciclina A/CDK2 (S), Ciclina B/CDK1 (G2/M).</li><li><b>Mecanismo:</b> a ciclina se liga ao CDK → ativando a fosforilação (CAK) e a desfosforilação (Cdc25) → ativação.</li><li><b>Inibidores:</b> p21 (universal), p16 (específico para CDK4/6); ambos são <b>supressores de tumor</b>.</li></ul><br><br><h2>parada de p53 e G1/S</h2><h2>p53</h2><ul><li><b>Função:</b> fator de transcrição que é estabilizado por dano ao DNA (fosforilação por ATM/ATR).</li><li><b>Efeito:</b> induz a transcrição de <b>p21</b> → inibe CDK2 e CDK4/6 → parada em G1/S.</li><li><b>Exame de Pearl:</b> a mutação p53 é a mais frequente no câncer (>50%); permite a progressão mesmo com dano genômico.</li><li><b>Armadilha:</b> p53 também ativa a apoptose através da via intrínseca (Bax, Puma).</li></ul><br><br><h2>Rb e controle transcricional</h2><h2>Retinoblastoma (Rb)</h2><ul><li><b>Mecanismo:</b> Rb hipofosforilado se liga a E2F → reprime a transcrição de genes necessários para a fase S.</li><li><b>Fosforilação:</b> pela Ciclina D/CDK4/6 em G1 → libera E2F → ativação transcricional.</li><li><b>Alteração:</b> perda de Rb (mutação ou inativação pelo HPV E7) → proliferação descontrolada.</li><li><b>Pérola:</b> Rb é o protótipo do <i>gatekeeper</i> tumor.</li></ul><br><br><h2>Separase e anáfase</h2><h2>Anáfase e separase</h2><ul><li><b>Coesina:</b> complexo proteico que mantém as cromátides irmãs juntas da fase S.</li><li><b>Separase:</b> protease que cliva a subunidade Scc1 da coesina → separação de cromátides.</li><li><b>Regulação:</b> a separase é inibida pela <b>securina</b>; APC/C ativado por Cdc20 ubiquitina securina → degradação → ativação da separase.</li><li><b>[Principal descoberta]:</b> falha da separase → aneuploidia e câncer. </li></ul><br><br><h2>Apoptose devido à privação de sinal</h2><h2>Apoptose devido à falta de sinais</h2><ul><li><b>Via extrínseca:</b> receptores de morte (Fas, TNF) ativam a caspase 8.</li><li><b>Via intrínseca (mitocondrial):</b> falta de fatores de crescimento → desequilíbrio de Bcl-2/Bax → liberação de citocromo c → caspase 9.</li><li><b>Pérola:</b> células que perdem sinais de sobrevivência entram em <b>anoikis</b> (apoptose devido ao descolamento da matriz).</li><li><b>Armadilha:</b> a apoptose não é inflamatória (ao contrário da necrose).</li></ul><br><br><h2>Estado G0</h2><h2>G0: quiescência e senescência</h2><ul><li><b>Quiescência:</b> reversível; As células podem reentrar em G1 quando confrontadas com estímulos (por exemplo, hepatócitos após hepatectomia). </li><li><b>Senescência:</b> irreversível; parada permanente devido ao encurtamento dos telômeros ou dano celular; secreção de SASP (fenótipo secretor associado à senescência).</li><li><b>Marcador:</b> β-galactosidase associada à senescência (SA-β-gal) em pH 6. </li></ul><br><br><h2>Fase S: ​​replicação e centríolos</h2><h2>Fase S</h2><ul><li><b>Síntese de DNA:</b> replicação semiconservativa; garfos de replicação com DNA polimerase δ/ε.</li><li><b>Duplicação de centríolos:</b> cada centríolo pai serve como modelo para um centríolo filho (processo semiconservador).</li><li><b>Controle:</b> Ciclina A/CDK2 regula a progressão em S; inibição por <b>p27</b>.</li><li><b>[Principal descoberta]:</b> As células S são sensíveis à radiação e à quimioterapia (antimetabólitos).</li></ul><br><br><h2>Fator promotor de mitose (MPF)</h2><h2>Ciclina B/CDK1 (MPF)</h2><ul><li><b>Composição:</b> Ciclina B + CDK1 (Cdc2) fuso.</li><li><b>Inativação:</b> degradação da ciclina B por APC/C no final da mitose.</li></ul>"
+    },
+    {
+      "order": 1,
+      "foco": "Fases G1, S, G2 e M do ciclo celular",
+      "title": "Fases do ciclo celular",
+      "contentHtml": "<h2>Fases do ciclo celular</h2><ul><li><b>G1:</b> crescimento celular, síntese de RNA e proteínas; duração variável (horas a dias).</li><li><b>S:</b> síntese de DNA (replicação semiconservativa) e duplicação de centríolos.</li><li><b>G2:</b> preparação para mitose, síntese de microtúbulos e proteínas do fuso.</li><li><b>M:</b> mitose (prófase, metáfase, anáfase, telófase) e citocinese.</li><li><b>[Armadilha exame]:</b> A Fase S é a única onde o DNA é duplicado; G2 não replica DNA. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Pontos de verificação em G1/S, G2/M e M",
+      "title": "Pontos de verificação de ciclo",
+      "contentHtml": "<h2>Pontos de controle</h2><ul><li><b>G1/S (ponto de restrição):</b> avalia tamanho celular, nutrientes, danos ao DNA; se houver dano → parada mediada por p53/p21.</li><li><b>G2/M:</b> verifica a integridade do DNA replicado e a integridade da replicação; parada por Chk1/Chk2.</li><li><b>M (ponto de verificação do fuso):</b> garante a fixação correta dos cromossomos ao fuso na metáfase; defeitos ativam <b>BubR1</b> e <b>Mad2</b> → bloqueio de APC/C.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Cyclin-CDK regula a progressão do ciclo",
+      "title": "Regulação por ciclina-CDK",
+      "contentHtml": "<h2>Ciclina-CDK</h2><ul><li><b>Complexos principais:</b> Ciclina D/CDK4/6 (G1), Ciclina E/CDK2 (transição G1/S), Ciclina A/CDK2 (S), Ciclina B/CDK1 (G2/M).</li><li><b>Mecanismo:</b> a ciclina se liga ao CDK → ativando a fosforilação (CAK) e a desfosforilação (Cdc25) → ativação. </li><li><b>Inibidores:</b> p21 (universal), p16 (específico para CDK4/6); ambos são <b>supressores de tumor</b>. </li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "p53 interrompe o ciclo em G1/S devido a danos no DNA",
+      "title": "p53 e prisão no G1/S",
+      "contentHtml": "<h2>p53</h2><ul><li><b>Função:</b> fator de transcrição que é estabilizado por danos no DNA (fosforilação por ATM/ATR).</li><li><b>Efeito:</b> induz a transcrição de <b>p21</b> → inibe CDK2 e CDK4/6 → parada em G1/S.</li><li><b>Exame Pearl:</b> a mutação p53 é a mais frequente no câncer (>50%); permite a progressão mesmo com danos genômicos.</li><li><b>Armadilha:</b> p53 também ativa a apoptose através da via intrínseca (Bax, Puma).</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Retinoblastoma (Rb) inibe a transcrição em G1",
+      "title": "Rb e controle transcricional",
+      "contentHtml": "<h2>Retinoblastoma (Rb)</h2><ul><li><b>Mecanismo:</b> O Rb hipofosforilado liga-se ao E2F → reprime a transcrição dos genes necessários para a fase S. </li><li><b>Fosforilação:</b> pela Ciclina D/CDK4/6 em G1 → libera E2F → ativação transcricional.</li><li><b>Alteração:</b> perda de Rb (mutação ou inativação pelo HPV E7) → proliferação descontrolada.</li><li><b>Pérola:</b> Rb é o protótipo do <i>gatekeeper</i> do tumor.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Anáfase promovida por separase após coesão",
+      "title": "Separase e anáfase",
+      "contentHtml": "<h2>Anáfase e separase</h2><ul><li><b>Coesina:</b> complexo proteico que mantém as cromátides irmãs unidas da fase S.</li><li><b>Separase:</b> protease que cliva a subunidade Scc1 da coesina → separação das cromátides.</li><li><b>Regulação:</b> a separase é inibida pela <b>securina</b>; APC/C ativado por Cdc20 ubiquitina securina → degradação → ativação da separase.</li><li><b>[Principal descoberta]:</b> falha da separase → aneuploidia e câncer.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Apoptose devido à falta de sinais de sobrevivência",
+      "title": "Apoptose devido à privação de sinal",
+      "contentHtml": "<h2>Apoptose por falta de sinais</h2><ul><li><b>Via extrínseca:</b> receptores de morte (Fas, TNF) ativam a caspase 8.</li><li><b>Via intrínseca (mitocondrial):</b> falta de fatores de crescimento → Desequilíbrio Bcl-2/Bax → liberação de citocromo c → caspase 9.</li><li><b>Pérola:</b> células que perdem sinais de sobrevivência insira <b>anoikis</b> (apoptose devido ao descolamento da matriz).</li><li><b>Armadilha:</b> a apoptose não é inflamatória (ao contrário da necrose).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "As células em G0 estão quiescentes ou senescentes",
+      "title": "Estado G0",
+      "contentHtml": "<h2>G0: quiescência e senescência</h2><ul><li><b>Quiescência:</b> reversível; As células podem reentrar em G1 quando confrontadas com estímulos (por exemplo, hepatócitos após hepatectomia). </li><li><b>Senescência:</b> irreversível; parada permanente devido ao encurtamento dos telômeros ou dano celular; secreção de SASP (fenótipo secretor associado à senescência).</li><li><b>Marcador:</b> β-galactosidase associada à senescência (SA-β-gal) em pH 6.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Síntese de DNA em fase S e duplicação de centríolos",
+      "title": "Fase S: ​​replicação e centríolos",
+      "contentHtml": "<h2>Fase S</h2><ul><li><b>Síntese de DNA:</b> replicação semiconservativa; garfos de replicação com DNA polimerase δ/ε.</li><li><b>Duplicação de centríolos:</b> cada centríolo pai serve como modelo para um centríolo filho (processo semiconservador).</li><li><b>Controle:</b> Ciclina A/CDK2 regula a progressão em S; inibição por <b>p27</b>.</li><li><b>[Principal descoberta]:</b> as células em S são sensíveis à radiação e quimioterapia (antimetabólitos).</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Ciclina B/CDK1 é o fator promotor da mitose",
+      "title": "Fator promotor da mitose (MPF)",
+      "contentHtml": "<h2>Ciclina B/CDK1 (MPF)</h2><ul><li><b>Composição:</b> Ciclina B + CDK1 (Cdc2).</li><li><b>Ativação:</b> fosforilação em Thr161 por CAK e desfosforilação em Thr14/Tyr15 por Cdc25.</li><li><b>Função:</b> fosforila laminas, histona H1 e proteínas do fuso → condensação cromossômica, quebra do envelope nuclear e formação do fuso. </li><li><b>Inativação:</b> degradação da ciclina B por APC/C no final da mitose. </li></ul>"
+    }
+  ]
+}

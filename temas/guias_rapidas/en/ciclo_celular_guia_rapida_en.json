@@ -1,0 +1,71 @@
+{
+  "id": "cell_cycle",
+  "items": [
+    {
+      "order": 0,
+      "foco": "Complete",
+      "title": "Complete",
+      "contentHtml": "<h2>Phases of the cell cycle</h2><h2>Phases of the cell cycle</h2><ul><li><b>G1:</b> cell growth, synthesis of RNA and proteins; variable duration (hours to days).</li><li><b>S:</b> DNA synthesis (semi-conservative replication) and centriole duplication.</li><li><b>G2:</b> preparation for mitosis, synthesis of microtubules and spindle proteins.</li><li><b>M:</b> mitosis (prophase, metaphase, anaphase, telophase) and cytokinesis.</li><li><b>[Trap exam]:</b> Phase S is the only one where DNA is duplicated; G2 does not replicate DNA. </li></ul><br><br><h2>Cycle checkpoints</h2><h2>Checkpoints</h2><ul><li><b>G1/S (restriction point):</b> evaluates cell size, nutrients, DNA damage; if damage → arrest mediated by p53/p21.</li><li><b>G2/M:</b> verifies integrity of the replicated DNA and completeness of replication; arrest by Chk1/Chk2.</li><li><b>M (spindle checkpoint):</b> ensures correct attachment of chromosomes to the spindle in metaphase; defects activate <b>BubR1</b> and <b>Mad2</b> → blockade of APC/C. </li></ul><br><br><h2>Regulation by cyclin-CDK</h2><h2>Cyclin-CDK</h2><ul><li><b>Key complexes:</b> Cyclin D/CDK4/6 (G1), Cyclin E/CDK2 (G1/S transition), Cyclin A/CDK2 (S), Cyclin B/CDK1 (G2/M).</li><li><b>Mechanism:</b> cyclin binds to CDK → activating phosphorylation (CAK) and dephosphorylation (Cdc25) → activation.</li><li><b>Inhibitors:</b> p21 (universal), p16 (CDK4/6 specific); both are <b>tumor suppressors</b>.</li></ul><br><br><h2>p53 and G1/S arrest</h2><h2>p53</h2><ul><li><b>Function:</b> transcription factor that is stabilized by DNA damage (phosphorylation by ATM/ATR).</li><li><b>Effect:</b> induces transcription of <b>p21</b> → inhibits CDK2 and CDK4/6 → arrest in G1/S.</li><li><b>Pearl examination:</b> p53 mutation is the most frequent in cancer (>50%); allows progression even with genomic damage.</li><li><b>Trap:</b> p53 also activates apoptosis through the intrinsic pathway (Bax, Puma).</li></ul><br><br><h2>Rb and transcriptional control</h2><h2>Retinoblastoma (Rb)</h2><ul><li><b>Mechanism:</b> Hypophosphorylated Rb binds to E2F → represses transcription of genes necessary for phase S.</li><li><b>Phosphorylation:</b> by Cyclin D/CDK4/6 in G1 → releases E2F → transcriptional activation.</li><li><b>Alteration:</b> loss of Rb (mutation or inactivation by HPV E7) → uncontrolled proliferation.</li><li><b>Pearl:</b> Rb is the prototype of <i>gatekeeper</i> tumor.</li></ul><br><br><h2>Separase and anaphase</h2><h2>Anaphase and separase</h2><ul><li><b>Cohesin:</b> protein complex that keeps sister chromatids together from S phase.</li><li><b>Separase:</b> protease that cleaves the Scc1 subunit of cohesin → separation of chromatids.</li><li><b>Regulation:</b> separase is inhibited by <b>securin</b>; APC/C activated by Cdc20 ubiquitin securin → degradation → separase activation.</li><li><b>[Key finding]:</b> separase failure → aneuploidy and cancer. </li></ul><br><br><h2>Apoptosis due to signal deprivation</h2><h2>Apoptosis due to lack of signals</h2><ul><li><b>Pathway extrinsic:</b> death receptors (Fas, TNF) activate caspase 8.</li><li><b>Intrinsic (mitochondrial) pathway:</b> lack of growth factors → Bcl-2/Bax imbalance → release of cytochrome c → caspase 9.</li><li><b>Pearl:</b> cells that lose survival signals enter <b>anoikis</b> (apoptosis due to matrix detachment).</li><li><b>Trap:</b> apoptosis is not inflammatory (unlike necrosis).</li></ul><br><br><h2>State G0</h2><h2>G0: quiescence and senescence</h2><ul><li><b>Quiescence:</b> reversible; Cells can reenter G1 when faced with stimuli (e.g. hepatocytes after hepatectomy). </li><li><b>Senescence:</b> irreversible; permanent arrest due to telomere shortening or cellular damage; secretion of SASP (senescence-associated secretory phenotype).</li><li><b>Marker:</b> Senescence-associated β-galactosidase (SA-β-gal) at pH 6. </li></ul><br><br><h2>S phase: replication and centrioles</h2><h2>S phase</h2><ul><li><b>DNA synthesis:</b> semiconservative replication; replication forks with DNA polymerase δ/ε.</li><li><b>Duplication of centrioles:</b> each parent centriole serves as a template for a daughter centriole (semi-conservative process).</li><li><b>Control:</b> Cyclin A/CDK2 regulates progression in S; inhibition by <b>p27</b>.</li><li><b>[Key finding]:</b> S cells are sensitive to radiation and chemotherapy (antimetabolites).</li></ul><br><br><h2>Mitosis promoting factor (MPF)</h2><h2>Cyclin B/CDK1 (MPF)</h2><ul><li><b>Composition:</b> Cyclin B + CDK1 (Cdc2) spindle.</li><li><b>Inactivation:</b> degradation of cyclin B by APC/C at the end of mitosis.</li></ul>"
+    },
+    {
+      "order": 1,
+      "foco": "G1, S, G2 and M phases of the cell cycle",
+      "title": "Cell cycle phases",
+      "contentHtml": "<h2>Phases of the cell cycle</h2><ul><li><b>G1:</b> cell growth, RNA and protein synthesis; variable duration (hours to days).</li><li><b>S:</b> DNA synthesis (semi-conservative replication) and centriole duplication.</li><li><b>G2:</b> preparation for mitosis, synthesis of microtubules and spindle proteins.</li><li><b>M:</b> mitosis (prophase, metaphase, anaphase, telophase) and cytokinesis.</li><li><b>[Trap exam]:</b> Phase S is the only one where DNA is duplicated; G2 does not replicate DNA. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Checkpoints in G1/S, G2/M and M",
+      "title": "Cycle checkpoints",
+      "contentHtml": "<h2>Control points</h2><ul><li><b>G1/S (restriction point):</b> evaluates cell size, nutrients, DNA damage; if damage → arrest mediated by p53/p21.</li><li><b>G2/M:</b> verifies integrity of the replicated DNA and completeness of replication; arrest by Chk1/Chk2.</li><li><b>M (spindle checkpoint):</b> ensures correct attachment of chromosomes to the spindle in metaphase; defects activate <b>BubR1</b> and <b>Mad2</b> → blockade of APC/C.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Cyclin-CDK regulate cycle progression",
+      "title": "Regulation by cyclin-CDK",
+      "contentHtml": "<h2>Cyclin-CDK</h2><ul><li><b>Key complexes:</b> Cyclin D/CDK4/6 (G1), Cyclin E/CDK2 (G1/S transition), Cyclin A/CDK2 (S), Cyclin B/CDK1 (G2/M).</li><li><b>Mechanism:</b> cyclin binds to CDK → activating phosphorylation (CAK) and dephosphorylation (Cdc25) → activation. </li><li><b>Inhibitors:</b> p21 (universal), p16 (CDK4/6 specific); both are <b>tumor suppressors</b>. </li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "p53 stops the cycle in G1/S due to DNA damage",
+      "title": "p53 and arrest in G1/S",
+      "contentHtml": "<h2>p53</h2><ul><li><b>Function:</b> transcription factor that is stabilized by DNA damage (phosphorylation by ATM/ATR).</li><li><b>Effect:</b> induces transcription of <b>p21</b> → inhibits CDK2 and CDK4/6 → arrest in G1/S.</li><li><b>Pearl examination:</b> p53 mutation is the most frequent in cancer (>50%); allows progression even with genomic damage.</li><li><b>Trap:</b> p53 also activates apoptosis through the intrinsic pathway (Bax, Puma).</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Retinoblastoma (Rb) inhibits transcription in G1",
+      "title": "Rb and transcriptional control",
+      "contentHtml": "<h2>Retinoblastoma (Rb)</h2><ul><li><b>Mechanism:</b> Hypophosphorylated Rb binds to E2F → represses transcription of genes necessary for S phase. </li><li><b>Phosphorylation:</b> by Cyclin D/CDK4/6 in G1 → releases E2F → transcriptional activation.</li><li><b>Alteration:</b> loss of Rb (mutation or inactivation by HPV E7) → uncontrolled proliferation.</li><li><b>Pearl:</b> Rb is the prototype of tumor <i>gatekeeper</i>.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Anaphase promoted by separase after cohesion",
+      "title": "Separase and anaphase",
+      "contentHtml": "<h2>Anaphase and separase</h2><ul><li><b>Cohesin:</b> protein complex that holds sister chromatids together from S phase.</li><li><b>Separase:</b> protease that cleaves the Scc1 subunit of cohesin → chromatid separation.</li><li><b>Regulation:</b> separase is inhibited by <b>securin</b>; APC/C activated by Cdc20 ubiquitin securin → degradation → separase activation.</li><li><b>[Key finding]:</b> separase failure → aneuploidy and cancer.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Apoptosis due to lack of survival signals",
+      "title": "Apoptosis due to signal deprivation",
+      "contentHtml": "<h2>Apoptosis due to lack of signals</h2><ul><li><b>Extrinsic pathway:</b> death receptors (Fas, TNF) activate caspase 8.</li><li><b>Intrinsic pathway (mitochondrial):</b> lack of growth factors → Bcl-2/Bax imbalance → release of cytochrome c → caspase 9.</li><li><b>Pearl:</b> cells that lose survival signals enter <b>anoikis</b> (apoptosis due to matrix detachment).</li><li><b>Trap:</b> apoptosis is not inflammatory (unlike necrosis).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Cells in G0 are quiescent or senescent",
+      "title": "G0 State",
+      "contentHtml": "<h2>G0: quiescence and senescence</h2><ul><li><b>Quiescence:</b> reversible; Cells can reenter G1 when faced with stimuli (e.g. hepatocytes after hepatectomy). </li><li><b>Senescence:</b> irreversible; permanent arrest due to telomere shortening or cellular damage; secretion of SASP (senescence-associated secretory phenotype).</li><li><b>Marker:</b> senescence-associated β-galactosidase (SA-β-gal) at pH 6.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "S phase DNA synthesis and centriole duplication",
+      "title": "S phase: replication and centrioles",
+      "contentHtml": "<h2>S phase</h2><ul><li><b>DNA synthesis:</b> semiconservative replication; replication forks with DNA polymerase δ/ε.</li><li><b>Duplication of centrioles:</b> each parent centriole serves as a template for a daughter centriole (semi-conservative process).</li><li><b>Control:</b> Cyclin A/CDK2 regulates progression in S; inhibition by <b>p27</b>.</li><li><b>[Key finding]:</b> cells in S are sensitive to radiation and chemotherapy (antimetabolites).</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Cyclin B/CDK1 is the mitosis-promoting factor",
+      "title": "Mitosis promoting factor (MPF)",
+      "contentHtml": "<h2>Cyclin B/CDK1 (MPF)</h2><ul><li><b>Composition:</b> Cyclin B + CDK1 (Cdc2).</li><li><b>Activation:</b> phosphorylation at Thr161 by CAK and dephosphorylation at Thr14/Tyr15 by Cdc25.</li><li><b>Function:</b> phosphorylates lamins, histone H1, and spindle proteins → chromosome condensation, nuclear envelope breakdown and spindle formation. </li><li><b>Inactivation:</b> degradation of cyclin B by APC/C at the end of mitosis. </li></ul>"
+    }
+  ]
+}
