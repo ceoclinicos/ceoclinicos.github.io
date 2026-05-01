@@ -637,7 +637,7 @@
         "#estenosis",
         "#insuficiencia_valvular"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "pericarditis_aguda",
@@ -652,7 +652,7 @@
         "#medicina_interna",
         "#inflamacion"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "endocarditis_infecciosa",
@@ -718,7 +718,7 @@
         "#4_semestre",
         "#cuarto_semestre"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "cerebelo_y_cerebro_-_neuroanatomia",
@@ -752,7 +752,7 @@
         "#sistema_nervioso",
         "#anatomia_neurologica"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "sistemas_sensoriales_táctil;_termoalgésico;_propioceptivo;_visceroceptivo",
@@ -773,7 +773,7 @@
         "#4_semestre",
         "#cuarto_semestre"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "meninges;_senos_durales;_circulación_del_líquido_cefalorraquídeo.",
@@ -890,7 +890,7 @@
         "#medicina_interna",
         "#dietetica"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "hipernatremia",
@@ -997,7 +997,7 @@
         "#medicina_interna",
         "#electrofisiologia"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "bloqueos_auriculoventriculares",
@@ -1091,7 +1091,7 @@
         "#medicina_interna",
         "#pericardio"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "disección_aórtica",
@@ -1186,7 +1186,7 @@
         "#nutricion",
         "#metabolismo"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "toxoplasmosis",
@@ -1202,7 +1202,7 @@
         "#medicina_interna",
         "#infectologia"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "lipidos_y_metabolismo_del_colesterol",
@@ -1279,7 +1279,7 @@
         "#ginecologia",
         "#tricomoniasis"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "malaria",
@@ -1372,7 +1372,7 @@
         "#medicina_tropical",
         "#uncinariasis"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "strongyloidiasis",
@@ -1403,7 +1403,7 @@
         "#medicina_interna",
         "#zoonosis"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "larva_migrans_cutánea",
@@ -1433,7 +1433,7 @@
         "#teniasis",
         "#medicina_tropical"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "cisticercosis",
@@ -1463,6 +1463,37 @@
         "#enfermedades_infecciosas",
         "#medicina_interna",
         "#cirugia_general"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "esquistosomiasis",
+      "titulo": "Esquistosomiasis",
+      "descripcion": "Enfermedad parasitaria causada por trematodos del género Schistosoma, endémica en regiones tropicales y subtropicales.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#parasitologia",
+        "#enfermedades_infecciosas",
+        "#medicina_tropical",
+        "#esquistosomiasis"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "colelitiasis_y_colecistitis",
+      "titulo": "Colelitiasis y Colecistitis",
+      "descripcion": "Estudio de los cálculos biliares y la inflamación de la vesícula, incluyendo diagnóstico, tratamiento y complicaciones.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#colelitiasis",
+        "#colecistitis",
+        "#cirugia_general",
+        "#medicina_interna"
       ],
       "tieneGuia": false
     }
