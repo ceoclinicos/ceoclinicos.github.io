@@ -874,7 +874,7 @@
         "#medicina_interna",
         "#dietetica"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "vitaminas_hidrosolubles",
@@ -1494,6 +1494,98 @@
         "#colecistitis",
         "#cirugia_general",
         "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "fascioliasis",
+      "titulo": "Fascioliasis",
+      "descripcion": "Infección parasitaria causada por Fasciola hepatica, que afecta principalmente el hígado y las vías biliares. Conoce su epidemiología, diagnóstico y tratamiento.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#parasitologia",
+        "#enfermedades_infecciosas",
+        "#fascioliasis",
+        "#medicina_tropical",
+        "#hepatologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "acalasia",
+      "titulo": "Acalasia",
+      "descripcion": "Trastorno motor del esófago caracterizado por la falta de relajación del esfínter esofágico inferior y ausencia de peristalsis, que provoca disfagia progresiva.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#acalasia",
+        "#disfagia",
+        "#motilidad_esofagica",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "pediculosis",
+      "titulo": "Pediculosis",
+      "descripcion": "Infestación por piojos que afecta el cuero cabelludo, el cuerpo o el pubis. Diagnóstico y tratamiento basado en la evidencia.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#pediculosis",
+        "#dermatologia",
+        "#infectologia",
+        "#pediatria"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "enfermedad_por_reflujo_gastroesofagico",
+      "titulo": "Enfermedad por reflujo gastroesofágico",
+      "descripcion": "Trastorno digestivo crónico en el que el contenido del estómago regresa al esófago, causando síntomas como pirosis y regurgitación.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#reflujo_gastroesofagico",
+        "#enfermedad_por_reflujo",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "apendicitis_aguda",
+      "titulo": "Apendicitis Aguda",
+      "descripcion": "Tema médico sobre el diagnóstico, clasificación y manejo de la apendicitis aguda, incluyendo criterios clínicos, imágenes y tratamiento quirúrgico.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#cirugia_general",
+        "#apendicitis",
+        "#urgencias_quirurgicas",
+        "#abdomen_agudo"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "obstrucción_intestinal",
+      "titulo": "Obstrucción Intestinal",
+      "descripcion": "Estudio del cuadro clínico, diagnóstico y manejo de la obstrucción intestinal, incluyendo causas mecánicas y funcionales.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#cirugia_general",
+        "#obstruccion_intestinal",
+        "#urgencias_quirurgicas",
+        "#gastroenterologia"
       ],
       "tieneGuia": false
     }
