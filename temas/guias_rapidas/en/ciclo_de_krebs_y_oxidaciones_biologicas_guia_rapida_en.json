@@ -1,0 +1,71 @@
+{
+  "id": "cycle_of_krebs_and_biological_oxidations",
+  "items": [
+    {
+      "order": 0,
+      "foco": "Complete",
+      "title": "Complete",
+      "contentHtml": "<h2>Regulación por ATP y NADH</h2><h2>Regulación por ATP y NADH</h2><ul><li><b>ATP</b> inhibe alostéricamente <b>isocitrato deshidrogenasa</b> y <b>α-cetoglutarato deshidrogenasa</b>; <b>NADH</b> inhibe además <b>piruvato deshidrogenasa</b> y <b>citrato sintasa</b>.</li><li><b>Relación NADH/NAD+</b> alta frena el ciclo; <b>ADP</b> activa isocitrato deshidrogenasa.</li><li><b>[Trampa]:</b> El ciclo de Krebs no requiere O₂ directamente, pero el <b>NADH</b> debe reoxidarse por cadena respiratoria; hipoxia detiene el ciclo por acumulación de NADH.</li></ul><br><br><h2>Descarboxilación oxidativa del piruvato</h2><h2>Descarboxilación oxidativa del piruvato</h2><ul><li>Reacción irreversible en matriz mitocondrial: <b>piruvato + CoA + NAD+ → acetil-CoA + CO₂ + NADH</b>.</li><li>Catalizada por <b>complejo piruvato deshidrogenasa (PDH)</b>; requiere 5 cofactores: <b>tiamina (B1), ácido lipoico, CoA, FAD, NAD+</b>.</li><li><b>[Perla]:</b> Deficiencia de B1 (beriberi, alcoholismo) → acidosis láctica por acumulación de piruvato.</li></ul><br><br><h2>Reacción del complejo de la piruvato deshidrogenasa</h2><h2>Reacción del complejo de la piruvato deshidrogenasa</h2><ul><li>Complejo multienzimático: <b>E1 (piruvato descarboxilasa)</b>, <b>E2 (dihidrolipoil transacetilasa)</b>, <b>E3 (dihidrolipoil deshidrogenasa)</b>.</li><li><b>Regulación:</b> fosforilación por <b>PDK</b> (inhibe) y desfosforilación por <b>PDP</b> (activa); alta [ATP/NADH] estimula PDK.</li><li><b>[Trampa]:</b> El arsénico inhibe E2 al unirse al ácido lipoico → bloqueo del complejo.</li></ul><br><br><h2>Enzimas del ciclo de Krebs</h2><h2>Enzimas del ciclo de Krebs</h2><ul><li>8 enzimas: <b>citrato sintasa</b>, <b>aconitasa</b>, <b>isocitrato deshidrogenasa</b>, <b>α-cetoglutarato deshidrogenasa</b>, <b>succinil-CoA sintetasa</b>, <b>succinato deshidrogenasa</b>, <b>fumarasa</b>, <b>malato deshidrogenasa</b>.</li><li><b>[Hallazgo clave]:</b> <b>Succinato deshidrogenasa</b> es la única unida a membrana interna mitocondrial (complejo II de la cadena respiratoria).</li><li><b>Citrato sintasa</b> cataliza la reacción de condensación irreversible (regulada por ATP, NADH, succinil-CoA).</li></ul><br><br><h2>Balance energético del ciclo de Krebs</h2><h2>Balance energético del ciclo de Krebs</h2><ul><li>Por cada acetil-CoA: <b>3 NADH</b>, <b>1 FADH2</b>, <b>1 GTP</b> (equivalente a ATP).</li><li>Rendimiento total en ATP (oxidación completa): <b>~10 ATP</b> por acetil-CoA (3 NADH × 2.5 ATP + 1 FADH2 × 1.5 ATP + 1 GTP).</li><li><b>[Trampa]:</b> El GTP se genera por <b>succinil-CoA sintetasa</b> (fosforilación a nivel de sustrato); no cuenta como fosforilación oxidativa.</li></ul><br><br><h2>Puntos de control: isocitrato deshidrogenasa</h2><h2>Puntos de control: isocitrato deshidrogenasa</h2><ul><li>Enzima <b>reguladora clave</b> del ciclo; cataliza descarboxilación oxidativa de isocitrato a α-cetoglutarato.</li><li><b>Activadores:</b> ADP, Ca²⁺ (señal de demanda energética).</li><li><b>Inhibidores:</b> ATP, NADH.</li><li><b>[Perla]:</b> La <b>isocitrato deshidrogenasa NADP-dependiente</b> (citosólica) produce NADPH para defensa antioxidante y lipogénesis.</li></ul><br><br><h2>Papel del FADH2 y NADH</h2><h2>Papel del FADH2 y NADH</h2><ul><li><b>NADH</b> se oxida en complejo I de la cadena respiratoria → bombea 4 H⁺; <b>FADH2</b> ingresa en complejo II → bombea 0 H⁺ (solo 2 H⁺ vía complejo III y IV).</li><li>Rendimiento: NADH → <b>~2.5 ATP</b>; FADH2 → <b>~1.5 ATP</b>.</li><li><b>[Trampa]:</b> El NADH generado en citosol (glucólisis) debe ingresar a mitocondria vía lanzaderas (malato-aspartato o glicerol-3-fosfato), con diferente rendimiento.</li></ul><br><br><h2>Inhibición por fluoroacetato</h2><h2>Inhibición por fluoroacetato</h2><ul><li><b>Fluoroacetato</b> (tóxico, presente en plantas como <i>Dichapetalum cymosum</i>) se convierte en <b>fluoroacetil-CoA</b> y luego en <b>fluorocitrato</b>.</li><li><b>Fluorocitrato</b> inhibe <b>aconitasa</b> → bloquea el ciclo de Krebs → acumulación de citrato.</li><li><b>[Hallazgo clave]:</b> Intoxicación causa <b>convulsiones, coma, acidosis metabólica</b>; no tiene antídoto específico.</li></ul><br><br><h2>Reacciones anapleróticas (piruvato carboxilasa)</h2><h2>Reacciones anapleróticas (piruvato carboxilasa)</h2><ul><li><b>Piruvato carboxilasa</b> (mitocondrial) convierte piruvato + CO₂ → oxaloacetato; requiere <b>biotina</b> como cofactor y es activada por <b>acetil-CoA</b>.</li><li>Reacción anaplerótica principal para reponer intermediarios del ciclo (ej. oxaloacetato para condensación con acetil-CoA).</li><li><b>[Perla]:</b> Deficiencia de biotina (ingesta de clara de huevo cruda) → hipoglucemia, acidosis láctica, fallo en gluconeogénesis.</li></ul><br><br><h2>Oxidación del succinato por succinato deshidrogenasa</h2><h2>Oxidación del succinato por succinato deshidrogenasa</h2><ul><li><b>Succinato deshidrogenasa</b> (complejo II) oxida succinato a fumarato, reduciendo FAD a FADH2.</li><li>Es la única enzima del ciclo de Krebs unida a membrana interna mitocondrial; forma parte de la cadena respiratoria.</li><li><b>[Trampa]:</b> Es inhibida por <b>malonato</b> (análogo competitivo del succinato), usado experimentalmente para bloquear el ciclo.</li></ul>"
+    },
+    {
+      "order": 1,
+      "foco": "Regulation by ATP and NADH",
+      "title": "Regulation by ATP and NADH",
+      "contentHtml": "<h2>Regulation by ATP and NADH</h2><ul><li><b>ATP</b> allosterically inhibits <b>isocitrate dehydrogenase</b> and <b>α-ketoglutarate dehydrogenase</b>; <b>NADH</b> also inhibits <b>pyruvate dehydrogenase</b> and <b>citrate synthase</b>. </li><li><b>High NADH/NAD+</b> ratio slows down the cycle; <b>ADP</b> activates isocitrate dehydrogenase.</li><li><b>[Trap]:</b> The Krebs cycle does not require O₂ directly, but <b>NADH</b> must be reoxidized by the respiratory chain; Hypoxia stops the cycle due to the accumulation of NADH. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Oxidative decarboxylation of pyruvate",
+      "title": "Oxidative decarboxylation of pyruvate",
+      "contentHtml": "<h2>Oxidative decarboxylation of pyruvate</h2><ul><li>Irreversible reaction in the mitochondrial matrix: <b>pyruvate + CoA + NAD+ → acetyl-CoA + CO₂ + NADH</b>. </li><li>Catalyzed by <b>pyruvate dehydrogenase (PDH) complex</b>; requires 5 cofactors: <b>thiamine (B1), lipoic acid, CoA, FAD, NAD+</b>.</li><li><b>[Pearl]:</b> B1 deficiency (beriberi, alcoholism) → lactic acidosis due to pyruvate accumulation.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Pyruvate dehydrogenase complex reaction",
+      "title": "Pyruvate dehydrogenase complex reaction",
+      "contentHtml": "<h2>Pyruvate dehydrogenase complex reaction</h2><ul><li>Multienzyme complex: <b>E1 (pyruvate decarboxylase)</b>, <b>E2 (dihydrolipoyl transacetylase)</b>, <b>E3 (dihydrolipoyl dehydrogenase)</b>.</li><li><b>Regulation:</b> phosphorylation by <b>PDK</b> (inhibits) and dephosphorylation by <b>PDP</b> (active); High [ATP/NADH] stimulates PDK. </li><li><b>[Trap]:</b> Arsenic inhibits E2 by binding to lipoic acid → blocking the complex. </li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Enzymes of the Krebs cycle",
+      "title": "Enzymes of the Krebs cycle",
+      "contentHtml": "<h2>Enzymes of the Krebs cycle</h2><ul><li>8 enzymes: <b>citrate synthase</b>, <b>aconitase</b>, <b>isocitrate dehydrogenase</b>, <b>α-ketoglutarate dehydrogenase</b>, <b>succinyl-CoA synthetase</b>, <b>succinate dehydrogenase</b>, <b>fumarase</b>, <b>malate dehydrogenase</b>.</li><li><b>[Key finding]:</b> <b>Succinate dehydrogenase</b> is the only one bound to the inner mitochondrial membrane (complex II of the respiratory chain).</li><li><b>Citrate synthase</b> catalyzes the irreversible condensation reaction (regulated by ATP, NADH, succinyl-CoA).</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Energy balance of the Krebs cycle",
+      "title": "Energy balance of the Krebs cycle",
+      "contentHtml": "<h2>Energy balance of the Krebs cycle</h2><ul><li>For each acetyl-CoA: <b>3 NADH</b>, <b>1 FADH2</b>, <b>1 GTP</b> (equivalent to ATP).</li><li>Total ATP yield (complete oxidation): <b>~10 ATP</b> per acetyl-CoA (3 NADH × 2.5 ATP + 1 FADH2 × 1.5 ATP + 1 GTP).</li><li><b>[Trap]:</b> GTP is generated by <b>succinyl-CoA synthetase</b> (substrate-level phosphorylation); does not count as oxidative phosphorylation. </li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Checkpoints: isocitrate dehydrogenase",
+      "title": "Checkpoints: isocitrate dehydrogenase",
+      "contentHtml": "<h2>Checkpoints: isocitrate dehydrogenase</h2><ul><li>Key regulatory enzyme</b> of the cycle; catalyzes oxidative decarboxylation of isocitrate to α-ketoglutarate.</li><li><b>Activators:</b> ADP, Ca²⁺ (energy demand signal).</li><li><b>Inhibitors:</b> ATP, NADH.</li><li><b>[Pearl]:</b> NADP-dependent <b>isocitrate dehydrogenase</b> (cytosolic) produces NADPH for defense antioxidant and lipogenesis. </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Role of FADH2 and NADH",
+      "title": "Role of FADH2 and NADH",
+      "contentHtml": "<h2>Role of FADH2 and NADH</h2><ul><li><b>NADH</b> is oxidized in complex I of the respiratory chain → pumps 4 H⁺; <b>FADH2</b> enters complex II → pumps 0 H⁺ (only 2 H⁺ via complex III and IV).</li><li>Output: NADH → <b>~2.5 ATP</b>; FADH2 → <b>~1.5 ATP</b>.</li><li><b>[Trap]:</b> The NADH generated in the cytosol (glycolysis) must enter the mitochondria via shuttles (malate-aspartate or glycerol-3-phosphate), with different yields.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Inhibition by fluoroacetate",
+      "title": "Inhibition by fluoroacetate",
+      "contentHtml": "<h2>Inhibition by fluoroacetate</h2><ul><li><b>Fluoroacetate</b> (toxic, present in plants such as <i>Dichapetalum cymosum</i>) is converted to <b>fluoroacetyl-CoA</b> and then to <b>fluorocitrate</b>.</li><li><b>Fluorocitrate</b> inhibits <b>aconitase</b> → blocks the Krebs cycle → citrate accumulation.</li><li><b>[Key finding]:</b> Intoxication causes <b>seizures, coma, metabolic acidosis</b>; It has no specific antidote. </li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Anaplerotic reactions (pyruvate carboxylase)",
+      "title": "Anaplerotic reactions (pyruvate carboxylase)",
+      "contentHtml": "<h2>Anaplerotic reactions (pyruvate carboxylase)</h2><ul><li><b>Pyruvate carboxylase</b> (mitochondrial) converts pyruvate + CO₂ → oxaloacetate; requires <b>biotin</b> as a cofactor and is activated by <b>acetyl-CoA</b>.</li><li>Main anaplerotic reaction to replenish cycle intermediates (e.g. oxaloacetate for condensation with acetyl-CoA).</li><li><b>[Pearl]:</b> Biotin deficiency (raw egg white intake) → hypoglycemia, lactic acidosis, failure to gluconeogenesis. </li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Oxidation of succinate by succinate dehydrogenase",
+      "title": "Oxidation of succinate by succinate dehydrogenase",
+      "contentHtml": "<h2>Oxidation of succinate by succinate dehydrogenase</h2><ul><li><b>Succinate dehydrogenase</b> (complex II) oxidizes succinate to fumarate, reducing FAD to FADH2. </li><li>It is the only enzyme of the Krebs cycle bound to the inner mitochondrial membrane; It is part of the respiratory chain.</li><li><b>[Trap]:</b> It is inhibited by <b>malonate</b> (competitive analogue of succinate), used experimentally to block the cycle.</li></ul>"
+    }
+  ]
+}

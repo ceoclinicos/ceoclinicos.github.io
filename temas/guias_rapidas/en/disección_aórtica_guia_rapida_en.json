@@ -1,0 +1,71 @@
+{
+  "id": "aortic_dissection",
+  "items": [
+    {
+      "order": 0,
+      "foco": "Complete",
+      "title": "Complete",
+      "contentHtml": "<h2>Stanford A vs B</h2><h2>Stanford Classification</h2><ul><li><b>Stanford A:</b> affects ascending aorta (with or without descending/arche). <b>Surgical urgency</b> (mortality ~1-2%/hour without surgery).</li><li><b>Stanford B:</b> affects only descending aorta (distal to left subclavian). <b>Initial medical management</b> (beta blocker + pressure control).</li><li><b>Pearl examination:</b> the DeBakey classification (I, II, III) is less used in emergencies; Stanford is the one that decides management.</li></ul><br><br><h2>HTN as a risk factor</h2><h2>High blood pressure</h2><ul><li><b>Main risk factor</b> for aortic dissection (present in >70% of cases).</li><li>Chronic HTN generates <b>degeneration of the medial layer</b> (medial cystic necrosis) and weakens the wall aortic.</li><li><b>Examination trap:</b> in young patients without HTN, think about connective tissue diseases (Marfan syndrome, Ehlers-Danlos) or bicuspid aortic valve.</li></ul><br><br><h2>Tearing pain</h2><h2>Chest pain</h2><ul><li><b>Classic characteristic:</b> sudden, intense, tearing or lancinating</b>, migratory (follows dissection path).</li><li>Location: anterior thoracic (type A) or interscapular (type B).</li><li><b>Critical DDx:</b> AMI (pressing, non-migratory pain, with ECG changes); pulmonary embolism (pleuritic pain + dyspnea).</li></ul><br><br><h2>Chest X-ray: wide mediastinum</h2><h2>Chest ~60-70% (normal does not rule out).</li><li>Other signs: <b>tracheal deviation</b> to the right, left pleural effusion (blood).</li><li><b>Trap:</b> Normal x-ray does not exclude dissection; If suspicion is high, proceed to CT angiography. </li></ul><br><br><h2>CT angiography: double lumen</h2><h2>CT angiography (gold standard)</h2><ul><li><b>[Key finding]:</b> <b>double lumen sign</b> (true and false lumen separated by intimal flap).</li><li>True lumen: smaller size, early homogeneous opacification. False lumen: larger, late and heterogeneous opacification.</li><li><b>Partial thrombus</b> in false lumen is common (helps distinguish from penetrating ulcer).</li><li><b>Pearl:</b> angio-CT with contrast has sensitivity and specificity >95% for diagnosis.</li></ul><br><br><h2>Diagnostic TEE</h2><h2>Transesophageal echocardiogram (TEE)</h2><ul><li><b>Indication:</b> unstable patient or contraindication for CT (CRI, allergy).</li><li><b>Displays:</b> intimal flap, differentiation of lumens, aortic insufficiency, pericardial effusion.</li><li><b>Sensitivity 98%</b> for type A (less for distal type B).</li><li><b>Trap:</b> requires expert operator; <b>it does not clearly visualize the distal aortic arch or the proximal descending aorta</b> (blind area due to the left bronchus). </li></ul><br><br><h2>Type A surgery</h2><h2>Stanford A surgical treatment</h2><ul><li><b>Urgent (emergency):</b> ascending aorta replacement surgery with prosthetic graft (with or without coronary reimplantation).</li><li>Goal: to prevent <b>aortic rupture</b>, tamponade, acute aortic insufficiency.</li><li><b>Presurgical management:</b> IV beta blocker (esmolol/labetalol) to reduce dP/dt, maintain SBP 100-120 mmHg.</li><li><b>Pearl:</b> if there is severe aortic insufficiency, the valve is also replaced (Bentall).</li></ul><br><br><h2>Type B medical</h2><h2>Stanford B medical management</h2><ul><li><b>First line:</b> IV beta blocker (esmolol, metoprolol or labetalol) to decrease <b>dP/dt</b> and heart rate (HR 60 bpm).</li><li>Goal: SBP 100-120 mmHg, HR 50-60 bpm.</li><li>If beta blocker contraindication: verapamil or diltiazem IV.</li><li><b>Indications for surgery/endoprosthesis in type B:</b> complications (rupture, malperfusion, refractory hypertension, persistent pain).</li></ul><br><br><h2>Cardiac tamponade</h2><h2>Cardiac tamponade</h2><ul><li><b>Complication fatal</b> type A: bleeding into the pericardium → diastolic compression of the right cavities.</li><li><b>Signs:</b> hypotension, jugular engorgement, paradoxical pulse, auscultatory silence.</li><li><b>Echocardiography:</b> pericardial effusion + diastolic collapse of the right atrium/ventricle.</li><li><b>Management:</b> Rescue pericardiocentesis (only if extreme instability, can decompress and resume bleeding) + urgent surgery. cancer).</li><li><b>Utility:</b> high negative predictive value (if normal D-dimer and low clinical suspicion, can rule out dissection).</li><li><b>Trap examination:</b> do not use to confirm; If suspicion is high, go directly to imaging (CT angiography/TEE). </li></ul>"
+    },
+    {
+      "order": 1,
+      "foco": "Stanford Classification (A and B)",
+      "title": "Stanford A vs B",
+      "contentHtml": "<h2>Stanford Classification</h2><ul><li><b>Stanford A:</b> affects ascending aorta (with or without descending/arche). <b>Surgical urgency</b> (mortality ~1-2%/hour without surgery).</li><li><b>Stanford B:</b> affects only descending aorta (distal to left subclavian). <b>Initial medical management</b> (beta blocker + pressure control).</li><li><b>Pearl examination:</b> the DeBakey classification (I, II, III) is less used in emergencies; Stanford is the one that decides management. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Risk factor: high blood pressure",
+      "title": "HTN as a risk factor",
+      "contentHtml": "<h2>High blood pressure</h2><ul><li><b>Main risk factor</b> for aortic dissection (present in >70% of cases).</li><li>Chronic HTN generates <b>degeneration of the medial layer</b> (medial cystic necrosis) and weakens the aortic wall.</li><li><b>Examination trap:</b> in young patients without HTN, think about connective tissue diseases (Sd. Marfan, Ehlers-Danlos) or bicuspid aortic valve. </li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Tearing or sudden chest pain",
+      "title": "tearing pain",
+      "contentHtml": "<h2>Chest pain</h2><ul><li><b>Classic characteristic:</b> pain <b>sudden, intense, tearing or lancinating</b>, migratory (follows dissection path).</li><li>Location: anterior thoracic (type A) or interscapular (type B).</li><li><b>Critical DDx:</b> AMI (pressing, non-migratory pain, with ECG changes); pulmonary embolism (pleuritic pain + dyspnea). </li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Mediastinal widening on x-ray",
+      "title": "Chest x-ray: wide mediastinum",
+      "contentHtml": "<h2>Chest (blood).</li><li><b>Trap:</b> Normal x-ray does not exclude dissection; If suspicion is high, proceed to CT angiography. </li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Double lumen sign on CT angiography",
+      "title": "CT angiography: double light",
+      "contentHtml": "<h2>Angio-CT (gold standard)</h2><ul><li><b>[Key finding]:</b> <b>double lumen sign</b> (true and false lumen separated by intimal flap).</li><li>True lumen: smaller size, early homogeneous opacification. False lumen: larger, late and heterogeneous opacification.</li><li><b>Partial thrombus</b> in false lumen is common (helps distinguish from penetrating ulcer).</li><li><b>Pearl:</b> CT angiography with contrast has sensitivity and specificity >95% for diagnosis.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Transesophageal echocardiogram as a diagnostic tool",
+      "title": "diagnostic TEE",
+      "contentHtml": "<h2>Transesophageal echocardiogram (TEE)</h2><ul><li><b>Indication:</b> unstable patient or contraindication for CT (CRI, allergy).</li><li><b>Displays:</b> intimal flap, differentiation of lumens, aortic insufficiency, pericardial effusion.</li><li><b>Sensitivity 98%</b> for type A (lower for type B distal).</li><li><b>Trap:</b> requires expert operator; <b>it does not clearly visualize the distal aortic arch or the proximal descending aorta</b> (blind area for the left bronchus).</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Urgent surgical treatment in type A",
+      "title": "Type A surgery",
+      "contentHtml": "<h2>Stanford A surgical treatment</h2><ul><li><b>Urgent (emergency):</b> ascending aorta replacement surgery with prosthetic graft (with or without coronary reimplantation).</li><li>Goal: prevent <b>aortic rupture</b>, tamponade, acute aortic insufficiency.</li><li><b>Presurgical management:</b> IV beta blocker (esmolol/labetalol) to reduce dP/dt, maintain SBP 100-120 mmHg.</li><li><b>Pearl:</b> if there is severe aortic insufficiency, the valve is also replaced (Bentall).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Medical management with beta blockers in type B",
+      "title": "Type B doctor",
+      "contentHtml": "<h2>Medical management Stanford B</h2><ul><li><b>First line:</b> IV beta blocker (esmolol, metoprolol or labetalol) to reduce <b>dP/dt</b> and heart rate (HR 60 bpm).</li><li>Goal: SBP 100-120 mmHg, HR 50-60 bpm.</li><li>If beta blocker contraindication: verapamil or diltiazem iv.</li><li><b>Indications for surgery/endoprosthesis in type B:</b> complications (rupture, malperfusion, refractory hypertension, persistent pain).</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Complication: cardiac tamponade",
+      "title": "cardiac tamponade",
+      "contentHtml": "<h2>Cardiac tamponade</h2><ul><li><b>Fatal complication</b> type A: bleeding into the pericardium → diastolic compression of the right cavities.</li><li><b>Signs:</b> hypotension, jugular engorgement, paradoxical pulse, auscultatory silence.</li><li><b>Echocardiography:</b> pericardial effusion + diastolic collapse of right atrium/ventricle.</li><li><b>Management:</b> <b>rescue pericardiocentesis</b> (only if extreme instability, can decompress and resume bleeding) + urgent surgery.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Marker: elevated D-dimer (nonspecific)",
+      "title": "D-dimer",
+      "contentHtml": "<h2>D-dimer</h2><ul><li><b>Elevated</b> (generally >500 ng/mL) in acute aortic dissection, but <b>nonspecific</b> (also in PE, AMI, pregnancy, cancer).</li><li><b>Usefulness:</b> high negative predictive value (if normal D-dimer and low clinical suspicion, it can rule out dissection).</li><li><b>Trap examination:</b> no use to confirm; If suspicion is high, go directly to imaging (CT angiography/TEE). </li></ul>"
+    }
+  ]
+}
