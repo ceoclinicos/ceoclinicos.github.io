@@ -1,0 +1,77 @@
+{
+  "id": "infecciones_de_sitio_quirúrgico",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Clasificación de heridas quirúrgicas",
+      "title": "Clasificación de heridas quirúrgicas",
+      "contentHtml": "<h2>Clasificación de heridas quirúrgicas</h2><ul><li><b>Clase I (limpia):</b> sin contaminación, sin entrada a tracto respiratorio/digestivo/genitourinario; tasa de infección <b><2%</b>.</li><li><b>Clase II (limpia-contaminada):</b> entrada controlada a tracto respiratorio/digestivo/genitourinario; tasa <b><10%</b>.</li><li><b>Clase III (contaminada):</b> derrame importante, inflamación aguda no purulenta o herida traumática reciente; tasa <b>15-20%</b>.</li><li><b>Clase IV (sucia/infectada):</b> pus, perforación visceral, herida traumática con tejido desvitalizado; tasa <b>>30%</b>.</li><li><b>Trampa:</b> una herida con pus ya es Clase IV, no Clase III.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Factores de riesgo preoperatorios",
+      "title": "Factores de riesgo preoperatorios",
+      "contentHtml": "<h2>Factores de riesgo preoperatorios</h2><ul><li><b>Edad >65 años:</b> inmunosenescencia y comorbilidades.</li><li><b>Diabetes mellitus:</b> HbA1c >7% preoperatorio duplica riesgo de infección de sitio quirúrgico (ISQ).</li><li><b>Obesidad (IMC >30):</b> hipoperfusión tisular y mayor tensión en herida.</li><li><b>Tabaquismo activo:</b> vasoconstricción e hipoxia; suspender ≥4 semanas antes.</li><li><b>Hipoalbuminemia (<3.5 g/dL):</b> marcador de desnutrición y peor cicatrización.</li><li><b>Inmunosupresión (corticoides, quimioterapia):</b> aumenta riesgo de infección oportunista.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Profilaxis antibiótica adecuada",
+      "title": "Profilaxis antibiótica adecuada",
+      "contentHtml": "<h2>Profilaxis antibiótica adecuada</h2><ul><li>Indicada en heridas <b>Clase II, III y IV</b> y en <b>Clase I</b> si hay implante protésico, cirugía cardíaca, neurocirugía o inmunosupresión.</li><li>Elección: <b>Cefazolina 2 g IV</b> (1 g si peso <80 kg) para la mayoría de cirugías; en alérgicos a betalactámicos: <b>clindamicina 600 mg</b> o <b>vancomicina 15 mg/kg</b>.</li><li>En cirugía colorrectal: <b>cefazolina + metronidazol 500 mg</b> o <b>ertapenem 1 g</b>.</li><li>Duración: <b>dosis única preoperatoria</b>; no prolongar más de 24 horas (excepto cirugía cardíaca con bypass, hasta 48 h).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Momento óptimo de la profilaxis",
+      "title": "Momento óptimo de la profilaxis",
+      "contentHtml": "<h2>Momento óptimo de la profilaxis</h2><ul><li>Administrar dentro de los <b>60 minutos previos a la incisión</b> (120 min para vancomicina y fluoroquinolonas por infusión lenta).</li><li>El pico sérico debe coincidir con el momento de la incisión; <b>ideal: 30-45 min antes</b>.</li><li>Si la cirugía excede <b>2 vidas medias</b> del antibiótico (ej. cefazolina cada 4 h), repetir dosis intraoperatoria.</li><li><b>Trampa:</b> administrar profilaxis >2 horas antes de la incisión se asocia a mayor tasa de ISQ (equivalente a no dar profilaxis).</li><li>En cesárea: dar antibiótico <b>30-60 min antes de la incisión</b>, no después del pinzamiento del cordón.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Criterios de infección superficial",
+      "title": "Criterios de infección superficial",
+      "contentHtml": "<h2>Criterios de infección superficial</h2><ul><li>Afecta solo <b>piel y tejido celular subcutáneo</b>, dentro de los <b>30 días postoperatorios</b>.</li><li>Debe cumplir al menos uno de los siguientes: <b>drenaje purulento</b> de la incisión; cultivo positivo de líquido o tejido; signos de inflamación (dolor, edema, eritema, calor) y el cirujano <b>abre la herida</b> intencionalmente (excepto si cultivo es negativo).</li><li>No incluye absceso de sutura o celulitis sin pus.</li><li><b>Trampa:</b> si hay <b>infección superficial y profunda</b> en la misma herida, se clasifica como infección profunda.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Criterios de infección profunda",
+      "title": "Criterios de infección profunda",
+      "contentHtml": "<h2>Criterios de infección profunda</h2><ul><li>Afecta <b>fascia y músculo</b>, dentro de los <b>30 días</b> (o hasta 1 año si hay implante) postoperatorios.</li><li>Criterios: <b>drenaje purulento</b> desde la fascia; dehiscencia espontánea o apertura quirúrgica de la herida con cultivo positivo; absceso profundo; fiebre o dolor local más hallazgos imagenológicos (TC: colección con realce de bordes).</li><li>Requiere <b>drenaje quirúrgico</b> y antibióticos dirigidos.</li><li><b>Trampa:</b> si la infección compromete fascia, es profunda aunque parezca superficial; no confundir con seroma infectado.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Infección de órgano o espacio",
+      "title": "Infección de órgano o espacio",
+      "contentHtml": "<h2>Infección de órgano o espacio</h2><ul><li>Afecta cualquier estructura <b>profunda a la fascia</b> (órgano, cavidad, espacio) que fue abierta o manipulada durante la cirugía.</li><li>Ejemplos: <b>mediastinitis</b> postesternotomía, <b>absceso intraabdominal</b> postcolectomía, <b>empiema</b> posttoracotomía.</li><li>Criterios: drenaje purulento de drenaje colocado en el órgano/espacio; cultivo positivo de líquido/tejido del sitio; absceso u otra evidencia de infección en <b>imagen (TC/RM) o reintervención</b>.</li><li><b>Trampa:</b> una infección de órgano/espacio no requiere que la herida superficial esté infectada; puede haber fiebre sin signos cutáneos.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Staphylococcus aureus como patógeno común",
+      "title": "Staphylococcus aureus como patógeno común",
+      "contentHtml": "<h2>Staphylococcus aureus como patógeno común</h2><ul><li><b>Staphylococcus aureus</b> es el agente más frecuente en ISQ (20-30%), seguido de <i>E. coli</i> y <i>Enterococcus</i>.</li><li>En cirugía limpia predomina <b>S. aureus</b> (colonización nasal es factor de riesgo independiente).</li><li><b>SARM (Staphylococcus aureus resistente a meticilina)</b>: considerar en pacientes con hospitalización previa, hemodiálisis, portadores conocidos o cirugía con implante protésico; usar <b>vancomicina</b> o <b>daptomicina</b>.</li><li>La producción de <b>biofilm</b> en implantes dificulta la erradicación; requiere retiro del dispositivo.</li><li><b>Trampa:</b> no usar cefalosporinas de primera generación si hay sospecha de SARM.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Uso de drenajes y su manejo",
+      "title": "Uso de drenajes y su manejo",
+      "contentHtml": "<h2>Uso de drenajes y su manejo</h2><ul><li>Drenajes <b>cerrados por succión</b> (Jackson-Pratt, Blake) reducen acumulación de líquido, pero no previenen ISQ; pueden ser vía de entrada de infección si no se manejan asépticamente.</li><li>Indicaciones: cirugía con espacio muerto, hemostasia subóptima, fuga anastomótica esperada.</li><li>Retirar lo antes posible: <b>en <24-48 horas</b> si débito <30 mL/día y sin fuga; no mantener >7 días salvo indicación específica.</li><li><b>Trampa:</b> drenajes abiertos (Penrose) aumentan riesgo de infección ascendente; preferir sistemas cerrados.</li><li>No usar antibiótico profiláctico solo por presencia de drenaje; la indicación es la cirugía, no el drenaje.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Manejo con apertura de herida",
+      "title": "Manejo con apertura de herida",
+      "contentHtml": "<h2>Manejo con apertura de herida</h2><ul><li>Ante sospecha de ISQ superficial, abrir la herida (retirar puntos/grapas) para <b>drenaje y desbridamiento</b> si hay pus o tejido necrótico.</li><li>Tomar <b>cultivo de tejido profundo</b> (no solo de hisopo superficial) y enviar para aerobios/anaerobios.</li><li>Iniciar <b>antibioticoterapia empírica</b> dirigida a flora cutánea y del sitio quirúrgico; ajustar según antibiograma.</li><li>Herida abierta: manejo con <b>curación húmeda</b> (apósitos con solución salina, alginatos o hidrocoloides) y cierre por segunda intención o cierre diferido cuando el lecho esté limpio.</li><li><b>Trampa:</b> no cerrar primariamente una herida infectada; esperar a que no haya signos de infección y cultivo negativo.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Cultivo y antibiograma dirigido",
+      "title": "Cultivo y antibiograma dirigido",
+      "contentHtml": "<h2>Cultivo y antibiograma dirigido</h2><ul><li>Toma de muestra: <b>tejido profundo o aspirado de pus</b> (evitar hisopo superficial por contaminación con flora comensal).</li><li>Enviar para cultivo <b>aerobio y anaerobio</b>; si hay sospecha de micobacterias u hongos, solicitar específicamente.</li><li>Antibiograma: permite <b>desescalar</b> terapia empírica; si se aísla <b>S. aureus sensible a meticilina</b>, usar cefazolina en lugar de vancomicina.</li><li>En infecciones polimicrobianas (cirugía abdominal), cubrir gramnegativos y anaerobios; ajustar según resistencias locales.</li><li><b>Trampa:</b> cultivo negativo no descarta infección si el paciente recibió antibióticos previos; repetir si persisten signos.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Medidas de prevención intraoperatorias",
+      "title": "Medidas de prevención intraoperatorias",
+      "contentHtml": "<h2>Medidas de prevención intraoperatorias</h2><ul><li><b>Preparación de la piel:</b> antisepsia con <b>clorhexidina alcohólica al 2%</b> (superior a povidona yodada en reducción de ISQ).</li><li><b>Normotermia:</b> mantener temperatura corporal ≥36°C (hipotermia causa vasoconstricción e hipoxia tisular).</li><li><b>Oxigenación:</b> FiO2 al 80% durante la cirugía y 2 horas postoperatorias (en pacientes con función pulmonar normal).</li><li><b>Control de glucemia:</b> mantener glucosa <b><180 mg/dL</b> intraoperatorio y postoperatorio inmediato.</li><li><b>Técnica aséptica:</b> doble guante, campos estériles, limitar tráfico en quirófano.</li><li><b>Trampa:</b> el rasurado con navaja aumenta microabrasiones; usar <b>cortadora eléctrica</b> o no rasurar.</li></ul>"
+    }
+  ]
+}

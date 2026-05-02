@@ -1,0 +1,77 @@
+{
+  "id": "breast_pathology",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Risk factors and BRCA",
+      "title": "Risk factors and BRCA",
+      "contentHtml": "<h2>Risk factors and BRCA</h2><ul><li><b>BRCA1/2</b>: germline mutation; cumulative risk of breast cancer up to 72% (BRCA1) and 69% (BRCA2) at age 80.</li><li><b>BRCA1</b> is associated with triple negative; BRCA2 to positive hormone receptors."
+    },
+    {
+      "order": 2,
+      "foco": "BI-RADS classification in mammography",
+      "title": "BI-RADS Classification",
+      "contentHtml": "<h2>BI-RADS classification in mammography</h2><ul><li><b>BI-RADS 0</b>: incomplete evaluation, requires additional images.</li><li><b>BI-RADS 1</b>: negative; <b>BI-RADS 2</b>: benign findings.</li><li><b>BI-RADS 3</b>: probably benign (<2% malignancy); 6-month follow-up.</li><li><b>BI-RADS 4</b>: suspicious, subcategories 4A (low suspicion 2-10%), 4B (intermediate 10-50%), 4C (high 50-95%); requires biopsy.</li><li><b>BI-RADS 5</b>: highly suggestive of malignancy (≥95%); immediate biopsy.</li><li><b>BI-RADS 6</b>: known malignancy confirmed by biopsy.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "hereditary breast cancer",
+      "title": "hereditary breast cancer",
+      "contentHtml": "<h2>Hereditary breast cancer</h2><ul><li>Suspected criteria: breast cancer <50 years old, bilateral, triple negative, ovarian cancer, male, multiple affected relatives.</li><li>Main genes: <b>BRCA1</b>, <b>BRCA2</b>, <b>TP53</b> (Li-Fraumeni syndrome), <b>PTEN</b> (Cowden), <b>CDH1</b> (hereditary diffuse gastric cancer).</li><li>Management: bilateral risk-reducing mastectomy and bilateral salpingo-oophorectomy (BRCA1/2) around 35-40 years of age.</li><li>Chemoprevention with <b>tamoxifen</b> reduces risk by 50% in BRCA2 carriers (not in BRCA1).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Most frequent histological types",
+      "title": "Histological types",
+      "contentHtml": "<h2>Most frequent histological types</h2><ul><li><b>Infiltrating ductal carcinoma</b> (80%): the most frequent; intermediate prognosis.</li><li><b>Infiltrating lobular carcinoma</b> (10-15%): loss of E-cadherin, diffuse growth, difficult mammographic detection, bilaterality.</li><li><b>Medullary carcinoma</b>: well delimited, infiltrating lymphocytes, better prognosis.</li><li><b>Mucinous carcinoma</b>: abundant extracellular mucus, good prognosis, typical in elderly.</li><li><b>Tubular carcinoma</b>: low grade, excellent prognosis.</li><li><b>Papillary carcinoma</b>: intracystic, good prognosis.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Management of ductal carcinoma in situ",
+      "title": "Management of DCIS",
+      "contentHtml": "<h2>Management of ductal carcinoma in situ</h2><ul><li>Treatment: conservative surgery (lumpectomy with free edges ≥2 mm) + adjuvant radiotherapy; alternative total mastectomy if multifocal or positive margins.</li><li>In low-grade DCIS and <2.5 cm, radiotherapy can be omitted (ECOG-ACRIN E5194).</li><li>Sentinel lymph node: indicated if mastectomy or if invasion is highly suspected.</li><li>Adjuvant tamoxifen reduces ipsilateral and contralateral recurrence in RE+ DCIS (NSABP B-24).</li><li>Not known use chemotherapy or trastuzumab. </li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Hormonal receptors and HER2",
+      "title": "Hormonal receptors and HER2",
+      "contentHtml": "<h2>Hormone receptors and HER2</h2><ul><li><b>Estrogen receptor (ER)</b> and <b>progesterone receptor (PR)</b>: positive if ≥1% of cells stained; favorable prognosis, guide endocrine therapy.</li><li><b>HER2</b>: overexpression (IHC 3+) or gene amplification (FISH ratio ≥2.0); poor prognosis without anti-HER2 therapy.</li><li><b>Triple negative</b> (ER-, RP-, HER2-): 15-20%, greater aggressiveness, basic chemotherapy, no benefit from endocrine or anti-HER2.</li><li>Luminal A subtype (ER+, HER2-, low proliferation) better prognosis; luminal B (ER+, HER2+ or high proliferation) worse.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "TNM staging of breast cancer",
+      "title": "TNM staging",
+      "contentHtml": "<h2>TNM staging of breast cancer</h2><ul><li><b>T</b>: T1 ≤2 cm, T2 >2-5 cm, T3 >5 cm, T4 extension to the chest wall or skin (T4a: wall, T4b: edema/ulceration, T4c: both, T4d: inflammatory carcinoma).</li><li><b>N</b>: N0 without lymph node metastases; N1: mobile ipsilateral axillary nodes; N2: fixed or conglomerates; N3: infraclavicular or supraclavicular.</li><li><b>M</b>: M0 without distant metastases; M1 metastasis. </li><li>Stages: 0 (DCIS), I (T1N0M0), II (T0-3N1M0 or T2-3N0M0), III (any T N2-3M0 or T4 any N M0), IV (M1). </li><li>Inflammatory carcinoma always T4d and stage IIIB at least.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Tamoxifen and adverse effects",
+      "title": "Tamoxifen and adverse effects",
+      "contentHtml": "<h2>Tamoxifen and adverse effects</h2><ul><li><b>Tamoxifen</b>: selective estrogen receptor modulator (SERM); dose 20 mg/day for 5-10 years.</li><li>Adverse effects: hot flashes, vaginal dryness, increased risk of venous thromboembolism (VTE) and endometrial cancer (relative risk 2-3).</li><li>Contraindicated in women with a history of VTE or endometrial hyperplasia.</li><li>In premenopausal women: blocks estrogen receptor; in postmenopausal women: partial agonist in endometrium and bone.</li><li>Alternative in postmenopause: aromatase inhibitors (anastrozole, letrozole, exemestane) without endometrial or VTE risk.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Surgical treatment: quadrantectomy vs mastectomy",
+      "title": "Surgery: quadrantectomy vs mastectomy",
+      "contentHtml": "<h2>Surgical treatment: quadrantectomy vs mastectomy</h2><ul><li><b>Quadrantectomy</b> (breast-conserving surgery): removal of the tumor with a margin of healthy tissue; equivalent in survival to total mastectomy for tumors ≤4 cm and adequate breast (NSABP B-06).</li><li>Conservation contraindications: multicentric disease, extensive microcalcifications, previous radiotherapy, pregnancy (first trimester), positive margin after re-excision.</li><li><b>Total mastectomy</b>: removal of the entire mammary gland; indicated in multifocality, recurrence after conservation, or patient preference.</li><li>Modified radical mastectomy (Patey): includes axillary dissection levels I-II.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Sentinel lymph node in breast cancer",
+      "title": "sentinel lymph node",
+      "contentHtml": "<h2>Sentinel lymph node in breast cancer</h2><ul><li>Technique: peritumoral/subareolar injection of <b>technetium-99m</b> + methylene blue; identification of the first lymphatic drainage node.</li><li>Indicated in cN0 invasive breast cancer (clinically negative).</li><li>If sentinel node positive: complete axillary dissection if >2 positive sentinel nodes or macrometastasis (ACOSOG Z0011: omit dissection if T1-T2, 1-2 positive sentinel nodes, conservative surgery + radiotherapy).</li><li>False negatives: 5-10%; greater if multifocal tumor or previous surgery. </li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Fibrocystic breast disease",
+      "title": "Fibrocystic disease",
+      "contentHtml": "<h2>Fibrocystic breast disease</h2><ul><li>Benign changes: fibrosis, cysts, epithelial hyperplasia; more common in women 30-50 years old.</li><li>Histological classification: non-proliferative (no increased risk), proliferative without atypia (relative risk 1.5-2), proliferative with atypia (relative risk 4-5).</li><li>Mammography: round/ovoid cysts, benign microcalcifications (bubble type).</li><li>Management: symptomatic (avoid caffeine, NSAIDs); aspiration of painful cysts; biopsy if suspected.</li><li>No special follow-up required except atypia (monitoring every 6-12 months).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Galactorrhea and prolactinoma",
+      "title": "Galactorrhea and prolactinoma",
+      "contentHtml": "<h2>Galactorrhea and prolactinoma</h2><ul><li>Galactorrhea: non-puerperal milk secretion; causes: <b>prolactinoma</b>, drugs (antipsychotics, metoclopramide), hypothyroidism, chronic stimulation.</li><li>Diagnosis: <b>prolactin</b> levels >200 ng/mL suggest prolactinoma; between 20-200 ng/mL rule out other causes.</li><li>Image: <b>MRI of the sella turcica</b> with gadolinium to detect microadenoma (<10 mm) or macroadenoma (≥10 mm).</li><li>First-line treatment: <b>cabergoline</b> 0.5-2 mg/week (dopamine agonist); reduces prolactin and tumor size. </li><li>Transsphenoidal surgery if resistance/intolerance or chiasmatic compression. </li></ul>"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "mama_patologia",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Fatores de risco e BRCA",
+      "title": "Fatores de risco e BRCA",
+      "contentHtml": "<h2>Fatores de risco e BRCA</h2><ul><li><b>BRCA1/2</b>: mutação germinativa; risco cumulativo de câncer de mama de até 72% (BRCA1) e 69% (BRCA2) aos 80 anos.</li><li><b>BRCA1</b> está associado ao triplo negativo; BRCA2 para receptores hormonais positivos."
+    },
+    {
+      "order": 2,
+      "foco": "Classificação BI-RADS em mamografia",
+      "title": "Classificação BI-RADS",
+      "contentHtml": "<h2>Classificação BI-RADS em mamografia</h2><ul><li><b>BI-RADS 0</b>: avaliação incompleta, requer imagens adicionais.</li><li><b>BI-RADS 1</b>: negativo; <b>BI-RADS 2</b>: achados benignos.</li><li><b>BI-RADS 3</b>: provavelmente benigno (<2% de malignidade); Acompanhamento de 6 meses.</li><li><b>BI-RADS 4</b>: suspeito, subcategorias 4A (suspeita baixa 2-10%), 4B (intermediário 10-50%), 4C (alta 50-95%); requer biópsia.</li><li><b>BI-RADS 5</b>: altamente sugestivo de malignidade (≥95%); biópsia imediata.</li><li><b>BI-RADS 6</b>: malignidade conhecida confirmada por biópsia.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "câncer de mama hereditário",
+      "title": "câncer de mama hereditário",
+      "contentHtml": "<h2>Câncer de mama hereditário</h2><ul><li>Critérios de suspeita: câncer de mama <50 anos, bilateral, triplo negativo, câncer de ovário, sexo masculino, parentes múltiplos afetados.</li><li>Genes principais: <b>BRCA1</b>, <b>BRCA2</b>, <b>TP53</b> (síndrome de Li-Fraumeni), <b>PTEN</b> (Cowden), <b>CDH1</b> (câncer gástrico difuso hereditário).</li><li>Tratamento: mastectomia bilateral redutora de risco e salpingo-ooforectomia bilateral (BRCA1/2) por volta dos 35-40 anos de idade.</li><li>A quimioprevenção com <b>tamoxifeno</b> reduz o risco em 50% em portadores de BRCA2 (não em BRCA1).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Tipos histológicos mais frequentes",
+      "title": "Tipos histológicos",
+      "contentHtml": "<h2>Tipos histológicos mais frequentes</h2><ul><li><b>Carcinoma ductal infiltrante</b> (80%): o mais frequente; prognóstico intermediário.</li><li><b>Carcinoma lobular infiltrante</b> (10-15%): perda de caderina-E, crescimento difuso, detecção mamográfica difícil, bilateralidade.</li><li><b>Carcinoma medular</b>: bem delimitado, linfócitos infiltrantes, melhor prognóstico.</li><li><b>Carcinoma mucinoso</b>: muco extracelular abundante, bom prognóstico, típico em idosos.</li><li><b>Carcinoma tubular</b>: baixo grau, prognóstico excelente.</li><li><b>Carcinoma papilar</b>: intracístico, bom prognóstico.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Manejo do carcinoma ductal in situ",
+      "title": "Gestão do CDIS",
+      "contentHtml": "<h2>Manejo do carcinoma ductal in situ</h2><ul><li>Tratamento: cirurgia conservadora (mastectomia com bordas livres ≥2 mm) + radioterapia adjuvante; mastectomia total alternativa se margens multifocais ou positivas.</li><li>No CDIS de baixo grau e <2,5 cm, a radioterapia pode ser omitida (ECOG-ACRIN E5194).</li><li>Gânglio linfático sentinela: indicado se a mastectomia ou se a invasão for altamente suspeita.</li><li>O tamoxifeno adjuvante reduz a recorrência ipsilateral e contralateral no CDIS RE+ (NSABP). B-24).</li><li>Desconhecido uso de quimioterapia ou trastuzumabe. </li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Receptores hormonais e HER2",
+      "title": "Receptores hormonais e HER2",
+      "contentHtml": "<h2>Receptores hormonais e HER2</h2><ul><li><b>Receptor de estrogênio (RE)</b> e <b>receptor de progesterona (PR)</b>: positivo se ≥1% das células coradas; prognóstico favorável, orientar terapia endócrina.</li><li><b>HER2</b>: superexpressão (IHC 3+) ou amplificação genética (razão FISH ≥2,0); mau prognóstico sem terapia anti-HER2.</li><li><b>Triplo negativo</b> (ER-, RP-, HER2-): 15-20%, maior agressividade, quimioterapia básica, nenhum benefício de endócrino ou anti-HER2.</li><li>Subtipo Luminal A (ER+, HER2-, baixa proliferação) melhor prognóstico; luminal B (ER+, HER2+ ou alta proliferação) pior.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Estadiamento TNM do câncer de mama",
+      "title": "Encenação TNM",
+      "contentHtml": "<h2>Estadiamento TNM do câncer de mama</h2><ul><li><b>T</b>: T1 ≤2 cm, T2 >2-5 cm, T3 >5 cm, T4 extensão à parede torácica ou pele (T4a: parede, T4b: edema/ulceração, T4c: ambos, T4d: carcinoma inflamatório).</li><li><b>N</b>: N0 sem metástases linfonodais; N1: nódulos axilares ipsilaterais móveis; N2: fixos ou conglomerados; N3: infraclavicular ou supraclavicular.</li><li><b>M</b>: M0 sem metástases à distância; Metástase M1. </li><li>Estágios: 0 (DCIS), I (T1N0M0), II (T0-3N1M0 ou T2-3N0M0), III (qualquer T N2-3M0 ou T4 qualquer N M0), IV (M1). </li><li>Carcinoma inflamatório sempre T4d e estágio IIIB pelo menos.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Tamoxifeno e efeitos adversos",
+      "title": "Tamoxifeno e efeitos adversos",
+      "contentHtml": "<h2>Tamoxifeno e efeitos adversos</h2><ul><li><b>Tamoxifeno</b>: modulador seletivo do receptor de estrogênio (SERM); dose 20 mg/dia por 5-10 anos.</li><li>Efeitos adversos: ondas de calor, secura vaginal, aumento do risco de tromboembolismo venoso (TEV) e câncer endometrial (risco relativo 2-3).</li><li>Contraindicado em mulheres com histórico de TEV ou hiperplasia endometrial.</li><li>Em mulheres na pré-menopausa: bloqueia o receptor de estrogênio; em mulheres na pós-menopausa: agonista parcial no endométrio e osso.</li><li>Alternativa na pós-menopausa: inibidores da aromatase (anastrozol, letrozol, exemestano) sem risco endometrial ou de TEV.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Tratamento cirúrgico: quadrantectomia vs mastectomia",
+      "title": "Cirurgia: quadrantectomia vs mastectomia",
+      "contentHtml": "<h2>Tratamento cirúrgico: quadrantectomia vs mastectomia</h2><ul><li><b>Quadrantectomia</b> (cirurgia conservadora da mama): remoção do tumor com margem de tecido saudável; equivalente em sobrevida à mastectomia total para tumores ≤4 cm e mama adequada (NSABP B-06).</li><li>Contra-indicações de conservação: doença multicêntrica, microcalcificações extensas, radioterapia prévia, gravidez (primeiro trimestre), margem positiva após reexcisão.</li><li><b>Mastectomia total</b>: remoção de toda a glândula mamária; indicado em multifocalidade, recorrência após conservação ou preferência do paciente.</li><li>Mastectomia radical modificada (Patey): inclui dissecção axilar níveis I-II.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Linfonodo sentinela no câncer de mama",
+      "title": "linfonodo sentinela",
+      "contentHtml": "<h2>Linfonodo sentinela no câncer de mama</h2><ul><li>Técnica: injeção peritumoral/subareolar de <b>tecnécio-99m</b> + azul de metileno; identificação do primeiro linfonodo de drenagem linfática.</li><li>Indicado em câncer de mama invasivo cN0 (clinicamente negativo).</li><li>Se linfonodo sentinela positivo: dissecção axilar completa se >2 linfonodos sentinela positivos ou macrometástase (ACOSOG Z0011: omitir dissecção se T1-T2, 1-2 linfonodos sentinela positivos, cirurgia conservadora + radioterapia).</li><li>Falsos negativos: 5-10%; maior se tumor multifocal ou cirurgia prévia. </li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Doença fibrocística da mama",
+      "title": "Doença fibrocística",
+      "contentHtml": "<h2>Doença fibrocística da mama</h2><ul><li>Alterações benignas: fibrose, cistos, hiperplasia epitelial; mais comum em mulheres de 30 a 50 anos.</li><li>Classificação histológica: não proliferativa (sem risco aumentado), proliferativa sem atipia (risco relativo 1,5-2), proliferativa com atipia (risco relativo 4-5).</li><li>Mamografia: cistos redondos/ovóides, microcalcificações benignas (tipo bolha).</li><li>Manejo: sintomático (evitar cafeína, AINEs); aspiração de cistos dolorosos; biópsia se houver suspeita.</li><li>Não é necessário acompanhamento especial, exceto atipia (monitoramento a cada 6-12 meses).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Galactorreia e prolactinoma",
+      "title": "Galactorreia e prolactinoma",
+      "contentHtml": "<h2>Galactorreia e prolactinoma</h2><ul><li>Galactorreia: secreção de leite não puerperal; causas: <b>prolactinoma</b>, medicamentos (antipsicóticos, metoclopramida), hipotireoidismo, estimulação crônica.</li><li>Diagnóstico: níveis de <b>prolactina</b> >200 ng/mL sugerem prolactinoma; entre 20-200 ng/mL descarta outras causas.</li><li>Imagem: <b>RM da sela turca</b> com gadolínio para detectar microadenoma (<10 mm) ou macroadenoma (≥10 mm).</li><li>Tratamento de primeira linha: <b>cabergolina</b> 0,5-2 mg/semana (agonista dopaminérgico); reduz a prolactina e o tamanho do tumor. </li><li>Cirurgia transesfenoidal em caso de resistência/intolerância ou compressão quiasmática. </li></ul>"
+    }
+  ]
+}

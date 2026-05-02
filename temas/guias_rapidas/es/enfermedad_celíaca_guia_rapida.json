@@ -1,0 +1,77 @@
+{
+  "id": "enfermedad_celíaca",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Marsh-Oberhuber clasificación histológica",
+      "title": "Clasificación de Marsh-Oberhuber",
+      "contentHtml": "<h2>Clasificación de Marsh-Oberhuber</h2><ul><li><b>Marsh 0:</b> mucosa normal.</li><li><b>Marsh 1:</b> aumento de linfocitos intraepiteliales (>40/100 enterocitos) sin atrofia.</li><li><b>Marsh 2:</b> hiperplasia de criptas + linfocitosis intraepitelial.</li><li><b>Marsh 3</b> (subdividida en a, b, c): atrofia vellositaria parcial (3a), subtotal (3b) o total (3c).</li><li><b>Marsh 4:</b> hipoplasia vellositaria total (rara, asociada a linfoma refractario).</li><li>La clasificación es <b>diagnóstica</b> en pacientes con serología positiva y dieta con gluten; <b>Marsh 3</b> es el hallazgo clásico.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Anti-transglutaminasa IgA como screening",
+      "title": "Anti-transglutaminasa IgA (tTG-IgA)",
+      "contentHtml": "<h2>Anti-transglutaminasa IgA como screening</h2><ul><li>Primera línea de screening: <b>anticuerpos anti-transglutaminasa tisular IgA (tTG-IgA)</b>.</li><li>Sensibilidad >95% y especificidad ~98% en enfermedad celíaca activa.</li><li>Confirmación con <b>antiendomisio IgA (EMA)</b> si tTG-IgA es dudoso (especificidad ~100%).</li><li>En niños sintomáticos con tTG-IgA >10 veces el límite superior normal y EMA positivo, se puede obviar biopsia (criterios ESPGHAN).</li><li>Falsos positivos: cirrosis, insuficiencia cardíaca, psoriasis.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Asociación con HLA DQ2/DQ8",
+      "title": "HLA DQ2 y DQ8",
+      "contentHtml": "<h2>Asociación con HLA DQ2/DQ8</h2><ul><li>El 90-95% de los pacientes expresan <b>HLA-DQ2</b> (DQA1*05:01/DQB1*02:01); el resto expresa <b>HLA-DQ8</b> (DQA1*03/DQB1*03:02).</li><li>La ausencia de ambos alelos tiene un <b>valor predictivo negativo >99%</b> para descartar enfermedad celíaca.</li><li>No es diagnóstico por sí solo: ~30% de la población general porta DQ2/DQ8 sin desarrollar la enfermedad.</li><li>Útil en casos dudosos (serología negativa con sospecha clínica) y para descartar enfermedad en familiares de primer grado.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Dermatitis herpetiforme manifestación cutánea",
+      "title": "Dermatitis herpetiforme (DH)",
+      "contentHtml": "<h2>Dermatitis herpetiforme</h2><ul><li>Manifestación cutánea patognomónica de <b>enfermedad celíaca</b>.</li><li>Vesículas pruriginosas agrupadas en <b>codos, rodillas, nalgas y cuero cabelludo</b>.</li><li>Depósitos de <b>IgA granular</b> en dermis papilar (inmunofluorescencia directa) = gold standard diagnóstico.</li><li>Afecta duodeno en >80% de pacientes, aunque la mayoría no presenta síntomas digestivos.</li><li>Responde a <b>dieta libre de gluten</b>; puede requerir dapsona para control rápido del prurito.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Deficiencia de IgA causa falsos negativos",
+      "title": "Deficiencia de IgA y falsos negativos",
+      "contentHtml": "<h2>Deficiencia de IgA</h2><ul><li>La <b>deficiencia selectiva de IgA</b> (1:500) causa falsos negativos en tTG-IgA y EMA-IgA.</li><li>Precaución: medir <b>IgA total</b> simultáneamente al screening.</li><li>Si IgA total baja (<0.07 g/L en adultos), solicitar <b>tTG-IgG</b> o <b>DGP-IgG</b> (péptidos deaminados de gliadina IgG) como alternativa.</li><li>La deficiencia de IgA es más frecuente en celíacos que en población general.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Ataxia por gluten como neurológico",
+      "title": "Ataxia por gluten",
+      "contentHtml": "<h2>Ataxia por gluten</h2><ul><li>Trastorno neurológico inmunomediado asociado a <b>enfermedad celíaca</b>.</li><li>Clínica: <b>ataxia cerebelosa de inicio insidioso</b>, disartria, nistagmo, sin síntomas digestivos en >50%.</li><li>Diagnóstico: anticuerpos <b>anti-transglutaminasa 6 (TG6)</b> y/o anti-gliadina IgG; atrofia cerebelosa en RM.</li><li>Respuesta parcial a <b>dieta libre de gluten</b>; el daño puede ser irreversible si se instaura tarde.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Síndrome de malabsorción clásico",
+      "title": "Síndrome de malabsorción clásico",
+      "contentHtml": "<h2>Síndrome de malabsorción clásico</h2><ul><li>Triada: <b>diarrea crónica</b> (esteatorrea), <b>pérdida de peso</b> y <b>distensión abdominal</b>.</li><li>Estudios: <b>esteatorrea</b> en heces de 72 h (>7 g/día), <b>D-xilosa</b> baja (afecta mucosa proximal), <b>test de Schilling</b> alterado (malabsorción de B12 si afecta íleon).</li><li>Anemia por deficiencia de <b>hierro</b>, <b>folato</b> y <b>vitamina B12</b> (en orden de frecuencia).</li><li>Hipocalcemia, hipoalbuminemia, déficit de vitaminas liposolubles (A, D, E, K).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Dieta libre de gluten de por vida",
+      "title": "Dieta libre de gluten (DLG)",
+      "contentHtml": "<h2>Dieta libre de gluten de por vida</h2><ul><li>Único tratamiento efectivo: <b>dieta libre de gluten</b> estricta y de por vida.</li><li>Excluir <b>trigo, cebada, centeno</b> (y derivados); la avena pura no contaminada es tolerada por la mayoría.</li><li>Mejoría clínica en semanas; normalización serológica en 6-12 meses; recuperación histológica en 1-2 años.</li><li>No iniciar dieta antes de completar biopsia (riesgo de falsos negativos).</li><li>Suplementar: <b>hierro</b>, <b>calcio</b>, <b>vitamina D</b>, <b>ácido fólico</b> hasta corrección.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Linfoma intestinal complicación tardía",
+      "title": "Linfoma intestinal y complicaciones",
+      "contentHtml": "<h2>Linfoma intestinal complicación tardía</h2><ul><li>Principal complicación neoplásica: <b>linfoma de células T asociado a enteropatía (EATL)</b>.</li><li>Riesgo relativo aumentado 10-50 veces en celíacos no tratados o refractarios.</li><li>Presentación: dolor abdominal, obstrucción, perforación, masa en <b>yeyuno/íleon</b>.</li><li>Otras complicaciones: <b>enfermedad celíaca refractaria</b> (tipo I y II), <b>yeyunitis ulcerativa</b>, adenocarcinoma intestinal.</li><li>La <b>dieta libre de gluten</b> reduce significativamente el riesgo.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Afecta duodeno biopsia clave",
+      "title": "Biopsia duodenal",
+      "contentHtml": "<h2>Afecta duodeno biopsia clave</h2><ul><li>La lesión es <b>parcheada</b> y más severa en <b>duodeno distal</b> (bulbo duodenal incluido).</li><li>Se requieren al menos <b>4-6 biopsias</b> de duodeno distal y <b>1-2 del bulbo</b> para evitar falsos negativos.</li><li>Técnica: endoscopía alta con biopsia; la cápsula endoscópica es alternativa en casos dudosos.</li><li>La biopsia se realiza con el paciente consumiendo gluten (mínimo 10 g/día durante 6 semanas previas).</li><li>Hallazgo clave: <b>atrofia vellositaria</b> con hiperplasia de criptas y linfocitosis intraepitelial.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Anemia ferropénica refractaria",
+      "title": "Anemia ferropénica refractaria",
+      "contentHtml": "<h2>Anemia ferropénica refractaria</h2><ul><li>La <b>anemia ferropénica</b> es la manifestación hematológica más frecuente en enfermedad celíaca (hasta 50% de adultos).</li><li>Refractaria a tratamiento oral con hierro si no se instaura <b>dieta libre de gluten</b>.</li><li>Fisiopatología: malabsorción de hierro en duodeno por atrofia vellositaria.</li><li>DDx: sangrado gastrointestinal oculto, gastritis autoinmune, deficiencia de B12/folato.</li><li>En <b>anemia ferropénica sin causa aparente</b>, se recomienda screening con tTG-IgA.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Osteoporosis por malabsorción calcio",
+      "title": "Osteoporosis en enfermedad celíaca",
+      "contentHtml": "<h2>Osteoporosis por malabsorción calcio</h2><ul><li>Malabsorción de <b>calcio</b> y <b>vitamina D</b> secundaria a atrofia vellositaria y esteatorrea.</li><li>Hiperparatiroidismo secundario compensador que acelera pérdida ósea.</li><li>Densidad mineral ósea reducida en >50% de pacientes al diagnóstico.</li><li>Indicación: <b>densitometría ósea (DXA)</b> en todo celíaco adulto al diagnóstico.</li><li>Tratamiento: <b>dieta libre de gluten</b> + suplementos de <b>calcio</b> (1000-1200 mg/día) y <b>vitamina D</b> (800-2000 UI/día).</li></ul>"
+    }
+  ]
+}

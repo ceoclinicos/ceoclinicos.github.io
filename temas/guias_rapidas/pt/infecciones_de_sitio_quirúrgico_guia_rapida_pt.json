@@ -1,0 +1,77 @@
+{
+  "id": "infecções_de_local_cirúrgico",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Classificação das feridas cirúrgicas",
+      "title": "Classificação das feridas cirúrgicas",
+      "contentHtml": "<h2>Classificação de feridas cirúrgicas</h2><ul><li><b>Classe I (limpa):</b> sem contaminação, sem entrada no trato respiratório/digestivo/geniturinário; taxa de infecção <b><2%</b>.</li><li><b>Classe II (contaminada limpa):</b> entrada controlada no trato respiratório/digestivo/geniturinário; taxa <b><10%</b>.</li><li><b>Classe III (contaminada):</b> derrame significativo, inflamação aguda não purulenta ou ferida traumática recente; taxa <b>15-20%</b>.</li><li><b>Classe IV (suja/infectada):</b> pus, perfuração visceral, ferida traumática com tecido desvitalizado; taxa <b>>30%</b>.</li><li><b>Armadilha:</b> uma ferida com pus já é Classe IV, não Classe III.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Fatores de risco pré-operatórios",
+      "title": "Fatores de risco pré-operatórios",
+      "contentHtml": "<h2>Fatores de risco pré-operatórios</h2><ul><li><b>Idade >65 anos:</b> imunossenescência e comorbidades.</li><li><b>Diabetes mellitus:</b> HbA1c pré-operatória >7% dobra o risco de infecção do sítio cirúrgico (ISC).</li><li><b>Obesidade (IMC >30):</b> hipoperfusão tecidual e maior tensão na ferida.</li><li><b>Ativo tabagismo:</b> vasoconstrição e hipóxia; suspender ≥4 semanas antes.</li><li><b>Hipoalbuminemia (<3,5 g/dL):</b> marcador de desnutrição e pior cura.</li><li><b>Imunossupressão (corticosteróides, quimioterapia):</b> aumenta o risco de infecção oportunista.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Profilaxia antibiótica adequada",
+      "title": "Profilaxia antibiótica adequada",
+      "contentHtml": "<h2>Profilaxia antibiótica adequada</h2><ul><li>Indicada em feridas <b>Classe II, III e IV</b> e em <b>Classe I</b> se houver implante protético, cirurgia cardíaca, neurocirurgia ou imunossupressão.</li><li>Escolha: <b>Cefazolina 2 g IV</b> (1 g se peso <80 kg) para a maioria das cirurgias; em pessoas alérgicas a betalactâmicos: <b>clindamicina 600 mg</b> ou <b>vancomicina 15 mg/kg</b>. </li><li>Na cirurgia colorretal: <b>cefazolina + metronidazol 500 mg</b> ou <b>ertapenem 1 g</b>.</li><li>Duração: <b>dose única pré-operatória</b>; Não prolongar mais de 24 horas (exceto cirurgia cardíaca com bypass, até 48 horas). </li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Momento ideal de profilaxia",
+      "title": "Momento ideal de profilaxia",
+      "contentHtml": "<h2>Momento ideal de profilaxia</h2><ul><li>Administrar <b>60 minutos antes da incisão</b> (120 minutos para vancomicina e fluoroquinolonas por infusão lenta).</li><li>O pico sérico deve coincidir com o momento da incisão; <b>ideal: 30-45 minutos antes</b>.</li><li>Se a cirurgia exceder <b>2 meias-vidas</b> do antibiótico (por exemplo, cefazolina a cada 4 horas), repetir a dose intraoperatória.</li><li><b>Armadilha:</b> administrar profilaxia >2 horas antes da incisão está associada a uma taxa mais alta de ISC (equivalente a não administrar profilaxia).</li><li>Na cesariana seção: administrar antibiótico <b>30-60 minutos antes da incisão</b>, não após o clampeamento do cordão umbilical.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Critérios de infecção superficial",
+      "title": "Critérios de infecção superficial",
+      "contentHtml": "<h2>Critérios de infecção superficial</h2><ul><li>Afeta apenas <b>pele e tecido celular subcutâneo</b>, dentro de <b>30 dias de pós-operatório</b>.</li><li>Deve atender a pelo menos um dos seguintes: <b>drenagem purulenta</b> da incisão; cultura positiva de fluidos ou tecidos; sinais de inflamação (dor, edema, eritema, calor) e o cirurgião <b>abre a ferida</b> intencionalmente (exceto se a cultura for negativa).</li><li>Não inclui abscesso de sutura ou celulite sem pus.</li><li><b>Armadilha:</b> se houver <b>infecção superficial e profunda</b> na mesma ferida, é classificada como infecção profunda.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Critérios de infecção profunda",
+      "title": "Critérios de infecção profunda",
+      "contentHtml": "<h2>Critérios para infecção profunda</h2><ul><li>Afecta <b>fáscia e músculo</b>, dentro de <b>30 dias</b> (ou até 1 ano se houver implante) de pós-operatório.</li><li>Critérios: <b>drenagem purulenta</b> da fáscia; deiscência espontânea ou abertura cirúrgica da ferida com cultura positiva; abscesso profundo; febre ou dor local mais achados de imagem (TC: coleção com realce de bordas). </li><li>Requer <b>drenagem cirúrgica</b> e antibióticos direcionados.</li><li><b>Armadilha:</b> se a infecção envolve fáscia, é profunda, embora pareça superficial; não deve ser confundido com seroma infectado. </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Infecção de órgão ou espaço",
+      "title": "Infecção de órgão ou espaço",
+      "contentHtml": "<h2>Infecção de órgão ou espaço</h2><ul><li>Afeta qualquer estrutura <b>profunda na fáscia</b> (órgão, cavidade, espaço) que foi aberta ou manipulada durante a cirurgia.</li><li>Exemplos: <b>mediastinite</b> pós-esternotomia, <b>abscesso intra-abdominal</b> pós-colectomia, <b>empiema</b> pós-toracotomia.</li><li>Critérios: drenagem purulenta proveniente de drenagem colocada no órgão/espaço; cultura positiva de fluidos/tecidos do local; abscesso ou outra evidência de infecção em <b>imagem (TC/RM) ou reintervenção</b>.</li><li><b>Armadilha:</b> uma infecção de órgão/espaço não requer que a ferida superficial esteja infectada; Pode haver febre sem sinais cutâneos. </li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Staphylococcus aureus como um patógeno comum",
+      "title": "Staphylococcus aureus como um patógeno comum",
+      "contentHtml": "<h2>Staphylococcus aureus como patógeno comum</h2><ul><li><b>Staphylococcus aureus</b> é o agente mais comum em ISC (20-30%), seguido por <i>E. coli</i> e <i>Enterococcus</i>. </li><li>Na cirurgia limpa <b>S predomina. aureus</b> (a colonização nasal é um fator de risco independente).</li><li><b>MRSA (Staphylococcus aureus resistente à meticilina)</b>: considerar em pacientes com internação prévia, hemodiálise, portadores conhecidos ou cirurgia com implante protético; usar <b>vancomicina</b> ou <b>daptomicina</b>.</li><li>A produção de <b>biofilme</b> nos implantes dificulta a erradicação; requer a remoção do dispositivo.</li><li><b>Gato:</b> não use cefalosporinas de primeira geração se houver suspeita de MRSA.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Uso de drenos e sua gestão",
+      "title": "Uso de drenos e sua gestão",
+      "contentHtml": "<h2>Uso de drenos e seu manejo</h2><ul><li>Drenos fechados por sucção</b> (Jackson-Pratt, Blake) reduzem o acúmulo de líquidos, mas não previnem ISC; eles podem ser uma via de entrada para infecções se não forem tratados assepticamente. </li><li>Indicações: cirurgia com espaço morto, hemostasia subótima, vazamento anastomótico esperado. </li><li>Remover o mais rápido possível: <b>em <24-48 horas</b> se houver alta <30 mL/dia e sem vazamento; não mantenha >7 dias, a menos que seja especificamente indicado. </li><li><b>Armadilha:</b> drenos abertos (Penrose) aumentam o risco de infecção ascendente; prefira sistemas fechados. </li><li>Não utilizar antibióticos profiláticos apenas devido à presença de drenagem; A indicação é cirurgia e não drenagem. </li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Manejo com abertura de feridas",
+      "title": "Manejo com abertura de feridas",
+      "contentHtml": "<h2>Tratamento com abertura da ferida</h2><ul><li>Se houver suspeita de ISC superficial, abra a ferida (remova pontos/grampos) para <b>drenagem e desbridamento</b> se houver pus ou tecido necrótico.</li><li>Faça <b>cultura de tecido profundo</b> (não apenas esfregaço superficial) e envie para aeróbios/anaeróbios.</li><li>Iniciar <b>antibioterapia empírica</b> orientada na flora cutânea e no sítio cirúrgico; ajustar de acordo com o antibiograma.</li><li>Ferida aberta: manejo com <b>cicatrização úmida</b> (curativos com solução salina, alginatos ou hidrocolóides) e fechamento por segunda intenção ou fechamento retardado quando o leito está limpo.</li><li><b>Armadilha:</b> não fechar primariamente uma ferida infectada; Espere até que não haja sinais de infecção e uma cultura negativa.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Cultura e antibiograma dirigido",
+      "title": "Cultura e antibiograma dirigido",
+      "contentHtml": "<h2>Cultura e antibiograma direcionado</h2><ul><li>Coleta de amostra: <b>aspiração profunda de tecido ou pus</b> (evitar swab superficial devido à contaminação com flora comensal).</li><li>Enviar para cultura <b>aeróbica e anaeróbica</b>; se houver suspeita de micobactérias ou fungos, solicite especificamente. </li><li>Antibiograma: permite <b>desescalar</b> a terapia empírica; se você isolar<b>S. aureus sensível à meticilina</b>, usar cefazolina em vez de vancomicina. </li><li>Em infecções polimicrobianas (cirurgia abdominal), abranger gram-negativos e anaeróbios; ajustar de acordo com a resistência local.</li><li><b>Armadilha:</b> cultura negativa não descarta infecção se o paciente recebeu antibióticos anteriormente; repita se os sinais persistirem.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Medidas de prevenção intraoperatória",
+      "title": "Medidas de prevenção intraoperatória",
+      "contentHtml": "<h2>Medidas de prevenção intraoperatórias</h2><ul><li><b>Preparação da pele:</b> antissepsia com <b>clorexidina alcoólica a 2%</b> (superior à iodopovidona na redução de ISC).</li><li><b>Normotermia:</b> manter a temperatura corporal ≥36°C (a hipotermia causa vasoconstrição e hipóxia tecidual).</li><li><b>Oxigenação:</b> FiO2 em 80% durante a cirurgia e 2 horas de pós-operatório (em pacientes com função pulmonar normal).</li><li><b>Controle glicêmico:</b> manter glicose <b><180 mg/dL</b> intraoperatório e pós-operatório imediato.</li><li><b>Técnica asséptica:</b> luva dupla, campos estéreis, limitar o tráfego na sala de cirurgia.</li><li><b>Armadilha:</b> barbear-se com navalha aumenta microabrasões; use um <b>cortador elétrico</b> ou não faça a barba.</li></ul>"
+    }
+  ]
+}

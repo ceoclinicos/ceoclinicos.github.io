@@ -1,0 +1,77 @@
+{
+  "id": "quemaduras",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Clasificación por profundidad (1°, 2° superficial/profunda, 3°)",
+      "title": "Profundidad de quemadura",
+      "contentHtml": "<h2>Clasificación por profundidad</h2><ul><li><b>1° grado:</b> afecta solo epidermis; eritema, dolor, sin flictenas; cura en <b>3-5 días</b> sin cicatriz.</li><li><b>2° superficial:</b> epidermis y dermis papilar; flictenas, base rosada húmeda, muy doloroso; reepiteliza en <b>10-14 días</b>.</li><li><b>2° profunda:</b> dermis reticular; flictenas rotas, base rojo pálido o moteada, hipoalgesia; requiere <b>>21 días</b> o escisión.</li><li><b>3° grado:</b> espesor total (epidermis, dermis, anexos); aspecto acartonado, blanco o carbonizado, indoloro; no cicatriza espontáneamente.</li><li><b>4° grado:</b> compromete fascia, músculo y hueso; siempre requiere desbridamiento quirúrgico.</li></ul><p><b>Trampa examen:</b> la <b>2° superficial</b> duele; la <b>2° profunda</b> duele menos. La presencia de flictenas no distingue entre superficial y profunda.</p>"
+    },
+    {
+      "order": 2,
+      "foco": "Regla del 9 para superficie corporal quemada",
+      "title": "Regla del 9",
+      "contentHtml": "<h2>Regla del 9 (adulto)</h2><ul><li>Cabeza y cuello: <b>9%</b>.</li><li>Tronco anterior: <b>18%</b>; tronco posterior: <b>18%</b>.</li><li>Miembro superior derecho: <b>9%</b>; izquierdo: <b>9%</b>.</li><li>Miembro inferior derecho: <b>18%</b>; izquierdo: <b>18%</b>.</li><li>Periné: <b>1%</b>.</li></ul><p><b>Modificaciones:</b> en niños, cabeza <b>18%</b> y cada pierna <b>13.5%</b>. La palma de la mano del paciente (sin dedos) equivale a <b>0.5%</b> y con dedos a <b>1%</b> (útil para áreas irregulares).</p><p><b>Trampa:</b> no sumar las quemaduras de 1° grado en el cálculo de superficie corporal quemada (SCQ); solo 2° y 3°.</p>"
+    },
+    {
+      "order": 3,
+      "foco": "Fórmula de Parkland para reposición hídrica",
+      "title": "Fórmula de Parkland",
+      "contentHtml": "<h2>Fórmula de Parkland</h2><p><b>Indicación:</b> quemaduras de 2° y 3° grado con SCQ >20% en adultos y >10% en niños. <b>Fórmula:</b> <b>4 mL/kg/%SCQ</b> de Ringer lactato en las primeras <b>24 horas</b> desde la hora de la quemadura (no desde el ingreso).</p><ul><li>Primera mitad en las primeras <b>8 horas</b>.</li><li>Segunda mitad en las siguientes <b>16 horas</b>.</li><li>En niños, agregar <b>mantenimiento con dextrosa al 5%</b> en Ringer lactato.</li></ul><p><b>Trampa:</b> la fórmula es solo guía; ajustar según diuresis horaria (<b>0.5-1 mL/kg/h</b> en adultos, <b>1-1.5 mL/kg/h</b> en niños). No usar coloides en primeras 24 h (excepto en quemaduras >40% o shock refractario).</p>"
+    },
+    {
+      "order": 4,
+      "foco": "Manejo inicial: ABCDE y vía aérea",
+      "title": "ABCDE en quemaduras",
+      "contentHtml": "<h2>Manejo inicial ABCDE</h2><ul><li><b>A (vía aérea):</b> evaluar estridor, ronquera, tos con carbonáceos, quemaduras faciales; intubación precoz si sospecha de <b>quemadura inhalatoria</b> o edema progresivo.</li><li><b>B (respiración):</b> administrar <b>O2 al 100%</b> si hay inhalación; monitorizar CO2 espirado.</li><li><b>C (circulación):</b> dos accesos venosos periféricos (evitar zonas quemadas si posible); iniciar reposición con <b>Ringer lactato</b> según Parkland.</li><li><b>D (discapacidad):</b> evaluar Glasgow; sospechar intoxicación por monóxido de carbono o cianuro.</li><li><b>E (exposición):</b> retirar ropa, evaluar SCQ, cubrir con sábanas estériles; mantener temperatura.</li></ul><p><b>Trampa:</b> no retrasar intubación esperando confirmación; el edema de vía aérea puede hacerla imposible en minutos.</p>"
+    },
+    {
+      "order": 5,
+      "foco": "Escala de gravedad y criterios de referencia",
+      "title": "Gravedad y referencia",
+      "contentHtml": "<h2>Escala de gravedad (American Burn Association)</h2><ul><li><b>Leve:</b> <b>2° <10%</b> en adulto o <b><5%</b> en niño; 3° <2%.</li><li><b>Moderada:</b> <b>2° 10-20%</b> en adulto o <b>5-10%</b> en niño; 3° <10%.</li><li><b>Grave:</b> <b>2° >20%</b> en adulto o <b>>10%</b> en niño; 3° >10%; quemaduras de manos, pies, cara, periné, articulaciones; eléctrica; inhalatoria; politrauma; extremos de edad.</li></ul><p><b>Criterios de referencia a unidad de quemados:</b> quemaduras de espesor total >10% SCQ, 2° y 3° en áreas especiales, eléctricas, químicas, inhalatoria, comorbilidades significativas, niños.</p>"
+    },
+    {
+      "order": 6,
+      "foco": "Quemadura eléctrica: riesgo de arritmias y rabdomiólisis",
+      "title": "Quemadura eléctrica",
+      "contentHtml": "<h2>Quemadura eléctrica</h2><p><b>Riesgo principal:</b> lesión oculta en músculo profundo, arritmias cardíacas y <b>rabdomiólisis</b>. <b>Mecanismo:</b> daño por calor, electroporación y necrosis tisular.</p><ul><li>Evaluar <b>ECG</b> al ingreso: buscar <b>fibrilación ventricular</b>, taquiarritmias, bloqueos.</li><li>Monitorización cardíaca por <b>24 horas</b> si hubo pérdida de conciencia o arritmia inicial.</li><li>Medir <b>CK total</b> y <b>mioglobinuria</b>; mantener diuresis >1 mL/kg/h con Ringer lactato y <b>bicarbonato de sodio</b> si pH <7.2.</li><li><b>Escarotomía/fasciotomía</b> precoz por síndrome compartimental.</li></ul><p><b>Trampa:</b> la lesión externa no se correlaciona con la interna; puede haber necrosis muscular extensa con piel intacta.</p>"
+    },
+    {
+      "order": 7,
+      "foco": "Quemadura química: irrigación copiosa y neutralización",
+      "title": "Quemadura química",
+      "contentHtml": "<h2>Quemadura química</h2><p><b>Primera medida:</b> irrigación copiosa con agua o solución salina durante <b>20-30 minutos</b> (al menos <b>10 litros</b>). Retirar ropa contaminada y polvo seco antes de irrigar.</p><ul><li><b>NO neutralizar</b> con ácidos o bases; la reacción exotérmica empeora la lesión.</li><li>Excepciones: <b>fenol</b> (irrigar con polietilenglicol), <b>ácido fluorhídrico</b> (aplicar gluconato de calcio tópico o intralesional) y <b>fósforo blanco</b> (cubrir con sulfato de cobre para identificar partículas).</li><li>Quemaduras oculares: irrigación continua con solución de Ringer o agua, y referir a oftalmología urgente.</li></ul><p><b>Trampa:</b> no usar neutralizantes; la irrigación es el pilar del tratamiento.</p>"
+    },
+    {
+      "order": 8,
+      "foco": "Quemadura inhalatoria: diagnóstico por broncoscopia y carboxihemoglobina",
+      "title": "Quemadura inhalatoria",
+      "contentHtml": "<h2>Quemadura inhalatoria</h2><p><b>Diagnóstico:</b> sospecha clínica (confinamiento, pérdida de conciencia, esputo carbonáceo, estridor). <b>Gold standard:</b> <b>broncoscopia</b> (edema, eritema, carbonáceos, necrosis). <b>Carboxihemoglobina (COHb)</b> >10% confirma exposición a monóxido de carbono.</p><ul><li>Tratamiento: <b>O2 al 100%</b> hasta que COHb <5% o <10% en no fumadores.</li><li>Considerar <b>cámara hiperbárica</b> si COHb >25%, pérdida de conciencia, acidosis metabólica o embarazo.</li><li>Intubación precoz si edema de glotis o compromiso ventilatorio.</li></ul><p><b>Trampa:</b> la SaO2 por pulsioximetría puede ser normal (la COHb se mide con cooximetría).</p>"
+    },
+    {
+      "order": 9,
+      "foco": "Indicaciones de escarotomía y fasciotomía",
+      "title": "Escarotomía y fasciotomía",
+      "contentHtml": "<h2>Indicaciones de escarotomía y fasciotomía</h2><p><b>Escarotomía:</b> quemaduras circunferenciales de 3° grado en tórax (restricción ventilatoria) o extremidades (síndrome compartimental). Se realiza a nivel de la escara, sin anestesia general (la escara es insensible).</p><ul><li><b>Fasciotomía:</b> en quemaduras eléctricas o por compresión, cuando hay compromiso muscular y presión intracompartimental >30 mmHg.</li><li>Signos de síndrome compartimental: dolor desproporcionado, parestesias, paresia, pulso distal ausente (tardío).</li><li>Técnica: incisiones longitudinales en línea media de extremidad, liberando escara y fascia.</li></ul><p><b>Trampa:</b> la ausencia de pulso es un signo tardío; no esperar a que desaparezca para intervenir.</p>"
+    },
+    {
+      "order": 10,
+      "foco": "Prevención de infección: sulfadiazina de plata y mupirocina",
+      "title": "Prevención de infección",
+      "contentHtml": "<h2>Prevención de infección tópica</h2><ul><li><b>Sulfadiazina de plata al 1%</b> (crema): primera línea en quemaduras de 2° y 3°; cubre Gram+ y Gram-; aplicar una capa de 2 mm cada 12-24 h. Contraindicada en <b>embarazo</b> y <b>recién nacidos</b> (riesgo de kernicterus).</li><li><b>Mupirocina</b> (pomada): indicada para quemaduras faciales y áreas con <i>S. aureus</i> resistente; no usar en grandes superficies por nefrotoxicidad potencial.</li><li>Alternativas: <b>acetato de mafenida</b> (penetra escara, útil en cartílago; doloroso y acidosis metabólica) y <b>nitrato de plata al 0.5%</b> (solución, menos penetración).</li></ul><p><b>Trampa:</b> no usar <b>sulfadiazina de plata</b> en quemaduras profundas con exposición tendinosa u ósea (retarda epitelización).</p>"
+    },
+    {
+      "order": 11,
+      "foco": "Criterios de ingreso a unidad de quemados",
+      "title": "Ingreso a unidad de quemados",
+      "contentHtml": "<h2>Criterios de ingreso a unidad de quemados (ABA)</h2><ul><li>Quemaduras de 2° grado >10% SCQ en <b>pacientes <10 años o >50 años</b>.</li><li>Quemaduras de 2° grado >20% SCQ en otros adultos.</li><li>Quemaduras de 3° grado >5% SCQ en cualquier edad.</li><li>Quemaduras en <b>cara, manos, pies, periné, genitales, articulaciones mayores</b>.</li><li>Quemaduras <b>eléctricas</b> (incluyendo rayo).</li><li>Quemaduras <b>químicas</b> con riesgo sistémico.</li><li><b>Quemadura inhalatoria</b> asociada.</li><li>Pacientes con <b>comorbilidades</b> (diabetes, cardiopatía, inmunosupresión) o <b>politrauma</b>.</li></ul><p><b>Trampa:</b> la quemadura de <b>periné</b> siempre es criterio de ingreso a unidad de quemados, independientemente del SCQ.</p>"
+    },
+    {
+      "order": 12,
+      "foco": "Complicaciones sistémicas: sepsis, falla renal y respuesta hipermetabólica",
+      "title": "Complicaciones sistémicas",
+      "contentHtml": "<h2>Complicaciones sistémicas</h2><ul><li><b>Sepsis:</b> principal causa de muerte tardía. Criterios: temperatura >39°C o <36.5°C, taquicardia, taquipnea, leucocitosis/leucopenia, hipotensión. Cultivos de escara y hemocultivos. Tratamiento antibiótico empírico con cobertura <b>Gram+ y Gram-</b> (piperacilina-tazobactam + vancomicina).</li><li><b>Falla renal aguda:</b> por hipovolemia, rabdomiólisis o sepsis. Prevención con adecuada reposición hídrica y mantener diuresis. <b>Diálisis</b> si refractaria.</li><li><b>Respuesta hipermetabólica:</b> aumento de gasto energético hasta <b>2 veces</b> lo basal; requiere soporte nutricional enteral precoz (alta proteína), control glucémico estricto (<b>glucosa <180 mg/dL</b>) y evitar hipotermia.</li></ul><p><b>Trampa:</b> la hiperglucemia aumenta el riesgo de infección y fracaso del injerto.</p>"
+    }
+  ]
+}

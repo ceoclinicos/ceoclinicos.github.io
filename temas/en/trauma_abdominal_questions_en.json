@@ -1,1332 +1,1370 @@
 {
   "questions": [
     {
-      "question": "What is the definition of abdominal trauma?",
+      "question": "What is the main criterion in the classification of open abdominal trauma?",
       "options": [
-        "Any injury to the abdominal wall",
-        "Perforation of abdominal skin without organ damage",
-        "Injury affecting the abdominal cavity and its contents",
-        "Direct blow to the abdomen without internal damage"
+        "Injury mechanism",
+        "hemodynamic status",
+        "Evolution time",
+        "Peritoneal involvement"
       ],
-      "correctAnswer": 3,
-      "explanation": "Abdominal trauma is defined as any injury that affects the abdominal cavity, including its organs, and the pelvis.",
+      "correctAnswer": 4,
+      "explanation": "Open abdominal trauma is classified according to whether or not there is peritoneal involvement, as this determines the risk of visceral injury and the need for exploratory laparotomy.",
       "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
+        "general_surgery",
+        "abdominal_trauma_classification",
         "concept",
-        "definition",
-        "PATHOLOGY",
-        ""
+        "open_trauma",
+        "MEDICAL_TOPIC",
+        "Schwartz Principles of Surgery 11ed"
       ]
     },
     {
-      "question": "How is abdominal trauma primarily classified?",
+      "question": "How is blunt abdominal trauma classified according to the anatomical area affected?",
       "options": [
-        "Acute and chronic",
-        "Penetrating and open",
-        "Closed (blunt) and penetrating",
-        "open and closed"
+        "Anterior, posterior and lateral",
+        "Hepatic, splenic and renal",
+        "Thoracic, pelvic and lumbar",
+        "Intraperitoneal and retroperitoneal"
       ],
-      "correctAnswer": 3,
-      "explanation": "Abdominal trauma is basically classified into two types: closed trauma (blunt), without breaking the skin, and penetrating trauma, which involves perforation of the abdominal wall.",
+      "correctAnswer": 4,
+      "explanation": "Blunt abdominal trauma is divided into intraperitoneal injuries (hollow and solid viscera) and retroperitoneal injuries (pancreas, duodenum, kidneys), guiding the diagnostic and therapeutic approach.",
       "hashtags": [
-        "internal_medicine",
+        "general_surgery",
+        "abdominal_trauma_classification",
+        "concept",
+        "closed_trauma",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "What type of abdominal trauma requires urgent laparotomy according to its classification?",
+      "options": [
+        "Open trauma with evisceration",
+        "Blunt trauma without peritoneal signs",
+        "Blunt trauma with retroperitoneal hematoma",
+        "Open trauma without peritoneal involvement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Evisceration in open abdominal trauma indicates peritoneal involvement and visceral injury, which is why it is classified as an indication for urgent laparotomy regardless of hemodynamic status.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma_classification",
+        "treatment",
+        "laparotomy_indication",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "What is the most used classification for liver trauma in surgery?",
+      "options": [
+        "AAST Classification",
+        "Child-Pugh classification",
+        "Clavien-Dindo classification",
+        "Bismuth classification"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The American Association for the Surgery of Trauma (AAST) classification grades liver injuries according to anatomic extension, hematoma and laceration, guiding surgical or conservative management.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma_classification",
+        "concept",
+        "liver_trauma",
+        "MEDICAL_TOPIC",
+        "AAST Injury Scale"
+      ]
+    },
+    {
+      "question": "Which finding classifies abdominal trauma as penetrating?",
+      "options": [
+        "Wound that passes through peritoneum",
+        "diffuse abdominal pain",
+        "Contusion without external wound",
+        "Associated pelvic fracture"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Penetrating abdominal trauma is defined by a wound that passes through the abdominal wall and compromises the peritoneal cavity, which increases the risk of injury to internal organs.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma_classification",
+        "concept",
+        "penetrating_trauma",
+        "MEDICAL_TOPIC",
+        "Schwartz Principles of Surgery 11ed"
+      ]
+    },
+    {
+      "question": "What criteria classifies abdominal trauma as high-energy blunt trauma?",
+      "options": [
+        "Fall from own height",
+        "High speed vehicle accident",
+        "Superficial stab wound",
+        "Minor blunt force trauma"
+      ],
+      "correctAnswer": 2,
+      "explanation": "High-energy blunt trauma, such as high-speed car accidents, produces deceleration and compression mechanisms that cause severe visceral and vascular injuries, classifying them as higher risk.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma_classification",
+        "etiology",
+        "high_energy",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "What is the main difference between penetrating and blunt abdominal trauma?",
+      "options": [
+        "Always requires urgent laparotomy",
+        "Has an open wound on the wall",
+        "Affects only solid organs",
+        "Causes exclusively liver lesions"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Penetrating abdominal trauma is characterized by an open wound that passes through the abdominal wall, while blunt trauma does not present a break in the skin.",
+      "hashtags": [
+        "emergency_medicine",
         "abdominal_trauma",
         "concept",
         "injury_mechanism",
-        "PATHOLOGY",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What characterizes blunt abdominal trauma?",
+      "question": "Which organ is most frequently injured in blunt abdominal trauma?",
       "options": [
-        "Stab wound",
-        "Direct injury to visceral organs",
-        "Presence of projectiles",
-        "Occurs without skin breakdown"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Closed, or blunt, abdominal trauma occurs when external forces impact the abdomen without penetrating the skin, potentially causing damage to internal organs.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "closed_trauma",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What mechanism is NOT commonly associated with blunt abdominal trauma?",
-      "options": [
-        "Vehicle collisions",
-        "Falls",
-        "Punching",
-        "Gunshot wounds"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Gunshot wounds involve penetration of the abdominal wall, being classified as penetrating, non-blunt trauma.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "etiology",
-        "closed_trauma",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What characterizes penetrating abdominal trauma?",
-      "options": [
-        "Impact from blunt objects",
-        "Abdominal wall perforation",
-        "Direct blow without visible wound",
-        "Sudden deceleration"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Penetrating abdominal trauma is defined by the entry of an object through the abdominal wall, creating an injury and possible damage to internal structures.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "penetrating_trauma",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which of the following is an example of penetrating abdominal trauma?",
-      "options": [
-        "Stab wound",
-        "Hit with a blunt object",
-        "fall from height",
-        "Seat belt injury"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A stab wound involves the perforation of the skin and abdominal tissues by a sharp object, being classified as penetrating trauma.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "etiology",
-        "penetrating_trauma",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a major risk associated with abdominal trauma?",
-      "options": [
-        "Isolated long bone fractures",
-        "Lower urinary tract infection",
-        "mild hypoglycemia",
-        "Massive hemorrhage and peritonitis"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Abdominal trauma can cause severe internal bleeding and peritonitis due to injury to vital organs, both high-mortality conditions.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "complications",
-        "risks",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which organ is NOT typically found in the abdominal cavity?",
-      "options": [
+        "Bladder",
         "Pancreas",
-        "Kidney",
-        "Heart",
-        "Liver"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The heart is located in the thoracic cavity, while the liver, pancreas and kidneys are abdominal or retroperitoneal organs.",
-      "hashtags": [
-        "anatomy",
-        "abdominal_trauma",
-        "clinical_anatomy",
-        "abdominal_organs",
-        "ANATOMY",
-        ""
-      ]
-    },
-    {
-      "question": "Which of the following organs is a vulnerable solid organ in blunt abdominal trauma?",
-      "options": [
-        "Spleen",
-        "Stomach",
-        "urinary bladder",
-        "Small intestine"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The spleen is a large, friable solid organ in the left upper quadrant, very susceptible to lacerations or ruptures in blunt trauma.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "pathophysiology",
-        "solid_organs",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which of the following is a hollow organ that can be punctured in abdominal trauma?",
-      "options": [
-        "Kidney",
-        "Liver",
-        "Spleen",
-        "Large intestine"
+        "Colon",
+        "Spleen"
       ],
       "correctAnswer": 4,
-      "explanation": "The large intestine, being a hollow organ, can be lacerated or perforated by blunt forces or penetrating objects, releasing intestinal contents.",
+      "explanation": "The spleen is the most commonly injured organ in blunt abdominal trauma due to its vascularity and vulnerable location in the left hypochondrium.",
       "hashtags": [
-        "internal_medicine",
+        "emergency_medicine",
         "abdominal_trauma",
-        "pathophysiology",
-        "hollow_organs",
-        "PATHOLOGY",
+        "clinical_table",
+        "organ_most_affected",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What causes sudden deceleration in blunt trauma?",
+      "question": "What is the most common mechanism of injury in penetrating abdominal trauma?",
       "options": [
-        "Rib fracture",
-        "intestinal perforation",
-        "direct compression",
-        "Structure shear"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Sudden deceleration, common in traffic accidents, can cause shear forces that dislodge organs or rupture mesenteries and vessels.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "pathophysiology",
-        "deceleration_mechanism",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What typically happens after perforation of hollow viscera in abdominal trauma?",
-      "options": [
-        "mild hypothermia",
-        "Peritonitis",
-        "retroperitoneal hematoma",
-        "Pneumothorax"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Perforation of hollow organs releases gastrointestinal contents and bacteria into the peritoneal cavity, triggering chemical and bacterial peritonitis.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "pathophysiology",
-        "peritonitis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main cause of death in blunt abdominal trauma?",
-      "options": [
-        "Pneumonia",
-        "internal bleeding",
-        "Urinary tract infection",
-        "Acute kidney failure"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Massive internal bleeding, secondary to lacerations of solid organs or large vessels, is the most common cause of mortality in blunt abdominal trauma.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "pathophysiology",
-        "internal_hemorrhage",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What effect does kinetic energy have on gunshot wounds?",
-      "options": [
-        "Temporary and permanent cavitation",
-        "Minimal distance injury",
-        "Limited tissue heating",
-        "Linear damage only"
-      ],
-      "correctAnswer": 1,
-      "explanation": "High-velocity projectiles transfer kinetic energy, creating a temporary and permanent cavity much larger than the diameter of the projectile, causing widespread damage.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "pathophysiology",
-        "fire_weapon",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most common cause of blunt abdominal trauma in many countries?",
-      "options": [
-        "Physical attacks",
-        "Accidental falls",
-        "traffic accidents",
-        "contact sports"
+        "Height drop",
+        "direct punch with fist",
+        "Stab wound",
+        "vehicle accident"
       ],
       "correctAnswer": 3,
-      "explanation": "Traffic accidents, including vehicular collisions and run-overs, are the predominant cause of blunt abdominal trauma worldwide.",
+      "explanation": "Stab wounds are the most common mechanism of penetrating abdominal trauma, followed by gunshot wounds in urban contexts.",
       "hashtags": [
-        "internal_medicine",
+        "emergency_medicine",
         "abdominal_trauma",
-        "epidemiology",
-        "traffic_accidents",
-        "PATHOLOGY",
+        "etiology",
+        "white_weapon",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What age group is most commonly affected by abdominal trauma?",
+      "question": "In blunt abdominal trauma, which finding suggests hollow organ injury?",
       "options": [
-        "late adolescents",
-        "Seniors",
-        "small children",
-        "Young and middle-aged adults"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Abdominal trauma predominantly affects young and middle-aged adults, typically between the ages of 15 and 45, due to their greater involvement in risky activities.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "epidemiology",
-        "demography",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Do gunshot wounds usually cause more damage than stab wounds due to?",
-      "options": [
-        "Greater energy transferred and cavitation",
-        "Straighter and more predictable trajectories",
-        "Less penetration depth",
-        "Absence of bacterial contamination"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Firearms transfer more kinetic energy, causing a cavitation effect that damages tissues at a distance from the direct path of the projectile.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "pathophysiology",
-        "fire_weapon",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Can alcohol or drug use affect the evaluation of abdominal trauma?",
-      "options": [
-        "Reduce internal bleeding",
-        "Mask symptoms and increase risk",
-        "Improve pain tolerance",
-        "Facilitate coagulation"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Alcohol and drugs can alter the state of consciousness, mask pain and symptoms, and reduce risk perception, complicating the evaluation.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "clinical_evaluation",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "The most common symptom in abdominal trauma is?",
-      "options": [
-        "abdominal pain",
-        "Jaundice",
-        "Diarrhea",
-        "Fever"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Abdominal pain is the most frequent and prominent symptom reported by patients with abdominal trauma, although its severity can vary.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "abdominal_pain",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What does pain radiating to the shoulders suggest in a patient with abdominal trauma?",
-      "options": [
-        "Right kidney injury",
-        "Diaphragmatic irritation",
-        "Gastric perforation",
-        "Localized liver injury"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Irritation of the diaphragm by blood or gastrointestinal contents in the abdominal cavity can refer pain to the shoulders (inverted Kehr sign).",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "radiated_pain",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Can abdominal distension in trauma indicate?",
-      "options": [
-        "Accumulation of blood or gastrointestinal contents",
-        "Reduction of peristalsis",
-        "High blood pressure",
-        "Severe dehydration"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Distension may be due to hemoperitoneum (blood), pneumoperitoneum (air), or spillage of intestinal contents (perforation), all causes of increased intra-abdominal volume.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "abdominal_strain",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a sign of hypovolemic shock in abdominal trauma?",
-      "options": [
-        "Bradycardia",
-        "Oliguria",
-        "Hot and dry skin",
-        "Hypotension"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Hypotension (systolic blood pressure <90 mmHg), tachycardia, pallor, and oliguria are key signs of hypovolemic shock due to blood loss.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "hypovolemic_shock",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What does abdominal rigidity (plank abdomen) indicate?",
-      "options": [
-        "Hepatomegaly",
-        "Mild paralytic ileus",
-        "Gastritis",
-        "Severe peritoneal irritation"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Involuntary abdominal rigidity, or plank abdomen, is a warning sign of severe peritonism, indicating generalized inflammation of the peritoneum.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "peritonism",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What does the Grey-Turner sign (flank ecchymosis) suggest?",
-      "options": [
-        "Acute pancreatitis",
-        "intestinal obstruction",
-        "Retroperitoneal hemorrhage",
-        "Diaphragmatic injury"
+        "Pain in right hypochondrium",
+        "Periumbilical ecchymosis",
+        "Pneumoperitoneum on x-ray",
+        "Immediate hypotension"
       ],
       "correctAnswer": 3,
-      "explanation": "Ecchymosis on the flanks is a classic sign of retroperitoneal hemorrhage, often associated with kidney or vascular injuries in that area.",
+      "explanation": "Pneumoperitoneum is a classic radiological sign of hollow viscus perforation, since intra-abdominal free air indicates rupture of the gastrointestinal tract.",
       "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "retroperitoneal_hemorrhage",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which sign indicates more intense pain when withdrawing the hand after deep palpation?",
-      "options": [
-        "Murphy's sign",
-        "Psoas sign",
-        "Pain on decompression (rebound)",
-        "Cullen sign"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Decompression pain, or rebound sign, occurs when the inflamed peritoneum reacts to sudden movement of the hand, being an indicator of peritonism.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "decompression_pain",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "In unconscious patients with trauma, what is assumed regarding the abdomen?",
-      "options": [
-        "Low risk of abdominal injury",
-        "Probable abdominal injury until proven otherwise",
-        "Injury limited to the abdominal wall",
-        "No injuries if there are no external signs"
-      ],
-      "correctAnswer": 2,
-      "explanation": "In patients with altered consciousness due to trauma, the lack of reported external signs or symptoms does not rule out serious internal injuries. Abdominal pathology is assumed until confirmed.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "unconscious_patients",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which component of the abdominal physical examination is performed before palpation?",
-      "options": [
-        "Specific maneuvers",
-        "Inspection",
-        "Auscultation",
-        "Percussion"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Auscultation is performed before palpation to avoid alteration of normal bowel sounds by abdominal manipulation.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "auscultation",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Does the dullness to the percussion on flanks suggest?",
-      "options": [
-        "Dilated stomach",
-        "Ascites or hemoperitoneum",
-        "Intra-abdominal free air",
-        "Enlarged liver"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The presence of fluid (blood or ascites) in the peritoneal cavity causes dullness on percussion in the flanks, which may be displaceable.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "percussion",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Does involuntary muscle guarding on abdominal physical examination indicate?",
-      "options": [
-        "Severe peritoneal irritation",
-        "gastric distension",
-        "Mild superficial pain",
-        "Mild peritoneal irritation"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Involuntary muscle guarding (stiffness) is a sign of severe peritonism, indicating a marked inflammatory response of the peritoneum.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "palpation",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What evaluation is a priority in a patient with hemodynamically unstable abdominal trauma?",
-      "options": [
-        "Abdominal and Pelvic CT with contrast",
-        "FAST (Focused Assessment with Sonography for Trauma)",
-        "Diagnostic peritoneal lavage",
-        "Simple abdominal x-ray"
-      ],
-      "correctAnswer": 2,
-      "explanation": "In hemodynamically unstable patients, FAST is the initial method of choice due to its speed at the bedside to detect intra-abdominal free fluid.",
-      "hashtags": [
-        "internal_medicine",
+        "emergency_medicine",
         "abdominal_trauma",
         "diagnosis",
-        "fast",
-        "PATHOLOGY",
+        "pneumoperitoneum",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is the imaging method of choice in stable patients with abdominal trauma?",
+      "question": "Which imaging study is the initial choice in hemodynamically stable blunt abdominal trauma?",
       "options": [
         "Abdominal MRI",
-        "abdominal ultrasound",
+        "Contrast CT scan",
         "Plain abdominal x-ray",
-        "Abdominal and Pelvic CT with IV contrast"
+        "FAST ultrasound"
       ],
       "correctAnswer": 4,
-      "explanation": "Computed Tomography with intravenous contrast offers the highest sensitivity and specificity to detect and characterize lesions in abdominal and retroperitoneal organs in stable patients.",
+      "explanation": "FAST ultrasound is the initial tool of choice due to its speed, portability, and ability to detect intra-abdominal free fluid in stable patients.",
       "hashtags": [
-        "internal_medicine",
+        "emergency_medicine",
         "abdominal_trauma",
         "diagnosis",
-        "tc_abdominal",
-        "PATHOLOGY",
+        "ultrasonography_fast",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What can FAST (Focused Assessment with Sonography for Trauma) detect?",
+      "question": "What is the absolute surgical indication in penetrating abdominal trauma?",
       "options": [
-        "Abdominal wall alterations",
-        "Pelvic fractures",
-        "Free fluid in serous cavities",
-        "Specific injuries to each organ"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The FAST is designed to detect the presence of free fluid (blood, urine, gastrointestinal contents) in the pericardial, pleuro-peritoneal (Morison's, splenorenal), and pelvic sacs.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "diagnosis",
-        "fast",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "In what situation is immediate exploratory laparotomy indicated in abdominal trauma?",
-      "options": [
-        "Mild peritonitis without shock",
-        "FAST positive and unstable patient",
-        "Negative CT and mild pain",
-        "FAST negative and stable patient"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A positive FAST in a hemodynamically unstable patient is a clear indication of massive intra-abdominal hemorrhage and requires emergency laparotomy for damage control.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "treatment",
-        "laparotomy",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which test has largely been replaced by FAST and CT in the diagnosis of abdominal trauma?",
-      "options": [
-        "Diagnostic peritoneal lavage (DPL)",
-        "Chest x-ray",
-        "General abdominal ultrasound",
-        "Serum amylase"
+        "Evisceration of omentum",
+        "Superficial wound without bleeding",
+        "mild abdominal pain",
+        "Hematoma on anterior wall"
       ],
       "correctAnswer": 1,
-      "explanation": "Diagnostic Peritoneal Lavage (DPL), although useful, has largely been replaced by FAST and CT as it is less invasive, faster and more accurate.",
+      "explanation": "Evisceration (protrusion of abdominal contents through the wound) is an absolute indication for urgent exploratory laparotomy in penetrating trauma.",
       "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "diagnosis",
-        "dpl",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What laboratory test is essential to evaluate coagulation in abdominal trauma?",
-      "options": [
-        "Amylase and lipase",
-        "Urea and creatinine",
-        "Prothrombin times and APTT",
-        "blood glucose"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Prothrombin times (PT) and APTT are crucial to evaluate the coagulation cascade and guide the administration of blood products and the surgical decision.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "diagnosis",
-        "laboratory",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Is diagnostic laparoscopy in abdominal trauma indicated mainly in?",
-      "options": [
-        "Massive retroperitoneal hemorrhage",
-        "Severe blunt abdominal trauma",
-        "Stable patients with ambiguous physical examination",
-        "Unstable patients with positive FAST"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Diagnostic laparoscopy is considered in stable patients with suspected internal injury and an inconclusive physical examination, allowing diagnosis and possible treatment.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "diagnosis",
-        "laparoscopy",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "In what type of abdominal trauma is the AAST (American Association for the Surgery of Trauma) classification most relevant?",
-      "options": [
-        "Penetrating gunshot trauma",
-        "Blunt trauma",
-        "Isolated intestinal perforation",
-        "Penetrating stab trauma"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The AAST classification is primarily used to grade the severity of injuries to solid organs (liver, spleen, kidney) in blunt trauma, guiding nonoperative vs. nonoperative management. surgical.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "aast",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main objective of 'Damage Control Laparotomy'?",
-      "options": [
-        "Detailed diagnosis with intraoperative CT",
-        "Definitive repair of all injuries",
-        "Control bleeding and contamination quickly",
-        "Physiological stabilization of the patient"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Damage control surgery seeks to quickly control sources of bleeding and contamination in unstable patients, postponing definitive repair to a second stage.",
-      "hashtags": [
-        "internal_medicine",
+        "emergency_medicine",
         "abdominal_trauma",
         "treatment",
-        "damage_control",
-        "PATHOLOGY",
+        "evisceration",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What degree of liver injury (according to AAST) could be managed nonoperatively if the patient is stable?",
+      "question": "Which of the following findings constitutes an absolute indication for urgent laparotomy in abdominal trauma?",
       "options": [
+        "Mild abdominal distention",
+        "Signs of diffuse peritonitis",
+        "Hematemesis without instability",
+        "Pain in right hypochondrium"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diffuse peritonitis indicates peritoneal irritation due to gastrointestinal contents or blood, a classic criterion for urgent laparotomy in blunt or penetrating abdominal trauma.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "treatment",
+        "urgent_laparotomy",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "In a patient with penetrating abdominal trauma, which FAST finding requires immediate laparotomy?",
+      "options": [
+        "Heterogeneous liver",
+        "Subdiaphragmatic air",
+        "Free fluid in pelvis",
+        "Right pleural effusion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The presence of intra-abdominal free fluid on FAST ultrasound in a patient with penetrating trauma suggests hemoperitoneum and is an indication for urgent laparotomy.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "diagnosis",
+        "fast_evaluation",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "What is the threshold of hemodynamic instability that indicates urgent laparotomy in abdominal trauma?",
+      "options": [
+        "Heart rate > 100 bpm",
+        "O2 saturation < 90%",
+        "Persistent SBP < 90 mmHg",
+        "Pulse pressure > 50 mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Persistent hypotension with SBP less than 90 mmHg despite resuscitation indicates uncontrolled hemorrhagic shock, requiring urgent laparotomy for source control.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "treatment",
+        "hemodynamic_criteria",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Which tomographic finding is an immediate surgical indication in blunt abdominal trauma?",
+      "options": [
+        "Grade I kidney contusion",
+        "Transverse process fracture",
+        "Free pneumoperitoneum",
+        "Hepatic subcapsular hematoma"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Free pneumoperitoneum on CT indicates perforation of the hollow viscus, which requires urgent laparotomy for repair and to avoid intra-abdominal sepsis.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "diagnosis",
+        "abdominal_tomography",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "In abdominal trauma, when is laparotomy for evisceration indicated?",
+      "options": [
+        "When the hole measures < 2 cm",
+        "If there is associated peritonitis",
+        "Whenever it happens",
+        "Only if there is active bleeding"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Evisceration (exit of viscera through the wound) implies violation of the peritoneal cavity, an absolute indication for urgent laparotomy regardless of other findings.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "treatment",
+        "evisceration",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "What is the most common indication for urgent laparotomy in penetrating abdominal trauma due to a knife?",
+      "options": [
+        "Wound in lumbar region",
+        "Signs of peritoneal irritation",
+        "Minor liver laceration",
+        "Superficial wound without bleeding"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Signs of peritoneal irritation (guarding, pain on decompression) are the most common indication for laparotomy in stab wounds, as they indicate intra-abdominal injury.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "treatment",
+        "white_weapon",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Which of the following is a classic sign of peritoneal irritation?",
+      "options": [
+        "Murphy's sign",
+        "Rovsing sign",
+        "McBurney sign",
+        "Blumberg sign"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Blumberg's sign, also known as rebound sign, is a classic finding of peritoneal irritation that indicates inflammation of the parietal peritoneum when the abdomen is suddenly decompressed.",
+      "hashtags": [
+        "general_surgery",
+        "peritoneal_irritation",
+        "diagnosis",
+        "blumberg_sign",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "What is the pathophysiological mechanism of the rebound sign in peritonitis?",
+      "options": [
+        "Reflex muscle spasm",
+        "Stretching of the parietal peritoneum",
+        "Distention of intestinal loops",
+        "Acute mesenteric ischemia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The rebound sign is produced by the sudden stretching of the inflamed parietal peritoneum during abdominal decompression, triggering intense pain.",
+      "hashtags": [
+        "general_surgery",
+        "peritoneal_irritation",
+        "pathophysiology",
+        "pain_mechanism",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Which of the following examination findings suggests generalized peritoneal irritation?",
+      "options": [
+        "Pain in right iliac fossa",
+        "Increased hydroaerial noise",
+        "Pain on superficial palpation",
+        "Abdomen in plank and silence"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The plank abdomen (involuntary muscle rigidity) and abdominal silence (absence of noise) are signs of generalized peritonitis, indicating diffuse peritoneal involvement.",
+      "hashtags": [
+        "general_surgery",
+        "peritoneal_irritation",
+        "clinical_table",
+        "abdomen_in_table",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Which imaging test is most sensitive to detect pneumoperitoneum due to visceral perforation?",
+      "options": [
+        "Abdominal MRI",
+        "Abdominal ultrasound with contrast",
+        "Plain abdominal x-ray",
+        "Abdominal CT scan"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Abdominal computed tomography is the most sensitive test to detect pneumoperitoneum, especially in cases of perforation of the hollow viscus, being the diagnostic standard.",
+      "hashtags": [
+        "general_surgery",
+        "peritoneal_irritation",
+        "diagnosis",
+        "pneumoperitoneum",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "What is the most common cause of secondary peritonitis in adults?",
+      "options": [
+        "Peptic ulcer perforation",
+        "Acute gangrenous cholecystitis",
+        "Perforated sigmoid diverticulitis",
+        "Complicated acute appendicitis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Acute appendicitis complicated by perforation is the most common cause of secondary peritonitis in adults, followed by peptic ulcer perforation and diverticulitis.",
+      "hashtags": [
+        "general_surgery",
+        "peritoneal_irritation",
+        "etiology",
+        "secondary_peritonitis",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Which of the following laboratory findings is most indicative of bacterial peritonitis?",
+      "options": [
+        "Leukocytosis with left shift",
+        "Plateletopenia less than 50,000/mm3",
+        "Creatinine greater than 2 mg/dL",
+        "Hemoglobin below 7 g/dL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Leukocytosis with a left shift is a characteristic finding of bacterial infection, as in peritonitis, reflecting the systemic inflammatory response.",
+      "hashtags": [
+        "general_surgery",
+        "peritoneal_irritation",
+        "diagnosis",
+        "leukocytosis",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "What does FAST ultrasound mainly evaluate in abdominal trauma?",
+      "options": [
+        "Rupture of hollow viscus",
+        "Tension pneumothorax",
+        "Pelvic bone injuries",
+        "Intraperitoneal free fluid"
+      ],
+      "correctAnswer": 4,
+      "explanation": "FAST ultrasound is used to detect free fluid in the peritoneal cavity, hemoperitoneum, pericardium or pleura in patients with trauma, guiding the need for laparotomy.",
+      "hashtags": [
+        "emergency_medicine",
+        "abdominal_trauma",
+        "diagnosis",
+        "ultrasonography_fast",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "What is the standard ultrasound window in FAST to evaluate hemopericardium?",
+      "options": [
+        "Subxiphoid window",
+        "pelvic window",
+        "hepatic window",
+        "Splenic window"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The subxiphoid window is the ultrasound projection used in FAST to visualize the pericardium and detect pericardial effusion or hemopericardium in thoracic trauma.",
+      "hashtags": [
+        "emergency_medicine",
+        "abdominal_trauma",
+        "diagnosis",
+        "ultrasound_windows",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "What is the approximate sensitivity of the FAST for hemoperitoneum in blunt trauma?",
+      "options": [
+        "50-60%",
+        "70-80%",
+        "90-95%",
+        "100%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The FAST has a reported sensitivity of 90-95% for detecting hemoperitoneum in blunt abdominal trauma, although it may be lower in hollow viscus or retroperitoneal injuries.",
+      "hashtags": [
+        "emergency_medicine",
+        "abdominal_trauma",
+        "diagnosis",
+        "diagnostic_performance",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed---Radiology 2020"
+      ]
+    },
+    {
+      "question": "What is the main limitation of FAST in abdominal trauma?",
+      "options": [
+        "Only useful in pediatric patients",
+        "High specificity for splenic injury",
+        "Does not detect retroperitoneal lesions",
+        "Requires intravenous contrast"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The FAST does not adequately evaluate the retroperitoneum, so lesions of the duodenum, pancreas or retroperitoneal vessels may go unnoticed, requiring CT if there is suspicion.",
+      "hashtags": [
+        "emergency_medicine",
+        "abdominal_trauma",
+        "diagnosis",
+        "limitations_fast",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "When is a positive FAST considered in abdominal trauma?",
+      "options": [
+        "Visualization of anechoic fluid in cavity",
+        "Presence of subdiaphragmatic free air",
+        "Increased hepatic echogenicity",
+        "Gallbladder wall thickening"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A positive FAST is defined by the presence of free anechoic fluid in any of the evaluated windows (hepatorrenal, splenorenal, pelvic or subxiphoid), indicating probable hemorrhage.",
+      "hashtags": [
+        "emergency_medicine",
+        "abdominal_trauma",
+        "diagnosis",
+        "interpretation_fast",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "What imaging study is of choice after a negative FAST with high clinical suspicion?",
+      "options": [
+        "Selective angiography",
+        "Plain abdominal x-ray",
+        "CT scan with contrast",
+        "Abdominal MRI"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In the event of a negative FAST but high suspicion of intra-abdominal injury, CT with intravenous contrast is the gold standard for evaluating solid, retroperitoneal, and hollow viscus injuries.",
+      "hashtags": [
+        "emergency_medicine",
+        "abdominal_trauma",
+        "diagnosis",
+        "diagnostic_algorithm",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "What anatomical structures make up the triangle of death in trauma?",
+      "options": [
+        "Iliac artery, iliac vein and ureter",
+        "Aorta, esophagus and vena cava",
+        "Iliac vein, rectum and sacrum",
+        "Iliac artery, ureter and colon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The triangle of death in retroperitoneal trauma is formed by the iliac artery, the iliac vein and the ureter, where the injuries are difficult to access surgically and have high mortality.",
+      "hashtags": [
+        "emergency_medicine",
+        "triangle_of_death",
+        "concept",
+        "surgical_anatomy",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main complication of a triangle of death injury?",
+      "options": [
+        "Uncontrollable bleeding",
+        "deep vein thrombosis",
+        "Urinary infection",
+        "Enterocutaneous fistula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Uncontrollable hemorrhage is the most feared complication in triangle of death injuries, due to the proximity of large vessels and the difficulty in achieving surgical hemostasis.",
+      "hashtags": [
+        "emergency_medicine",
+        "triangle_of_death",
+        "clinical_table",
+        "retroperitoneal_hemorrhage",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What surgical maneuver is preferred to access the triangle of death?",
+      "options": [
+        "Lateral retroperitoneal approach",
+        "Infraumbilical median laparotomy",
+        "Left anterolateral thoracotomy",
+        "Pfannenstiel incision"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Infraumbilical midline laparotomy allows rapid access to the central retroperitoneal and triangle of death for vascular control and injury repair.",
+      "hashtags": [
+        "emergency_medicine",
+        "triangle_of_death",
+        "treatment",
+        "surgical_approach",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which of the following trauma mechanisms is most associated with triangle of death injuries?",
+      "options": [
+        "Direct blow to the epigastrium",
+        "Low speed vehicle accident",
+        "Pelvic gunshot wound",
+        "Fall from own height"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Gunshot wounds to the pelvis are the most frequent mechanism of injury in the triangle of death, due to the trajectory and kinetic energy of the projectile.",
+      "hashtags": [
+        "emergency_medicine",
+        "triangle_of_death",
+        "etiology",
+        "injury_mechanism",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What radiological sign suggests injury to the triangle of death on a CT scan?",
+      "options": [
+        "Central retroperitoneal hematoma",
+        "Tension pneumothorax",
+        "Pelvic ramus fracture",
+        "Bilateral pleural effusion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A central retroperitoneal hematoma on CT is indicative of injury to the triangle of death, since the vascular structures and ureter are located in that region.",
+      "hashtags": [
+        "emergency_medicine",
+        "triangle_of_death",
+        "diagnosis",
+        "abdominal_tomography",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the approximate mortality of a vascular injury in the triangle of death?",
+      "options": [
+        "10-20%",
+        "50-70%",
+        "30-40%",
+        "80-100%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mortality due to vascular injuries in the triangle of death ranges between 50 and 70%, due to the difficulty of hemorrhagic control and associated injuries.",
+      "hashtags": [
+        "emergency_medicine",
+        "triangle_of_death",
+        "epidemiology",
+        "mortality",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main mechanism that limits hemorrhage in low-grade splenic injuries?",
+      "options": [
+        "Portosystemic shunt",
+        "Splanchnic vasoconstriction",
+        "Capsule plugging",
+        "Coagulation activation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In low-grade injuries, the intact or minorly ruptured splenic capsule exerts a tamponade effect that limits bleeding, facilitating conservative management.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "pathophysiology",
+        "splenic_hemostasis",
+        "MEDICAL_TOPIC",
+        "Sabiston Textbook of Surgery 21ed"
+      ]
+    },
+    {
+      "question": "What imaging study is the standard for classifying traumatic splenic injuries?",
+      "options": [
+        "FAST ultrasound",
+        "CT scan",
+        "Simple abdominal x-ray",
+        "Selective angiography"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Computed tomography with intravenous contrast allows accurate classification of the degree of splenic injury according to the AAST, guiding the decision of conservative or surgical management.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "diagnosis",
+        "axial_tomography",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed---Sabiston 21ed"
+      ]
+    },
+    {
+      "question": "What is the threshold of hemodynamic instability that contraindicates conservative management of the spleen?",
+      "options": [
+        "Slowly decreasing hematocrit",
+        "Systolic blood pressure < 90 mmHg",
+        "Heart rate > 100 bpm",
+        "Base deficit > 4 mEq/L"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Persistent hypotension (SBP < 90 mmHg) despite resuscitation indicates hemodynamic instability, which requires emergency surgery and rules out conservative management of the spleen.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "treatment",
+        "instability_criteria",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "What late complication requires reintervention in conservative management of the spleen?",
+      "options": [
+        "Perisplenic abscess",
+        "Persistent bile leak",
+        "Splenic pseudocyst",
+        "Chronic subcapsular hematoma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perisplenic abscess is an infectious complication that requires drainage or splenectomy, while the other options can be managed conservatively or are not specific to the spleen.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "complications",
+        "splenic_abscess",
+        "MEDICAL_TOPIC",
+        "Sabiston 21ed---Journal of Trauma"
+      ]
+    },
+    {
+      "question": "What vaccine should be administered in delayed post-traumatic splenectomy?",
+      "options": [
+        "Antitetanic",
+        "Antipneumococcal conjugate",
+        "Antihepatitis B",
+        "Anti-flu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In scheduled or delayed splenectomy, the pneumococcal conjugate vaccine (PCV13) is administered to prevent Streptococcus pneumoniae infections, the main risk in asplenic patients.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "treatment",
+        "infectious_prophylaxis",
+        "MEDICAL_TOPIC",
+        "CDC Guidelines---Sabiston 21ed"
+      ]
+    },
+    {
+      "question": "What is the absolute indication for splenectomy in blunt abdominal trauma?",
+      "options": [
+        "Grade III injury without active bleeding",
+        "Complete rupture of the splenic hilum",
+        "Stable subcapsular hematoma",
+        "Splenic contusion without hemoperitoneum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Complete rupture of the splenic hilum (grade V) produces massive uncontrollable hemorrhage, making urgent splenectomy the only viable option, with no possibility of conservative management.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "treatment",
+        "splenectomy_indications",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed---Sabiston 21ed"
+      ]
+    },
+    {
+      "question": "What is the AAST grade of liver injury for a capsular laceration without active bleeding?",
+      "options": [
+        "Grade I",
         "Grade III",
-        "Grade VI",
-        "Grade V",
+        "Grade II",
         "Grade IV"
       ],
       "correctAnswer": 1,
-      "explanation": "Grade I to III liver injuries can often be managed nonoperatively in stable patients, while grades IV, V, and VI typically require surgery.",
+      "explanation": "Capsular laceration without active bleeding corresponds to grade I of the AAST classification for liver trauma, being the mildest injury.",
       "hashtags": [
-        "internal_medicine",
+        "general_surgery",
+        "abdominal_trauma",
+        "clinical_table",
+        "aast_classification",
+        "MEDICAL_TOPIC",
+        "AAST 2018"
+      ]
+    },
+    {
+      "question": "What imaging finding defines a grade III liver lesion on computed tomography?",
+      "options": [
+        "Subcapsular hematoma <10%",
+        "4 cm deep laceration",
+        "1 cm deep laceration",
+        "Parenchymal hematoma <10 cm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A laceration 4 cm deep corresponds to grade III, since it exceeds 3 cm and affects more than 50% of the liver lobe.",
+      "hashtags": [
+        "radiology",
+        "abdominal_trauma",
+        "diagnosis",
+        "computed tomography",
+        "MEDICAL_TOPIC",
+        "AAST 2018"
+      ]
+    },
+    {
+      "question": "What is the recommended initial management for a hemodynamically stable grade I liver injury?",
+      "options": [
+        "Urgent exploratory laparotomy",
+        "Conservative nonoperative management",
+        "Selective arterial embolization",
+        "Segmental liver resection"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In hemodynamically stable patients with grade I liver injury, conservative nonoperative management is the standard approach, with close observation.",
+      "hashtags": [
+        "general_surgery",
         "abdominal_trauma",
         "treatment",
         "conservative_management",
-        "PATHOLOGY",
-        ""
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
       ]
     },
     {
-      "question": "What is the preferred management for the spleen in blunt trauma if the injury is grade I-III and the patient is stable?",
+      "question": "What is the main cause of death in severe uncontrolled liver injuries?",
       "options": [
-        "Immediate splenectomy",
-        "Splenic embolization",
-        "Splenic conservation",
-        "Delayed splenectomy"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Whenever possible and the injury allows, preservation of the spleen (with or without embolization) is preferred to avoid the risk of post-splenectomy infections.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "treatment",
-        "splenic_conservation",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Does nonoperative management of abdominal trauma require?",
-      "options": [
-        "Broad-spectrum intravenous antibiotics",
-        "Strict observation and monitoring",
-        "relative rest",
-        "Immediate laparoscopic surgery"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Successful conservative management of nonbleeding or minimally bleeding abdominal injuries requires continuous monitoring of vital signs, urine output, and physical examination, in addition to bed rest.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "treatment",
-        "conservative_management",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "When is selective embolization indicated in abdominal trauma?",
-      "options": [
-        "small intestine injury",
-        "Pneumoperitoneum",
-        "Active bleeding from arteries (e.g. hepatic, splenic) on CT",
-        "Generalized peritonitis"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Selective embolization is a useful interventional radiology procedure to control active bleeding from arterial vessels identified on imaging studies.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "treatment",
-        "embolization",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the objective of the nasogastric tube in abdominal trauma?",
-      "options": [
-        "Decompress the stomach",
-        "Obtain blood samples",
-        "Monitor blood pressure",
-        "Administer IV fluids"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A nasogastric tube helps decompress the stomach, preventing regurgitation and the risk of aspiration, especially in patients with ileus or in preparation for surgery.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "nasogastric_tube",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "In which case would the placement of a Foley catheter be contraindicated in abdominal trauma?",
-      "options": [
-        "Suspected urethral injury",
-        "Presence of hypovolemic shock",
-        "arterial hypotension",
-        "Active bleeding"
-      ],
-      "correctAnswer": 1,
-      "explanation": "If there is evidence of urethral injury (blood at the meatus, perineal/scrotal hematoma), insertion of a Foley catheter may worsen the injury or be impossible.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "foley_probe",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a main objective of massive transfusion in severe abdominal trauma?",
-      "options": [
-        "Reduce the need for surgery",
-        "Prevent nosocomial infection",
-        "Restore coagulation and tissue oxygenation",
-        "Increase volume only with crystalloids"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Massive transfusion (concentrated red blood cells, plasma, platelets in specific ratios) seeks to restore oxygen transport capacity and hemostasis in patients with massive hemorrhage.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "treatment",
-        "massive_transfusion",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which medical order seeks to prevent deep vein thrombosis in an immobilized abdominal trauma patient?",
-      "options": [
-        "Prophylaxis with low molecular weight heparin",
-        "Continuous cardiac monitoring",
-        "central venous catheter",
-        "Antibiotic administration"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Antithrombotic prophylaxis with low molecular weight heparin (LMWH) or unfractionated heparin (UFH) is standard in immobilized patients to prevent DVT and pulmonary embolism.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "prophylaxis_tvp",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is tranexamic acid (TXA) used for in abdominal trauma?",
-      "options": [
-        "Fight bacterial infections",
-        "Inhibit fibrinolysis and reduce bleeding",
-        "Control blood pressure",
-        "Reduce inflammation"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Tranexamic acid is an antifibrinolytic that helps stabilize blood clots, reducing bleeding in patients with severe trauma.",
-      "hashtags": [
-        "pharmacology",
-        "abdominal_trauma",
-        "indications",
-        "tranexamic acid",
-        "PHARMACOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which of the following is a warning sign for returning to the emergency room after being discharged for abdominal trauma?",
-      "options": [
-        "Hot and dry skin",
-        "Sudden increase in abdominal pain or distension",
-        "Mild tachycardia",
-        "Mild residual pain"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A sudden increase in abdominal pain or new distension may indicate internal bleeding or a late complication, requiring urgent reevaluation.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "treatment",
-        "alarm_signs",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What injury is the most common in blunt abdominal trauma?",
-      "options": [
-        "Diaphragm rupture",
-        "Liver laceration",
-        "colon perforation",
-        "abdominal aorta injury"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The liver is the solid organ most frequently injured in blunt abdominal trauma, followed by the spleen, due to its size and vascularization.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "epidemiology",
-        "common_injuries",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What type of trauma is most likely to cause major vascular injuries such as aortic tears?",
-      "options": [
-        "Blunt trauma due to deceleration",
-        "Penetrating stab trauma",
-        "Penetrating trauma from low velocity firearms",
-        "Direct hit without injury"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The abrupt deceleration forces in blunt trauma can cause shearing on the abdominal aorta, especially at its attachment points, resulting in tears.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "pathophysiology",
-        "vascular_injuries",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main complication of a splenectomy?",
-      "options": [
-        "Post-splenectomy infection (OPSI)",
-        "Bacterial peritonitis",
-        "Upper gastrointestinal bleeding",
-        "Acute pancreatitis"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The absence of the spleen compromises the immune response against encapsulated bacteria, significantly increasing the risk of serious and fulminant infections (OPSI).",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "complications",
-        "splenectomy",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Does a patient with abdominal trauma and a positive Cullen's sign suggest?",
-      "options": [
-        "colon perforation",
-        "Diverticulitis",
-        "Hemoperitoneum",
-        "kidney injury"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Cullen's sign (periumbilical ecchymosis) is indicative of intra-abdominal hemorrhage, suggesting accumulation of blood in the peritoneal cavity.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "cullen_sign",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which of the following organs is retroperitoneal and can be injured in abdominal trauma?",
-      "options": [
-        "Spleen",
-        "Liver",
-        "Stomach",
-        "Pancreas"
+        "Acute liver failure",
+        "Late multiorgan failure",
+        "Lung fat embolism",
+        "Exsanguinating hemorrhage"
       ],
       "correctAnswer": 4,
-      "explanation": "The pancreas, like the kidneys, aorta, and abdominal vena cava, is located in the retroperitoneal space and can be injured in trauma, often with insidious symptoms.",
+      "explanation": "Exsanguinating hemorrhage is the main cause of early death in severe liver trauma, due to the rich vascularization of the liver.",
       "hashtags": [
-        "anatomy",
+        "general_surgery",
         "abdominal_trauma",
-        "clinical_anatomy",
-        "retroperitoneal_organs",
-        "ANATOMY",
-        ""
+        "pathophysiology",
+        "hemorrhage",
+        "MEDICAL_TOPIC",
+        "Sabiston 21ed"
       ]
     },
     {
-      "question": "What approach is used to evaluate the abdominal cavity in hemodynamically unstable patients?",
+      "question": "What surgical technique is used to control bleeding in a grade IV liver injury?",
       "options": [
-        "Simple abdominal x-ray",
-        "FAST",
-        "Diagnostic laparoscopy",
-        "Whole body CT"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The FAST is a rapid bedside ultrasound that evaluates the presence of intra-abdominal free fluid in unstable patients, guiding the need for emergency surgery.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "diagnosis",
-        "fast",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main purpose of Abdominal and Pelvic CT with IV contrast in abdominal trauma?",
-      "options": [
-        "Monitor response to fluid therapy",
-        "Diagnose brain injuries",
-        "Identify and characterize intra-abdominal injuries",
-        "Evaluate extremity fractures"
+        "Portocaval shunt",
+        "Hepatic artery ligation",
+        "Perihepatic packing",
+        "Angiographic embolization"
       ],
       "correctAnswer": 3,
-      "explanation": "CT with IV contrast is the gold standard for evaluating the extent and severity of lesions in abdominal and retroperitoneal solid organs, voids, and vessels in stable patients.",
+      "explanation": "Perihepatic packing is the surgical technique of choice to control bleeding in grade IV liver injuries, allowing stabilization.",
       "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "diagnosis",
-        "tc_abdominal",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "A retroperitoneal hematoma identified on CT may require?",
-      "options": [
-        "Observation or selective embolization",
-        "peritoneal lavage",
-        "Hollow viscus repair",
-        "Immediate splenectomy"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Retroperitoneal hematomas may be stable and managed conservatively, or require interventional radiology (embolization) if active bleeding is present.",
-      "hashtags": [
-        "internal_medicine",
+        "general_surgery",
         "abdominal_trauma",
         "treatment",
-        "retroperitoneal_hematoma",
-        "PATHOLOGY",
-        ""
+        "liver_packing",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
       ]
     },
     {
-      "question": "Is 'abdominal rigidity' or 'plank abdomen' a sign of?",
+      "question": "What is the tomographic criterion that indicates a grade V liver injury?",
       "options": [
-        "Transient ileus",
-        "Severe peritoneal irritation",
-        "blood in stool",
-        "gastric distension"
+        "Hepatic pedicle avulsion",
+        "Laceration affecting both lobes",
+        "Subcapsular hematoma >50%",
+        "6 cm deep laceration"
       ],
-      "correctAnswer": 2,
-      "explanation": "Involuntary muscle rigidity of the abdominal wall is a classic sign of severe peritonism, indicating diffuse inflammation of the peritoneum.",
+      "correctAnswer": 1,
+      "explanation": "Avulsion of the hepatic pedicle defines a grade V injury, the most serious, which implies major vascular injury and requires emergency surgery.",
       "hashtags": [
-        "internal_medicine",
+        "radiology",
         "abdominal_trauma",
-        "concept",
-        "peritonism",
-        "PATHOLOGY",
-        ""
+        "diagnosis",
+        "aast_classification",
+        "MEDICAL_TOPIC",
+        "AAST 2018"
       ]
     },
     {
-      "question": "Which of the following is NOT a common symptom of abdominal trauma?",
+      "question": "What is the most characteristic clinical finding of peritonitis secondary to hollow viscus perforation?",
       "options": [
-        "productive cough",
+        "Fever and tachycardia",
         "Nausea and vomiting",
         "Abdominal distension",
-        "abdominal pain"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Productive cough is a typically respiratory symptom. The other symptoms mentioned are common in abdominal trauma.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "common_symptoms",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the 'seat belt sign' in abdominal trauma?",
-      "options": [
-        "Abdominal/thoracic linear ecchymosis with spinal trauma",
-        "Penetrating wound to the navel",
-        "Ecchymosis on flanks",
-        "Liver injury"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The seat belt sign (Chance sign) refers to a linear ecchymosis in the abdomen or anterior thorax, associated with spinal and abdominal trauma, due to the use of the seat belt in accidents.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "safety_belt_sign",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Why is evaluation of the abdomen in poisoned or TBI patients challenging?",
-      "options": [
-        "Masking of symptoms and signs",
-        "Greater chance of perforation",
-        "Less response to resuscitation",
-        "Increased risk of bleeding"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Intoxication and TBI can alter the level of consciousness, decreasing the patient's ability to report pain or react to palpation, making clinical diagnosis difficult.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "altered_patients",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the first step in managing abdominal trauma?",
-      "options": [
-        "Consult the surgeon",
-        "Perform abdominal CT",
-        "Start antibiotics",
-        "Secure airway and hemodynamically stabilize (ABC)"
+        "diffuse abdominal pain"
       ],
       "correctAnswer": 4,
-      "explanation": "The absolute priority in any trauma patient, including abdominal trauma, is the evaluation and management of the airway, breathing and circulation (ABC) to stabilize the patient.",
+      "explanation": "Diffuse abdominal pain is the most characteristic clinical finding of secondary peritonitis, due to generalized irritation of the peritoneum by the contents of the perforated hollow viscus.",
       "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
+        "general_surgery",
+        "peritonitis",
+        "clinical_table",
+        "abdominal_pain",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Which imaging study is the first choice in suspected hollow viscus perforation?",
+      "options": [
+        "Simple abdominal x-ray",
+        "MRI",
+        "abdominal ultrasound",
+        "CT scan"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Computed tomography is the first-choice imaging study to detect pneumoperitoneum and evaluate the extent of hollow viscus perforation, with high sensitivity and specificity.",
+      "hashtags": [
+        "general_surgery",
+        "visceral_perforation",
+        "diagnosis",
+        "computed tomography",
+        "MEDICAL_TOPIC",
+        "Corman 6ed---Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "What is the surgical management of choice in peritonitis due to perforation of the hollow viscus?",
+      "options": [
+        "Diagnostic laparoscopy",
+        "Intravenous antibiotics",
+        "exploratory laparotomy",
+        "Percutaneous drainage"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Exploratory laparotomy is the surgical management of choice to identify and repair the perforation, perform peritoneal lavage, and control the source of contamination in peritonitis.",
+      "hashtags": [
+        "general_surgery",
+        "peritonitis",
         "treatment",
-        "revival",
-        "PATHOLOGY",
-        ""
+        "exploratory_laparotomy",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
       ]
     },
     {
-      "question": "Which medical order is crucial to monitor the response to resuscitation in abdominal trauma?",
+      "question": "What radiological finding is pathognomonic of hollow viscus perforation?",
       "options": [
-        "Serum amylase measurement",
-        "Arterial blood gas",
-        "Serial abdominal ultrasound",
-        "Hourly diuresis recording"
+        "pleural effusion",
+        "Hydro-aerial levels",
+        "Pneumoperitoneum",
+        "Air in bile duct"
       ],
-      "correctAnswer": 4,
-      "explanation": "Hourly urine output (volume of urine per hour) is a sensitive indicator of tissue perfusion and the patient's response to fluid resuscitation.",
+      "correctAnswer": 3,
+      "explanation": "Pneumoperitoneum, the presence of free air in the peritoneal cavity, is the pathognomonic radiological finding of perforation of a hollow viscus, visible on radiography or tomography.",
       "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "monitoring",
-        "PATHOLOGY",
-        ""
+        "general_surgery",
+        "visceral_perforation",
+        "diagnosis",
+        "pneumoperitoneum",
+        "MEDICAL_TOPIC",
+        "Corman 6ed"
       ]
     },
     {
-      "question": "What is the main risk associated with the ingestion of sharp objects in penetrating trauma?",
+      "question": "What is the main pathophysiological mechanism of secondary bacterial peritonitis?",
       "options": [
-        "Gallstone formation",
-        "pancreatic hemorrhage",
-        "Late intestinal obstruction",
-        "Gastrointestinal perforation"
+        "Portal hypertension",
+        "Mesenteric ischemia",
+        "Peritoneal contamination",
+        "intestinal obstruction"
       ],
-      "correctAnswer": 4,
-      "explanation": "Ingestion of sharp objects carries a high risk of perforation of the wall of the gastrointestinal tract, which can lead to peritonitis.",
+      "correctAnswer": 3,
+      "explanation": "Peritoneal contamination by gastrointestinal contents, due to perforation of a hollow viscus, is the main pathophysiological mechanism that triggers secondary bacterial peritonitis.",
       "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
+        "general_surgery",
+        "peritonitis",
         "pathophysiology",
-        "intestinal_perforation",
-        "PATHOLOGY",
-        ""
+        "peritoneal_contamination",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
       ]
     },
     {
-      "question": "In blunt abdominal trauma, damage to the abdominal aorta is frequently associated with?",
+      "question": "Which antibiotic should be covered empirically in peritonitis due to perforation of hollow viscus?",
       "options": [
-        "Sudden deceleration",
-        "Crush injury",
-        "Direct frontal impact",
-        "Trunk sprain"
+        "Dual aerobic-anaerobic coverage",
+        "Coverage for anaerobes",
+        "Gram-negative coverage",
+        "Cover for mushrooms"
       ],
       "correctAnswer": 1,
-      "explanation": "Deceleration forces, such as in vehicular collisions, can cause shearing and tearing of the abdominal aorta, especially at its attachment points.",
+      "explanation": "Dual coverage against gram-negative aerobes and anaerobes is essential empirically, since the mixed flora of the gastrointestinal tract is responsible for secondary peritonitis.",
       "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "pathophysiology",
-        "aortic_injuries",
-        "PATHOLOGY",
-        ""
+        "general_surgery",
+        "peritonitis",
+        "treatment",
+        "empirical_antibiotic",
+        "MEDICAL_TOPIC",
+        "IDSA Guide 2023---Sabiston 20ed"
       ]
     },
     {
-      "question": "What type of trauma is most likely to cause pancreatic contusion?",
+      "question": "What is the most sensitive imaging study to detect left diaphragmatic injury in blunt trauma?",
       "options": [
-        "Gunshot wound",
-        "Penetrating stab trauma",
-        "Blunt trauma due to direct impact",
-        "Lateral abdominal compression"
+        "Multislice computed tomography",
+        "Plain chest x-ray",
+        "FAST abdominal ultrasound",
+        "Nuclear magnetic resonance"
       ],
-      "correctAnswer": 3,
-      "explanation": "Direct impact or compression on the epigastric region in blunt trauma can contusion or lacerate the pancreas, causing traumatic pancreatitis.",
+      "correctAnswer": 1,
+      "explanation": "Multislice computed tomography with sagittal and coronal reconstruction is the most sensitive study to detect diaphragmatic injuries, especially on the left side, in blunt trauma.",
       "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "pathophysiology",
-        "pancreatic_injury",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Assessment of 'blood loss' is primarily done through?",
-      "options": [
-        "Serum glucose measurement",
-        "Amylase and lipase",
-        "Hemodynamic evaluation (BP, HR) and diuresis",
-        "Chest x-ray"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Hemodynamic stability (blood pressure, heart rate) and urine output are key indicators of tissue perfusion and magnitude of blood loss.",
-      "hashtags": [
-        "internal_medicine",
-        "abdominal_trauma",
-        "concept",
-        "hemorrhage",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is a benefit of whole body CT in trauma?",
-      "options": [
-        "Rapid diagnosis of pelvic fractures",
-        "Better visualization of skin lesions",
-        "Simultaneously evaluates thorax, abdomen and pelvis",
-        "Allows immediate start of surgery"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Whole-body CT allows for a comprehensive and rapid evaluation of potential injuries to multiple body systems (chest, abdomen, pelvis) in patients with multiple trauma.",
-      "hashtags": [
-        "internal_medicine",
+        "general_surgery",
         "abdominal_trauma",
         "diagnosis",
-        "tc_whole_body",
-        "PATHOLOGY",
-        ""
+        "diagnostic_image",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
       ]
     },
     {
-      "question": "Is 'evisceration' in abdominal trauma an unequivocal sign of?",
+      "question": "Which classic radiological finding suggests left diaphragmatic rupture on a chest radiograph?",
       "options": [
-        "Significant injury to the abdominal wall and internal contents",
-        "paralytic ileus",
-        "mild peritonism",
-        "Retroperitoneal hemorrhage"
+        "Complete right lung collapse",
+        "Massive bilateral pleural effusion",
+        "Left tension pneumothorax",
+        "Elevation of the left hemidiaphragm"
       ],
-      "correctAnswer": 1,
-      "explanation": "Evisceration, where the abdominal contents come out, indicates a complete rupture of the abdominal wall and involvement of the viscera, requiring immediate intervention.",
+      "correctAnswer": 4,
+      "explanation": "Elevation of the left hemidiaphragm is a classic finding on chest x-ray that suggests diaphragmatic rupture, although it has low sensitivity and may go unnoticed.",
       "hashtags": [
-        "internal_medicine",
+        "general_surgery",
         "abdominal_trauma",
-        "concept",
-        "evisceration",
-        "PATHOLOGY",
-        ""
+        "diagnosis",
+        "radiological_finding",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
       ]
     },
     {
-      "question": "What is the main pathophysiological consequence of perforation of hollow viscera?",
+      "question": "What is the most feared complication of an undiagnosed diaphragmatic injury in penetrating trauma?",
       "options": [
-        "Peritonitis and sepsis",
-        "Acute kidney injury",
-        "Myocardial contusion",
-        "Prolonged hypotension"
+        "Persistent bronchopleural fistula",
+        "Chronic pleural empyema",
+        "Strangulated diaphragmatic hernia",
+        "Recurrent subphrenic abscess"
       ],
-      "correctAnswer": 1,
-      "explanation": "The release of gastrointestinal contents into the peritoneal cavity causes peritonitis, which can progress to sepsis and multiple organ dysfunction if not managed appropriately.",
+      "correctAnswer": 3,
+      "explanation": "Strangulated diaphragmatic hernia is the most feared complication, since it can occur months or years after the trauma, with incarceration of abdominal viscera and risk of necrosis.",
       "hashtags": [
-        "internal_medicine",
+        "general_surgery",
         "abdominal_trauma",
-        "pathophysiology",
-        "peritonitis_sepsis",
-        "PATHOLOGY",
-        ""
+        "complications",
+        "strangulated_hernia",
+        "MEDICAL_TOPIC",
+        "Mattox Trauma 8ed"
       ]
     },
     {
-      "question": "What type of trauma is most associated with mesentery injury and mesenteric vascular tears?",
+      "question": "What operative sign is pathognomonic of diaphragmatic injury during exploratory laparotomy?",
       "options": [
-        "Fall from height without direct impact",
-        "Blunt trauma due to deceleration",
-        "Low velocity bullet wound",
-        "Penetrating knife trauma"
+        "Massive edema of intestinal loops",
+        "Expanding retroperitoneal hematoma",
+        "Active bleeding in greater omentum",
+        "Visceralization through the defect"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The visualization of abdominal viscera (stomach, spleen, colon) through a defect in the diaphragm is the pathognomonic sign during laparotomy, confirming diaphragmatic injury.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "diagnosis",
+        "operative_finding",
+        "MEDICAL_TOPIC",
+        "Schwartz Principles of Surgery 11ed"
+      ]
+    },
+    {
+      "question": "On which side of the diaphragm is penetrating trauma injury most common?",
+      "options": [
+        "Right side in penetrating trauma",
+        "Both sides always equally",
+        "Left side in penetrating trauma",
+        "Right side in blunt trauma"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In penetrating trauma, the left side is most affected because most stab or gunshot wounds are directed to the left hemithorax, and the liver partially protects the right diaphragm.",
+      "hashtags": [
+        "general_surgery",
+        "abdominal_trauma",
+        "epidemiology",
+        "affected_side",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed---Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Which diagnostic test is considered the gold standard for diaphragmatic injury in stable penetrating trauma?",
+      "options": [
+        "Inspirational chest x-ray",
+        "Diagnostic laparoscopy",
+        "Transthoracic echocardiogram",
+        "CT angiography"
       ],
       "correctAnswer": 2,
-      "explanation": "Deceleration forces can tear the mesentery and the blood vessels that supply it, causing intestinal ischemia or significant hemorrhage.",
+      "explanation": "Diagnostic laparoscopy allows direct visualization of the diaphragm, being the gold standard in stable patients with suspected diaphragmatic injury due to penetrating trauma, avoiding unnecessary laparotomies.",
       "hashtags": [
-        "internal_medicine",
+        "general_surgery",
         "abdominal_trauma",
-        "pathophysiology",
-        "mesenteric_injury",
-        "PATHOLOGY",
+        "diagnosis",
+        "laparoscopy",
+        "MEDICAL_TOPIC",
+        "Mattox Trauma 8ed---Schwartz 11ed"
+      ]
+    },
+    {
+      "question": "What is the most common germ in post-traumatic intra-abdominal abscesses?",
+      "options": [
+        "Pseudomonas aeruginosa",
+        "Escherichia coli",
+        "Streptococcus pyogenes",
+        "Staphylococcus aureus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Escherichia coli is the most common aerobic microorganism in intra-abdominal abscesses, due to its presence in the intestinal flora and its ability to cause infection after peritoneal contamination.",
+      "hashtags": [
+        "general_surgery",
+        "intraabdominal_abscess",
+        "diagnosis",
+        "microbiology",
+        "MEDICAL_TOPIC",
+        "Sabiston Treatise on Surgery 20ed"
+      ]
+    },
+    {
+      "question": "What is the imaging method of choice to diagnose an intra-abdominal abscess?",
+      "options": [
+        "Simple abdominal x-ray",
+        "CT scan with contrast",
+        "abdominal ultrasound",
+        "Abdominal MRI"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Contrast-enhanced computed tomography is the gold standard for diagnosing intra-abdominal abscesses, with high sensitivity and specificity for identifying collections and guiding percutaneous drainage.",
+      "hashtags": [
+        "general_surgery",
+        "intraabdominal_abscess",
+        "diagnosis",
+        "imaging",
+        "MEDICAL_TOPIC",
+        "Surgical Clinics of North America 2022"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for a well-circumscribed intra-abdominal abscess?",
+      "options": [
+        "Closed peritoneal lavage",
+        "Image-guided percutaneous drainage",
+        "Exclusive antibiotic therapy",
+        "Urgent exploratory laparotomy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Image-guided percutaneous drainage is the initial treatment of choice for well-demarcated intra-abdominal abscesses, combined with antibiotics, as it is less invasive and successful in most cases.",
+      "hashtags": [
+        "general_surgery",
+        "intraabdominal_abscess",
+        "treatment",
+        "percutaneous_drainage",
+        "MEDICAL_TOPIC",
+        "WSES Guide 2019---Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "What is the most feared complication of an untreated intra-abdominal abscess?",
+      "options": [
+        "Enteric fistula",
+        "Abdominal sepsis",
+        "intestinal obstruction",
+        "diffuse peritonitis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Abdominal sepsis is the most serious complication of an untreated intra-abdominal abscess, since localized infection can spread systemically and trigger multiple organ dysfunction.",
+      "hashtags": [
+        "general_surgery",
+        "intraabdominal_abscess",
+        "complications",
+        "sepsis",
+        "MEDICAL_TOPIC",
+        "Surgical Infections 2021"
+      ]
+    },
+    {
+      "question": "What clinical sign is characteristic of a right subphrenic abscess?",
+      "options": [
+        "Pain in right hypochondrium",
+        "Pain in left iliac fossa",
+        "Pain in epigastrium",
+        "Pain in periumbilical region"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pain in the right upper quadrant is characteristic of right subphrenic abscess, due to diaphragmatic irritation and the proximity of the liver, and may be accompanied by fever and elevation of the hemidiaphragm.",
+      "hashtags": [
+        "general_surgery",
+        "intraabdominal_abscess",
+        "clinical_table",
+        "subphrenic",
+        "MEDICAL_TOPIC",
+        "Schwartz Principles of Surgery 11ed"
+      ]
+    },
+    {
+      "question": "What is the most important risk factor for developing a post-traumatic intra-abdominal abscess?",
+      "options": [
+        "Intraoperative hypotension",
+        "Advanced age of the patient",
+        "massive transfusion",
+        "Persistent fecal contamination"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Persistent fecal contamination is the most important risk factor, since the presence of fecal matter in the peritoneal cavity favors the formation of abscesses, especially if adequate surgical lavage is not performed.",
+      "hashtags": [
+        "general_surgery",
+        "intraabdominal_abscess",
+        "etiology",
+        "fecal_contamination",
+        "MEDICAL_TOPIC",
+        "Journal of Trauma and Acute Care Surgery 2020"
+      ]
+    },
+    {
+      "question": "What is the most common injury mechanism in blunt kidney trauma?",
+      "options": [
+        "fall from height",
+        "Stab wound",
+        "Projectile wound",
+        "Sudden deceleration"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Blunt kidney trauma usually occurs due to sudden deceleration, such as in car accidents, where the kidney impacts the ribs or spine, generating lacerations or bruises.",
+      "hashtags": [
+        "urology",
+        "kidney_trauma",
+        "clinical_table",
+        "injury_mechanism",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What classification is used to grade blunt renal trauma?",
+      "options": [
+        "Clavien Classification",
+        "AAST Classification",
+        "RENAL Classification",
+        "Dindo Classification"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The American Association for the Surgery of Trauma (AAST) classification is the standard for grading renal trauma, from mild contusion (grade I) to severe vascular injury or fragmentation (grade V).",
+      "hashtags": [
+        "urology",
+        "kidney_trauma",
+        "diagnosis",
+        "aast_classification",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the initial imaging study of choice in hemodynamically stable renal trauma?",
+      "options": [
+        "MRI",
+        "FAST Ultrasound",
+        "Intravenous pyelography",
+        "CT scan"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Contrast-enhanced computed tomography is the study of choice in stable patients with suspected renal trauma, as it allows evaluation of the parenchyma, vascularization, and the presence of retroperitoneal hematoma.",
+      "hashtags": [
+        "urology",
+        "kidney_trauma",
+        "diagnosis",
+        "axial_tomography",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the absolute surgical indication in closed renal trauma?",
+      "options": [
+        "Small perirenal hematoma",
+        "Grade I kidney contusion",
+        "Hemodynamic instability",
+        "Microscopic hematuria"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Persistent hemodynamic instability despite resuscitation is an absolute surgical indication in closed renal trauma, since it suggests active bleeding that cannot be controlled by conservative or angiographic management.",
+      "hashtags": [
+        "urology",
+        "kidney_trauma",
+        "treatment",
+        "surgical_indication",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What tomographic finding is characteristic of retroperitoneal hematoma due to renal trauma?",
+      "options": [
+        "Massive pneumoperitoneum",
+        "Right pleural effusion",
+        "Thickening of Gerota's fascia",
+        "Free fluid in pelvis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Traumatic retroperitoneal hematoma usually manifests as a thickening or distention of Gerota's fascia, which delimits the perinephric space, with heterogeneous density on tomography.",
+      "hashtags": [
+        "urology",
+        "retroperitoneal_hematoma",
+        "diagnosis",
+        "gerota_fascia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the initial management of stable non-expanding retroperitoneal hematoma?",
+      "options": [
+        "Observation and rest",
+        "Percutaneous drainage",
+        "Angiographic embolization",
+        "exploratory laparotomy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stable, nonexpanding retroperitoneal hematoma is managed conservatively with observation, bed rest, and monitoring of vital signs, as most resolve spontaneously without intervention.",
+      "hashtags": [
+        "urology",
+        "retroperitoneal_hematoma",
+        "treatment",
+        "conservative_management",
+        "MEDICAL_TOPIC",
         ""
       ]
     }

@@ -1651,6 +1651,264 @@
         "#coloproctologia"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "escabiosis",
+      "titulo": "Escabiosis",
+      "descripcion": "Infección cutánea causada por el ácaro Sarcoptes scabiei, caracterizada por prurito intenso y lesiones por rascado.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#dermatologia",
+        "#escabiosis",
+        "#enfermedades_infecciosas",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "patología_perianal",
+      "titulo": "Patología Perianal",
+      "descripcion": "Estudio de las enfermedades y trastornos que afectan la región perianal, incluyendo fisuras, abscesos, fístulas y hemorroides.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#coloproctologia",
+        "#patologia_perianal",
+        "#cirugia_general",
+        "#gastroenterologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "trauma_abdominal",
+      "titulo": "Trauma Abdominal",
+      "descripcion": "Manejo y evaluación de lesiones traumáticas en la cavidad abdominal, incluyendo diagnóstico por imagen y abordaje quirúrgico.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#trauma",
+        "#cirugia_general",
+        "#urgencias",
+        "#medicina_de_emergencias"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "trauma_de_tórax",
+      "titulo": "Trauma de Tórax",
+      "descripcion": "Abordaje diagnóstico y terapéutico de las lesiones torácicas traumáticas, incluyendo neumotórax, hemotórax, contusión pulmonar y taponamiento cardíaco.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#trauma",
+        "#torax",
+        "#cirugia_toracica",
+        "#urgencias",
+        "#medicina_de_emergencias"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "patología_de_tiroides",
+      "titulo": "Patología de Tiroides",
+      "descripcion": "Estudio de las enfermedades de la glándula tiroides, incluyendo hipertiroidismo, hipotiroidismo, nódulos y cáncer tiroideo.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#endocrinologia",
+        "#tiroides",
+        "#patologia_tiroidea"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "esófago_de_barrett",
+      "titulo": "Esófago de Barrett",
+      "descripcion": "Condición en la que el revestimiento del esófago se reemplaza por tejido similar al intestinal, asociado con reflujo gastroesofágico crónico y riesgo de adenocarcinoma.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#esofago_de_barrett",
+        "#reflujo_gastroesofagico",
+        "#oncologia",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "patología_de_mama",
+      "titulo": "Patología de Mama",
+      "descripcion": "Estudio de las enfermedades benignas y malignas de la glándula mamaria, incluyendo diagnóstico, tratamiento y prevención.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#patologia_mamaria",
+        "#oncologia",
+        "#mastologia",
+        "#cirugia_mama"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "úlcera_péptica_y_h._pylori",
+      "titulo": "Úlcera Péptica y H. pylori",
+      "descripcion": "Aborda la fisiopatología, diagnóstico y tratamiento de la úlcera péptica, así como la infección por Helicobacter pylori y su erradicación.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#ulcera_peptica",
+        "#h_pylori",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "urolitiasis",
+      "titulo": "Urolitiasis",
+      "descripcion": "Trastorno caracterizado por la formación de cálculos en el tracto urinario, incluyendo riñones, uréteres, vejiga y uretra.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#urologia",
+        "#nefrologia",
+        "#litiasis_renal",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "esofagitis_eosinofílica",
+      "titulo": "Esofagitis Eosinofílica",
+      "descripcion": "Trastorno inflamatorio crónico del esófago mediado por eosinófilos, asociado a alergias alimentarias y ambientales.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#esofagitis_eosinofilica",
+        "#alergia",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "hiperplasia_benigna_de_próstata",
+      "titulo": "Hiperplasia Benigna de Próstata",
+      "descripcion": "Trastorno no canceroso caracterizado por el agrandamiento de la próstata, que puede causar síntomas urinarios obstructivos e irritativos.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#urologia",
+        "#hiperplasia_benigna_de_prostata",
+        "#medicina_interna",
+        "#salud_masculina"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "enfermedad_celíaca",
+      "titulo": "Enfermedad Celíaca",
+      "descripcion": "Trastorno autoinmune crónico desencadenado por la ingesta de gluten en personas genéticamente predispuestas, que afecta principalmente al intestino delgado.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#enfermedad_celiaca",
+        "#autoinmune",
+        "#gluten",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "quemaduras",
+      "titulo": "Quemaduras",
+      "descripcion": "Manejo integral de quemaduras: clasificación, fisiopatología, tratamiento agudo y manejo de complicaciones.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#cirugia_plastica",
+        "#quemaduras",
+        "#emergencias",
+        "#cuidados_intensivos",
+        "#medicina_de_urgencias"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "enfermedad_de_crohn",
+      "titulo": "Enfermedad de Crohn",
+      "descripcion": "Trastorno inflamatorio crónico del tracto gastrointestinal, que puede afectar desde la boca hasta el ano, con síntomas como dolor abdominal, diarrea y fatiga.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#enfermedad_de_crohn",
+        "#enfermedad_inflamatoria_intestinal"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "infecciones_de_sitio_quirúrgico",
+      "titulo": "Infecciones de sitio quirúrgico",
+      "descripcion": "Abordaje de la prevención, diagnóstico y manejo de las infecciones que ocurren en el sitio de una intervención quirúrgica.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#cirugia",
+        "#infecciones",
+        "#medicina_interna",
+        "#microbiologia",
+        "#enfermedades_infecciosas"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "colitis_ulcerosa",
+      "titulo": "Colitis Ulcerosa",
+      "descripcion": "Enfermedad inflamatoria crónica del colon y recto que cursa con diarrea sanguinolenta, dolor abdominal y urgencia defecatoria.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#colitis_ulcerosa",
+        "#enfermedad_inflamatoria_intestinal"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "sibo(sobrecrecimiento_bacteriano_en_el_intestino_delgado)",
+      "titulo": "SIBO (Sobrecrecimiento Bacteriano en el Intestino Delgado)",
+      "descripcion": "Trastorno caracterizado por un aumento anormal de bacterias en el intestino delgado, causando síntomas como distensión abdominal, diarrea y malabsorción.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#sibo",
+        "#sobrecrecimiento_bacteriano",
+        "#medicina_interna",
+        "#microbiota"
+      ],
+      "tieneGuia": false
     }
   ]
 }

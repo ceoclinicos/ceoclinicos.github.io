@@ -1,1332 +1,1370 @@
 {
   "questions": [
     {
-      "question": "Qual é a definição de trauma abdominal?",
+      "question": "Qual o principal critério na classificação do trauma abdominal aberto?",
       "options": [
-        "Qualquer lesão na parede abdominal",
-        "Perfuração da pele abdominal sem danos aos órgãos",
-        "Lesão que afeta a cavidade abdominal e seu conteúdo",
-        "Golpe direto no abdômen sem danos internos"
+        "Mecanismo de lesão",
+        "estado hemodinâmico",
+        "Tempo de evolução",
+        "Envolvimento peritoneal"
       ],
-      "correctAnswer": 3,
-      "explanation": "Trauma abdominal é definido como qualquer lesão que afete a cavidade abdominal, incluindo seus órgãos, e a pelve.",
+      "correctAnswer": 4,
+      "explanation": "O trauma abdominal aberto é classificado conforme há ou não envolvimento peritoneal, pois determina o risco de lesão visceral e a necessidade de laparotomia exploradora.",
       "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
+        "cirurgia_geral",
+        "abdominal_trauma_classification",
         "conceito",
-        "definição",
-        "PATOLOGIA",
-        ""
+        "trauma_aberto",
+        "MEDICAL_TOPIC",
+        "Princípios de Cirurgia de Schwartz 11ed"
       ]
     },
     {
-      "question": "Como o trauma abdominal é classificado principalmente?",
+      "question": "Como o trauma abdominal fechado é classificado de acordo com a área anatômica afetada?",
       "options": [
-        "Aguda e crônica",
-        "Penetrante e aberto",
-        "Fechado (contundente) e penetrante",
-        "aberto e fechado"
+        "Anterior, posterior e lateral",
+        "Hepático, esplênico e renal",
+        "Torácica, pélvica e lombar",
+        "Intraperitoneal e retroperitoneal"
       ],
-      "correctAnswer": 3,
-      "explanation": "O trauma abdominal é basicamente classificado em dois tipos: trauma fechado (contuso), sem ruptura da pele, e trauma penetrante, que envolve perfuração da parede abdominal.",
+      "correctAnswer": 4,
+      "explanation": "O trauma abdominal fechado é dividido em lesões intraperitoneais (vísceras ocas e sólidas) e lesões retroperitoneais (pâncreas, duodeno, rins), orientando a abordagem diagnóstica e terapêutica.",
       "hashtags": [
-        "medicina_interna",
+        "cirurgia_geral",
+        "abdominal_trauma_classification",
+        "conceito",
+        "trauma_fechado",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Que tipo de trauma abdominal necessita de laparotomia de urgência de acordo com sua classificação?",
+      "options": [
+        "Trauma aberto com evisceração",
+        "Trauma contuso sem sinais peritoneais",
+        "Trauma contuso com hematoma retroperitoneal",
+        "Trauma aberto sem envolvimento peritoneal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A evisceração no trauma abdominal aberto indica envolvimento peritoneal e lesão visceral, por isso é classificada como indicação de laparotomia de urgência, independentemente do estado hemodinâmico.",
+      "hashtags": [
+        "cirurgia_geral",
+        "abdominal_trauma_classification",
+        "tratamento",
+        "laparotomia_indicação",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Qual a classificação mais utilizada para trauma hepático em cirurgia?",
+      "options": [
+        "Classificação AAST",
+        "Classificação de Child-Pugh",
+        "Classificação Clavien-Dindo",
+        "Classificação de bismuto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A classificação da Associação Americana para a Cirurgia do Trauma (AAST) classifica as lesões hepáticas de acordo com a extensão anatômica, hematoma e laceração, orientando o manejo cirúrgico ou conservador.",
+      "hashtags": [
+        "cirurgia_geral",
+        "abdominal_trauma_classification",
+        "conceito",
+        "fígado_trauma",
+        "MEDICAL_TOPIC",
+        "Escala de Lesões AAST"
+      ]
+    },
+    {
+      "question": "Qual achado classifica o trauma abdominal como penetrante?",
+      "options": [
+        "Ferida que passa pelo peritônio",
+        "dor abdominal difusa",
+        "Contusão sem ferida externa",
+        "Fratura pélvica associada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O trauma abdominal penetrante é definido por uma ferida que atravessa a parede abdominal e compromete a cavidade peritoneal, o que aumenta o risco de lesão de órgãos internos.",
+      "hashtags": [
+        "cirurgia_geral",
+        "abdominal_trauma_classification",
+        "conceito",
+        "penetrante_trauma",
+        "MEDICAL_TOPIC",
+        "Princípios de Cirurgia de Schwartz 11ed"
+      ]
+    },
+    {
+      "question": "Que critérios classificam o trauma abdominal como trauma contuso de alta energia?",
+      "options": [
+        "Cair da própria altura",
+        "Acidente com veículo em alta velocidade",
+        "Ferida de facada superficial",
+        "Trauma por força contundente menor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Traumas contusos de alta energia, como acidentes automobilísticos em alta velocidade, produzem mecanismos de desaceleração e compressão que causam lesões viscerais e vasculares graves, classificando-as como de maior risco.",
+      "hashtags": [
+        "cirurgia_geral",
+        "abdominal_trauma_classification",
+        "etiologia",
+        "alta_energia",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Qual é a principal diferença entre trauma abdominal penetrante e contuso?",
+      "options": [
+        "Sempre requer laparotomia urgente",
+        "Tem uma ferida aberta na parede",
+        "Afeta apenas órgãos sólidos",
+        "Causa exclusivamente lesões hepáticas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O trauma abdominal penetrante é caracterizado por uma ferida aberta que atravessa a parede abdominal, enquanto o trauma contuso não apresenta ruptura na pele.",
+      "hashtags": [
+        "medicina_de_emergência",
         "trauma_abdominal",
         "conceito",
         "lesão_mecanismo",
-        "PATOLOGIA",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "O que caracteriza o trauma abdominal fechado?",
+      "question": "Qual órgão é lesado com mais frequência em trauma abdominal fechado?",
       "options": [
-        "Ferida de faca",
-        "Lesão direta aos órgãos viscerais",
-        "Presença de projéteis",
-        "Ocorre sem ruptura da pele"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Trauma abdominal fechado ou contuso ocorre quando forças externas impactam o abdômen sem penetrar na pele, podendo causar danos aos órgãos internos.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "trauma_fechado",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual mecanismo NÃO está comumente associado ao trauma abdominal fechado?",
-      "options": [
-        "Colisões de veículos",
-        "Cataratas",
-        "Soco",
-        "Ferimentos à bala"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Os ferimentos por arma de fogo envolvem penetração da parede abdominal, sendo classificados como trauma penetrante e não contuso.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "etiologia",
-        "trauma_fechado",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que caracteriza o trauma abdominal penetrante?",
-      "options": [
-        "Impacto de objetos contundentes",
-        "Perfuração da parede abdominal",
-        "Golpe direto sem ferimento visível",
-        "Desaceleração repentina"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O trauma abdominal penetrante é definido pela entrada de um objeto pela parede abdominal, gerando uma lesão e possíveis danos às estruturas internas.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "penetrante_trauma",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual das alternativas a seguir é um exemplo de trauma abdominal penetrante?",
-      "options": [
-        "Ferida de faca",
-        "Bater com um objeto contundente",
-        "cair de altura",
-        "Lesão do cinto de segurança"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O ferimento por arma branca envolve a perfuração da pele e dos tecidos abdominais por objeto cortante, sendo classificado como trauma penetrante.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "etiologia",
-        "penetrante_trauma",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o principal risco associado ao trauma abdominal?",
-      "options": [
-        "Fraturas isoladas de ossos longos",
-        "Infecção do trato urinário inferior",
-        "hipoglicemia leve",
-        "Hemorragia maciça e peritonite"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O trauma abdominal pode causar hemorragia interna grave e peritonite devido a lesões em órgãos vitais, ambas condições de alta mortalidade.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "complicações",
-        "riscos",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual órgão NÃO é normalmente encontrado na cavidade abdominal?",
-      "options": [
+        "Bexiga",
         "Pâncreas",
-        "Rim",
-        "Coração",
-        "Fígado"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O coração está localizado na cavidade torácica, enquanto o fígado, o pâncreas e os rins são órgãos abdominais ou retroperitoneais.",
-      "hashtags": [
-        "anatomia",
-        "trauma_abdominal",
-        "anatomia_clínica",
-        "órgãos_abdominais",
-        "ANATOMIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual dos seguintes órgãos é um órgão sólido vulnerável em trauma abdominal fechado?",
-      "options": [
-        "Baço",
-        "Estômago",
-        "bexiga urinária",
-        "Intestino delgado"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O baço é um órgão sólido grande e friável localizado no quadrante superior esquerdo, muito suscetível a lacerações ou rupturas em traumas contusos.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "fisiopatologia",
-        "órgãos_sólidos",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual das alternativas a seguir é um órgão oco que pode ser perfurado em trauma abdominal?",
-      "options": [
-        "Rim",
-        "Fígado",
-        "Baço",
-        "Intestino grosso"
+        "Cólon",
+        "Baço"
       ],
       "correctAnswer": 4,
-      "explanation": "O intestino grosso, por ser um órgão oco, pode ser lacerado ou perfurado por forças contundentes ou objetos penetrantes, liberando conteúdo intestinal.",
+      "explanation": "O baço é o órgão mais comumente lesado no trauma abdominal fechado devido à sua vascularização e localização vulnerável no hipocôndrio esquerdo.",
       "hashtags": [
-        "medicina_interna",
+        "medicina_de_emergência",
         "trauma_abdominal",
-        "fisiopatologia",
-        "órgãos_ocos",
-        "PATOLOGIA",
+        "tabela_clínica",
+        "órgão_mais_afetado",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "O que causa desaceleração repentina em trauma contuso?",
+      "question": "Qual é o mecanismo de lesão mais comum no trauma abdominal penetrante?",
       "options": [
-        "Fratura de costela",
-        "perfuração intestinal",
-        "compressão direta",
-        "Cisalhamento de estrutura"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A desaceleração repentina, comum em acidentes de trânsito, pode causar forças de cisalhamento que desalojam órgãos ou rompem mesentérios e vasos.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "fisiopatologia",
-        "mecanismo_desaceleração",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que normalmente acontece após a perfuração de vísceras ocas em trauma abdominal?",
-      "options": [
-        "hipotermia leve",
-        "Peritonite",
-        "hematoma retroperitoneal",
-        "Pneumotórax"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A perfuração de órgãos ocos libera conteúdo gastrointestinal e bactérias na cavidade peritoneal, desencadeando peritonite química e bacteriana.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "fisiopatologia",
-        "peritonite",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a principal causa de morte no trauma abdominal fechado?",
-      "options": [
-        "Pneumonia",
-        "sangramento interno",
-        "Infecção do trato urinário",
-        "Insuficiência renal aguda"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Sangramento interno maciço, secundário a lacerações de órgãos sólidos ou grandes vasos, é a causa mais comum de mortalidade em trauma abdominal fechado.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "fisiopatologia",
-        "hemorragia_interna",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual o efeito da energia cinética nos ferimentos à bala?",
-      "options": [
-        "Cavitação temporária e permanente",
-        "Lesão à distância mínima",
-        "Aquecimento limitado do tecido",
-        "Apenas dano linear"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Projéteis de alta velocidade transferem energia cinética, criando uma cavidade temporária e permanente muito maior que o diâmetro do projétil, causando danos generalizados.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "fisiopatologia",
-        "arma_de_fogo",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a causa mais comum de trauma abdominal fechado em muitos países?",
-      "options": [
-        "Ataques físicos",
-        "Quedas acidentais",
-        "acidentes de trânsito",
-        "esportes de contato"
+        "Queda de altura",
+        "soco direto com punho",
+        "Ferida de faca",
+        "acidente de veículo"
       ],
       "correctAnswer": 3,
-      "explanation": "Os acidentes de trânsito, incluindo colisões de veículos e atropelamentos, são a causa predominante de trauma abdominal fechado em todo o mundo.",
+      "explanation": "As facadas são o mecanismo mais comum de trauma abdominal penetrante, seguido por ferimentos por arma de fogo em contextos urbanos.",
       "hashtags": [
-        "medicina_interna",
+        "medicina_de_emergência",
         "trauma_abdominal",
-        "epidemiologia",
-        "acidentes_de_tráfego",
-        "PATOLOGIA",
+        "etiologia",
+        "arma_branca",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual faixa etária é mais comumente afetada por trauma abdominal?",
+      "question": "No trauma abdominal fechado, qual achado sugere lesão de órgão oco?",
       "options": [
-        "adolescentes tardios",
-        "Idosos",
-        "crianças pequenas",
-        "Adultos jovens e de meia idade"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O trauma abdominal afeta predominantemente adultos jovens e de meia idade, tipicamente entre 15 e 45 anos, devido ao seu maior envolvimento em atividades de risco.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "epidemiologia",
-        "demografia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Os ferimentos à bala geralmente causam mais danos do que os ferimentos por faca?",
-      "options": [
-        "Maior energia transferida e cavitação",
-        "Trajetórias mais retas e previsíveis",
-        "Menos profundidade de penetração",
-        "Ausência de contaminação bacteriana"
-      ],
-      "correctAnswer": 1,
-      "explanation": "As armas de fogo transferem mais energia cinética, causando um efeito de cavitação que danifica os tecidos distantes do trajeto direto do projétil.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "fisiopatologia",
-        "arma_de_fogo",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O uso de álcool ou drogas pode afetar a avaliação do trauma abdominal?",
-      "options": [
-        "Reduzir o sangramento interno",
-        "Mascarar os sintomas e aumentar o risco",
-        "Melhorar a tolerância à dor",
-        "Facilitar a coagulação"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Álcool e drogas podem alterar o estado de consciência, mascarar dores e sintomas e reduzir a percepção de risco, dificultando a avaliação.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "avaliação_clínica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O sintoma mais comum no trauma abdominal é?",
-      "options": [
-        "dor abdominal",
-        "Icterícia",
-        "Diarréia",
-        "Febre"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A dor abdominal é o sintoma mais frequente e proeminente relatado por pacientes com trauma abdominal, embora sua gravidade possa variar.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "dor_abdominal",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que sugere a dor irradiada para os ombros em um paciente com trauma abdominal?",
-      "options": [
-        "Lesão renal direita",
-        "Irritação diafragmática",
-        "Perfuração gástrica",
-        "Lesão hepática localizada"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A irritação do diafragma por sangue ou conteúdo gastrointestinal na cavidade abdominal pode referir dor nos ombros (sinal de Kehr invertido).",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "dor_radiada",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "A distensão abdominal no trauma pode indicar?",
-      "options": [
-        "Acúmulo de sangue ou conteúdo gastrointestinal",
-        "Redução do peristaltismo",
-        "Pressão alta",
-        "Desidratação grave"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A distensão pode ser devida a hemoperitônio (sangue), pneumoperitônio (ar) ou derramamento de conteúdo intestinal (perfuração), todas causas de aumento do volume intra-abdominal.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "tensão_abdominal",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que é sinal de choque hipovolêmico no trauma abdominal?",
-      "options": [
-        "Bradicardia",
-        "Oligúria",
-        "Pele quente e seca",
-        "Hipotensão"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Hipotensão (pressão arterial sistólica <90 mmHg), taquicardia, palidez e oligúria são sinais-chave de choque hipovolêmico devido à perda de sangue.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "choque_hipovolêmico",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que indica a rigidez abdominal (abdômen em prancha)?",
-      "options": [
-        "Hepatomegalia",
-        "Íleo paralítico leve",
-        "Gastrite",
-        "Irritação peritoneal grave"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A rigidez abdominal involuntária, ou abdômen em tábua, é um sinal de alerta de peritonismo grave, indicando inflamação generalizada do peritônio.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "peritonismo",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O que sugere o sinal de Gray-Turner (equimose no flanco)?",
-      "options": [
-        "Pancreatite aguda",
-        "obstrução intestinal",
-        "Hemorragia retroperitoneal",
-        "Lesão diafragmática"
+        "Dor no hipocôndrio direito",
+        "Equimose periumbilical",
+        "Pneumoperitônio na radiografia",
+        "Hipotensão imediata"
       ],
       "correctAnswer": 3,
-      "explanation": "Equimose nos flancos é um sinal clássico de hemorragia retroperitoneal, frequentemente associada a lesões renais ou vasculares nessa área.",
+      "explanation": "O pneumoperitônio é um sinal radiológico clássico de perfuração de víscera oca, pois o ar livre intra-abdominal indica ruptura do trato gastrointestinal.",
       "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "hemorragia_retroperitoneal",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual sinal indica dor mais intensa ao retirar a mão após palpação profunda?",
-      "options": [
-        "Sinal de Murphy",
-        "Sinal de psoas",
-        "Dor na descompressão (rebote)",
-        "Sinal Cullen"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A dor descompressiva, ou sinal de rebote, ocorre quando o peritônio inflamado reage ao movimento brusco da mão, sendo um indicador de peritonismo.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "descompressão_pain",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Em pacientes inconscientes com trauma, o que se supõe em relação ao abdômen?",
-      "options": [
-        "Baixo risco de lesão abdominal",
-        "Provável lesão abdominal até prova em contrário",
-        "Lesão limitada à parede abdominal",
-        "Sem ferimentos se não houver sinais externos"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Em pacientes com alteração da consciência devido a trauma, a falta de sinais ou sintomas externos relatados não exclui lesões internas graves. A patologia abdominal é assumida até ser confirmada.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "pacientes_inconscientes",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual componente do exame físico abdominal é realizado antes da palpação?",
-      "options": [
-        "Manobras específicas",
-        "Inspeção",
-        "Ausculta",
-        "Percussão"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A ausculta é realizada antes da palpação para evitar alteração dos ruídos intestinais normais pela manipulação abdominal.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "ausculta",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O embotamento da percussão nos flancos sugere?",
-      "options": [
-        "Estômago dilatado",
-        "Ascite ou hemoperitônio",
-        "Ar livre intra-abdominal",
-        "Fígado aumentado"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A presença de líquido (sangue ou ascite) na cavidade peritoneal causa macicez à percussão nos flancos, que pode ser deslocável.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "percussão",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "A proteção muscular involuntária no exame físico abdominal indica?",
-      "options": [
-        "Irritação peritoneal grave",
-        "distensão gástrica",
-        "Dor superficial leve",
-        "Irritação peritoneal leve"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A proteção muscular involuntária (rigidez) é um sinal de peritonismo grave, indicando uma resposta inflamatória acentuada do peritônio.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "palpação",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual avaliação é prioritária em paciente com trauma abdominal hemodinamicamente instável?",
-      "options": [
-        "TC abdominal e pélvica com contraste",
-        "FAST (Avaliação Focada com Sonografia para Trauma)",
-        "Lavagem peritoneal diagnóstica",
-        "Radiografia abdominal simples"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Em pacientes hemodinamicamente instáveis, o FAST é o método inicial de escolha devido à sua rapidez à beira do leito para detectar líquido livre intra-abdominal.",
-      "hashtags": [
-        "medicina_interna",
+        "medicina_de_emergência",
         "trauma_abdominal",
         "diagnóstico",
-        "rápido",
-        "PATOLOGIA",
+        "pneumoperitônio",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual é o método de imagem de escolha em pacientes estáveis ​​com trauma abdominal?",
+      "question": "Qual exame de imagem é a escolha inicial no trauma abdominal fechado hemodinamicamente estável?",
       "options": [
         "RM abdominal",
-        "ultrassonografia abdominal",
+        "Tomografia computadorizada com contraste",
         "Radiografia abdominal simples",
-        "TC abdominal e pélvica com contraste IV"
+        "Ultrassom RÁPIDO"
       ],
       "correctAnswer": 4,
-      "explanation": "A tomografia computadorizada com contraste intravenoso oferece maior sensibilidade e especificidade para detectar e caracterizar lesões em órgãos abdominais e retroperitoneais em pacientes estáveis.",
+      "explanation": "O ultrassom FAST é a ferramenta inicial de escolha devido à sua velocidade, portabilidade e capacidade de detectar líquido livre intra-abdominal em pacientes estáveis.",
       "hashtags": [
-        "medicina_interna",
+        "medicina_de_emergência",
         "trauma_abdominal",
         "diagnóstico",
-        "tc_abdominal",
-        "PATOLOGIA",
+        "ultrassonografia_rápida",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "O que o FAST (Avaliação Focada com Sonografia para Trauma) pode detectar?",
+      "question": "Qual a indicação cirúrgica absoluta no trauma abdominal penetrante?",
       "options": [
-        "Alterações da parede abdominal",
-        "Fraturas pélvicas",
-        "Líquido livre em cavidades serosas",
-        "Lesões específicas de cada órgão"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O FAST foi projetado para detectar a presença de líquido livre (sangue, urina, conteúdo gastrointestinal) nos sacos pericárdico, pleuroperitoneal (Morison, esplenorrenal) e pélvico.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "diagnóstico",
-        "rápido",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Em que situação está indicada a laparotomia exploradora imediata no trauma abdominal?",
-      "options": [
-        "Peritonite leve sem choque",
-        "Paciente RÁPIDO positivo e instável",
-        "TC negativa e dor leve",
-        "Paciente RÁPIDO negativo e estável"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Um FAST positivo em um paciente hemodinamicamente instável é uma indicação clara de hemorragia intra-abdominal maciça e requer laparotomia de emergência para controle de danos.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "tratamento",
-        "laparotomia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual teste foi amplamente substituído pelo FAST e CT no diagnóstico de trauma abdominal?",
-      "options": [
-        "Lavagem peritoneal diagnóstica (DPL)",
-        "Radiografia de tórax",
-        "Ultrassonografia abdominal geral",
-        "Amilase sérica"
+        "Evisceração do omento",
+        "Ferida superficial sem sangramento",
+        "dor abdominal leve",
+        "Hematoma na parede anterior"
       ],
       "correctAnswer": 1,
-      "explanation": "A lavagem peritoneal diagnóstica (DPL), embora útil, foi amplamente substituída pelo FAST e pela TC, por ser menos invasiva, mais rápida e mais precisa.",
+      "explanation": "A evisceração (protrusão do conteúdo abdominal através da ferida) é indicação absoluta para laparotomia exploratória urgente em trauma penetrante.",
       "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "diagnóstico",
-        "dpl",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual exame laboratorial é essencial para avaliar a coagulação no trauma abdominal?",
-      "options": [
-        "Amilase e lipase",
-        "Uréia e creatinina",
-        "Tempos de protrombina e APTT",
-        "glicemia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Os tempos de protrombina (TP) e TTPA são cruciais para avaliar a cascata de coagulação e orientar a administração de hemoderivados e a decisão cirúrgica.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "diagnóstico",
-        "laboratório",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "A laparoscopia diagnóstica no trauma abdominal é indicada principalmente em?",
-      "options": [
-        "Hemorragia retroperitoneal maciça",
-        "Trauma abdominal contuso grave",
-        "Pacientes estáveis ​​com exame físico ambíguo",
-        "Pacientes instáveis ​​com FAST positivo"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A laparoscopia diagnóstica é considerada em pacientes estáveis, com suspeita de lesão interna e exame físico inconclusivo, permitindo diagnóstico e possível tratamento.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "diagnóstico",
-        "laparoscopia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Em que tipo de trauma abdominal a classificação da AAST (American Association for the Surgery of Trauma) é mais relevante?",
-      "options": [
-        "Trauma penetrante por arma de fogo",
-        "Trauma contuso",
-        "Perfuração intestinal isolada",
-        "Trauma por facada penetrante"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A classificação AAST é usada principalmente para classificar a gravidade das lesões em órgãos sólidos (fígado, baço, rim) em trauma fechado, orientando o manejo não operatório versus não operatório. cirúrgico.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "ast",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o objetivo principal da 'Laparotomia de Controle de Danos'?",
-      "options": [
-        "Diagnóstico detalhado com tomografia computadorizada intraoperatória",
-        "Reparação definitiva de todas as lesões",
-        "Controle o sangramento e a contaminação rapidamente",
-        "Estabilização fisiológica do paciente"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A cirurgia de controle de danos busca controlar rapidamente fontes de sangramento e contaminação em pacientes instáveis, adiando o reparo definitivo para um segundo estágio.",
-      "hashtags": [
-        "medicina_interna",
+        "medicina_de_emergência",
         "trauma_abdominal",
         "tratamento",
-        "dano_control",
-        "PATOLOGIA",
+        "evisceração",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Que grau de lesão hepática (de acordo com a AAST) poderia ser tratado de forma não cirúrgica se o paciente estiver estável?",
+      "question": "Qual dos seguintes achados constitui uma indicação absoluta para laparotomia urgente em trauma abdominal?",
       "options": [
+        "Distensão abdominal leve",
+        "Sinais de peritonite difusa",
+        "Hematêmese sem instabilidade",
+        "Dor no hipocôndrio direito"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A peritonite difusa indica irritação peritoneal devido ao conteúdo gastrointestinal ou sangue, um critério clássico para laparotomia urgente em trauma abdominal fechado ou penetrante.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "tratamento",
+        "urgente_laparotomia",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Em paciente com trauma abdominal penetrante, qual achado FAST requer laparotomia imediata?",
+      "options": [
+        "Fígado heterogêneo",
+        "Ar subdiafragmático",
+        "Líquido livre na pélvis",
+        "Derrame pleural direito"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A presença de líquido livre intra-abdominal na ultrassonografia FAST em paciente com trauma penetrante sugere hemoperitônio e é indicação de laparotomia urgente.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "diagnóstico",
+        "avaliação_rápida",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Qual é o limiar de instabilidade hemodinâmica que indica laparotomia urgente no trauma abdominal?",
+      "options": [
+        "Frequência cardíaca > 100 bpm",
+        "Saturação de O2 < 90%",
+        "PAS persistente < 90 mmHg",
+        "Pressão de pulso > 50 mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hipotensão persistente com PAS inferior a 90 mmHg apesar da reanimação indica choque hemorrágico não controlado, necessitando de laparotomia urgente para controle da fonte.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "tratamento",
+        "critérios_hemodinâmicos",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Qual achado tomográfico é indicação cirúrgica imediata no trauma abdominal fechado?",
+      "options": [
+        "Contusão renal grau I",
+        "Fratura do processo transverso",
+        "Pneumoperitônio grátis",
+        "Hematoma subcapsular hepático"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pneumoperitônio livre na TC indica perfuração da víscera oca, o que requer laparotomia urgente para reparo e para evitar sepse intra-abdominal.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "diagnóstico",
+        "tomografia_abdominal",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "No trauma abdominal, quando está indicada a laparotomia para evisceração?",
+      "options": [
+        "Quando o furo mede < 2 cm",
+        "Se houver peritonite associada",
+        "Sempre que isso acontece",
+        "Somente se houver sangramento ativo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A evisceração (saída de vísceras pela ferida) implica violação da cavidade peritoneal, indicação absoluta de laparotomia de urgência independentemente de outros achados.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "tratamento",
+        "evisceração",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Qual é a indicação mais comum de laparotomia urgente em trauma abdominal penetrante por faca?",
+      "options": [
+        "Ferida na região lombar",
+        "Sinais de irritação peritoneal",
+        "Laceração menor do fígado",
+        "Ferida superficial sem sangramento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sinais de irritação peritoneal (proteção, dor à descompressão) são a indicação mais comum de laparotomia em ferimentos por arma branca, pois indicam lesão intra-abdominal.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "tratamento",
+        "arma_branca",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Qual das alternativas a seguir é um sinal clássico de irritação peritoneal?",
+      "options": [
+        "Sinal de Murphy",
+        "Sinal de Rovsing",
+        "Sinal McBurney",
+        "Sinal de Blumberg"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O sinal de Blumberg, também conhecido como sinal de rebote, é um achado clássico de irritação peritoneal que indica inflamação do peritônio parietal quando o abdômen é subitamente descomprimido.",
+      "hashtags": [
+        "cirurgia_geral",
+        "irritação_peritoneal",
+        "diagnóstico",
+        "Blumberg_sign",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual é o mecanismo fisiopatológico do sinal rebote na peritonite?",
+      "options": [
+        "Espasmo muscular reflexo",
+        "Alongamento do peritônio parietal",
+        "Distensão das alças intestinais",
+        "Isquemia mesentérica aguda"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O sinal de rebote é produzido pelo estiramento repentino do peritônio parietal inflamado durante a descompressão abdominal, desencadeando dor intensa.",
+      "hashtags": [
+        "cirurgia_geral",
+        "irritação_peritoneal",
+        "fisiopatologia",
+        "mecanismo_de_dor",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual dos seguintes achados de exame sugere irritação peritoneal generalizada?",
+      "options": [
+        "Dor na fossa ilíaca direita",
+        "Aumento do ruído hidroaéreo",
+        "Dor à palpação superficial",
+        "Abdômen em prancha e silêncio"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O abdômen em tábua (rigidez muscular involuntária) e o silêncio abdominal (ausência de ruídos) são sinais de peritonite generalizada, indicando envolvimento peritoneal difuso.",
+      "hashtags": [
+        "cirurgia_geral",
+        "irritação_peritoneal",
+        "tabela_clínica",
+        "abdômen_na_tabela",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual exame de imagem é mais sensível para detectar pneumoperitônio por perfuração visceral?",
+      "options": [
+        "RM abdominal",
+        "Ultrassonografia abdominal com contraste",
+        "Radiografia abdominal simples",
+        "Tomografia computadorizada abdominal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A tomografia computadorizada abdominal é o exame mais sensível para detectar pneumoperitônio, principalmente nos casos de perfuração de víscera oca, sendo o padrão diagnóstico.",
+      "hashtags": [
+        "cirurgia_geral",
+        "irritação_peritoneal",
+        "diagnóstico",
+        "pneumoperitônio",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual é a causa mais comum de peritonite secundária em adultos?",
+      "options": [
+        "Perfuração de úlcera péptica",
+        "Colecistite gangrenosa aguda",
+        "Diverticulite sigmóide perfurada",
+        "Apendicite aguda complicada"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A apendicite aguda complicada por perfuração é a causa mais comum de peritonite secundária em adultos, seguida por perfuração de úlcera péptica e diverticulite.",
+      "hashtags": [
+        "cirurgia_geral",
+        "irritação_peritoneal",
+        "etiologia",
+        "peritonite_secundária",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual dos seguintes achados laboratoriais é mais indicativo de peritonite bacteriana?",
+      "options": [
+        "Leucocitose com desvio à esquerda",
+        "Plaquetopenia inferior a 50.000/mm3",
+        "Creatinina superior a 2 mg/dL",
+        "Hemoglobina abaixo de 7 g/dL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A leucocitose com desvio à esquerda é um achado característico de infecção bacteriana, como na peritonite, refletindo a resposta inflamatória sistêmica.",
+      "hashtags": [
+        "cirurgia_geral",
+        "irritação_peritoneal",
+        "diagnóstico",
+        "leucocitose",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "O que o ultrassom FAST avalia principalmente no trauma abdominal?",
+      "options": [
+        "Ruptura de víscera oca",
+        "Pneumotórax hipertensivo",
+        "Lesões ósseas pélvicas",
+        "Líquido livre intraperitoneal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O ultrassom FAST é utilizado para detectar líquido livre na cavidade peritoneal, hemoperitônio, pericárdio ou pleura em pacientes com trauma, orientando a necessidade de laparotomia.",
+      "hashtags": [
+        "medicina_de_emergência",
+        "trauma_abdominal",
+        "diagnóstico",
+        "ultrassonografia_rápida",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Qual é a janela ultrassonográfica padrão no FAST para avaliar hemopericárdio?",
+      "options": [
+        "Janela subxifóide",
+        "janela pélvica",
+        "janela hepática",
+        "Janela esplênica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A janela subxifóide é a projeção ultrassonográfica utilizada no FAST para visualizar o pericárdio e detectar derrame pericárdico ou hemopericárdio no trauma torácico.",
+      "hashtags": [
+        "medicina_de_emergência",
+        "trauma_abdominal",
+        "diagnóstico",
+        "ultrassom_windows",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Qual a sensibilidade aproximada do FAST para hemoperitônio em trauma fechado?",
+      "options": [
+        "50-60%",
+        "70-80%",
+        "90-95%",
+        "100%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O FAST tem sensibilidade relatada de 90-95% para detecção de hemoperitônio em trauma abdominal fechado, embora possa ser menor em vísceras ocas ou lesões retroperitoneais.",
+      "hashtags": [
+        "medicina_de_emergência",
+        "trauma_abdominal",
+        "diagnóstico",
+        "desempenho_diagnóstico",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed --- Radiologia 2020"
+      ]
+    },
+    {
+      "question": "Qual é a principal limitação do FAST no trauma abdominal?",
+      "options": [
+        "Útil apenas em pacientes pediátricos",
+        "Alta especificidade para lesão esplênica",
+        "Não detecta lesões retroperitoneais",
+        "Requer contraste intravenoso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O FAST não avalia adequadamente o retroperitônio, portanto lesões do duodeno, pâncreas ou vasos retroperitoneais podem passar despercebidas, sendo necessária tomografia computadorizada caso haja suspeita.",
+      "hashtags": [
+        "medicina_de_emergência",
+        "trauma_abdominal",
+        "diagnóstico",
+        "limitações_rápidas",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Quando é considerado um FAST positivo no trauma abdominal?",
+      "options": [
+        "Visualização de fluido anecóico na cavidade",
+        "Presença de ar livre subdiafragmático",
+        "Aumento da ecogenicidade hepática",
+        "Espessamento da parede da vesícula biliar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Um FAST positivo é definido pela presença de líquido anecóico livre em qualquer uma das janelas avaliadas (hepatorrenal, esplenorrenal, pélvica ou subxifóide), indicando provável hemorragia.",
+      "hashtags": [
+        "medicina_de_emergência",
+        "trauma_abdominal",
+        "diagnóstico",
+        "interpretação_rápida",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Qual exame de imagem é de escolha após um FAST negativo com alta suspeita clínica?",
+      "options": [
+        "Angiografia seletiva",
+        "Radiografia abdominal simples",
+        "Tomografia computadorizada com contraste",
+        "RM abdominal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "No caso de um FAST negativo, mas com alta suspeita de lesão intra-abdominal, a TC com contraste intravenoso é o padrão-ouro para avaliar lesões de vísceras sólidas, retroperitoneais e ocas.",
+      "hashtags": [
+        "medicina_de_emergência",
+        "trauma_abdominal",
+        "diagnóstico",
+        "algoritmo_de diagnóstico",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Quais estruturas anatômicas constituem o triângulo da morte no trauma?",
+      "options": [
+        "Artéria ilíaca, veia ilíaca e ureter",
+        "Aorta, esôfago e veia cava",
+        "Veia ilíaca, reto e sacro",
+        "Artéria ilíaca, ureter e cólon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O triângulo de morte no trauma retroperitoneal é formado pela artéria ilíaca, veia ilíaca e ureter, onde as lesões são de difícil acesso cirúrgico e apresentam alta mortalidade.",
+      "hashtags": [
+        "medicina_de_emergência",
+        "triângulo_da_morte",
+        "conceito",
+        "anatomia_cirúrgica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a principal complicação de um triângulo de lesão mortal?",
+      "options": [
+        "Sangramento incontrolável",
+        "trombose venosa profunda",
+        "Infecção urinária",
+        "Fístula enterocutânea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A hemorragia incontrolável é a complicação mais temida nas lesões do triângulo da morte, devido à proximidade de grandes vasos e à dificuldade de obtenção de hemostasia cirúrgica.",
+      "hashtags": [
+        "medicina_de_emergência",
+        "triângulo_da_morte",
+        "tabela_clínica",
+        "hemorragia_retroperitoneal",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual manobra cirúrgica é preferida para acessar o triângulo da morte?",
+      "options": [
+        "Abordagem retroperitoneal lateral",
+        "Laparotomia mediana infraumbilical",
+        "Toracotomia anterolateral esquerda",
+        "Incisão de Pfannenstiel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A laparotomia infraumbilical da linha média permite acesso rápido ao retroperitoneal central e ao triângulo da morte para controle vascular e reparo de lesões.",
+      "hashtags": [
+        "medicina_de_emergência",
+        "triângulo_da_morte",
+        "tratamento",
+        "abordagem cirúrgica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual dos seguintes mecanismos de trauma está mais associado ao triângulo de lesões fatais?",
+      "options": [
+        "Golpe direto no epigástrio",
+        "Acidente com veículo em baixa velocidade",
+        "Ferimento pélvico por arma de fogo",
+        "Cair da própria altura"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Os ferimentos por arma de fogo na pelve são o mecanismo de lesão mais frequente no triângulo da morte, devido à trajetória e energia cinética do projétil.",
+      "hashtags": [
+        "medicina_de_emergência",
+        "triângulo_da_morte",
+        "etiologia",
+        "lesão_mecanismo",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que sinal radiológico sugere lesão do triângulo da morte na tomografia computadorizada?",
+      "options": [
+        "Hematoma retroperitoneal central",
+        "Pneumotórax hipertensivo",
+        "Fratura do ramo pélvico",
+        "Derrame pleural bilateral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O hematoma retroperitoneal central na TC é indicativo de lesão do triângulo da morte, uma vez que as estruturas vasculares e o ureter estão localizados nessa região.",
+      "hashtags": [
+        "medicina_de_emergência",
+        "triângulo_da_morte",
+        "diagnóstico",
+        "tomografia_abdominal",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a mortalidade aproximada de uma lesão vascular no triângulo da morte?",
+      "options": [
+        "10-20%",
+        "50-70%",
+        "30-40%",
+        "80-100%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A mortalidade por lesões vasculares no triângulo da morte varia entre 50 e 70%, devido à dificuldade de controle hemorrágico e lesões associadas.",
+      "hashtags": [
+        "medicina_de_emergência",
+        "triângulo_da_morte",
+        "epidemiologia",
+        "mortalidade",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o principal mecanismo que limita a hemorragia nas lesões esplênicas de baixo grau?",
+      "options": [
+        "Shunt portossistêmico",
+        "Vasoconstrição esplâncnica",
+        "Conexão de cápsula",
+        "Ativação de coagulação"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Nas lesões de baixo grau, a cápsula esplênica intacta ou levemente rompida exerce um efeito de tamponamento que limita o sangramento, facilitando o manejo conservador.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "fisiopatologia",
+        "hemostasia_esplênica",
+        "MEDICAL_TOPIC",
+        "Livro de Cirurgia Sabiston 21ed"
+      ]
+    },
+    {
+      "question": "Qual exame de imagem é o padrão para classificação de lesões esplênicas traumáticas?",
+      "options": [
+        "Ultrassom RÁPIDO",
+        "Tomografia computadorizada",
+        "Radiografia abdominal simples",
+        "Angiografia seletiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A tomografia computadorizada com contraste intravenoso permite a classificação precisa do grau de lesão esplênica de acordo com a AAST, orientando a decisão pelo manejo conservador ou cirúrgico.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "diagnóstico",
+        "tomografia_axial",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed---Sabiston 21ed"
+      ]
+    },
+    {
+      "question": "Qual é o limiar de instabilidade hemodinâmica que contraindica o manejo conservador do baço?",
+      "options": [
+        "Diminuindo lentamente o hematócrito",
+        "Pressão arterial sistólica < 90 mmHg",
+        "Frequência cardíaca > 100 bpm",
+        "Déficit de base > 4 mEq/L"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hipotensão persistente (PAS < 90 mmHg) apesar da reanimação indica instabilidade hemodinâmica, que requer cirurgia de emergência e exclui manejo conservador do baço.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "tratamento",
+        "critérios_de_instabilidade",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
+      ]
+    },
+    {
+      "question": "Que complicação tardia requer reintervenção no manejo conservador do baço?",
+      "options": [
+        "Abscesso perisplênico",
+        "Vazamento persistente de bile",
+        "Pseudocisto esplênico",
+        "Hematoma subcapsular crônico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O abscesso perisplênico é uma complicação infecciosa que requer drenagem ou esplenectomia, enquanto as outras opções podem ser tratadas de forma conservadora ou não são específicas para o baço.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "complicações",
+        "abscesso_esplênico",
+        "MEDICAL_TOPIC",
+        "Sabiston 21ed --- Diário de Trauma"
+      ]
+    },
+    {
+      "question": "Qual vacina deve ser administrada na esplenectomia pós-traumática tardia?",
+      "options": [
+        "Antitetânico",
+        "Conjugado antipneumocócico",
+        "Anti-hepatite B",
+        "Anti-gripe"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Na esplenectomia programada ou tardia, a vacina pneumocócica conjugada (PCV13) é administrada para prevenir infecções por Streptococcus pneumoniae, principal risco em pacientes asplênicos.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "tratamento",
+        "profilaxia_infecciosa",
+        "MEDICAL_TOPIC",
+        "Diretrizes do CDC --- Sabiston 21ed"
+      ]
+    },
+    {
+      "question": "Qual a indicação absoluta de esplenectomia no trauma abdominal fechado?",
+      "options": [
+        "Lesão grau III sem sangramento ativo",
+        "Ruptura completa do hilo esplênico",
+        "Hematoma subcapsular estável",
+        "Contusão esplênica sem hemoperitônio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A ruptura completa do hilo esplênico (grau V) produz hemorragia maciça incontrolável, tornando a esplenectomia urgente a única opção viável, sem possibilidade de manejo conservador.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "tratamento",
+        "esplenectomia_indicações",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed---Sabiston 21ed"
+      ]
+    },
+    {
+      "question": "Qual é o grau AAST de lesão hepática para uma laceração capsular sem sangramento ativo?",
+      "options": [
+        "Grau I",
         "Grau III",
-        "Grau VI",
-        "Grau V",
+        "Grau II",
         "Grau IV"
       ],
       "correctAnswer": 1,
-      "explanation": "Lesões hepáticas de grau I a III muitas vezes podem ser tratadas de forma não cirúrgica em pacientes estáveis, enquanto os graus IV, V e VI normalmente requerem cirurgia.",
+      "explanation": "A laceração capsular sem sangramento ativo corresponde ao grau I da classificação AAST para trauma hepático, sendo a lesão mais leve.",
       "hashtags": [
-        "medicina_interna",
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "tabela_clínica",
+        "aast_classificação",
+        "MEDICAL_TOPIC",
+        "AAST 2018"
+      ]
+    },
+    {
+      "question": "Que achado de imagem define uma lesão hepática grau III na tomografia computadorizada?",
+      "options": [
+        "Hematoma subcapsular <10%",
+        "Laceração profunda de 4 cm",
+        "Laceração profunda de 1 cm",
+        "Hematoma parenquimatoso <10 cm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Uma laceração com 4 cm de profundidade corresponde ao grau III, pois ultrapassa 3 cm e atinge mais de 50% do lobo hepático.",
+      "hashtags": [
+        "radiologia",
+        "trauma_abdominal",
+        "diagnóstico",
+        "tomografia computadorizada",
+        "MEDICAL_TOPIC",
+        "AAST 2018"
+      ]
+    },
+    {
+      "question": "Qual é o manejo inicial recomendado para uma lesão hepática grau I hemodinamicamente estável?",
+      "options": [
+        "Laparotomia exploradora urgente",
+        "Manejo conservador não operatório",
+        "Embolização arterial seletiva",
+        "Ressecção hepática segmentar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Em pacientes hemodinamicamente estáveis ​​com lesão hepática grau I, o manejo não operatório conservador é a abordagem padrão, com observação cuidadosa.",
+      "hashtags": [
+        "cirurgia_geral",
         "trauma_abdominal",
         "tratamento",
         "gerenciamento_conservador",
-        "PATOLOGIA",
-        ""
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
       ]
     },
     {
-      "question": "Qual é o manejo preferido para o baço em trauma fechado se a lesão for grau I-III e o paciente estiver estável?",
+      "question": "Qual é a principal causa de morte em lesões hepáticas graves não controladas?",
       "options": [
-        "Esplenectomia imediata",
-        "Embolização esplênica",
-        "Conservação esplênica",
-        "Esplenectomia tardia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Sempre que possível e a lesão permitir, prefere-se a preservação do baço (com ou sem embolização) para evitar o risco de infecções pós-esplenectomia.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "tratamento",
-        "conservação_esplênica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "O tratamento não operatório do trauma abdominal é necessário?",
-      "options": [
-        "Antibióticos intravenosos de amplo espectro",
-        "Observação e monitoramento rigorosos",
-        "repouso relativo",
-        "Cirurgia laparoscópica imediata"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O manejo conservador bem-sucedido de lesões abdominais sem sangramento ou com sangramento mínimo requer monitoramento contínuo dos sinais vitais, débito urinário e exame físico, além de repouso no leito.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "tratamento",
-        "gerenciamento_conservador",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Quando a embolização seletiva está indicada no trauma abdominal?",
-      "options": [
-        "lesão no intestino delgado",
-        "Pneumoperitônio",
-        "Sangramento ativo das artérias (por exemplo, hepática, esplênica) na TC",
-        "Peritonite generalizada"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A embolização seletiva é um procedimento radiológico intervencionista útil para controlar o sangramento ativo de vasos arteriais identificados em estudos de imagem.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "tratamento",
-        "embolização",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual o objetivo da sonda nasogástrica no trauma abdominal?",
-      "options": [
-        "Descomprima o estômago",
-        "Obtenha amostras de sangue",
-        "Monitorar a pressão arterial",
-        "Administrar fluidos intravenosos"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A sonda nasogástrica ajuda a descomprimir o estômago, evitando a regurgitação e o risco de aspiração, principalmente em pacientes com íleo paralítico ou em preparação para cirurgia.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "tubo_nasogástrico",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Em qual caso a colocação de cateter de Foley seria contraindicada no trauma abdominal?",
-      "options": [
-        "Suspeita de lesão uretral",
-        "Presença de choque hipovolêmico",
-        "hipotensão arterial",
-        "Sangramento ativo"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Se houver evidência de lesão uretral (sangue no meato, hematoma perineal/escrotal), a inserção de um cateter de Foley pode piorar a lesão ou ser impossível.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "foley_probe",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o objetivo principal da transfusão maciça em trauma abdominal grave?",
-      "options": [
-        "Reduza a necessidade de cirurgia",
-        "Prevenir infecção nosocomial",
-        "Restaurar a coagulação e a oxigenação dos tecidos",
-        "Aumente o volume apenas com cristaloides"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A transfusão maciça (hemácias concentradas, plasma, plaquetas em proporções específicas) busca restaurar a capacidade de transporte de oxigênio e hemostasia em pacientes com hemorragia maciça.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "tratamento",
-        "transfusão_massiva",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual ordem médica busca prevenir a trombose venosa profunda em paciente imobilizado com trauma abdominal?",
-      "options": [
-        "Profilaxia com heparina de baixo peso molecular",
-        "Monitoramento cardíaco contínuo",
-        "cateter venoso central",
-        "Administração de antibióticos"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A profilaxia antitrombótica com heparina de baixo peso molecular (HBPM) ou heparina não fracionada (HNF) é padrão em pacientes imobilizados para prevenir TVP e embolia pulmonar.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "profilaxia_tvp",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Para que é utilizado o ácido tranexâmico (TXA) no trauma abdominal?",
-      "options": [
-        "Combater infecções bacterianas",
-        "Inibir a fibrinólise e reduzir o sangramento",
-        "Controlar a pressão arterial",
-        "Reduzir a inflamação"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O ácido tranexâmico é um antifibrinolítico que ajuda a estabilizar os coágulos sanguíneos, reduzindo o sangramento em pacientes com traumas graves.",
-      "hashtags": [
-        "farmacologia",
-        "trauma_abdominal",
-        "indicações",
-        "ácido tranexâmico",
-        "FARMACOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual das alternativas a seguir é um sinal de alerta para retornar ao pronto-socorro após receber alta por trauma abdominal?",
-      "options": [
-        "Pele quente e seca",
-        "Aumento repentino de dor ou distensão abdominal",
-        "Taquicardia leve",
-        "Dor residual leve"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Um aumento súbito da dor abdominal ou nova distensão pode indicar hemorragia interna ou uma complicação tardia, necessitando de reavaliação urgente.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "tratamento",
-        "sinais_de_alarme",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual lesão é mais comum no trauma abdominal fechado?",
-      "options": [
-        "Ruptura do diafragma",
-        "Laceração hepática",
-        "perfuração do cólon",
-        "lesão da aorta abdominal"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O fígado é o órgão sólido mais frequentemente lesado no trauma abdominal fechado, seguido pelo baço, devido ao seu tamanho e vascularização.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "epidemiologia",
-        "lesões_comuns",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Que tipo de trauma tem maior probabilidade de causar lesões vasculares importantes, como rupturas da aorta?",
-      "options": [
-        "Trauma contuso devido à desaceleração",
-        "Trauma por facada penetrante",
-        "Trauma penetrante causado por armas de fogo de baixa velocidade",
-        "Golpe direto sem lesão"
-      ],
-      "correctAnswer": 1,
-      "explanation": "As forças de desaceleração abruptas no trauma contuso podem causar cisalhamento na aorta abdominal, especialmente em seus pontos de fixação, resultando em rupturas.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "fisiopatologia",
-        "lesões_vasculares",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a principal complicação de uma esplenectomia?",
-      "options": [
-        "Infecção pós-esplenectomia (OPSI)",
-        "Peritonite bacteriana",
-        "Sangramento gastrointestinal superior",
-        "Pancreatite aguda"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A ausência do baço compromete a resposta imunológica contra bactérias encapsuladas, aumentando significativamente o risco de infecções graves e fulminantes (OPSI).",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "complicações",
-        "esplenectomia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Sugere paciente com trauma abdominal e sinal de Cullen positivo?",
-      "options": [
-        "perfuração do cólon",
-        "Diverticulite",
-        "Hemoperitônio",
-        "lesão renal"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O sinal de Cullen (equimose periumbilical) é indicativo de hemorragia intra-abdominal, sugerindo acúmulo de sangue na cavidade peritoneal.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "cullen_sign",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual dos seguintes órgãos é retroperitoneal e pode ser lesado em trauma abdominal?",
-      "options": [
-        "Baço",
-        "Fígado",
-        "Estômago",
-        "Pâncreas"
+        "Insuficiência hepática aguda",
+        "Insuficiência multiorgânica tardia",
+        "Embolia gordurosa pulmonar",
+        "Hemorragia exsanguinante"
       ],
       "correctAnswer": 4,
-      "explanation": "O pâncreas, assim como os rins, a aorta e a veia cava abdominal, está localizado no espaço retroperitoneal e pode ser lesado em caso de trauma, muitas vezes com sintomas insidiosos.",
+      "explanation": "A hemorragia exsanguinante é a principal causa de morte precoce em trauma hepático grave, devido à rica vascularização do fígado.",
       "hashtags": [
-        "anatomia",
+        "cirurgia_geral",
         "trauma_abdominal",
-        "anatomia_clínica",
-        "órgãos_retroperitoneais",
-        "ANATOMIA",
-        ""
+        "fisiopatologia",
+        "hemorragia",
+        "MEDICAL_TOPIC",
+        "Sabiston 21ed"
       ]
     },
     {
-      "question": "Qual abordagem é utilizada para avaliar a cavidade abdominal em pacientes hemodinamicamente instáveis?",
+      "question": "Qual técnica cirúrgica é usada para controlar o sangramento em uma lesão hepática grau IV?",
       "options": [
-        "Radiografia abdominal simples",
-        "RÁPIDO",
-        "Laparoscopia diagnóstica",
-        "TC de corpo inteiro"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O FAST é um ultrassom rápido à beira do leito que avalia a presença de líquido livre intra-abdominal em pacientes instáveis, orientando a necessidade de cirurgia de emergência.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "diagnóstico",
-        "rápido",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o objetivo principal da TC abdominal e pélvica com contraste IV no trauma abdominal?",
-      "options": [
-        "Monitore a resposta à fluidoterapia",
-        "Diagnosticar lesões cerebrais",
-        "Identificar e caracterizar lesões intra-abdominais",
-        "Avaliar fraturas de extremidades"
+        "Derivação Portocaval",
+        "Ligadura da artéria hepática",
+        "Embalagem peri-hepática",
+        "Embolização angiográfica"
       ],
       "correctAnswer": 3,
-      "explanation": "A TC com contraste IV é o padrão-ouro para avaliar a extensão e a gravidade das lesões em órgãos sólidos abdominais e retroperitoneais, espaços vazios e vasos em pacientes estáveis.",
+      "explanation": "O tamponamento peri-hepático é a técnica cirúrgica de escolha para controle do sangramento nas lesões hepáticas grau IV, permitindo estabilização.",
       "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "diagnóstico",
-        "tc_abdominal",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Um hematoma retroperitoneal identificado na TC pode exigir?",
-      "options": [
-        "Observação ou embolização seletiva",
-        "lavagem peritoneal",
-        "Reparação de vísceras ocas",
-        "Esplenectomia imediata"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Os hematomas retroperitoneais podem ser estáveis ​​e tratados de forma conservadora ou exigir radiologia intervencionista (embolização) se houver sangramento ativo.",
-      "hashtags": [
-        "medicina_interna",
+        "cirurgia_geral",
         "trauma_abdominal",
         "tratamento",
-        "hematoma_retroperitoneal",
-        "PATOLOGIA",
-        ""
+        "embalagem_de_fígado",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
       ]
     },
     {
-      "question": "'Rigidez abdominal' ou 'abdômen de prancha' é um sinal de?",
+      "question": "¿Cuál es el criterio tomográfico que indica una lesión hepática grado V?",
       "options": [
-        "Íleo transitório",
-        "Irritação peritoneal grave",
-        "sangue nas fezes",
-        "distensão gástrica"
+        "Avulsão do pedículo hepático",
+        "Laceração afetando ambos os lobos",
+        "Hematoma subcapsular >50%",
+        "Laceração profunda de 6 cm"
       ],
-      "correctAnswer": 2,
-      "explanation": "A rigidez muscular involuntária da parede abdominal é um sinal clássico de peritonismo grave, indicando inflamação difusa do peritônio.",
+      "correctAnswer": 1,
+      "explanation": "A avulsão do pedículo hepático define uma lesão grau V, a mais grave, que implica lesão vascular importante e requer cirurgia de emergência.",
       "hashtags": [
-        "medicina_interna",
+        "radiologia",
         "trauma_abdominal",
-        "conceito",
-        "peritonismo",
-        "PATOLOGIA",
-        ""
+        "diagnóstico",
+        "aast_classificação",
+        "MEDICAL_TOPIC",
+        "AAST 2018"
       ]
     },
     {
-      "question": "Qual das alternativas a seguir NÃO é um sintoma comum de trauma abdominal?",
+      "question": "Qual é o achado clínico mais característico da peritonite secundária à perfuração de víscera oca?",
       "options": [
-        "tosse produtiva",
+        "Febre e taquicardia",
         "Náuseas e vômitos",
         "Distensão abdominal",
-        "dor abdominal"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A tosse produtiva é um sintoma tipicamente respiratório. Os outros sintomas mencionados são comuns em traumas abdominais.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "sintomas_comuns",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o 'sinal do cinto de segurança' no trauma abdominal?",
-      "options": [
-        "Equimose linear abdominal/torácica com trauma raquimedular",
-        "Ferida penetrante no umbigo",
-        "Equimoses nos flancos",
-        "Lesão hepática"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O sinal do cinto de segurança (sinal de Chance) refere-se a uma equimose linear no abdômen ou tórax anterior, associada a traumatismo raquimedular e abdominal, devido ao uso do cinto de segurança em acidentes.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "sinal_cinto_de segurança",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Por que a avaliação do abdômen em pacientes envenenados ou com TCE é um desafio?",
-      "options": [
-        "Mascaramento de sintomas e sinais",
-        "Maior chance de perfuração",
-        "Menos resposta à ressuscitação",
-        "Aumento do risco de sangramento"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A intoxicação e o TCE podem alterar o nível de consciência, diminuindo a capacidade do paciente de relatar dor ou reagir à palpação, dificultando o diagnóstico clínico.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "pacientes_alterados",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o primeiro passo no tratamento do trauma abdominal?",
-      "options": [
-        "Consulte o cirurgião",
-        "Realizar tomografia abdominal",
-        "Iniciar antibióticos",
-        "Proteger as vias aéreas e estabilizar hemodinamicamente (ABC)"
+        "dor abdominal difusa"
       ],
       "correctAnswer": 4,
-      "explanation": "A prioridade absoluta em qualquer paciente traumatizado, incluindo trauma abdominal, é a avaliação e manejo das vias aéreas, respiração e circulação (ABC) para estabilizar o paciente.",
+      "explanation": "A dor abdominal difusa é o achado clínico mais característico da peritonite secundária, devido à irritação generalizada do peritônio pelo conteúdo da víscera oca perfurada.",
       "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
+        "cirurgia_geral",
+        "peritonite",
+        "tabela_clínica",
+        "dor_abdominal",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual exame de imagem é a primeira escolha na suspeita de perfuração de víscera oca?",
+      "options": [
+        "Radiografia abdominal simples",
+        "ressonância magnética",
+        "ultrassonografia abdominal",
+        "Tomografia computadorizada"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A tomografia computadorizada é o exame de imagem de primeira escolha para detectar pneumoperitônio e avaliar a extensão da perfuração de víscera oca, com alta sensibilidade e especificidade.",
+      "hashtags": [
+        "cirurgia_geral",
+        "perfuração_visceral",
+        "diagnóstico",
+        "tomografia computadorizada",
+        "MEDICAL_TOPIC",
+        "Corman 6ed---Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual o tratamento cirúrgico de escolha na peritonite por perfuração de víscera oca?",
+      "options": [
+        "Laparoscopia diagnóstica",
+        "Antibióticos intravenosos",
+        "laparotomia exploradora",
+        "Drenagem percutânea"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A laparotomia exploradora é o tratamento cirúrgico de escolha para identificar e reparar a perfuração, realizar lavagem peritoneal e controlar a fonte de contaminação na peritonite.",
+      "hashtags": [
+        "cirurgia_geral",
+        "peritonite",
         "tratamento",
-        "reavivamento",
-        "PATOLOGIA",
-        ""
+        "laparotomia exploratória",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
       ]
     },
     {
-      "question": "Qual ordem médica é crucial para monitorar a resposta à reanimação no trauma abdominal?",
+      "question": "Qual achado radiológico é patognomônico de perfuração de víscera oca?",
       "options": [
-        "Medição de amilase sérica",
-        "Gasometria arterial",
-        "Ultrassonografia abdominal seriada",
-        "Registro de diurese por hora"
+        "derrame pleural",
+        "Níveis hidroaéreos",
+        "Pneumoperitônio",
+        "Ar no ducto biliar"
       ],
-      "correctAnswer": 4,
-      "explanation": "O débito urinário horário (volume de urina por hora) é um indicador sensível da perfusão tecidual e da resposta do paciente à ressuscitação com fluidos.",
+      "correctAnswer": 3,
+      "explanation": "O pneumoperitônio, presença de ar livre na cavidade peritoneal, é o achado radiológico patognomônico de perfuração de víscera oca, visível na radiografia ou tomografia.",
       "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "monitoramento",
-        "PATOLOGIA",
-        ""
+        "cirurgia_geral",
+        "perfuração_visceral",
+        "diagnóstico",
+        "pneumoperitônio",
+        "MEDICAL_TOPIC",
+        "Corman 6ed"
       ]
     },
     {
-      "question": "Qual o principal risco associado à ingestão de objetos cortantes em traumas penetrantes?",
+      "question": "Qual é o principal mecanismo fisiopatológico da peritonite bacteriana secundária?",
       "options": [
-        "Formação de cálculos biliares",
-        "hemorragia pancreática",
-        "Obstrução intestinal tardia",
-        "Perfuração gastrointestinal"
+        "Hipertensão portal",
+        "Isquemia mesentérica",
+        "Contaminação peritoneal",
+        "obstrução intestinal"
       ],
-      "correctAnswer": 4,
-      "explanation": "A ingestão de objetos pontiagudos acarreta alto risco de perfuração da parede do trato gastrointestinal, o que pode causar peritonite.",
+      "correctAnswer": 3,
+      "explanation": "A contaminação peritoneal pelo conteúdo gastrointestinal, devido à perfuração de uma víscera oca, é o principal mecanismo fisiopatológico que desencadeia a peritonite bacteriana secundária.",
       "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
+        "cirurgia_geral",
+        "peritonite",
         "fisiopatologia",
-        "perfuração_intestinal",
-        "PATOLOGIA",
-        ""
+        "contaminação_peritoneal",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
       ]
     },
     {
-      "question": "No trauma abdominal fechado, a lesão da aorta abdominal está frequentemente associada a?",
+      "question": "Qual antibiótico deve ser abordado empiricamente na peritonite por perfuração de víscera oca?",
       "options": [
-        "Desaceleração repentina",
-        "Lesão por esmagamento",
-        "Impacto frontal direto",
-        "Entorse de tronco"
+        "Cobertura dupla aeróbica-anaeróbica",
+        "Cobertura para anaeróbios",
+        "Cobertura Gram-negativa",
+        "Cobertura para cogumelos"
       ],
       "correctAnswer": 1,
-      "explanation": "As forças de desaceleração, como nas colisões de veículos, podem causar cisalhamento e ruptura da aorta abdominal, especialmente em seus pontos de fixação.",
+      "explanation": "A dupla cobertura contra aeróbios e anaeróbios gram-negativos é essencial empiricamente, uma vez que a flora mista do trato gastrointestinal é responsável pela peritonite secundária.",
       "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "fisiopatologia",
-        "lesões_aórticas",
-        "PATOLOGIA",
-        ""
+        "cirurgia_geral",
+        "peritonite",
+        "tratamento",
+        "empírico_antibiótico",
+        "MEDICAL_TOPIC",
+        "Guia IDSA 2023 --- Sabiston 20ed"
       ]
     },
     {
-      "question": "Que tipo de trauma tem maior probabilidade de causar contusão pancreática?",
+      "question": "Qual é o exame de imagem mais sensível para detectar lesão diafragmática esquerda em trauma fechado?",
       "options": [
-        "Ferimento à bala",
-        "Trauma por facada penetrante",
-        "Trauma contuso devido a impacto direto",
-        "Compressão abdominal lateral"
+        "Tomografia computadorizada multislice",
+        "Radiografia simples de tórax",
+        "Ultrassonografia abdominal RÁPIDA",
+        "Ressonância magnética nuclear"
       ],
-      "correctAnswer": 3,
-      "explanation": "O impacto direto ou compressão na região epigástrica em trauma contuso pode causar contusão ou laceração do pâncreas, causando pancreatite traumática.",
+      "correctAnswer": 1,
+      "explanation": "A tomografia computadorizada multislice com reconstrução sagital e coronal é o estudo mais sensível para detectar lesões diafragmáticas, principalmente do lado esquerdo, em traumas contusos.",
       "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "fisiopatologia",
-        "lesão_pancreática",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "A avaliação da 'perda de sangue' é feita principalmente através?",
-      "options": [
-        "Medição de glicose sérica",
-        "Amilase e lipase",
-        "Avaliação hemodinâmica (PA, FC) e diurese",
-        "Radiografia de tórax"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A estabilidade hemodinâmica (pressão arterial, frequência cardíaca) e o débito urinário são indicadores-chave da perfusão tecidual e da magnitude da perda sanguínea.",
-      "hashtags": [
-        "medicina_interna",
-        "trauma_abdominal",
-        "conceito",
-        "hemorragia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o benefício da tomografia computadorizada de corpo inteiro no trauma?",
-      "options": [
-        "Diagnóstico rápido de fraturas pélvicas",
-        "Melhor visualização de lesões cutâneas",
-        "Avalia simultaneamente tórax, abdômen e pelve",
-        "Permite início imediato da cirurgia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A TC de corpo inteiro permite uma avaliação abrangente e rápida de lesões potenciais em múltiplos sistemas do corpo (tórax, abdômen, pelve) em pacientes com politraumatismo.",
-      "hashtags": [
-        "medicina_interna",
+        "cirurgia_geral",
         "trauma_abdominal",
         "diagnóstico",
-        "tc_whole_body",
-        "PATOLOGIA",
-        ""
+        "imagem_diagnóstica",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed"
       ]
     },
     {
-      "question": "A 'evisceração' no trauma abdominal é um sinal inequívoco de?",
+      "question": "Qual achado radiológico clássico sugere ruptura diafragmática esquerda em uma radiografia de tórax?",
       "options": [
-        "Lesão significativa na parede abdominal e conteúdo interno",
-        "íleo paralítico",
-        "peritonismo leve",
-        "Hemorragia retroperitoneal"
+        "Colapso completo do pulmão direito",
+        "Derrame pleural bilateral maciço",
+        "Pneumotórax hipertensivo esquerdo",
+        "Elevação do hemidiafragma esquerdo"
       ],
-      "correctAnswer": 1,
-      "explanation": "A evisceração, por onde sai o conteúdo abdominal, indica ruptura completa da parede abdominal e envolvimento das vísceras, necessitando de intervenção imediata.",
+      "correctAnswer": 4,
+      "explanation": "A elevação do hemidiafragma esquerdo é um achado clássico na radiografia de tórax que sugere ruptura diafragmática, embora tenha baixa sensibilidade e possa passar despercebida.",
       "hashtags": [
-        "medicina_interna",
+        "cirurgia_geral",
         "trauma_abdominal",
-        "conceito",
-        "evisceração",
-        "PATOLOGIA",
-        ""
+        "diagnóstico",
+        "achado radiológico",
+        "MEDICAL_TOPIC",
+        "Sabiston 20ed"
       ]
     },
     {
-      "question": "Qual é a principal consequência fisiopatológica da perfuração de vísceras ocas?",
+      "question": "Qual é a complicação mais temida de uma lesão diafragmática não diagnosticada em trauma penetrante?",
       "options": [
-        "Peritonite e sepse",
-        "Lesão renal aguda",
-        "Contusão miocárdica",
-        "Hipotensão prolongada"
+        "Fístula broncopleural persistente",
+        "Empiema pleural crônico",
+        "Hérnia diafragmática estrangulada",
+        "Abscesso subfrênico recorrente"
       ],
-      "correctAnswer": 1,
-      "explanation": "A liberação de conteúdo gastrointestinal na cavidade peritoneal causa peritonite, que pode evoluir para sepse e disfunção de múltiplos órgãos se não for tratada adequadamente.",
+      "correctAnswer": 3,
+      "explanation": "A hérnia diafragmática estrangulada é a complicação mais temida, pois pode ocorrer meses ou anos após o trauma, com encarceramento de vísceras abdominais e risco de necrose.",
       "hashtags": [
-        "medicina_interna",
+        "cirurgia_geral",
         "trauma_abdominal",
-        "fisiopatologia",
-        "peritonite_sepse",
-        "PATOLOGIA",
-        ""
+        "complicações",
+        "hérnia_estrangulada",
+        "MEDICAL_TOPIC",
+        "Mattox Trauma 8ed"
       ]
     },
     {
-      "question": "Que tipo de trauma está mais associado à lesão mesentérica e rupturas vasculares mesentéricas?",
+      "question": "Qual sinal operatório é patognomônico de lesão diafragmática durante laparotomia exploradora?",
       "options": [
-        "Queda de altura sem impacto direto",
-        "Trauma contuso devido à desaceleração",
-        "Ferimento por bala de baixa velocidade",
-        "Trauma penetrante por faca"
+        "Edema maciço de alças intestinais",
+        "Hematoma retroperitoneal em expansão",
+        "Sangramento ativo no omento maior",
+        "Visceralização através do defeito"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A visualização de vísceras abdominais (estômago, baço, cólon) através de defeito no diafragma é o sinal patognomônico durante a laparotomia, confirmando lesão diafragmática.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "diagnóstico",
+        "descoberta_operativa",
+        "MEDICAL_TOPIC",
+        "Princípios de Cirurgia de Schwartz 11ed"
+      ]
+    },
+    {
+      "question": "Em que lado do diafragma o trauma penetrante é mais comum?",
+      "options": [
+        "Lado direito em trauma penetrante",
+        "Ambos os lados sempre igualmente",
+        "Lado esquerdo em trauma penetrante",
+        "Lado direito em trauma contuso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "No trauma penetrante, o lado esquerdo é mais afetado porque a maioria dos ferimentos por faca ou arma de fogo são direcionados ao hemitórax esquerdo e o fígado protege parcialmente o diafragma direito.",
+      "hashtags": [
+        "cirurgia_geral",
+        "trauma_abdominal",
+        "epidemiologia",
+        "lado_afetado",
+        "MEDICAL_TOPIC",
+        "ATLS 10ed---Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual teste diagnóstico é considerado padrão ouro para lesão diafragmática em trauma penetrante estável?",
+      "options": [
+        "Radiografia de tórax inspiradora",
+        "Laparoscopia diagnóstica",
+        "Ecocardiograma transtorácico",
+        "Angiografia por tomografia computadorizada"
       ],
       "correctAnswer": 2,
-      "explanation": "As forças de desaceleração podem romper o mesentério e os vasos sanguíneos que o irrigam, causando isquemia intestinal ou hemorragia significativa.",
+      "explanation": "A laparoscopia diagnóstica permite a visualização direta do diafragma, sendo o padrão ouro em pacientes estáveis ​​com suspeita de lesão diafragmática por trauma penetrante, evitando laparotomias desnecessárias.",
       "hashtags": [
-        "medicina_interna",
+        "cirurgia_geral",
         "trauma_abdominal",
-        "fisiopatologia",
-        "lesão_mesentérica",
-        "PATOLOGIA",
+        "diagnóstico",
+        "laparoscopia",
+        "MEDICAL_TOPIC",
+        "Mattox Trauma 8ed---Schwartz 11ed"
+      ]
+    },
+    {
+      "question": "Qual é o germe mais comum nos abscessos intra-abdominais pós-traumáticos?",
+      "options": [
+        "Pseudomonas aeruginosa",
+        "Escherichia coli",
+        "Streptococcus pyogenes",
+        "Staphylococcus aureus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Escherichia coli é o microrganismo aeróbio mais comum em abscessos intra-abdominais, devido à sua presença na flora intestinal e à sua capacidade de causar infecção após contaminação peritoneal.",
+      "hashtags": [
+        "cirurgia_geral",
+        "abscesso_intraabdominal",
+        "diagnóstico",
+        "microbiologia",
+        "MEDICAL_TOPIC",
+        "Tratado de Sabiston sobre Cirurgia 20ed"
+      ]
+    },
+    {
+      "question": "Qual é o método de imagem de escolha para diagnosticar um abscesso intra-abdominal?",
+      "options": [
+        "Radiografia abdominal simples",
+        "Tomografia computadorizada com contraste",
+        "ultrassonografia abdominal",
+        "RM abdominal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A tomografia computadorizada com contraste é o padrão ouro para o diagnóstico de abscessos intra-abdominais, com alta sensibilidade e especificidade para identificar coleções e orientar a drenagem percutânea.",
+      "hashtags": [
+        "cirurgia_geral",
+        "abscesso_intraabdominal",
+        "diagnóstico",
+        "imagem",
+        "MEDICAL_TOPIC",
+        "Clínicas Cirúrgicas da América do Norte 2022"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha para um abscesso intra-abdominal bem circunscrito?",
+      "options": [
+        "Lavagem peritoneal fechada",
+        "Drenagem percutânea guiada por imagem",
+        "Antibioterapia exclusiva",
+        "Laparotomia exploradora urgente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A drenagem percutânea guiada por imagem é o tratamento inicial de escolha para abscessos intra-abdominais bem demarcados, combinada com antibióticos, por ser menos invasiva e bem-sucedida na maioria dos casos.",
+      "hashtags": [
+        "cirurgia_geral",
+        "abscesso_intraabdominal",
+        "tratamento",
+        "drenagem_percutânea",
+        "MEDICAL_TOPIC",
+        "Guia WSES 2019 --- Sabiston 20ed"
+      ]
+    },
+    {
+      "question": "Qual é a complicação mais temida de um abscesso intra-abdominal não tratado?",
+      "options": [
+        "Fístula entérica",
+        "Sepse abdominal",
+        "obstrução intestinal",
+        "peritonite difusa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A sepse abdominal é a complicação mais grave de um abscesso intra-abdominal não tratado, uma vez que a infecção localizada pode se espalhar sistemicamente e desencadear disfunção de múltiplos órgãos.",
+      "hashtags": [
+        "cirurgia_geral",
+        "abscesso_intraabdominal",
+        "complicações",
+        "sepse",
+        "MEDICAL_TOPIC",
+        "Infecções Cirúrgicas 2021"
+      ]
+    },
+    {
+      "question": "Qual sinal clínico é característico de um abscesso subfrênico direito?",
+      "options": [
+        "Dor no hipocôndrio direito",
+        "Dor na fossa ilíaca esquerda",
+        "Dor no epigástrio",
+        "Dor na região periumbilical"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A dor no quadrante superior direito é característica do abscesso subfrênico direito, devido à irritação diafragmática e à proximidade do fígado, podendo ser acompanhada de febre e elevação do hemidiafragma.",
+      "hashtags": [
+        "cirurgia_geral",
+        "abscesso_intraabdominal",
+        "tabela_clínica",
+        "subfrênico",
+        "MEDICAL_TOPIC",
+        "Princípios de Cirurgia de Schwartz 11ed"
+      ]
+    },
+    {
+      "question": "Qual é o fator de risco mais importante para o desenvolvimento de um abscesso intra-abdominal pós-traumático?",
+      "options": [
+        "Hipotensão intraoperatória",
+        "Idade avançada do paciente",
+        "transfusão maciça",
+        "Contaminação fecal persistente"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A contaminação fecal persistente é o fator de risco mais importante, pois a presença de matéria fecal na cavidade peritoneal favorece a formação de abscessos, principalmente se não for realizada lavagem cirúrgica adequada.",
+      "hashtags": [
+        "cirurgia_geral",
+        "abscesso_intraabdominal",
+        "etiologia",
+        "contaminação_fecal",
+        "MEDICAL_TOPIC",
+        "Jornal de Trauma e Cirurgia de Cuidados Agudos 2020"
+      ]
+    },
+    {
+      "question": "Qual é o mecanismo de lesão mais comum no trauma renal contuso?",
+      "options": [
+        "cair de altura",
+        "Ferida de faca",
+        "Ferimento de projétil",
+        "Desaceleração repentina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O trauma renal contuso geralmente ocorre devido à desaceleração repentina, como em acidentes de carro, onde o rim impacta as costelas ou a coluna, gerando lacerações ou hematomas.",
+      "hashtags": [
+        "urologia",
+        "rim_trauma",
+        "tabela_clínica",
+        "lesão_mecanismo",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual classificação é usada para graduar o trauma renal contuso?",
+      "options": [
+        "Classificação Clavien",
+        "Classificação AAST",
+        "Classificação RENAL",
+        "Classificação Dindo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A classificação da Associação Americana para a Cirurgia do Trauma (AAST) é o padrão para classificar o trauma renal, desde contusão leve (grau I) até lesão vascular grave ou fragmentação (grau V).",
+      "hashtags": [
+        "urologia",
+        "rim_trauma",
+        "diagnóstico",
+        "aast_classificação",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o exame de imagem inicial de escolha no trauma renal hemodinamicamente estável?",
+      "options": [
+        "ressonância magnética",
+        "Ultrassom RÁPIDO",
+        "Pielografia intravenosa",
+        "Tomografia computadorizada"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A tomografia computadorizada com contraste é o exame de escolha em pacientes estáveis ​​e com suspeita de trauma renal, pois permite avaliar o parênquima, a vascularização e a presença de hematoma retroperitoneal.",
+      "hashtags": [
+        "urologia",
+        "rim_trauma",
+        "diagnóstico",
+        "tomografia_axial",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual a indicação cirúrgica absoluta no trauma renal fechado?",
+      "options": [
+        "Hematoma perirrenal pequeno",
+        "Contusão renal grau I",
+        "Instabilidade hemodinâmica",
+        "Hematúria microscópica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A instabilidade hemodinâmica persistente apesar da reanimação é indicação cirúrgica absoluta no trauma renal fechado, pois sugere sangramento ativo que não pode ser controlado por manejo conservador ou angiográfico.",
+      "hashtags": [
+        "urologia",
+        "rim_trauma",
+        "tratamento",
+        "indicação_cirúrgica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual achado tomográfico é característico do hematoma retroperitoneal por trauma renal?",
+      "options": [
+        "Pneumoperitônio maciço",
+        "Derrame pleural direito",
+        "Espessamento da fáscia de Gerota",
+        "Líquido livre na pélvis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O hematoma retroperitoneal traumático geralmente se manifesta como espessamento ou distensão da fáscia de Gerota, que delimita o espaço perinéfrico, com densidade heterogênea na tomografia.",
+      "hashtags": [
+        "urologia",
+        "hematoma_retroperitoneal",
+        "diagnóstico",
+        "gerota_fascia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o manejo inicial do hematoma retroperitoneal estável e não expansivo?",
+      "options": [
+        "Observação e descanso",
+        "Drenagem percutânea",
+        "Embolização angiográfica",
+        "laparotomia exploradora"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O hematoma retroperitoneal estável e não expansivo é tratado de forma conservadora com observação, repouso no leito e monitoramento dos sinais vitais, já que a maioria se resolve espontaneamente sem intervenção.",
+      "hashtags": [
+        "urologia",
+        "hematoma_retroperitoneal",
+        "tratamento",
+        "gerenciamento_conservador",
+        "MEDICAL_TOPIC",
         ""
       ]
     }

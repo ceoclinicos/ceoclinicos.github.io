@@ -1,0 +1,77 @@
+{
+  "id": "patología_de_mama",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Factores de riesgo y BRCA",
+      "title": "Factores de riesgo y BRCA",
+      "contentHtml": "<h2>Factores de riesgo y BRCA</h2><ul><li><b>BRCA1/2</b>: mutación de línea germinal; riesgo acumulado de cáncer de mama hasta 72% (BRCA1) y 69% (BRCA2) a los 80 años.</li><li><b>BRCA1</b> se asocia a triple negativo; <b>BRCA2</b> a receptores hormonales positivos.</li><li>Factores de riesgo modificables: nuliparidad, menarquia precoz (<12 años), menopausia tardía (>55 años), terapia hormonal combinada postmenopáusica.</li><li>Factores protectores: lactancia, ooforectomía bilateral antes de los 40 años.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Clasificación BI-RADS en mamografía",
+      "title": "Clasificación BI-RADS",
+      "contentHtml": "<h2>Clasificación BI-RADS en mamografía</h2><ul><li><b>BI-RADS 0</b>: evaluación incompleta, requiere imágenes adicionales.</li><li><b>BI-RADS 1</b>: negativo; <b>BI-RADS 2</b>: hallazgos benignos.</li><li><b>BI-RADS 3</b>: probablemente benigno (<2% malignidad); seguimiento a 6 meses.</li><li><b>BI-RADS 4</b>: sospechoso, subcategorías 4A (baja sospecha 2-10%), 4B (intermedia 10-50%), 4C (alta 50-95%); requiere biopsia.</li><li><b>BI-RADS 5</b>: altamente sugestivo de malignidad (≥95%); biopsia inmediata.</li><li><b>BI-RADS 6</b>: malignidad conocida confirmada por biopsia.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Cáncer de mama hereditario",
+      "title": "Cáncer de mama hereditario",
+      "contentHtml": "<h2>Cáncer de mama hereditario</h2><ul><li>Criterios de sospecha: cáncer de mama <50 años, bilateral, triple negativo, cáncer de ovario, varón, múltiples familiares afectados.</li><li>Genes principales: <b>BRCA1</b>, <b>BRCA2</b>, <b>TP53</b> (síndrome de Li-Fraumeni), <b>PTEN</b> (Cowden), <b>CDH1</b> (cáncer gástrico difuso hereditario).</li><li>Manejo: mastectomía reductora de riesgo bilateral y salpingooforectomía bilateral (BRCA1/2) hacia los 35-40 años.</li><li>Quimioprevención con <b>tamoxifeno</b> reduce riesgo 50% en portadoras BRCA2 (no en BRCA1).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Tipos histológicos más frecuentes",
+      "title": "Tipos histológicos",
+      "contentHtml": "<h2>Tipos histológicos más frecuentes</h2><ul><li><b>Carcinoma ductal infiltrante</b> (80%): el más frecuente; pronóstico intermedio.</li><li><b>Carcinoma lobulillar infiltrante</b> (10-15%): pérdida de E-cadherina, crecimiento difuso, difícil detección mamográfica, bilateralidad.</li><li><b>Carcinoma medular</b>: bien delimitado, linfocitos infiltrantes, mejor pronóstico.</li><li><b>Carcinoma mucinoso</b>: abundante moco extracelular, buen pronóstico, típico en ancianas.</li><li><b>Carcinoma tubular</b>: bajo grado, excelente pronóstico.</li><li><b>Carcinoma papilar</b>: intraquístico, buen pronóstico.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Manejo del carcinoma ductal in situ",
+      "title": "Manejo del DCIS",
+      "contentHtml": "<h2>Manejo del carcinoma ductal in situ</h2><ul><li>Tratamiento: cirugía conservadora (tumorectomía con bordes libres ≥2 mm) + radioterapia adyuvante; alternativa mastectomía total si multifocal o bordes positivos.</li><li>En DCIS de bajo grado y <2.5 cm puede omitirse radioterapia (ECOG-ACRIN E5194).</li><li>Ganglio centinela: indicado si mastectomía o si alta sospecha de invasión.</li><li>Tamoxifeno adyuvante reduce recurrencia ipsilateral y contralateral en DCIS RE+ (NSABP B-24).</li><li>No se usa quimioterapia ni trastuzumab.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Receptores hormonales y HER2",
+      "title": "Receptores hormonales y HER2",
+      "contentHtml": "<h2>Receptores hormonales y HER2</h2><ul><li><b>Receptor de estrógeno (RE)</b> y <b>receptor de progesterona (RP)</b>: positivos si ≥1% de células teñidas; pronóstico favorable, guían terapia endocrina.</li><li><b>HER2</b>: sobreexpresión (IHC 3+) o amplificación génica (FISH ratio ≥2.0); mal pronóstico sin terapia anti-HER2.</li><li><b>Triple negativo</b> (RE-, RP-, HER2-): 15-20%, mayor agresividad, quimioterapia base, no beneficio de endocrina ni anti-HER2.</li><li>Subtipo luminal A (RE+, HER2-, baja proliferación) mejor pronóstico; luminal B (RE+, HER2+ o alta proliferación) peor.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Estadificación TNM del cáncer de mama",
+      "title": "Estadificación TNM",
+      "contentHtml": "<h2>Estadificación TNM del cáncer de mama</h2><ul><li><b>T</b>: T1 ≤2 cm, T2 >2-5 cm, T3 >5 cm, T4 extensión a pared torácica o piel (T4a: pared, T4b: edema/ulceración, T4c: ambos, T4d: carcinoma inflamatorio).</li><li><b>N</b>: N0 sin metástasis ganglionares; N1: ganglios axilares ipsilaterales móviles; N2: fijos o conglomerados; N3: infraclaviculares o supraclaviculares.</li><li><b>M</b>: M0 sin metástasis a distancia; M1 metástasis.</li><li>Estadios: 0 (DCIS), I (T1N0M0), II (T0-3N1M0 o T2-3N0M0), III (cualquier T N2-3M0 o T4 cualquier N M0), IV (M1).</li><li>Carcinoma inflamatorio siempre T4d y estadio IIIB como mínimo.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Tamoxifeno y efectos adversos",
+      "title": "Tamoxifeno y efectos adversos",
+      "contentHtml": "<h2>Tamoxifeno y efectos adversos</h2><ul><li><b>Tamoxifeno</b>: modulador selectivo del receptor de estrógeno (SERM); dosis 20 mg/día por 5-10 años.</li><li>Efectos adversos: sofocos, sequedad vaginal, aumento de riesgo de tromboembolismo venoso (TEV) y de cáncer de endometrio (riesgo relativo 2-3).</li><li>Contraindicado en mujeres con historia de TEV o hiperplasia endometrial.</li><li>En premenopáusicas: bloquea receptor de estrógeno; en postmenopáusicas: agonista parcial en endometrio y hueso.</li><li>Alternativa en postmenopausia: inhibidores de aromatasa (anastrozol, letrozol, exemestano) sin riesgo endometrial ni TEV.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Tratamiento quirúrgico: cuadrantectomía vs mastectomía",
+      "title": "Cirugía: cuadrantectomía vs mastectomía",
+      "contentHtml": "<h2>Tratamiento quirúrgico: cuadrantectomía vs mastectomía</h2><ul><li><b>Cuadrantectomía</b> (cirugía conservadora de mama): extirpación del tumor con margen de tejido sano; equivalente en supervivencia a mastectomía total para tumores ≤4 cm y mama adecuada (NSABP B-06).</li><li>Contraindicaciones de conservación: enfermedad multicéntrica, microcalcificaciones extensas, radioterapia previa, embarazo (primer trimestre), margen positivo tras reexcisión.</li><li><b>Mastectomía total</b>: extirpación de toda la glándula mamaria; indicada en multifocalidad, recidiva tras conservación, o preferencia paciente.</li><li>Mastectomía radical modificada (Patey): incluye vaciamiento axilar niveles I-II.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Ganglio centinela en cáncer de mama",
+      "title": "Ganglio centinela",
+      "contentHtml": "<h2>Ganglio centinela en cáncer de mama</h2><ul><li>Técnica: inyección peritumoral/subareolar de <b>tecnecio-99m</b> + azul de metileno; identificación del primer ganglio de drenaje linfático.</li><li>Indicado en cáncer de mama invasor cN0 (clínicamente negativo).</li><li>Si ganglio centinela positivo: disección axilar completa si >2 ganglios centinela positivos o macrometástasis (ACOSOG Z0011: omitir disección si T1-T2, 1-2 ganglios centinela positivos, cirugía conservadora + radioterapia).</li><li>Falsos negativos: 5-10%; mayor si tumor multifocal o cirugía previa.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Enfermedad fibroquística de la mama",
+      "title": "Enfermedad fibroquística",
+      "contentHtml": "<h2>Enfermedad fibroquística de la mama</h2><ul><li>Cambios benignos: fibrosis, quistes, hiperplasia epitelial; más frecuente en mujeres 30-50 años.</li><li>Clasificación histológica: no proliferativa (sin aumento de riesgo), proliferativa sin atipia (riesgo relativo 1.5-2), proliferativa con atipia (riesgo relativo 4-5).</li><li>Mamografía: quistes redondos/ovoides, microcalcificaciones benignas (tipo rodete).</li><li>Manejo: sintomático (evitar cafeína, AINEs); aspiración de quistes dolorosos; biopsia si sospecha.</li><li>No requiere seguimiento especial salvo atipia (vigilancia cada 6-12 meses).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Galactorrea y prolactinoma",
+      "title": "Galactorrea y prolactinoma",
+      "contentHtml": "<h2>Galactorrea y prolactinoma</h2><ul><li>Galactorrea: secreción láctea no puerperal; causas: <b>prolactinoma</b>, fármacos (antipsicóticos, metoclopramida), hipotiroidismo, estimulación crónica.</li><li>Diagnóstico: niveles de <b>prolactina</b> >200 ng/mL sugieren prolactinoma; entre 20-200 ng/mL descartar otras causas.</li><li>Imagen: <b>RM de silla turca</b> con gadolinio para detectar microadenoma (<10 mm) o macroadenoma (≥10 mm).</li><li>Tratamiento primera línea: <b>cabergolina</b> 0.5-2 mg/semana (agonista dopaminérgico); reduce prolactina y tamaño tumoral.</li><li>Cirugía transesfenoidal si resistencia/intolerancia o compresión quiasmática.</li></ul>"
+    }
+  ]
+}

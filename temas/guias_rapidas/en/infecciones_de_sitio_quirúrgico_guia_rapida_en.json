@@ -1,0 +1,77 @@
+{
+  "id": "surgical_site_infections",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Classification of surgical wounds",
+      "title": "Classification of surgical wounds",
+      "contentHtml": "<h2>Classification of surgical wounds</h2><ul><li><b>Class I (clean):</b> without contamination, without entry into the respiratory/digestive/genitourinary tract; infection rate <b><2%</b>.</li><li><b>Class II (clean-contaminated):</b> controlled entry into the respiratory/digestive/genitourinary tract; rate <b><10%</b>.</li><li><b>Class III (contaminated):</b> significant effusion, acute non-purulent inflammation or recent traumatic wound; rate <b>15-20%</b>.</li><li><b>Class IV (dirty/infected):</b> pus, visceral perforation, traumatic wound with devitalized tissue; rate <b>>30%</b>.</li><li><b>Trap:</b> a wound with pus is already Class IV, not Class III.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Preoperative risk factors",
+      "title": "Preoperative risk factors",
+      "contentHtml": "<h2>Preoperative risk factors</h2><ul><li><b>Age >65 years:</b> immunosenescence and comorbidities.</li><li><b>Diabetes mellitus:</b> Preoperative HbA1c >7% doubles the risk of surgical site infection (SSI).</li><li><b>Obesity (BMI >30):</b> tissue hypoperfusion and greater tension in wound.</li><li><b>Active smoking:</b> vasoconstriction and hypoxia; suspend ≥4 weeks before.</li><li><b>Hypoalbuminemia (<3.5 g/dL):</b> marker of malnutrition and worse healing.</li><li><b>Immunosuppression (corticosteroids, chemotherapy):</b> increases the risk of opportunistic infection.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Adequate antibiotic prophylaxis",
+      "title": "Adequate antibiotic prophylaxis",
+      "contentHtml": "<h2>Adequate antibiotic prophylaxis</h2><ul><li>Indicated in <b>Class II, III and IV</b> wounds and in <b>Class I</b> if there is a prosthetic implant, cardiac surgery, neurosurgery or immunosuppression.</li><li>Choice: <b>Cefazolin 2 g IV</b> (1 g if weight <80 kg) for most surgeries; in those allergic to beta-lactams: <b>clindamycin 600 mg</b> or <b>vancomycin 15 mg/kg</b>. </li><li>In colorectal surgery: <b>cefazolin + metronidazole 500 mg</b> or <b>ertapenem 1 g</b>.</li><li>Duration: <b>single preoperative dose</b>; Do not prolong more than 24 hours (except cardiac surgery with bypass, up to 48 hours). </li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Optimal timing of prophylaxis",
+      "title": "Optimal timing of prophylaxis",
+      "contentHtml": "<h2>Optimal timing of prophylaxis</h2><ul><li>Administer within <b>60 minutes prior to incision</b> (120 min for vancomycin and fluoroquinolones by slow infusion).</li><li>The serum peak should coincide with the time of incision; <b>ideal: 30-45 min before</b>.</li><li>If the surgery exceeds <b>2 half-lives</b> of the antibiotic (e.g. cefazolin every 4 hours), repeat the intraoperative dose.</li><li><b>Trap:</b> administering prophylaxis >2 hours before the incision is associated with a higher rate of SSI (equivalent to not giving prophylaxis).</li><li>In cesarean section: giving antibiotic <b>30-60 min before incision</b>, not after cord clamping.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Superficial infection criteria",
+      "title": "Superficial infection criteria",
+      "contentHtml": "<h2>Superficial infection criteria</h2><ul><li>Affects only <b>skin and subcutaneous cellular tissue</b>, within <b>30 postoperative days</b>.</li><li>Must meet at least one of the following: <b>purulent drainage</b> from the incision; positive fluid or tissue culture; signs of inflammation (pain, edema, erythema, heat) and the surgeon <b>opens the wound</b> intentionally (except if culture is negative).</li><li>Does not include suture abscess or cellulitis without pus.</li><li><b>Trap:</b> if there is <b>superficial and deep infection</b> in the same wound, it is classified as deep infection.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Deep infection criteria",
+      "title": "Deep infection criteria",
+      "contentHtml": "<h2>Criteria for deep infection</h2><ul><li>Affects <b>fascia and muscle</b>, within <b>30 days</b> (or up to 1 year if there is an implant) postoperatively.</li><li>Criteria: <b>purulent drainage</b> from the fascia; spontaneous dehiscence or surgical opening of the wound with a positive culture; deep abscess; fever or local pain plus imaging findings (CT: collection with edge enhancement). </li><li>Requires <b>surgical drainage</b> and targeted antibiotics.</li><li><b>Trap:</b> if the infection involves fascia, it is deep although it appears superficial; not to be confused with infected seroma. </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Organ or space infection",
+      "title": "Organ or space infection",
+      "contentHtml": "<h2>Organ or space infection</h2><ul><li>Affects any structure <b>deep to the fascia</b> (organ, cavity, space) that was opened or manipulated during surgery.</li><li>Examples: <b>mediastinitis</b> poststernotomy, <b>intra-abdominal abscess</b> postcolectomy, <b>empyema</b> postthoracotomy.</li><li>Criteria: purulent drainage from drainage placed in the organ/space; positive fluid/tissue culture from site; abscess or other evidence of infection on <b>imaging (CT/MRI) or reintervention</b>.</li><li><b>Trap:</b> an organ/space infection does not require that the superficial wound be infected; There may be fever without skin signs. </li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Staphylococcus aureus as a common pathogen",
+      "title": "Staphylococcus aureus as a common pathogen",
+      "contentHtml": "<h2>Staphylococcus aureus as a common pathogen</h2><ul><li><b>Staphylococcus aureus</b> is the most common agent in SSI (20-30%), followed by <i>E. coli</i> and <i>Enterococcus</i>. </li><li>In clean surgery <b>S predominates. aureus</b> (nasal colonization is an independent risk factor).</li><li><b>MRSA (methicillin-resistant Staphylococcus aureus)</b>: consider in patients with previous hospitalization, hemodialysis, known carriers or surgery with prosthetic implant; use <b>vancomycin</b> or <b>daptomycin</b>.</li><li>The production of <b>biofilm</b> on implants makes eradication difficult; requires removal of the device.</li><li><b>Cat:</b> do not use first generation cephalosporins if MRSA is suspected.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Use of drains and their management",
+      "title": "Use of drains and their management",
+      "contentHtml": "<h2>Use of drains and their management</h2><ul><li>Suction-closed drains</b> (Jackson-Pratt, Blake) reduce fluid accumulation, but do not prevent SSIs; they can be a route of entry for infection if not managed aseptically. </li><li>Indications: surgery with dead space, suboptimal hemostasis, expected anastomotic leak. </li><li>Remove as soon as possible: <b>in <24-48 hours</b> if discharge <30 mL/day and without leak; do not maintain >7 days unless specifically indicated. </li><li><b>Trap:</b> open drains (Penrose) increase the risk of ascending infection; prefer closed systems. </li><li>Do not use prophylactic antibiotics only due to the presence of drainage; The indication is surgery, not drainage. </li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Management with wound opening",
+      "title": "Management with wound opening",
+      "contentHtml": "<h2>Management with wound opening</h2><ul><li>If superficial SSI is suspected, open the wound (remove stitches/staples) for <b>drainage and debridement</b> if there is pus or necrotic tissue.</li><li>Take <b>deep tissue culture</b> (not just superficial swab) and send for aerobes/anaerobes.</li><li>Start <b>empirical antibiotic therapy</b> directed at skin flora and the surgical site; adjust according to antibiogram.</li><li>Open wound: management with <b>moist healing</b> (dressings with saline solution, alginates or hydrocolloids) and closure by secondary intention or delayed closure when the bed is clean.</li><li><b>Trap:</b> not primarily closing an infected wound; Wait until there are no signs of infection and a negative culture.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Culture and directed antibiogram",
+      "title": "Culture and directed antibiogram",
+      "contentHtml": "<h2>Culture and directed antibiogram</h2><ul><li>Sample collection: <b>deep tissue or pus aspiration</b> (avoid superficial swab due to contamination with commensal flora).</li><li>Send for <b>aerobic and anaerobic</b> culture; if mycobacteria or fungi are suspected, request specifically. </li><li>Antibiogram: allows <b>de-escalation</b> empirical therapy; if you isolate<b>S. aureus sensitive to methicillin</b>, use cefazolin instead of vancomycin. </li><li>In polymicrobial infections (abdominal surgery), cover gram-negative and anaerobes; adjust according to local resistance.</li><li><b>Trap:</b> negative culture does not rule out infection if the patient received previous antibiotics; repeat if signs persist.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Intraoperative prevention measures",
+      "title": "Intraoperative prevention measures",
+      "contentHtml": "<h2>Intraoperative prevention measures</h2><ul><li><b>Skin preparation:</b> antisepsis with <b>2% alcoholic chlorhexidine</b> (superior to povidone iodine in reducing SSI).</li><li><b>Normothermy:</b> maintain body temperature ≥36°C (hypothermia causes vasoconstriction and hypoxia tissue).</li><li><b>Oxygenation:</b> FiO2 at 80% during surgery and 2 hours postoperatively (in patients with normal lung function).</li><li><b>Glycemic control:</b> maintain glucose <b><180 mg/dL</b> intraoperative and immediate postoperative.</li><li><b>Aseptic technique:</b> double glove, sterile fields, limit traffic in operating room.</li><li><b>Trap:</b> shaving with a razor increases microabrasions; use <b>electric clipper</b> or do not shave.</li></ul>"
+    }
+  ]
+}

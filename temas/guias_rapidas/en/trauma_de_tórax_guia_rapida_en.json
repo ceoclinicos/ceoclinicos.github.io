@@ -1,0 +1,77 @@
+{
+  "id": "chest_trauma",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Tension pneumothorax and immediate drainage",
+      "title": "Tension pneumothorax",
+      "contentHtml": "<h2>Tension pneumothorax</h2><ul><li><b>Pathophysiology:</b> unidirectional valve mechanism that traps air in the pleural space, displacing the contralateral mediastinum and compromising venous return.</li><li><b>Clinical diagnosis:</b> hypotension, jugular distension, absence of vesicular murmur, tympanism, contralateral tracheal deviation.</li><li><b>Management immediate:</b> <b>needle thoracostomy</b> (14-16G angiocatheter in 2nd EIC midclavicular line) followed by <b>chest tube</b> in 5th EIC mid-axillary line.</li><li><b>Trap:</b> do not wait for radiological confirmation; Needle drainage is temporary and must be converted to a permanent tube. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Massive hemothorax: tube >20 mL/kg",
+      "title": "massive hemothorax",
+      "contentHtml": "<h2>Massive hemothorax</h2><ul><li><b>Definition:</b> accumulation of blood in the pleural cavity >1500 mL or >20 mL/kg in an adult, or initial drainage by tube >20 mL/kg.</li><li><b>Surgical criteria:</b> initial drainage >1500 mL or hourly drainage >200 mL/h for 2-4 hours.</li><li><b>Management:</b> large caliber chest tube (32-36 Fr), replacement of blood products (1:1:1 ratio) and urgent thoracotomy if criteria are met.</li><li><b>Trap:</b> do not remove the tube if the output is high; thoracotomy is not delayed by attempting complete resuscitation. </li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Cardiac tamponade: Beck's triad",
+      "title": "cardiac tamponade",
+      "contentHtml": "<h2>Cardiac tamponade</h2><ul><li><b>Beck's triad:</b> hypotension, muffled heart sounds, jugular venous distention.</li><li><b>Kussmaul's sign:</b> paradoxical increase in jugular venous pressure during inspiration.</li><li><b>Diagnosis:</b> echocardiography (FAST) shows pericardial effusion with diastolic cavities collapse right.</li><li><b>Management:</b> pericardiocentesis (subxiphoid) guided by ultrasound or cecum; surgical drainage (pericardial window) if recurrent or hemopericardium. </li><li><b>Trap:</b> Beck's triad is present only in 30% of cases; FAST ultrasound is standard.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Sternal fracture and myocardial contusion",
+      "title": "Sternal fracture and myocardial contusion",
+      "contentHtml": "<h2>Sternal fracture and myocardial contusion</h2><ul><li><b>Sternal fracture:</b> associated with deceleration (airbag, steering wheel), requires ruling out <b>myocardial contusion</b>.</li><li><b>Myocardial contusion:</b> diagnosis by ECG (ST elevation, BCRI, arrhythmias) and elevated troponin; echocardiogram evaluates segmental dysfunction.</li><li><b>Management:</b> cardiac monitoring for 24-48 hours, analgesia, avoid anticoagulation if there is associated hemorrhage.</li><li><b>Trap:</b> isolated sternal fracture does not require surgery; myocardial contusion is not equivalent to AMI (do not use thrombolytics). </li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Aortography in blunt aortic trauma",
+      "title": "Aortography in aortic trauma",
+      "contentHtml": "<h2>Aortography in blunt aortic trauma</h2><ul><li><b>Historical gold standard:</b> <b>aortography</b>, today replaced by <b>angio-CT of the chest</b> (sensitivity ~100%) for traumatic aortic injury.</li><li><b>Key finding:</b> aortic pseudoaneurysm in isthmus (ligament arteriosus) due to deceleration mechanism.</li><li><b>Indication for aortography:</b> when CT angiography is equivocal or for endovascular planning (TEVAR).</li><li><b>Trap:</b> chest x-ray may show mediastinal widening >8 cm, but it is not diagnostic; Do not delay CT angiography in unstable patients. </li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Pericardial window in cardiac wound",
+      "title": "pericardial window",
+      "contentHtml": "<h2>Pericardial window in cardiac injury</h2><ul><li><b>Indication:</b> penetrating cardiac injury with recurrent tamponade or hemopericardium confirmed by ultrasound.</li><li><b>Technique:</b> subxiphoid approach, resection of pericardium for permanent drainage and exploration of cardiac injury.</li><li><b>Alternative:</b> pericardiocentesis only as a temporary measure in extreme instability; the window is definitive.</li><li><b>Trap:</b> in non-stabilizable cardiac injury, indicate <b>emergency thoracotomy</b> instead of window; Do not use window if there is cardiac arrest. </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Emergency thoracotomy indications",
+      "title": "Emergency thoracotomy",
+      "contentHtml": "<h2>Emergency thoracotomy indications</h2><ul><li><b>Absolute indications:</b> traumatic cardiac arrest with CPR <10 min in penetrating wound, <5 min in blunt wound; massive hemothorax with drainage >1500 mL immediate or >200 mL/h sustained.</li><li><b>Other indications:</b> cardiac tamponade without response to pericardiocentesis, tracheobronchial injury with massive leak, air embolism.</li><li><b>Technique:</b> anterolateral thoracotomy (4°-5° EIC), transsternal extension if access is required bilateral.</li><li><b>Trap:</b> in blunt trauma with arrest, survival is <2%; Do not indicate if there are no vital signs on scene. </li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Tracheobronchial injury: fallen lung sign",
+      "title": "tracheobronchial injury",
+      "contentHtml": "<h2>Tracheobronchial injury: fallen lung sign</h2><ul><li><b>Faded lung sign:</b> in chest x-ray, the collapsed lung is located in the lower part of the hemithorax, separated from the hilum (due to complete bronchial rupture).</li><li><b>Clinic:</b> hemoptysis, subcutaneous emphysema, persistent pneumothorax despite tube pleural.</li><li><b>Diagnosis:</b> bronchoscopy (gold standard) to locate the lesion.</li><li><b>Management:</b> surgical (primary repair) if lesion >1/3 of circumference or massive air leak; selective intubation in healthy bronchus if necessary.</li><li><b>Trap:</b> the dropped lung sign is pathognomonic, but may be absent if the lesion is partial.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Lung contusion: conservative management",
+      "title": "Lung contusion",
+      "contentHtml": "<h2>Pulmonary contusion: conservative management</h2><ul><li><b>Definition:</b> parenchymal injury due to shock waves, causes hypoxemia due to intrapulmonary shunt.</li><li><b>Conservative management:</b> oxygen therapy to maintain SpO2 >90%, analgesia, respiratory physiotherapy, fluid restriction (avoid overload).</li><li><b>Indication of VMI:</b> PaO2/FiO2 <200, hypoventilation or failure of non-invasive measures.</li><li><b>Trap:</b> lung contusion worsens in the first 24-48h; Do not use corticosteroids or prophylactic antibiotics (they do not reduce mortality). </li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Rib fractures and flail chest",
+      "title": "Rib fractures and flail chest",
+      "contentHtml": "<h2>Rib fractures and flail chest</h2><ul><li><b>Flat chest:</b> three or more consecutive rib fractures in at least two sites, generating paradoxical movement.</li><li><b>Management:</b> multimodal analgesia (NSAIDs, opioids, paravertebral block), physiotherapy, avoid prophylactic mechanical ventilation.</li><li><b>Indication for IMV:</b> respiratory failure (PaO2 <60 mmHg, PaCO2 >50 mmHg), shock or associated severe pulmonary contusion.</li><li><b>Trap:</b> Surgical rib fixation is indicated in unstable chest with failure to wean from IMV or severe deformity; It is not routine. </li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Pleural drainage: mid-axillary line 5° EIC",
+      "title": "pleural drainage",
+      "contentHtml": "<h2>Pleural drainage: mid axillary line 5° EIC</h2><ul><li><b>Insertion site:</b> <b>5th intercostal space (EIC)</b>, <b>mid axillary line</b> (safety zone of the safety triangle).</li><li><b>Technique:</b> incision parallel to the rib, blunt dissection, pleural entry with a finger, insertion of the posterior directed tube and apical (pneumothorax) or posterior and basal (hemothorax).</li><li><b>Caliber:</b> 32-36 Fr for hemothorax; 20-24 Fr for uncomplicated pneumothorax.</li><li><b>Trap:</b> do not place the tube in 2° EIC midclavicular line as a routine (only for needle decompression); The standard point is the 5th EIC mid-axillary line. </li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Open pneumothorax: three-point dressing",
+      "title": "Open pneumothorax",
+      "contentHtml": "<h2>Open pneumothorax: three-point dressing</h2><ul><li><b>Definition:</b> open thoracic wound >2/3 of the tracheal diameter that allows air to enter, collapsing the lung.</li><li><b>Initial management:</b> <b>three-point dressing</b> (occlusive fixed on three sides, leaving one side free to avoid pneumothorax tension).</li><li><b>Definitive management:</b> surgical cleaning, closure of the wound and placement of <b>pleural tube</b> away from the wound.</li><li><b>Trap:</b> do not use completely occlusive dressing (without valve) because it converts open pneumothorax into <b>tension pneumothorax</b>; The three-point dressing works as a one-way valve.</li></ul>"
+    }
+  ]
+}
