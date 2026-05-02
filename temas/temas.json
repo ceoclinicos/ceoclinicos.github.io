@@ -543,7 +543,7 @@
         "#cirugia",
         "#patologia"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "hernia_inguinal",
@@ -1650,7 +1650,7 @@
         "#medicina_interna",
         "#coloproctologia"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
     },
     {
       "id": "escabiosis",
@@ -2002,6 +2002,21 @@
         "#metabolismo",
         "#medicina_interna",
         "#gastroenterologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "histologia_de_sangre;_transporte_y_defensa",
+      "titulo": "Histología de Sangre: Transporte y Defensa",
+      "descripcion": "Estudio de la composición celular y función de la sangre, incluyendo eritrocitos, leucocitos y plaquetas, en el transporte de gases y la defensa inmunológica.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#histologia",
+        "#sangre",
+        "#hematologia",
+        "#medicina_interna"
       ],
       "tieneGuia": false
     }

@@ -1,0 +1,65 @@
+{
+  "id": "histologia_de_sangue;_transporte_e_defesa",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Glóbulos vermelhos sem núcleo ou organelas",
+      "title": "eritrócitos anucleados",
+      "contentHtml": "<h2>Glóbulos vermelhos sem núcleo ou organelas</h2><ul><li><b>Eritrócitos maduros</b>: carecem de núcleo, mitocôndrias, ribossomos e retículo endoplasmático; Seu metabolismo é anaeróbico (glicólise e via das pentoses). </li><li>Meia-vida ~120 dias; eliminação por macrófagos esplênicos (hemocaterese).</li><li><b>Forma bicôncava</b> (disco) otimiza a relação superfície/volume para troca gasosa e deformabilidade capilar.</li><li>Armadilha: presença de núcleo no sangue periférico = <b>eritroblasto</b> (patológico: anemia hemolítica, mielofibrose, leucemia).</li><li>Glossário: <b>Policromatofilia</b>: eritrócitos azul-acinzentados (reticulócitos) = regeneração da medula óssea. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Hemoglobina: estrutura e transporte de O2",
+      "title": "Hemoglobina e oxigenação",
+      "contentHtml": "<h2>Hemoglobina: estrutura e transporte de O2</h2><ul><li>Estrutura tetramérica: 2 cadeias α (141 aa) e 2 β (146 aa); cada subunidade contém um grupo <b>heme</b> com Fe²⁺ que se liga ao O₂ reversivelmente.</li><li>Curva de dissociação sigmoidal: <b>P50</b> = 26 mmHg (pressão parcial a 50% de saturação). Desvio para a direita (↓afinidade): acidose, ↑2,3-BPG, ↑temperatura. Desvio à esquerda (↑afinidade): alcalose, ↓2,3-BPG, hipotermia.</li><li>Transporte: O₂ ligado à Hb (98,5%), dissolvido 1,5%. CO₂: 70% como bicarbonato, 23% ligado à Hb (carbaminohemoglobina), 7% dissolvido.</li><li>Armadilha: <b>Metemoglobina</b> (Fe³⁺) não transporta O₂; cianose >1,5 g/dL; tratamento com azul de metileno. </li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Leucócitos: granulócitos e agranulócitos",
+      "title": "Classificação de leucócitos",
+      "contentHtml": "<h2>Leucócitos: granulócitos e agranulócitos</h2><ul><li>Granulócitos: <b>neutrófilos</b> (40-70%), <b>eosinófilos</b> (1-4%), <b>basófilos</b> (&lt;1%). Possuem grânulos específicos e núcleo lobulado.</li><li>Agranulócitos: <b>linfócitos</b> (20-40%), <b>monócitos</b> (2-8%). Nenhum grânulo específico visível na coloração de Romanowsky.</li><li>Contagem absoluta: <b>leucócitos totais</b> 4.000-11.000/μL. Fórmula diferencial de leucócitos.</li><li>Armadilha: <b>Desvio à esquerda</b>: aumento de neutrófilos imaturos (bandas) na infecção bacteriana aguda.</li><li>Glossário: ​​<b>Grânulos de azurófilos</b>: lisossomos primários em neutrófilos (mieloperoxidase).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Neutrófilos: fagocitose e primeira linha",
+      "title": "Neutrófilos em defesa aguda",
+      "contentHtml": "<h2>Neutrófilos: fagocitose e primeira linha</h2><ul><li>Primeira linha de defesa inata; meia-vida 6-8 h no sangue, 1-2 dias nos tecidos.</li><li>Mecanismo: quimiotaxia (IL-8, C5a, LTB4), opsonização (IgG, C3b), fagocitose, desgranulação (mieloperoxidase, elastase) e <b>armadilhas extracelulares</b> (NETs).</li><li>Limiar: <b>neutropenia</b> &lt;1.500/μL (&lt;500/μL risco grave de infecção).</li><li>Armadilha: <b>Neutrofilia</b> &gt;7.000/μL: infecção bacteriana, inflamação, estresse, tabagismo. <b>Neutropenia cíclica</b>: mutação ELANE.</li><li>Glossário: ​​<b>Pus</b>: neutrófilos mortos + tecido necrótico + bactérias.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Linfócitos: imunidade específica B e T",
+      "title": "Linfócitos B e T",
+      "contentHtml": "<h2>Linfócitos: imunidade específica B e T</h2><ul><li><b>Linfócitos B</b>: maduros na medula óssea; reconhecer antígeno nativo; Eles se diferenciam em células plasmáticas (anticorpos) e células B de memória.</li><li><b>Linfócitos T</b>: maduros no timo; eles expressam TCR; CD4⁺ (ajudantes, Th1/Th2/Th17) e CD8⁺ (citotóxico).</li><li>Contagem normal: 1.000-4.800/μL. <b>Linfocitose</b> &gt;4.800/μL: infecção viral (EBV, CMV), leucemia linfocítica crônica.</li><li>Armadilha: <b>células NK</b>: imunidade inata, lise sem MHC; contagem incluída em grandes linfócitos granulares.</li><li>Glossário: ​​<b>Imunoglobulinas</b>: IgG (80%, passagem placentária), IgA (mucosa), IgM (primeira resposta), IgE (alergia), IgD (receptor B).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Monócitos: precursores de macrófagos",
+      "title": "Monócitos e macrófagos",
+      "contentHtml": "<h2>Monócitos: precursores de macrófagos</h2><ul><li>Monócitos circulantes (2-8% leucócitos): 12-72 h no sangue; migra para os tecidos e se diferencia em <b>macrófagos</b> (residentes ou ativados) ou <b>células dendríticas</b>.</li><li>Funções: fagocitose, apresentação de antígenos (MHC-II), citocinas (TNF-α, IL-1, IL-6).</li><li>Macrófagos teciduais: <b>células de Kupffer</b> (fígado), <b>osteoclastos</b> (ossos), <b>microglia</b> (SNC), <b>macrófagos alveolares</b> (pulmão).</li><li>Armadilha: <b>Monocitose</b> &gt;800/μL: tuberculose, endocardite, leucemia mielomonocítica crônica.</li><li>Glossário: <b>Célula espumosa</b>: macrófago carregado de lipídios (aterosclerose). </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Plaquetas: hemostasia de fragmentos megacariocíticos",
+      "title": "Plaquetas e hemostasia",
+      "contentHtml": "<h2>Plaquetas: hemostasia de fragmentos megacariocíticos</h2><ul><li><b>Plaquetas</b>: fragmentos citoplasmáticos do megacariócito (medula óssea); tamanho 2-4 μm; meia-vida de 7 a 10 dias.</li><li>Contagem normal: 150.000-450.000/μL. <b>Trombocitopenia</b> &lt;150.000/μL; risco hemorrágico se &lt;50.000/μL; espontâneo se &lt;10.000/μL.</li><li>Função: adesão (GPIb/IX ao fator von Willebrand), agregação (GPIIb/IIIa ao fibrinogênio), secreção de grânulos (ADP, TxA2).</li><li>Armadilha: <b>Trombocitose reativa</b> &gt;450.000/μL: inflamação, deficiência de ferro, esplenectomia. <b>Trombocitemia essencial</b>: mutação JAK2.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Eritropoiese: medula óssea vermelha e eritropoetina",
+      "title": "Eritropoiese regulada",
+      "contentHtml": "<h2>Eritropoiese: medula óssea vermelha e eritropoietina</h2><ul><li>Processo de <b>proeritroblasto</b> até eritrócito maduro (~7 dias). Ocorre na medula óssea vermelha (ossos chatos, epífise do fêmur/úmero).</li><li><b>Eritropoetina (EPO)</b>: hormônio glicoproteico produzido no rim (células intersticiais peritubulares) em resposta à hipóxia (fator HIF-1α).</li><li>Limiar: Hb &lt;13 g/dL (masculino) ou &lt;12 g/dL (feminino). =anemia; A EPO sérica aumenta na anemia hipoproliferativa (insuficiência renal: ↓EPO).</li><li>Armadilha: <b>Reticulócitos</b> (1-2% de eritrócitos): o índice de produção de reticulócitos corrige a maturação; &gt;2,5% = resposta espinhal adequada. </li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Células plasmáticas: produção de anticorpos",
+      "title": "Células plasmáticas e anticorpos",
+      "contentHtml": "<h2>Células plasmáticas: produção de anticorpos</h2><ul><li>Diferenciação terminal do linfócito B ativado; citoplasma basofílico (RER abundante), núcleo excêntrico com padrão de estrela. </li><li>Produz e secreta <b>imunoglobulinas</b> (IgG, IgA, IgM, IgE, IgD) a uma taxa de aproximadamente 10.000 moléculas/segundo.</li><li>Elas residem na medula óssea (vida longa, meses-anos) e no tecido linfóide; Eles são responsáveis ​​pela <b>imunidade humoral</b>.</li><li>Armadilha: <b>Mieloma múltiplo</b>: proliferação monoclonal de células plasmáticas; pico monoclonal no proteinograma, lesões ósseas líticas, anemia.</li><li>Glossário: ​​<b>célula de Mott</b>: célula plasmática com inclusões de Russell (corpos de imunoglobulina hialina).</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Basófilos e eosinófilos: alergia e parasitas",
+      "title": "Basófilos e eosinófilos",
+      "contentHtml": "<h2>Basófilos e eosinófilos: alergia e parasitas</h2><ul><li><b>Basófilos</b> (&lt;1%): grânulos com histamina, heparina, leucotrienos; receptor IgE FcεRI; Participam de reações alérgicas tipo I (anafilaxia).</li><li><b>Eosinófilos</b> (1-4%): grânulos com principais proteínas básicas, peroxidase, neurotoxina; ativo contra helmintos e alergias.</li><li>Limiar: <b>Eosinofilia</b> &gt;500/μL: asma, rinite alérgica, parasitose (Strongyloides, Toxocara), síndrome hipereosinofílica (&gt;1.500/μL).</li><li>Armadilha: <b>Basophilia</b> &gt;100/μL: mieloide crônico leucemia (associada ao cromossomo Filadélfia), policitemia vera.</li></ul>"
+    }
+  ]
+}

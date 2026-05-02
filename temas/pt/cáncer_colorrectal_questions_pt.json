@@ -1,265 +1,113 @@
 {
   "questions": [
     {
-      "question": "Qual das alternativas a seguir é considerada um fator de risco estabelecido para câncer colorretal?",
+      "question": "Qual das seguintes síndromes hereditárias está associada a um risco aumentado de câncer colorretal?",
       "options": [
-        "Atividade física regular",
-        "Idade acima de 50 anos",
-        "Consumo de fibra alimentar",
-        "Alta ingestão de cálcio"
+        "Síndrome de Turner",
+        "Síndrome de Lynch",
+        "Síndrome de Marfan",
+        "Síndrome de Down"
       ],
       "correctAnswer": 2,
-      "explanation": "A idade avançada, especialmente acima dos 50 anos, é um fator de risco bem documentado para câncer colorretal, associado ao acúmulo de mutações.",
+      "explanation": "A síndrome de Lynch, também conhecida como câncer colorretal hereditário sem polipose, é a causa mais comum de câncer colorretal hereditário, devido a mutações nos genes de reparo de incompatibilidades de DNA.",
       "hashtags": [
         "oncologia",
         "câncer_colorretal",
         "etiologia",
-        "idade",
+        "síndrome_lynch",
         "MEDICAL_TOPIC",
-        ""
+        "Harrison 21 anos"
       ]
     },
     {
-      "question": "Que mecanismo fisiopatológico liga o tabaco ao câncer colorretal?",
+      "question": "Qual fator de estilo de vida está mais claramente associado ao aumento do risco de câncer colorretal?",
       "options": [
-        "Imunossupressão direta",
-        "Alteração da microbiota",
-        "Hiperplasia de pólipo",
-        "Danos oxidativos ao DNA"
+        "Alto consumo de fibra",
+        "Exercício aeróbico regular",
+        "Ingestão moderada de álcool",
+        "Dieta rica em carne vermelha"
       ],
       "correctAnswer": 4,
-      "explanation": "O tabaco contém substâncias cancerígenas que induzem estresse oxidativo e danos ao DNA das células epiteliais do cólon, promovendo mutações oncogênicas.",
+      "explanation": "O alto consumo de carnes vermelhas e processadas tem sido consistentemente associado a um risco aumentado de câncer colorretal, provavelmente devido à formação de compostos N-nitroso e aminas heterocíclicas durante o cozimento.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "etiologia",
+        "fatores_dietéticos",
+        "MEDICAL_TOPIC",
+        "Guia ACS 2023"
+      ]
+    },
+    {
+      "question": "Qual dos seguintes genes é comumente mutado na polipose adenomatosa familiar?",
+      "options": [
+        "BRCA1",
+        "KRAS",
+        "TP53",
+        "APC"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A polipose adenomatosa familiar é causada por mutações germinativas no gene APC, que atua como supressor de tumor. Sua perda leva à formação de múltiplos pólipos adenomatosos no cólon.",
       "hashtags": [
         "oncologia",
         "câncer_colorretal",
         "fisiopatologia",
-        "tabaco",
+        "gen_apc",
         "MEDICAL_TOPIC",
-        ""
+        "Harrison 21 anos"
       ]
     },
     {
-      "question": "Que alteração metabólica associada à obesidade aumenta o risco de câncer colorretal?",
+      "question": "Qual das seguintes histórias pessoais confere maior risco de câncer colorretal?",
       "options": [
-        "Hipotireoidismo subclínico",
-        "Hiperinsulinemia",
-        "Hipoglicemia crônica",
-        "Hipercolesterolemia"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A obesidade gera resistência à insulina e hiperinsulinemia compensatória; A insulina atua como um fator de crescimento tumoral na mucosa do cólon.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "fisiopatologia",
-        "obesidade",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a idade média recomendada para iniciar o rastreio do cancro colorrectal numa população de risco médio?",
-      "options": [
-        "50 anos",
-        "40 anos",
-        "45 anos",
-        "55 anos"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Diretrizes internacionais, como as da USMSTF, recomendam iniciar o rastreamento aos 50 anos em pessoas assintomáticas e sem fatores de risco adicionais.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "diagnóstico",
-        "triagem",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Aproximadamente que porcentagem de câncer colorretal é diretamente atribuída ao tabagismo?",
-      "options": [
-        "20-25%",
-        "5-10%",
-        "10-15%",
-        "15-20%"
+        "Diabetes mellitus tipo 2",
+        "Colelitíase assintomática",
+        "doença inflamatória intestinal",
+        "Hipertensão arterial crônica"
       ],
       "correctAnswer": 3,
-      "explanation": "Estudos epidemiológicos indicam que entre 10% e 15% dos casos de cancro colorrectal estão relacionados com o consumo de tabaco.",
+      "explanation": "A doença inflamatória intestinal, especialmente a colite ulcerativa de longa duração, aumenta significativamente o risco de câncer colorretal devido à inflamação crônica e à displasia epitelial.",
+      "hashtags": [
+        "gastroenterologia",
+        "câncer_colorretal",
+        "fatores_de risco",
+        "doença_intestinal_inflamatória",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que idade é considerada um fator de risco independente para câncer colorretal esporádico?",
+      "options": [
+        "Qualquer idade igualmente",
+        "Mais de 50 anos",
+        "Menos de 30 anos",
+        "Entre 20 e 40 anos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A idade superior a 50 anos é o principal fator de risco para o cancro colorretal esporádico, pelo que se recomenda iniciar o rastreio a partir dessa idade na população de risco médio.",
       "hashtags": [
         "oncologia",
         "câncer_colorretal",
         "epidemiologia",
-        "tabaco",
+        "idade_como_fator",
         "MEDICAL_TOPIC",
-        ""
+        "Guia USPSTF 2021"
       ]
     },
     {
-      "question": "Qual é o principal mediador inflamatório ligado à obesidade que promove a carcinogênese colorretal?",
+      "question": "Qual dos seguintes padrões de herança está presente na síndrome de Lynch?",
       "options": [
-        "Interleucina-10",
-        "TNF-alfa",
-        "Interferon gama",
-        "Fator de crescimento endotelial"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O TNF-alfa, uma citocina pró-inflamatória elevada na obesidade, promove inflamação crônica e proliferação celular na mucosa do cólon.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "fisiopatologia",
-        "obesidade",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a idade recomendada para iniciar o rastreio do cancro colorrectal numa população de risco médio?",
-      "options": [
-        "45 anos",
-        "40 anos",
-        "55 anos",
-        "50 anos"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Numa população de risco médio, as diretrizes internacionais estabelecem que o rastreio do cancro colorretal deve começar aos 50 anos, com colonoscopia a cada 10 anos.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "triagem",
-        "idade_inicial",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual teste de rastreamento é recomendado a cada 10 anos para câncer colorretal?",
-      "options": [
-        "Colonoscopia",
-        "Colonografia tomográfica",
-        "sigmoidoscopia flexível",
-        "exame de sangue oculto"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A colonoscopia é o exame de rastreio realizado a cada 10 anos, pois permite a visualização e remoção de pólipos adenomatosos, reduzindo a incidência de câncer colorretal.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "triagem",
-        "teste_recomendado",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o principal objetivo do rastreamento com colonoscopia a cada 10 anos?",
-      "options": [
-        "Diagnosticar doença inflamatória",
-        "Prevenir o câncer colorretal",
-        "Avalie os sintomas digestivos",
-        "Detectar doenças avançadas"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A triagem por colonoscopia busca detectar e remover pólipos adenomatosos antes que se transformem em câncer, prevenindo assim o desenvolvimento do câncer colorretal.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "triagem",
-        "meta_prevenção",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o intervalo recomendado entre colonoscopias de triagem de risco médio?",
-      "options": [
-        "5 anos",
-        "10 anos",
-        "20 anos",
-        "15 anos"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Para população de risco médio com colonoscopia normal, o intervalo recomendado é de 10 anos, com base na lenta progressão de pólipos adenomatosos para carcinoma.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "triagem",
-        "intervalo_recomendado",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que achado colonoscópico justifica a redução do intervalo de triagem para 3-5 anos?",
-      "options": [
-        "mucosa normal",
-        "diverticulose leve",
-        "adenoma avançado",
-        "Pólipo hiperplásico único"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O adenoma avançado (≥1 cm, com histologia de vilosidades ou displasia de alto grau) requer vigilância mais frequente, a cada 3-5 anos, devido ao seu maior risco de progressão maligna.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "triagem",
-        "encontrando_controle",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Quando o rastreio do cancro colorrectal pode ser interrompido com risco médio?",
-      "options": [
-        "Aos 80 anos",
-        "Aos 75 anos",
-        "Aos 85 anos",
-        "Aos 70 anos"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Recomenda-se interromper o rastreamento aos 75 anos em pacientes de risco médio, considerando a relação risco-benefício e a expectativa de vida.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "triagem",
-        "idade_suspensão",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o gene mutado com mais frequência na síndrome de Lynch?",
-      "options": [
-        "TP53",
-        "APC",
-        "MLH1",
-        "KRAS"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A síndrome de Lynch é causada por mutações nos genes de reparo de incompatibilidades de DNA, sendo o MLH1 o gene mais comumente afetado, seguido pelo MSH2.",
-      "hashtags": [
-        "oncologia",
-        "síndrome_lynch",
-        "etiologia",
-        "gen_mlh1",
-        "MEDICAL_TOPIC",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "Que tipo de herança apresenta a polipose adenomatosa familiar?",
-      "options": [
-        "Mitocondrial",
-        "Ligado ao X",
+        "Autossômico recessivo",
         "Autossômico dominante",
-        "Autossômico recessivo"
+        "Herança mitocondrial",
+        "Ligado ao X"
       ],
-      "correctAnswer": 3,
-      "explanation": "A polipose adenomatosa familiar segue um padrão de herança autossômica dominante, causada por mutações no gene APC, com alta penetrância e alto risco de câncer colorretal.",
+      "correctAnswer": 2,
+      "explanation": "A síndrome de Lynch segue um padrão de herança autossômica dominante, o que significa que uma cópia mutada de um gene de reparo de acasalamento (MLH1, MSH2, MSH6, PMS2) é suficiente para aumentar o risco.",
       "hashtags": [
-        "oncologia",
-        "familiar_adenomatosa_polipose",
+        "genética",
+        "câncer_colorretal",
         "etiologia",
         "herança_autossômica_dominante",
         "MEDICAL_TOPIC",
@@ -267,53 +115,1136 @@
       ]
     },
     {
-      "question": "Qual o tratamento cirúrgico de escolha para a polipose adenomatosa familiar?",
+      "question": "Qual é o sintoma mais comum no câncer colorretal direito?",
       "options": [
-        "Colectomia subtotal",
-        "Ressecção local endoscópica",
-        "Hemicolectomia direita",
-        "Colectomia total com anastomose ileorretal"
+        "Dor abdominal em cólica",
+        "Mudança de calibre fecal",
+        "Anemia por deficiência de ferro",
+        "Sangue vermelho nas fezes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O câncer de cólon direito geralmente se apresenta com anemia por deficiência de ferro devido a sangramento oculto crônico, ao contrário do câncer de cólon esquerdo, que causa alterações no hábito intestinal ou no sangue vermelho.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tabela_clínica",
+        "sintomas_apresentação",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual sintoma é característico do câncer colorretal esquerdo?",
+      "options": [
+        "Dor no hipogástrio",
+        "perda de peso",
+        "bancos de fita",
+        "Anemia microcítica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "As fezes em fita ou fita são típicas do câncer de cólon esquerdo devido à redução do calibre da luz intestinal devido ao tumor, causando obstrução parcial.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tabela_clínica",
+        "sintomas_apresentação",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual dos seguintes achados está associado ao câncer retal?",
+      "options": [
+        "anemia grave",
+        "massa abdominal palpável",
+        "sangue nas fezes",
+        "Dor na fossa ilíaca"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O sangramento retal ou sangue vermelho nas fezes é o sintoma mais comum do câncer retal, devido à proximidade do tumor ao canal anal e à sua tendência a sangrar.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tabela_clínica",
+        "sintomas_apresentação",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que sintoma geral geralmente acompanha o câncer colorretal avançado?",
+      "options": [
+        "disfagia progressiva",
+        "Frequência",
+        "icterícia obstrutiva",
+        "perda de peso"
       ],
       "correctAnswer": 4,
-      "explanation": "Na polipose adenomatosa familiar, a colectomia total com anastomose ileorretal é o tratamento cirúrgico padrão para prevenir o câncer colorretal, embora a proctocolectomia seja considerada dependendo do número de pólipos retais.",
+      "explanation": "A perda de peso não intencional é um sintoma constitucional comum no câncer colorretal avançado, secundário ao efeito catabólico do tumor e à obstrução intestinal.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tabela_clínica",
+        "sintomas_apresentação",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a manifestação clínica inicial mais comum do câncer colorretal?",
+      "options": [
+        "dor abdominal",
+        "Sangramento retal oculto",
+        "Mudança no ritmo intestinal",
+        "massa palpável"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A alteração do ritmo intestinal (alternando constipação ou diarreia) é a manifestação inicial mais comum, principalmente nos tumores de cólon esquerdo que alteram a motilidade.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tabela_clínica",
+        "sintomas_apresentação",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que sintoma pode indicar obstrução intestinal devido ao câncer colorretal?",
+      "options": [
+        "Distensão abdominal",
+        "Dor lombar",
+        "Vômito bilioso",
+        "Hematúria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A distensão abdominal com cólicas e ausência de evacuações é um sinal clássico de obstrução intestinal, uma complicação frequente no câncer colorretal avançado.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tabela_clínica",
+        "sintomas_apresentação",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a localização anatômica mais comum do câncer colorretal?",
+      "options": [
+        "cólon descendente",
+        "Direto",
+        "cólon ascendente",
+        "cólon transverso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O reto é a localização mais comum do câncer colorretal, representando aproximadamente 30% dos casos, seguido pelo cólon sigmóide.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tabela_clínica",
+        "localização_retal",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual segmento do cólon é o segundo em frequência de câncer colorretal?",
+      "options": [
+        "cólon ascendente",
+        "cólon sigmóide",
+        "cólon descendente",
+        "cólon transverso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O cólon sigmóide é a segunda localização mais comum depois do reto, devido à maior exposição a carcinógenos fecais e à estase prolongada.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "epidemiologia",
+        "sigmoid_colon",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a localização mais comum do câncer colorretal em pacientes com menos de 50 anos de idade?",
+      "options": [
+        "cólon direito",
+        "cólon esquerdo",
+        "cólon sigmóide",
+        "Direto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Em pacientes jovens com menos de 50 anos, o câncer colorretal tende a se localizar mais no cólon direito (ascendente e ceco), com apresentação mais agressiva.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "epidemiologia",
+        "dois pontos_direito",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual parte do intestino grosso é mais afetada pelo câncer colorretal hereditário?",
+      "options": [
+        "cólon direito",
+        "cólon transverso",
+        "cólon esquerdo",
+        "Direto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nas síndromes hereditárias, como o câncer colorretal hereditário sem polipose (Lynch), o cólon direito é o mais afetado, frequentemente no ceco e no cólon ascendente.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "etiologia",
+        "hereditário_direito_dois pontos",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o segmento mais comum de câncer colorretal na população geral com mais de 70 anos?",
+      "options": [
+        "cólon descendente",
+        "Direto",
+        "cólon sigmóide",
+        "cólon ascendente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nas pessoas com mais de 70 anos, o recto continua a ser a localização mais comum, embora a incidência no cólon direito aumente com o avançar da idade.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "epidemiologia",
+        "idade_reta_avançada",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual localização do câncer colorretal está mais frequentemente associada à mutação BRAF?",
+      "options": [
+        "cólon direito",
+        "cólon sigmóide",
+        "Direto",
+        "cólon esquerdo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A mutação BRAF V600E é mais comum em cânceres de cólon direito, especialmente em tumores esporádicos com instabilidade de microssatélites e fenótipo serrilhado.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "fisiopatologia",
+        "braf_mutation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a justificativa para o rastreamento do câncer colorretal com sangue oculto nas fezes?",
+      "options": [
+        "Identifique sangue invisível",
+        "Avaliar polipose colônica",
+        "Detectar anemia por deficiência de ferro",
+        "Medir o antígeno carcinoembrionário"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A triagem de sangue oculto nas fezes busca detectar sangue que não é visível macroscopicamente, indicativo de lesões hemorrágicas neoplásicas ou adenomatosas no cólon.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "conceito",
+        "triagem_fundação",
+        "MEDICAL_TOPIC",
+        "Guia USPSTF 2021"
+      ]
+    },
+    {
+      "question": "Que tipo de exame de sangue oculto nas fezes é recomendado atualmente devido à sua maior sensibilidade?",
+      "options": [
+        "Cultura de fezes em série",
+        "teste de guaiaco",
+        "Imunohistoquímica fecal",
+        "cultura de fezes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O teste imuno-histoquímico fecal (FIT) é mais sensível e específico que o teste guaiaco, detecta hemoglobina humana e não requer restrições alimentares.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "teste_imunohistoquímica",
+        "MEDICAL_TOPIC",
+        "Guia USPSTF 2021"
+      ]
+    },
+    {
+      "question": "Com que frequência o exame de sangue oculto nas fezes é recomendado na população de risco médio?",
+      "options": [
+        "A cada 5 anos",
+        "A cada 1 ano",
+        "A cada 3 anos",
+        "A cada 6 meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O teste imuno-histoquímico fecal (FIT) anual é a frequência recomendada para a população de risco médio com 50 anos ou mais, de acordo com as diretrizes atuais.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "frequência_de triagem",
+        "MEDICAL_TOPIC",
+        "Guia USPSTF 2021 --- Guia AEG 2020"
+      ]
+    },
+    {
+      "question": "Que achado no exame de sangue oculto nas fezes deve levar a uma colonoscopia?",
+      "options": [
+        "Amostra insuficiente",
+        "resultado positivo",
+        "Resultado negativo",
+        "fezes líquidas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Um resultado positivo no exame de sangue oculto nas fezes requer colonoscopia para identificar e fazer biópsia de lesões, como pólipos adenomatosos ou câncer.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tabela_clínica",
+        "resultado_positivo",
+        "MEDICAL_TOPIC",
+        "Guia USPSTF 2021"
+      ]
+    },
+    {
+      "question": "Qual é uma limitação importante do exame de sangue oculto nas fezes do guaiaco?",
+      "options": [
+        "Alta especificidade",
+        "Detecção de DNA",
+        "Interferência dietética",
+        "Requer endoscopia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O teste do guaiaco pode dar falsos positivos para alimentos com peroxidase (carnes vermelhas, frutas) e falsos negativos para vitamina C, limitando sua precisão.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "guayaco_limitação",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Em que faixa etária começa a triagem de sangue oculto nas fezes para uma população de risco médio?",
+      "options": [
+        "45 a 49 anos",
+        "40 a 44 anos",
+        "55 a 59 anos",
+        "50 a 54 anos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "As diretrizes atuais recomendam iniciar o rastreio aos 45 anos para a população de risco médio, embora algumas mantenham os 50 anos como a idade tradicional.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "epidemiologia",
+        "idade_onset_screening",
+        "MEDICAL_TOPIC",
+        "Guia USPSTF 2021"
+      ]
+    },
+    {
+      "question": "Qual é o teste de escolha para a detecção do câncer colorretal?",
+      "options": [
+        "ressonância magnética",
+        "Colonoscopia",
+        "ultrassonografia abdominal",
+        "Tomografia computadorizada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A colonoscopia é o padrão ouro para a detecção do câncer colorretal porque permite visualizar diretamente a mucosa do cólon e realizar biópsias ou polipectomias durante o mesmo procedimento.",
+      "hashtags": [
+        "gastroenterologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "colonoscopia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual achado colonoscópico está associado a um maior risco de malignidade?",
+      "options": [
+        "hemangioma de cólon",
+        "Divertículo não complicado",
+        "Pólipo adenomatoso séssil",
+        "Pequeno pólipo hiperplásico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O pólipo adenomatoso séssil, principalmente se for grande ou com displasia de alto grau, apresenta maior risco de transformação maligna, sendo a colonoscopia essencial para sua detecção e ressecção.",
+      "hashtags": [
+        "gastroenterologia",
+        "câncer_colorretal",
+        "tabela_clínica",
+        "pólipos_adenomatos",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a principal limitação da colonoscopia para triagem populacional?",
+      "options": [
+        "Invasividade e preparação",
+        "Recuperação rápida",
+        "Alta sensibilidade diagnóstica",
+        "Baixo custo econômico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A colonoscopia exige preparo intestinal rigoroso e é um procedimento invasivo que traz riscos como perfuração ou sangramento, o que limita sua aceitação e aplicação massiva no rastreamento populacional.",
+      "hashtags": [
+        "gastroenterologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "limitações_de triagem",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual intervalo é recomendado para repetir uma colonoscopia com resultados normais?",
+      "options": [
+        "10 anos",
+        "1 ano",
+        "3 anos",
+        "5 anos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para uma colonoscopia de rastreamento com resultado normal e sem fatores de risco adicionais, as diretrizes recomendam a repetição do estudo em 10 anos, uma vez que a progressão dos pólipos para câncer costuma ser lenta.",
+      "hashtags": [
+        "gastroenterologia",
+        "câncer_colorretal",
+        "tratamento",
+        "intervalo_de triagem",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual técnica melhora a detecção de lesões planas durante a colonoscopia?",
+      "options": [
+        "Uso de pinça de biópsia",
+        "Inspeção sem retroflexão",
+        "Cromoscopia com índigo carmim",
+        "Lavando com água destilada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A cromoscopia índigo carmim destaca a superfície da mucosa, facilitando a identificação de lesões planas ou sésseis que poderiam passar despercebidas com a luz branca convencional durante a colonoscopia.",
+      "hashtags": [
+        "gastroenterologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "cromoscopia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a complicação mais temida da colonoscopia terapêutica?",
+      "options": [
+        "perfuração intestinal",
+        "Distensão abdominal",
+        "Náusea pós-procedimento",
+        "hemorróidas sangrando"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A perfuração intestinal é a complicação mais grave da colonoscopia terapêutica, especialmente durante a polipectomia, exigindo intervenção cirúrgica urgente e aumentando a morbimortalidade se não for detectada a tempo.",
+      "hashtags": [
+        "gastroenterologia",
+        "câncer_colorretal",
+        "complicações",
+        "perfuração_cólon",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual estrutura anatômica define o estágio T3 no câncer colorretal de acordo com o TNM?",
+      "options": [
+        "Invasão da muscular própria",
+        "Invasão submucosa",
+        "Invasão serosa",
+        "Invasão da muscular própria"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na classificação TNM, T3 corresponde à invasão tumoral pela muscular própria até os tecidos pericolorretais, sem atingir a serosa ou órgãos vizinhos.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "stadificacion_tnm",
+        "MEDICAL_TOPIC",
+        "AJCC 8ª edição"
+      ]
+    },
+    {
+      "question": "Qual é o equivalente ao estágio Dukes C na classificação TNM?",
+      "options": [
+        "Qualquer T N1-2 M0",
+        "Qualquer T qualquer N M1",
+        "T1-2 N0 M0",
+        "T3-4 N0 M0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O estágio Dukes C é definido pela presença de metástases em linfonodos regionais, o que no TNM equivale a qualquer T com N1 ou N2 e M0.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "duques_vs_tnm",
+        "MEDICAL_TOPIC",
+        "AJCC 8ª edição"
+      ]
+    },
+    {
+      "question": "Na classificação de Dukes, o estágio B implica:",
+      "options": [
+        "Tumor limitado à mucosa",
+        "Metástase distante",
+        "Invasão transmural sem nós",
+        "Invasão linfonodal regional"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O estágio Dukes B é caracterizado por um tumor que atravessa a parede intestinal (invasão transmural), mas sem envolvimento linfonodal ou metástase à distância.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "classificação_duques",
+        "MEDICAL_TOPIC",
+        "AJCC 8ª edição"
+      ]
+    },
+    {
+      "question": "Qual estágio TNM corresponde a um tumor que invade a serosa visceral?",
+      "options": [
+        "T2",
+        "T1",
+        "T4a",
+        "T3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "T4a na classificação TNM do câncer colorretal indica invasão tumoral da serosa visceral (peritônio visceral), que representa um estágio localmente avançado.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "estádio_t4a",
+        "MEDICAL_TOPIC",
+        "AJCC 8ª edição"
+      ]
+    },
+    {
+      "question": "Qual é a principal diferença prognóstica entre Dukes A e Dukes B?",
+      "options": [
+        "Tamanho do tumor em centímetros",
+        "Profundidade de invasão parietal",
+        "Envolvimento de linfonodos",
+        "Presença de metástases hepáticas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dukes A limita-se à parede sem penetrá-la completamente, enquanto Dukes B envolve invasão transmural. A profundidade da invasão é o fator que os diferencia, e não os nódulos ou metástases.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "duques_forecast",
+        "MEDICAL_TOPIC",
+        "AJCC 8ª edição"
+      ]
+    },
+    {
+      "question": "O que significa N na classificação TNM do câncer colorretal?",
+      "options": [
+        "Tamanho do tumor primário",
+        "Grau histológico do tumor",
+        "Metástase distante",
+        "Envolvimento de linfonodos regionais"
+      ],
+      "correctAnswer": 4,
+      "explanation": "No sistema TNM, o N (nó) avalia a presença e extensão de metástases nos linfonodos regionais, sendo N0 sem envolvimento e N1/N2 com envolvimento crescente.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "definição_n_tnm",
+        "MEDICAL_TOPIC",
+        "AJCC 8ª edição"
+      ]
+    },
+    {
+      "question": "Qual é a principal utilidade clínica do antígeno carcinoembrionário (CEA) no câncer colorretal?",
+      "options": [
+        "Determinação do estágio inicial do TNM",
+        "Triagem populacional de rotina",
+        "Diagnóstico inicial da doença",
+        "Acompanhamento pós-operatório e recorrência"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O CEA é utilizado principalmente para monitorar a recorrência tumoral após cirurgia curativa no câncer colorretal, uma vez que não é sensível nem específico para diagnóstico ou rastreamento.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tabela_clínica",
+        "marcadores_tumor",
+        "MEDICAL_TOPIC",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "Que condição benigna pode elevar falsamente os níveis séricos de CEA?",
+      "options": [
+        "Diabetes mellitus tipo 2",
+        "Doença pulmonar obstrutiva crônica",
+        "Hipertensão arterial sistêmica",
+        "Fumar ativo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O tabagismo ativo é uma causa conhecida de falsa elevação do CEA, o que limita a sua especificidade diagnóstica e deve ser considerado na interpretação dos resultados.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "falsos_positivos",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Em que tipo de câncer o CA 19-9 tem maior sensibilidade diagnóstica?",
+      "options": [
+        "câncer de pâncreas",
+        "câncer de mama",
+        "câncer colorretal",
+        "câncer de próstata"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O CA 19-9 é o marcador tumoral de escolha para o câncer de pâncreas, embora também possa estar elevado no câncer colorretal e em outras neoplasias gastrointestinais.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tabela_clínica",
+        "ca_19-9",
+        "MEDICAL_TOPIC",
+        "Guia SEOM 2023"
+      ]
+    },
+    {
+      "question": "Qual é a principal limitação do CA 19-9 como marcador tumoral?",
+      "options": [
+        "Elevação em pacientes com icterícia obstrutiva",
+        "Baixa especificidade em tumores hepáticos",
+        "Resposta inflamatória inespecífica",
+        "Pouca utilidade no câncer colorretal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O CA 19-9 está elevado na colestase benigna, especialmente na icterícia obstrutiva, o que reduz sua especificidade para diferenciar doenças benignas de malignas.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "limitações_ca_19-9",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---NCCN 2024"
+      ]
+    },
+    {
+      "question": "Qual marcador tumoral é recomendado para medir junto com o CEA no acompanhamento do câncer colorretal metastático?",
+      "options": [
+        "CA 125",
+        "CA 19-9",
+        "PSA",
+        "AFP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O CA 19-9 é utilizado em conjunto com o CEA no monitoramento do câncer colorretal metastático, pois ambos podem fornecer informações complementares sobre a progressão tumoral.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "metástase_monitoramento",
+        "MEDICAL_TOPIC",
+        "Guia ESMO 2022"
+      ]
+    },
+    {
+      "question": "Que factor limita a utilidade do CEA como teste de rastreio na população em geral?",
+      "options": [
+        "Requer amostra de fezes",
+        "Resultados apenas em estágios avançados",
+        "Alto custo e baixa disponibilidade",
+        "Baixa sensibilidade e especificidade"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O CEA tem baixa sensibilidade e especificidade para câncer colorretal inicial, com frequentes falsos positivos para condições benignas, razão pela qual não é recomendado para triagem populacional.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "triagem_populacional",
+        "MEDICAL_TOPIC",
+        "USPSTF 2023"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento cirúrgico padrão para o câncer colorretal em estágio I?",
+      "options": [
+        "Ressecção hepática metastática",
+        "Ressecção local endoscópica",
+        "Quimioterapia neoadjuvante",
+        "Colectomia radical com linfadenectomia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "No câncer colorretal estágio I, a ressecção local endoscópica ou polipectomia é suficiente quando o tumor é T1N0M0 e a ressecção completa com margens negativas é alcançada.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "estádio_i",
+        "MEDICAL_TOPIC",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "Qual procedimento cirúrgico é realizado no câncer de cólon direito em estágio III?",
+      "options": [
+        "Colectomia subtotal",
+        "Hemicolectomia direita",
+        "Proctocolectomia total",
+        "Ressecção transanal local"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A hemicolectomia direita com linfadenectomia regional é o tratamento cirúrgico padrão para o câncer de cólon direito em estágio III, pois permite a ressecção oncológica adequada do tumor e dos linfonodos afetados.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "estádio_iii",
+        "MEDICAL_TOPIC",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "No câncer retal estágio II, quando é indicada a ressecção anterior baixa?",
+      "options": [
+        "Tumor com invasão hepática",
+        "Tumor no terço inferior do reto",
+        "Tumor no terço superior do reto",
+        "Tumor no terço médio do reto"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A ressecção anterior baixa é realizada para tumores do terço médio do reto, permitindo a preservação do esfíncter anal quando possível, combinada com a excisão total do mesorreto.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "baixa_resseção_anterior",
+        "MEDICAL_TOPIC",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "Qual a cirurgia indicada para câncer colorretal estágio IV com metástases hepáticas ressecáveis?",
+      "options": [
+        "Ressecção local do tumor primário",
+        "Proctocolectomia com ileostomia",
+        "Apenas quimioterapia paliativa",
+        "Colectomia síncrona e ressecção hepática"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Em pacientes selecionados com câncer colorretal em estágio IV e metástases hepáticas ressecáveis, a colectomia e ressecção hepática síncrona ou em dois estágios oferecem a melhor opção curativa.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "estádio_iv",
+        "MEDICAL_TOPIC",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "Qual abordagem cirúrgica é preferível no câncer retal em estágio III após tratamento neoadjuvante?",
+      "options": [
+        "Excisão total do mesorreto",
+        "Hemicolectomia esquerda",
+        "Ressecção local transanal",
+        "Colectomia subtotal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A excisão total do mesorreto é o padrão cirúrgico para câncer retal em estágio III após quimiorradioterapia neoadjuvante, reduzindo a recorrência local.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "mesorreto",
+        "MEDICAL_TOPIC",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "Quais critérios contra-indicam a cirurgia curativa no câncer colorretal em estágio IV?",
+      "options": [
+        "Metástases hepáticas bilobares irressecáveis",
+        "Linfadenopatia regional positiva",
+        "Invasão da serosa peritoneal",
+        "Metástases pulmonares únicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "As metástases hepáticas bilobares irressecáveis ​​contraindicam a cirurgia curativa, uma vez que não é possível ressecar todas as doenças metastáticas com intenção oncológica.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "contra-indicações",
+        "MEDICAL_TOPIC",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "Qual é o regime de quimioterapia adjuvante padrão para câncer colorretal em estágio III?",
+      "options": [
+        "Monoterapia com capecitabina",
+        "FOLFOX (5-FU, leucovorina, oxaliplatina)",
+        "FOLFIRI (5-FU, leucovorina, irinotecano)",
+        "Bevacizumabe mais FOLFOX"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O regime FOLFOX (5-fluorouracil, leucovorina e oxaliplatina) é o padrão de quimioterapia adjuvante no câncer colorretal em estágio III, com base em ensaios que demonstraram benefício na sobrevida livre de doença.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "adjuvante_quimioterapia",
+        "MEDICAL_TOPIC",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "Qual biomarcador é avaliado para decidir a duração da quimioterapia adjuvante no estágio III?",
+      "options": [
+        "Expressão HER2",
+        "Níveis CEA",
+        "Instabilidade de microssatélites",
+        "Mutação KRAS"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A instabilidade de microssatélites (MSI) é um biomarcador chave; tumores com MSI elevado têm melhor prognóstico e podem necessitar de menos quimioterapia adjuvante, evitando toxicidade desnecessária.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "biomarcadores",
+        "MEDICAL_TOPIC",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "Qual é a duração recomendada da quimioterapia adjuvante com FOLFOX no estágio III?",
+      "options": [
+        "9 meses",
+        "6 meses",
+        "3 meses",
+        "12 meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A duração padrão da quimioterapia adjuvante com FOLFOX no câncer colorretal em estágio III é de 6 meses, embora 3 meses possam ser considerados em pacientes de baixo risco, dependendo do regime e da tolerância.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "terapia_duração",
+        "MEDICAL_TOPIC",
+        "ESMO 2023"
+      ]
+    },
+    {
+      "question": "Que efeito adverso característico limita o uso de oxaliplatina no cenário adjuvante?",
+      "options": [
+        "Hepatotoxicidade",
+        "Cardiotoxicidade",
+        "Neuropatia periférica",
+        "Nefrotoxicidade"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A neuropatia periférica é o efeito adverso dose-limitante da oxaliplatina, manifestando-se como parestesias e disestesias que podem se tornar crônicas e afetar a qualidade de vida do paciente.",
+      "hashtags": [
+        "farmacologia",
+        "oxaliplatina",
+        "efeitos_adversos",
+        "neuropatia_periférica",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Em qual subgrupo do estágio III a redução da quimioterapia adjuvante para 3 meses é considerada benéfica?",
+      "options": [
+        "Todos os pacientes mais velhos",
+        "Alto risco (T4 e/ou N2)",
+        "Pacientes com baixo MSI",
+        "Baixo risco (T1-3 N1)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Em pacientes com estágio III de baixo risco (T1-3 N1), a redução para 3 meses de quimioterapia adjuvante com FOLFOX ou CAPOX é considerada aceitável, com menor toxicidade e eficácia semelhante nos estudos.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "estratificação de risco",
+        "MEDICAL_TOPIC",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "Qual medicamento é usado como alternativa oral à infusão adjuvante de 5-fluorouracil?",
+      "options": [
+        "Pemetrexedo",
+        "Capecitabina",
+        "Gemcitabina",
+        "Metotrexato"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A capecitabina é um pró-fármaco oral de 5-fluorouracil, aprovado em combinação com oxaliplatina (CAPOX) como alternativa ao FOLFOX na quimioterapia adjuvante para câncer colorretal em estágio III.",
+      "hashtags": [
+        "farmacologia",
+        "capecitabina",
+        "farmacocinética",
+        "profarmaco_oral",
+        "MEDICAL_TOPIC",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "Qual é o critério mais importante para considerar ressecável uma metástase hepática de câncer colorretal?",
+      "options": [
+        "Idade inferior a 70 anos",
+        "Tamanho inferior a 3 cm",
+        "Número inferior a 5 nós",
+        "Ressecção completa com margem"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O critério fundamental para ressecabilidade é conseguir uma ressecção completa (R0) com margem negativa, preservando parênquima hepático funcional suficiente.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "critérios_de ressecabilidade",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual técnica de imagem é considerada padrão ouro para avaliação de metástases hepáticas colorretais?",
+      "options": [
+        "tomografia por emissão de pósitrons",
+        "Tomografia computadorizada trifásica",
+        "Ultrassonografia abdominal simples",
+        "ressonância magnética com contraste"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A ressonância magnética com contraste hepatobiliar é a técnica mais sensível e específica para caracterização de metástases hepáticas, superando a TC e a PET.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "ressonância_magnética",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Nas metástases hepáticas sincrônicas de câncer colorretal, qual a estratégia cirúrgica mais aceita?",
+      "options": [
+        "Ressecção hepática primeiro",
+        "Ressecção síncrona combinada",
+        "Ressecção colorretal primeiro",
+        "Quimioterapia paliativa exclusiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A ressecção síncrona combinada do tumor primário e das metástases hepáticas é viável e segura em pacientes selecionados, evitando cirurgias sequenciais.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "cirurgia_sincrônica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual o principal objetivo da quimioterapia neoadjuvante nas metástases hepáticas ressecáveis?",
+      "options": [
+        "Avaliar a quimiossensibilidade do tumor",
+        "Evite cirurgia definitiva",
+        "Elimine micrometástases ocultas",
+        "Reduzir o tamanho das lesões"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A quimioterapia neoadjuvante busca reduzir o tamanho das metástases para facilitar uma ressecção R0 com preservação de parênquima hepático suficiente.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "tratamento",
+        "neoadjuvante_quimioterapia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual fator está associado a pior prognóstico após ressecção de metástases hepáticas colorretais?",
+      "options": [
+        "Metástase única com menos de 2 cm",
+        "Longo intervalo livre de doença",
+        "Envolvimento nodal do primário",
+        "Resposta completa à quimioterapia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A presença de linfonodos positivos no tumor colorretal primário é um fator prognóstico adverso independente para sobrevida após hepatectomia.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "previsão",
+        "fatores_prognósticos",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a taxa de sobrevivência esperada em 5 anos após a ressecção bem-sucedida de metástases hepáticas?",
+      "options": [
+        "10-20%",
+        "40-50%",
+        "25-30%",
+        "70-80%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Com a ressecção R0 e a seleção adequada dos pacientes, a sobrevida global em 5 anos atinge aproximadamente 40-50%, muito superior ao tratamento paliativo.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "previsão",
+        "sobrevivência",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual dos seguintes genes sofre mutação com mais frequência na síndrome de Lynch?",
+      "options": [
+        "KRAS e BRAF",
+        "APC e TP53",
+        "SMAD4 e BMPR1A",
+        "MLH1 e MSH2"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A síndrome de Lynch é devida a mutações germinativas em genes de reparo de incompatibilidades de DNA, sendo MLH1 e MSH2 os mais frequentemente afetados.",
+      "hashtags": [
+        "oncologia",
+        "síndrome_lynch",
+        "conceito",
+        "dna_repair_genes",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---NCCN 2024"
+      ]
+    },
+    {
+      "question": "Que tipo de herança apresenta a polipose adenomatosa familiar clássica?",
+      "options": [
+        "Herança mitocondrial",
+        "Autossômico dominante",
+        "Ligado ao X",
+        "Autossômico recessivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A polipose adenomatosa familiar clássica (PAF) é herdada de forma autossômica dominante, causada por mutações no gene APC, com alta penetrância.",
       "hashtags": [
         "oncologia",
         "familiar_adenomatosa_polipose",
-        "tratamento",
-        "colectomia_total",
+        "etiologia",
+        "herança_genética",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o risco de câncer colorretal em pacientes com síndrome de Lynch que não são operados?",
+      "options": [
+        "90-100% antes dos 30 anos",
+        "10-20% aos 40 anos",
+        "5-10% aos 50 anos",
+        "40-80% ao longo da vida"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A síndrome de Lynch confere um risco cumulativo de câncer colorretal ao longo da vida de 40-80%, com início precoce, muitas vezes antes dos 50 anos.",
+      "hashtags": [
+        "oncologia",
+        "síndrome_lynch",
+        "epidemiologia",
+        "risco_de_vida_cumulativo",
         "MEDICAL_TOPIC",
         "Guia ESMO 2023"
       ]
     },
     {
-      "question": "Qual é o principal critério clínico para suspeitar da síndrome de Lynch?",
+      "question": "Qual é o tratamento de escolha na polipose adenomatosa familiar com múltiplos adenomas?",
       "options": [
-        "História de pólipos adenomatosos >100",
-        "Idade acima de 70 anos no momento do diagnóstico",
-        "Critérios de Amsterdã II",
-        "Presença de câncer de pulmão"
+        "Ressecção endoscópica de pólipo",
+        "Colectomia profilática",
+        "Vigilância anual da colonoscopia",
+        "Quimioterapia neoadjuvante"
       ],
-      "correctAnswer": 3,
-      "explanation": "Os critérios Amsterdam II são o padrão clínico para suspeita de síndrome de Lynch, incluindo pelo menos três parentes com câncer colorretal ou tumores associados, um deles com menos de 50 anos de idade.",
+      "correctAnswer": 2,
+      "explanation": "Na polipose adenomatosa familiar com múltiplos adenomas (>100), recomenda-se a colectomia profilática para prevenir o inevitável desenvolvimento de câncer colorretal.",
+      "hashtags": [
+        "oncologia",
+        "familiar_adenomatosa_polipose",
+        "tratamento",
+        "colectomia_profilática",
+        "MEDICAL_TOPIC",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "Quais critérios clínicos são usados ​​para diagnosticar a síndrome de Lynch?",
+      "options": [
+        "Critérios do Duque",
+        "Critérios de Betesda",
+        "Critérios de Roma IV",
+        "Critérios de Amsterdã"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os critérios de Amsterdã (I e II) são os critérios clínicos clássicos para o diagnóstico da síndrome de Lynch, baseados na história familiar de câncer colorretal e outros tumores.",
       "hashtags": [
         "oncologia",
         "síndrome_lynch",
         "diagnóstico",
-        "critérios_amsterdã_ii",
+        "amsterdã_critérios",
         "MEDICAL_TOPIC",
-        "ASCO 2022"
+        "Harrison 21 anos"
       ]
     },
     {
-      "question": "Qual gene está classicamente associado à polipose adenomatosa familiar?",
+      "question": "Qual gene sofre mutação na polipose adenomatosa familiar atenuada?",
       "options": [
-        "TPM2",
+        "MSH6",
         "MLH1",
-        "MSH2",
+        "TPM2",
         "APC"
       ],
       "correctAnswer": 4,
-      "explanation": "A polipose adenomatosa familiar é causada por mutações germinativas no gene APC, localizado no cromossomo 5q21, que regula a proliferação celular e a apoptose no epitélio do cólon.",
+      "explanation": "A polipose adenomatosa familiar atenuada também se deve a mutações no gene APC, mas com expressão fenotípica mais branda e menos pólipos.",
       "hashtags": [
         "oncologia",
         "familiar_adenomatosa_polipose",
@@ -324,934 +1255,117 @@
       ]
     },
     {
-      "question": "Qual é a neoplasia extracolônica mais comum na síndrome de Lynch?",
+      "question": "Qual é o padrão de imagem para monitorar o câncer colorretal metastático?",
       "options": [
-        "câncer de pulmão",
-        "Câncer endometrial",
-        "câncer de bexiga",
-        "câncer de próstata"
+        "Tomografia computadorizada de tórax, abdômen e pelve",
+        "RM abdominal",
+        "PET-CT com fluorodesoxiglicose",
+        "Ultrassom endoscópico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A tomografia computadorizada de tórax, abdome e pelve com contraste é o estudo de escolha para detectar recorrência metastática no acompanhamento do câncer colorretal, de acordo com diretrizes internacionais.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "diagnóstico",
+        "imagem_de_rastreamento",
+        "MEDICAL_TOPIC",
+        "NCCN 2024---ESMO 2023"
+      ]
+    },
+    {
+      "question": "Quando é recomendada a primeira colonoscopia de vigilância após ressecção curativa de câncer colorretal?",
+      "options": [
+        "Aos 6 meses",
+        "por ano",
+        "Aos 3 anos",
+        "Aos 3 meses"
       ],
       "correctAnswer": 2,
-      "explanation": "O cancro do endométrio é a neoplasia extracolónica mais comum na síndrome de Lynch, com um risco cumulativo de 40-60%, pelo que se recomenda vigilância ginecológica nas mulheres portadoras.",
-      "hashtags": [
-        "oncologia",
-        "síndrome_lynch",
-        "tabela_clínica",
-        "câncer_endometrial",
-        "MEDICAL_TOPIC",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "Qual é a localização anatômica mais comum do câncer colorretal?",
-      "options": [
-        "Reto e sigma",
-        "cólon transverso",
-        "cólon descendente",
-        "Ceco e cólon ascendente"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O câncer colorretal localiza-se mais frequentemente no reto e sigmóide, representando aproximadamente 60% dos casos, devido a fatores fisiológicos e à exposição a carcinógenos fecais.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "tabela_clínica",
-        "localização_straight_sigma",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual sintoma é mais característico do câncer retal e sigma?",
-      "options": [
-        "icterícia obstrutiva",
-        "disfagia progressiva",
-        "Dor no hipocôndrio direito",
-        "Sangramento retal e tenesmo"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Sangramento retal e tenesmo são sintomas típicos do câncer retal e sigmóide devido à sua localização distal, onde os tumores sangram com facilidade e geram sensação de evacuação incompleta.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "tabela_clínica",
-        "sintomas_distais",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual teste diagnóstico é o mais sensível para detectar câncer retal e sigmóide?",
-      "options": [
-        "tomografia abdominal",
-        "Colonoscopia total",
-        "Radiografia abdominal",
-        "ressonância magnética"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A colonoscopia total é o exame mais sensível para detectar o câncer colorretal, pois permite visualizar diretamente a mucosa retal e sigmóide e realizar biópsias de lesões suspeitas.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "diagnóstico",
-        "colonoscopia",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o tratamento cirúrgico de escolha para o câncer retal baixo?",
-      "options": [
-        "Amputação abdominoperineal",
-        "Hemicolectomia direita",
-        "Colectomia subtotal",
-        "ressecção anterior baixa"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A amputação abdominoperineal é o tratamento cirúrgico de escolha para o câncer retal baixo, pois permite a ressecção completa do tumor e do esfíncter anal quando a preservação não é possível.",
+      "explanation": "A primeira colonoscopia de vigilância é realizada um ano após a ressecção curativa, para detectar lesões metacrônicas ou recorrência luminal; Os intervalos subsequentes dependem dos resultados.",
       "hashtags": [
         "oncologia",
         "câncer_colorretal",
         "tratamento",
-        "cirurgia_reto",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual fator de risco está mais fortemente associado ao câncer retal e sigma?",
-      "options": [
-        "Infecção por Helicobacter pylori",
-        "Consumo de carnes vermelhas processadas",
-        "Consumo excessivo de álcool",
-        "Dieta rica em fibras"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O consumo de carne vermelha processada é um fator de risco bem estabelecido para câncer colorretal, principalmente de reto e sigma, devido à formação de compostos N-nitroso e aminas heterocíclicas.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "etiologia",
-        "fatores_de risco",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual marcador tumoral é mais utilizado no monitoramento do câncer colorretal?",
-      "options": [
-        "CA 19-9",
-        "CEA",
-        "CA 125",
-        "AFP"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O antígeno carcinoembrionário (CEA) é o marcador tumoral mais utilizado no monitoramento do câncer colorretal, principalmente para detectar recidivas em pacientes com tumores retais e sigmóides.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "diagnóstico",
-        "marcadores_tumor",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o sintoma mais comum do câncer retal?",
-      "options": [
-        "Distensão abdominal",
-        "dor abdominal difusa",
-        "sangramento retal vermelho",
-        "Náusea pós-prandial"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O sangramento retal vermelho brilhante é a manifestação clínica mais comum do câncer retal, devido à localização distal do tumor e à sua tendência a sangrar com a passagem das fezes.",
-      "hashtags": [
-        "gastroenterologia",
-        "câncer_colorretal",
-        "tabela_clínica",
-        "sangramento retal",
-        "MEDICAL_TOPIC",
-        "Harrison 21 anos"
-      ]
-    },
-    {
-      "question": "Que alteração no hábito intestinal sugere câncer de cólon esquerdo?",
-      "options": [
-        "Constipação de início recente",
-        "Fezes aquosas e frequentes",
-        "Incontinência fecal noturna",
-        "Urgência fecal sem fezes"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A constipação de início recente ou progressivo é característica do câncer de cólon esquerdo, uma vez que o tumor estreita a luz do cólon distal, dificultando o avanço do conteúdo fecal.",
-      "hashtags": [
-        "gastroenterologia",
-        "câncer_colorretal",
-        "tabela_clínica",
-        "gut_habit_change",
-        "MEDICAL_TOPIC",
-        "Harrison 21 anos"
-      ]
-    },
-    {
-      "question": "Qual é o teste de rastreio inicial para o cancro colorrectal na população de risco médio?",
-      "options": [
-        "Sangue oculto nas fezes",
-        "tomografia abdominal",
-        "sigmoidoscopia flexível",
-        "Colonoscopia total"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O sangue oculto fecal imunoquímico é o teste de triagem inicial recomendado na população de risco médio, devido ao seu baixo custo, não invasividade e capacidade de detectar sangramento microscópico antes dos sintomas óbvios.",
-      "hashtags": [
-        "gastroenterologia",
-        "câncer_colorretal",
-        "diagnóstico",
-        "triagem",
-        "MEDICAL_TOPIC",
-        "Guia USPSTF 2021"
-      ]
-    },
-    {
-      "question": "Qual achado no exame de toque retal é mais sugestivo de câncer retal?",
-      "options": [
-        "Sangue na luva sem massa",
-        "Massa dura e irregular",
-        "Esfíncter hipertônico doloroso",
-        "Aumento da próstata"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A palpação de uma massa dura, irregular e fixa na parede retal é altamente sugestiva de câncer retal, uma vez que os tumores retais geralmente se apresentam como lesões infiltrativas e indolores.",
-      "hashtags": [
-        "gastroenterologia",
-        "câncer_colorretal",
-        "tabela_clínica",
-        "exame retal",
-        "MEDICAL_TOPIC",
-        "Harrison 21ed---Sabiston 20ed"
-      ]
-    },
-    {
-      "question": "Qual sintoma acompanhante piora o prognóstico em um paciente com sangramento retal devido a câncer?",
-      "options": [
-        "Flatulência excessiva",
-        "Refluxo gastroesofágico",
-        "Perda de peso não intencional",
-        "dor abdominal leve"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A perda de peso involuntária é um sintoma constitucional que indica doença avançada ou metástase, estando associada a pior prognóstico no câncer colorretal, diferentemente de sintomas localizados como sangramento retal isolado.",
-      "hashtags": [
-        "gastroenterologia",
-        "câncer_colorretal",
-        "tabela_clínica",
-        "sintomas_constitucionais",
-        "MEDICAL_TOPIC",
-        "Harrison 21 anos"
-      ]
-    },
-    {
-      "question": "Qual é a primeira causa da anemia por deficiência de ferro em homens mais velhos?",
-      "options": [
-        "Gastrite atrófica crônica",
-        "Úlcera péptica duodenal",
-        "hemorróidas internas",
-        "Câncer de cólon direito"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O câncer de cólon direito é a primeira causa de anemia por deficiência de ferro em homens idosos porque os tumores do lado direito sangram crônica e ocultamente, sem alterar os hábitos intestinais ou produzir sangramento visível.",
-      "hashtags": [
-        "gastroenterologia",
-        "câncer_colorretal",
-        "tabela_clínica",
-        "anemia por deficiência de ferro",
-        "MEDICAL_TOPIC",
-        "Harrison 21ed---UpToDate 2023"
-      ]
-    },
-    {
-      "question": "Qual é a apresentação clínica mais comum do câncer de cólon direito?",
-      "options": [
-        "Dor abdominal aguda",
-        "Sangue vermelho nas fezes",
-        "Anemia por deficiência de ferro",
-        "obstrução intestinal"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O câncer de cólon direito geralmente se manifesta com anemia ferropriva crônica por sangramento oculto, uma vez que o conteúdo fecal é líquido e não causa obstrução precoce.",
-      "hashtags": [
-        "oncologia",
-        "cólon_cancer_right",
-        "tabela_clínica",
-        "anemia por deficiência de ferro",
-        "MEDICAL_TOPIC",
-        "Sabiston 20ed"
-      ]
-    },
-    {
-      "question": "Qual estudo laboratorial geralmente está alterado na anemia ferropriva por câncer de cólon direito?",
-      "options": [
-        "Ferritina diminuída",
-        "Aumento de vitamina B12",
-        "Aumento da hemoglobina",
-        "Diminuição do ácido fólico"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A anemia por deficiência de ferro apresenta baixa ferritina devido à depleção dos estoques de ferro, sendo um marcador chave no sangramento crônico por câncer de cólon direito.",
-      "hashtags": [
-        "oncologia",
-        "cólon_cancer_right",
-        "diagnóstico",
-        "ferritina baixa",
-        "MEDICAL_TOPIC",
-        "Harrison 21 anos"
-      ]
-    },
-    {
-      "question": "Qual mecanismo fisiopatológico explica a anemia no câncer de cólon direito?",
-      "options": [
-        "Hemólise por autoanticorpos",
-        "Deficiência de eritropoietina",
-        "Sangramento oculto crônico",
-        "Sequestro de ferro esplênico"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O sangramento oculto crônico da neoplasia consome as reservas de ferro, levando à anemia ferropriva devido à perda contínua de sangue sem sintomas digestivos óbvios.",
-      "hashtags": [
-        "oncologia",
-        "cólon_cancer_right",
-        "fisiopatologia",
-        "sangramento_oculto",
-        "MEDICAL_TOPIC",
-        "Robbins 10ª edição"
-      ]
-    },
-    {
-      "question": "Qual é o exame de imagem inicial recomendado na suspeita de câncer de cólon direito?",
-      "options": [
-        "Ultrassonografia abdominal com Doppler",
-        "Colonoscopia total",
-        "Radiografia abdominal simples",
-        "Tomografia abdominal sem contraste"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A colonoscopia total permite visualizar diretamente a mucosa do cólon direito e realizar biópsias, sendo o padrão diagnóstico inicial quando há suspeita de neoplasia colorretal.",
-      "hashtags": [
-        "oncologia",
-        "cólon_cancer_right",
-        "diagnóstico",
-        "colonoscopia",
-        "MEDICAL_TOPIC",
-        "Guia ASGE 2023"
-      ]
-    },
-    {
-      "question": "Qual achado da colonoscopia sugere câncer de cólon direito?",
-      "options": [
-        "Divertículos Sigma",
-        "Eritema linear difuso",
-        "Vários pólipos hiperplásicos",
-        "Massa ulcerada ou vegetativa"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Uma massa ulcerada ou vegetativa no cólon direito é característica de adenocarcinoma, frequentemente associada a sangramento oculto e anemia ferropriva.",
-      "hashtags": [
-        "oncologia",
-        "cólon_cancer_right",
-        "tabela_clínica",
-        "massa_ulcerada",
-        "MEDICAL_TOPIC",
-        "Sabiston 20ed"
-      ]
-    },
-    {
-      "question": "Qual é o tratamento cirúrgico padrão para câncer de cólon direito localizado?",
-      "options": [
-        "Mucosectomia endoscópica",
-        "Colectomia subtotal",
-        "Ressecção transanal",
-        "Hemicolectomia direita"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A hemicolectomia direita com linfadenectomia regional é o tratamento cirúrgico curativo do câncer localizado de cólon direito, com ressecção do tumor e dos linfonodos.",
-      "hashtags": [
-        "oncologia",
-        "cólon_cancer_right",
-        "tratamento",
-        "direita_hemicolectomia",
-        "MEDICAL_TOPIC",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "No estadiamento TNM do câncer colorretal, o que significa T2?",
-      "options": [
-        "Invasão da muscular própria",
-        "Invasão submucosa",
-        "Invasão da subserosa",
-        "Invasão de órgãos vizinhos"
-      ],
-      "correctAnswer": 1,
-      "explanation": "T2 na classificação TNM do câncer colorretal indica que o tumor invade a muscular própria, sem cruzá-la para a subserosa ou peritônio visceral.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "tabela_clínica",
-        "stadificacion_tnm",
-        "MEDICAL_TOPIC",
-        "8ª edição da AJCC"
-      ]
-    },
-    {
-      "question": "Qual número de linfonodos metastáticos define N2a no câncer colorretal?",
-      "options": [
-        "2 nós afetados",
-        "7 linfonodos afetados",
-        "1 linfonodo afetado",
-        "4 nós afetados"
-      ],
-      "correctAnswer": 4,
-      "explanation": "N2a na classificação TNM para câncer colorretal corresponde a metástases em 4 a 6 linfonodos regionais, de acordo com o sistema de estadiamento AJCC.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "tabela_clínica",
-        "gânglios linfáticos",
-        "MEDICAL_TOPIC",
-        "8ª edição da AJCC"
-      ]
-    },
-    {
-      "question": "Qual o número mínimo de linfonodos recomendado para um estadiamento adequado do câncer colorretal?",
-      "options": [
-        "8 nós",
-        "6 nós",
-        "12 nós",
-        "15 nós"
-      ],
-      "correctAnswer": 3,
-      "explanation": "As diretrizes internacionais recomendam o exame de pelo menos 12 linfonodos na amostra cirúrgica de câncer colorretal para um estadiamento nodal preciso e prognóstico.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "diagnóstico",
-        "nodal_staging",
-        "MEDICAL_TOPIC",
-        "NCCN 2024 --- AJCC 8ª edição"
-      ]
-    },
-    {
-      "question": "No sistema TNM, qual estágio corresponde ao T3N1M0 no câncer colorretal?",
-      "options": [
-        "Estágio IIIC",
-        "Estádio IVA",
-        "Estágio IIIB",
-        "Estádio IIA"
-      ],
-      "correctAnswer": 3,
-      "explanation": "T3N1M0 é classificado como estágio IIIB no câncer colorretal, pois implica um tumor que atravessa a muscular própria sem invadir órgãos (T3) com metástases em 1-3 linfonodos (N1) e sem metástases à distância (M0).",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "tabela_clínica",
-        "estádios_clínicos",
-        "MEDICAL_TOPIC",
-        "8ª edição da AJCC"
-      ]
-    },
-    {
-      "question": "Qual estrutura anatômica define a diferença entre T3 e T4a no câncer colorretal?",
-      "options": [
-        "fáscia mesorretal",
-        "Membrana mucosa",
-        "Muscular própria",
-        "peritônio visceral"
-      ],
-      "correctAnswer": 4,
-      "explanation": "T4a é definido pela invasão do peritônio visceral, enquanto T3 é um tumor que atravessa a muscular própria sem atingir o peritônio; a serosa é o limite principal.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "anatomia_clínica",
-        "peritônio_visceral",
-        "MEDICAL_TOPIC",
-        "8ª edição da AJCC"
-      ]
-    },
-    {
-      "question": "Que implicação prognóstica a presença de depósitos tumorais sem linfonodo residual tem no câncer colorretal?",
-      "options": [
-        "Eles sempre indicam o estágio I",
-        "Equivalente a metástases hepáticas",
-        "Eles são classificados como N1c",
-        "Eles são ignorados na encenação"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Depósitos tumorais sem evidência de linfonodo residual são classificados como N1c no sistema TNM, o que implica um prognóstico semelhante ao envolvimento metastático de linfonodos.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "diagnóstico",
-        "depósitos_tumor",
-        "MEDICAL_TOPIC",
-        "8ª edição da AJCC"
-      ]
-    },
-    {
-      "question": "Qual é a principal utilidade clínica do antígeno carcinoembrionário (CEA) no câncer colorretal?",
-      "options": [
-        "Diagnóstico inicial",
-        "Acompanhamento pós-operatório",
-        "Estadiamento inicial",
-        "Triagem populacional"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O CEA é usado principalmente para monitorar a recorrência após ressecção cirúrgica de câncer colorretal; Não é útil para diagnóstico ou triagem devido à sua baixa sensibilidade e especificidade.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "tabela_clínica",
-        "marcador_tumor",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual nível sérico de CEA é geralmente considerado elevado em um paciente com câncer colorretal?",
-      "options": [
-        "> 2,5 ng/mL",
-        "> 20 ng/mL",
-        "> 5 ng/mL",
-        "> 10 ng/mL"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O valor de referência normal é geralmente <5 ng/mL em não fumantes; Níveis > 5 ng/mL são considerados elevados e podem sugerir presença ou recorrência do tumor.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "diagnóstico",
-        "cea_levels",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que condição não tumoral pode elevar falsamente o CEA em um paciente em acompanhamento?",
-      "options": [
-        "Diabetes mellitus",
-        "Pressão alta",
-        "Hipotireoidismo",
-        "Fumar ativo"
-      ],
-      "correctAnswer": 4,
-      "explanation": "O tabagismo ativo é causa conhecida de CEA elevado na ausência de neoplasia, o que pode gerar falsos positivos durante o acompanhamento oncológico.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "diagnóstico",
-        "falsos_positivos",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Com que frequência é recomendado medir o CEA durante o acompanhamento do câncer colorretal em estágio II ou III?",
-      "options": [
-        "A cada 1-2 meses",
-        "Somente se houver sintomas",
-        "A cada 3-6 meses",
-        "A cada 12 meses"
-      ],
-      "correctAnswer": 3,
-      "explanation": "As diretrizes recomendam medir o CEA a cada 3 a 6 meses durante os primeiros dois a três anos após a cirurgia, para detectar precocemente a recorrência.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "tratamento",
-        "seguir",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual achado na curva CEA sugere fortemente a recorrência do câncer colorretal?",
-      "options": [
-        "Elevação persistente",
-        "Diminuição progressiva",
-        "Baixo nível estável",
-        "Normalização inicial"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Uma elevação persistente ou progressiva do CEA durante o acompanhamento, especialmente após ter caído para níveis normais, é altamente sugestiva de recorrência do tumor.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "tabela_clínica",
-        "curva_cea",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que fator prognóstico adverso está associado a níveis pré-operatórios muito elevados de CEA?",
-      "options": [
-        "Melhor resposta à quimioterapia",
-        "Menor risco de metástase",
-        "Tumor bem diferenciado",
-        "Maior risco de recorrência"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Níveis pré-operatórios muito elevados de CEA (> 10 ng/mL) estão associados a pior prognóstico e maior risco de recorrência, independentemente do estágio patológico.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "fisiopatologia",
-        "previsão",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a extensão mínima recomendada de linfadenectomia em colectomia para câncer colorretal curativo?",
-      "options": [
-        "15 nós",
-        "5 nós",
-        "12 nós",
-        "7 gânglios"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A linfadenectomia oncológica padrão para câncer colorretal requer a ressecção de pelo menos 12 linfonodos para estadiamento e prognóstico adequados.",
-      "hashtags": [
-        "cirúrgica_oncologia",
-        "câncer_colorretal",
-        "tratamento",
-        "linfadenectomia mínima",
-        "MEDICAL_TOPIC",
-        "NCCN 2024 --- AJCC 8ª edição"
-      ]
-    },
-    {
-      "question": "Qual estrutura vascular é ligada primeiro em uma colectomia esquerda oncológica?",
-      "options": [
-        "artéria cólica esquerda",
-        "veia mesentérica inferior",
-        "artéria cólica média",
-        "artéria mesentérica superior"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Na colectomia esquerda oncológica, a artéria cólica esquerda é primeiro ligada para garantir a ressecção da drenagem linfática regional do cólon descendente.",
-      "hashtags": [
-        "cirurgia_geral",
-        "colectomia esquerda",
-        "tratamento",
-        "ligadura_vascular_primária",
-        "MEDICAL_TOPIC",
-        "Sabiston 21ed"
-      ]
-    },
-    {
-      "question": "Qual é o principal objetivo da linfadenectomia D3 no câncer de cólon?",
-      "options": [
-        "Reduzir a internação hospitalar",
-        "Reduzir o sangramento intraoperatório",
-        "Evite anastomose primária",
-        "Aumentar a sobrevivência geral"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A linfadenectomia D3 estende a ressecção aos linfonodos centrais, melhorando o estadiamento e a sobrevida global ao eliminar metástases linfáticas regionais.",
-      "hashtags": [
-        "cirúrgica_oncologia",
-        "câncer_do_cólon",
-        "tratamento",
-        "linfadenectomia_d3",
-        "MEDICAL_TOPIC",
-        "JCO 2023---NCCN 2024"
-      ]
-    },
-    {
-      "question": "Que tipo de anastomose é preferida após uma hemicolectomia direita oncológica?",
-      "options": [
-        "Ileorretal de ponta a ponta",
-        "Ileostomia terminal definitiva",
-        "Ileocólica látero-lateral",
-        "Colocólico de ponta a ponta"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A anastomose ileocólica látero-lateral é a técnica preferida após a hemicolectomia direita, devido à menor taxa de fístula anastomótica e melhor funcionalidade.",
-      "hashtags": [
-        "cirurgia_geral",
-        "direita_hemicolectomia",
-        "tratamento",
-        "ileocólica_anastomose",
-        "MEDICAL_TOPIC",
-        "Clínica Cleveland 2023"
-      ]
-    },
-    {
-      "question": "Qual é a margem proximal mínima recomendada em uma ressecção de câncer retal?",
-      "options": [
-        "2cm",
-        "10cm",
-        "1cm",
-        "5cm"
-      ],
-      "correctAnswer": 1,
-      "explanation": "No câncer retal, recomenda-se uma margem proximal de pelo menos 2 cm de tecido saudável para garantir a ressecção completa do tumor e reduzir a recorrência local.",
-      "hashtags": [
-        "cirúrgica_oncologia",
-        "câncer_retal",
-        "tratamento",
-        "margens_cirúrgicas",
-        "MEDICAL_TOPIC",
-        "ASCRS 2023---NCCN 2024"
-      ]
-    },
-    {
-      "question": "Qual técnica cirúrgica permite preservar a função esfincteriana no câncer retal distal?",
-      "options": [
-        "ressecção anterior baixa",
-        "Hemicolectomia esquerda",
-        "Colectomia subtotal",
-        "Amputação abdominoperineal"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A ressecção anterior baixa (LAR) com anastomose coloanal preserva o esfíncter anal em tumores retais distais selecionados, evitando colostomia permanente.",
-      "hashtags": [
-        "cirurgia_geral",
-        "câncer_retal_distal",
-        "tratamento",
-        "baixa_resseção_anterior",
-        "MEDICAL_TOPIC",
-        "Sabiston 21ed---ASCRS 2023"
-      ]
-    },
-    {
-      "question": "Qual é o tratamento curativo padrão para metástases hepáticas colorretais?",
-      "options": [
-        "Quimioembolização",
-        "ablação por radiofrequência",
-        "Radioterapia externa",
-        "ressecção cirúrgica"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A ressecção cirúrgica completa (R0) é o único tratamento potencialmente curativo para metástases hepáticas de câncer colorretal, oferecendo sobrevida em longo prazo.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "tratamento",
-        "ressecção_de_fígado",
-        "MEDICAL_TOPIC",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "Qual quimioterapia neoadjuvante é usada antes da ressecção hepática?",
-      "options": [
-        "FOLFOX ou FOLFIRI",
-        "Gemcitabina sozinha",
-        "Bleomicina",
-        "Ciclofosfamida"
-      ],
-      "correctAnswer": 1,
-      "explanation": "FOLFOX (oxaliplatina, 5-FU, leucovorina) ou FOLFIRI (irinotecano, 5-FU, leucovorina) são regimes neoadjuvantes padrão para reduzir metástases hepáticas e permitir a ressecção.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "tratamento",
-        "neoadjuvante_quimioterapia",
-        "MEDICAL_TOPIC",
-        "ESMO 2023"
-      ]
-    },
-    {
-      "question": "Qual critério contraindica a ressecção hepática curativa?",
-      "options": [
-        "Tumor primário ressecado",
-        "Metástase única com menos de 3 cm",
-        "Boa reserva de fígado",
-        "Múltiplas metástases bilobares"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A presença de múltiplas metástases bilobares irressecáveis ​​contraindica a ressecção curativa, uma vez que não é possível obter uma ressecção R0 com parênquima remanescente suficiente.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "diagnóstico",
-        "critérios_de irressecabilidade",
-        "MEDICAL_TOPIC",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "Qual é o principal objetivo da quimioterapia perioperatória?",
-      "options": [
-        "Prevenir recaídas locais",
-        "Reduzir o tamanho do tumor",
-        "Evite cirurgia",
-        "Curar a doença"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A quimioterapia perioperatória (neoadjuvante) busca reduzir o tamanho das metástases hepáticas para facilitar a ressecção cirúrgica completa e melhorar a sobrevida.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "tratamento",
-        "perioperatória_quimioterapia",
-        "MEDICAL_TOPIC",
-        "ESMO 2023"
-      ]
-    },
-    {
-      "question": "Que achado contra-indica a ressecção hepática na metástase?",
-      "options": [
-        "Pequena metástase única",
-        "Grande invasão vascular",
-        "Função hepática normal",
-        "Tumor primário controlado"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A invasão da veia porta ou da veia hepática maior contraindica a ressecção curativa, pois implica doença localmente avançada e irressecável, com alto risco de recorrência.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "diagnóstico",
-        "invasão_vascular",
-        "MEDICAL_TOPIC",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "Qual agente biológico é combinado com quimioterapia nas metástases hepáticas?",
-      "options": [
-        "Bevacizumabe",
-        "Imatinibe",
-        "Rituximabe",
-        "Trastuzumabe"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Bevacizumabe, um anticorpo anti-VEGF, é combinado com quimioterapia baseada em 5-FU para metástases hepáticas colorretais, melhorando as taxas de resposta e a ressecabilidade.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "tratamento",
-        "terapia_biológica",
-        "MEDICAL_TOPIC",
-        "ESMO 2023"
-      ]
-    },
-    {
-      "question": "Qual o intervalo recomendado para a primeira colonoscopia de vigilância após ressecção curativa de câncer colorretal?",
-      "options": [
-        "10 anos",
-        "1 ano",
-        "5 anos",
-        "3 meses"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Após a ressecção curativa do câncer colorretal, recomenda-se a primeira colonoscopia de vigilância após um ano para detectar recorrências ou novos pólipos.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "seguir",
         "colonoscopia_vigilância",
         "MEDICAL_TOPIC",
-        "NCCN 2024"
+        "ASGE 2022---NCCN 2024"
       ]
     },
     {
-      "question": "Qual marcador tumoral é usado rotineiramente para monitoramento pós-tratamento do câncer colorretal?",
+      "question": "Qual marcador tumoral é usado rotineiramente no monitoramento do câncer colorretal?",
       "options": [
+        "AFP",
         "CA 125",
         "CA 19-9",
-        "AFP",
         "CEA"
       ],
       "correctAnswer": 4,
-      "explanation": "O antígeno carcinoembrionário (CEA) é o marcador tumoral padrão para monitorar a recorrência em pacientes com câncer colorretal ressecado.",
+      "explanation": "O antígeno carcinoembrionário (CEA) é o marcador sérico padrão para monitorar a recorrência do câncer colorretal, com sensibilidade moderada, mas ampla recomendação nas diretrizes.",
       "hashtags": [
         "oncologia",
         "câncer_colorretal",
-        "seguir",
-        "cea",
+        "diagnóstico",
+        "marcador_tumor",
         "MEDICAL_TOPIC",
-        "ASCO 2023"
+        "NCCN 2024---ESMO 2023"
       ]
     },
     {
-      "question": "Quando deve ser solicitada a primeira dosagem de CEA após cirurgia curativa de câncer colorretal?",
+      "question": "Qual é a resposta a um CEA elevado sem lesões visíveis em imagens padrão?",
       "options": [
-        "A cada 6 meses durante 3 anos",
-        "Somente se houver sintomas",
-        "A cada 3 meses durante 2 anos",
-        "Todos os anos durante 5 anos"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Após a cirurgia curativa, o CEA é medido a cada 3 a 6 meses durante os primeiros 2 a 3 anos, sendo a cada 3 meses durante 2 anos um esquema comum.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "seguir",
-        "cea_interval",
-        "MEDICAL_TOPIC",
-        "ESMO 2022"
-      ]
-    },
-    {
-      "question": "Que achado na colonoscopia de vigilância justifica uma repetição abreviada do estudo?",
-      "options": [
-        "adenoma avançado",
-        "Pólipo hiperplásico único",
-        "Hemangioma submucoso",
-        "Diverticulose sem inflamação"
+        "Realizar PET-CT",
+        "Solicitar colonoscopia urgente",
+        "Iniciar quimioterapia empírica",
+        "Repetir CEA em 3 meses"
       ],
       "correctAnswer": 1,
-      "explanation": "Um adenoma avançado (≥10 mm, vilosidades ou displasia de alto grau) requer acompanhamento colonoscópico mais frequente, geralmente em 1 ano.",
+      "explanation": "No caso de CEA elevado com TC negativa, o PET-CT é o próximo exame recomendado para localização de doença oculta, pois combina informações metabólicas e anatômicas.",
       "hashtags": [
         "oncologia",
         "câncer_colorretal",
-        "seguir",
-        "adenoma_avançado",
-        "MEDICAL_TOPIC",
-        "USPSTF 2021"
-      ]
-    },
-    {
-      "question": "Qual é a resposta a um CEA elevado durante o acompanhamento sem resultados de colonoscopia?",
-      "options": [
-        "Iniciar quimioterapia empírica",
-        "Tomografia de tórax e abdômen",
-        "Repetir CEA em 3 meses",
-        "Realizar PET-CT imediato"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Em caso de CEA elevado sem lesões na colonoscopia, recomenda-se TC de tórax e abdômen para descartar metástases à distância.",
-      "hashtags": [
-        "oncologia",
-        "câncer_colorretal",
-        "seguir",
+        "diagnóstico",
         "cea_elevado",
         "MEDICAL_TOPIC",
         "NCCN 2024"
       ]
     },
     {
-      "question": "Por quanto tempo é recomendado continuar a vigilância com CEA e colonoscopia após ressecção curativa?",
+      "question": "Qual fator está associado a um maior risco de recorrência precoce do câncer colorretal?",
       "options": [
-        "5 anos",
-        "3 anos",
-        "Para a vida",
-        "1 ano"
+        "Idade acima de 70 anos",
+        "Tumor de cólon direito",
+        "Invasão linfovascular",
+        "Localização direta"
       ],
-      "correctAnswer": 1,
-      "explanation": "Recomenda-se vigilância intensiva com CEA e colonoscopia durante pelo menos 5 anos após a ressecção curativa, embora o risco persista além disso.",
+      "correctAnswer": 3,
+      "explanation": "A invasão linfovascular é um fator histopatológico de alto risco que prediz recorrência precoce, independentemente do estágio, e justifica um acompanhamento mais intensivo.",
       "hashtags": [
         "oncologia",
         "câncer_colorretal",
-        "seguir",
-        "duração_vigilância",
+        "fisiopatologia",
+        "invasão_linfovascular",
         "MEDICAL_TOPIC",
-        "ASCO 2023"
+        "AJCC 8ed"
+      ]
+    },
+    {
+      "question": "Qual é a sobrevida global esperada em 5 anos após a ressecção curativa do câncer colorretal em estágio III?",
+      "options": [
+        "90-95%",
+        "70-80%",
+        "30-40%",
+        "50-60%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "No estágio III (gânglios positivos), a sobrevida global em 5 anos é de 50-60% com tratamento cirúrgico e quimioterapia adjuvante, refletindo o risco de recorrência sistêmica.",
+      "hashtags": [
+        "oncologia",
+        "câncer_colorretal",
+        "epidemiologia",
+        "sobrevivência_estágio_iii",
+        "MEDICAL_TOPIC",
+        "VISIONANTE 2023---NCCN 2024"
       ]
     }
   ]

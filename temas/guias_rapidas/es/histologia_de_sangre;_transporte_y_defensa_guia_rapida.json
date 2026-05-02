@@ -1,0 +1,65 @@
+{
+  "id": "histologia_de_sangre;_transporte_y_defensa",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Glóbulos rojos sin núcleo ni orgánulos",
+      "title": "Eritrocitos anucleados",
+      "contentHtml": "<h2>Glóbulos rojos sin núcleo ni orgánulos</h2><ul><li><b>Eritrocito maduro</b>: carece de núcleo, mitocondrias, ribosomas y retículo endoplásmico; su metabolismo es anaerobio (glucólisis y vía de las pentosas).</li><li>Vida media ~120 días; eliminación por macrófagos esplénicos (hemocateresis).</li><li><b>Forma bicóncava</b> (discocito) optimiza relación superficie/volumen para intercambio gaseoso y deformabilidad capilar.</li><li>Trampa: presencia de núcleo en sangre periférica = <b>eritroblasto</b> (patológico: anemia hemolítica, mielofibrosis, leucemia).</li><li>Glosario: <b>Policromatofilia</b>: eritrocitos azul-grisáceos (reticulocitos) = regeneración medular.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Hemoglobina: estructura y transporte de O2",
+      "title": "Hemoglobina y oxigenación",
+      "contentHtml": "<h2>Hemoglobina: estructura y transporte de O2</h2><ul><li>Estructura tetramérica: 2 cadenas α (141 aa) y 2 β (146 aa); cada subunidad contiene un grupo <b>hemo</b> con Fe²⁺ que une O₂ de forma reversible.</li><li>Curva de disociación sigmoidea: <b>P50</b> = 26 mmHg (presión parcial a 50% saturación). Desplazamiento derecho (↓afinidad): acidosis, ↑2,3-BPG, ↑temperatura. Desplazamiento izquierdo (↑afinidad): alcalosis, ↓2,3-BPG, hipotermia.</li><li>Transporte: O₂ unido a Hb (98.5%), disuelto 1.5%. CO₂: 70% como bicarbonato, 23% unido a Hb (carbaminohemoglobina), 7% disuelto.</li><li>Trampa: <b>Metahemoglobina</b> (Fe³⁺) no transporta O₂; cianosis a &gt;1.5 g/dL; tratamiento con azul de metileno.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Leucocitos: granulocitos y agranulocitos",
+      "title": "Clasificación leucocitaria",
+      "contentHtml": "<h2>Leucocitos: granulocitos y agranulocitos</h2><ul><li>Granulocitos: <b>neutrófilos</b> (40-70%), <b>eosinófilos</b> (1-4%), <b>basófilos</b> (&lt;1%). Poseen gránulos específicos y núcleo lobulado.</li><li>Agranulocitos: <b>linfocitos</b> (20-40%), <b>monocitos</b> (2-8%). Sin gránulos específicos visibles en tinción Romanowsky.</li><li>Recuento absoluto: <b>leucocitos totales</b> 4.000-11.000/μL. Fórmula leucocitaria diferencial.</li><li>Trampa: <b>Desviación izquierda</b>: aumento de neutrófilos inmaduros (bandas) en infección bacteriana aguda.</li><li>Glosario: <b>Gránulos azurófilos</b>: lisosomas primarios en neutrófilos (mieloperoxidasa).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Neutrófilos: fagocitosis y primera línea",
+      "title": "Neutrófilos en defensa aguda",
+      "contentHtml": "<h2>Neutrófilos: fagocitosis y primera línea</h2><ul><li>Primera línea de defensa innata; vida media 6-8 h en sangre, 1-2 días en tejidos.</li><li>Mecanismo: quimiotaxis (IL-8, C5a, LTB4), opsonización (IgG, C3b), fagocitosis, degranulación (mieloperoxidasa, elastasa) y <b>trampas extracelulares</b> (NETs).</li><li>Umbral: <b>neutropenia</b> &lt;1.500/μL (&lt;500/μL riesgo severo de infección).</li><li>Trampa: <b>Neutrofilia</b> &gt;7.000/μL: infección bacteriana, inflamación, estrés, tabaquismo. <b>Neutropenia cíclica</b>: mutación ELANE.</li><li>Glosario: <b>Pus</b>: neutrófilos muertos + tejido necrótico + bacterias.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Linfocitos: inmunidad específica B y T",
+      "title": "Linfocitos B y T",
+      "contentHtml": "<h2>Linfocitos: inmunidad específica B y T</h2><ul><li><b>Linfocitos B</b>: maduran en médula ósea; reconocen antígeno nativo; se diferencian a células plasmáticas (anticuerpos) y células B memoria.</li><li><b>Linfocitos T</b>: maduran en timo; expresan TCR; CD4⁺ (cooperadores, Th1/Th2/Th17) y CD8⁺ (citotóxicos).</li><li>Recuento normal: 1.000-4.800/μL. <b>Linfocitosis</b> &gt;4.800/μL: infección viral (EBV, CMV), leucemia linfocítica crónica.</li><li>Trampa: <b>Células NK</b>: inmunidad innata, lisis sin MHC; conteo incluido en linfocitos grandes granulares.</li><li>Glosario: <b>Inmunoglobulinas</b>: IgG (80%, paso placentario), IgA (mucosa), IgM (primera respuesta), IgE (alergia), IgD (receptor B).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Monocitos: precursores de macrófagos",
+      "title": "Monocitos y macrófagos",
+      "contentHtml": "<h2>Monocitos: precursores de macrófagos</h2><ul><li>Monocito circulante (2-8% leucocitos): 12-72 h en sangre; emigra a tejidos y se diferencia a <b>macrófago</b> (residente o activado) o <b>célula dendrítica</b>.</li><li>Funciones: fagocitosis, presentación antigénica (MHC-II), citocinas (TNF-α, IL-1, IL-6).</li><li>Macrófagos tisulares: <b>células de Kupffer</b> (hígado), <b>osteoclastos</b> (hueso), <b>microglía</b> (SNC), <b>macrófagos alveolares</b> (pulmón).</li><li>Trampa: <b>Monocitosis</b> &gt;800/μL: tuberculosis, endocarditis, leucemia mielomonocítica crónica.</li><li>Glosario: <b>Célula espumosa</b>: macrófago cargado de lípidos (aterosclerosis).</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Plaquetas: fragmentos megacariocíticos hemostasia",
+      "title": "Plaquetas y hemostasia",
+      "contentHtml": "<h2>Plaquetas: fragmentos megacariocíticos hemostasia</h2><ul><li><b>Plaquetas</b>: fragmentos citoplasmáticos del megacariocito (médula ósea); tamaño 2-4 μm; vida media 7-10 días.</li><li>Recuento normal: 150.000-450.000/μL. <b>Trombocitopenia</b> &lt;150.000/μL; riesgo hemorrágico si &lt;50.000/μL; espontáneo si &lt;10.000/μL.</li><li>Función: adhesión (GPIb/IX al factor von Willebrand), agregación (GPIIb/IIIa al fibrinógeno), secreción de gránulos (ADP, TxA2).</li><li>Trampa: <b>Trombocitosis reactiva</b> &gt;450.000/μL: inflamación, deficiencia de hierro, esplenectomía. <b>Trombocitemia esencial</b>: mutación JAK2.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Eritropoyesis: médula ósea roja y eritropoyetina",
+      "title": "Eritropoyesis regulada",
+      "contentHtml": "<h2>Eritropoyesis: médula ósea roja y eritropoyetina</h2><ul><li>Proceso desde <b>proeritroblasto</b> hasta eritrocito maduro (~7 días). Ocurre en médula ósea roja (huesos planos, epífisis fémur/húmero).</li><li><b>Eritropoyetina (EPO)</b>: hormona glicoproteica producida en riñón (células intersticiales peritubulares) en respuesta a hipoxia (factor HIF-1α).</li><li>Umbral: Hb &lt;13 g/dL (varón) o &lt;12 g/dL (mujer) = anemia; EPO sérica aumenta en anemia hipoproliferativa (insuficiencia renal: ↓EPO).</li><li>Trampa: <b>Reticulocitos</b> (1-2% eritrocitos): índice de producción reticulocitaria corrige maduración; &gt;2.5% = respuesta medular adecuada.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Células plasmáticas: producción de anticuerpos",
+      "title": "Células plasmáticas y anticuerpos",
+      "contentHtml": "<h2>Células plasmáticas: producción de anticuerpos</h2><ul><li>Diferenciación terminal del linfocito B activado; citoplasma basófilo (abundante RER), núcleo excéntrico con patrón en rueda de carro.</li><li>Produce y secreta <b>inmunoglobulinas</b> (IgG, IgA, IgM, IgE, IgD) a razón de ~10.000 moléculas/segundo.</li><li>Residen en médula ósea (vida larga, meses-años) y tejido linfoide; son responsables de <b>inmunidad humoral</b>.</li><li>Trampa: <b>Mieloma múltiple</b>: proliferación monoclonal de células plasmáticas; pico monoclonal en proteinograma, lesiones líticas óseas, anemia.</li><li>Glosario: <b>Célula de Mott</b>: célula plasmática con inclusiones de Russell (cuerpos hialinos de inmunoglobulina).</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Basófilos y eosinófilos: alergia y parásitos",
+      "title": "Basófilos y eosinófilos",
+      "contentHtml": "<h2>Basófilos y eosinófilos: alergia y parásitos</h2><ul><li><b>Basófilos</b> (&lt;1%): gránulos con histamina, heparina, leucotrienos; receptor FcεRI de IgE; participan en reacciones alérgicas tipo I (anafilaxia).</li><li><b>Eosinófilos</b> (1-4%): gránulos con proteína básica mayor, peroxidasa, neurotoxina; activos contra helmintos y en alergia.</li><li>Umbral: <b>Eosinofilia</b> &gt;500/μL: asma, rinitis alérgica, parasitosis (Strongyloides, Toxocara), síndrome hipereosinofílico (&gt;1.500/μL).</li><li>Trampa: <b>Basofilia</b> &gt;100/μL: leucemia mieloide crónica (asociado a cromosoma Filadelfia), policitemia vera.</li></ul>"
+    }
+  ]
+}

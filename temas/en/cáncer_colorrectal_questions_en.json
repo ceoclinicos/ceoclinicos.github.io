@@ -1,265 +1,113 @@
 {
   "questions": [
     {
-      "question": "Which of the following is considered an established risk factor for colorectal cancer?",
+      "question": "Which of the following inherited syndromes is associated with an increased risk of colorectal cancer?",
       "options": [
-        "Regular physical activity",
-        "Age over 50 years",
-        "Dietary fiber consumption",
-        "High calcium intake"
+        "Turner syndrome",
+        "Lynch syndrome",
+        "Marfan syndrome",
+        "Down syndrome"
       ],
       "correctAnswer": 2,
-      "explanation": "Advanced age, especially over 50 years of age, is a well-documented risk factor for colorectal cancer, associated with accumulation of mutations.",
+      "explanation": "Lynch syndrome, also known as hereditary nonpolyposis colorectal cancer, is the most common cause of hereditary colorectal cancer, due to mutations in DNA mismatch repair genes.",
       "hashtags": [
         "oncology",
         "colorectal_cancer",
         "etiology",
-        "age",
+        "lynch_syndrome",
         "MEDICAL_TOPIC",
-        ""
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "What pathophysiological mechanism links tobacco and colorectal cancer?",
+      "question": "Which lifestyle factor is most clearly associated with increased risk of colorectal cancer?",
       "options": [
-        "Direct immunosuppression",
-        "Alteration of the microbiota",
-        "Polyp hyperplasia",
-        "Oxidative DNA damage"
+        "High fiber consumption",
+        "Regular aerobic exercise",
+        "Moderate alcohol intake",
+        "Diet rich in red meat"
       ],
       "correctAnswer": 4,
-      "explanation": "Tobacco contains carcinogens that induce oxidative stress and damage to the DNA of colon epithelial cells, promoting oncogenic mutations.",
+      "explanation": "High consumption of red and processed meats has been consistently associated with an increased risk of colorectal cancer, probably due to the formation of N-nitroso compounds and heterocyclic amines during cooking.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "etiology",
+        "dietary_factors",
+        "MEDICAL_TOPIC",
+        "ACS Guide 2023"
+      ]
+    },
+    {
+      "question": "Which of the following genes is commonly mutated in familial adenomatous polyposis?",
+      "options": [
+        "BRCA1",
+        "KRAS",
+        "TP53",
+        "APC"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Familial adenomatous polyposis is caused by germline mutations in the APC gene, which acts as a tumor suppressor. Its loss leads to the formation of multiple adenomatous polyps in the colon.",
       "hashtags": [
         "oncology",
         "colorectal_cancer",
         "pathophysiology",
-        "tobacco",
+        "gen_apc",
         "MEDICAL_TOPIC",
-        ""
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "What metabolic alteration associated with obesity increases the risk of colorectal cancer?",
+      "question": "Which of the following personal histories confers the greatest risk of colorectal cancer?",
       "options": [
-        "Subclinical hypothyroidism",
-        "Hyperinsulinemia",
-        "Chronic hypoglycemia",
-        "Hypercholesterolemia"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Obesity generates insulin resistance and compensatory hyperinsulinemia; Insulin acts as a tumor growth factor in the colon mucosa.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "pathophysiology",
-        "obesity",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the recommended average age to start colorectal cancer screening in an average-risk population?",
-      "options": [
-        "50 years",
-        "40 years",
-        "45 years",
-        "55 years"
-      ],
-      "correctAnswer": 1,
-      "explanation": "International guidelines, such as those of the USMSTF, recommend starting screening at age 50 in asymptomatic people without additional risk factors.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "diagnosis",
-        "screening",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Approximately what percentage of colorectal cancer is directly attributed to smoking?",
-      "options": [
-        "20-25%",
-        "5-10%",
-        "10-15%",
-        "15-20%"
+        "Diabetes mellitus type 2",
+        "Asymptomatic cholelithiasis",
+        "inflammatory bowel disease",
+        "Chronic arterial hypertension"
       ],
       "correctAnswer": 3,
-      "explanation": "Epidemiological studies indicate that between 10% and 15% of colorectal cancer cases are related to tobacco consumption.",
+      "explanation": "Inflammatory bowel disease, especially long-standing ulcerative colitis, significantly increases the risk of colorectal cancer due to chronic inflammation and epithelial dysplasia.",
+      "hashtags": [
+        "gastroenterology",
+        "colorectal_cancer",
+        "risk_factors",
+        "inflammatory_intestinal_disease",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What age is considered an independent risk factor for sporadic colorectal cancer?",
+      "options": [
+        "Any age equally",
+        "Over 50 years",
+        "Under 30 years old",
+        "Between 20 and 40 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Age over 50 years is the main risk factor for sporadic colorectal cancer, so it is recommended to start screening from that age in the average-risk population.",
       "hashtags": [
         "oncology",
         "colorectal_cancer",
         "epidemiology",
-        "tobacco",
+        "age_as_factor",
         "MEDICAL_TOPIC",
-        ""
+        "USPSTF Guide 2021"
       ]
     },
     {
-      "question": "What is the main inflammatory mediator linked to obesity that promotes colorectal carcinogenesis?",
+      "question": "Which of the following inheritance patterns is present in Lynch syndrome?",
       "options": [
-        "Interleukin-10",
-        "TNF-alpha",
-        "Interferon gamma",
-        "Endothelial growth factor"
-      ],
-      "correctAnswer": 2,
-      "explanation": "TNF-alpha, a proinflammatory cytokine elevated in obesity, promotes chronic inflammation and cell proliferation in the colonic mucosa.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "pathophysiology",
-        "obesity",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the recommended age to start colorectal cancer screening in an average-risk population?",
-      "options": [
-        "45 years",
-        "40 years",
-        "55 years",
-        "50 years"
-      ],
-      "correctAnswer": 4,
-      "explanation": "In an average-risk population, international guidelines establish that colorectal cancer screening should begin at age 50, with colonoscopy every 10 years.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "screening",
-        "start_age",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What screening test is recommended every 10 years for colorectal cancer?",
-      "options": [
-        "Colonoscopy",
-        "CT colonography",
-        "flexible sigmoidoscopy",
-        "occult blood test"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Colonoscopy is the screening test that is performed every 10 years, as it allows the visualization and removal of adenomatous polyps, reducing the incidence of colorectal cancer.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "screening",
-        "recommended_test",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main objective of screening with colonoscopy every 10 years?",
-      "options": [
-        "Diagnose inflammatory disease",
-        "Prevent colorectal cancer",
-        "Evaluate digestive symptoms",
-        "Detect advanced disease"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Colonoscopy screening seeks to detect and remove adenomatous polyps before they turn into cancer, thus preventing the development of colorectal cancer.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "screening",
-        "goal_prevention",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the recommended interval between screening colonoscopies at average risk?",
-      "options": [
-        "5 years",
-        "10 years",
-        "20 years",
-        "15 years"
-      ],
-      "correctAnswer": 2,
-      "explanation": "For average risk population with normal colonoscopy, the recommended interval is 10 years, based on the slow progression of adenomatous polyps to carcinoma.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "screening",
-        "recommended_interval",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What colonoscopic finding justifies shortening the screening interval to 3-5 years?",
-      "options": [
-        "normal mucosa",
-        "mild diverticulosis",
-        "advanced adenoma",
-        "Single hyperplastic polyp"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Advanced adenoma (≥1 cm, with villous histology or high-grade dysplasia) requires more frequent surveillance, every 3-5 years, due to its higher risk of malignant progression.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "screening",
-        "finding_control",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "When can colorectal cancer screening be stopped at average risk?",
-      "options": [
-        "At 80 years old",
-        "At 75 years old",
-        "At 85 years old",
-        "At 70 years old"
-      ],
-      "correctAnswer": 2,
-      "explanation": "It is recommended to stop screening at age 75 in average-risk patients, considering the risk-benefit ratio and life expectancy.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "screening",
-        "suspension_age",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most frequently mutated gene in Lynch syndrome?",
-      "options": [
-        "TP53",
-        "APC",
-        "MLH1",
-        "KRAS"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Lynch syndrome is due to mutations in DNA mismatch repair genes, with MLH1 being the most commonly affected gene, followed by MSH2.",
-      "hashtags": [
-        "oncology",
-        "lynch_syndrome",
-        "etiology",
-        "gen_mlh1",
-        "MEDICAL_TOPIC",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "What type of inheritance does familial adenomatous polyposis present?",
-      "options": [
-        "Mitochondrial",
-        "X-linked",
+        "Autosomal recessive",
         "Autosomal dominant",
-        "Autosomal recessive"
+        "Mitochondrial inheritance",
+        "X-linked"
       ],
-      "correctAnswer": 3,
-      "explanation": "Familial adenomatous polyposis follows an autosomal dominant inheritance pattern, caused by mutations in the APC gene, with high penetrance and high risk of colorectal cancer.",
+      "correctAnswer": 2,
+      "explanation": "Lynch syndrome follows an autosomal dominant inheritance pattern, meaning that one mutated copy of a mating repair gene (MLH1, MSH2, MSH6, PMS2) is enough to increase the risk.",
       "hashtags": [
-        "oncology",
-        "familial_adenomatous_polyposis",
+        "genetics",
+        "colorectal_cancer",
         "etiology",
         "autosomal_dominant_inheritance",
         "MEDICAL_TOPIC",
@@ -267,53 +115,1136 @@
       ]
     },
     {
-      "question": "What is the surgical treatment of choice for familial adenomatous polyposis?",
+      "question": "What is the most common symptom in right colorectal cancer?",
       "options": [
-        "Subtotal colectomy",
-        "Endoscopic local resection",
-        "Right hemicolectomy",
-        "Total colectomy with ileorectal anastomosis"
+        "Colicky abdominal pain",
+        "Change of fecal caliber",
+        "Iron deficiency anemia",
+        "Red blood in stool"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Right colon cancer usually presents with iron deficiency anemia due to chronic occult bleeding, unlike left colon cancer that causes changes in intestinal habit or red blood.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "clinical_table",
+        "symptoms_presentation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What symptom is characteristic of left colorectal cancer?",
+      "options": [
+        "Pain in hypogastrium",
+        "weight loss",
+        "tape stools",
+        "Microcytic anemia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ribbon or ribbon stools are typical of left colon cancer due to the reduction in the caliber of the intestinal lumen due to the tumor, causing partial obstruction.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "clinical_table",
+        "symptoms_presentation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which of the following findings is associated with rectal cancer?",
+      "options": [
+        "severe anemia",
+        "palpable abdominal mass",
+        "blood in stool",
+        "Pain in iliac fossa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rectal bleeding or red blood in the stool is the most common symptom of rectal cancer, due to the proximity of the tumor to the anal canal and its tendency to bleed.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "clinical_table",
+        "symptoms_presentation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What general symptom usually accompanies advanced colorectal cancer?",
+      "options": [
+        "progressive dysphagia",
+        "Frequencyuria",
+        "obstructive jaundice",
+        "weight loss"
       ],
       "correctAnswer": 4,
-      "explanation": "In familial adenomatous polyposis, total colectomy with ileorectal anastomosis is the standard surgical treatment to prevent colorectal cancer, although proctocolectomy is considered depending on the number of rectal polyps.",
+      "explanation": "Unintentional weight loss is a common constitutional symptom in advanced colorectal cancer, secondary to the catabolic effect of the tumor and intestinal obstruction.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "clinical_table",
+        "symptoms_presentation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most common initial clinical manifestation of colorectal cancer?",
+      "options": [
+        "abdominal pain",
+        "Hidden rectal bleeding",
+        "Change in intestinal rhythm",
+        "palpable mass"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The change in intestinal rhythm (alternating constipation or diarrhea) is the most common initial manifestation, especially in left colon tumors that alter motility.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "clinical_table",
+        "symptoms_presentation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What symptom may indicate intestinal obstruction due to colorectal cancer?",
+      "options": [
+        "Abdominal distension",
+        "Low back pain",
+        "Bilious vomiting",
+        "Hematuria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abdominal distension with cramping pain and absence of bowel movements is a classic sign of intestinal obstruction, a frequent complication in advanced colorectal cancer.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "clinical_table",
+        "symptoms_presentation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most common anatomical location of colorectal cancer?",
+      "options": [
+        "descending colon",
+        "Straight",
+        "ascending colon",
+        "transverse colon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The rectum is the most common location of colorectal cancer, representing approximately 30% of cases, followed by the sigmoid colon.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "clinical_table",
+        "rectal_location",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which segment of the colon is second in frequency of colorectal cancer?",
+      "options": [
+        "ascending colon",
+        "sigmoid colon",
+        "descending colon",
+        "transverse colon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sigmoid colon is the second most common location after the rectum, due to greater exposure to fecal carcinogens and prolonged stasis.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "epidemiology",
+        "sigmoid_colon",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most common location of colorectal cancer in patients under 50 years of age?",
+      "options": [
+        "right colon",
+        "left colon",
+        "sigmoid colon",
+        "Straight"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In young patients under 50 years of age, colorectal cancer tends to be located more in the right colon (ascendant and cecum), with a more aggressive presentation.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "epidemiology",
+        "right_colon",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What portion of the large intestine is most affected by hereditary colorectal cancer?",
+      "options": [
+        "right colon",
+        "transverse colon",
+        "left colon",
+        "Straight"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In hereditary syndromes such as hereditary nonpolyposis colorectal cancer (Lynch), the right colon is the most affected, frequently in the cecum and ascending colon.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "etiology",
+        "hereditary_right_colon",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most common segment of colorectal cancer in the general population over 70 years of age?",
+      "options": [
+        "descending colon",
+        "Straight",
+        "sigmoid colon",
+        "ascending colon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In people over 70 years of age, the rectum continues to be the most common location, although the incidence in the right colon increases with advancing age.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "epidemiology",
+        "straight_advanced_age",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which location of colorectal cancer is most frequently associated with BRAF mutation?",
+      "options": [
+        "right colon",
+        "sigmoid colon",
+        "Straight",
+        "left colon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The BRAF V600E mutation is more common in right colon cancers, especially in sporadic tumors with microsatellite instability and serrated phenotype.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "pathophysiology",
+        "braf_mutation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the rationale for colorectal cancer screening with fecal occult blood?",
+      "options": [
+        "Identify invisible blood",
+        "Evaluate colonic polyposis",
+        "Detect iron deficiency anemia",
+        "Measure carcinoembryonic antigen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fecal occult blood screening seeks to detect blood that is not visible macroscopically, indicative of bleeding neoplastic or adenomatous lesions in the colon.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "concept",
+        "screening_foundation",
+        "MEDICAL_TOPIC",
+        "USPSTF Guide 2021"
+      ]
+    },
+    {
+      "question": "What type of fecal occult blood test is currently recommended because of its highest sensitivity?",
+      "options": [
+        "Serial stool culture",
+        "guaiac test",
+        "Fecal immunohistochemistry",
+        "stool culture"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The fecal immunohistochemical test (FIT) is more sensitive and specific than the guaiac test, detects human hemoglobin, and does not require dietary restrictions.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "immunohistochemistry_test",
+        "MEDICAL_TOPIC",
+        "USPSTF Guide 2021"
+      ]
+    },
+    {
+      "question": "How often is fecal occult blood screening recommended in the average-risk population?",
+      "options": [
+        "Every 5 years",
+        "Every 1 year",
+        "Every 3 years",
+        "Every 6 months"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The annual fecal immunohistochemical test (FIT) is the recommended frequency for the average-risk population aged 50 years and older, according to current guidelines.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "screening_frequency",
+        "MEDICAL_TOPIC",
+        "USPSTF Guide 2021---AEG Guide 2020"
+      ]
+    },
+    {
+      "question": "What finding in the fecal occult blood test should lead to a colonoscopy?",
+      "options": [
+        "Insufficient sample",
+        "positive result",
+        "Negative result",
+        "liquid stools"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A positive fecal occult blood test result requires colonoscopy to identify and biopsy lesions such as adenomatous polyps or cancer.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "clinical_table",
+        "positive_result",
+        "MEDICAL_TOPIC",
+        "USPSTF Guide 2021"
+      ]
+    },
+    {
+      "question": "What is an important limitation of the guaiac fecal occult blood test?",
+      "options": [
+        "High specificity",
+        "DNA detection",
+        "Dietary interference",
+        "Requires endoscopy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The guaiac test can give false positives for foods with peroxidase (red meat, fruits) and false negatives for vitamin C, limiting its accuracy.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "guayaco_limitation",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "At what age range does fecal occult blood screening begin for an average risk population?",
+      "options": [
+        "45 to 49 years",
+        "40 to 44 years",
+        "55 to 59 years",
+        "50 to 54 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Current guidelines recommend starting screening at age 45 for the average-risk population, although some maintain 50 years as the traditional age.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "epidemiology",
+        "age_onset_screening",
+        "MEDICAL_TOPIC",
+        "USPSTF Guide 2021"
+      ]
+    },
+    {
+      "question": "What is the test of choice for the detection of colorectal cancer?",
+      "options": [
+        "MRI",
+        "Colonoscopy",
+        "abdominal ultrasound",
+        "CT scan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Colonoscopy is the gold standard for the detection of colorectal cancer because it allows you to directly visualize the colonic mucosa and perform biopsies or polypectomies during the same procedure.",
+      "hashtags": [
+        "gastroenterology",
+        "colorectal_cancer",
+        "diagnosis",
+        "colonoscopy",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which colonoscopic finding is associated with a higher risk of malignancy?",
+      "options": [
+        "colon hemangioma",
+        "Uncomplicated diverticulum",
+        "Sessile adenomatous polyp",
+        "Small hyperplastic polyp"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The sessile adenomatous polyp, especially if it is large or with high-grade dysplasia, presents a higher risk of malignant transformation, with colonoscopy being essential for its detection and resection.",
+      "hashtags": [
+        "gastroenterology",
+        "colorectal_cancer",
+        "clinical_table",
+        "adenomatous_polyps",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main limitation of colonoscopy for population screening?",
+      "options": [
+        "Invasiveness and preparation",
+        "Quick recovery",
+        "High diagnostic sensitivity",
+        "Low economic cost"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Colonoscopy requires rigorous intestinal preparation and is an invasive procedure that carries risks such as perforation or bleeding, which limits its acceptance and massive application in population screening.",
+      "hashtags": [
+        "gastroenterology",
+        "colorectal_cancer",
+        "diagnosis",
+        "screening_limitations",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What interval is recommended to repeat a colonoscopy with normal results?",
+      "options": [
+        "10 years",
+        "1 year",
+        "3 years",
+        "5 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For a screening colonoscopy with a normal result and no additional risk factors, the guidelines recommend repeating the study in 10 years, since the progression of polyps to cancer is usually slow.",
+      "hashtags": [
+        "gastroenterology",
+        "colorectal_cancer",
+        "treatment",
+        "screening_interval",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which technique improves the detection of flat lesions during colonoscopy?",
+      "options": [
+        "Use of biopsy forceps",
+        "Inspection without retroflection",
+        "Chromoscopy with indigo carmine",
+        "Washing with distilled water"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Indigo carmine chromoscopy highlights the mucosal surface, facilitating the identification of flat or sessile lesions that could go unnoticed with conventional white light during colonoscopy.",
+      "hashtags": [
+        "gastroenterology",
+        "colorectal_cancer",
+        "diagnosis",
+        "chromoscopy",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most feared complication of therapeutic colonoscopy?",
+      "options": [
+        "intestinal perforation",
+        "Abdominal distension",
+        "Post-procedure nausea",
+        "bleeding hemorrhoids"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intestinal perforation is the most serious complication of therapeutic colonoscopy, especially during polypectomy, requiring urgent surgical intervention and increasing morbidity and mortality if not detected in time.",
+      "hashtags": [
+        "gastroenterology",
+        "colorectal_cancer",
+        "complications",
+        "colonic_perforation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What anatomical structure defines the T3 stage in colorectal cancer according to TNM?",
+      "options": [
+        "Invasion of the muscularis propria",
+        "Submucosal invasion",
+        "Serosal invasion",
+        "Invasion of the muscularis propria"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In the TNM classification, T3 corresponds to tumor invasion through the muscularis propria to the pericolorectal tissues, without reaching the serosa or neighboring organs.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "stadificacion_tnm",
+        "MEDICAL_TOPIC",
+        "AJCC 8th ed"
+      ]
+    },
+    {
+      "question": "What is the equivalent of Dukes C stage in the TNM classification?",
+      "options": [
+        "Any T N1-2 M0",
+        "Any T any N M1",
+        "T1-2 N0 M0",
+        "T3-4 N0 M0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dukes C stage is defined by the presence of metastases in regional lymph nodes, which in TNM is equivalent to any T with N1 or N2 and M0.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "dukes_vs_tnm",
+        "MEDICAL_TOPIC",
+        "AJCC 8th ed"
+      ]
+    },
+    {
+      "question": "In the Dukes classification, stage B implies:",
+      "options": [
+        "Tumor limited to the mucosa",
+        "Distant metastasis",
+        "Nodeless transmural invasion",
+        "Regional lymph node invasion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dukes B stage is characterized by a tumor that passes through the intestinal wall (transmural invasion) but without lymph node involvement or distant metastasis.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "dukes_classification",
+        "MEDICAL_TOPIC",
+        "AJCC 8th ed"
+      ]
+    },
+    {
+      "question": "What TNM stage corresponds to a tumor that invades the visceral serosa?",
+      "options": [
+        "T2",
+        "T1",
+        "T4a",
+        "T3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "T4a in the TNM classification of colorectal cancer indicates tumor invasion of the visceral serosa (visceral peritoneum), which represents a locally advanced stage.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "stadium_t4a",
+        "MEDICAL_TOPIC",
+        "AJCC 8th ed"
+      ]
+    },
+    {
+      "question": "What is the main prognostic difference between Dukes A and Dukes B?",
+      "options": [
+        "Tumor size in centimeters",
+        "Parietal invasion depth",
+        "Lymph node involvement",
+        "Presence of liver metastases"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dukes A is limited to the wall without completely penetrating it, while Dukes B involves transmural invasion. The depth of invasion is the factor that differentiates them, not the nodes or metastases.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "dukes_forecast",
+        "MEDICAL_TOPIC",
+        "AJCC 8th ed"
+      ]
+    },
+    {
+      "question": "What does the N mean in the TNM classification of colorectal cancer?",
+      "options": [
+        "Primary tumor size",
+        "Tumor histological grade",
+        "Distant metastasis",
+        "Regional lymph node involvement"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In the TNM system, the N (node) evaluates the presence and extent of metastases in the regional lymph nodes, with N0 being without involvement and N1/N2 with increasing involvement.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "definition_n_tnm",
+        "MEDICAL_TOPIC",
+        "AJCC 8th ed"
+      ]
+    },
+    {
+      "question": "What is the main clinical utility of carcinoembryonic antigen (CEA) in colorectal cancer?",
+      "options": [
+        "Determination of initial TNM stage",
+        "Routine population screening",
+        "Initial diagnosis of the disease",
+        "Postoperative follow-up and recurrence"
+      ],
+      "correctAnswer": 4,
+      "explanation": "CEA is mainly used to monitor tumor recurrence after curative surgery in colorectal cancer, since it is neither sensitive nor specific for diagnosis or screening.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "clinical_table",
+        "tumor_markers",
+        "MEDICAL_TOPIC",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "What benign condition can falsely elevate serum CEA levels?",
+      "options": [
+        "Diabetes mellitus type 2",
+        "Chronic obstructive pulmonary disease",
+        "Systemic arterial hypertension",
+        "Active smoking"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Active smoking is a known cause of false CEA elevation, which limits its diagnostic specificity and should be considered when interpreting results.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "false_positives",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "In which type of cancer does CA 19-9 have the greatest diagnostic sensitivity?",
+      "options": [
+        "pancreatic cancer",
+        "breast cancer",
+        "colorectal cancer",
+        "prostate cancer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CA 19-9 is the tumor marker of choice for pancreatic cancer, although it can also be elevated in colorectal cancer and other gastrointestinal neoplasms.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "clinical_table",
+        "ca_19-9",
+        "MEDICAL_TOPIC",
+        "SEOM Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the main limitation of CA 19-9 as a tumor marker?",
+      "options": [
+        "Elevation in patients with obstructive jaundice",
+        "Low specificity in liver tumors",
+        "Nonspecific inflammatory response",
+        "Little usefulness in colorectal cancer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CA 19-9 is elevated in benign cholestasis, especially in obstructive jaundice, which reduces its specificity to differentiate benign from malignant disease.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "limitations_ca_19-9",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---NCCN 2024"
+      ]
+    },
+    {
+      "question": "What tumor marker is recommended to measure together with CEA in the follow-up of metastatic colorectal cancer?",
+      "options": [
+        "AC 125",
+        "CA 19-9",
+        "PSA",
+        "AFP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "CA 19-9 is used together with CEA in the monitoring of metastatic colorectal cancer, since both can provide complementary information on tumor progression.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "metastasis_monitoring",
+        "MEDICAL_TOPIC",
+        "ESMO Guide 2022"
+      ]
+    },
+    {
+      "question": "What factor limits the usefulness of CEA as a screening test in the general population?",
+      "options": [
+        "Requires stool sample",
+        "Results only in advanced stages",
+        "High cost and low availability",
+        "Low sensitivity and specificity"
+      ],
+      "correctAnswer": 4,
+      "explanation": "CEA has low sensitivity and specificity for early colorectal cancer, with frequent false positives for benign conditions, which is why it is not recommended for population screening.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "population_screening",
+        "MEDICAL_TOPIC",
+        "USPSTF 2023"
+      ]
+    },
+    {
+      "question": "What is the standard surgical treatment for stage I colorectal cancer?",
+      "options": [
+        "Metastatic liver resection",
+        "Endoscopic local resection",
+        "Neoadjuvant chemotherapy",
+        "Radical colectomy with lymphadenectomy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In stage I colorectal cancer, endoscopic local resection or polypectomy is sufficient when the tumor is T1N0M0 and complete resection with negative margins is achieved.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "stadium_i",
+        "MEDICAL_TOPIC",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "What surgical procedure is performed in stage III right colon cancer?",
+      "options": [
+        "Subtotal colectomy",
+        "Right hemicolectomy",
+        "Total proctocolectomy",
+        "Local transanal resection"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Right hemicolectomy with regional lymphadenectomy is the standard surgical treatment for stage III right colon cancer, as it allows adequate oncological resection of the tumor and affected lymph nodes.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "stadium_iii",
+        "MEDICAL_TOPIC",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "In stage II rectal cancer, when is low anterior resection indicated?",
+      "options": [
+        "Tumor with liver invasion",
+        "Tumor in the lower third of the rectum",
+        "Tumor in the upper third of the rectum",
+        "Tumor in the middle third of the rectum"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Low anterior resection is performed for tumors of the middle third of the rectum, allowing the anal sphincter to be preserved when possible, combined with total excision of the mesorectum.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "low_anterior_resection",
+        "MEDICAL_TOPIC",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "What is the indicated surgery for stage IV colorectal cancer with resectable liver metastases?",
+      "options": [
+        "Local resection of the primary tumor",
+        "Proctocolectomy with ileostomy",
+        "Palliative chemotherapy only",
+        "Synchronous colectomy and liver resection"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In selected patients with stage IV colorectal cancer and resectable liver metastases, synchronous or two-stage colectomy and liver resection offers the best curative option.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "stadium_iv",
+        "MEDICAL_TOPIC",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "Which surgical approach is preferable in stage III rectal cancer after neoadjuvant treatment?",
+      "options": [
+        "Total excision of the mesorectum",
+        "Left hemicolectomy",
+        "Transanal local resection",
+        "Subtotal colectomy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total excision of the mesorectum is the surgical standard for stage III rectal cancer after neoadjuvant chemoradiotherapy, reducing local recurrence.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "mesorectum",
+        "MEDICAL_TOPIC",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "What criteria contraindicate curative surgery in stage IV colorectal cancer?",
+      "options": [
+        "Unresectable bilobar liver metastases",
+        "Positive regional lymphadenopathy",
+        "Peritoneal serosa invasion",
+        "Single lung metastases"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Unresectable bilobar liver metastases contraindicate curative surgery, since it is not possible to resect all metastatic disease with oncological intent.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "contraindications",
+        "MEDICAL_TOPIC",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "What is the standard adjuvant chemotherapy regimen for stage III colorectal cancer?",
+      "options": [
+        "Capecitabine monotherapy",
+        "FOLFOX (5-FU, leucovorin, oxaliplatin)",
+        "FOLFIRI (5-FU, leucovorin, irinotecan)",
+        "Bevacizumab plus FOLFOX"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The FOLFOX regimen (5-fluorouracil, leucovorin and oxaliplatin) is the standard of adjuvant chemotherapy in stage III colorectal cancer, based on trials that demonstrated benefit in disease-free survival.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "adjuvant_chemotherapy",
+        "MEDICAL_TOPIC",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "What biomarker is evaluated to decide the duration of adjuvant chemotherapy in stage III?",
+      "options": [
+        "HER2 expression",
+        "CEA Levels",
+        "Microsatellite instability",
+        "KRAS mutation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Microsatellite instability (MSI) is a key biomarker; tumors with high MSI have a better prognosis and may require less adjuvant chemotherapy, avoiding unnecessary toxicity.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "biomarkers",
+        "MEDICAL_TOPIC",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "What is the recommended duration of adjuvant chemotherapy with FOLFOX in stage III?",
+      "options": [
+        "9 months",
+        "6 months",
+        "3 months",
+        "12 months"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The standard duration of adjuvant chemotherapy with FOLFOX in stage III colorectal cancer is 6 months, although 3 months may be considered in low-risk patients depending on the regimen and tolerance.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "therapy_duration",
+        "MEDICAL_TOPIC",
+        "ESMO 2023"
+      ]
+    },
+    {
+      "question": "What characteristic adverse effect limits the use of oxaliplatin in the adjuvant setting?",
+      "options": [
+        "Hepatotoxicity",
+        "Cardiotoxicity",
+        "Peripheral neuropathy",
+        "Nephrotoxicity"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Peripheral neuropathy is the dose-limiting adverse effect of oxaliplatin, manifesting as paresthesias and dysesthesias that can become chronic and affect the patient's quality of life.",
+      "hashtags": [
+        "pharmacology",
+        "oxaliplatin",
+        "adverse_effects",
+        "peripheral_neuropathy",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "In which stage III subgroup is reducing adjuvant chemotherapy to 3 months considered beneficial?",
+      "options": [
+        "All older patients",
+        "High risk (T4 and/or N2)",
+        "Patients with low MSI",
+        "Low risk (T1-3 N1)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In patients with low-risk stage III (T1-3 N1), reduction to 3 months of adjuvant chemotherapy with FOLFOX or CAPOX is considered acceptable, with lower toxicity and similar efficacy in studies.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "risk_stratification",
+        "MEDICAL_TOPIC",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "What drug is used as an oral alternative to adjuvant 5-fluorouracil infusion?",
+      "options": [
+        "Pemetrexed",
+        "Capecitabine",
+        "Gemcitabine",
+        "Methotrexate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Capecitabine is an oral prodrug of 5-fluorouracil, approved in combination with oxaliplatin (CAPOX) as an alternative to FOLFOX in adjuvant chemotherapy for stage III colorectal cancer.",
+      "hashtags": [
+        "pharmacology",
+        "capecitabine",
+        "pharmacokinetics",
+        "propharmaco_oral",
+        "MEDICAL_TOPIC",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "What is the most important criterion to consider a liver metastasis from colorectal cancer resectable?",
+      "options": [
+        "Age less than 70 years",
+        "Size less than 3 cm",
+        "Number less than 5 nodes",
+        "Complete resection with margin"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The fundamental criterion for resectability is to achieve a complete resection (R0) with a negative margin, preserving sufficient functional liver parenchyma.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "resectability_criteria",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What imaging technique is considered gold standard for evaluating colorectal liver metastases?",
+      "options": [
+        "positron emission tomography",
+        "Triphasic CT scan",
+        "Simple abdominal ultrasound",
+        "MRI with contrast"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Magnetic resonance imaging with hepatobiliary contrast is the most sensitive and specific technique for the characterization of liver metastases, surpassing CT and PET.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "magnetic_resonance",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In synchronous liver metastases from colorectal cancer, what is the most accepted surgical strategy?",
+      "options": [
+        "Liver resection first",
+        "Combined synchronous resection",
+        "Colorectal resection first",
+        "Exclusive palliative chemotherapy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Combined synchronous resection of the primary tumor and liver metastases is feasible and safe in selected patients, avoiding sequential surgeries.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "synchronic_surgery",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main objective of neoadjuvant chemotherapy in resectable liver metastases?",
+      "options": [
+        "Evaluate tumor chemosensitivity",
+        "Avoid definitive surgery",
+        "Eliminate hidden micrometastases",
+        "Reduce the size of lesions"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Neoadjuvant chemotherapy seeks to reduce the size of metastases to facilitate an R0 resection with preservation of sufficient liver parenchyma.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "treatment",
+        "neoadjuvant_chemotherapy",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What factor is associated with a worse prognosis after resection of colorectal liver metastases?",
+      "options": [
+        "Single metastasis less than 2 cm",
+        "Long disease-free interval",
+        "Nodal involvement of the primary",
+        "Complete response to chemotherapy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The presence of positive lymph nodes in the primary colorectal tumor is an independent adverse prognostic factor for survival after hepatectomy.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "forecast",
+        "prognostic_factors",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the expected 5-year survival rate after successful resection of liver metastases?",
+      "options": [
+        "10-20%",
+        "40-50%",
+        "25-30%",
+        "70-80%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "With R0 resection and appropriate patient selection, 5-year overall survival reaches approximately 40-50%, much higher than palliative management.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "forecast",
+        "survival",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which of the following genes is most frequently mutated in Lynch syndrome?",
+      "options": [
+        "KRAS and BRAF",
+        "APC and TP53",
+        "SMAD4 and BMPR1A",
+        "MLH1 and MSH2"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Lynch syndrome is due to germline mutations in DNA mismatch repair genes, with MLH1 and MSH2 being the most frequently affected.",
+      "hashtags": [
+        "oncology",
+        "lynch_syndrome",
+        "concept",
+        "dna_repair_genes",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---NCCN 2024"
+      ]
+    },
+    {
+      "question": "What type of inheritance does classic familial adenomatous polyposis present?",
+      "options": [
+        "Mitochondrial inheritance",
+        "Autosomal dominant",
+        "X-linked",
+        "Autosomal recessive"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Classic familial adenomatous polyposis (FAP) is inherited in an autosomal dominant manner, caused by mutations in the APC gene, with high penetrance.",
       "hashtags": [
         "oncology",
         "familial_adenomatous_polyposis",
-        "treatment",
-        "total_colectomy",
+        "etiology",
+        "genetic_inheritance",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the risk of colorectal cancer in patients with Lynch syndrome who do not undergo surgery?",
+      "options": [
+        "90-100% before age 30",
+        "10-20% at 40 years",
+        "5-10% at 50 years old",
+        "40-80% throughout life"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Lynch syndrome confers a cumulative lifetime risk of colorectal cancer of 40-80%, with early onset, often before age 50.",
+      "hashtags": [
+        "oncology",
+        "lynch_syndrome",
+        "epidemiology",
+        "cumulative_life_risk",
         "MEDICAL_TOPIC",
         "ESMO Guide 2023"
       ]
     },
     {
-      "question": "What is the main clinical criterion to suspect Lynch syndrome?",
+      "question": "What is the management of choice in familial adenomatous polyposis with multiple adenomas?",
       "options": [
-        "History of adenomatous polyps >100",
-        "Age over 70 years at diagnosis",
-        "Amsterdam II Criteria",
-        "Presence of lung cancer"
+        "Endoscopic polyp resection",
+        "Prophylactic colectomy",
+        "Annual colonoscopy surveillance",
+        "Neoadjuvant chemotherapy"
       ],
-      "correctAnswer": 3,
-      "explanation": "The Amsterdam II criteria are the clinical standard for suspecting Lynch syndrome, including at least three relatives with colorectal cancer or associated tumors, one under 50 years of age.",
+      "correctAnswer": 2,
+      "explanation": "In familial adenomatous polyposis with multiple adenomas (>100), prophylactic colectomy is recommended to prevent the inevitable development of colorectal cancer.",
+      "hashtags": [
+        "oncology",
+        "familial_adenomatous_polyposis",
+        "treatment",
+        "prophylactic_colectomy",
+        "MEDICAL_TOPIC",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "What clinical criteria are used to diagnose Lynch syndrome?",
+      "options": [
+        "Duke Criteria",
+        "Bethesda criteria",
+        "Rome IV Criteria",
+        "Amsterdam Criteria"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Amsterdam criteria (I and II) are the classic clinical criteria for the diagnosis of Lynch syndrome, based on a family history of colorectal cancer and other tumors.",
       "hashtags": [
         "oncology",
         "lynch_syndrome",
         "diagnosis",
-        "criteria_amsterdam_ii",
+        "amsterdam_criteria",
         "MEDICAL_TOPIC",
-        "ASCO 2022"
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "What gene is classically associated with familial adenomatous polyposis?",
+      "question": "What gene is mutated in attenuated familial adenomatous polyposis?",
       "options": [
-        "PMS2",
+        "MSH6",
         "MLH1",
-        "MSH2",
+        "PMS2",
         "APC"
       ],
       "correctAnswer": 4,
-      "explanation": "Familial adenomatous polyposis is caused by germline mutations in the APC gene, located on chromosome 5q21, which regulates cell proliferation and apoptosis in the colonic epithelium.",
+      "explanation": "Attenuated familial adenomatous polyposis is also due to mutations in the APC gene, but with milder phenotypic expression and fewer polyps.",
       "hashtags": [
         "oncology",
         "familial_adenomatous_polyposis",
@@ -324,934 +1255,117 @@
       ]
     },
     {
-      "question": "What is the most common extracolonic neoplasia in Lynch syndrome?",
+      "question": "What is the imaging standard for monitoring metastatic colorectal cancer?",
       "options": [
-        "lung cancer",
-        "Endometrial cancer",
-        "bladder cancer",
-        "prostate cancer"
+        "CT scan of the chest, abdomen and pelvis",
+        "Abdominal MRI",
+        "PET-CT with fluorodeoxyglucose",
+        "Endoscopic ultrasound"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Contrast-enhanced computed tomography of the chest, abdomen and pelvis is the study of choice to detect metastatic recurrence in the follow-up of colorectal cancer, according to international guidelines.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "diagnosis",
+        "tracking_image",
+        "MEDICAL_TOPIC",
+        "NCCN 2024---ESMO 2023"
+      ]
+    },
+    {
+      "question": "When is the first surveillance colonoscopy after curative resection of colorectal cancer recommended?",
+      "options": [
+        "At 6 months",
+        "per year",
+        "At 3 years",
+        "At 3 months"
       ],
       "correctAnswer": 2,
-      "explanation": "Endometrial cancer is the most common extracolonic neoplasm in Lynch syndrome, with a cumulative risk of 40-60%, so gynecological surveillance is recommended in female carriers.",
-      "hashtags": [
-        "oncology",
-        "lynch_syndrome",
-        "clinical_table",
-        "endometrial_cancer",
-        "MEDICAL_TOPIC",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "What is the most common anatomical location of colorectal cancer?",
-      "options": [
-        "Straight and sigma",
-        "transverse colon",
-        "descending colon",
-        "Cecum and ascending colon"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Colorectal cancer is most frequently located in the rectum and sigmoid, representing approximately 60% of cases, due to physiological factors and exposure to fecal carcinogens.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "clinical_table",
-        "location_straight_sigma",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What symptom is most characteristic of rectal and sigma cancer?",
-      "options": [
-        "obstructive jaundice",
-        "progressive dysphagia",
-        "Pain in right hypochondrium",
-        "Rectum bleeding and tenesmus"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Rectal bleeding and tenesmus are typical symptoms of rectal and sigmoid cancer due to their distal location, where the tumors bleed easily and generate a sensation of incomplete evacuation.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "clinical_table",
-        "distal_symptoms",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Which diagnostic test is the most sensitive to detect rectal and sigmoid cancer?",
-      "options": [
-        "abdominal tomography",
-        "Total colonoscopy",
-        "Abdominal x-ray",
-        "MRI"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Total colonoscopy is the most sensitive test to detect colorectal cancer, since it allows you to directly visualize the rectal and sigmoid mucosa and take biopsies of suspicious lesions.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "diagnosis",
-        "colonoscopy",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the surgical treatment of choice for low rectal cancer?",
-      "options": [
-        "Abdominoperineal amputation",
-        "Right hemicolectomy",
-        "Subtotal colectomy",
-        "low anterior resection"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Abdominoperineal amputation is the surgical treatment of choice for low rectal cancer, as it allows complete resection of the tumor and anal sphincter when preservation is not possible.",
+      "explanation": "The first surveillance colonoscopy is performed one year after curative resection, to detect metachronous lesions or luminal recurrence; Subsequent intervals depend on findings.",
       "hashtags": [
         "oncology",
         "colorectal_cancer",
         "treatment",
-        "rectum_surgery",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Which risk factor is most strongly associated with rectal and sigma cancer?",
-      "options": [
-        "Helicobacter pylori infection",
-        "Consumption of processed red meats",
-        "Excessive alcohol consumption",
-        "High fiber diet"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The consumption of processed red meat is a well-established risk factor for colorectal cancer, especially in the rectum and sigma, due to the formation of N-nitroso compounds and heterocyclic amines.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "etiology",
-        "risk_factors",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What tumor marker is most frequently used in the monitoring of colorectal cancer?",
-      "options": [
-        "CA 19-9",
-        "CEA",
-        "AC 125",
-        "AFP"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Carcinoembryonic antigen (CEA) is the most used tumor marker in the monitoring of colorectal cancer, especially to detect recurrences in patients with rectal and sigmoid tumors.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "diagnosis",
-        "tumor_markers",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most common symptom of rectal cancer?",
-      "options": [
-        "Abdominal distension",
-        "diffuse abdominal pain",
-        "red rectal bleeding",
-        "Postprandial nausea"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Bright red rectal bleeding is the most common clinical manifestation of rectal cancer, due to the distal location of the tumor and its tendency to bleed with the passage of stool.",
-      "hashtags": [
-        "gastroenterology",
-        "colorectal_cancer",
-        "clinical_table",
-        "rectal_bleeding",
-        "MEDICAL_TOPIC",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "What alteration in bowel habit suggests left colon cancer?",
-      "options": [
-        "New onset constipation",
-        "Frequent, watery stools",
-        "Nocturnal fecal incontinence",
-        "Fecal urgency without stool"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Constipation of recent or progressive onset is characteristic of left colon cancer, since the tumor narrows the lumen of the distal colon, making it difficult for fecal contents to advance.",
-      "hashtags": [
-        "gastroenterology",
-        "colorectal_cancer",
-        "clinical_table",
-        "gut_habit_change",
-        "MEDICAL_TOPIC",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "What is the initial screening test for colorectal cancer in the average-risk population?",
-      "options": [
-        "Occult blood in stool",
-        "abdominal tomography",
-        "flexible sigmoidoscopy",
-        "Total colonoscopy"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Immunochemical fecal occult blood is the recommended initial screening test in the average-risk population, due to its low cost, non-invasiveness, and ability to detect microscopic bleeding before obvious symptoms.",
-      "hashtags": [
-        "gastroenterology",
-        "colorectal_cancer",
-        "diagnosis",
-        "screening",
-        "MEDICAL_TOPIC",
-        "USPSTF Guide 2021"
-      ]
-    },
-    {
-      "question": "Which finding on digital rectal examination is most suggestive of rectal cancer?",
-      "options": [
-        "Blood on the doughless glove",
-        "Hard and irregular dough",
-        "Painful hypertonic sphincter",
-        "Enlarged prostate"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Palpation of a hard, irregular, fixed mass on the rectal wall is highly suggestive of rectal cancer, since rectal tumors usually present as infiltrative and painless lesions.",
-      "hashtags": [
-        "gastroenterology",
-        "colorectal_cancer",
-        "clinical_table",
-        "rectal_examination",
-        "MEDICAL_TOPIC",
-        "Harrison 21ed---Sabiston 20ed"
-      ]
-    },
-    {
-      "question": "What accompanying symptom worsens the prognosis in a patient with rectal bleeding due to cancer?",
-      "options": [
-        "Excessive flatulence",
-        "Gastroesophageal reflux",
-        "Unintentional weight loss",
-        "mild abdominal pain"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Involuntary weight loss is a constitutional symptom that indicates advanced disease or metastasis, being associated with a worse prognosis in colorectal cancer, unlike localized symptoms such as isolated rectal bleeding.",
-      "hashtags": [
-        "gastroenterology",
-        "colorectal_cancer",
-        "clinical_table",
-        "constitutional_symptoms",
-        "MEDICAL_TOPIC",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "What is the first cause of iron deficiency anemia in older men?",
-      "options": [
-        "Chronic atrophic gastritis",
-        "Duodenal peptic ulcer",
-        "internal hemorrhoids",
-        "Right colon cancer"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Right colon cancer is the first cause of iron deficiency anemia in older men because right tumors bleed chronically and occultly, without altering bowel habits or producing visible bleeding.",
-      "hashtags": [
-        "gastroenterology",
-        "colorectal_cancer",
-        "clinical_table",
-        "iron deficiency anemia",
-        "MEDICAL_TOPIC",
-        "Harrison 21ed---UpToDate 2023"
-      ]
-    },
-    {
-      "question": "What is the most common clinical presentation of right colon cancer?",
-      "options": [
-        "Acute abdominal pain",
-        "Red blood in stool",
-        "Iron deficiency anemia",
-        "intestinal obstruction"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Right colon cancer usually manifests with chronic iron deficiency anemia due to occult bleeding, since the fecal contents are liquid and do not cause early obstruction.",
-      "hashtags": [
-        "oncology",
-        "colon_cancer_right",
-        "clinical_table",
-        "iron deficiency anemia",
-        "MEDICAL_TOPIC",
-        "Sabiston 20ed"
-      ]
-    },
-    {
-      "question": "Which laboratory study is usually altered in iron deficiency anemia due to right colon cancer?",
-      "options": [
-        "Decreased ferritin",
-        "Increased vitamin B12",
-        "Increased hemoglobin",
-        "Decreased folic acid"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Iron deficiency anemia presents with low ferritin due to depletion of iron stores, being a key marker in chronic bleeding from right colon cancer.",
-      "hashtags": [
-        "oncology",
-        "colon_cancer_right",
-        "diagnosis",
-        "low_ferritin",
-        "MEDICAL_TOPIC",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "What pathophysiological mechanism explains anemia in right colon cancer?",
-      "options": [
-        "Hemolysis due to autoantibodies",
-        "Erythropoietin deficiency",
-        "Chronic occult bleeding",
-        "Splenic iron sequestration"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Chronic occult bleeding from the neoplasm consumes iron reserves, leading to iron deficiency anemia due to continuous blood loss without obvious digestive symptoms.",
-      "hashtags": [
-        "oncology",
-        "colon_cancer_right",
-        "pathophysiology",
-        "hidden_bleed",
-        "MEDICAL_TOPIC",
-        "Robbins 10ed"
-      ]
-    },
-    {
-      "question": "What is the recommended initial imaging test in suspected right colon cancer?",
-      "options": [
-        "Abdominal ultrasound with Doppler",
-        "Total colonoscopy",
-        "Plain abdominal x-ray",
-        "Non-contrast abdominal tomography"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Total colonoscopy allows you to directly visualize the mucosa of the right colon and take biopsies, being the initial diagnostic standard when colorectal neoplasia is suspected.",
-      "hashtags": [
-        "oncology",
-        "colon_cancer_right",
-        "diagnosis",
-        "colonoscopy",
-        "MEDICAL_TOPIC",
-        "ASGE Guide 2023"
-      ]
-    },
-    {
-      "question": "Which colonoscopy finding suggests right colon cancer?",
-      "options": [
-        "Sigma diverticula",
-        "Diffuse linear erythema",
-        "Multiple hyperplastic polyps",
-        "Ulcerated or vegetative mass"
-      ],
-      "correctAnswer": 4,
-      "explanation": "An ulcerated or vegetative mass in the right colon is characteristic of adenocarcinoma, often associated with occult bleeding and iron deficiency anemia.",
-      "hashtags": [
-        "oncology",
-        "colon_cancer_right",
-        "clinical_table",
-        "ulcerated_mass",
-        "MEDICAL_TOPIC",
-        "Sabiston 20ed"
-      ]
-    },
-    {
-      "question": "What is the standard surgical treatment for localized right colon cancer?",
-      "options": [
-        "Endoscopic mucosectomy",
-        "Subtotal colectomy",
-        "Transanal resection",
-        "Right hemicolectomy"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Right hemicolectomy with regional lymphadenectomy is the curative surgical treatment for localized right colon cancer, resecting the tumor and lymph nodes.",
-      "hashtags": [
-        "oncology",
-        "colon_cancer_right",
-        "treatment",
-        "right_hemicolectomy",
-        "MEDICAL_TOPIC",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "In TNM staging of colorectal cancer, what does T2 mean?",
-      "options": [
-        "Invasion of the muscularis propria",
-        "Submucosal invasion",
-        "Invasion of the subserosa",
-        "Invasion of neighboring organs"
-      ],
-      "correctAnswer": 1,
-      "explanation": "T2 in the TNM classification of colorectal cancer indicates that the tumor invades the muscularis propria, without crossing it into the subserosa or visceral peritoneum.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "clinical_table",
-        "stadificacion_tnm",
-        "MEDICAL_TOPIC",
-        "AJCC 8th edition"
-      ]
-    },
-    {
-      "question": "What number of metastatic lymph nodes defines N2a in colorectal cancer?",
-      "options": [
-        "2 nodes affected",
-        "7 lymph nodes affected",
-        "1 affected lymph node",
-        "4 nodes affected"
-      ],
-      "correctAnswer": 4,
-      "explanation": "N2a in the TNM classification for colorectal cancer corresponds to metastases in 4 to 6 regional lymph nodes, according to the AJCC staging system.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "clinical_table",
-        "lymph nodes",
-        "MEDICAL_TOPIC",
-        "AJCC 8th edition"
-      ]
-    },
-    {
-      "question": "What is the minimum number of lymph nodes recommended for adequate staging in colorectal cancer?",
-      "options": [
-        "8 nodes",
-        "6 nodes",
-        "12 nodes",
-        "15 nodes"
-      ],
-      "correctAnswer": 3,
-      "explanation": "International guidelines recommend examining at least 12 lymph nodes in the colorectal cancer surgical specimen for accurate and prognostic nodal staging.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "diagnosis",
-        "nodal_staging",
-        "MEDICAL_TOPIC",
-        "NCCN 2024---AJCC 8th edition"
-      ]
-    },
-    {
-      "question": "In the TNM system, what stage corresponds to T3N1M0 in colorectal cancer?",
-      "options": [
-        "Stage IIIC",
-        "IVA Stadium",
-        "Stage IIIB",
-        "Stadium IIA"
-      ],
-      "correctAnswer": 3,
-      "explanation": "T3N1M0 is classified as stage IIIB in colorectal cancer, since it implies a tumor that crosses the muscularis propria without invading organs (T3) with metastases in 1-3 lymph nodes (N1) and without distant metastases (M0).",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "clinical_table",
-        "clinical_stadiums",
-        "MEDICAL_TOPIC",
-        "AJCC 8th edition"
-      ]
-    },
-    {
-      "question": "What anatomical structure defines the difference between T3 and T4a in colorectal cancer?",
-      "options": [
-        "mesorectal fascia",
-        "Mucous membrane",
-        "Muscularis propria",
-        "visceral peritoneum"
-      ],
-      "correctAnswer": 4,
-      "explanation": "T4a is defined by invasion of the visceral peritoneum, while T3 is a tumor that passes through the muscularis propria without reaching the peritoneum; the serosa is the key boundary.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "clinical_anatomy",
-        "peritoneum_visceral",
-        "MEDICAL_TOPIC",
-        "AJCC 8th edition"
-      ]
-    },
-    {
-      "question": "What prognostic implication does the presence of tumor deposits without residual lymph node have in colorectal cancer?",
-      "options": [
-        "They always indicate stage I",
-        "Equivalent to liver metastases",
-        "They are classified as N1c",
-        "They are ignored in staging"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Tumor deposits without evidence of residual lymph node are classified as N1c in the TNM system, which implies a prognosis similar to metastatic lymph node involvement.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "diagnosis",
-        "tumor_deposits",
-        "MEDICAL_TOPIC",
-        "AJCC 8th edition"
-      ]
-    },
-    {
-      "question": "What is the main clinical utility of carcinoembryonic antigen (CEA) in colorectal cancer?",
-      "options": [
-        "Initial diagnosis",
-        "Postoperative follow-up",
-        "Initial staging",
-        "Population screening"
-      ],
-      "correctAnswer": 2,
-      "explanation": "CEA is primarily used to monitor recurrence after surgical resection of colorectal cancer; It is not useful for diagnosis or screening due to its low sensitivity and specificity.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "clinical_table",
-        "tumor_marker",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What serum CEA level is generally considered elevated in a patient with colorectal cancer?",
-      "options": [
-        "> 2.5 ng/mL",
-        "> 20 ng/mL",
-        "> 5 ng/mL",
-        "> 10 ng/mL"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The normal reference value is usually <5 ng/mL in non-smokers; Levels > 5 ng/mL are considered high and may suggest tumor presence or recurrence.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "diagnosis",
-        "cea_levels",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What non-tumor condition can falsely elevate CEA in a patient under follow-up?",
-      "options": [
-        "Diabetes mellitus",
-        "High blood pressure",
-        "Hypothyroidism",
-        "Active smoking"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Active smoking is a known cause of elevated CEA in the absence of neoplasia, which can generate false positives during oncological follow-up.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "diagnosis",
-        "false_positives",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "How often is it recommended to measure CEA during the follow-up of stage II or III colorectal cancer?",
-      "options": [
-        "Every 1-2 months",
-        "Only if there are symptoms",
-        "Every 3-6 months",
-        "Every 12 months"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The guidelines recommend measuring CEA every 3 to 6 months during the first two to three years after surgery, to detect recurrence early.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "treatment",
-        "follow-up",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Which finding on the CEA curve strongly suggests recurrence of colorectal cancer?",
-      "options": [
-        "Persistent elevation",
-        "Progressive decrease",
-        "Low stable level",
-        "Initial normalization"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A persistent or progressive elevation of CEA during follow-up, especially after it has fallen to normal levels, is highly suggestive of tumor recurrence.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "clinical_table",
-        "curve_cea",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What adverse prognostic factor is associated with very high preoperative CEA levels?",
-      "options": [
-        "Better response to chemotherapy",
-        "Lower risk of metastasis",
-        "Well differentiated tumor",
-        "Higher risk of recurrence"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Very high preoperative levels of CEA (> 10 ng/mL) are associated with a worse prognosis and greater risk of recurrence, regardless of the pathological stage.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "pathophysiology",
-        "forecast",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the minimum recommended extent of lymphadenectomy in colectomy for curative colorectal cancer?",
-      "options": [
-        "15 nodes",
-        "5 nodes",
-        "12 nodes",
-        "7 ganglia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Standard oncologic lymphadenectomy for colorectal cancer requires resection of at least 12 lymph nodes for adequate staging and prognosis.",
-      "hashtags": [
-        "surgical_oncology",
-        "colorectal_cancer",
-        "treatment",
-        "minimal_lymphadenectomy",
-        "MEDICAL_TOPIC",
-        "NCCN 2024---AJCC 8th edition"
-      ]
-    },
-    {
-      "question": "What vascular structure is ligated first in an oncological left colectomy?",
-      "options": [
-        "left colic artery",
-        "inferior mesenteric vein",
-        "middle colic artery",
-        "superior mesenteric artery"
-      ],
-      "correctAnswer": 1,
-      "explanation": "In oncologic left colectomy, the left colic artery is first ligated to ensure resection of the regional lymphatic drainage of the descending colon.",
-      "hashtags": [
-        "general_surgery",
-        "left_colectomy",
-        "treatment",
-        "primary_vascular_ligation",
-        "MEDICAL_TOPIC",
-        "Sabiston 21ed"
-      ]
-    },
-    {
-      "question": "What is the main objective of D3 lymphadenectomy in colon cancer?",
-      "options": [
-        "Reduce hospital stay",
-        "Reduce intraoperative bleeding",
-        "Avoid primary anastomosis",
-        "Increase overall survival"
-      ],
-      "correctAnswer": 4,
-      "explanation": "D3 lymphadenectomy extends the resection to the central nodes, improving staging and overall survival by eliminating regional lymphatic metastases.",
-      "hashtags": [
-        "surgical_oncology",
-        "colon_cancer",
-        "treatment",
-        "lymphadenectomy_d3",
-        "MEDICAL_TOPIC",
-        "JCO 2023---NCCN 2024"
-      ]
-    },
-    {
-      "question": "What type of anastomosis is preferred after an oncological right hemicolectomy?",
-      "options": [
-        "End-to-end ileorectal",
-        "Definitive terminal ileostomy",
-        "Lateral-lateral ileocolic",
-        "End-to-end colocolic"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The side-lateral ileocolic anastomosis is the preferred technique after right hemicolectomy, due to a lower rate of anastomotic leak and better functionality.",
-      "hashtags": [
-        "general_surgery",
-        "right_hemicolectomy",
-        "treatment",
-        "ileocolic_anastomosis",
-        "MEDICAL_TOPIC",
-        "Cleveland Clinic 2023"
-      ]
-    },
-    {
-      "question": "What is the minimum recommended proximal margin in a rectal cancer resection?",
-      "options": [
-        "2cm",
-        "10cm",
-        "1cm",
-        "5cm"
-      ],
-      "correctAnswer": 1,
-      "explanation": "In rectal cancer, a proximal margin of at least 2 cm of healthy tissue is recommended to ensure complete resection of the tumor and reduce local recurrence.",
-      "hashtags": [
-        "surgical_oncology",
-        "rectal_cancer",
-        "treatment",
-        "surgical_margins",
-        "MEDICAL_TOPIC",
-        "ASCRS 2023---NCCN 2024"
-      ]
-    },
-    {
-      "question": "What surgical technique allows preserving sphincter function in distal rectal cancer?",
-      "options": [
-        "low anterior resection",
-        "Left hemicolectomy",
-        "Subtotal colectomy",
-        "Abdominoperineal amputation"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Low anterior resection (LAR) with coloanal anastomosis preserves the anal sphincter in selected distal rectal tumors, avoiding permanent colostomy.",
-      "hashtags": [
-        "general_surgery",
-        "distal_rectal_cancer",
-        "treatment",
-        "low_anterior_resection",
-        "MEDICAL_TOPIC",
-        "Sabiston 21ed---ASCRS 2023"
-      ]
-    },
-    {
-      "question": "What is the standard curative treatment for colorectal liver metastases?",
-      "options": [
-        "Chemoembolization",
-        "radiofrequency ablation",
-        "External radiation therapy",
-        "surgical resection"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Complete surgical resection (R0) is the only potentially curative treatment for liver metastases from colorectal cancer, offering long-term survival.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "treatment",
-        "liver_resection",
-        "MEDICAL_TOPIC",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "What neoadjuvant chemotherapy is used before liver resection?",
-      "options": [
-        "FOLFOX or FOLFIRI",
-        "Gemcitabine alone",
-        "Bleomycin",
-        "Cyclophosphamide"
-      ],
-      "correctAnswer": 1,
-      "explanation": "FOLFOX (oxaliplatin, 5-FU, leucovorin) or FOLFIRI (irinotecan, 5-FU, leucovorin) are standard neoadjuvant regimens to reduce liver metastases and allow resection.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "treatment",
-        "neoadjuvant_chemotherapy",
-        "MEDICAL_TOPIC",
-        "ESMO 2023"
-      ]
-    },
-    {
-      "question": "What criterion contraindicates curative liver resection?",
-      "options": [
-        "Resected primary tumor",
-        "Single metastasis less than 3 cm",
-        "Good liver reserve",
-        "Multiple bilobar metastases"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The presence of multiple, unresectable bilobar metastases contraindicate curative resection, since it is not possible to achieve an R0 resection with sufficient remaining parenchyma.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "diagnosis",
-        "unresectability_criteria",
-        "MEDICAL_TOPIC",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "What is the main goal of perioperative chemotherapy?",
-      "options": [
-        "Prevent local relapse",
-        "Reduce tumor size",
-        "Avoid surgery",
-        "Cure the disease"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Perioperative (neoadjuvant) chemotherapy seeks to reduce the size of liver metastases to facilitate complete surgical resection and improve survival.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "treatment",
-        "perioperative_chemotherapy",
-        "MEDICAL_TOPIC",
-        "ESMO 2023"
-      ]
-    },
-    {
-      "question": "What finding contraindicates liver resection in metastasis?",
-      "options": [
-        "Small single metastasis",
-        "Major vascular invasion",
-        "Normal liver function",
-        "Controlled primary tumor"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Invasion of the portal vein or the greater hepatic vein contraindicates curative resection, as it implies locally advanced and unresectable disease with a high risk of recurrence.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "diagnosis",
-        "vascular_invasion",
-        "MEDICAL_TOPIC",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "What biological agent is combined with chemotherapy in liver metastases?",
-      "options": [
-        "Bevacizumab",
-        "Imatinib",
-        "Rituximab",
-        "Trastuzumab"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Bevacizumab, an anti-VEGF antibody, is combined with 5-FU-based chemotherapy for colorectal liver metastases, improving response rates and resectability.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "treatment",
-        "biological_therapy",
-        "MEDICAL_TOPIC",
-        "ESMO 2023"
-      ]
-    },
-    {
-      "question": "What is the recommended interval for the first surveillance colonoscopy after curative resection of colorectal cancer?",
-      "options": [
-        "10 years",
-        "1 year",
-        "5 years",
-        "3 months"
-      ],
-      "correctAnswer": 2,
-      "explanation": "After curative resection of colorectal cancer, the first surveillance colonoscopy is recommended after one year to detect recurrences or new polyps.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "follow-up",
         "colonoscopy_surveillance",
         "MEDICAL_TOPIC",
-        "NCCN 2024"
+        "ASGE 2022---NCCN 2024"
       ]
     },
     {
-      "question": "What tumor marker is routinely used for post-treatment monitoring of colorectal cancer?",
+      "question": "What tumor marker is routinely used in monitoring colorectal cancer?",
       "options": [
+        "AFP",
         "AC 125",
         "CA 19-9",
-        "AFP",
         "CEA"
       ],
       "correctAnswer": 4,
-      "explanation": "Carcinoembryonic antigen (CEA) is the standard tumor marker to monitor recurrence in patients with resected colorectal cancer.",
+      "explanation": "Carcinoembryonic antigen (CEA) is the standard serum marker to monitor recurrence in colorectal cancer, with moderate sensitivity but broad recommendation in guidelines.",
       "hashtags": [
         "oncology",
         "colorectal_cancer",
-        "follow-up",
-        "cea",
+        "diagnosis",
+        "tumor_marker",
         "MEDICAL_TOPIC",
-        "ASCO 2023"
+        "NCCN 2024---ESMO 2023"
       ]
     },
     {
-      "question": "When should the first CEA determination be requested after curative surgery for colorectal cancer?",
+      "question": "What is the response to a high CEA without visible lesions on standard images?",
       "options": [
-        "Every 6 months for 3 years",
-        "Only if there are symptoms",
-        "Every 3 months for 2 years",
-        "Every year for 5 years"
-      ],
-      "correctAnswer": 3,
-      "explanation": "After curative surgery, CEA is measured every 3 to 6 months for the first 2-3 years, with every 3 months for 2 years being a common schedule.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "follow-up",
-        "cea_interval",
-        "MEDICAL_TOPIC",
-        "ESMO 2022"
-      ]
-    },
-    {
-      "question": "What finding on surveillance colonoscopy warrants a shortened repeat study?",
-      "options": [
-        "advanced adenoma",
-        "Single hyperplastic polyp",
-        "Submucosal hemangioma",
-        "Diverticulosis without inflammation"
+        "Perform PET-CT",
+        "Request urgent colonoscopy",
+        "Start empirical chemotherapy",
+        "Repeat CEA in 3 months"
       ],
       "correctAnswer": 1,
-      "explanation": "An advanced adenoma (≥10 mm, villous or high-grade dysplasia) requires more frequent colonoscopic follow-up, usually at 1 year.",
+      "explanation": "In the event of elevated CEA with negative CT, PET-CT is the next recommended test to locate occult disease, since it combines metabolic and anatomical information.",
       "hashtags": [
         "oncology",
         "colorectal_cancer",
-        "follow-up",
-        "advanced_adenoma",
-        "MEDICAL_TOPIC",
-        "USPSTF 2021"
-      ]
-    },
-    {
-      "question": "What is the response to a high CEA during follow-up without colonoscopy findings?",
-      "options": [
-        "Start empirical chemotherapy",
-        "Chest and abdomen tomography",
-        "Repeat CEA in 3 months",
-        "Perform immediate PET-CT"
-      ],
-      "correctAnswer": 2,
-      "explanation": "In case of elevated CEA without lesions on colonoscopy, chest and abdominal CT is recommended to rule out distant metastasis.",
-      "hashtags": [
-        "oncology",
-        "colorectal_cancer",
-        "follow-up",
+        "diagnosis",
         "cea_elevado",
         "MEDICAL_TOPIC",
         "NCCN 2024"
       ]
     },
     {
-      "question": "How long is it recommended to continue surveillance with CEA and colonoscopy after curative resection?",
+      "question": "What factor is associated with a higher risk of early recurrence of colorectal cancer?",
       "options": [
-        "5 years",
-        "3 years",
-        "For life",
-        "1 year"
+        "Age over 70 years",
+        "Right colon tumor",
+        "Lymphovascular invasion",
+        "Straight location"
       ],
-      "correctAnswer": 1,
-      "explanation": "Intensive surveillance with CEA and colonoscopy is recommended for at least 5 years after curative resection, although the risk persists beyond that.",
+      "correctAnswer": 3,
+      "explanation": "Lymphovascular invasion is a high-risk histopathological factor that predicts early recurrence, regardless of stage, and warrants more intensive follow-up.",
       "hashtags": [
         "oncology",
         "colorectal_cancer",
-        "follow-up",
-        "surveillance_duration",
+        "pathophysiology",
+        "lymphovascular_invasion",
         "MEDICAL_TOPIC",
-        "ASCO 2023"
+        "AJCC 8ed"
+      ]
+    },
+    {
+      "question": "What is the expected 5-year overall survival after curative resection of stage III colorectal cancer?",
+      "options": [
+        "90-95%",
+        "70-80%",
+        "30-40%",
+        "50-60%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In stage III (positive nodes), the 5-year overall survival is 50-60% with surgical treatment and adjuvant chemotherapy, reflecting the risk of systemic recurrence.",
+      "hashtags": [
+        "oncology",
+        "colorectal_cancer",
+        "epidemiology",
+        "survival_stage_iii",
+        "MEDICAL_TOPIC",
+        "SEER 2023---NCCN 2024"
       ]
     }
   ]

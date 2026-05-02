@@ -1,265 +1,113 @@
 {
   "questions": [
     {
-      "question": "¿Cuál de los siguientes se considera un factor de riesgo establecido para cáncer colorrectal?",
+      "question": "¿Cuál de los siguientes síndromes hereditarios se asocia con mayor riesgo de cáncer colorrectal?",
       "options": [
-        "Actividad física regular",
-        "Edad mayor de 50 años",
-        "Consumo de fibra dietética",
-        "Ingesta de calcio elevada"
+        "Síndrome de Turner",
+        "Síndrome de Lynch",
+        "Síndrome de Marfan",
+        "Síndrome de Down"
       ],
       "correctAnswer": 2,
-      "explanation": "La edad avanzada, especialmente mayor de 50 años, es un factor de riesgo bien documentado para cáncer colorrectal, asociado a acumulación de mutaciones.",
+      "explanation": "El síndrome de Lynch, también conocido como cáncer colorrectal hereditario no polipósico, es la causa más frecuente de cáncer colorrectal hereditario, debido a mutaciones en genes de reparación de errores de apareamiento del ADN.",
       "hashtags": [
         "oncologia",
         "cancer_colorrectal",
         "etiologia",
-        "edad",
+        "sindrome_de_lynch",
         "TEMA_MEDICO",
-        ""
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "¿Qué mecanismo fisiopatológico vincula el tabaco con el cáncer colorrectal?",
+      "question": "¿Qué factor de estilo de vida se asocia más claramente con aumento del riesgo de cáncer colorrectal?",
       "options": [
-        "Inmunosupresión directa",
-        "Alteración de la microbiota",
-        "Hiperplasia de pólipos",
-        "Daño oxidativo del ADN"
+        "Consumo elevado de fibra",
+        "Ejercicio aeróbico regular",
+        "Ingesta moderada de alcohol",
+        "Dieta rica en carnes rojas"
       ],
       "correctAnswer": 4,
-      "explanation": "El tabaco contiene carcinógenos que inducen estrés oxidativo y daño al ADN de las células epiteliales del colon, promoviendo mutaciones oncogénicas.",
+      "explanation": "El consumo elevado de carnes rojas y procesadas se ha asociado consistentemente con mayor riesgo de cáncer colorrectal, probablemente por la formación de compuestos N-nitrosos y aminas heterocíclicas durante la cocción.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "etiologia",
+        "factores_dieteticos",
+        "TEMA_MEDICO",
+        "Guía ACS 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes genes está comúnmente mutado en la poliposis adenomatosa familiar?",
+      "options": [
+        "BRCA1",
+        "KRAS",
+        "TP53",
+        "APC"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La poliposis adenomatosa familiar es causada por mutaciones germinales en el gen APC, que actúa como supresor tumoral. Su pérdida lleva a la formación de múltiples pólipos adenomatosos en el colon.",
       "hashtags": [
         "oncologia",
         "cancer_colorrectal",
         "fisiopatologia",
-        "tabaco",
+        "gen_apc",
         "TEMA_MEDICO",
-        ""
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "¿Qué alteración metabólica asociada a la obesidad incrementa el riesgo de cáncer colorrectal?",
+      "question": "¿Cuál de los siguientes antecedentes personales confiere mayor riesgo de cáncer colorrectal?",
       "options": [
-        "Hipotiroidismo subclínico",
-        "Hiperinsulinemia",
-        "Hipoglucemia crónica",
-        "Hipercolesterolemia"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La obesidad genera resistencia insulínica e hiperinsulinemia compensadora; la insulina actúa como factor de crecimiento tumoral en la mucosa del colon.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "fisiopatologia",
-        "obesidad",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la edad media recomendada para iniciar el cribado de cáncer colorrectal en población de riesgo promedio?",
-      "options": [
-        "50 años",
-        "40 años",
-        "45 años",
-        "55 años"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Las guías internacionales, como las de la USMSTF, recomiendan iniciar el cribado a los 50 años en personas asintomáticas sin factores de riesgo adicionales.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "diagnostico",
-        "cribado",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué porcentaje aproximado de cáncer colorrectal se atribuye directamente al tabaquismo?",
-      "options": [
-        "20-25%",
-        "5-10%",
-        "10-15%",
-        "15-20%"
+        "Diabetes mellitus tipo 2",
+        "Colelitiasis asintomática",
+        "Enfermedad inflamatoria intestinal",
+        "Hipertensión arterial crónica"
       ],
       "correctAnswer": 3,
-      "explanation": "Estudios epidemiológicos indican que entre el 10% y el 15% de los casos de cáncer colorrectal están relacionados con el consumo de tabaco.",
+      "explanation": "La enfermedad inflamatoria intestinal, especialmente la colitis ulcerosa de larga evolución, incrementa significativamente el riesgo de cáncer colorrectal debido a la inflamación crónica y la displasia epitelial.",
+      "hashtags": [
+        "gastroenterologia",
+        "cancer_colorrectal",
+        "factores_de_riesgo",
+        "enfermedad_inflamatoria_intestinal",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué edad se considera factor de riesgo independiente para cáncer colorrectal esporádico?",
+      "options": [
+        "Cualquier edad por igual",
+        "Mayor de 50 años",
+        "Menor de 30 años",
+        "Entre 20 y 40 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La edad mayor de 50 años es el principal factor de riesgo para cáncer colorrectal esporádico, por lo que se recomienda iniciar tamizaje a partir de esa edad en población de riesgo promedio.",
       "hashtags": [
         "oncologia",
         "cancer_colorrectal",
         "epidemiologia",
-        "tabaco",
+        "edad_como_factor",
         "TEMA_MEDICO",
-        ""
+        "Guía USPSTF 2021"
       ]
     },
     {
-      "question": "¿Cuál es el principal mediador inflamatorio vinculado a la obesidad que favorece la carcinogénesis colorrectal?",
+      "question": "¿Cuál de los siguientes patrones de herencia presenta el síndrome de Lynch?",
       "options": [
-        "Interleucina-10",
-        "TNF-alfa",
-        "Interferón gamma",
-        "Factor de crecimiento endotelial"
+        "Autosómico recesivo",
+        "Autosómico dominante",
+        "Herencia mitocondrial",
+        "Ligado al cromosoma X"
       ],
       "correctAnswer": 2,
-      "explanation": "El TNF-alfa, citocina proinflamatoria elevada en la obesidad, promueve la inflamación crónica y la proliferación celular en la mucosa del colon.",
+      "explanation": "El síndrome de Lynch sigue un patrón de herencia autosómico dominante, lo que significa que una copia mutada de un gen de reparación de apareamiento (MLH1, MSH2, MSH6, PMS2) es suficiente para aumentar el riesgo.",
       "hashtags": [
-        "oncologia",
+        "genetica",
         "cancer_colorrectal",
-        "fisiopatologia",
-        "obesidad",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la edad recomendada para iniciar tamizaje de cáncer colorrectal en población de riesgo promedio?",
-      "options": [
-        "45 años",
-        "40 años",
-        "55 años",
-        "50 años"
-      ],
-      "correctAnswer": 4,
-      "explanation": "En población de riesgo promedio, las guías internacionales establecen iniciar el tamizaje de cáncer colorrectal a los 50 años, con colonoscopia cada 10 años.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "tamizaje",
-        "edad_inicio",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué prueba de tamizaje se recomienda cada 10 años para cáncer colorrectal?",
-      "options": [
-        "Colonoscopia",
-        "Colonografía por TC",
-        "Sigmoidoscopia flexible",
-        "Prueba de sangre oculta"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La colonoscopia es la prueba de tamizaje que se realiza cada 10 años, ya que permite visualizar y extirpar pólipos adenomatosos, reduciendo la incidencia de cáncer colorrectal.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "tamizaje",
-        "prueba_recomendada",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el principal objetivo del tamizaje con colonoscopia cada 10 años?",
-      "options": [
-        "Diagnosticar enfermedad inflamatoria",
-        "Prevenir cáncer colorrectal",
-        "Evaluar síntomas digestivos",
-        "Detectar enfermedad avanzada"
-      ],
-      "correctAnswer": 2,
-      "explanation": "El tamizaje con colonoscopia busca detectar y extirpar pólipos adenomatosos antes de que se transformen en cáncer, previniendo así el desarrollo de cáncer colorrectal.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "tamizaje",
-        "objetivo_prevencion",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el intervalo recomendado entre colonoscopias de tamizaje en riesgo promedio?",
-      "options": [
-        "5 años",
-        "10 años",
-        "20 años",
-        "15 años"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Para población de riesgo promedio con colonoscopia normal, el intervalo recomendado es de 10 años, basado en la lenta progresión de pólipos adenomatosos a carcinoma.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "tamizaje",
-        "intervalo_recomendado",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo colonoscópico justifica acortar el intervalo de tamizaje a 3-5 años?",
-      "options": [
-        "Mucosa normal",
-        "Diverticulosis leve",
-        "Adenoma avanzado",
-        "Pólipo hiperplásico único"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El adenoma avanzado (≥1 cm, con histología vellosa o displasia de alto grado) requiere vigilancia más frecuente, cada 3-5 años, por su mayor riesgo de progresión maligna.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "tamizaje",
-        "hallazgo_control",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuándo se puede suspender el tamizaje de cáncer colorrectal en riesgo promedio?",
-      "options": [
-        "A los 80 años",
-        "A los 75 años",
-        "A los 85 años",
-        "A los 70 años"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Se recomienda suspender el tamizaje a los 75 años en pacientes de riesgo promedio, considerando la relación riesgo-beneficio y la expectativa de vida.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "tamizaje",
-        "suspension_edad",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el gen más frecuentemente mutado en el síndrome de Lynch?",
-      "options": [
-        "TP53",
-        "APC",
-        "MLH1",
-        "KRAS"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El síndrome de Lynch se debe a mutaciones en genes de reparación de apareamientos incorrectos del ADN, siendo MLH1 el gen más comúnmente afectado, seguido de MSH2.",
-      "hashtags": [
-        "oncologia",
-        "sindrome_de_lynch",
-        "etiologia",
-        "gen_mlh1",
-        "TEMA_MEDICO",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "¿Qué tipo de herencia presenta la poliposis adenomatosa familiar?",
-      "options": [
-        "Mitocondrial",
-        "Ligada al cromosoma X",
-        "Autosómica dominante",
-        "Autosómica recesiva"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La poliposis adenomatosa familiar sigue un patrón de herencia autosómico dominante, causado por mutaciones en el gen APC, con alta penetrancia y riesgo elevado de cáncer colorrectal.",
-      "hashtags": [
-        "oncologia",
-        "poliposis_adenomatosa_familiar",
         "etiologia",
         "herencia_autosomica_dominante",
         "TEMA_MEDICO",
@@ -267,53 +115,1136 @@
       ]
     },
     {
-      "question": "¿Cuál es el tratamiento quirúrgico de elección en la poliposis adenomatosa familiar?",
+      "question": "¿Cuál es el síntoma más frecuente en el cáncer colorrectal derecho?",
       "options": [
-        "Colectomía subtotal",
-        "Resección local endoscópica",
-        "Hemicolectomía derecha",
-        "Colectomía total con anastomosis ileorrectal"
+        "Dolor abdominal cólico",
+        "Cambio del calibre fecal",
+        "Anemia ferropénica",
+        "Sangre roja en heces"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El cáncer de colon derecho suele presentarse con anemia ferropénica por sangrado oculto crónico, a diferencia del izquierdo que causa cambios en el hábito intestinal o sangre roja.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "cuadro_clinico",
+        "sintomas_presentacion",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué síntoma es característico del cáncer colorrectal izquierdo?",
+      "options": [
+        "Dolor en hipogastrio",
+        "Pérdida de peso",
+        "Heces acintadas",
+        "Anemia microcítica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las heces acintadas o en cinta son típicas del cáncer de colon izquierdo por la reducción del calibre de la luz intestinal debido al tumor, causando obstrucción parcial.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "cuadro_clinico",
+        "sintomas_presentacion",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes hallazgos se asocia a cáncer de recto?",
+      "options": [
+        "Anemia severa",
+        "Masa abdominal palpable",
+        "Sangre en heces",
+        "Dolor en fosa ilíaca"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La rectorragia o sangre roja en heces es el síntoma más común del cáncer de recto, debido a la proximidad del tumor al canal anal y su tendencia a sangrar.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "cuadro_clinico",
+        "sintomas_presentacion",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué síntoma general suele acompañar al cáncer colorrectal avanzado?",
+      "options": [
+        "Disfagia progresiva",
+        "Polaquiuria",
+        "Ictericia obstructiva",
+        "Pérdida de peso"
       ],
       "correctAnswer": 4,
-      "explanation": "En la poliposis adenomatosa familiar, la colectomía total con anastomosis ileorrectal es el tratamiento quirúrgico estándar para prevenir el cáncer colorrectal, aunque se considera proctocolectomía según el número de pólipos rectales.",
+      "explanation": "La pérdida de peso no intencionada es un síntoma constitucional frecuente en cáncer colorrectal avanzado, secundario al efecto catabólico del tumor y la obstrucción intestinal.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "cuadro_clinico",
+        "sintomas_presentacion",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la manifestación clínica inicial más común del cáncer colorrectal?",
+      "options": [
+        "Dolor abdominal",
+        "Rectorragia oculta",
+        "Cambio del ritmo intestinal",
+        "Masa palpable"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El cambio del ritmo intestinal (estreñimiento o diarrea alternantes) es la manifestación inicial más común, especialmente en tumores de colon izquierdo que alteran la motilidad.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "cuadro_clinico",
+        "sintomas_presentacion",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué síntoma puede indicar obstrucción intestinal por cáncer colorrectal?",
+      "options": [
+        "Distensión abdominal",
+        "Dolor lumbar",
+        "Vómitos biliosos",
+        "Hematuria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La distensión abdominal con dolor cólico y ausencia de deposiciones es un signo clásico de obstrucción intestinal, complicación frecuente en cáncer colorrectal avanzado.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "cuadro_clinico",
+        "sintomas_presentacion",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la localización anatómica más frecuente del cáncer colorrectal?",
+      "options": [
+        "Colon descendente",
+        "Recto",
+        "Colon ascendente",
+        "Colon transverso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El recto es la localización más frecuente del cáncer colorrectal, representando aproximadamente el 30% de los casos, seguido del colon sigmoides.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "cuadro_clinico",
+        "localizacion_rectal",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué segmento del colon ocupa el segundo lugar en frecuencia de cáncer colorrectal?",
+      "options": [
+        "Colon ascendente",
+        "Colon sigmoides",
+        "Colon descendente",
+        "Colon transverso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El colon sigmoides es la segunda localización más frecuente tras el recto, debido a la mayor exposición a carcinógenos fecales y estasis prolongada.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "epidemiologia",
+        "colon_sigmoides",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la localización más frecuente del cáncer colorrectal en pacientes menores de 50 años?",
+      "options": [
+        "Colon derecho",
+        "Colon izquierdo",
+        "Colon sigmoides",
+        "Recto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En pacientes jóvenes menores de 50 años, el cáncer colorrectal tiende a localizarse más en el colon derecho (ascendente y ciego), con presentación más agresiva.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "epidemiologia",
+        "colon_derecho",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué porción del intestino grueso es la más afectada por cáncer colorrectal hereditario?",
+      "options": [
+        "Colon derecho",
+        "Colon transverso",
+        "Colon izquierdo",
+        "Recto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En síndromes hereditarios como el cáncer colorrectal hereditario no polipósico (Lynch), el colon derecho es el más afectado, con frecuencia en el ciego y ascendente.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "etiologia",
+        "colon_derecho_hereditario",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el segmento más frecuente de cáncer colorrectal en población general mayor de 70 años?",
+      "options": [
+        "Colon descendente",
+        "Recto",
+        "Colon sigmoides",
+        "Colon ascendente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En mayores de 70 años, el recto sigue siendo la localización más frecuente, aunque la incidencia en colon derecho aumenta con la edad avanzada.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "epidemiologia",
+        "recto_edad_avanzada",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué localización del cáncer colorrectal se asocia con mayor frecuencia a mutación BRAF?",
+      "options": [
+        "Colon derecho",
+        "Colon sigmoides",
+        "Recto",
+        "Colon izquierdo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La mutación BRAF V600E es más frecuente en cánceres de colon derecho, especialmente en tumores esporádicos con inestabilidad de microsatélites y fenotipo serrado.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "fisiopatologia",
+        "mutacion_braf",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el fundamento del cribado de cáncer colorrectal con sangre oculta en heces?",
+      "options": [
+        "Identificar sangre no visible",
+        "Evaluar poliposis colónica",
+        "Detectar anemia ferropénica",
+        "Medir antígeno carcinoembrionario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cribado con sangre oculta en heces busca detectar sangre no visible macroscópicamente, indicativa de lesiones neoplásicas o adenomatosas sangrantes en el colon.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "concepto",
+        "fundamento_cribado",
+        "TEMA_MEDICO",
+        "Guía USPSTF 2021"
+      ]
+    },
+    {
+      "question": "¿Qué tipo de prueba de sangre oculta en heces se recomienda actualmente por su mayor sensibilidad?",
+      "options": [
+        "Coprocultivo seriado",
+        "Prueba de guayaco",
+        "Inmunohistoquímica fecal",
+        "Cultivo de heces"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La prueba inmunohistoquímica fecal (FIT) es más sensible y específica que la prueba de guayaco, detecta hemoglobina humana y no requiere restricciones dietéticas.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "prueba_inmunohistoquimica",
+        "TEMA_MEDICO",
+        "Guía USPSTF 2021"
+      ]
+    },
+    {
+      "question": "¿Con qué frecuencia se recomienda el cribado con sangre oculta en heces en población de riesgo promedio?",
+      "options": [
+        "Cada 5 años",
+        "Cada 1 año",
+        "Cada 3 años",
+        "Cada 6 meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La prueba inmunohistoquímica fecal (FIT) anual es la frecuencia recomendada para población de riesgo promedio a partir de los 50 años, según guías actuales.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "frecuencia_cribado",
+        "TEMA_MEDICO",
+        "Guía USPSTF 2021---Guía AEG 2020"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo en la prueba de sangre oculta en heces debe llevar a realizar una colonoscopia?",
+      "options": [
+        "Muestra insuficiente",
+        "Resultado positivo",
+        "Resultado negativo",
+        "Heces líquidas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un resultado positivo en la prueba de sangre oculta en heces requiere colonoscopia para identificar y biopsiar lesiones como pólipos adenomatosos o cáncer.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "cuadro_clinico",
+        "resultado_positivo",
+        "TEMA_MEDICO",
+        "Guía USPSTF 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es una limitación importante de la prueba de sangre oculta en heces con guayaco?",
+      "options": [
+        "Alta especificidad",
+        "Detección de ADN",
+        "Interferencia dietética",
+        "Requiere endoscopia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La prueba de guayaco puede dar falsos positivos por alimentos con peroxidasa (carnes rojas, frutas) y falsos negativos por vitamina C, limitando su precisión.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "limitacion_guayaco",
+        "TEMA_MEDICO",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿En qué rango de edad se inicia el cribado con sangre oculta en heces para población de riesgo promedio?",
+      "options": [
+        "45 a 49 años",
+        "40 a 44 años",
+        "55 a 59 años",
+        "50 a 54 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las guías actuales recomiendan iniciar el cribado a los 45 años para población de riesgo promedio, aunque algunas mantienen los 50 años como edad tradicional.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "epidemiologia",
+        "edad_inicio_cribado",
+        "TEMA_MEDICO",
+        "Guía USPSTF 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es la prueba de elección para la detección del cáncer colorrectal?",
+      "options": [
+        "Resonancia magnética",
+        "Colonoscopia",
+        "Ecografía abdominal",
+        "Tomografía computarizada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La colonoscopia es el gold estándar para la detección del cáncer colorrectal porque permite visualizar directamente la mucosa del colon y realizar biopsias o polipectomías durante el mismo procedimiento.",
+      "hashtags": [
+        "gastroenterologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "colonoscopia",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo colonoscópico se asocia con mayor riesgo de malignidad?",
+      "options": [
+        "Hemangioma de colon",
+        "Divertículo no complicado",
+        "Pólipo adenomatoso sésil",
+        "Pólipo hiperplásico pequeño"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El pólipo adenomatoso sésil, especialmente si es de gran tamaño o con displasia de alto grado, presenta mayor riesgo de transformación maligna, siendo la colonoscopia fundamental para su detección y resección.",
+      "hashtags": [
+        "gastroenterologia",
+        "cancer_colorrectal",
+        "cuadro_clinico",
+        "polipos_adenomatosos",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal limitación de la colonoscopia para el cribado poblacional?",
+      "options": [
+        "Invasividad y preparación",
+        "Rápida recuperación",
+        "Alta sensibilidad diagnóstica",
+        "Bajo costo económico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La colonoscopia requiere una preparación intestinal rigurosa y es un procedimiento invasivo que conlleva riesgos como perforación o sangrado, lo que limita su aceptación y aplicación masiva en cribado poblacional.",
+      "hashtags": [
+        "gastroenterologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "limitaciones_cribado",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué intervalo se recomienda para repetir una colonoscopia con resultado normal?",
+      "options": [
+        "10 años",
+        "1 año",
+        "3 años",
+        "5 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para una colonoscopia de cribado con resultado normal y sin factores de riesgo adicionales, las guías recomiendan repetir el estudio en 10 años, ya que la progresión de pólipos a cáncer suele ser lenta.",
+      "hashtags": [
+        "gastroenterologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "intervalo_cribado",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué técnica mejora la detección de lesiones planas durante la colonoscopia?",
+      "options": [
+        "Uso de pinza de biopsia",
+        "Inspección sin retroflexión",
+        "Cromoscopia con índigo carmín",
+        "Lavado con agua destilada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La cromoscopia con índigo carmín resalta la superficie mucosa, facilitando la identificación de lesiones planas o sésiles que podrían pasar inadvertidas con la luz blanca convencional durante la colonoscopia.",
+      "hashtags": [
+        "gastroenterologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "cromoscopia",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la complicación más temida de la colonoscopia terapéutica?",
+      "options": [
+        "Perforación intestinal",
+        "Distensión abdominal",
+        "Náuseas postprocedimiento",
+        "Hemorroides sangrantes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La perforación intestinal es la complicación más grave de la colonoscopia terapéutica, especialmente durante la polipectomía, requiriendo intervención quirúrgica urgente y aumentando la morbimortalidad si no se detecta a tiempo.",
+      "hashtags": [
+        "gastroenterologia",
+        "cancer_colorrectal",
+        "complicaciones",
+        "perforacion_colonica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué estructura anatómica define el estadio T3 en el cáncer colorrectal según TNM?",
+      "options": [
+        "Invasión de la muscular propia",
+        "Invasión de la submucosa",
+        "Invasión de la serosa",
+        "Invasión de la muscular propia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la clasificación TNM, T3 corresponde a la invasión tumoral a través de la muscular propia hasta los tejidos pericolorrectales, sin alcanzar la serosa ni órganos vecinos.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "estadificacion_tnm",
+        "TEMA_MEDICO",
+        "AJCC 8th ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el equivalente del estadio Dukes C en la clasificación TNM?",
+      "options": [
+        "Cualquier T N1-2 M0",
+        "Cualquier T cualquier N M1",
+        "T1-2 N0 M0",
+        "T3-4 N0 M0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El estadio Dukes C se define por la presencia de metástasis en ganglios linfáticos regionales, lo que en TNM equivale a cualquier T con N1 o N2 y M0.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "dukes_vs_tnm",
+        "TEMA_MEDICO",
+        "AJCC 8th ed"
+      ]
+    },
+    {
+      "question": "En la clasificación de Dukes, el estadio B implica:",
+      "options": [
+        "Tumor limitado a la mucosa",
+        "Metástasis a distancia",
+        "Invasión transmural sin ganglios",
+        "Invasión ganglionar regional"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El estadio Dukes B se caracteriza por un tumor que atraviesa la pared intestinal (invasión transmural) pero sin afectación de ganglios linfáticos ni metástasis a distancia.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "clasificacion_dukes",
+        "TEMA_MEDICO",
+        "AJCC 8th ed"
+      ]
+    },
+    {
+      "question": "¿Qué estadio TNM corresponde a un tumor que invade la serosa visceral?",
+      "options": [
+        "T2",
+        "T1",
+        "T4a",
+        "T3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "T4a en la clasificación TNM del cáncer colorrectal indica invasión tumoral de la serosa visceral (peritoneo visceral), lo que representa un estadio avanzado localmente.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "estadio_t4a",
+        "TEMA_MEDICO",
+        "AJCC 8th ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal diferencia pronóstica entre Dukes A y Dukes B?",
+      "options": [
+        "Tamaño tumoral en centímetros",
+        "Profundidad de invasión parietal",
+        "Afectación de ganglios linfáticos",
+        "Presencia de metástasis hepáticas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dukes A se limita a la pared sin atravesarla completamente, mientras que Dukes B implica invasión transmural. La profundidad de invasión es el factor que los diferencia, no los ganglios ni metástasis.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "pronostico_dukes",
+        "TEMA_MEDICO",
+        "AJCC 8th ed"
+      ]
+    },
+    {
+      "question": "¿Qué significa la N en la clasificación TNM del cáncer colorrectal?",
+      "options": [
+        "Tamaño del tumor primario",
+        "Grado histológico tumoral",
+        "Metástasis a distancia",
+        "Afectación ganglionar regional"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En el sistema TNM, la N (node) evalúa la presencia y extensión de metástasis en los ganglios linfáticos regionales, siendo N0 sin afectación y N1/N2 con afectación creciente.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "definicion_n_tnm",
+        "TEMA_MEDICO",
+        "AJCC 8th ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal utilidad clínica del antígeno carcinoembrionario (CEA) en cáncer colorrectal?",
+      "options": [
+        "Determinación del estadio TNM inicial",
+        "Cribado poblacional de rutina",
+        "Diagnóstico inicial de la enfermedad",
+        "Seguimiento postoperatorio y recurrencia"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El CEA se utiliza principalmente para monitorizar la recurrencia tumoral después de la cirugía curativa en cáncer colorrectal, ya que no es sensible ni específico para diagnóstico o cribado.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "cuadro_clinico",
+        "marcadores_tumorales",
+        "TEMA_MEDICO",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "¿Qué condición benigna puede elevar falsamente los niveles séricos de CEA?",
+      "options": [
+        "Diabetes mellitus tipo 2",
+        "Enfermedad pulmonar obstructiva crónica",
+        "Hipertensión arterial sistémica",
+        "Tabaquismo activo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El tabaquismo activo es una causa conocida de elevación falsa del CEA, lo que limita su especificidad diagnóstica y debe considerarse al interpretar resultados.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "falsos_positivos",
+        "TEMA_MEDICO",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿En qué tipo de cáncer el CA 19-9 tiene mayor sensibilidad diagnóstica?",
+      "options": [
+        "Cáncer de páncreas",
+        "Cáncer de mama",
+        "Cáncer colorrectal",
+        "Cáncer de próstata"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El CA 19-9 es el marcador tumoral de elección para el cáncer de páncreas, aunque también puede elevarse en cáncer colorrectal y en otras neoplasias gastrointestinales.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "cuadro_clinico",
+        "ca_19-9",
+        "TEMA_MEDICO",
+        "Guía SEOM 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal limitación del CA 19-9 como marcador tumoral?",
+      "options": [
+        "Elevación en pacientes con ictericia obstructiva",
+        "Baja especificidad en tumores hepáticos",
+        "Respuesta inflamatoria inespecífica",
+        "Poca utilidad en cáncer colorrectal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El CA 19-9 se eleva en la colestasis benigna, especialmente en ictericia obstructiva, lo que reduce su especificidad para diferenciar enfermedad benigna de maligna.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "limitaciones_ca_19-9",
+        "TEMA_MEDICO",
+        "Harrison 21ed---NCCN 2024"
+      ]
+    },
+    {
+      "question": "¿Qué marcador tumoral se recomienda medir junto con CEA en el seguimiento del cáncer colorrectal metastásico?",
+      "options": [
+        "CA 125",
+        "CA 19-9",
+        "PSA",
+        "AFP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El CA 19-9 se utiliza junto con el CEA en el seguimiento del cáncer colorrectal metastásico, ya que ambos pueden proporcionar información complementaria sobre la progresión tumoral.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "seguimiento_metastasis",
+        "TEMA_MEDICO",
+        "Guía ESMO 2022"
+      ]
+    },
+    {
+      "question": "¿Qué factor limita la utilidad del CEA como prueba de cribado en población general?",
+      "options": [
+        "Requiere muestra de heces",
+        "Resultados solo en estadios avanzados",
+        "Alto costo y baja disponibilidad",
+        "Baja sensibilidad y especificidad"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El CEA tiene baja sensibilidad y especificidad para cáncer colorrectal temprano, con frecuentes falsos positivos por condiciones benignas, por lo que no se recomienda para cribado poblacional.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "cribado_poblacional",
+        "TEMA_MEDICO",
+        "USPSTF 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento quirúrgico estándar para el cáncer colorrectal estadio I?",
+      "options": [
+        "Resección hepática metastásica",
+        "Resección local endoscópica",
+        "Quimioterapia neoadyuvante",
+        "Colectomía radical con linfadenectomía"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el cáncer colorrectal estadio I, la resección local endoscópica o polipectomía es suficiente cuando el tumor es T1N0M0 y se logra resección completa con márgenes negativos.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "estadio_i",
+        "TEMA_MEDICO",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "¿Qué procedimiento quirúrgico se realiza en un cáncer de colon derecho estadio III?",
+      "options": [
+        "Colectomía subtotal",
+        "Hemicolectomía derecha",
+        "Proctocolectomía total",
+        "Resección transanal local"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La hemicolectomía derecha con linfadenectomía regional es el tratamiento quirúrgico estándar para el cáncer de colon derecho en estadio III, ya que permite la resección oncológica adecuada del tumor y los ganglios linfáticos afectados.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "estadio_iii",
+        "TEMA_MEDICO",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "En un cáncer de recto estadio II, ¿cuándo se indica resección anterior baja?",
+      "options": [
+        "Tumor con invasión hepática",
+        "Tumor en tercio inferior del recto",
+        "Tumor en tercio superior del recto",
+        "Tumor en tercio medio del recto"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La resección anterior baja se realiza para tumores del tercio medio del recto, permitiendo preservar el esfínter anal cuando es posible, combinada con escisión total del mesorrecto.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "reseccion_anterior_baja",
+        "TEMA_MEDICO",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál es la cirugía indicada en cáncer colorrectal estadio IV con metástasis hepáticas resecables?",
+      "options": [
+        "Resección local del tumor primario",
+        "Proctocolectomía con ileostomía",
+        "Solo quimioterapia paliativa",
+        "Colectomía y resección hepática sincrónica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En pacientes seleccionados con cáncer colorrectal estadio IV y metástasis hepáticas resecables, la colectomía y resección hepática sincrónica o en dos tiempos ofrece la mejor opción curativa.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "estadio_iv",
+        "TEMA_MEDICO",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "¿Qué abordaje quirúrgico es preferible en cáncer de recto estadio III tras neoadyuvancia?",
+      "options": [
+        "Escisión total del mesorrecto",
+        "Hemicolectomía izquierda",
+        "Resección local transanal",
+        "Colectomía subtotal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La escisión total del mesorrecto es el estándar quirúrgico para el cáncer de recto estadio III después de quimiorradioterapia neoadyuvante, reduciendo la recurrencia local.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "mesorrecto",
+        "TEMA_MEDICO",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "¿Qué criterio contraindica la cirugía curativa en cáncer colorrectal estadio IV?",
+      "options": [
+        "Metástasis hepáticas bilobares irresecables",
+        "Adenopatías regionales positivas",
+        "Invasión de serosa peritoneal",
+        "Metástasis pulmonares únicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las metástasis hepáticas bilobares irresecables contraindican la cirugía curativa, ya que no es posible resecar toda la enfermedad metastásica con intención oncológica.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "contraindicaciones",
+        "TEMA_MEDICO",
+        "NCCN 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál es el régimen de quimioterapia adyuvante estándar para cáncer colorrectal estadio III?",
+      "options": [
+        "Capecitabina en monoterapia",
+        "FOLFOX (5-FU, leucovorina, oxaliplatino)",
+        "FOLFIRI (5-FU, leucovorina, irinotecán)",
+        "Bevacizumab más FOLFOX"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El régimen FOLFOX (5-fluorouracilo, leucovorina y oxaliplatino) es el estándar de quimioterapia adyuvante en cáncer colorrectal estadio III, basado en ensayos que demostraron beneficio en supervivencia libre de enfermedad.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "quimioterapia_adyuvante",
+        "TEMA_MEDICO",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "¿Qué biomarcador se evalúa para decidir la duración de la quimioterapia adyuvante en estadio III?",
+      "options": [
+        "Expresión de HER2",
+        "Niveles de CEA",
+        "Inestabilidad de microsatélites",
+        "Mutación de KRAS"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La inestabilidad de microsatélites (MSI) es un biomarcador clave; los tumores con MSI alta tienen mejor pronóstico y pueden requerir menos quimioterapia adyuvante, evitando toxicidad innecesaria.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "biomarcadores",
+        "TEMA_MEDICO",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "¿Cuál es la duración recomendada de quimioterapia adyuvante con FOLFOX en estadio III?",
+      "options": [
+        "9 meses",
+        "6 meses",
+        "3 meses",
+        "12 meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La duración estándar de quimioterapia adyuvante con FOLFOX en cáncer colorrectal estadio III es de 6 meses, aunque en pacientes de bajo riesgo puede considerarse 3 meses según el régimen y la tolerancia.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "duracion_terapia",
+        "TEMA_MEDICO",
+        "ESMO 2023"
+      ]
+    },
+    {
+      "question": "¿Qué efecto adverso característico limita el uso de oxaliplatino en la adyuvancia?",
+      "options": [
+        "Hepatotoxicidad",
+        "Cardiotoxicidad",
+        "Neuropatía periférica",
+        "Nefrotoxicidad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La neuropatía periférica es el efecto adverso dosis-limitante del oxaliplatino, manifestándose como parestesias y disestesias que pueden cronificarse y afectar la calidad de vida del paciente.",
+      "hashtags": [
+        "farmacologia",
+        "oxaliplatino",
+        "efectos_adversos",
+        "neuropatia_periferica",
+        "TEMA_MEDICO",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿En qué subgrupo de estadio III se considera beneficioso reducir la quimioterapia adyuvante a 3 meses?",
+      "options": [
+        "Todos los pacientes mayores",
+        "Alto riesgo (T4 y/o N2)",
+        "Pacientes con MSI baja",
+        "Bajo riesgo (T1-3 N1)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En pacientes con estadio III de bajo riesgo (T1-3 N1), la reducción a 3 meses de quimioterapia adyuvante con FOLFOX o CAPOX se considera aceptable, con menor toxicidad y eficacia similar en estudios.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "estratificacion_riesgo",
+        "TEMA_MEDICO",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "¿Qué fármaco se utiliza como alternativa oral a la infusión de 5-fluorouracilo en adyuvancia?",
+      "options": [
+        "Pemetrexed",
+        "Capecitabina",
+        "Gemcitabina",
+        "Metotrexato"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La capecitabina es un profármaco oral de 5-fluorouracilo, aprobado en combinación con oxaliplatino (CAPOX) como alternativa al FOLFOX en quimioterapia adyuvante del cáncer colorrectal estadio III.",
+      "hashtags": [
+        "farmacologia",
+        "capecitabina",
+        "farmacocinetica",
+        "profarmaco_oral",
+        "TEMA_MEDICO",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "¿Cuál es el criterio más importante para considerar resecable una metástasis hepática de cáncer colorrectal?",
+      "options": [
+        "Edad menor de 70 años",
+        "Tamaño menor a 3 cm",
+        "Número menor a 5 nódulos",
+        "Resección completa con margen"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El criterio fundamental para la resecabilidad es lograr una resección completa (R0) con margen negativo, preservando suficiente parénquima hepático funcional.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "criterios_resecabilidad",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué técnica de imagen se considera gold estándar para evaluar metástasis hepáticas colorrectales?",
+      "options": [
+        "Tomografía por emisión de positrones",
+        "Tomografía computarizada trifásica",
+        "Ecografía abdominal simple",
+        "Resonancia magnética con contraste"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La resonancia magnética con contraste hepatobiliar es la técnica más sensible y específica para la caracterización de metástasis hepáticas, superando a la TC y PET.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "resonancia_magnetica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "En metástasis hepáticas sincrónicas de cáncer colorrectal, ¿cuál es la estrategia quirúrgica más aceptada?",
+      "options": [
+        "Resección hepática primero",
+        "Resección sincrónica combinada",
+        "Resección colorrectal primero",
+        "Quimioterapia paliativa exclusiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La resección sincrónica combinada del tumor primario y las metástasis hepáticas es factible y segura en pacientes seleccionados, evitando cirugías secuenciales.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "cirugia_sincronica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de la quimioterapia neoadyuvante en metástasis hepáticas resecables?",
+      "options": [
+        "Evaluar quimiosensibilidad tumoral",
+        "Evitar la cirugía definitiva",
+        "Eliminar micrometástasis ocultas",
+        "Reducir el tamaño de las lesiones"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La quimioterapia neoadyuvante busca reducir el tamaño de las metástasis para facilitar una resección R0 con preservación de parénquima hepático suficiente.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "tratamiento",
+        "quimioterapia_neoadyuvante",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué factor se asocia con peor pronóstico tras resección de metástasis hepáticas colorrectales?",
+      "options": [
+        "Metástasis única menor a 2 cm",
+        "Intervalo libre de enfermedad largo",
+        "Afectación ganglionar del primario",
+        "Respuesta completa a quimioterapia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La presencia de ganglios linfáticos positivos en el tumor primario colorrectal es un factor pronóstico adverso independiente para la supervivencia tras hepatectomía.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "pronostico",
+        "factores_pronosticos",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la tasa de supervivencia a 5 años esperada tras resección exitosa de metástasis hepáticas?",
+      "options": [
+        "10-20%",
+        "40-50%",
+        "25-30%",
+        "70-80%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Con resección R0 y selección adecuada de pacientes, la supervivencia global a 5 años alcanza aproximadamente 40-50%, muy superior al manejo paliativo.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "pronostico",
+        "supervivencia",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes genes está más frecuentemente mutado en el síndrome de Lynch?",
+      "options": [
+        "KRAS y BRAF",
+        "APC y TP53",
+        "SMAD4 y BMPR1A",
+        "MLH1 y MSH2"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El síndrome de Lynch se debe a mutaciones germinales en genes de reparación de apareamientos incorrectos del ADN, siendo MLH1 y MSH2 los más frecuentemente afectados.",
+      "hashtags": [
+        "oncologia",
+        "sindrome_de_lynch",
+        "concepto",
+        "genes_reparacion_adn",
+        "TEMA_MEDICO",
+        "Harrison 21ed---NCCN 2024"
+      ]
+    },
+    {
+      "question": "¿Qué tipo de herencia presenta la poliposis adenomatosa familiar clásica?",
+      "options": [
+        "Herencia mitocondrial",
+        "Autosómica dominante",
+        "Ligada al cromosoma X",
+        "Autosómica recesiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La poliposis adenomatosa familiar (PAF) clásica se hereda de forma autosómica dominante, causada por mutaciones en el gen APC, con alta penetrancia.",
       "hashtags": [
         "oncologia",
         "poliposis_adenomatosa_familiar",
-        "tratamiento",
-        "colectomia_total",
+        "etiologia",
+        "herencia_genetica",
+        "TEMA_MEDICO",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el riesgo de cáncer colorrectal en pacientes con síndrome de Lynch no intervenidos?",
+      "options": [
+        "90-100% antes de los 30 años",
+        "10-20% a los 40 años",
+        "5-10% a los 50 años",
+        "40-80% a lo largo de la vida"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El síndrome de Lynch confiere un riesgo acumulado de cáncer colorrectal del 40-80% durante la vida, con aparición temprana, a menudo antes de los 50 años.",
+      "hashtags": [
+        "oncologia",
+        "sindrome_de_lynch",
+        "epidemiologia",
+        "riesgo_acumulado_vida",
         "TEMA_MEDICO",
         "Guía ESMO 2023"
       ]
     },
     {
-      "question": "¿Cuál es el criterio clínico principal para sospechar síndrome de Lynch?",
+      "question": "¿Cuál es el manejo de elección en la poliposis adenomatosa familiar con múltiples adenomas?",
       "options": [
-        "Antecedente de pólipos adenomatosos >100",
-        "Edad mayor de 70 años al diagnóstico",
-        "Criterios de Ámsterdam II",
-        "Presencia de cáncer de pulmón"
+        "Resección endoscópica de pólipos",
+        "Colectomía profiláctica",
+        "Vigilancia con colonoscopia anual",
+        "Quimioterapia neoadyuvante"
       ],
-      "correctAnswer": 3,
-      "explanation": "Los criterios de Ámsterdam II son el estándar clínico para sospechar síndrome de Lynch, incluyendo al menos tres familiares con cáncer colorrectal o tumores asociados, uno menor de 50 años.",
+      "correctAnswer": 2,
+      "explanation": "En la poliposis adenomatosa familiar con múltiples adenomas (>100) se recomienda colectomía profiláctica para prevenir el desarrollo inevitable de cáncer colorrectal.",
+      "hashtags": [
+        "oncologia",
+        "poliposis_adenomatosa_familiar",
+        "tratamiento",
+        "colectomia_profilactica",
+        "TEMA_MEDICO",
+        "NCCN 2024"
+      ]
+    },
+    {
+      "question": "¿Qué criterio clínico se usa para diagnosticar síndrome de Lynch?",
+      "options": [
+        "Criterios de Duke",
+        "Criterios de Bethesda",
+        "Criterios de Roma IV",
+        "Criterios de Ámsterdam"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los criterios de Ámsterdam (I y II) son los criterios clínicos clásicos para el diagnóstico del síndrome de Lynch, basados en historia familiar de cáncer colorrectal y otros tumores.",
       "hashtags": [
         "oncologia",
         "sindrome_de_lynch",
         "diagnostico",
-        "criterios_amsterdam_ii",
+        "criterios_amsterdam",
         "TEMA_MEDICO",
-        "ASCO 2022"
+        "Harrison 21ed"
       ]
     },
     {
-      "question": "¿Qué gen se asocia clásicamente a la poliposis adenomatosa familiar?",
+      "question": "¿Qué gen está mutado en la poliposis adenomatosa familiar atenuada?",
       "options": [
-        "PMS2",
+        "MSH6",
         "MLH1",
-        "MSH2",
+        "PMS2",
         "APC"
       ],
       "correctAnswer": 4,
-      "explanation": "La poliposis adenomatosa familiar es causada por mutaciones germinales en el gen APC, localizado en el cromosoma 5q21, que regula la proliferación celular y la apoptosis en el epitelio colónico.",
+      "explanation": "La poliposis adenomatosa familiar atenuada también se debe a mutaciones en el gen APC, pero con una expresión fenotípica más leve y menor número de pólipos.",
       "hashtags": [
         "oncologia",
         "poliposis_adenomatosa_familiar",
@@ -324,934 +1255,117 @@
       ]
     },
     {
-      "question": "¿Cuál es la neoplasia extracolónica más frecuente en el síndrome de Lynch?",
+      "question": "¿Cuál es el estándar de imagen para seguimiento de cáncer colorrectal metastásico?",
       "options": [
-        "Cáncer de pulmón",
-        "Cáncer de endometrio",
-        "Cáncer de vejiga",
-        "Cáncer de próstata"
+        "Tomografía computarizada de tórax, abdomen y pelvis",
+        "Resonancia magnética abdominal",
+        "PET-TC con fluorodesoxiglucosa",
+        "Ultrasonido endoscópico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La tomografía computarizada de tórax, abdomen y pelvis con contraste es el estudio de elección para detectar recurrencia metastásica en el seguimiento del cáncer colorrectal, según guías internacionales.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "diagnostico",
+        "imagen_seguimiento",
+        "TEMA_MEDICO",
+        "NCCN 2024---ESMO 2023"
+      ]
+    },
+    {
+      "question": "¿Cuándo se recomienda la primera colonoscopia de vigilancia tras resección curativa de cáncer colorrectal?",
+      "options": [
+        "A los 6 meses",
+        "Al año",
+        "A los 3 años",
+        "A los 3 meses"
       ],
       "correctAnswer": 2,
-      "explanation": "El cáncer de endometrio es la neoplasia extracolónica más común en el síndrome de Lynch, con un riesgo acumulado del 40-60%, por lo que se recomienda vigilancia ginecológica en mujeres portadoras.",
-      "hashtags": [
-        "oncologia",
-        "sindrome_de_lynch",
-        "cuadro_clinico",
-        "cancer_endometrio",
-        "TEMA_MEDICO",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "¿Cuál es la localización anatómica más frecuente del cáncer colorrectal?",
-      "options": [
-        "Recto y sigma",
-        "Colon transverso",
-        "Colon descendente",
-        "Ciego y colon ascendente"
-      ],
-      "correctAnswer": 1,
-      "explanation": "El cáncer colorrectal se localiza con mayor frecuencia en recto y sigma, representando aproximadamente el 60% de los casos, debido a factores fisiológicos y de exposición a carcinógenos fecales.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "cuadro_clinico",
-        "localizacion_recto_sigma",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué síntoma es más característico del cáncer de recto y sigma?",
-      "options": [
-        "Ictericia obstructiva",
-        "Disfagia progresiva",
-        "Dolor en hipocondrio derecho",
-        "Rectorragia y tenesmo"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La rectorragia y el tenesmo son síntomas típicos del cáncer de recto y sigma por su localización distal, donde los tumores sangran fácilmente y generan sensación de evacuación incompleta.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "cuadro_clinico",
-        "sintomas_distales",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué prueba diagnóstica es la más sensible para detectar cáncer en recto y sigma?",
-      "options": [
-        "Tomografía abdominal",
-        "Colonoscopia total",
-        "Radiografía de abdomen",
-        "Resonancia magnética"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La colonoscopia total es la prueba más sensible para detectar cáncer colorrectal, ya que permite visualizar directamente la mucosa de recto y sigma y tomar biopsias de lesiones sospechosas.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "diagnostico",
-        "colonoscopia",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el tratamiento quirúrgico de elección para el cáncer de recto bajo?",
-      "options": [
-        "Amputación abdominoperineal",
-        "Hemicolectomía derecha",
-        "Colectomía subtotal",
-        "Resección anterior baja"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La amputación abdominoperineal es el tratamiento quirúrgico de elección para el cáncer de recto bajo, ya que permite la resección completa del tumor y del esfínter anal cuando no es posible la preservación.",
+      "explanation": "La primera colonoscopia de vigilancia se realiza al año de la resección curativa, para detectar lesiones metacrónicas o recurrencia luminal; intervalos posteriores dependen de hallazgos.",
       "hashtags": [
         "oncologia",
         "cancer_colorrectal",
         "tratamiento",
-        "cirugia_recto",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué factor de riesgo se asocia más fuertemente con cáncer de recto y sigma?",
-      "options": [
-        "Infección por Helicobacter pylori",
-        "Consumo de carnes rojas procesadas",
-        "Consumo excesivo de alcohol",
-        "Dieta rica en fibra"
-      ],
-      "correctAnswer": 2,
-      "explanation": "El consumo de carnes rojas procesadas es un factor de riesgo bien establecido para cáncer colorrectal, especialmente en recto y sigma, debido a la formación de compuestos N-nitrosos y aminas heterocíclicas.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "etiologia",
-        "factores_riesgo",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué marcador tumoral se utiliza con mayor frecuencia en el seguimiento del cáncer colorrectal?",
-      "options": [
-        "CA 19-9",
-        "CEA",
-        "CA 125",
-        "AFP"
-      ],
-      "correctAnswer": 2,
-      "explanation": "El antígeno carcinoembrionario (CEA) es el marcador tumoral más utilizado en el seguimiento del cáncer colorrectal, especialmente para detectar recurrencias en pacientes con tumores de recto y sigma.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "diagnostico",
-        "marcadores_tumorales",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el síntoma más frecuente del cáncer de recto?",
-      "options": [
-        "Distensión abdominal",
-        "Dolor abdominal difuso",
-        "Sangrado rectal rojo",
-        "Náuseas postprandiales"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El sangrado rectal de color rojo brillante es la manifestación clínica más común del cáncer de recto, debido a la localización distal del tumor y su tendencia a sangrar con el paso de las heces.",
-      "hashtags": [
-        "gastroenterologia",
-        "cancer_colorrectal",
-        "cuadro_clinico",
-        "sangrado_rectal",
-        "TEMA_MEDICO",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "¿Qué alteración del hábito intestinal sugiere cáncer de colon izquierdo?",
-      "options": [
-        "Estreñimiento de inicio reciente",
-        "Heces acuosas y frecuentes",
-        "Incontinencia fecal nocturna",
-        "Urgencia fecal sin heces"
-      ],
-      "correctAnswer": 1,
-      "explanation": "El estreñimiento de inicio reciente o progresivo es característico del cáncer de colon izquierdo, ya que el tumor estrecha la luz del colon distal, dificultando el avance del contenido fecal.",
-      "hashtags": [
-        "gastroenterologia",
-        "cancer_colorrectal",
-        "cuadro_clinico",
-        "cambio_habito_intestinal",
-        "TEMA_MEDICO",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "¿Cuál es la prueba de tamizaje inicial para cáncer colorrectal en población de riesgo promedio?",
-      "options": [
-        "Sangre oculta en heces",
-        "Tomografía abdominal",
-        "Sigmoidoscopia flexible",
-        "Colonoscopia total"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La sangre oculta en heces inmunoquímica es la prueba de tamizaje inicial recomendada en población de riesgo promedio, por su bajo costo, no invasividad y capacidad de detectar sangrados microscópicos antes de síntomas evidentes.",
-      "hashtags": [
-        "gastroenterologia",
-        "cancer_colorrectal",
-        "diagnostico",
-        "tamizaje",
-        "TEMA_MEDICO",
-        "Guía USPSTF 2021"
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo en la tacto rectal es más sugestivo de cáncer de recto?",
-      "options": [
-        "Sangre en el guante sin masa",
-        "Masa dura e irregular",
-        "Esfínter hipertónico doloroso",
-        "Próstata aumentada de tamaño"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La palpación de una masa dura, irregular y fija en la pared rectal es altamente sugestiva de cáncer de recto, ya que los tumores rectales suelen presentarse como lesiones infiltrantes y no dolorosas.",
-      "hashtags": [
-        "gastroenterologia",
-        "cancer_colorrectal",
-        "cuadro_clinico",
-        "tacto_rectal",
-        "TEMA_MEDICO",
-        "Harrison 21ed---Sabiston 20ed"
-      ]
-    },
-    {
-      "question": "¿Qué síntoma acompañante empeora el pronóstico en un paciente con sangrado rectal por cáncer?",
-      "options": [
-        "Flatulencia excesiva",
-        "Reflujo gastroesofágico",
-        "Pérdida de peso involuntaria",
-        "Dolor abdominal leve"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La pérdida de peso involuntaria es un síntoma constitucional que indica enfermedad avanzada o metástasis, asociándose a peor pronóstico en cáncer colorrectal, a diferencia de síntomas localizados como el sangrado rectal aislado.",
-      "hashtags": [
-        "gastroenterologia",
-        "cancer_colorrectal",
-        "cuadro_clinico",
-        "sintomas_constitucionales",
-        "TEMA_MEDICO",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "¿Cuál es la primera causa de anemia ferropénica en varones adultos mayores?",
-      "options": [
-        "Gastritis crónica atrófica",
-        "Úlcera péptica duodenal",
-        "Hemorroides internas",
-        "Cáncer de colon derecho"
-      ],
-      "correctAnswer": 4,
-      "explanation": "El cáncer de colon derecho es la primera causa de anemia ferropénica en varones adultos mayores porque los tumores derechos sangran de forma crónica y oculta, sin alterar el hábito intestinal ni producir sangrado visible.",
-      "hashtags": [
-        "gastroenterologia",
-        "cancer_colorrectal",
-        "cuadro_clinico",
-        "anemia_ferropenica",
-        "TEMA_MEDICO",
-        "Harrison 21ed---UpToDate 2023"
-      ]
-    },
-    {
-      "question": "¿Cuál es la presentación clínica más frecuente del cáncer de colon derecho?",
-      "options": [
-        "Dolor abdominal agudo",
-        "Sangre roja en heces",
-        "Anemia ferropénica",
-        "Obstrucción intestinal"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El cáncer de colon derecho suele manifestarse con anemia ferropénica crónica debido a sangrado oculto, dado que el contenido fecal es líquido y no produce obstrucción temprana.",
-      "hashtags": [
-        "oncologia",
-        "cancer_de_colon_derecho",
-        "cuadro_clinico",
-        "anemia_ferropenica",
-        "TEMA_MEDICO",
-        "Sabiston 20ed"
-      ]
-    },
-    {
-      "question": "¿Qué estudio de laboratorio suele estar alterado en la anemia ferropénica por cáncer de colon derecho?",
-      "options": [
-        "Disminución de ferritina",
-        "Aumento de vitamina B12",
-        "Aumento de hemoglobina",
-        "Disminución de ácido fólico"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La anemia ferropénica cursa con ferritina baja por depleción de depósitos de hierro, siendo un marcador clave en el sangrado crónico del cáncer de colon derecho.",
-      "hashtags": [
-        "oncologia",
-        "cancer_de_colon_derecho",
-        "diagnostico",
-        "ferritina_baja",
-        "TEMA_MEDICO",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "¿Qué mecanismo fisiopatológico explica la anemia en el cáncer de colon derecho?",
-      "options": [
-        "Hemólisis por autoanticuerpos",
-        "Déficit de eritropoyetina",
-        "Sangrado oculto crónico",
-        "Secuestro esplénico de hierro"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El sangrado oculto crónico desde la neoplasia consume las reservas de hierro, llevando a anemia ferropénica por pérdida continua de sangre sin síntomas digestivos evidentes.",
-      "hashtags": [
-        "oncologia",
-        "cancer_de_colon_derecho",
-        "fisiopatologia",
-        "sangrado_oculto",
-        "TEMA_MEDICO",
-        "Robbins 10ed"
-      ]
-    },
-    {
-      "question": "¿Cuál es la prueba de imagen inicial recomendada en sospecha de cáncer de colon derecho?",
-      "options": [
-        "Ecografía abdominal con Doppler",
-        "Colonoscopia total",
-        "Radiografía de abdomen simple",
-        "Tomografía de abdomen sin contraste"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La colonoscopia total permite visualizar directamente la mucosa del colon derecho y tomar biopsias, siendo el estándar diagnóstico inicial ante sospecha de neoplasia colorrectal.",
-      "hashtags": [
-        "oncologia",
-        "cancer_de_colon_derecho",
-        "diagnostico",
-        "colonoscopia",
-        "TEMA_MEDICO",
-        "Guía ASGE 2023"
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo en la colonoscopia sugiere cáncer de colon derecho?",
-      "options": [
-        "Divertículos en sigma",
-        "Eritema lineal difuso",
-        "Múltiples pólipos hiperplásicos",
-        "Masa ulcerada o vegetante"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Una masa ulcerada o vegetante en el colon derecho es característica de adenocarcinoma, a menudo asociado a sangrado oculto y anemia ferropénica.",
-      "hashtags": [
-        "oncologia",
-        "cancer_de_colon_derecho",
-        "cuadro_clinico",
-        "masa_ulcerada",
-        "TEMA_MEDICO",
-        "Sabiston 20ed"
-      ]
-    },
-    {
-      "question": "¿Cuál es el tratamiento quirúrgico estándar para cáncer de colon derecho localizado?",
-      "options": [
-        "Mucosectomía endoscópica",
-        "Colectomía subtotal",
-        "Resección transanal",
-        "Hemicolectomía derecha"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La hemicolectomía derecha con linfadenectomía regional es el tratamiento quirúrgico curativo para el cáncer de colon derecho localizado, resecando el tumor y los ganglios linfáticos.",
-      "hashtags": [
-        "oncologia",
-        "cancer_de_colon_derecho",
-        "tratamiento",
-        "hemicolectomia_derecha",
-        "TEMA_MEDICO",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "En la estadificación TNM del cáncer colorrectal, ¿qué significa T2?",
-      "options": [
-        "Invasión de la muscularis propria",
-        "Invasión de la submucosa",
-        "Invasión de la subserosa",
-        "Invasión de órganos vecinos"
-      ],
-      "correctAnswer": 1,
-      "explanation": "T2 en la clasificación TNM del cáncer colorrectal indica que el tumor invade la muscularis propria, sin atravesarla hacia la subserosa o el peritoneo visceral.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "cuadro_clinico",
-        "estadificacion_tnm",
-        "TEMA_MEDICO",
-        "AJCC 8th edition"
-      ]
-    },
-    {
-      "question": "¿Qué número de ganglios linfáticos metastásicos define N2a en cáncer colorrectal?",
-      "options": [
-        "2 ganglios afectados",
-        "7 ganglios afectados",
-        "1 ganglio afectado",
-        "4 ganglios afectados"
-      ],
-      "correctAnswer": 4,
-      "explanation": "N2a en la clasificación TNM para cáncer colorrectal corresponde a metástasis en 4 a 6 ganglios linfáticos regionales, según el sistema de estadificación del AJCC.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "cuadro_clinico",
-        "ganglios_linfaticos",
-        "TEMA_MEDICO",
-        "AJCC 8th edition"
-      ]
-    },
-    {
-      "question": "¿Cuál es el mínimo de ganglios linfáticos recomendado para una estadificación adecuada en cáncer colorrectal?",
-      "options": [
-        "8 ganglios",
-        "6 ganglios",
-        "12 ganglios",
-        "15 ganglios"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Las guías internacionales recomiendan examinar al menos 12 ganglios linfáticos en la pieza quirúrgica de cáncer colorrectal para una estadificación ganglionar precisa y pronóstica.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "diagnostico",
-        "estadificacion_ganglionar",
-        "TEMA_MEDICO",
-        "NCCN 2024---AJCC 8th edition"
-      ]
-    },
-    {
-      "question": "En el sistema TNM, ¿qué estadio corresponde a T3N1M0 en cáncer colorrectal?",
-      "options": [
-        "Estadio IIIC",
-        "Estadio IVA",
-        "Estadio IIIB",
-        "Estadio IIA"
-      ],
-      "correctAnswer": 3,
-      "explanation": "T3N1M0 clasifica como estadio IIIB en cáncer colorrectal, ya que implica tumor que atraviesa la muscularis propria sin invadir órganos (T3) con metástasis en 1-3 ganglios (N1) y sin metástasis a distancia (M0).",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "cuadro_clinico",
-        "estadios_clinicos",
-        "TEMA_MEDICO",
-        "AJCC 8th edition"
-      ]
-    },
-    {
-      "question": "¿Qué estructura anatómica define la diferencia entre T3 y T4a en cáncer colorrectal?",
-      "options": [
-        "Fascia mesorrectal",
-        "Mucosa",
-        "Muscularis propria",
-        "Peritoneo visceral"
-      ],
-      "correctAnswer": 4,
-      "explanation": "T4a se define por invasión del peritoneo visceral, mientras que T3 es tumor que atraviesa la muscularis propria sin alcanzar el peritoneo; la serosa es el límite clave.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "anatomia_clinica",
-        "peritoneo_visceral",
-        "TEMA_MEDICO",
-        "AJCC 8th edition"
-      ]
-    },
-    {
-      "question": "¿Qué implicación pronóstica tiene la presencia de depósitos tumorales sin ganglio residual en cáncer colorrectal?",
-      "options": [
-        "Indican estadio I siempre",
-        "Equivalen a metástasis hepáticas",
-        "Se clasifican como N1c",
-        "Se ignoran en la estadificación"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Los depósitos tumorales sin evidencia de ganglio linfático residual se clasifican como N1c en el sistema TNM, lo que implica un pronóstico similar a la afectación ganglionar metastásica.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "diagnostico",
-        "depositos_tumorales",
-        "TEMA_MEDICO",
-        "AJCC 8th edition"
-      ]
-    },
-    {
-      "question": "¿Cuál es la principal utilidad clínica del antígeno carcinoembrionario (CEA) en el cáncer colorrectal?",
-      "options": [
-        "Diagnóstico inicial",
-        "Seguimiento postoperatorio",
-        "Estadificación inicial",
-        "Cribado poblacional"
-      ],
-      "correctAnswer": 2,
-      "explanation": "El CEA se utiliza principalmente para monitorizar la recurrencia tras la resección quirúrgica del cáncer colorrectal; no es útil para diagnóstico ni cribado debido a su baja sensibilidad y especificidad.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "cuadro_clinico",
-        "marcador_tumoral",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué nivel sérico de CEA se considera generalmente elevado en un paciente con cáncer colorrectal?",
-      "options": [
-        "> 2,5 ng/mL",
-        "> 20 ng/mL",
-        "> 5 ng/mL",
-        "> 10 ng/mL"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El valor de referencia normal suele ser < 5 ng/mL en no fumadores; niveles > 5 ng/mL se consideran elevados y pueden sugerir presencia o recurrencia tumoral.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "diagnostico",
-        "niveles_cea",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué condición no tumoral puede elevar falsamente el CEA en un paciente en seguimiento?",
-      "options": [
-        "Diabetes mellitus",
-        "Hipertensión arterial",
-        "Hipotiroidismo",
-        "Tabaquismo activo"
-      ],
-      "correctAnswer": 4,
-      "explanation": "El tabaquismo activo es una causa conocida de elevación del CEA en ausencia de neoplasia, lo que puede generar falsos positivos durante el seguimiento oncológico.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "diagnostico",
-        "falsos_positivos",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Con qué frecuencia se recomienda medir el CEA durante el seguimiento de cáncer colorrectal en estadio II o III?",
-      "options": [
-        "Cada 1-2 meses",
-        "Solo si hay síntomas",
-        "Cada 3-6 meses",
-        "Cada 12 meses"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Las guías recomiendan medir el CEA cada 3 a 6 meses durante los primeros dos a tres años tras la cirugía, para detectar recurrencia de forma temprana.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "tratamiento",
-        "seguimiento",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo en la curva de CEA sugiere fuertemente recurrencia del cáncer colorrectal?",
-      "options": [
-        "Elevación persistente",
-        "Disminución progresiva",
-        "Nivel estable bajo",
-        "Normalización inicial"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Una elevación persistente o progresiva del CEA en el seguimiento, especialmente tras haber descendido a niveles normales, es altamente sugestiva de recurrencia tumoral.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "cuadro_clinico",
-        "curva_cea",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué factor pronóstico adverso se asocia a niveles preoperatorios muy elevados de CEA?",
-      "options": [
-        "Mejor respuesta a quimioterapia",
-        "Menor riesgo de metástasis",
-        "Tumor bien diferenciado",
-        "Mayor riesgo de recurrencia"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Niveles preoperatorios muy elevados de CEA (> 10 ng/mL) se asocian a peor pronóstico y mayor riesgo de recurrencia, independientemente del estadio patológico.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "fisiopatologia",
-        "pronostico",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la extensión mínima recomendada de la linfadenectomía en colectomía por cáncer colorrectal curativo?",
-      "options": [
-        "15 ganglios",
-        "5 ganglios",
-        "12 ganglios",
-        "7 ganglios"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La linfadenectomía oncológica estándar para cáncer colorrectal requiere la resección de al menos 12 ganglios linfáticos para una adecuada estadificación y pronóstico.",
-      "hashtags": [
-        "oncologia_quirurgica",
-        "cancer_colorrectal",
-        "tratamiento",
-        "linfadenectomia_minima",
-        "TEMA_MEDICO",
-        "NCCN 2024---AJCC 8ª edición"
-      ]
-    },
-    {
-      "question": "¿Qué estructura vascular se liga primero en una colectomía izquierda oncológica?",
-      "options": [
-        "Arteria cólica izquierda",
-        "Vena mesentérica inferior",
-        "Arteria cólica media",
-        "Arteria mesentérica superior"
-      ],
-      "correctAnswer": 1,
-      "explanation": "En la colectomía izquierda oncológica se liga primero la arteria cólica izquierda para asegurar la resección del drenaje linfático regional del colon descendente.",
-      "hashtags": [
-        "cirugia_general",
-        "colectomia_izquierda",
-        "tratamiento",
-        "ligadura_vascular_primaria",
-        "TEMA_MEDICO",
-        "Sabiston 21ed"
-      ]
-    },
-    {
-      "question": "¿Cuál es el principal objetivo de la linfadenectomía D3 en cáncer de colon?",
-      "options": [
-        "Disminuir la estancia hospitalaria",
-        "Reducir el sangrado intraoperatorio",
-        "Evitar la anastomosis primaria",
-        "Aumentar la supervivencia global"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La linfadenectomía D3 extiende la resección hasta los ganglios centrales, mejorando la estadificación y la supervivencia global al eliminar metástasis linfáticas regionales.",
-      "hashtags": [
-        "oncologia_quirurgica",
-        "cancer_de_colon",
-        "tratamiento",
-        "linfadenectomia_d3",
-        "TEMA_MEDICO",
-        "JCO 2023---NCCN 2024"
-      ]
-    },
-    {
-      "question": "¿Qué tipo de anastomosis se prefiere tras una hemicolectomía derecha oncológica?",
-      "options": [
-        "Ileorrectal término-terminal",
-        "Ileostomía terminal definitiva",
-        "Ileocólica latero-lateral",
-        "Colocólica término-terminal"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La anastomosis ileocólica latero-lateral es la técnica preferida tras hemicolectomía derecha, por menor tasa de fuga anastomótica y mejor funcionalidad.",
-      "hashtags": [
-        "cirugia_general",
-        "hemicolectomia_derecha",
-        "tratamiento",
-        "anastomosis_ileocolica",
-        "TEMA_MEDICO",
-        "Cleveland Clinic 2023"
-      ]
-    },
-    {
-      "question": "¿Cuál es el margen proximal mínimo recomendado en una resección de cáncer de recto?",
-      "options": [
-        "2 cm",
-        "10 cm",
-        "1 cm",
-        "5 cm"
-      ],
-      "correctAnswer": 1,
-      "explanation": "En cáncer de recto se recomienda un margen proximal de al menos 2 cm de tejido sano para asegurar la resección completa del tumor y reducir la recurrencia local.",
-      "hashtags": [
-        "oncologia_quirurgica",
-        "cancer_de_recto",
-        "tratamiento",
-        "margenes_quirurgicos",
-        "TEMA_MEDICO",
-        "ASCRS 2023---NCCN 2024"
-      ]
-    },
-    {
-      "question": "¿Qué técnica quirúrgica permite preservar la función esfinteriana en cáncer de recto distal?",
-      "options": [
-        "Resección anterior baja",
-        "Hemicolectomía izquierda",
-        "Colectomía subtotal",
-        "Amputación abdominoperineal"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La resección anterior baja (LAR) con anastomosis coloanal preserva el esfínter anal en tumores rectales distales seleccionados, evitando la colostomía permanente.",
-      "hashtags": [
-        "cirugia_general",
-        "cancer_de_recto_distal",
-        "tratamiento",
-        "reseccion_anterior_baja",
-        "TEMA_MEDICO",
-        "Sabiston 21ed---ASCRS 2023"
-      ]
-    },
-    {
-      "question": "¿Cuál es el tratamiento curativo estándar para metástasis hepáticas colorrectales?",
-      "options": [
-        "Quimioembolización",
-        "Ablación por radiofrecuencia",
-        "Radioterapia externa",
-        "Resección quirúrgica"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La resección quirúrgica completa (R0) es el único tratamiento potencialmente curativo para metástasis hepáticas de cáncer colorrectal, ofreciendo supervivencia a largo plazo.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "tratamiento",
-        "reseccion_hepatica",
-        "TEMA_MEDICO",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "¿Qué quimioterapia neoadyuvante se usa antes de resección hepática?",
-      "options": [
-        "FOLFOX o FOLFIRI",
-        "Gemcitabina sola",
-        "Bleomicina",
-        "Ciclofosfamida"
-      ],
-      "correctAnswer": 1,
-      "explanation": "FOLFOX (oxaliplatino, 5-FU, leucovorina) o FOLFIRI (irinotecán, 5-FU, leucovorina) son regímenes neoadyuvantes estándar para reducir metástasis hepáticas y permitir resección.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "tratamiento",
-        "quimioterapia_neoadyuvante",
-        "TEMA_MEDICO",
-        "ESMO 2023"
-      ]
-    },
-    {
-      "question": "¿Qué criterio contraindica la resección hepática curativa?",
-      "options": [
-        "Tumor primario resecado",
-        "Metástasis única menor a 3 cm",
-        "Buena reserva hepática",
-        "Metástasis bilobares múltiples"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La presencia de metástasis bilobares múltiples e irresecables contraindica la resección curativa, ya que no es posible lograr una resección R0 con suficiente parénquima remanente.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "diagnostico",
-        "criterios_irresecabilidad",
-        "TEMA_MEDICO",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "¿Cuál es el objetivo principal de la quimioterapia perioperatoria?",
-      "options": [
-        "Prevenir recaída local",
-        "Reducir tamaño tumoral",
-        "Evitar cirugía",
-        "Curar la enfermedad"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La quimioterapia perioperatoria (neoadyuvante) busca reducir el tamaño de las metástasis hepáticas para facilitar la resección quirúrgica completa y mejorar la supervivencia.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "tratamiento",
-        "quimioterapia_perioperatoria",
-        "TEMA_MEDICO",
-        "ESMO 2023"
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo contraindica la resección hepática en metástasis?",
-      "options": [
-        "Metástasis única pequeña",
-        "Invasión vascular mayor",
-        "Función hepática normal",
-        "Tumor primario controlado"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La invasión de la vena porta o de la vena hepática mayor contraindica la resección curativa, ya que implica enfermedad localmente avanzada e irresecable con alto riesgo de recurrencia.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "diagnostico",
-        "invasión_vascular",
-        "TEMA_MEDICO",
-        "NCCN 2024"
-      ]
-    },
-    {
-      "question": "¿Qué agente biológico se combina con quimioterapia en metástasis hepáticas?",
-      "options": [
-        "Bevacizumab",
-        "Imatinib",
-        "Rituximab",
-        "Trastuzumab"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Bevacizumab, un anticuerpo anti-VEGF, se combina con quimioterapia basada en 5-FU para metástasis hepáticas colorrectales, mejorando tasas de respuesta y resecabilidad.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "tratamiento",
-        "terapia_biologica",
-        "TEMA_MEDICO",
-        "ESMO 2023"
-      ]
-    },
-    {
-      "question": "¿Cuál es el intervalo recomendado para la primera colonoscopia de vigilancia tras resección curativa de cáncer colorrectal?",
-      "options": [
-        "10 años",
-        "1 año",
-        "5 años",
-        "3 meses"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Tras resección curativa de cáncer colorrectal, la primera colonoscopia de vigilancia se recomienda al año para detectar recurrencias o nuevos pólipos.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "seguimiento",
         "colonoscopia_vigilancia",
         "TEMA_MEDICO",
-        "NCCN 2024"
+        "ASGE 2022---NCCN 2024"
       ]
     },
     {
-      "question": "¿Qué marcador tumoral se utiliza rutinariamente para el seguimiento postratamiento del cáncer colorrectal?",
+      "question": "¿Qué marcador tumoral se usa rutinariamente en el seguimiento del cáncer colorrectal?",
       "options": [
+        "AFP",
         "CA 125",
         "CA 19-9",
-        "AFP",
         "CEA"
       ],
       "correctAnswer": 4,
-      "explanation": "El antígeno carcinoembrionario (CEA) es el marcador tumoral estándar para monitorizar recurrencia en pacientes con cáncer colorrectal resecado.",
+      "explanation": "El antígeno carcinoembrionario (CEA) es el marcador sérico estándar para monitorizar recurrencia en cáncer colorrectal, con sensibilidad moderada pero amplia recomendación en guías.",
       "hashtags": [
         "oncologia",
         "cancer_colorrectal",
-        "seguimiento",
-        "cea",
+        "diagnostico",
+        "marcador_tumoral",
         "TEMA_MEDICO",
-        "ASCO 2023"
+        "NCCN 2024---ESMO 2023"
       ]
     },
     {
-      "question": "¿Cuándo se debe solicitar la primera determinación de CEA tras cirugía curativa por cáncer colorrectal?",
+      "question": "¿Cuál es la conducta ante un CEA elevado sin lesiones visibles en imágenes estándar?",
       "options": [
-        "Cada 6 meses por 3 años",
-        "Solo si hay síntomas",
-        "Cada 3 meses por 2 años",
-        "Cada año por 5 años"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Tras cirugía curativa, el CEA se mide cada 3 a 6 meses durante los primeros 2-3 años, siendo cada 3 meses por 2 años un esquema común.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "seguimiento",
-        "cea_intervalo",
-        "TEMA_MEDICO",
-        "ESMO 2022"
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo en la colonoscopia de vigilancia justifica una repetición acortada del estudio?",
-      "options": [
-        "Adenoma avanzado",
-        "Pólipo hiperplásico único",
-        "Hemangioma submucoso",
-        "Diverticulosis sin inflamación"
+        "Realizar PET-TC",
+        "Solicitar colonoscopia urgente",
+        "Iniciar quimioterapia empírica",
+        "Repetir CEA en 3 meses"
       ],
       "correctAnswer": 1,
-      "explanation": "Un adenoma avanzado (≥10 mm, velloso o displasia de alto grado) requiere seguimiento colonoscópico más frecuente, generalmente a 1 año.",
+      "explanation": "Ante elevación del CEA con TC negativa, el PET-TC es la siguiente prueba recomendada para localizar enfermedad oculta, ya que combina información metabólica y anatómica.",
       "hashtags": [
         "oncologia",
         "cancer_colorrectal",
-        "seguimiento",
-        "adenoma_avanzado",
-        "TEMA_MEDICO",
-        "USPSTF 2021"
-      ]
-    },
-    {
-      "question": "¿Cuál es la conducta ante un CEA elevado en el seguimiento sin hallazgos en colonoscopia?",
-      "options": [
-        "Iniciar quimioterapia empírica",
-        "Tomografía de tórax y abdomen",
-        "Repetir CEA en 3 meses",
-        "Realizar PET-TC inmediato"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Ante CEA elevado sin lesiones en colonoscopia, se recomienda tomografía de tórax y abdomen para descartar metástasis a distancia.",
-      "hashtags": [
-        "oncologia",
-        "cancer_colorrectal",
-        "seguimiento",
+        "diagnostico",
         "cea_elevado",
         "TEMA_MEDICO",
         "NCCN 2024"
       ]
     },
     {
-      "question": "¿Por cuánto tiempo se recomienda continuar la vigilancia con CEA y colonoscopia tras resección curativa?",
+      "question": "¿Qué factor se asocia con mayor riesgo de recurrencia temprana del cáncer colorrectal?",
       "options": [
-        "5 años",
-        "3 años",
-        "De por vida",
-        "1 año"
+        "Edad mayor de 70 años",
+        "Tumor de colon derecho",
+        "Invasión linfovascular",
+        "Localización en recto"
       ],
-      "correctAnswer": 1,
-      "explanation": "La vigilancia intensiva con CEA y colonoscopia se recomienda durante al menos 5 años tras resección curativa, aunque el riesgo persiste más allá.",
+      "correctAnswer": 3,
+      "explanation": "La invasión linfovascular es un factor histopatológico de alto riesgo que predice recurrencia temprana, independientemente del estadio, y justifica seguimiento más intensivo.",
       "hashtags": [
         "oncologia",
         "cancer_colorrectal",
-        "seguimiento",
-        "duracion_vigilancia",
+        "fisiopatologia",
+        "invasión_linfovascular",
         "TEMA_MEDICO",
-        "ASCO 2023"
+        "AJCC 8ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la supervivencia global a 5 años esperada tras resección curativa de cáncer colorrectal estadio III?",
+      "options": [
+        "90-95%",
+        "70-80%",
+        "30-40%",
+        "50-60%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En estadio III (ganglios positivos), la supervivencia global a 5 años es del 50-60% con tratamiento quirúrgico y quimioterapia adyuvante, reflejando el riesgo de recurrencia sistémica.",
+      "hashtags": [
+        "oncologia",
+        "cancer_colorrectal",
+        "epidemiologia",
+        "supervivencia_estadio_iii",
+        "TEMA_MEDICO",
+        "SEER 2023---NCCN 2024"
       ]
     }
   ]

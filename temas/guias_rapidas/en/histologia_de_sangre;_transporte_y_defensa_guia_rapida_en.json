@@ -1,0 +1,65 @@
+{
+  "id": "blood_histology;_transport_and_defense",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Red blood cells without nucleus or organelles",
+      "title": "anucleated erythrocytes",
+      "contentHtml": "<h2>Red blood cells without nucleus or organelles</h2><ul><li><b>Mature erythrocyte</b>: lacks nucleus, mitochondria, ribosomes and endoplasmic reticulum; Its metabolism is anaerobic (glycolysis and pentose pathway). </li><li>Half-life ~120 days; elimination by splenic macrophages (hemocatheresis).</li><li><b>Biconcave shape</b> (disc) optimizes surface/volume ratio for gas exchange and capillary deformability.</li><li>Trap: presence of nucleus in peripheral blood = <b>erythroblast</b> (pathological: hemolytic anemia, myelofibrosis, leukemia).</li><li>Glossary: <b>Polychromatophilia</b>: blue-gray erythrocytes (reticulocytes) = bone marrow regeneration. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Hemoglobin: structure and O2 transport",
+      "title": "Hemoglobin and oxygenation",
+      "contentHtml": "<h2>Hemoglobin: structure and O2 transport</h2><ul><li>Tetrameric structure: 2 α chains (141 aa) and 2 β (146 aa); each subunit contains a <b>heme</b> group with Fe²⁺ that binds O₂ reversibly.</li><li>Sigmoidal dissociation curve: <b>P50</b> = 26 mmHg (partial pressure at 50% saturation). Right shift (↓affinity): acidosis, ↑2,3-BPG, ↑temperature. Left shift (↑affinity): alkalosis, ↓2,3-BPG, hypothermia.</li><li>Transport: O₂ bound to Hb (98.5%), dissolved 1.5%. CO₂: 70% as bicarbonate, 23% bound to Hb (carbaminohemoglobin), 7% dissolved.</li><li>Trap: <b>Methaemoglobin</b> (Fe³⁺) does not transport O₂; cyanosis at &gt;1.5 g/dL; treatment with methylene blue. </li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Leukocytes: granulocytes and agranulocytes",
+      "title": "Leukocyte classification",
+      "contentHtml": "<h2>Leukocytes: granulocytes and agranulocytes</h2><ul><li>Granulocytes: <b>neutrophils</b> (40-70%), <b>eosinophils</b> (1-4%), <b>basophils</b> (&lt;1%). They have specific granules and a lobulated nucleus.</li><li>Agranulocytes: <b>lymphocytes</b> (20-40%), <b>monocytes</b> (2-8%). No specific granules visible in Romanowsky stain.</li><li>Absolute count: <b>total leukocytes</b> 4,000-11,000/μL. Differential leukocyte formula.</li><li>Trap: <b>Left deviation</b>: increase in immature neutrophils (bands) in acute bacterial infection.</li><li>Glossary: ​​<b>Azurophil granules</b>: primary lysosomes in neutrophils (myeloperoxidase).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Neutrophils: phagocytosis and first line",
+      "title": "Neutrophils in acute defense",
+      "contentHtml": "<h2>Neutrophils: phagocytosis and first line</h2><ul><li>First line of innate defense; half-life 6-8 h in blood, 1-2 days in tissues.</li><li>Mechanism: chemotaxis (IL-8, C5a, LTB4), opsonization (IgG, C3b), phagocytosis, degranulation (myeloperoxidase, elastase) and <b>extracellular traps</b> (NETs).</li><li>Threshold: <b>neutropenia</b> &lt;1,500/μL (&lt;500/μL severe risk of infection).</li><li>Trap: <b>Neutrophilia</b> &gt;7,000/μL: bacterial infection, inflammation, stress, smoking. <b>Cyclic neutropenia</b>: ELANE mutation.</li><li>Glossary: ​​<b>Pus</b>: dead neutrophils + necrotic tissue + bacteria.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Lymphocytes: B and T specific immunity",
+      "title": "B and T lymphocytes",
+      "contentHtml": "<h2>Lymphocytes: B and T specific immunity</h2><ul><li><b>B lymphocytes</b>: mature in bone marrow; recognize native antigen; They differentiate into plasma cells (antibodies) and memory B cells.</li><li><b>T lymphocytes</b>: mature in the thymus; they express TCR; CD4⁺ (helpers, Th1/Th2/Th17) and CD8⁺ (cytotoxic).</li><li>Normal count: 1,000-4,800/μL. <b>Lymphocytosis</b> &gt;4,800/μL: viral infection (EBV, CMV), chronic lymphocytic leukemia.</li><li>Trap: <b>NK cells</b>: innate immunity, lysis without MHC; count included in large granular lymphocytes.</li><li>Glossary: ​​<b>Immunoglobulins</b>: IgG (80%, placental passage), IgA (mucosa), IgM (first response), IgE (allergy), IgD (B receptor).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Monocytes: macrophage precursors",
+      "title": "Monocytes and macrophages",
+      "contentHtml": "<h2>Monocytes: precursors of macrophages</h2><ul><li>Circulating monocyte (2-8% leukocytes): 12-72 h in blood; migrates to tissues and differentiates into <b>macrophage</b> (resident or activated) or <b>dendritic cell</b>.</li><li>Functions: phagocytosis, antigen presentation (MHC-II), cytokines (TNF-α, IL-1, IL-6).</li><li>Tissue macrophages: <b>Kupffer cells</b> (liver), <b>osteoclasts</b> (bone), <b>microglia</b> (CNS), <b>alveolar macrophages</b> (lung).</li><li>Trap: <b>Monocytosis</b> &gt;800/μL: tuberculosis, endocarditis, chronic myelomonocytic leukemia.</li><li>Glossary: <b>Foam cell</b>: loaded macrophage of lipids (atherosclerosis). </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Platelets: megakaryocytic fragments hemostasis",
+      "title": "Platelets and hemostasis",
+      "contentHtml": "<h2>Platelets: megakaryocytic fragments hemostasis</h2><ul><li><b>Platelets</b>: cytoplasmic fragments of the megakaryocyte (bone marrow); size 2-4 μm; half-life 7-10 days.</li><li>Normal count: 150,000-450,000/μL. <b>Thrombocytopenia</b> &lt;150,000/μL; hemorrhagic risk if &lt;50,000/μL; spontaneous if &lt;10,000/μL.</li><li>Function: adhesion (GPIb/IX to von Willebrand factor), aggregation (GPIIb/IIIa to fibrinogen), secretion of granules (ADP, TxA2).</li><li>Trap: <b>Reactive thrombocytosis</b> &gt;450,000/μL: inflammation, iron deficiency, splenectomy. <b>Essential thrombocythemia</b>: JAK2 mutation.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Erythropoiesis: red bone marrow and erythropoietin",
+      "title": "Regulated erythropoiesis",
+      "contentHtml": "<h2>Erythropoiesis: red bone marrow and erythropoietin</h2><ul><li>Process from <b>proerythroblast</b> to mature erythrocyte (~7 days). It occurs in red bone marrow (flat bones, femur/humerus epiphysis).</li><li><b>Erythropoietin (EPO)</b>: glycoprotein hormone produced in the kidney (peritubular interstitial cells) in response to hypoxia (HIF-1α factor).</li><li>Threshold: Hb &lt;13 g/dL (male) or &lt;12 g/dL (female). = anemia; Serum EPO increases in hypoproliferative anemia (renal failure: ↓EPO).</li><li>Trap: <b>Reticulocytes</b> (1-2% erythrocytes): reticulocyte production index corrects maturation; &gt;2.5% = adequate spinal response. </li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Plasma cells: production of antibodies",
+      "title": "Plasma cells and antibodies",
+      "contentHtml": "<h2>Plasma cells: antibody production</h2><ul><li>Terminal differentiation of the activated B lymphocyte; basophilic cytoplasm (abundant RER), eccentric nucleus with cartwheel pattern. </li><li>Produces and secretes <b>immunoglobulins</b> (IgG, IgA, IgM, IgE, IgD) at a rate of ~10,000 molecules/second.</li><li>They reside in bone marrow (long life, months-years) and lymphoid tissue; They are responsible for <b>humoral immunity</b>.</li><li>Trap: <b>Multiple myeloma</b>: monoclonal proliferation of plasma cells; monoclonal peak in proteinogram, lytic bone lesions, anemia.</li><li>Glossary: ​​<b>Mott cell</b>: plasma cell with Russell inclusions (hyaline immunoglobulin bodies).</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Basophils and eosinophils: allergy and parasites",
+      "title": "Basophils and eosinophils",
+      "contentHtml": "<h2>Basophils and eosinophils: allergy and parasites</h2><ul><li><b>Basophils</b> (&lt;1%): granules with histamine, heparin, leukotrienes; IgE receptor FcεRI; They participate in type I allergic reactions (anaphylaxis).</li><li><b>Eosinophils</b> (1-4%): granules with major basic protein, peroxidase, neurotoxin; active against helminths and allergies.</li><li>Threshold: <b>Eosinophilia</b> &gt;500/μL: asthma, allergic rhinitis, parasitosis (Strongyloides, Toxocara), hypereosinophilic syndrome (&gt;1,500/μL).</li><li>Trap: <b>Basophilia</b> &gt;100/μL: chronic myeloid leukemia (associated with Philadelphia chromosome), polycythemia vera.</li></ul>"
+    }
+  ]
+}

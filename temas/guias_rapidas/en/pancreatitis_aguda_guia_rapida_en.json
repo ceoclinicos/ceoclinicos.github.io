@@ -1,0 +1,77 @@
+{
+  "id": "acute_pancreatitis",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Atlanta 2012 Qualifying",
+      "title": "Atlanta 2012 Qualifying",
+      "contentHtml": "<h2>Atlanta Classification 2012</h2><ul><li>Defines <b>acute pancreatitis</b> as pancreatic inflammation with abdominal pain, amylase/lipase &gt;3 times the upper limit of normal and compatible imaging findings.</li><li>Two phases: <b>early</b> (≤1 week) with <b>systemic inflammatory response syndrome</b> and organ failure; <b>late</b> (&gt;1 week) with local complications.</li><li>Severity: <b>mild</b> (no organ failure, no necrosis), <b>moderately severe</b> (transient organ failure ≤48 h or local complications) and <b>severe</b> (persistent organ failure >48 h).</li><li>Classify collections: <b>peripancreatic fluid collection acute</b> (&lt;4 weeks, without wall) vs <b>pseudocyst</b> (&gt;4 weeks, with wall); <b>acute pancreatic necrosis</b> (&lt;4 weeks, heterogeneous content) vs <b>encapsulated necrosis</b> (&gt;4 weeks).</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Ranson criteria",
+      "title": "Ranson criteria",
+      "contentHtml": "<h2>Ranson criteria</h2><ul><li>Eleven variables: 5 at admission and 6 at 48 hours. On admission: age &gt;55 years, leukocytes &gt;16,000/mm³, glucose &gt;200 mg/dL, LDH &gt;350 IU/L, AST &gt;250 IU/L.</li><li>At 48 h: hematocrit drops &gt;10%, BUN rises &gt;5 mg/dL, calcium &lt;8 mg/dL, PaO₂ &lt;60 mmHg, base deficit &gt;4 mEq/L, fluid sequestration &gt;6 L.</li><li><b>Severity:</b> 0-2 points = <b>mild</b> (mortality &lt;1%); 3-4 = <b>moderate</b> (mortality ~15%); 5-6 = <b>severe</b> (mortality ~40%); ≥7 = <b>very severe</b> (mortality &gt;90%).</li><li>Cat: <b>Ranson</b> criteria are not used for continuous guidance; They are retrospective (48 hours). Prefer <b>APACHE II</b> or <b>BISAP</b> for early prediction.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "APACHE II scale in pancreatitis",
+      "title": "APACHE II in pancreatitis",
+      "contentHtml": "<h2>APACHE II in pancreatitis</h2><ul><li><b>APACHE II</b> (Acute Physiology And Chronic Health Evaluation II) scores 12 physiological variables + age + chronic disease.</li><li>Range 0-71; in pancreatitis, score ≥8 predicts <b>severe pancreatitis</b> with ~70% sensitivity.</li><li>Advantage: it can be calculated upon admission and daily, unlike <b>Ranson</b> which requires 48 hours.</li><li>Disadvantage: complexity of calculation; In practice, <b>BISAP</b> (BUN, Impaired mental status, SIRS, Age, Pleural effusion) is used as a faster alternative.</li><li>For ENARM/MIR: <b>APACHE II</b> ≥8 has ~15-20% mortality; ≥15 mortality &gt;50%.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Indications for contrast-enhanced tomography",
+      "title": "Indications for contrast-enhanced CT",
+      "contentHtml": "<h2>Indications for CT with contrast</h2><ul><li><b>Computed tomography with intravenous contrast</b> not indicated on admission if the diagnosis is clear (risk of nephrotoxicity and radiation).</li><li>Indications: diagnostic doubt, persistent organ failure (&gt;48 h), suspicion of complications (necrosis, collections), clinical worsening or lack of improvement after 48-72 h of management.</li><li>In <b>severe pancreatitis</b> it is recommended at 72-96 hours to evaluate necrosis (maximum parenchymal enhancement is achieved after 48 hours of onset).</li><li>Contraindications: allergy to iodinated contrast, renal failure (GFR &lt;30 mL/min), or mild pancreatitis without suspected complications.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Abdominal compartment syndrome",
+      "title": "Abdominal compartment syndrome",
+      "contentHtml": "<h2>Abdomen liquids.</li><li>Measurement: through urinary catheter (intravesical pressure) as the gold standard.</li><li>Step management: <b>non-surgical decompression</b> (sedation, evacuation of gastrointestinal contents, drainage of ascites) and if it fails, <b>laparostomy</b> or <b>open fascia</b>.</li><li>Trap: abdominal compartment syndrome increases mortality up to 50-60% if not recognized. </li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Tomographic signs of necrosis",
+      "title": "Tomographic signs of necrosis",
+      "contentHtml": "<h2>Tomographic signs of necrosis</h2><ul><li>In <b>CT with contrast</b>, pancreatic necrosis is defined as areas of parenchyma that do not enhance (&lt;30 HU) after intravenous contrast.</li><li>The <b>tomographic severity index (CTSI)</b> combines degree of inflammation (A-E) and percentage of necrosis: 0% (0 pt), &lt;30% (2 pt), 30-50% (4 pt), &gt;50% (6 pt). Maximum score 10.</li><li>Necrosis &gt;30% is associated with increased risk of infection and mortality.</li><li>Key finding: <b>pancreatic necrosis</b> can be sterile or infected; the presence of gas in the parenchyma suggests infected necrosis. </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Intravenous fluid treatment",
+      "title": "Intravenous fluid treatment",
+      "contentHtml": "<h2>Treatment with intravenous fluids</h2><ul><li>Initial pillar: <b>aggressive intravenous fluid resuscitation</b> in the first 24 hours to correct hypovolemia.</li><li><b>Ringer's lactate</b> is preferred over <b>normal saline</b> (lower risk of hyperchloremia and metabolic acidosis; reduces systemic inflammation).</li><li>Dose: initial bolus of 10-20 mL/kg, then 1.5-2 mL/kg/h for 24-48 h, adjusting according to urine output (&gt;0.5 mL/kg/h), BUN, hematocrit, and signs of overload.</li><li>Trap: excessive resuscitation (&gt;4 L/day) is associated with abdominal compartment syndrome and increased mortality. Use hemodynamic goals. </li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Indications for prophylactic antibiotics",
+      "title": "Prophylactic antibiotics",
+      "contentHtml": "<h2>Indications for prophylactic antibiotics</h2><ul><li><b>The routine use of <b>prophylactic antibiotics</b> is not recommended</b> in <b>acute pancreatitis</b> (nor in sterile necrosis) to prevent infection.</li><li>Recent meta-analyses show that they do not reduce mortality or the need for surgery, but they increase fungal infections and bacterial resistance.</li><li>Indication of antibiotics only if there is <b>infection documented</b> (positive culture, infected necrosis, cholangitis, pneumonia, bacteremia). </li><li>If infected necrosis is suspected (fever, leukocytosis, gas on CT), start an empirical antibiotic that penetrates necrosis: <b>imipenem</b> (500 mg IV every 6 hours) or <b>meropenem</b>.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Urgent endoscopic retrograde cholangiopancreatography",
+      "title": "urgent ERCP",
+      "contentHtml": "<h2>Urgent endoscopic retrograde cholangiopancreatography</h2><ul><li>Indicated in <b>acute biliary pancreatitis</b> with concomitant <b>cholangitis</b> (fever, jaundice, pain, cholestasis) or <b>persistent biliary obstruction</b> (bilirubin >5 mg/dL or dilated common bile duct).</li><li>It should be performed at <b>early onset. 24-48 h</b>after admission if there is cholangitis; In the absence of cholangitis, urgent ERCP does not improve prognosis and may aggravate pancreatitis.</li><li>Procedure: <b>endoscopic sphincterotomy</b> + stone extraction. <b>Sphincterotomy</b> alone (without extraction) reduces recurrence.</li><li>Trap: in mild biliary pancreatitis without cholangitis, conservative management and elective cholecystectomy during the same admission.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Autoimmune pancreatitis type 1 and 2",
+      "title": "Autoimmune pancreatitis",
+      "contentHtml": "<h2>Autoimmune pancreatitis type 1 and 2</h2><ul><li><b>AIP type 1</b>: associated with <b>IgG4-related disease</b> (lymphoplasmacytic infiltration with fibrosis, elevation of serum IgG4). It affects older adults, it may have extrapancreatic manifestations (sclerosing cholangitis, retroperitoneal fibrosis). </li><li><b>PAI type 2</b>: without elevation of IgG4, associated with <b>inflammatory bowel disease</b> (especially ulcerative colitis). Histology: <b>epithelioid granulocytes</b> in pancreatic ducts.</li><li>Image: <b>diffusely enlarged pancreas</b> (sausage-shaped) with late enhancement on CT; sometimes focal mass simulating adenocarcinoma. </li><li>Treatment: <b>corticosteroids</b> (prednisone 30-40 mg/day for 4 weeks, then decrease). Dramatic response in 2-4 weeks. </li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Pancreatic pseudocyst and drainage",
+      "title": "Pancreatic pseudocyst",
+      "contentHtml": "<h2>Pancreatic pseudocyst and drainage</h2><ul><li>Definition: liquid collection with fibrous wall, appearing &gt;4 weeks after acute pancreatitis, with elevated amylase in the contents.</li><li>Indications for drainage: <b>symptomatic pseudocyst</b> (pain, jaundice, gastric/duodenal obstruction), infected, or &gt;6 cm without resolution spontaneous.</li><li>Methods: <b>endoscopic drainage</b> (first line: cystogastrostomy/cystoduodenostomy with stent placement), <b>percutaneous drainage</b> (increased risk of fistula) or <b>surgical</b> (open/laparoscopic cystogastrostomy).</li><li>Trap: do not drain asymptomatic pseudocysts, even large ones, because they can resolve themselves in 6-12 months.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Complications: infected vs sterile necrosis",
+      "title": "Infected vs sterile necrosis",
+      "contentHtml": "<h2>Infected vs sterile necrosis</h2><ul><li><b>Sterile necrosis</b>: conservative management (support, fluids, enteral nutrition). It does not require antibiotics or drainage unless it becomes infected.</li><li><b>Infected necrosis</b>: suspect due to fever, leukocytosis, clinical worsening after 7-10 days, or gas on CT. Confirm with <b>CT-guided fine needle aspiration</b> (culture + Gram).</li><li>Treatment: <b>empirical antibiotic therapy</b> (imipenem or meropenem) and <b>drainage</b> (endoscopic, percutaneous or surgical). <b>Necrosectomy</b> is reserved for cases that do not improve with drainage.</li><li>Trap: sterile necrosis should not be subjected to necrosectomy; increases mortality. The step-up approach (drainage first, then surgery if it fails) is the standard.</li></ul>"
+    }
+  ]
+}

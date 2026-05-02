@@ -1,0 +1,77 @@
+{
+  "id": "pancreatite_aguda",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Qualificação Atlanta 2012",
+      "title": "Qualificação Atlanta 2012",
+      "contentHtml": "<h2>Classificação de Atlanta 2012</h2><ul><li>Define <b>pancreatite aguda</b> como inflamação pancreática com dor abdominal, amilase/lipase &gt;3 vezes o limite superior dos achados de imagem normais e compatíveis.</li><li>Duas fases: <b>precoce</b> (≤1 semana) com <b>síndrome da resposta inflamatória sistêmica</b> e falência de órgãos; <b>tardio</b> (&gt; 1 semana) com complicações locais.</li><li>Gravidade: <b>leve</b> (sem falência de órgãos, sem necrose), <b>moderadamente grave</b> (falência transitória de órgãos ≤48 h ou complicações locais) e <b>grave</b> (falência persistente de órgãos >48 h).</li><li>Classificar coleções: <b>coleção de líquido peripancreático aguda</b> (&lt;4 semanas, sem parede) vs <b>pseudocisto</b> (&gt;4 semanas, com parede); <b>necrose pancreática aguda</b> (&lt;4 semanas, conteúdo heterogêneo) vs <b>necrose encapsulada</b> (&gt;4 semanas).</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Critérios de Ranson",
+      "title": "Critérios de Ranson",
+      "contentHtml": "<h2>Critérios de Ranson</h2><ul><li>Onze variáveis: 5 na admissão e 6 nas 48 horas. Na admissão: idade &gt;55 anos, leucócitos &gt;16.000/mm³, glicose &gt;200 mg/dL, LDH &gt;350 UI/L, AST &gt;250 UI/L.</li><li>Às 48 h: hematócrito cai &gt;10%, BUN aumenta &gt;5 mg/dL, cálcio &lt;8 mg/dL, PaO₂ &lt;60 mmHg, déficit de base &gt;4 mEq/L, sequestro de fluidos &gt;6 L.</li><li><b>Gravidade:</b> 0-2 pontos = <b>leve</b> (mortalidade &lt;1%); 3-4 = <b>moderada</b> (mortalidade ~15%); 5-6 = <b>grave</b> (mortalidade ~40%); ≥7 = <b>muito grave</b> (mortalidade &gt;90%).</li><li>Gato: os critérios de <b>Ranson</b> não são usados ​​para orientação contínua; São retrospectivos (48 horas). Prefira <b>APACHE II</b> ou <b>BISAP</b> para previsão antecipada.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Escala APACHE II em pancreatite",
+      "title": "APACHE II na pancreatite",
+      "contentHtml": "<h2>APACHE II na pancreatite</h2><ul><li><b>APACHE II</b> (Acute Physiology And Chronic Health Evaluation II) pontua 12 variáveis ​​fisiológicas + idade + doença crônica.</li><li>Faixa 0-71; na pancreatite, pontuação ≥8 prediz <b>pancreatite grave</b> com sensibilidade de aproximadamente 70%.</li><li>Vantagem: pode ser calculada na admissão e diariamente, ao contrário de <b>Ranson</b> que requer 48 horas.</li><li>Desvantagem: complexidade de cálculo; Na prática, <b>BISAP</b> (BUN, estado mental prejudicado, SIRS, idade, derrame pleural) é usado como uma alternativa mais rápida.</li><li>Para ENARM/MIR: <b>APACHE II</b> ≥8 tem aproximadamente 15-20% de mortalidade; ≥15 mortalidade >50%.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Indicações para tomografia com contraste",
+      "title": "Indicações para TC com contraste",
+      "contentHtml": "<h2>Indicações para TC com contraste</h2><ul><li><b>Tomografia computadorizada com contraste intravenoso</b> não indicada na admissão se o diagnóstico for claro (risco de nefrotoxicidade e radiação).</li><li>Indicações: dúvida diagnóstica, falência persistente de órgãos (&gt;48 h), suspeita de complicações (necrose, coleções), piora clínica ou falta de melhora após 48-72 h de manejo.</li><li>Em <b>pancreatite grave</b> é recomendado 72-96 horas para avaliar a necrose (o realce máximo do parênquima é alcançado após 48 horas do início).</li><li>Contra-indicações: alergia ao contraste iodado, insuficiência renal (TFG &lt;30 mL/min) ou pancreatite leve sem suspeita de complicações.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Síndrome compartimental abdominal",
+      "title": "Síndrome compartimental abdominal",
+      "contentHtml": "<h2>Líquidos abdominais.</li><li>Medição: através de cateter urinário (pressão intravesical) como padrão ouro.</li><li>Manejo da etapa: <b>descompressão não cirúrgica</b> (sedação, evacuação do conteúdo gastrointestinal, drenagem de ascite) e se falhar, <b>laparostomia</b> ou <b>fáscia aberta</b>.</li><li>Trap: síndrome compartimental abdominal aumenta a mortalidade em até até 50-60% se não for reconhecido. </li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Sinais tomográficos de necrose",
+      "title": "Sinais tomográficos de necrose",
+      "contentHtml": "<h2>Sinais tomográficos de necrose</h2><ul><li>Na <b>TC com contraste</b>, a necrose pancreática é definida como áreas de parênquima que não melhoram (&lt;30 HU) após contraste intravenoso.</li><li>O <b>índice de gravidade tomográfica (CTSI)</b> combina grau de inflamação (A-E) e porcentagem de necrose: 0% (0 pt), &lt;30% (2 pt), 30-50% (4 pontos),&gt;50% (6 pontos). Pontuação máxima 10.</li><li>A necrose&gt;30% está associada ao aumento do risco de infecção e mortalidade.</li><li>Constatação principal: <b>necrose pancreática</b> pode ser estéril ou infectada; a presença de gás no parênquima sugere necrose infectada. </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Tratamento de fluidos intravenosos",
+      "title": "Tratamento de fluidos intravenosos",
+      "contentHtml": "<h2>Tratamento com fluidos intravenosos</h2><ul><li>Pilar inicial: <b>reanimação agressiva com fluidos intravenosos</b> nas primeiras 24 horas para corrigir a hipovolemia.</li><li><b>O lactato de Ringer</b> é preferível ao <b>solução salina normal</b> (menor risco de hipercloremia e acidose metabólica; reduz a inflamação sistêmica).</li><li>Dose: bolus inicial de 10-20 mL/kg, depois 1,5-2 mL/kg/h por 24-48 h, ajustando de acordo com o débito urinário (&gt;0,5 mL/kg/h), BUN, hematócrito e sinais de sobrecarga.</li><li>Armadilha: a reanimação excessiva (&gt;4 L/dia) está associada à síndrome compartimental abdominal e aumento da mortalidade. Use metas hemodinâmicas. </li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Indicações para antibióticos profiláticos",
+      "title": "Antibióticos profiláticos",
+      "contentHtml": "<h2>Indicações para antibióticos profiláticos</h2><ul><li><b>O uso rotineiro de <b>antibióticos profiláticos</b> não é recomendado</b> na <b>pancreatite aguda</b> (nem na necrose estéril) para prevenir infecções.</li><li>Metananálises recentes mostram que eles não reduzem a mortalidade ou a necessidade de cirurgia, mas aumentam as infecções fúngicas e a resistência bacteriana.</li><li>Indicação de antibióticos somente se há <b>infecção documentada</b> (cultura positiva, necrose infectada, colangite, pneumonia, bacteremia). </li><li>Se houver suspeita de necrose infectada (febre, leucocitose, gases na TC), inicie um antibiótico empírico que penetre na necrose: <b>imipenem</b> (500 mg IV a cada 6 horas) ou <b>meropenem</b>.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Colangiopancreatografia retrógrada endoscópica urgente",
+      "title": "CPRE urgente",
+      "contentHtml": "<h2>Colangiopancreatografia retrógrada endoscópica de urgência</h2><ul><li>Indicada em <b>pancreatite biliar aguda</b> com <b>colangite</b> concomitante (febre, icterícia, dor, colestase) ou <b>obstrução biliar persistente</b> (bilirrubina >5 mg/dL ou ducto biliar comum dilatado).</li><li>Deve ser realizada <b>início precoce. 24-48 horas após a admissão se houver colangite; Na ausência de colangite, a CPRE urgente não melhora o prognóstico e pode agravar a pancreatite.</li><li>Procedimento: <b>esfincterotomia endoscópica</b> + extração de cálculo. <b>Esfincterotomia</b> isoladamente (sem extração) reduz a recorrência.</li><li>Trap: na pancreatite biliar leve sem colangite, manejo conservador e colecistectomia eletiva durante a mesma internação.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Pancreatite autoimune tipo 1 e 2",
+      "title": "Pancreatite autoimune",
+      "contentHtml": "<h2>Pancreatite autoimune tipo 1 e 2</h2><ul><li><b>PAI tipo 1</b>: associada a <b>doença relacionada à IgG4</b> (infiltração linfoplasmocitária com fibrose, elevação de IgG4 sérica). Afeta idosos, podendo apresentar manifestações extrapancreáticas (colangite esclerosante, fibrose retroperitoneal). </li><li><b>PAI tipo 2</b>: sem elevação de IgG4, associado a <b>doença inflamatória intestinal</b> (especialmente colite ulcerativa). Histologia: <b>granulócitos epitelióides</b> em ductos pancreáticos.</li><li>Imagem: <b>pâncreas difusamente aumentado</b> (em forma de salsicha) com realce tardio na TC; às vezes massa focal simulando adenocarcinoma. </li><li>Tratamento: <b>corticosteróides</b> (prednisona 30-40 mg/dia durante 4 semanas, depois diminuir). Resposta dramática em 2 a 4 semanas. </li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Pseudocisto pancreático e drenagem",
+      "title": "Pseudocisto pancreático",
+      "contentHtml": "<h2>Pseudocisto pancreático e drenagem</h2><ul><li>Definição: coleção líquida com parede fibrosa, surgindo &gt;4 semanas após pancreatite aguda, com elevação de amilase no conteúdo.</li><li>Indicações para drenagem: <b>pseudocisto sintomático</b> (dor, icterícia, obstrução gástrica/duodenal), infectado ou >6 cm sem resolução espontânea.</li><li>Métodos: <b>drenagem endoscópica</b> (primeira linha: cistogastrostomia/cistoduodenostomia com colocação de stent), <b>drenagem percutânea</b> (risco aumentado de fístula) ou <b>cirúrgica</b> (cistogastrostomia aberta/laparoscópica).</li><li>Armadilha: não drenar pseudocistos assintomáticos, mesmo os grandes, pois eles podem se resolver em 6-12 meses.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Complicações: necrose infectada vs estéril",
+      "title": "Necrose infectada vs estéril",
+      "contentHtml": "<h2>Necrose infectada versus estéril</h2><ul><li><b>Necrose estéril</b>: manejo conservador (suporte, fluidos, nutrição enteral). Não requer antibióticos ou drenagem, a menos que infeccione.</li><li><b>Necrose infectada</b>: suspeita devido a febre, leucocitose, piora clínica após 7 a 10 dias ou gases na TC. Confirmar com <b>aspiração com agulha fina guiada por TC</b> (cultura + Gram).</li><li>Tratamento: <b>antibioterapia empírica</b> (imipenem ou meropenem) e <b>drenagem</b> (endoscópica, percutânea ou cirúrgica). <b>Necrosectomia</b> é reservada para casos que não melhoram com drenagem.</li><li>Armadilha: necrose estéril não deve ser submetida a necrosectomia; aumenta a mortalidade. A abordagem gradual (primeiro a drenagem e depois a cirurgia, se falhar) é o padrão.</li></ul>"
+    }
+  ]
+}

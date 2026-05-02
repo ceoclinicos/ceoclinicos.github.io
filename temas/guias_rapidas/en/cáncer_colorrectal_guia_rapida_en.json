@@ -3,75 +3,75 @@
   "items": [
     {
       "order": 1,
-      "foco": "Risk factors: age, tobacco, obesity",
-      "title": "Risk factors",
-      "contentHtml": "<h2>Risk factors</h2><ul><li><b>Age ≥50 years</b> is the main non-modifiable factor; 90% of cases occur in >50 years.</li><li><b>Tobacco</b> increases the risk of adenomas and colorectal cancer (RR 1.2-1.4), especially in the rectum.</li><li><b>Obesity</b> (BMI >30) is associated with a higher incidence of colon cancer, mediated by hyperinsulinemia and IGF-1.</li><li>Others: type 2 diabetes, alcohol, rich diet in red and processed meats, low fiber intake.</li></ul>"
+      "foco": "Risk factors and inheritance",
+      "title": "Risk factors and inheritance",
+      "contentHtml": "<h2>Risk factors and inheritance</h2><ul><li><b>Age &gt;50 years</b> is the main sporadic factor; <b>first-degree family history</b> doubles the risk.</li><li><b>Lynch syndrome</b> (HNPCC) due to mutation in repair genes <b>MLH1/MSH2/MSH6/PMS2</b>: cumulative risk 70-80% for CRC, with <b>microsatellite instability (MSI-H)</b>.</li><li><b>Familial adenomatous polyposis (PAF)</b> due to germline <b>APC</b> mutation: &gt;100 adenomatous polyps, risk &gt;90% at 40 years if colectomy is not performed.</li><li><b>Chronic inflammatory bowel disease</b> (ulcerative colitis of long duration &gt;8-10 years) increases risk due to <b>dysplasia associated with colitis</b>.</li><li><b>Diet rich in red and processed meats</b>, <b>obesity</b>, <b>smoking</b> and <b>type 2 diabetes</b> are modifiable factors.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Screening: colonoscopy every 10 years from 50",
-      "title": "Screening",
-      "contentHtml": "<h2>Screening</h2><ul><li>Average population: start at <b>50 years</b> (USPSTF) or <b>45 years</b> (ACS) with <b>colonoscopy every 10 years</b>.</li><li>Alternatives: <b>fecal occult blood immunochemistry (FIT)</b> annually, <b>flexible sigmoidoscopy</b> every 5 years + FIT every 3 years, or <b>CT colonography</b> every 5 years.</li><li>Colonoscopy allows detection and resection of adenomatous polyps (secondary prevention).</li><li>In a first-degree family history with CRC: start at age 40 or 10 years before the youngest case.</li></ul>"
+      "foco": "Clinical presentation symptoms",
+      "title": "Clinical presentation symptoms",
+      "contentHtml": "<h2>Clinical presentation symptoms</h2><ul><li><b>Rectorhae</b> and <b>change in bowel habit</b> (>3 weeks) are the most frequent; <b>tenesmus</b> and <b>string stools</b> suggest rectal tumor.</li><li><b>Unexplained iron deficiency anemia</b> in men or postmenopausal women requires ruling out right CRC (more silent tumors).</li><li><b>Abdominal pain</b> type of colic, <b>feeling of incomplete evacuation</b> and <b>involuntary weight loss</b> are warning signs.</li><li><b>Intestinal obstruction</b> (vomiting, bloating, constipation) or <b>perforation</b> are urgent presentations with a poor prognosis.</li><li><b>left CRC</b> usually gives early obstructive symptoms; the <b>right</b> presents with anemia and palpable mass.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Lynch syndrome and familial adenomatous polyposis",
-      "title": "Hereditary syndromes",
-      "contentHtml": "<h2>Hereditary syndromes</h2><ul><li><b>Lynch syndrome</b> (HNPCC): mutation in DNA repair genes (<b>MLH1, MSH2, MSH6, PMS2</b>); causes <5% CRC; is characterized by microsatellite instability (MSI-H).</li><li><b>Amsterdam II criteria</b>: ≥3 relatives with CRC or associated cancer (endometrium, ovary, etc.) in two generations, one <50 years old.</li><li><b>Familial adenomatous polyposis (FAP)</b>: mutation in <b>APC</b>; >100 colorectal adenomas; CRC risk >90% at age 40 if prophylactic colectomy is not performed. </li><li>In FAP, screening with <b>annual colonoscopy from age 10-12</b>.</li></ul>"
+      "foco": "Most frequent anatomical location",
+      "title": "Anatomical location",
+      "contentHtml": "<h2>Most common anatomical location</h2><ul><li>The <b>sigmoid colon</b> is the most common location (25-30% of all CRCs).</li><li>The <b>rectum</b> represents 30-35% overall if the rectosigmoid junction is included; in men it is more common.</li><li>The <b>right colon</b> (cecum and ascending) is more common in patients >70 years old and in <b>Lynch syndrome</b>.</li><li>The distribution has shifted towards the right colon in recent decades, possibly due to the use of <b>aspirin</b> and <b>screening</b>.</li><li>Serrated polyps Sessile</b> are preferentially located in the <b>right colon</b> and have a carcinogenic pathway due to <b>BRAF</b> mutated.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Most frequent location: rectum and sigma",
-      "title": "Anatomical location",
-      "contentHtml": "<h2>Anatomical location</h2><ul><li>The most common location is <b>rectum and sigmoid</b> (~55% of cases).</li><li>In Western countries, the majority of CRC are left (distal to the splenic flexure).</li><li>Right colon cancer (cecum, ascending colon) is more common in women and the elderly; It is usually exophytic and produces iron deficiency anemia. </li><li>Left cancer tends to be infiltrative/stenotic, manifesting with a change in intestinal habit and obstruction.</li></ul>"
+      "foco": "Fecal occult blood screening",
+      "title": "Fecal occult blood screening",
+      "contentHtml": "<h2>Screening with fecal occult blood</h2><ul><li><b>SOHi (fecal occult blood immunochemistry)</b> is the recommended population screening test; detects <b>human hemoglobin</b> with a threshold >10-20 µg/g of feces, without dietary restriction.</li><li><b>SOHg (guaiac)</b> requires a diet without red meat or vitamin C; Its sensitivity is lower (50-60% vs. 80-85% for immunochemistry). </li><li>It is performed <b>every 1-2 years</b> in adults aged 50-75 years with average risk; if it is positive, <b>colonoscopy</b> is indicated.</li><li>The <b>stool DNA test (Cologuard)</b> combines detection of <b>KRAS</b> and <b>BMP3/NDRG4 methylation</b> with SOHi; Sensitivity 92% for CRC, but lower specificity (87%). </li><li><b>SOHi</b> reduces mortality from CRC by 15-33% in randomized studies.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Clinical presentation: rectal bleeding and habit change",
-      "title": "Clinical presentation",
-      "contentHtml": "<h2>Clinical presentation</h2><ul><li><b>Rectal bleeding</b> (hematochezia or rectal bleeding) is the most common symptom in rectal and sigma cancer.</li><li><b>Changes in bowel habits</b>: constipation alternating with diarrhea, tenesmus, sensation of incomplete evacuation.</li><li>Colic-like abdominal pain, distension, and involuntary weight loss are signs of the disease. advanced. </li><li>Intestinal obstruction</b> is more common in left tumors; <b>perforation</b> is a surgical emergency.</li></ul>"
+      "foco": "Colonoscopy as gold standard",
+      "title": "Gold standard colonoscopy",
+      "contentHtml": "<h2>Colonoscopy as the gold standard</h2><ul><li>Colonoscopy is the <b>gold standard</b> for diagnosis and treatment of premalignant lesions; sensitivity &gt;95% for CRC.</li><li>Allows <b>biopsy</b>, <b>polypectomy</b> and <b>Indian ink tattoo</b> for surgical localization.</li><li>The <b>adenoma detection rate (ADT)</b> should be &ge;25% in men and &ge;15% in women as a quality indicator.</li><li>The <b>interval screening</b>if normal colonoscopy is <b>10 years</b>; if 1-2 low-grade tubular adenomas <10 mm are found, it is repeated after 5-10 years.</li><li>Adequate <b>bowel preparation</b> (Boston &ge;6 or Ottawa &lt;7) is essential; <b>incomplete colonoscopy</b> (due to poor preparation or stenosis) requires <b>CT colonography</b> or <b>virtual colonoscopy</b>.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Right colon cancer: iron deficiency anemia",
-      "title": "Right colon cancer",
-      "contentHtml": "<h2>Right colon cancer</h2><ul><li>It typically presents with <b>iron deficiency anemia</b> due to chronic hidden bleeding (mixed, non-visible stools).</li><li>Right tumors are more exophytic and voluminous, with less tendency to obstruct early.</li><li><b>colonoscopy</b> is the diagnostic method; If there is de novo iron deficiency anemia in >50 years, right CRC must be ruled out.</li><li>Histologically, they are usually <b>mucinous</b> or with microsatellite instability (MSI-H).</li></ul>"
+      "foco": "TNM and Dukes staging",
+      "title": "TNM and Dukes staging",
+      "contentHtml": "<h2>TNM and Dukes staging</h2><ul><li>The <b>TNM</b> (AJCC 8th ed.) is the standard system: <b>T1</b> invades submucosa, <b>T2</b> muscularis propria, <b>T3</b> subserosa, <b>T4</b> perforates peritoneum/neighboring organs.</li><li><b>N1</b>: 1-3 regional ganglia; <b>N2</b>: &ge;4 ganglia. <b>lymphovascular invasion</b> worsens the prognosis.</li><li><b>Dukes A</b> = <b>T1-2N0M0</b> (limited to wall); <b>Dukes B</b> = <b>T3-4N0M0</b>; <b>Dukes C</b> = any T, N+; <b>Dukes D</b> = M1.</li><li>The <b>Dukes</b> is still used in some contexts but the <b>TNM</b> is mandatory for therapeutic decisions.</li><li>The <b>pathological staging</b> requires &ge;12 lymph nodes examined to be adequate.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "TNM staging and lymph nodes",
-      "title": "TNM staging",
-      "contentHtml": "<h2>TNM staging</h2><ul><li><b>TNM (AJCC 8th edition)</b>: Tis (intramucosal), T1 (submucosa), T2 (muscular propria), T3 (subserosa/pericolonic fat), T4a (visceral peritoneum), T4b (adjacent organs).</li><li><b>N0</b>: no nodes; <b>N1</b>: 1-3 nodes; <b>N2</b>: ≥4 nodes.</li><li><b>M1a</b>: metastasis to an organ; <b>M1b</b>: >1 organ; <b>M1c</b>: peritoneal metastases.</li><li>Nodal evaluation requires <b>≥12 nodes</b> analyzed for adequate staging.</li></ul>"
+      "foco": "Tumor markers CEA and CA 19-9",
+      "title": "Tumor markers CEA and CA 19-9",
+      "contentHtml": "<h2>Tumor markers CEA and CA 19-9</h2><ul><li>The <b>CEA</b> (carcinoembryonic antigen) has 60-80% sensitivity in CRC, but low specificity; It is not used for screening. </li><li>It is used for <b>post-treatment monitoring</b>: if it rises after surgery, it suggests recurrence; normal value &lt;5 ng/mL.</li><li><b>CA 19-9</b> is less sensitive (40-50%) and is elevated in left colon tumors and liver metastases; also in pancreatitis and cholestasis. </li><li>Preoperative elevation of CEA</b> is associated with a worse prognosis; if &gt;10 ng/mL, higher risk of relapse.</li><li>Routine <b>CA 19-9</b> is not recommended; It is used in combination with <b>CEA</b> for monitoring metastatic disease. </li></ul>"
     },
     {
       "order": 8,
-      "foco": "CEA as a tumor marker and monitoring",
-      "title": "CEA",
-      "contentHtml": "<h2>CEA</h2><ul><li><b>CEA (carcinoembryonic antigen)</b>: serum glycoprotein; It is not diagnostic, but useful in post-treatment follow-up. </li><li>Normal value <b><5 ng/mL</b>; Preoperative elevation is associated with a worse prognosis. </li><li>It is measured every 3-6 months for 2-3 years, then every 6-12 months up to 5 years. </li><li>If there is persistent elevation of <b>CEA</b> postcolectomy, suspect recurrence; indicate <b>colonoscopy</b> and <b>thoracic-abdomino-pelvic CT</b>.</li></ul>"
+      "foco": "Surgical treatment according to stage",
+      "title": "Surgical treatment according to stage",
+      "contentHtml": "<h2>Surgical treatment according to stage</h2><ul><li><b>Stage 0 (Tis)</b>: complete endoscopic polypectomy; if positive margins, local resection.</li><li><b>Stage I (T1-2N0M0)</b>: <b>segmental colectomy</b> with regional lymphadenectomy (minimum 12 nodes).</li><li><b>Stage II (T3-4N0M0)</b>: curative surgery; adjuvant treatment with chemotherapy only if high risk (T4, obstruction, perforation, poor differentiation). resectable liver/pulmonary, <b>en bloc resection</b> or <b>two-stage resection</b>; if not, palliation with systemic chemotherapy.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Surgical treatment: colectomy with lymphadenectomy",
-      "title": "Surgical treatment",
-      "contentHtml": "<h2>Surgical treatment</h2><ul><li><b>colectomy with lymphadenectomy</b> is the curative treatment for localized CRC (stages I-III).</li><li>Oncological resection: proximal and distal margins ≥5 cm; central vascular ligation; <b>lymphadenectomy</b> that includes regional nodes (≥12).</li><li>In rectal cancer, <b>total mesorectal resection (TME)</b> is standard to reduce local recurrence.</li><li>Laparoscopic approach is not inferior to open surgery in oncological terms.</li></ul>"
+      "foco": "Adjuvant chemotherapy in stage III",
+      "title": "Adjuvant chemotherapy in stage III",
+      "contentHtml": "<h2>Adjuvant chemotherapy in stage III</h2><ul><li>Indicated in all <b>stage III</b> (N+) after curative surgery; reduces relapse by 30-40%.</li><li>Standard regimen: <b>FOLFOX</b> (5-FU, leucovorin, oxaliplatin) or <b>CAPOX</b> (capecitabine + oxaliplatin) for 6 months.</li><li>In patients > 70 years or with comorbidities, <b>5-FU/leucovorin</b> can be used. alone or capecitabine monotherapy. Stage II microsatellite instability (MSI-H) contraindicates adjuvant 5-FU (no benefit, possible harm); in stage III, it is used the same but with <b>checkpoint inhibitors</b> under investigation. </li><li>Oxaliplatin</b> causes cumulative peripheral neuropathy; if &ge;grade 2 appears, it is suspended.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Adjuvant chemotherapy in stage III",
-      "title": "Adjuvant chemotherapy",
-      "contentHtml": "<h2>Adjuvant chemotherapy</h2><ul><li>Indicated in <b>stage III</b> (positive nodes) and in high-risk stage II (T4, perforation, poor differentiation, <12 nodes).</li><li>Standard regimen: <b>FOLFOX</b> (5-FU, leucovorin, oxaliplatin) for 6 months; alternative <b>CAPOX</b> (capecitabine + oxaliplatin). </li><li>In patients >70 years of age, the benefit of oxaliplatin is limited; consider <b>5-FU/LV</b> or capecitabine as monotherapy.</li><li>In MSI-H stage II tumors, adjuvant <b>5-FU</b> is not recommended (no benefit, it could even be deleterious).</li></ul>"
+      "foco": "Liver metastases and resection",
+      "title": "Liver metastases and resection",
+      "contentHtml": "<h2>Liver metastases and resection</h2><ul><li><b>Liver metastases</b> are the most common (40-50% of CRC); Surgical resection offers 5-year survival of 40-60%.</li><li>Resectability criteria: <b>metastases limited to the liver</b>, <b>preserved liver function</b>, <b>R0 resection</b> (free margins) preserving at least 30% of parenchyma.</li><li>If not initially resectable, <b>conversion chemotherapy</b> (FOLFOX/FOLFIRI + anti-EGFR if RAS wild-type) can reduce size and allow surgery.</li><li><b>radiofrequency</b> or <b>microwave</b> ablation is an alternative for <3 cm unresectable lesions.</li><li>Preoperative <b>CEA</b> >200 ng/mL and extrahepatic disease are poor prognostic factors.</li></ul>"
     },
     {
       "order": 11,
-      "foco": "Liver metastases: resection and chemotherapy",
-      "title": "Liver metastases",
-      "contentHtml": "<h2>Liver metastases</h2><ul><li>The liver is the most common site of metastasis (portal route).</li><li><b>Liver resection</b> with curative intent is possible if there are <3 nodules, liver disease limited to one lobe, and preserved liver function.</li><li>Perioperative chemotherapy: <b>FOLFOX</b> or <b>FOLFIRI</b> (irinotecan) ± biologics (bevacizumab, cetuximab if native RAS). </li><li>5-year survival after resection of liver metastases reaches 40-50%.</li></ul>"
+      "foco": "Lynch syndrome and polyposis",
+      "title": "Lynch syndrome and polyposis",
+      "contentHtml": "<h2>Lynch syndrome and polyposis</h2><ul><li><b>Lynch syndrome</b>: germline mutation in <b>MLH1/MSH2/MSH6/PMS2</b> or deletion of <b>EPCAM</b>; tumors with <b>MSI-H</b> and loss of IHC expression.</li><li>Amsterdam II criteria: &ge;3 relatives with CRC or associated cancer (endometrium, ovary, ureter), &ge;2 generations, 1 diagnosed &lt;50 years old.</li><li><b>Familial adenomatous polyposis (FAP)</b>: &gt;100 adenomatous polyps; <b>APC</b> mutation; risk of CRC &gt;90% at age 40; requires <b>prophylactic colectomy</b> (proctocolectomy or total colectomy with ileal pouch).</li><li><b>Attenuated PAF</b>: &lt;100 polyps, late presentation; management with endoscopic surveillance every 1-2 years.</li><li>In <b>Lynch</b>, colonoscopy begins at 20-25 years every 1-2 years; in <b>PAF</b>, at 10-12 years old.</li></ul>"
     },
     {
       "order": 12,
-      "foco": "Post-treatment follow-up: colonoscopy and CEA",
-      "title": "Follow-up",
-      "contentHtml": "<h2>Follow-up</h2><ul><li><b>Colonoscopy</b> one year after surgery (if complete preoperative colonoscopy was not performed, do it after 3-6 months).</li><li>If normal, repeat after 3 years, then every 5 years.</li><li><b>CEA</b> every 3-6 months for 3 years, then every 6-12 months until 5 years.</li><li><b>CT thoraco-abdomino-pelvic</b> annually for 3-5 years in patients at high risk of recurrence (high-risk stage III or II).</li></ul>"
+      "foco": "Post-treatment follow-up and recurrence",
+      "title": "Post-treatment follow-up and recurrence",
+      "contentHtml": "<h2>Post-treatment follow-up and recurrence</h2><ul><li>After curative surgery, <b>CEA</b> every 3-6 months for 2 years, then every 6 months up to 5 years.</li><li><b>Colonoscopy</b> one year after surgery; if normal, repeat after 3 years, then every 5 years.</li><li><b>CT of the chest-abdomen-pelvis</b> annually for 3-5 years to detect liver/pulmonary metastases.</li><li><b>local recurrence</b> occurs in 5-10% (more in the rectum); the <b>distant</b> (liver, lung) in 30-40%.</li><li>If <b>CEA</b> rises without visible lesion, perform <b>PET-CT</b> or <b>colonoscopy</b>; if resectable metastasis is confirmed, surgery with curative intent. </li></ul>"
     }
   ]
 }
