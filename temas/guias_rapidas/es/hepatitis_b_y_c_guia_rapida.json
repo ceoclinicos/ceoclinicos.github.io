@@ -1,0 +1,77 @@
+{
+  "id": "hepatitis_b_y_c",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Marcadores serológicos Hepatitis B",
+      "title": "Marcadores serológicos VHB",
+      "contentHtml": "<h2>Marcadores serológicos Hepatitis B</h2><ul><li><b>HBsAg</b>: marcador de infección activa (aguda/crónica); persiste &gt;6 meses define cronicidad.</li><li><b>Anti-HBs</b>: anticuerpo neutralizante; detectable tras infección resuelta o vacunación (&gt;10 UI/mL = protección).</li><li><b>Anti-HBc IgG</b>: infección pasada; <b>Anti-HBc IgM</b>: infección aguda (ventana serológica).</li><li><b>HBeAg</b>: replicación activa y alta infectividad; <b>Anti-HBe</b>: seroconversión (mutante precore).</li><li><b>ADN VHB</b>: carga viral; confirma replicación y guía tratamiento (&gt;2000 UI/mL en HBeAg-).</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Período de ventana Hepatitis B",
+      "title": "Período de ventana VHB",
+      "contentHtml": "<h2>Período de ventana Hepatitis B</h2><ul><li>Intervalo entre desaparición de <b>HBsAg</b> y aparición de <b>Anti-HBs</b>.</li><li>Único marcador detectable en esta fase: <b>Anti-HBc IgM</b> (infección aguda).</li><li>Duración típica: 2–6 semanas; puede prolongarse en infecciones subclínicas.</li><li>Trampa examen: paciente con hepatitis aguda, HBsAg negativo, Anti-HBs negativo → solicitar <b>Anti-HBc IgM</b>.</li><li>Si se omite, falso diagnóstico de hepatitis no VHB.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Mutante precore Hepatitis B",
+      "title": "Mutante precore VHB",
+      "contentHtml": "<h2>Mutante precore Hepatitis B</h2><ul><li>Mutación G1896A en región precore del VHB, impide producción de <b>HBeAg</b>.</li><li>Fenotipo: <b>HBeAg negativo</b>, <b>Anti-HBe positivo</b>, pero replicación activa (ADN VHB elevado).</li><li>Asociado a genotipo D (Mediterráneo, Asia); mayor riesgo de hepatitis fulminante y cirrosis.</li><li>Diagnóstico: sospechar si HBeAg(-) con carga viral &gt;2000 UI/mL y ALT elevada.</li><li>Tratamiento: mismos antivirales que VHB HBeAg+ (tenofovir/entecavir).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Vacunación Hepatitis B",
+      "title": "Vacunación Hepatitis B",
+      "contentHtml": "<h2>Vacunación Hepatitis B</h2><ul><li>Esquema 3 dosis (0-1-6 meses); vía IM en deltoides.</li><li>Respuesta: <b>Anti-HBs &gt;10 UI/mL</b> 1–2 meses tras última dosis.</li><li>No respondedores: repetir ciclo completo; si persiste sin respuesta, descartar infección oculta (HBsAg, ADN VHB).</li><li>Dosis: adultos 20 µg (10 µg niños); <b>Engerix-B</b> o <b>Recombivax</b>.</li><li>Población diana: recién nacidos, contactos sexuales, personal sanitario, VIH, diálisis.</li><li>Post-exposición: inmunoglobulina VHB + vacuna (primeras 12–24h).</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Tratamiento Hepatitis B crónica",
+      "title": "Tratamiento VHB crónica",
+      "contentHtml": "<h2>Tratamiento Hepatitis B crónica</h2><ul><li>Indicación: ADN VHB &gt;2000 UI/mL + ALT elevada (o fibrosis ≥F2).</li><li>Primera línea: <b>Tenofovir disoproxil</b> (300 mg/día) o <b>Entecavir</b> (0.5 mg/día); ambos con alta barrera genética.</li><li>Alternativa: <b>Tenofovir alafenamida</b> (25 mg/día) en pacientes con riesgo renal/óseo.</li><li>Duración: HBeAg+ hasta seroconversión durable (≥12 meses consolidación); HBeAg- indefinido.</li><li>No usar interferón en cirrosis descompensada; evitar lamivudina por resistencia.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Genotipos Hepatitis C",
+      "title": "Genotipos VHC",
+      "contentHtml": "<h2>Genotipos Hepatitis C</h2><ul><li>7 genotipos principales (1–7); <b>genotipo 1</b> es el más prevalente global (≈46%).</li><li>Genotipo 1b: más común en Europa/América; genotipo 3: asociado a esteatosis hepática y mayor riesgo de cirrosis.</li><li>Genotipo 2 y 3: mejor respuesta a interferón (era pre-AAD); hoy todos tratables con AAD.</li><li>Genotipo 4: frecuente en África/Medio Oriente; genotipo 5 y 6: regiones específicas.</li><li>Determinación: necesaria para elegir régimen AAD y duración (8–12 semanas).</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "ARN y carga viral Hepatitis C",
+      "title": "ARN VHC y carga viral",
+      "contentHtml": "<h2>ARN y carga viral Hepatitis C</h2><ul><li><b>ARN-VHC</b> cuantitativo: confirma infección activa; detectable desde 1–2 semanas post-exposición.</li><li>Unidad: UI/mL; carga viral &lt;800,000 UI/mL = baja; ≥800,000 UI/mL = alta (relevante en genotipo 1 y 4 en era interferón).</li><li>Respuesta viral sostenida (<b>RVS</b>): ARN-VHC indetectable 12 semanas tras finalizar tratamiento (cura virológica).</li><li>Monitorización: basal, semana 4, fin de tratamiento y RVS12.</li><li>Carga viral no predice fibrosis pero sí respuesta al tratamiento (AAD: eficacia &gt;95% independiente de carga).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Genotipo 1 y resistencia",
+      "title": "Genotipo 1 y resistencia VHC",
+      "contentHtml": "<h2>Genotipo 1 y resistencia</h2><ul><li><b>Genotipo 1</b>: requiere AAD con pangenotípicos o específicos (ej. ledipasvir/sofosbuvir para genotipo 1).</li><li>Resistencia asociada a mutaciones en NS5A (ej. Y93H, L31M) y NS3/4A (Q80K en genotipo 1a).</li><li><b>Q80K</b>: reduce sensibilidad a simeprevir; cribar antes de usar en genotipo 1a.</li><li>Régimen actual: glecaprevir/pibrentasvir (8 semanas) o sofosbuvir/velpatasvir (12 semanas) evitan test de resistencia.</li><li>Fallo a AAD: genotipificar y realizar test de resistencia para rescate.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Antivirales acción directa Hepatitis C",
+      "title": "AAD Hepatitis C",
+      "contentHtml": "<h2>Antivirales acción directa Hepatitis C</h2><ul><li>Clases: inhibidores NS5B (sofosbuvir), NS5A (velpatasvir, pibrentasvir), NS3/4A (glecaprevir, voxilaprevir).</li><li>Pangenotípicos: <b>sofosbuvir/velpatasvir</b> (12 semanas), <b>glecaprevir/pibrentasvir</b> (8 semanas sin cirrosis).</li><li>Contraindicaciones: interacción con amiodarona (bradicardia), rifampicina, hierba de San Juan.</li><li>Eficacia: RVS &gt;95% en todos los genotipos; ajuste en insuficiencia renal (evitar sofosbuvir si TFG &lt;30 mL/min).</li><li>Duración: 8–12 semanas; cirrosis descompensada: 12 semanas con ribavirina.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Cribado Hepatitis C población riesgo",
+      "title": "Cribado VHC",
+      "contentHtml": "<h2>Cribado Hepatitis C población riesgo</h2><ul><li>Población diana: baby boomers (1945–1965), usuarios drogas IV, VIH+, hemodiálisis, trasplantados, hijos de madres VHC+.</li><li>Test inicial: <b>anti-VHC</b> (ELISA); si positivo, confirmar con <b>ARN-VHC</b> (carga viral).</li><li>Anti-VHC negativo pero sospecha alta (inmunosupresión): solicitar ARN-VHC directo.</li><li>Cribado universal: recomendado al menos una vez en adultos (CDC 2020).</li><li>Periodicidad: anual en usuarios drogas activos o VIH+ con prácticas de riesgo.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Coinfección VIH-VHC",
+      "title": "Coinfección VIH-VHC",
+      "contentHtml": "<h2>Coinfección VIH-VHC</h2><ul><li>Prevalencia: 25–30% de VIH+ tienen VHC (especialmente usuarios drogas IV).</li><li>Progresión acelerada a cirrosis y hepatocarcinoma; mayor mortalidad hepática.</li><li>Tratamiento: AAD con <b>sofosbuvir/velpatasvir</b> (12 semanas) sin ajuste de TAR; vigilar interacción con TAF y tenofovir.</li><li>Evitar <b>ribavirina</b> si posible por anemia; no usar interferón.</li><li>TAR: preferir <b>dolutegravir</b> o <b>raltegravir</b> para evitar hepatotoxicidad por nevirapina/efavirenz.</li><li>Meta: tratar VHC independientemente de CD4; RVS similar a monoinfectados (&gt;95%).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Hepatitis C y trasplante hepático",
+      "title": "VHC y trasplante hepático",
+      "contentHtml": "<h2>Hepatitis C y trasplante hepático</h2><ul><li>Indicación: cirrosis descompensada o hepatocarcinoma VHC+.</li><li>Tratar VHC antes del trasplante si MELD &lt;20 y tiempo en lista; si no, post-trasplante.</li><li>Régimen post-TH: AAD pangenotípicos (sofosbuvir/velpatasvir ± ribavirina) 12 semanas, con monitorización de función renal e interacción con inmunosupresores (tacrolimus, ciclosporina).</li><li>RVS post-TH: &gt;90%; reduce riesgo de rechazo y recurrencia.</li><li>Precaución: ajustar dosis de <b>tacrolimus</b> por inhibición de CYP3A4 por glecaprevir/pibrentasvir.</li></ul>"
+    }
+  ]
+}

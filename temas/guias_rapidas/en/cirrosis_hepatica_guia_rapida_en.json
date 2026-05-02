@@ -1,0 +1,77 @@
+{
+  "id": "liver_cirrhosis",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Child-Pugh classification",
+      "title": "Child-Pugh: criteria and scoring",
+      "contentHtml": "<h2>Child-Pugh Classification</h2><ul><li>Evaluates <b>bilirubin</b>, <b>albumin</b>, <b>prothrombin time (INR)</b>, <b>ascites</b> and <b>hepatic encephalopathy</b>; each parameter scores 1-3.</li><li>Total score: <b>Child A (5-6 points)</b>, <b>Child B (7-9 points)</b>, <b>Child C (10-15 points)</b>.</li><li>Prognostic and surgical utility: <b>Child A</b> good surgical risk; <b>Child C</b> relative contraindication for liver resection.</li><li><b>Trap:</b> ascites and encephalopathy are graded clinically (absent/mild/moderate or grade 1-2 vs 3-4).</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Portal hypertension and esophageal varices",
+      "title": "Portal hypertension: management of varicose veins",
+      "contentHtml": "<h2>Portal hypertension and esophageal varices</h2><ul><li><b>Portal hypertension</b> defined by hepatic venous pressure gradient (HVPG) &gt;5 mmHg; clinically significant when HVPG &gt;10 mmHg.</li><li><b>Esophageal varices</b>: screening by endoscopy upon diagnosis of cirrhosis; if Child B/C or decompensation, repeat every 1-2 years.</li><li>Primary prophylaxis: <b>propranolol</b> or <b>carvedilol</b> (dose adjusted to HR 55-60 bpm) or endoscopic ligation if contraindication or large varicose veins (grade II/III).</li><li>Acute hemorrhage: <b>terlipressin</b> + <b>ceftriaxone</b> 1 g/day + endoscopic ligation.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Ascites: diagnosis by paracentesis",
+      "title": "Diagnostic paracentesis: analysis of ascites",
+      "contentHtml": "<h2>Ascites: diagnosis by paracentesis</h2><ul><li>Indication: de novo ascites or acute decompensation. <b>serum-ascites albumin gradient (SAG) is measured</b> = serum albumin − ascites albumin.</li><li><b>SAG &gt;1.1 g/dL</b> indicates portal hypertension (cirrhosis, heart failure); <b>GASA <1.1 g/dL</b> suggests peritoneal cause (tuberculosis, carcinomatosis).</li><li>Cell count: <b>polymorphonuclear cells (PMN) ≥250 cells/μL</b> defines spontaneous bacterial peritonitis.</li><li><b>Trap:</b> in hemorrhagic ascites (red blood cells &gt;10,000/μL) subtract 1 PMN per 250 red blood cells to correct. </li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Hepatic encephalopathy and triggers",
+      "title": "Hepatic encephalopathy: triggers and management",
+      "contentHtml": "<h2>Hepatic encephalopathy and triggering factors</h2><ul><li>Common factors: <b>infection</b>, <b>gastrointestinal bleeding</b>, <b>constipation</b>, <b>diuretics</b> (hypokalemia/alkalosis), <b>sedatives</b> (benzodiazepines), <b>portosystemic shunt</b>, <b>diet hyperprotein</b>.</li><li>Acute treatment: <b>lactulose</b> orally or in enema (dose up to 3 stools/day) + <b>rifaximin</b> 550 mg every 12 hours as second line or prevention of recurrence.</li><li>Clinical grade: <b>West Haven</b> (0 to 4); grade 1-2 treatable outpatient; grade 3-4 requires hospitalization.</li><li><b>Trap:</b> rule out subdural hematoma, meningitis or sepsis before attributing to encephalopathy.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Hepatorenal syndrome",
+      "title": "Hepatorenal syndrome: criteria and treatment",
+      "contentHtml": "<h2>Hepatorenal syndrome</h2><ul><li><b>Hepatorenal syndrome (HRS)</b>: functional renal failure in advanced cirrhosis with ascites; criteria: serum creatinine &gt;1.5 mg/dL, no improvement after 2 days of stopping diuretics and expansion with albumin, without proteinuria or active sediment.</li><li>Two types: <b>SHR type 1</b> (rapid, doubling of creatinine in &lt;2 weeks) and <b>SHR type 2</b> (slow progression, refractory to diuretics).</li><li>First-line treatment: <b>terlipressin</b> (0.5-1 mg/4-6 h) + <b>albumin</b> (20-40 g/day). Alternative: <b>norepinephrine</b> + albumin.</li><li>Definitive: liver transplant.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Spontaneous bacterial peritonitis",
+      "title": "EBP: diagnosis and management",
+      "contentHtml": "<h2>Spontaneous bacterial peritonitis</h2><ul><li><b>Spontaneous bacterial peritonitis (SBP)</b>: infection of the ascitic fluid without intra-abdominal focus; diagnosis with <b>PMN ≥250 cells/μL</b> in paracentesis. </li><li>Most frequent germs: <i>E. coli</i>, <i>Klebsiella</i>, pneumococcus.</li><li>Empirical treatment: <b>cefotaxime</b> 2 g/8 h or <b>ceftriaxone</b> 2 g/day; duration 5-7 days.</li><li>Primary prophylaxis: in cirrhosis with ascites and total proteins in ascites &lt;1.5 g/dL + Child B/C or history of SBP: <b>norfloxacin</b> 400 mg/day or <b>trimethoprim-sulfamethoxazole</b>.</li><li><b>Trap:</b> always rule out appendicitis/cholecystitis (CT if doubts).</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Hepatocellular carcinoma and screening",
+      "title": "HCC: screening and diagnosis",
+      "contentHtml": "<h2>Hepatocellular carcinoma and screening</h2><ul><li>Screening in cirrhosis or chronic hepatitis B (without cirrhosis if male &gt;40 years or family history): <b>abdominal ultrasound</b> every 6 months ± <b>alpha-fetoprotein (AFP)</b>.</li><li>Non-invasive diagnosis: nodule &gt;1 cm on ultrasound with arterial enhancement pattern + lavage venous in CT/MRI (LI-RADS criteria).</li><li><b>AFP &gt;200 ng/mL</b> in cirrhotic patient suggests HCC, but is not diagnostic in isolation.</li><li>Staging: <b>BCLC</b> (Barcelona Clinic Liver Cancer) treatment guide: resection/ablation (stage 0-A), chemoembolization (B), sorafenib/lenvatinib (C).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Acute alcoholic hepatitis and Maddrey score",
+      "title": "Alcoholic hepatitis: Maddrey score",
+      "contentHtml": "<h2>Acute alcoholic hepatitis and Maddrey score</h2><ul><li><b>Maddrey score (DF)</b> = 4.6 × (patient TP − control TP) + serum bilirubin (mg/dL). <b>DF ≥32</b> indicates severe alcoholic hepatitis with high mortality (30-50% at 28 days).</li><li>Treatment if DF ≥32 or encephalopathy: <b>prednisolone</b> 40 mg/day orally for 28 days (or <b>pentoxifylline</b> 400 mg/8 h if contraindication to corticosteroids, although current evidence controversial).</li><li>Evaluate response after 7 days with <b>Lille score</b>; &lt;0.45 = responder, &gt;0.45 = non-responder (discontinue corticosteroids).</li><li><b>Trap:</b> rule out active infection before starting corticosteroids.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Coagulopathy in cirrhosis",
+      "title": "Coagulopathy: management and testing",
+      "contentHtml": "<h2>Coagulopathy in cirrhosis</h2><ul><li>Deficiency of procoagulant factors (II, V, VII, IX, X) and anticoagulants (protein C, S, antithrombin); the INR does not reflect the true prothrombotic state. </li><li>Do not routinely correct INR before low-risk procedures (paracentesis, endoscopy). For major procedures, consider <b>fresh frozen plasma</b> or <b>prothrombin complex</b> if INR &gt;2.5.</li><li><b>Trap:</b> cirrhosis is a state of <b>rebalanced coagulopathy</b>; the thrombotic risk (DVT, pulmonary embolism) is greater than the hemorrhagic risk in stable patients. </li><li>Anticoagulation: low molecular weight heparins are safe if platelets &gt;50,000/μL.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Hypersplenism and thrombocytopenia",
+      "title": "Hypersplenism: thrombocytopenia and management",
+      "contentHtml": "<h2>Hypersplenism and thrombocytopenia</h2><ul><li><b>Hypersplenism</b>: splenic sequestration of platelets and leukocytes due to portal hypertension; It causes thrombocytopenia (usually &gt;50,000/μL) and leukopenia.</li><li>No specific treatment is required if platelets &gt;20,000-30,000/μL and without bleeding. For procedures: <b>thrombopoietin agonists</b> (<b>avatrombopag</b> 60 mg/day for 5 days or <b>lusutrombopag</b>) approved before invasive procedures.</li><li><b>Splenectomy</b> or <b>transjugular intrahepatic portosystemic shunt (TIPS)</b> reserved for cases refractory.</li><li><b>Trap:</b> rule out immune thrombocytopenic purpura (ITP) if platelets &lt;20,000/μL or insufficient response to agonists.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Causes of acute decompensation",
+      "title": "Acute decompensation: causes and management",
+      "contentHtml": "<h2>Causes of acute decompensation</h2><ul><li>Main: <b>infection</b> (SBP, pneumonia, UTI), <b>digestive bleeding</b> due to varicose veins, <b>portal thrombosis</b>, <b>alcoholic hepatitis</b>, <b>drugs</b> (NSAIDs, sedatives), <b>surgery</b>, <b>dehydration</b> (excessive diuretics, vomiting).</li><li>Evaluate: paracentesis, blood cultures, endoscopy, Doppler ultrasound (portal thrombosis).</li><li>Management: treat specific cause, albumin support (if paracentesis &gt;5 L), avoid nephrotoxics.</li><li><b>Acute-on-chronic liver failure (ACLF)</b>: acute decompensation with organ failure (renal, respiratory, circulatory); defines prognosis according to CLIF-C score. </li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Liver transplant: MELD criteria",
+      "title": "MELD: scoring and prioritization",
+      "contentHtml": "<h2>Liver transplant: MELD criteria</h2><ul><li><b>MELD</b> (Model for End-Stage Liver Disease) = 9.57 × ln(Creatinine mg/dL) + 3.78 × ln(Bilirubin mg/dL) + 11.2 × ln(INR) + 6.43; score from 6 to 40.</li><li>Used to prioritize liver transplant: higher score = higher mortality at 3 months without transplant.</li><li><b>MELD-Na</b> incorporates serum sodium (improves prediction of mortality on the waiting list).</li><li>Indications: decompensated cirrhosis (refractory ascites, recurrent SBP, recurrent encephalopathy, HRS, HCC within Milan criteria), liver failure acute.</li><li><b>Trap:</b> MELD &gt;15 is typical threshold to consider transplant; Transplantation is contraindicated in active diseases (uncontrolled infection, extrahepatic cancer, active alcohol abuse). </li></ul>"
+    }
+  ]
+}

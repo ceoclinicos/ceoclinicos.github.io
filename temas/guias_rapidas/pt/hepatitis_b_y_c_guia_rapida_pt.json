@@ -1,0 +1,77 @@
+{
+  "id": "hepatite_b_and_c",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Marcadores sorológicos Hepatite B",
+      "title": "Marcadores sorológicos do HBV",
+      "contentHtml": "<h2>Marcadores sorológicos Hepatite B</h2><ul><li><b>HBsAg</b>: marcador de infecção ativa (aguda/crônica); persiste >6 meses define cronicidade.</li><li><b>Anti-HBs</b>: anticorpo neutralizante; detectável após infecção resolvida ou vacinação (&gt;10 UI/mL = proteção).</li><li><b>IgG Anti-HBc</b>: infecção passada; <b>Anti-HBc IgM</b>: infecção aguda (janela sorológica).</li><li><b>HBeAg</b>: replicação ativa e alta infectividade; <b>Anti-HBe</b>: soroconversão (mutante pré-core).</li><li><b>DNA HBV</b>: carga viral; confirma a replicação e orienta o tratamento (&gt;2.000 UI/mL em HBeAg-).</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Período de janela da hepatite B",
+      "title": "Período de janela VHB",
+      "contentHtml": "<h2>Período de janela para hepatite B</h2><ul><li>Intervalo entre o desaparecimento de <b>HBsAg</b> e o aparecimento de <b>Anti-HBs</b>.</li><li>Único marcador detectável nesta fase: <b>Anti-HBc IgM</b> (infecção aguda).</li><li>Duração típica: 2–6 semanas; Pode ser prolongado em infecções subclínicas.</li><li>Exame armadilha: paciente com hepatite aguda, HBsAg negativo, Anti-HBs negativo → solicitar <b>Anti-HBc IgM</b>.</li><li>Se omitido, falso diagnóstico de hepatite não-HBV.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Mutante pré-core da hepatite B",
+      "title": "Mutante pré-núcleo do HBV",
+      "contentHtml": "<h2>Mutante pré-core da hepatite B</h2><ul><li>A mutação G1896A na região pré-core do HBV impede a produção de <b>HBeAg</b>.</li><li>Fenótipo: <b>HBeAg negativo</b>, <b>Anti-HBe positivo</b>, mas replicação ativa (DNA de HBV alto).</li><li>Associado ao genótipo D (Mediterrâneo, Ásia); risco aumentado de hepatite fulminante e cirrose.</li><li>Diagnóstico: suspeitar se HBeAg(-) com carga viral&gt;2.000 UI/mL e ALT elevada.</li><li>Tratamento: mesmos antivirais que HBV HBeAg+ (tenofovir/entecavir).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Vacinação contra hepatite B",
+      "title": "Vacinação contra hepatite B",
+      "contentHtml": "<h2>Vacinação contra Hepatite B</h2><ul><li>esquema de 3 doses (0-1-6 meses); via IM nos deltóides.</li><li>Resposta: <b>Anti-HBs &gt;10 UI/mL</b> 1–2 meses após a última dose.</li><li>Não respondedores: repetir o ciclo completo; Se persistir sem resposta, descartar infecção oculta (HBsAg, HBV DNA).</li><li>Dose: adultos 20 µg (10 µg crianças); <b>Engerix-B</b> ou <b>Recombivax</b>.</li><li>População-alvo: recém-nascidos, contatos sexuais, profissionais de saúde, HIV, diálise. </li><li>Pós-exposição: imunoglobulina HBV + vacina (primeiras 12–24 horas).</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Tratamento da hepatite B crônica",
+      "title": "Tratamento crônico do HBV",
+      "contentHtml": "<h2>Tratamento Hepatite B Crônica</h2><ul><li>Indicação: DNA HBV &gt;2.000 UI/mL + ALT elevada (ou fibrose ≥F2).</li><li>Primeira linha: <b>Tenofovir disoproxil</b> (300 mg/dia) ou <b>Entecavir</b> (0,5 mg/dia); ambos com alta barreira genética.</li><li>Alternativa: <b>Tenofovir alafenamida</b> (25 mg/dia) em pacientes com risco renal/ósseo.</li><li>Duração: HBeAg+ até soroconversão durável (≥12 meses de consolidação); HBeAg- indefinido.</li><li>Não usar interferon na cirrose descompensada; evite lamivudina devido à resistência. </li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Genótipos da hepatite C",
+      "title": "Genótipos do VHC",
+      "contentHtml": "<h2>Genótipos da Hepatite C</h2><ul><li>7 genótipos principais (1–7); <b>genótipo 1</b> é o mais prevalente globalmente (≈46%).</li><li>Genótipo 1b: mais comum na Europa/América; genótipo 3: associado à esteatose hepática e maior risco de cirrose.</li><li>Genótipo 2 e 3: melhor resposta ao interferon (era pré-AAD); hoje todos são tratáveis ​​com AAD.</li><li>Genótipo 4: comum na África/Oriente Médio; genótipo 5 e 6: regiões específicas. </li><li>Determinação: necessária para escolher o regime e duração do AAD (8–12 semanas).</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "RNA e carga viral Hepatite C",
+      "title": "RNA do HCV e carga viral",
+      "contentHtml": "<h2>RNA e carga viral Hepatite C</h2><ul><li><b>HCV-RNA</b> quantitativo: confirma infecção ativa; detectável 1–2 semanas após a exposição.</li><li>Unidade: UI/mL; carga viral &lt;800.000 UI/mL = baixa; ≥800.000 UI/mL = alta (relevante nos genótipos 1 e 4 na era do interferon).</li><li>Resposta viral sustentada (<b>RVS</b>): RNA-HCV indetectável 12 semanas após a conclusão do tratamento (cura virológica).</li><li>Monitoramento: linha de base, semana 4, final do tratamento e RVS12.</li><li>A carga viral não prevê fibrose, mas sim. prever a resposta ao tratamento. (AAD: eficiência >95% independente da carga).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Genótipo 1 e resistência",
+      "title": "Genótipo 1 e resistência ao HCV",
+      "contentHtml": "<h2>Genótipo 1 e resistência</h2><ul><li><b>Genótipo 1</b>: requer AADs com pangenotípicos ou específicos (por exemplo, ledipasvir/sofosbuvir para o genótipo 1).</li><li>Resistência associada a mutações em NS5A (por exemplo, Y93H, L31M) e NS3/4A (Q80K no genótipo 1a).</li><li><b>Q80K</b>: reduz a sensibilidade ao simeprevir; Triagem antes do uso no genótipo 1a. </li><li>Esquema atual: glecaprevir/pibrentasvir (8 semanas) ou sofosbuvir/velpatasvir (12 semanas) evitar testes de resistência. </li><li>Falha na DAA: genotipar e realizar testes de resistência de resgate. </li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Antivirais de ação direta Hepatite C",
+      "title": "DAA Hepatite C",
+      "contentHtml": "<h2>Antivirais de ação direta Hepatite C</h2><ul><li>Classes: Inibidores NS5B (sofosbuvir), NS5A (velpatasvir, pibrentasvir), NS3/4A (glecaprevir, voxilaprevir). </li><li>Pangenotípico: <b>sofosbuvir/velpatasvir</b> (12 semanas), <b>glecaprevir/pibrentasvir</b> (8 semanas sem cirrose).</li><li>Contra-indicações: interação com amiodarona (bradicardia), rifampicina, erva de São João. </li><li>Eficácia: RVS&gt;95% em todos os genótipos; ajuste na insuficiência renal (evitar sofosbuvir se TFG &lt;30 mL/min).</li><li>Duração: 8–12 semanas; cirrose descompensada: 12 semanas com ribavirina. </li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Rastreio da hepatite C na população de risco",
+      "title": "Rastreio do VHC",
+      "contentHtml": "<h2>Rastreio da hepatite C na população de risco</h2><ul><li>População-alvo: baby boomers (1945-1965), utilizadores de drogas intravenosas, VIH+, hemodiálise, transplantados, filhos de mães VHC+.</li><li>Teste inicial: <b>anti-HCV</b> (ELISA); se positivo, confirmar com <b>HCV-RNA</b> (carga viral).</li><li>Anti-HCV negativo, mas com alta suspeita (imunossupressão): solicitar HCV-RNA direto.</li><li>Rastreamento universal: recomendado pelo menos uma vez em adultos (CDC 2020).</li><li>Periodicidade: anual em usuários ativos de drogas ou HIV+ com práticas de risco.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Coinfecção HIV-HCV",
+      "title": "Coinfecção HIV-HCV",
+      "contentHtml": "<h2>Co-infecção HIV-HCV</h2><ul><li>Prevalência: 25–30% dos HIV+ têm HCV (especialmente usuários de drogas intravenosas).</li><li>Progressão acelerada para cirrose e carcinoma hepatocelular; maior mortalidade hepática.</li><li>Tratamento: AAD com <b>sofosbuvir/velpatasvir</b> (12 semanas) sem ajuste de TARV; monitorar a interação com TAF e tenofovir.</li><li>Evite <b>ribavirina</b> se possível devido à anemia; não use interferon.</li><li>TARV: prefira <b>dolutegravir</b> ou <b>raltegravir</b> para evitar a hepatotoxicidade da nevirapina/efavirenz.</li><li>Objetivo: tratar o VHC independentemente do CD4; RVS semelhante a pacientes monoinfectados (&gt;95%).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Hepatite C e transplante de fígado",
+      "title": "HCV e transplante de fígado",
+      "contentHtml": "<h2>Hepatite C e transplante de fígado</h2><ul><li>Indicação: cirrose descompensada ou carcinoma hepatocelular HCV+.</li><li>Tratar HCV antes do transplante se MELD &lt;20 e tempo na lista; caso contrário, pós-transplante.</li><li>Regime pós-TH: AAD pangenotípicos (sofosbuvir/velpatasvir ± ribavirina) 12 semanas, com monitoramento da função renal e interação com imunossupressores (tacrolimus, ciclosporina).</li><li>RVS pós-TH: &gt;90%; reduz o risco de rejeição e recorrência.</li><li>Cuidado: ajuste a dose de <b>tacrolimus</b> devido à inibição do CYP3A4 pelo glecaprevir/pibrentasvir.</li></ul>"
+    }
+  ]
+}

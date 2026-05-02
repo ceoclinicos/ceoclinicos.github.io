@@ -1,0 +1,77 @@
+{
+  "id": "hepatitis_b_and_c",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Serological markers Hepatitis B",
+      "title": "HBV serological markers",
+      "contentHtml": "<h2>Serological markers Hepatitis B</h2><ul><li><b>HBsAg</b>: marker of active infection (acute/chronic); persists &gt;6 months defines chronicity.</li><li><b>Anti-HBs</b>: neutralizing antibody; detectable after resolved infection or vaccination (&gt;10 IU/mL = protection).</li><li><b>Anti-HBc IgG</b>: past infection; <b>Anti-HBc IgM</b>: acute infection (serological window).</li><li><b>HBeAg</b>: active replication and high infectivity; <b>Anti-HBe</b>: seroconversion (precore mutant).</li><li><b>HBV DNA</b>: viral load; confirms replication and guides treatment (&gt;2000 IU/mL in HBeAg-).</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Hepatitis B window period",
+      "title": "VHB window period",
+      "contentHtml": "<h2>Hepatitis B window period</h2><ul><li>Interval between disappearance of <b>HBsAg</b> and appearance of <b>Anti-HBs</b>.</li><li>Only detectable marker in this phase: <b>Anti-HBc IgM</b> (acute infection).</li><li>Typical duration: 2–6 weeks; It can be prolonged in subclinical infections.</li><li>Exam trap: patient with acute hepatitis, HBsAg negative, Anti-HBs negative → request <b>Anti-HBc IgM</b>.</li><li>If omitted, false diagnosis of non-HBV hepatitis.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Hepatitis B precore mutant",
+      "title": "HBV precore mutant",
+      "contentHtml": "<h2>Hepatitis B precore mutant</h2><ul><li>G1896A mutation in the HBV precore region, prevents <b>HBeAg</b> production.</li><li>Phenotype: <b>HBeAg negative</b>, <b>Anti-HBe positive</b>, but active replication (high HBV DNA).</li><li>Associated with genotype D (Mediterranean, Asia); increased risk of fulminant hepatitis and cirrhosis.</li><li>Diagnosis: suspect if HBeAg(-) with viral load &gt;2000 IU/mL and elevated ALT.</li><li>Treatment: same antivirals as HBV HBeAg+ (tenofovir/entecavir).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Hepatitis B vaccination",
+      "title": "Hepatitis B vaccination",
+      "contentHtml": "<h2>Hepatitis B Vaccination</h2><ul><li>3 dose schedule (0-1-6 months); via IM in deltoids.</li><li>Response: <b>Anti-HBs &gt;10 IU/mL</b> 1–2 months after last dose.</li><li>Non-responders: repeat complete cycle; If it persists without response, rule out occult infection (HBsAg, HBV DNA).</li><li>Dose: adults 20 µg (10 µg children); <b>Engerix-B</b> or <b>Recombivax</b>.</li><li>Target population: newborns, sexual contacts, healthcare personnel, HIV, dialysis. </li><li>Post-exposure: HBV immunoglobulin + vaccine (first 12–24 hours).</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Chronic Hepatitis B Treatment",
+      "title": "Chronic HBV treatment",
+      "contentHtml": "<h2>Treatment Chronic Hepatitis B</h2><ul><li>Indication: HBV DNA &gt;2000 IU/mL + elevated ALT (or fibrosis ≥F2).</li><li>First line: <b>Tenofovir disoproxil</b> (300 mg/day) or <b>Entecavir</b> (0.5 mg/day); both with high genetic barrier.</li><li>Alternative: <b>Tenofovir alafenamide</b> (25 mg/day) in patients with renal/bone risk.</li><li>Duration: HBeAg+ until durable seroconversion (≥12 months consolidation); HBeAg- undefined.</li><li>Do not use interferon in decompensated cirrhosis; avoid lamivudine due to resistance. </li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Hepatitis C Genotypes",
+      "title": "HCV genotypes",
+      "contentHtml": "<h2>Hepatitis C Genotypes</h2><ul><li>7 main genotypes (1–7); <b>genotype 1</b> is the most prevalent globally (≈46%).</li><li>Genotype 1b: most common in Europe/America; genotype 3: associated with hepatic steatosis and higher risk of cirrhosis.</li><li>Genotype 2 and 3: better response to interferon (pre-AAD era); today all treatable with DAAs.</li><li>Genotype 4: common in Africa/Middle East; genotype 5 and 6: specific regions. </li><li>Determination: necessary to choose AAD regimen and duration (8–12 weeks).</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "RNA and viral load Hepatitis C",
+      "title": "HCV RNA and viral load",
+      "contentHtml": "<h2>RNA and viral load Hepatitis C</h2><ul><li><b>HCV-RNA</b> quantitative: confirms active infection; detectable from 1–2 weeks post-exposure.</li><li>Unit: IU/mL; viral load &lt;800,000 IU/mL = low; ≥800,000 IU/mL = high (relevant in genotypes 1 and 4 in the interferon era).</li><li>Sustained viral response (<b>SVR</b>): HCV-RNA undetectable 12 weeks after completing treatment (virological cure).</li><li>Monitoring: baseline, week 4, end of treatment and SVR12.</li><li>Viral load does not predict fibrosis but does predict response to treatment. (AAD: efficiency &gt;95% independent of load).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Genotype 1 and resistance",
+      "title": "Genotype 1 and HCV resistance",
+      "contentHtml": "<h2>Genotype 1 and resistance</h2><ul><li><b>Genotype 1</b>: requires DAAs with pangenotypic or specific (e.g. ledipasvir/sofosbuvir for genotype 1).</li><li>Resistance associated with mutations in NS5A (e.g. Y93H, L31M) and NS3/4A (Q80K in genotype 1a).</li><li><b>Q80K</b>: reduces sensitivity to simeprevir; Screen before use in genotype 1a. </li><li>Current regimen: glecaprevir/pibrentasvir (8 weeks) or sofosbuvir/velpatasvir (12 weeks) avoid resistance testing. </li><li>Failure to AAD: genotype and perform rescue resistance testing. </li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Direct action antivirals Hepatitis C",
+      "title": "AAD Hepatitis C",
+      "contentHtml": "<h2>Direct action antivirals Hepatitis C</h2><ul><li>Classes: NS5B (sofosbuvir), NS5A (velpatasvir, pibrentasvir), NS3/4A (glecaprevir, voxilaprevir) inhibitors. </li><li>Pangenotypic: <b>sofosbuvir/velpatasvir</b> (12 weeks), <b>glecaprevir/pibrentasvir</b> (8 weeks without cirrhosis).</li><li>Contraindications: interaction with amiodarone (bradycardia), rifampicin, St. John's wort. </li><li>Efficacy: SVR &gt;95% in all genotypes; adjustment in renal failure (avoid sofosbuvir if GFR &lt;30 mL/min).</li><li>Duration: 8–12 weeks; decompensated cirrhosis: 12 weeks with ribavirin. </li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Hepatitis C screening at risk population",
+      "title": "HCV screening",
+      "contentHtml": "<h2>Hepatitis C screening at risk population</h2><ul><li>Target population: baby boomers (1945–1965), IV drug users, HIV+, hemodialysis, transplant recipients, children of HCV+ mothers.</li><li>Initial test: <b>anti-HCV</b> (ELISA); if positive, confirm with <b>HCV-RNA</b> (viral load).</li><li>Anti-HCV negative but high suspicion (immunosuppression): request direct HCV-RNA.</li><li>Universal screening: recommended at least once in adults (CDC 2020).</li><li>Periodicity: annual in active drug users or HIV+ with risky practices.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "HIV-HCV co-infection",
+      "title": "HIV-HCV co-infection",
+      "contentHtml": "<h2>HIV-HCV co-infection</h2><ul><li>Prevalence: 25–30% of HIV+ have HCV (especially IV drug users).</li><li>Accelerated progression to cirrhosis and hepatocellular carcinoma; higher liver mortality.</li><li>Treatment: DAA with <b>sofosbuvir/velpatasvir</b> (12 weeks) without adjustment of ART; monitor interaction with TAF and tenofovir.</li><li>Avoid <b>ribavirin</b> if possible due to anemia; do not use interferon.</li><li>ART: prefer <b>dolutegravir</b> or <b>raltegravir</b> to avoid hepatotoxicity from nevirapine/efavirenz.</li><li>Goal: treat HCV regardless of CD4; SVR similar to monoinfected patients (&gt;95%).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Hepatitis C and liver transplant",
+      "title": "HCV and liver transplant",
+      "contentHtml": "<h2>Hepatitis C and liver transplantation</h2><ul><li>Indication: decompensated cirrhosis or HCV+ hepatocellular carcinoma.</li><li>Treat HCV before transplant if MELD &lt;20 and time on list; if not, post-transplant.</li><li>Post-LT regimen: pangenotypic DAAs (sofosbuvir/velpatasvir ± ribavirin) 12 weeks, with monitoring of renal function and interaction with immunosuppressants (tacrolimus, cyclosporine).</li><li>Post-LT SVR: &gt;90%; reduces risk of rejection and recurrence.</li><li>Caution: adjust <b>tacrolimus</b> dose due to CYP3A4 inhibition by glecaprevir/pibrentasvir.</li></ul>"
+    }
+  ]
+}
