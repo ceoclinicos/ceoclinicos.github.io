@@ -1,0 +1,77 @@
+{
+  "id": "pancreatic_cancer",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Risk factor: smoking",
+      "title": "Smoking as a risk factor",
+      "contentHtml": "<h2>Smoking</h2><ul><li>Smoking is the most relevant environmental risk factor, with a relative risk of 2-3 vs. non-smokers. </li><li>The risk persists up to 10-15 years after cessation; dose-dependent (no. pack-years).</li><li>Mechanism: smoke carcinogens (N-nitrosamines) induce <b>KRAS</b> mutation and damage in <b>CDKN2A</b>.</li><li>Synergy with type 2 diabetes mellitus and obesity, increasing the risk up to 5-6 times.</li><li>In <b>ENARM/MIR</b>: they ask that smoking explains up to 25-30% of cases. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "KRAS mutation in adenocarcinoma",
+      "title": "KRAS mutation",
+      "contentHtml": "<h2>KRAS mutation</h2><ul><li>Present in &gt;90% of pancreatic ductal adenocarcinomas; point mutation in codon 12 (most common G12D). </li><li>It leads to constitutive activation of the <b>MAPK</b> pathway, independent of EGFR stimulation.</li><li>It is associated with resistance to anti-EGFR therapies (cetuximab, panitumumab); absolute contraindication in <b>KRAS</b> mutated tumors.</li><li>Detection in biopsy or cystic fluid (CPAM) is a diagnostic criterion for high risk of malignancy.</li><li>Under examination: differentiate from <b>BRAF</b> mutation (rare in pancreas, &lt;5%), which also activates MAPK.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "CA 19-9 as a tumor marker",
+      "title": "CA 19-9",
+      "contentHtml": "<h2>CA 19-9</h2><ul><li><b>CA 19-9</b> (sialyl-Lewis a) is the serum marker of choice in pancreatic adenocarcinoma, sensitivity 70-90% and specificity 80-90%.</li><li>It is not diagnostic on its own; it is elevated in cholestasis, pancreatitis and biliary tumors; false positive if obstructive jaundice.</li><li>Clinical threshold: &gt;37 U/mL suggests malignancy; levels &gt;1000 U/mL indicate unresectable or metastatic disease.</li><li>Useful for monitoring response to chemotherapy and detecting post-Whipple recurrence (elevation &gt;2 times the nadir).</li><li>Patients with Lewis a-/b- phenotype (7% of the population) do not express <b>CA 19-9</b> → false negatives.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Obstructive jaundice in head",
+      "title": "obstructive jaundice",
+      "contentHtml": "<h2>Obstructive jaundice in the pancreatic head</h2><ul><li>Pancreatic head tumors compress the distal common bile duct, causing early <b>obstructive jaundice</b> (vs. body/tail that begins with pain and weight loss).</li><li>Laboratory: total bilirubin &gt;3 mg/dL, elevated alkaline phosphatase, elevated GGT, pattern cholestatic.</li><li>Initial ultrasound: intra- and extrahepatic bile duct dilation (double duct sign: dilation of common bile duct and pancreatic duct).</li><li>MR cholangiopancreatography (MRCP) or <b>helical CT</b> confirm level of obstruction and tumor extension.</li><li>ERCP with preoperative biliary stent indicated only if bilirubin &gt;15 mg/dL, cholangitis or surgical delay &gt;2 weeks.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Triad: pain, weight loss, jaundice",
+      "title": "classical triad",
+      "contentHtml": "<h2>Triad: pain, weight loss, jaundice</h2><ul><li>The classic <b>triad</b> of abdominal <b>pain (epigastric, radiating to the back), <b>unexplained weight loss</b> and <b>jaundice</b> appears in 70% of patients at diagnosis.</li><li>Pain: typically dull, continuous, worse with recumbency and improves with leaning forward (celiac plexus infiltration).</li><li>Weight loss: multifactorial (anorexia, malabsorption due to exocrine pancreatic insufficiency, tumor cachexia).</li><li>Jaundice: painless, progressive, with choluria and hypocolia, without fever (vs. cholangitis).</li><li>On examination: the presence of the complete triad suggests locally advanced or metastatic disease (stage III/IV).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Courvoisier-Terrier sign",
+      "title": "Courvoisier-Terrier sign",
+      "contentHtml": "<h2>Courvoisier-Terrier sign</h2><ul><li>Definition: palpable, distended and non-painful gallbladder in a patient with obstructive jaundice, suggestive of pancreatic neoplasia.</li><li>Pathophysiology: chronic distal obstruction of the common bile duct due to pancreatic head tumor → the gallbladder is distended by retained bile without inflammation.</li><li>Contrast with choledocholithiasis: the gallbladder is usually contracted or inflamed (painful) due to acute obstruction.</li><li>Low sensitivity (&lt;30%) but specificity &gt;90% for malignancy; classic sign in surgical semiology.</li><li>In <b>ENARM/EUNACOM</b>: they ask about association with pancreatic cancer vs. Distal cholangiocarcinoma or ampulloma. </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Klatskin tumor in hepatic hilum",
+      "title": "Klatskin tumor",
+      "contentHtml": "Klatskin tumor (negative Courvoisier sign).</li><li><b>MRI with cholangiography</b> and percutaneous transhepatic cholangiography (CTP) are key for staging and planning resection.</li><li>Marker: <b>CA 19-9</b> can be elevated, but so can <b>CEA</b> and <b>CA 125</b>.</li><li>Surgical resection (hepatectomy + lymphadenectomy) is the only curative treatment; prognosis slightly better than pancreatic adenocarcinoma. </li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Helical CT staging",
+      "title": "CT staging",
+      "contentHtml": "<h2>Staging with helical CT</h2><ul><li>Triphasic <b>helical CT</b> (arterial, pancreatic and portal phase) is the standard for local and distant staging.</li><li>Unresectability criteria: invasion of the superior mesenteric artery (&gt;180°), celiac trunk, common hepatic artery, or distant metastasis.</li><li>Venous involvement (superior mesenteric/portal vein) is not an absolute contraindication if it can be reconstructed.</li><li>Sensitivity to detect liver metastases &gt;90%; pathological lymph nodes if &gt;10 mm or necrosis.</li><li>In <b>ENARM</b>: they ask that triphasic helical CT is the first study of choice for staging (not MRI or PET).</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Surgical resection (Whipple)",
+      "title": "Whipple",
+      "contentHtml": "<h2>Surgical resection (Whipple)</h2><ul><li>Whipple <b>surgery</b> (pancreatoduodenectomy) is the curative treatment for resectable pancreatic head tumors (stage I-II). </li><li>It includes en bloc resection of the pancreatic head, duodenum, gallbladder, distal common bile duct and, depending on the technique, gastric antrum (classic Whipple) or preservation of pylorus (traverse).</li><li>Resectability criteria: absence of arterial invasion (&lt;180°), hepatic or peritoneal metastases, and good functional status.</li><li>Perioperative mortality &lt;5% in high-volume centers; morbidity 30-50% (pancreatic fistula, delayed gastric emptying). </li><li>5-year post-Whipple survival with adjuvant treatment: 20-25% (vs. &lt;10% overall).</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Chemotherapy: FOLFIRINOX or gemcitabine",
+      "title": "Chemotherapy",
+      "contentHtml": "<h2>Chemotherapy: FOLFIRINOX or gemcitabine</h2><ul><li>In metastatic disease, <b>FOLFIRINOX</b> (5-FU, leucovorin, irinotecan, oxaliplatin) is first line in patients with ECOG 0-1, median survival 11.1 months vs. 6.8 months with gemcitabine.</li><li><b>Gemcitabine</b> + nab-paclitaxel is alternative in patients with ECOG 0-2 (median 8.5 months).</li><li>In adjuvant treatment, modified <b>FOLFIRINOX</b> (without 5-FU bolus) is standard after Whipple (PRODIGE 24 study).</li><li>In unresectable locally advanced disease, induction chemotherapy (FOLFIRINOX) followed by evaluation for radiotherapy or surgical rescue.</li><li>In <b>ENARM</b>: they ask that <b>FOLFIRINOX</b> is superior to <b>gemcitabine</b> in response and survival, but with greater toxicity (neutropenia, diarrhea).</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Frequent liver metastases",
+      "title": "Liver metastases",
+      "contentHtml": "<h2>Hepatic metastases</h2><ul><li>The liver is the most common site of hematogenous metastasis (70-80% of patients with metastatic disease).</li><li>Portal pathway from the pancreas → the tumor drains directly to the portal venous system.</li><li>On <b>helical CT</b> portal phase they appear as hypodense lesions, often multiple and bilobar.</li><li>The The presence of liver metastases classifies as stage IV (unresectable) and contraindicates curative surgery. </li><li>Liver biopsy guided by ultrasound or CT confirms the diagnosis if there is doubt; Immunohistochemistry: CK7+/CK20- (similar to primary). </li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Prognosis: 5-year survival <10%",
+      "title": "Forecast",
+      "contentHtml": "<h2>Prognosis</h2><ul><li>The 5-year overall survival is &lt;10% (less than 5% if all stages are included).</li><li>Poor prognostic factors: advanced stage at diagnosis (&gt;80% unresectable), <b>CA 19-9</b> &gt;1000 U/mL, positive lymph nodes, R1/R2 margins, poor differentiation.</li><li>In patients resected with negative margins (R0) and negative nodes, 5-year survival reaches 30-40%. </li><li>The median survival in metastatic disease with chemotherapy is 8-12 months; without treatment, &lt;6 months.</li><li>In <b>ENARM</b>: they ask that the prognosis of pancreatic adenocarcinoma is the worst among gastrointestinal tumors.</li></ul>"
+    }
+  ]
+}

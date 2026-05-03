@@ -2019,6 +2019,128 @@
         "#medicina_interna"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "pancreatitis_crónica",
+      "titulo": "Pancreatitis Crónica",
+      "descripcion": "Enfermedad inflamatoria progresiva del páncreas que causa daño irreversible, dolor abdominal y disfunción exocrina y endocrina.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#pancreatitis_cronica",
+        "#medicina_interna",
+        "#pancreas",
+        "#dolor_abdominal"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "hemorragia_digestiva_alta",
+      "titulo": "Hemorragia Digestiva Alta",
+      "descripcion": "Abordaje diagnóstico y manejo de la hemorragia del tracto gastrointestinal superior, incluyendo causas, clasificación y tratamiento.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#hemorragia_digestiva",
+        "#endoscopia",
+        "#urgencias",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "cáncer_de_páncreas",
+      "titulo": "Cáncer de Páncreas",
+      "descripcion": "Tema completo sobre el cáncer de páncreas: epidemiología, factores de riesgo, diagnóstico, estadificación, tratamiento y pronóstico.",
+      "pdfUrl": "",
+      "precioPildoras": "caro",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oncologia",
+        "#cancer_de_pancreas",
+        "#gastroenterologia",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "hemorragia_digestiva_baja",
+      "titulo": "Hemorragia Digestiva Baja",
+      "descripcion": "Aborda el diagnóstico y manejo de sangrados originados en el colon, recto y ano, incluyendo causas, evaluación endoscópica y tratamiento.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#hemorragia_digestiva",
+        "#medicina_interna",
+        "#urgencias"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "síndrome_de_intestino_irritable",
+      "titulo": "Síndrome de Intestino Irritable",
+      "descripcion": "Trastorno funcional del intestino que cursa con dolor abdominal, distensión y cambios en el hábito intestinal. Incluye criterios diagnósticos, manejo dietético y farmacológico.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#sindrome_de_intestino_irritable",
+        "#medicina_interna",
+        "#funcional_digestivo"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "uveítis_anterior",
+      "titulo": "Uveítis anterior",
+      "descripcion": "Inflamación de la capa media del ojo (úvea) que afecta al iris y cuerpo ciliar, frecuentemente asociada a enfermedades autoinmunes o infecciosas.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#uveitis_anterior",
+        "#inflamacion_ocular",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "queratitis_herpética",
+      "titulo": "Queratitis herpética",
+      "descripcion": "Infección corneal causada por el virus del herpes simple, que puede llevar a cicatrices y pérdida de visión si no se trata adecuadamente.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#queratitis_herpetica",
+        "#infeccion_corneal",
+        "#herpes_simple"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "queratitis_bacteriana",
+      "titulo": "Queratitis bacteriana",
+      "descripcion": "Infección corneal bacteriana que requiere diagnóstico y tratamiento urgente para evitar complicaciones visuales.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#queratitis_bacteriana",
+        "#infeccion_cornea",
+        "#urgencias_oftalmologicas"
+      ],
+      "tieneGuia": false
     }
   ]
 }

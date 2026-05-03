@@ -1,0 +1,77 @@
+{
+  "id": "hemorragia_digestiva_superior",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Causa mais comum: úlcera péptica",
+      "title": "Úlcera péptica como principal causa",
+      "contentHtml": "<h2>Causa mais comum: úlcera péptica</h2><ul><li>A <b>úlcera péptica</b> duodenal é a causa mais comum de HDA (40-50% dos casos), seguida pela úlcera gástrica.</li><li>A fisiopatologia envolve um desequilíbrio entre fatores agressivos (ácido, <i>H. pylori</i>, AINEs) e fatores defensivos (muco, bicarbonato, prostaglandinas).</li><li>O sangramento ocorre devido à erosão de um vaso arterial submucoso; O <b>risco de ressangramento</b> está relacionado ao tamanho da úlcera (>2 cm) e à localização na superfície posterior do bulbo duodenal ou menor curvatura gástrica.</li><li><b>DDx:</b> sempre descarte <b>varizes esofágicas</b> em pacientes com doença hepática, e <b>Mallory-Weiss</b> se houver histórico de vômitos repetidos.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Classificação: varicosa vs não varicosa",
+      "title": "Classificação clínica e terapêutica",
+      "contentHtml": "<h2>Classificação: varicosa vs não varicosa</h2><ul><li>AGIB é dividida em <b>varizes</b> (20% dos casos) e <b>não varicosas</b> (80%). A primeira está associada à hipertensão portal (cirrose, trombose portal). </li><li>A UGIB varicosa apresenta maior mortalidade (15-20%) e ressangramento precoce, exigindo tratamento com agentes vasoativos (terlipressina, somatostatina) e ligadura endoscópica. </li><li>A UGIB não varicosa inclui úlcera péptica, Mallory-Weiss, gastrite erosiva, esofagite, neoplasias; o manejo inicial é feito com <b>IBP</b> e endoscopia.</li><li><b>Trap:</b> em um paciente com cirrose e HDA, não assuma automaticamente a origem das varizes; Até 50% podem apresentar sangramento não varicoso (úlcera, gastropatia portal). </li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Escala Rockall para prognóstico",
+      "title": "Escala Rockall",
+      "contentHtml": "<h2>Escala Rockall para prognóstico</h2><ul><li>A <b>escala Rockall</b> prevê mortalidade após HDA; É calculado com idade, choque, comorbidades, diagnóstico endoscópico e sinais de sangramento ativo. </li><li>Pontuação: idade (&lt;60=0, 60-79=1, &gt;79=2), choque (PA sistólica &gt;100 sem taquicardia=0, &gt;100 com FC &gt;100=1, &lt;100=2), comorbidades (nenhuma=0, insuficiência cardíaca/rim/fígada=2, disseminada neoplasia=3).</li><li>Pontuação endoscópica: Mallory-Weiss/sem lesão=0, outras lesões=1, neoplasia=2; sangramento ativo/coágulo aderente=2.</li><li><b>Limiar:</b> Rockall ≥5 indica alto risco de mortalidade; Rockall 0-2 tem mortalidade &lt;0,5%.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Pontuação Glasgow-Blatchford para risco",
+      "title": "Pontuação Glasgow-Blatchford",
+      "contentHtml": "<h2>Pontuação de Glasgow-Blatchford para risco</h2><ul><li>A <b>pontuação de Glasgow-Blatchford</b> (GBS) avalia a necessidade de intervenção (transfusão, endoscopia, cirurgia) em HDA, sem necessidade de endoscopia inicial.</li><li>Variáveis: uréia (&gt;6,5 mmol/L=2, &gt;8=3, &gt;10=4, &gt;25=6), Hb (homem &lt;120 g/L=3, &lt;100=6; mulher &lt;100=1), PA sistólica &lt;100=3, HR&gt;100=1, melena=1, síncope=2, doença hepática=2, insuf. cardíaco=2.</li><li><b>Limite:</b> GBS=0 permite manejo ambulatorial seguro (risco de intervenção &lt;2%). GBS ≥12 indica alto risco de morte ou ressangramento.</li><li><b>Catch:</b> GBS não requer endoscopia, ao contrário de Rockall; útil na triagem. </li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Endoscopia em 24 horas",
+      "title": "Cronometragem endoscópica",
+      "contentHtml": "<h2>Endoscopia dentro de 24 horas</h2><ul><li><b>Endoscopia dentro de 24 horas</b> é indicada em todas as HDA estáveis, com maior benefício se realizada nas primeiras 12 horas em pacientes de alto risco (GBS ≥12, Rockall ≥5).</li><li>Em HDA com instabilidade hemodinâmica (PA sistólica <100, HR &gt;100, Hb &lt;7 g/dL) são necessárias reanimação prévia e endoscopia urgente (&lt;6 horas) se a suspeita de sangramento ativo persistir.</li><li><b>Principais descobertas:</b> a endoscopia precoce (&lt;12h) reduz a internação hospitalar e a necessidade de transfusão, mas não reduz a mortalidade se o paciente estiver estável.</li><li><b>Armadilha:</b> na HDA por varizes, a endoscopia deve ser realizada o mais rápido possível após a estabilização; atraso >12 horas aumenta a mortalidade.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Terapia endoscópica: adrenalina + cauterização",
+      "title": "Terapia endoscópica combinada",
+      "contentHtml": "<h2>Terapia endoscópica: adrenalina + cautério</h2><ul><li>A <b>terapia endoscópica</b> combinada (injeção de adrenalina 1:10.000 + cautério térmico ou mecânico) é o padrão para úlceras com sangramento ativo ou vaso visível sem sangramento.</li><li><b>adrenalina</b> produz vasoconstrição e tamponamento hidrostático; 0,5-2 mL são injetados em 4 quadrantes ao redor do vidro (dose total <20 mL). </li><li>O <b>cautério</b> (sonda bipolar ou aquecedor) aplica calor para coagular o vidro; usado em combinação para reduzir ressangramento (taxa &lt;15%).</li><li><b>Alternativa:</b> clipes endoscópicos (hemoclipes) são igualmente eficazes; em úlceras gástricas de difícil acesso, prefere-se o cautério.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Ligadura elástica de varizes esofágicas",
+      "title": "Ligadura elástica",
+      "contentHtml": "<h2>A ligadura elástica em varizes esofágicas</h2><ul><li><b>A ligadura elástica</b> (EVL) é a terapia endoscópica de escolha para sangramento de varizes esofágicas, com taxas de hemostasia >90%.</li><li>Faixas elásticas são aplicadas no colo das varizes; É contraindicado em varizes gástricas (preferir cianoacrilato).</li><li><b>Profilaxia:</b> após hemostasia, iniciar <b>propranolol</b> ou <b>carvedilol</b> (dose titulada para reduzir a frequência cardíaca em 25%) e repetir EVL a cada 2-4 semanas até a erradicação.</li><li><b>Trap:</b> a ligadura não deve ser realizada se o paciente apresentar sangramento. ativo enorme sem exibição; Nesse caso, use a bola Sengstaken-Blakemore como ponte. </li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Uso de inibidores da bomba de prótons",
+      "title": "PPI em HDA",
+      "contentHtml": "<h2>Uso de inibidores da bomba de prótons</h2><ul><li>Na HDA não varicosa, o <b>IBP</b> (omeprazol 80 mg em bolus IV, depois 8 mg/h em infusão contínua) reduz o ressangramento e a necessidade de cirurgia após terapia endoscópica.</li><li>A infusão contínua é mantida por 72 horas em úlceras de alto risco (Forrest Ia, Ib, IIa, IIb).</li><li>Na HDA varicosa, o IBP não é indicado rotineiramente; somente se houver suspeita de úlcera concomitante ou após ligadura (para prevenir úlceras pós-ligadura).</li><li><b>Limiar:</b> manter o pH gástrico &gt;6 para estabilizar o coágulo; o bolus de 80 mg seguido de infusão atinge esse objetivo.</li><li><b>Armadilha:</b> em sangramento ativo, não use IBP antes da endoscopia se a terapia endoscópica estiver planejada; pode mascarar o sangramento.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Antibióticos profiláticos na cirrose",
+      "title": "Antibióticos na cirrose",
+      "contentHtml": "<h2>Antibióticos profiláticos na cirrose</h2><ul><li>Em todos os pacientes cirróticos com HDA, <b>antibioterapia profilática</b> (ceftriaxona 1 g IV/24h ou norfloxacina 400 mg PO/12h) deve ser administrada por 7 dias para prevenir peritonite bacteriana espontânea e sepse.</li><li>A profilaxia reduz a incidência de infecções bacterianas em 45% a 15% e reduz a mortalidade a curto prazo.</li><li><b>Primeira linha:</b> <b>ceftriaxona</b> é preferida em pacientes com cirrose avançada (Child-Pugh C) ou em áreas com alta resistência às quinolonas.</li><li><b>Trap:</b> não atrase os antibióticos até os resultados das culturas; comece imediatamente se houver suspeita de UGIB em cirrose.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Ressangramento: preditor de mortalidade",
+      "title": "Ressangramento como preditor",
+      "contentHtml": "<h2>Ressangramento: preditor de mortalidade</h2><ul><li>Ressangramento é o principal preditor independente de mortalidade em HDA, aumentando o risco de 5% para 30-40%.</li><li>Fatores associados: úlcera &gt;2 cm, localização na superfície posterior do bulbo duodenal, choque na admissão, Hb &lt;8 g/dL, necessidade de &gt;4 unidades de transfusão.</li><li>Em UGIB varicosa, ressangramento precoce (&lt;5 dias) está associado a insuficiência hepática avançada (Child-Pugh C) e trombose portal.</li><li><b>Tratamento:</b> no caso de ressangramento após terapia endoscópica inicial, repetir a endoscopia; se não tiver sucesso, considere TIPS (derivação portossistêmica intra-hepática) ou cirurgia.</li><li><b>Limite:</b> novo sangramento nas primeiras 72 horas dobra a mortalidade.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Sinais de alto risco: vaso visível, coágulo",
+      "title": "Sinais endoscópicos de alto risco",
+      "contentHtml": "<h2>Sinais de alto risco: vaso visível, coágulo</h2><ul><li>A classificação <b>Forrest</b> define sinais endoscópicos: Ia (sangramento por jato ativo), Ib (sangramento ativo em folha), IIa (vaso visível sem sangramento), IIb (coágulo aderido), IIc (mancha plana), III (base limpa).</li><li>Os sinais de alto risco são Forrest Ia, Ib, IIa e IIb; requerem terapia endoscópica e <b>IBP</b> intravenoso.</li><li><b>Principal descoberta:</b> um <b>vaso visível</b> (Forrest IIa) tem um risco de 50% de ressangramento sem tratamento; a terapia combinada reduz para 15%. </li><li>Um <b>coágulo aderido</b> (Forrest IIb) deve ser removido com lavagem para determinar a lesão subjacente; Se houver vaso visível, ele é tratado.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Indicação para cirurgia: falha endoscópica",
+      "title": "Cirurgia HDA",
+      "contentHtml": "<h2>Indicação para cirurgia: falha endoscópica</h2><ul><li><b>A cirurgia</b> é indicada na HDA quando a terapia endoscópica falha (ressangramento persistente após duas tentativas) ou em sangramento maciço incontrolável.</li><li>Na úlcera péptica, a cirurgia de escolha é a <b>gastrectomia</b> com ressecção da úlcera ou <b>ligadura do vaso sangrante</b> (gastrotomia e sutura).</li><li>Na UGIB varicosa refratária, <b>bypass portossistêmico intra-hepático transjugular (TIPS)</b> é a alternativa à cirurgia; a cirurgia de shunt (porto-cava) é reservada para falha do TIPS.</li><li><b>Trap:</b> não indicar cirurgia se o paciente tiver cirrose avançada (Child-Pugh C) sem possibilidade de transplante; considere TIPS ou manejo paliativo.</li></ul>"
+    }
+  ]
+}
