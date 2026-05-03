@@ -1,0 +1,77 @@
+{
+  "id": "conjuntivite",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Classificação: infeccioso, alérgico, irritante",
+      "title": "Classificação da conjuntivite",
+      "contentHtml": "<h2>Classificação da conjuntivite</h2><ul><li><b>Infecciosa:</b> bacteriana (secreção purulenta), viral (adenopatia aquosa, pré-auricular), clamídia (inclusão) ou gonococo (hiperaguda).</li><li><b>Alérgica:</b> prurido intenso, eosinófilos na raspagem conjuntival, associados a atopia.</li><li><b>Irritativo:</b> devido a agentes físicos/químicos (fumaça, cloro, corpos estranhos), sem infiltração celular significativa.</li><li><b>Fato importante:</b> a presença de folículos indica viral ou <b>clamídia</b>; papilas gigantes devido a alergias ou lentes de contato. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Conjuntivite bacteriana: secreção purulenta",
+      "title": "Conjuntivite bacteriana aguda",
+      "contentHtml": "<h2>Conjuntivite bacteriana aguda</h2><ul><li><b>Secreção purulenta abundante</b> (manhã com pálpebras coladas) é a marca registrada.</li><li>Agentes comuns: <b>Staphylococcus aureus</b>, <b>Streptococcus pneumoniae</b>, <b>Haemophilus influenzae</b>.</li><li>Primeira linha: tópico <b>moxifloxacina</b> 3-4 vezes/dia ou <b>gentamicina</b> tópica. Em crianças, evite aminoglicosídeos devido à toxicidade da córnea.</li><li><b>Armadilha ENARM:</b> não use corticosteróides tópicos na conjuntivite bacteriana não complicada (risco de perfuração da córnea se houver herpes).</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Conjuntivite viral: secreção aquosa e linfadenopatia",
+      "title": "conjuntivite viral",
+      "contentHtml": "<h2>Conjuntivite viral</h2><ul><li><b>Secreção aquosa</b> e <b>adenopatia pré-auricular</b> dolorosa são os principais achados.</li><li>Mais comuns: <b>adenovírus</b> (ceratoconjuntivite epidêmica), altamente contagiosa.</li><li>Raspagem conjuntival mostra linfócitos; não há resposta aos antibióticos.</li><li>Tratamento: medidas de higiene, lágrimas artificiais; <b>não use corticosteróides</b> na fase aguda porque eles prolongam a replicação viral.</li><li><b>Armadilha:</b> a conjuntivite hemorrágica aguda (enterovírus 70) causa hemorragias subconjuntivais.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Conjuntivite gonocócica: hiperaguda em recém-nascidos",
+      "title": "Conjuntivite gonocócica",
+      "contentHtml": "<h2>Conjuntivite gonocócica</h2><ul><li><b>Hiperaguda</b>: início <24 horas pós-parto, secreção purulenta abundante, edema palpebral intenso e quemose.</li><li>Agente: <b>Neisseria gonorrhoeae</b>; Coloração de Gram com diplococos gram-negativos intracelulares.</li><li>Profilaxia neonatal: <b>nitrato de prata</b> 1% (Credé) ou <b>eritromicina</b> tópica (mais usada atualmente).</li><li>Tratamento sistêmico: <b>ceftriaxona</b> 25-50 mg/kg IM/IV (dose única) mais lavagem com soro solução salina.</li><li><b>Armadilha:</b> A conjuntivite gonocócica pode perfurar a córnea em poucas horas; requer cultura e antibiótico sistêmico urgente.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Conjuntivite por clamídia: inclusão em adultos e neonatos",
+      "title": "Conjuntivite por clamídia",
+      "contentHtml": "<h2>Conjuntivite por clamídia</h2><ul><li>Adultos: <b>conjuntivite de inclusão</b> (sorotipos D-K de <i>Chlamydia trachomatis</i>), secreção mucopurulenta, folículos tarsais inferiores.</li><li>Recém-nascidos: aparece 5-14 dias após o parto, secreção aquosa que se torna purulenta; associada à infecção materna não tratada. </li><li>Diagnóstico: raspagem conjuntival com coloração de <b>Giemsa</b> mostra inclusões intracitoplasmáticas basofílicas.</li><li>Tratamento: <b>azitromicina</b> 1 g dose oral única em adultos; em neonatos, <b>eritromicina</b> 50 mg/kg/dia por via oral por 14 dias.</li><li><b>Armadilha:</b> não usar apenas tópico; requer tratamento sistêmico para erradicar os reservatórios.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Conjuntivite alérgica: coceira intensa e eosinófilos",
+      "title": "conjuntivite alérgica",
+      "contentHtml": "<h2>Conjuntivite alérgica</h2><ul><li><b>Prurido intenso</b> é o sintoma norteador; bilateral, sazonal ou perene.</li><li>Raspagem conjuntival: <b>eosinófilos</b> (critério diagnóstico).</li><li>Formas: sazonal (pólens), perene (ácaros), vernal (crianças, papilas gigantes no tarso superior), atópica (associada à dermatite).</li><li>Primeira linha: <b>anti-histamínicos tópicos</b> (cetirizina, olopatadina) e <b>estabilizadores de mastócitos</b> (cromoglicato).</li><li><b>Armadilha:</b> na conjuntivite vernal, use corticosteróides tópicos apenas em surtos graves devido ao risco de glaucoma e catarata.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Ceratoconjuntivite seca: deficiência lacrimal (doença de Sjögren)",
+      "title": "Ceratoconjuntivite seca",
+      "contentHtml": "<h2>Ceratoconjuntivite seca</h2><ul><li>Deficiência de filme lacrimal (aquoso ou mucina).</li><li><b>Síndrome de Sjögren</b> primária (autoanticorpos anti-Ro/La) ou secundária (artrite reumatóide, lúpus).</li><li><b>Teste de Schirmer</b> &lt;5 mm em 5 minutos é o diagnóstico; <b>coloração com fluoresceína</b> mostra pontos corneanos inferiores.</li><li>Tratamento: lágrimas artificiais sem conservantes, oclusão pontual, ciclosporina tópica 0,05%.</li><li><b>Armadilha:</b> não confundir com conjuntivite infecciosa; A secreção é mucosa filamentosa, não purulenta. </li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Conjuntivite folicular: vírus ou medicamentos (idoxuridina)",
+      "title": "Conjuntivite folicular",
+      "contentHtml": "<h2>Conjuntivite folicular</h2><ul><li>Folículos linfóides no tarso inferior: resposta imunológica a vírus ou medicamentos.</li><li>Causas virais: adenovírus, herpes simples, enterovírus; também <i>Chlamydia trachomatis</i>.</li><li>Causas farmacológicas: <b>idoxuridina</b> (antiviral tópico), <b>atropina</b>, <b>pilocarpina</b>, <b>gentamicina</b> (uso crônico).</li><li>Diagnóstico diferencial: raspagem conjuntival (linfócitos vs. eosinófilos).</li><li><b>Armadilha:</b> a conjuntivite folicular por medicamentos desaparece quando o agente é descontinuado; não requer antibióticos.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Conjuntivite papilar gigante: lentes de contato",
+      "title": "Conjuntivite papilar gigante",
+      "contentHtml": "<h2>Conjuntivite papilar gigante</h2><ul><li>Papilas >1 mm no tarso superior, associadas à intolerância a <b>lentes de contato</b> (depósitos de proteínas), próteses ou suturas.</li><li>Fisiopatologia: hipersensibilidade tipo I e IV a proteínas ou depósitos de materiais.</li><li>Sintomas: prurido, muco, intolerância ao cristalino, sensação corporal. estranho.</li><li>Tratamento: descontinuar lentes, <b>cromoglicato</b> ou <b>olopatadina</b> tópico; mudar para lentes descartáveis ​​diárias.</li><li><b>Armadilha:</b> não deve ser confundida com conjuntivite folicular; as papilas gigantes são específicas desta entidade.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Conjuntivite por herpes simples: dendritos da córnea",
+      "title": "Conjuntivite por herpes simples",
+      "contentHtml": "<h2>Conjuntivite por herpes simples</h2><ul><li>Geralmente unilateral, com vesículas na pálpebra e conjuntiva folicular.</li><li>Achado patognomônico: <b>dendritos da córnea</b> (úlcera epitelial ramificada com fluoresceína).</li><li>Pode recorrer devido à reativação do vírus latente no trigêmeo. gânglio.</li><li>Tratamento: <b>aciclovir</b> tópico 5 vezes/dia ou <b>valaciclovir</b> 500 mg oral 3 vezes/dia.</li><li><b>Armadilha:</b> corticosteróides tópicos são contraindicados na ceratite epitelial herpética (disseminação e perfuração).</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Conjuntivite neonatal: profilaxia com nitrato de prata",
+      "title": "Conjuntivite neonatal",
+      "contentHtml": "<h2>Conjuntivite neonatal</h2><ul><li>É definida como conjuntivite nas primeiras 4 semanas de vida.</li><li>Profilaxia universal ao nascimento: <b>nitrato de prata</b> 1% (método Credé) ou <b>eritromicina</b> tópica (0,5%) ou <b>tetraciclina</b> 1%.</li><li>Causa química: devido a <b>nitrato de prata</b> (conjuntivite irritativa em 24-48h, autolimitada).</li><li>Causas infecciosas: gonococo (&lt;24h), clamídia (5-14 dias), bactérias comuns (3-5 dias).</li><li><b>Armadilha:</b> toda conjuntivite neonatal requer cultura; Se houver suspeita de gonococo, trate o tratamento sistêmico imediatamente.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Diagnóstico diferencial: uveíte anterior e ceratite",
+      "title": "Diagnóstico diferencial",
+      "contentHtml": "<h2>Diagnóstico diferencial</h2><ul><li><b>Uveíte anterior:</b> dor ocular profunda, fotofobia, injeção ciliar (periquerática), pupila miótica, sem secreção; células e flare na câmara anterior.</li><li><b>Ceratite:</b> dor intensa, fotofobia, defeito epitelial (coloração com fluoresceína), pode apresentar secreção aquosa ou purulenta dependendo da causa.</li><li>Dados principais: na conjuntivite, a acuidade visual não é afetada (exceto extensão corneana); corrimento é o principal sintoma.</li><li><b>Armadilhamento:</b> a presença de dor intensa e fotofobia sugere ceratite ou uveíte; não é uma simples conjuntivite. </li></ul>"
+    }
+  ]
+}

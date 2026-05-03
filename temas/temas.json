@@ -2141,6 +2141,247 @@
         "#urgencias_oftalmologicas"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "conjuntivitis",
+      "titulo": "Conjuntivitis",
+      "descripcion": "Inflamación de la conjuntiva ocular, frecuentemente infecciosa o alérgica. Incluye diagnóstico diferencial y manejo.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#conjuntivitis",
+        "#infecciones_oculares"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "oclusión_de_la_arteria_central_de_la_retina",
+      "titulo": "Oclusión de la arteria central de la retina",
+      "descripcion": "La oclusión de la arteria central de la retina es una emergencia oftalmológica que causa pérdida súbita e indolora de la visión. Su manejo requiere diagnóstico y tratamiento rápidos para intentar recuperar el flujo sanguíneo retiniano.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#oclusion_arteria_retina",
+        "#emergencia_oftalmologica",
+        "#perdida_vision_súbita"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "miopía",
+      "titulo": "Miopía",
+      "descripcion": "Trastorno refractivo que causa visión borrosa de lejos; enfoque en diagnóstico, clasificación y manejo clínico.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#miopia",
+        "#refraccion"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "oclusión_de_la_vena_central_de_la_retina",
+      "titulo": "Oclusión de la vena central de la retina",
+      "descripcion": "Tema sobre la obstrucción del drenaje venoso retiniano, sus causas, diagnóstico y manejo clínico.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#oclusion_venosa_retiniana",
+        "#retina",
+        "#patologia_ocular"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "hipermetropía",
+      "titulo": "Hipermetropía",
+      "descripcion": "Trastorno refractivo donde el ojo no enfoca correctamente los objetos cercanos. Abarca causas, diagnóstico y tratamiento.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#hipermetropia",
+        "#refraccion_ocular"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "glaucoma_de_ángulo_abierto",
+      "titulo": "Glaucoma de ángulo abierto",
+      "descripcion": "Enfermedad ocular crónica caracterizada por daño progresivo del nervio óptico y pérdida del campo visual, asociada a presión intraocular elevada.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#glaucoma",
+        "#glaucoma_de_angulo_abierto",
+        "#presion_intraocular",
+        "#neuropatia_optica"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "astigmatismo",
+      "titulo": "Astigmatismo",
+      "descripcion": "El astigmatismo es un defecto refractivo que provoca visión borrosa o distorsionada debido a una curvatura irregular de la córnea o el cristalino.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#astigmatismo",
+        "#defecto_refractivo"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "neuropatía_óptica_isquémica",
+      "titulo": "Neuropatía óptica isquémica",
+      "descripcion": "Trastorno ocular causado por la falta de flujo sanguíneo al nervio óptico, que puede provocar pérdida súbita de la visión.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#neuropatia_optica_isquemica",
+        "#perdida_visual",
+        "#neurologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "retinopatía_diabética",
+      "titulo": "Retinopatía diabética",
+      "descripcion": "La retinopatía diabética es una complicación de la diabetes que afecta los vasos sanguíneos de la retina, pudiendo causar pérdida de visión. Este tema cubre su clasificación, diagnóstico y manejo.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#retinopatia_diabetica",
+        "#diabetes",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "neuritis_óptica",
+      "titulo": "Neuritis óptica",
+      "descripcion": "Inflamación del nervio óptico que puede causar pérdida visual aguda, a menudo asociada a esclerosis múltiple.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#neurologia",
+        "#neuritis_optica",
+        "#oftalmologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "retinopatía_hipertensiva",
+      "titulo": "Retinopatía hipertensiva",
+      "descripcion": "Estudio de las alteraciones retinianas causadas por hipertensión arterial, incluyendo clasificación, diagnóstico y manejo.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 66,
+      "etiquetas": [
+        "#oftalmologia",
+        "#hipertension_arterial",
+        "#retinopatia_hipertensiva",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "retinoblastoma_y_leucocoria",
+      "titulo": "Retinoblastoma y Leucocoria",
+      "descripcion": "Abordaje diagnóstico, clasificación y tratamiento del retinoblastoma, así como el manejo de la leucocoria como signo de alarma en pediatría.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#retinoblastoma",
+        "#leucocoria",
+        "#oncologia_pediatrica",
+        "#pediatria"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "desprendimiento_de_retina",
+      "titulo": "Desprendimiento de retina",
+      "descripcion": "El desprendimiento de retina es una emergencia oftalmológica que ocurre cuando la retina se separa de su capa subyacente, causando pérdida visual. Cubre diagnóstico, clasificación y manejo quirúrgico.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#desprendimiento_de_retina",
+        "#retina",
+        "#urgencias_oftalmologicas",
+        "#cirugia_retiniana"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "estrabismo_y_ambliopía",
+      "titulo": "Estrabismo y Ambliopía",
+      "descripcion": "Trastornos de la alineación ocular y del desarrollo visual que afectan la visión binocular y la agudeza visual.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#estrabismo",
+        "#ambliopia",
+        "#vision_binocular",
+        "#pediatria"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "degeneración_macular_asociada_a_la_edad",
+      "titulo": "Degeneración macular asociada a la edad",
+      "descripcion": "La DMAE es una enfermedad ocular crónica que afecta la mácula, causando pérdida progresiva de la visión central en adultos mayores.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#degeneracion_macular",
+        "#dmae",
+        "#vision",
+        "#geriatria"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "celulitis_orbitaria",
+      "titulo": "Celulitis orbitaria",
+      "descripcion": "Infección bacteriana de los tejidos blandos orbitarios, generalmente secundaria a sinusitis. Urgencia oftalmológica que puede comprometer la visión.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#celulitis_orbitaria",
+        "#urgencias",
+        "#infecciones",
+        "#sinusitis"
+      ],
+      "tieneGuia": false
     }
   ]
 }

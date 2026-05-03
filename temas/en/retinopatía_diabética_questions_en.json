@@ -1,117 +1,1371 @@
 {
   "questions": [
     {
-      "question": "What is the main cause of visual loss in proliferative diabetic retinopathy?",
+      "question": "What stage of diabetic retinopathy according to ETDRS presents microaneurysms and mild retinal hemorrhages?",
       "options": [
-        "macular edema",
-        "Retinal detachment",
-        "diabetic cataract",
-        "Neovascular glaucoma"
+        "moderate RDNP",
+        "Early RDP",
+        "mild NPDR",
+        "severe NPDR"
       ],
-      "correctAnswer": 1,
-      "explanation": "Diabetic macular edema is the most common cause of vision loss in patients with diabetic retinopathy, especially in the proliferative form, due to the accumulation of fluid in the macula.",
+      "correctAnswer": 3,
+      "explanation": "The ETDRS classification defines mild NPDR by the presence of at least one microaneurysm, but without more advanced stage findings such as cottony exudates or venous abnormalities.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "concept",
+        "etdrs_classification",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which of the following findings is characteristic of proliferative diabetic retinopathy according to ETDRS?",
+      "options": [
+        "Isolated microaneurysms",
+        "Retinal neovascularization",
+        "Macular hard exudates",
+        "Diffuse macular edema"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Proliferative diabetic retinopathy is defined by the presence of retinal or optic disc neovascularization, secondary to severe retinal ischemia.",
       "hashtags": [
         "ophthalmology",
         "diabetic_retinopathy",
         "clinical_table",
-        "macular_edema",
+        "neovascularization",
         "MEDICAL_TOPIC",
-        "AAO 2023"
+        ""
       ]
     },
     {
-      "question": "Which funduscopic finding is characteristic of mild nonproliferative diabetic retinopathy?",
+      "question": "Which ETDRS stage is associated with the presence of venous abnormalities such as beads or loops?",
       "options": [
-        "Multiple cottony exudates",
-        "Disc neovascularization",
-        "Extensive vitreous hemorrhage",
-        "Isolated microaneurysms"
+        "severe NPDR",
+        "Advanced RDP",
+        "mild NPDR",
+        "moderate RDNP"
       ],
-      "correctAnswer": 4,
-      "explanation": "In mild non-proliferative diabetic retinopathy, the initial and most characteristic finding is microaneurysms, which represent focal dilations of retinal capillaries.",
+      "correctAnswer": 1,
+      "explanation": "In the ETDRS classification, severe NPDR is characterized by the 4-2-1 rule: venous abnormalities in two or more quadrants, IRMA in one quadrant, or severe retinal hemorrhages.",
       "hashtags": [
         "ophthalmology",
         "diabetic_retinopathy",
         "diagnosis",
-        "microaneurysms",
+        "venous_abnormalities",
         "MEDICAL_TOPIC",
-        "AAO 2023"
+        ""
       ]
     },
     {
-      "question": "What is the first-line treatment for high-risk proliferative diabetic retinopathy?",
+      "question": "How is clinically significant macular edema defined according to ETDRS?",
       "options": [
-        "Intravitreal corticosteroids",
-        "Panretinal photocoagulation",
-        "Pars plana vitrectomy",
-        "Intravitreal injection of ranibizumab"
+        "Extensive subretinal hemorrhages",
+        "Hard exudates 1000 μm from the fovea",
+        "Retinal thickening 500 μm from the fovea",
+        "Microaneurysms in the foveal area"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Clinically significant macular edema according to ETDRS is defined as retinal thickening 500 micrometers or less from the center of the fovea, or hard exudates at that distance.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "concept",
+        "clinically_significant_macular_edema",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which of these findings does NOT correspond to non-proliferative diabetic retinopathy according to ETDRS?",
+      "options": [
+        "Microaneurysms",
+        "Iris neovascularization",
+        "retinal hemorrhages",
+        "hard exudates"
       ],
       "correctAnswer": 2,
-      "explanation": "Panretinal laser photocoagulation is the treatment of choice in high-risk proliferative diabetic retinopathy, as it reduces oxygen demand and promotes regression of neovascularization.",
+      "explanation": "Iris neovascularization is a finding of advanced proliferative diabetic retinopathy, not the nonproliferative stage according to the ETDRS classification.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "diagnosis",
+        "iris_neovascularization",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What treatment is first-line for proliferative diabetic retinopathy according to ETDRS?",
+      "options": [
+        "Intravitreal injection of corticosteroids",
+        "Pars plana vitrectomy",
+        "Panretinal laser photocoagulation",
+        "Focal laser photocoagulation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Panretinal laser photocoagulation is the treatment of choice for proliferative diabetic retinopathy, as it reduces retinal ischemia and neovascularization.",
       "hashtags": [
         "ophthalmology",
         "diabetic_retinopathy",
         "treatment",
         "panretinal_photocoagulation",
         "MEDICAL_TOPIC",
-        "AAO 2023"
+        ""
       ]
     },
     {
-      "question": "What growth factor is involved in the neovascularization of diabetic retinopathy?",
+      "question": "What HbA1c value is considered the diagnostic threshold for diabetes according to the ADA?",
       "options": [
-        "fibroblast growth factor",
-        "platelet-derived growth factor",
-        "Vascular endothelial growth factor",
-        "Epidermal growth factor"
+        "≥ 6.5%",
+        "≥ 8.0%",
+        "≥ 5.7%",
+        "≥ 7.0%"
       ],
-      "correctAnswer": 3,
-      "explanation": "Vascular endothelial growth factor (VEGF) is the main mediator of neovascularization in diabetic retinopathy, stimulating the proliferation of new abnormal vessels in the retina.",
-      "hashtags": [
-        "ophthalmology",
-        "diabetic_retinopathy",
-        "pathophysiology",
-        "vegf",
-        "MEDICAL_TOPIC",
-        "AAO 2023"
-      ]
-    },
-    {
-      "question": "What classification is used to stage diabetic retinopathy?",
-      "options": [
-        "Airlie House Rating",
-        "Jackson classification",
-        "Davis Classification",
-        "ETDRS Classification"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The ETDRS (Early Treatment Diabetic Retinopathy Study) classification is the most used to stage diabetic retinopathy, based on specific findings such as microaneurysms, hemorrhages, and neovascularization.",
+      "correctAnswer": 1,
+      "explanation": "The American Diabetes Association (ADA) establishes that an HbA1c value ≥ 6.5% is diagnostic of diabetes mellitus, based on studies that correlate this level with the risk of retinopathy.",
       "hashtags": [
         "ophthalmology",
         "diabetic_retinopathy",
         "diagnosis",
-        "etdrs_classification",
+        "criteria_ada",
+        "MEDICAL_TOPIC",
+        "ADA 2023"
+      ]
+    },
+    {
+      "question": "What is the main pathophysiological mechanism by which elevated HbA1c damages the retina?",
+      "options": [
+        "Activation of the polyol pathway",
+        "Vitreous humor degeneration",
+        "Increased intraocular pressure",
+        "Decreased blood flow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chronic hyperglycemia, reflected in elevated HbA1c, activates the polyol pathway, accumulating sorbitol in pericytes and retinal endothelial cells, leading to microvascular damage and diabetic retinopathy.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "pathophysiology",
+        "via_polioles",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What level of HbA1c is associated with a significantly increased risk of diabetic retinopathy progression?",
+      "options": [
+        "Between 7.0 and 8.4%",
+        "Between 6.0 and 6.9%",
+        "Greater than 8.5%",
+        "Less than 6.0%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Studies such as the DCCT demonstrated that an HbA1c > 8.5% drastically increases the risk of progression of diabetic retinopathy, with intensive glycemic control (HbA1c < 7%) being protective.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "epidemiology",
+        "risk_threshold",
+        "MEDICAL_TOPIC",
+        "DCCT"
+      ]
+    },
+    {
+      "question": "What is the first line of treatment to reduce the risk of diabetic retinopathy in patients with elevated HbA1c?",
+      "options": [
+        "Intensive glycemic control",
+        "Intravitreal injections",
+        "Pars plana vitrectomy",
+        "Laser photocoagulation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intensive glycemic control, with a goal of HbA1c < 7%, is the first-line intervention to prevent or delay the onset and progression of diabetic retinopathy, according to the DCCT and UKPDS.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "treatment",
+        "glycemic_control",
+        "MEDICAL_TOPIC",
+        "DCCT---UKPDS"
+      ]
+    },
+    {
+      "question": "How often is it recommended to perform an ophthalmological examination in a type 2 diabetic with HbA1c > 7% and without known retinopathy?",
+      "options": [
+        "Every 6 months",
+        "Every 1 year",
+        "Every 3 months",
+        "Every 2 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The ADA recommends annual ophthalmological examination in type 2 diabetics at diagnosis and then annually if there is no retinopathy, regardless of HbA1c, but an HbA1c > 7% justifies greater surveillance.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "follow-up",
+        "exam_periodicity",
+        "MEDICAL_TOPIC",
+        "ADA 2023"
+      ]
+    },
+    {
+      "question": "Which HbA1c finding is considered an independent risk factor for proliferative diabetic retinopathy?",
+      "options": [
+        "HbA1c persistently > 9%",
+        "HbA1c with wide fluctuations",
+        "HbA1c stable at 6.0%",
+        "HbA1c falling rapidly"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An HbA1c persistently > 9% reflects severe chronic hyperglycemia, an independent risk factor for developing proliferative diabetic retinopathy, the most advanced and vision-threatening form.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "risk_factors",
+        "hba1c_persistent_high",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main mechanism of action of anti-VEGF in diabetic retinopathy?",
+      "options": [
+        "Block aldose reductase",
+        "Reduce intraocular pressure",
+        "Inhibit angiogenesis",
+        "Stimulate glycosylation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Anti-VEGF act by neutralizing vascular endothelial growth factor, reducing pathological angiogenesis and macular edema in diabetic retinopathy.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "treatment",
+        "action_mechanism",
         "MEDICAL_TOPIC",
         "AAO 2023"
       ]
     },
     {
-      "question": "What is the main complication of untreated proliferative diabetic retinopathy?",
+      "question": "What is the most used anti-VEGF as first line in diabetic macular edema?",
       "options": [
-        "Tractional retinal detachment",
-        "anterior uveitis",
-        "Central retinal vein obstruction",
-        "Bacterial endophthalmitis"
+        "Aflibercept",
+        "Bevacizumab",
+        "Ranibizumab",
+        "Pegaptanib"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Although several anti-VEGF drugs are effective, bevacizumab is the most used first line due to its lower cost and wide availability, with comparable efficacy in many studies.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_macular_edema",
+        "treatment",
+        "first_line",
+        "MEDICAL_TOPIC",
+        "DRCR.net 2022"
+      ]
+    },
+    {
+      "question": "What systemic adverse effect is associated with the use of intravitreal anti-VEGF?",
+      "options": [
+        "Kidney failure",
+        "High blood pressure",
+        "digestive bleeding",
+        "Thromboembolic events"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Systemic inhibition of VEGF may increase the risk of arterial thromboembolic events, such as stroke or myocardial infarction, although the incidence is low.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "adverse_effects",
+        "thromboembolic_events",
+        "MEDICAL_TOPIC",
+        "AAO 2023"
+      ]
+    },
+    {
+      "question": "At what stage of diabetic retinopathy is treatment with anti-VEGF indicated?",
+      "options": [
+        "Incipient diabetic cataract",
+        "Clinically significant macular edema",
+        "Mild nonproliferative retinopathy",
+        "Moderate non-proliferative retinopathy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Clinically significant macular edema is the main indication for anti-VEGF, as it reduces retinal thickening and improves visual acuity.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "indications",
+        "macular_edema",
+        "MEDICAL_TOPIC",
+        "ETDRS"
+      ]
+    },
+    {
+      "question": "What is the standard route of administration of anti-VEGF in diabetic retinopathy?",
+      "options": [
+        "Oral",
+        "Topical",
+        "intravitreal",
+        "Subconjunctival"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Intravitreal administration allows high therapeutic concentrations to be achieved in the retina with minimal systemic exposure, being the approved standard route.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "pharmacokinetics",
+        "via_intravitrea",
+        "MEDICAL_TOPIC",
+        "AAO 2023"
+      ]
+    },
+    {
+      "question": "What factor limits the long-term efficacy of anti-VEGF treatment in diabetic retinopathy?",
+      "options": [
+        "Drug tachyphylaxis",
+        "Drug resistance",
+        "Patient compliance",
+        "Progression of ischemia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Irregular patient compliance with repeated intravitreal injections is the main limitation, as missed doses reduce the sustained efficacy of the treatment.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "treatment",
+        "therapeutic_compliance",
+        "MEDICAL_TOPIC",
+        "DRCR.net 2022"
+      ]
+    },
+    {
+      "question": "What is the first line of treatment for diabetic macular edema with central foveal involvement?",
+      "options": [
+        "Intravitreal corticosteroids",
+        "Focus laser",
+        "Intravitreal anti-VEGF",
+        "Pars plana vitrectomy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Intravitreal anti-VEGF (such as ranibizumab or aflibercept) are the first-line treatment for diabetic macular edema with central foveal involvement, based on clinical trials that demonstrate significant visual improvement.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_macular_edema",
+        "treatment",
+        "anti_vegf",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which optical coherence tomography (OCT) finding is characteristic of diabetic macular edema?",
+      "options": [
+        "Posterior vitreous detachment",
+        "Choroidal neovascular membrane",
+        "Pigment epithelium atrophy",
+        "Cystic retinal thickening"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Retinal thickening with intraretinal cystic spaces on OCT is the characteristic finding of diabetic macular edema, reflecting fluid accumulation secondary to the breakdown of the blood-retinal barrier.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_macular_edema",
+        "diagnosis",
+        "tomography_coherence_optical",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main pathophysiological mechanism of diabetic macular edema?",
+      "options": [
+        "Obstruction of the central retinal vein",
+        "Breakdown of the blood-retinal barrier",
+        "Photoreceptor degeneration",
+        "Retinal vascular proliferation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The breakdown of the internal and external blood-retinal barrier, induced by factors such as VEGF and inflammatory cytokines in diabetes, allows fluid and macromolecules to leak into the retina, forming macular edema.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_macular_edema",
+        "pathophysiology",
+        "blood-retinal_barrier",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What growth factor is most involved in the development of diabetic macular edema?",
+      "options": [
+        "Insulin-like growth factor",
+        "Epidermal growth factor",
+        "platelet-derived growth factor",
+        "Vascular endothelial growth factor"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Vascular endothelial growth factor (VEGF) is the main mediator of vascular permeability and angiogenesis in diabetic retinopathy, and its overexpression is key in the pathogenesis of diabetic macular edema.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_macular_edema",
+        "pathophysiology",
+        "vegf",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main criterion to define clinically significant diabetic macular edema?",
+      "options": [
+        "Retinal thickening 500 μm from the fovea",
+        "Perifoveal intraretinal hemorrhages",
+        "Hard exudates 500 μm from the fovea",
+        "Microaneurysms in the macular area"
       ],
       "correctAnswer": 1,
-      "explanation": "Tractional retinal detachment is a serious complication of untreated proliferative diabetic retinopathy, caused by contraction of fibrovascular membranes that pull on the retina.",
+      "explanation": "Clinically significant diabetic macular edema is defined as retinal thickening 500 μm or less from the center of the fovea, or hard exudates at that distance with adjacent thickening, according to ETDRS criteria.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_macular_edema",
+        "diagnosis",
+        "etdrs_criteria",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which anti-VEGF drug has the advantage of being able to be administered less frequently in diabetic macular edema?",
+      "options": [
+        "Ranibizumab",
+        "Aflibercept",
+        "Bevacizumab",
+        "Pegaptanib"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aflibercept has a higher affinity for VEGF and a longer half-life, allowing longer dosing intervals (up to every 8 weeks) compared to ranibizumab or bevacizumab in diabetic macular edema.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_macular_edema",
+        "treatment",
+        "aflibercept",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main objective of panretinal photocoagulation?",
+      "options": [
+        "Reduce retinal ischemia",
+        "Improve visual acuity",
+        "Prevent cataract",
+        "Reduce intraocular pressure"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Panretinal photocoagulation destroys ischemic areas of the retina to reduce the production of vascular endothelial growth factor (VEGF), thus decreasing neovascularization and the risk of vitreous hemorrhage.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "treatment",
+        "panretinal_photocoagulation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What complication of diabetic retinopathy is prevented with panretinal photocoagulation?",
+      "options": [
+        "Neovascular glaucoma",
+        "diabetic cataract",
+        "Retinal detachment",
+        "macular edema"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Panretinal photocoagulation reduces neovascularization of the iris and chamber angle, preventing neovascular glaucoma secondary to proliferative diabetic retinopathy.",
       "hashtags": [
         "ophthalmology",
         "diabetic_retinopathy",
         "complications",
+        "neovascular_glaucoma",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the typical stage of diabetic retinopathy to indicate panretinal photocoagulation?",
+      "options": [
+        "Mild non-proliferative diabetic retinopathy",
+        "Clinically significant macular edema",
+        "Moderate non-proliferative diabetic retinopathy",
+        "Proliferative diabetic retinopathy"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Panretinal photocoagulation is indicated mainly in proliferative diabetic retinopathy, when there is retinal or optic disc neovascularization, to avoid severe hemorrhages and visual loss.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "clinical_table",
+        "stadiums",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What type of laser is usually used in panretinal photocoagulation?",
+      "options": [
+        "Argon laser",
+        "diode laser",
+        "CO2 laser",
+        "YAG laser"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The argon laser (green or blue-green wavelength) is the most classically used in panretinal photocoagulation, since it is absorbed by the melanin of the retinal pigment epithelium and hemoglobin, allowing ischemic areas to effectively coagulate.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "treatment",
+        "laser_argon",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is a common side effect of panretinal photocoagulation?",
+      "options": [
+        "Endophthalmitis",
+        "Acute ocular hypertension",
+        "Loss of night vision",
+        "Retinal detachment"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Panretinal photocoagulation destroys photoreceptors in the retinal periphery, which can cause a reduction in night vision and peripheral visual field as an expected adverse effect.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "adverse_effects",
+        "night_vision",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which finding on fluorescein angiography contraindicates panretinal photocoagulation?",
+      "options": [
+        "Papillary neovascularization",
+        "Areas of capillary non-perfusion",
+        "Diffuse leak in macula",
+        "Perifoveal microaneurysms"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The presence of diffuse leakage in the macula (clinically significant macular edema) contraindicates initial panretinal photocoagulation, as it could worsen the macular edema; Macular edema is first treated with focal laser or anti-VEGF.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "diagnosis",
+        "fluorescein_angiography",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most common cause of vitreous hemorrhage in adults?",
+      "options": [
+        "diabetic retinopathy",
+        "Macular degeneration",
+        "Eye trauma",
+        "Retinal detachment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Proliferative diabetic retinopathy is the most common cause of vitreous hemorrhage in adults, due to rupture of fragile neovessels that bleed into the vitreous.",
+      "hashtags": [
+        "ophthalmology",
+        "vitreous_hemorrhage",
+        "clinical_table",
+        "etiology",
+        "MEDICAL_TOPIC",
+        "American Academy of Ophthalmology 2023"
+      ]
+    },
+    {
+      "question": "What type of diabetic retinopathy is typically associated with vitreous hemorrhage?",
+      "options": [
+        "diabetic macular edema",
+        "background diabetic retinopathy",
+        "Proliferative diabetic retinopathy",
+        "Non-proliferative diabetic retinopathy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Vitreous hemorrhage is a complication of proliferative diabetic retinopathy, characterized by the formation of neovessels that bleed into the vitreous cavity.",
+      "hashtags": [
+        "ophthalmology",
+        "vitreous_hemorrhage",
+        "pathophysiology",
+        "neovascularization",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for vitreous hemorrhage due to diabetic retinopathy?",
+      "options": [
+        "Retinal panphotocoagulation",
+        "Intravitreal injection of anti-VEGF",
+        "Focus laser",
+        "Pars plana vitrectomy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Intravitreal injections of anti-VEGF are the first-line treatment for vitreous hemorrhage associated with proliferative diabetic retinopathy, by reducing neovascularization and bleeding recurrence.",
+      "hashtags": [
+        "ophthalmology",
+        "vitreous_hemorrhage",
+        "treatment",
+        "anti_vegf",
+        "MEDICAL_TOPIC",
+        "AAO Guide 2023"
+      ]
+    },
+    {
+      "question": "Which ultrasound finding suggests retinal detachment associated with vitreous hemorrhage?",
+      "options": [
+        "Mobile echogenic points",
+        "V-shaped membrane fixed to papilla",
+        "Detached vitreous membrane",
+        "Subhyaloid hemorrhage"
+      ],
+      "correctAnswer": 2,
+      "explanation": "On ocular ultrasound, a V-shaped membrane attached to the optic disc is characteristic of retinal detachment, which may accompany vitreous hemorrhage.",
+      "hashtags": [
+        "ophthalmology",
+        "vitreous_hemorrhage",
+        "diagnosis",
+        "ocular_ultrasound",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What factor worsens the visual prognosis in diabetic vitreous hemorrhage?",
+      "options": [
+        "nuclear cataract",
+        "Systemic arterial hypertension",
+        "mild myopia",
+        "Normal intraocular pressure"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Systemic arterial hypertension is a known risk factor that worsens visual prognosis by increasing bleeding and progression of diabetic retinopathy.",
+      "hashtags": [
+        "ophthalmology",
+        "vitreous_hemorrhage",
+        "epidemiology",
+        "risk_factors",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "When is urgent vitrectomy indicated in vitreous hemorrhage?",
+      "options": [
+        "Associated mature cataract",
+        "Suspected retinal tear",
+        "Mild and stable bleeding",
+        "Chronic macular edema"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Urgent vitrectomy is indicated when a retinal tear or detachment is suspected, to allow early visualization and repair of the retinal lesion.",
+      "hashtags": [
+        "ophthalmology",
+        "vitreous_hemorrhage",
+        "treatment",
+        "vitrectomy",
+        "MEDICAL_TOPIC",
+        "AAO Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the most common cause of traction retinal detachment?",
+      "options": [
+        "Posterior vitreous detachment",
+        "Penetrating ocular trauma",
+        "Peripheral reticular degeneration",
+        "Proliferative diabetic retinopathy"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Proliferative diabetic retinopathy is the main cause of tractional retinal detachment, due to the formation of fibrovascular membranes that exert traction on the retina.",
+      "hashtags": [
+        "ophthalmology",
         "tractional_retinal_detachment",
+        "etiology",
+        "diabetic_retinopathy",
+        "MEDICAL_TOPIC",
+        "Basic and Clinical Science Course (BCSC) Retina and Vitreous 2023"
+      ]
+    },
+    {
+      "question": "What ultrasound finding is characteristic of tractional retinal detachment?",
+      "options": [
+        "Diffuse scleral thickening",
+        "Serous choroidal detachment",
+        "V-shaped membrane",
+        "Vitreo-retinal fixation point"
+      ],
+      "correctAnswer": 4,
+      "explanation": "On ocular ultrasound, tractional retinal detachment shows a vitreoretinal fixation point, unlike rhegmatogenous retinal detachment, which is V-shaped and associated with tractional membranes.",
+      "hashtags": [
+        "ophthalmology",
+        "tractional_retinal_detachment",
+        "diagnosis",
+        "ocular_ultrasound",
+        "MEDICAL_TOPIC",
+        "BCSC Retina and Vitreous 2023"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for tractional retinal detachment with macular involvement?",
+      "options": [
+        "Transscleral cryotherapy",
+        "Pars plana vitrectomy",
+        "Laser photocoagulation",
+        "Intravitreal injection of anti-VEGF"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pars plana vitrectomy is the surgical treatment of choice for tractional retinal detachment that involves the macula, as it allows the tractions to be released and the retina to be reapplied.",
+      "hashtags": [
+        "ophthalmology",
+        "tractional_retinal_detachment",
+        "treatment",
+        "vitrectomy",
+        "MEDICAL_TOPIC",
+        "American Academy of Ophthalmology Preferred Practice Pattern 2022"
+      ]
+    },
+    {
+      "question": "What complication can develop after vitrectomy for tractional detachment?",
+      "options": [
+        "Accelerated nuclear cataract",
+        "Acute anterior uveitis",
+        "Superficial punctate keratitis",
+        "Early neovascular glaucoma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Accelerated nuclear cataract is a common complication after pars plana vitrectomy, especially in older patients, due to intraocular manipulation and changes in lens dynamics.",
+      "hashtags": [
+        "ophthalmology",
+        "tractional_retinal_detachment",
+        "complications",
+        "cataract_postvitrectomy",
+        "MEDICAL_TOPIC",
+        "BCSC Retina and Vitreous 2023"
+      ]
+    },
+    {
+      "question": "Which finding on fluorescein angiography suggests active vitreoretinal traction?",
+      "options": [
+        "Neovessels with disc leak",
+        "Late leakage in the posterior pole",
+        "Cottony spots on the retina",
+        "Areas of capillary non-perfusion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Areas of capillary non-perfusion are a characteristic finding in proliferative diabetic retinopathy that predisposes to the formation of neovessels and subsequent vitreoretinal traction.",
+      "hashtags": [
+        "ophthalmology",
+        "tractional_retinal_detachment",
+        "diagnosis",
+        "fluorescein_angiography",
+        "MEDICAL_TOPIC",
+        "Early Treatment Diabetic Retinopathy Study (ETDRS) 1991"
+      ]
+    },
+    {
+      "question": "What is the central pathophysiology of tractional retinal detachment?",
+      "options": [
+        "Subretinal fluid accumulation",
+        "Exudative choroidal inflammation",
+        "Traction by fibrovascular membranes",
+        "Retinal break due to degeneration"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tractional retinal detachment is caused by the contraction of fibrovascular membranes or vitreous bands that pull on the retina, separating it from the pigment epithelium without the presence of a break.",
+      "hashtags": [
+        "ophthalmology",
+        "tractional_retinal_detachment",
+        "pathophysiology",
+        "fibrovascular_membranes",
+        "MEDICAL_TOPIC",
+        "BCSC Retina and Vitreous 2023"
+      ]
+    },
+    {
+      "question": "What is the earliest finding in diabetic retinopathy?",
+      "options": [
+        "Microaneurysms",
+        "hard exudates",
+        "Neovascularization",
+        "Flame hemorrhages"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Microaneurysms are the first visible manifestation in non-proliferative diabetic retinopathy, detected by ophthalmoscopy or fluorescein angiography.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "clinical_table",
+        "microaneurysms",
         "MEDICAL_TOPIC",
         "AAO 2023"
+      ]
+    },
+    {
+      "question": "Which imaging technique is most sensitive for detecting microaneurysms?",
+      "options": [
+        "Wide field retinography",
+        "B-mode ocular ultrasound",
+        "Optical coherence tomography",
+        "Fluorescein angiography"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Fluorescein angiography allows microaneurysms to be visualized as hyperfluorescent spots, surpassing other techniques such as simple retinography in sensitivity.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "diagnosis",
+        "fluorescein_angiography",
+        "MEDICAL_TOPIC",
+        "ETDRS 1991"
+      ]
+    },
+    {
+      "question": "What vascular structure focally dilates, forming a microaneurysm?",
+      "options": [
+        "retinal arteriole",
+        "retinal venule",
+        "retinal capillary",
+        "choroid arteriole"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Microaneurysms arise from focal dilation of the retinal capillary wall, secondary to loss of pericytes and structural weakness.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "pathophysiology",
+        "retinal_capillary",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the main risk factor for developing retinal microaneurysms?",
+      "options": [
+        "Severe hyperlipidemia",
+        "High blood pressure",
+        "Chronic hyperglycemia",
+        "Active smoking"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chronic hyperglycemia is the determining factor in the pathogenesis of diabetic retinopathy, initiating the formation of microaneurysms due to endothelial and pericyte damage.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "etiology",
+        "chronic_hyperglycemia",
+        "MEDICAL_TOPIC",
+        "DCCT 1993"
+      ]
+    },
+    {
+      "question": "What systemic treatment has been shown to reduce the appearance of microaneurysms?",
+      "options": [
+        "Intravitreal injection of anti-VEGF",
+        "Intensive glycemic control",
+        "Panretinal laser photocoagulation",
+        "Pars plana vitrectomy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Intensive glycemic control significantly reduces the incidence and progression of diabetic retinopathy, including microaneurysm formation, according to the DCCT.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "treatment",
+        "glycemic_control",
+        "MEDICAL_TOPIC",
+        "DCCT 1993"
+      ]
+    },
+    {
+      "question": "Which layer of the retina is the first affected by microaneurysms?",
+      "options": [
+        "inner nuclear layer",
+        "inner plexiform layer",
+        "Outer plexiform layer",
+        "Nerve fiber layer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Microaneurysms are typically located in the inner plexiform layer, where retinal capillaries form a dense network and are most vulnerable to diabetic damage.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "clinical_anatomy",
+        "inner_plexiform_layer",
+        "MEDICAL_TOPIC",
+        "Basic and Clinical Science Course AAO 2023"
+      ]
+    },
+    {
+      "question": "What is the main stimulus for neovascularization of the optic disc in diabetic retinopathy?",
+      "options": [
+        "Chronic hyperglycemia",
+        "High blood pressure",
+        "Vitreous inflammation",
+        "retinal ischemia"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Retinal ischemia produces hypoxia that stimulates the release of vascular endothelial growth factor (VEGF), the main mediator of optic disc neovascularization.",
+      "hashtags": [
+        "ophthalmology",
+        "optical_disc_neovascularization",
+        "pathophysiology",
+        "vascular_endothelial_growth_factor",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What finding clinically defines optic disc neovascularization?",
+      "options": [
+        "Cottony exudates",
+        "Macular microaneurysms",
+        "Flame hemorrhages",
+        "Abnormal vessels in papilla"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Neovascularization of the optic disc is characterized by the presence of abnormal, fragile blood vessels emerging from the optic disc, visible on ophthalmoscopy.",
+      "hashtags": [
+        "ophthalmology",
+        "optical_disc_neovascularization",
+        "clinical_table",
+        "ophthalmoscopy",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for active optic disc neovascularization?",
+      "options": [
+        "Intravitreal anti-VEGF",
+        "Panretinal laser",
+        "Intravitreal corticosteroids",
+        "urgent vitrectomy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intravitreal anti-VEGF (e.g. ranibizumab, aflibercept) are the first-line treatment for active neovascularization of the optic disc, reducing the permeability and regression of abnormal vessels.",
+      "hashtags": [
+        "ophthalmology",
+        "optical_disc_neovascularization",
+        "treatment",
+        "anti_endothelial_vascular_growth_factor",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What serious complication can untreated optic disc neovascularization cause?",
+      "options": [
+        "Subcapsular cataract",
+        "Neovascular glaucoma",
+        "Retinal detachment",
+        "macular edema"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neovascularization of the optic disc can extend to the iridocorneal angle and obstruct the drainage of aqueous humor, causing neovascular angle-closure glaucoma, a serious and painful complication.",
+      "hashtags": [
+        "ophthalmology",
+        "optical_disc_neovascularization",
+        "complications",
+        "neovascular_glaucoma",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which growth factor is most involved in optic disc neovascularization?",
+      "options": [
+        "platelet-derived growth factor",
+        "fibroblast growth factor",
+        "Transforming growth factor beta",
+        "Vascular endothelial growth factor"
+      ],
+      "correctAnswer": 4,
+      "explanation": "VEGF is the main angiogenic factor in proliferative diabetic retinopathy, stimulating the formation of new vessels in the optic disc and other ischemic retinal areas.",
+      "hashtags": [
+        "ophthalmology",
+        "optical_disc_neovascularization",
+        "pathophysiology",
+        "vascular_endothelial_growth_factor",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "At what stage of diabetic retinopathy does neovascularization of the optic disc appear?",
+      "options": [
+        "Proliferative diabetic retinopathy",
+        "diabetic macular edema",
+        "Moderate non-proliferative diabetic retinopathy",
+        "Mild non-proliferative diabetic retinopathy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neovascularization of the optic disc is characteristic of proliferative diabetic retinopathy, an advanced stage where severe ischemia triggers abnormal vascular growth.",
+      "hashtags": [
+        "ophthalmology",
+        "optical_disc_neovascularization",
+        "clinical_table",
+        "diabetic_proliferative_retinopathy",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the characteristic finding of proliferative diabetic retinopathy?",
+      "options": [
+        "Retinal neovascularization",
+        "Diffuse microaneurysms",
+        "Cystic macular edema",
+        "Macular hard exudates"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Proliferative diabetic retinopathy is defined by the presence of retinal neovascularization, which is the abnormal growth of blood vessels in the retina induced by ischemia.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_proliferative_retinopathy",
+        "clinical_table",
+        "retinal_neovascularization",
+        "MEDICAL_TOPIC",
+        "AAO 2023"
+      ]
+    },
+    {
+      "question": "Which growth factor is primarily involved in the neovascularization of proliferative diabetic retinopathy?",
+      "options": [
+        "Vascular endothelial growth factor",
+        "Epidermal growth factor",
+        "Transforming growth factor beta",
+        "platelet-derived growth factor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vascular endothelial growth factor (VEGF) is the main mediator of angiogenesis in proliferative diabetic retinopathy, promoting the formation of new abnormal retinal vessels.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_proliferative_retinopathy",
+        "pathophysiology",
+        "vegf",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for active proliferative diabetic retinopathy?",
+      "options": [
+        "Panretinal laser photocoagulation",
+        "Drainage device implant",
+        "Pars plana vitrectomy",
+        "Intravitreal injection of corticosteroids"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Panretinal laser photocoagulation is the standard first-line treatment for active proliferative diabetic retinopathy, as it reduces ischemia and VEGF production, returning neovascularization.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_proliferative_retinopathy",
+        "treatment",
+        "laser photocoagulation",
+        "MEDICAL_TOPIC",
+        "AAO 2023"
+      ]
+    },
+    {
+      "question": "What serious complication is most frequently associated with untreated proliferative diabetic retinopathy?",
+      "options": [
+        "Tractional retinal detachment",
+        "Vitreous hemorrhage",
+        "Neovascular glaucoma",
+        "Diffuse macular edema"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vitreous hemorrhage is the most common acute complication of untreated proliferative diabetic retinopathy, due to rupture of fragile neovascular vessels into the vitreous.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_proliferative_retinopathy",
+        "complications",
+        "vitreous_hemorrhage",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What stage of diabetic retinopathy directly precedes the proliferative form?",
+      "options": [
+        "Severe non-proliferative diabetic retinopathy",
+        "diabetic macular edema",
+        "Mild non-proliferative diabetic retinopathy",
+        "Moderate non-proliferative diabetic retinopathy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Severe nonproliferative diabetic retinopathy directly precedes the proliferative form, being characterized by extensive retinal ischemia that triggers the release of VEGF and neovascularization.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_proliferative_retinopathy",
+        "pathophysiology",
+        "disease_progression",
+        "MEDICAL_TOPIC",
+        "AAO 2023"
+      ]
+    },
+    {
+      "question": "What is the typical ophthalmoscopic finding of high-risk proliferative diabetic retinopathy?",
+      "options": [
+        "Peripapillary cottony exudates",
+        "Intraretinal microvascular abnormalities",
+        "Punctate intraretinal hemorrhages",
+        "Neovascularization of the optic disc"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Neovascularization of the optic disc (NVD) is a high-risk finding in proliferative diabetic retinopathy, indicating a greater probability of severe visual loss due to vitreous hemorrhage or tractional detachment.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_proliferative_retinopathy",
+        "clinical_table",
+        "optical_disc_neovascularization",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the main objective of fluorescein angiography in diabetic retinopathy?",
+      "options": [
+        "Detect incipient cataracts",
+        "Assess retinal perfusion",
+        "Determine visual acuity",
+        "Measure intraocular pressure"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fluorescein angiography evaluates retinal perfusion, identifying areas of ischemia, neovascularization and vascular leaks, key in the management of diabetic retinopathy.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "diagnosis",
+        "fluorescein_angiography",
+        "MEDICAL_TOPIC",
+        "AAO 2023 Preferred Practice Pattern"
+      ]
+    },
+    {
+      "question": "What angiographic finding suggests active neovascularization in diabetic retinopathy?",
+      "options": [
+        "Microaneurysms without leak",
+        "macular hypoperfusion",
+        "retinal vein occlusion",
+        "late contrast leak"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Late contrast leakage on fluorescein angiography indicates abnormal vascular permeability, typical of active neovascularization in diabetic retinopathy.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "diagnosis",
+        "fluorescein_leak",
+        "MEDICAL_TOPIC",
+        "AAO 2023 Preferred Practice Pattern"
+      ]
+    },
+    {
+      "question": "What adverse complication is most frequently associated with fluorescein angiography?",
+      "options": [
+        "Nausea and vomiting",
+        "Acute endophthalmitis",
+        "Massive vitreous hemorrhage",
+        "Retinal detachment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nausea and vomiting are the most common adverse reaction to intravenous fluorescein, occurring in up to 5% of patients, although they are usually self-limiting.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "adverse_effects",
+        "fluorescein_reaction",
+        "MEDICAL_TOPIC",
+        "AAO 2023 Preferred Practice Pattern"
+      ]
+    },
+    {
+      "question": "At what stage of fluorescein angiography are microaneurysms typically seen?",
+      "options": [
+        "Late arterial phase",
+        "Early venous phase",
+        "Choroidal filling phase",
+        "Recirculation phase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Microaneurysms are best visualized in the early venous phase (30-60 seconds), when fluorescein completely fills the retinal circulation and these small sacs become hyperfluorinated.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "diagnosis",
+        "angiographic_phases",
+        "MEDICAL_TOPIC",
+        "AAO 2023 Preferred Practice Pattern"
+      ]
+    },
+    {
+      "question": "What retinal area is evaluated with fluorescein angiography to classify diabetic macular edema?",
+      "options": [
+        "Temporary arcade vessels",
+        "optical disk",
+        "Macula lutea",
+        "Nasal periphery"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Angiography evaluates the macula lutea to identify diabetic macular edema, observing leaks in the foveal and perifoveal area that determine the need for laser or antiangiogenic treatment.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "diagnosis",
+        "macular_edema",
+        "MEDICAL_TOPIC",
+        "AAO 2023 Preferred Practice Pattern"
+      ]
+    },
+    {
+      "question": "Which angiographic finding contraindicates the use of immediate panretinal laser photocoagulation?",
+      "options": [
+        "Extensive vitreous hemorrhage",
+        "Disc neovascularization",
+        "Severe macular ischemia",
+        "Diffuse microaneurysms"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Severe macular ischemia on angiography contraindicates immediate panretinal photocoagulation, as it could worsen visual function by damaging already compromised areas of residual perfusion.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "treatment",
+        "laser photocoagulation",
+        "MEDICAL_TOPIC",
+        "AAO 2023 Preferred Practice Pattern"
+      ]
+    },
+    {
+      "question": "What is the systolic blood pressure goal in diabetic retinopathy?",
+      "options": [
+        "Less than 110 mmHg",
+        "Less than 130 mmHg",
+        "Less than 140 mmHg",
+        "Less than 120 mmHg"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Strict blood pressure control in patients with diabetic retinopathy recommends maintaining systolic pressure below 130 mmHg to reduce the progression of retinopathy.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "treatment",
+        "blood_pressure_control",
+        "MEDICAL_TOPIC",
+        "ADA 2023"
+      ]
+    },
+    {
+      "question": "What class of drug is first line for hypertension in diabetic retinopathy?",
+      "options": [
+        "ACEI or ARA II",
+        "Calcium antagonists",
+        "Beta blockers",
+        "Thiazide diuretics"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inhibitors of the renin-angiotensin system (ACEI or ARB) are the first line due to their renoprotective effect and reduction of the progression of diabetic retinopathy.",
+      "hashtags": [
+        "pharmacology",
+        "diabetic_retinopathy",
+        "indications",
+        "ieca_ara_ii",
+        "MEDICAL_TOPIC",
+        "ADA 2023"
+      ]
+    },
+    {
+      "question": "What is the effect of strict blood pressure control on diabetic retinopathy?",
+      "options": [
+        "Prevents diabetic cataract",
+        "Vitreous hemorrhage increases",
+        "Slows the progression of retinopathy",
+        "Improves immediate visual acuity"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tight control of blood pressure slows the progression of diabetic retinopathy by reducing microvascular damage, although it does not immediately improve vision.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "pathophysiology",
+        "disease_progression",
+        "MEDICAL_TOPIC",
+        "ADA 2023"
+      ]
+    },
+    {
+      "question": "What diastolic blood pressure is looked for in diabetic retinopathy?",
+      "options": [
+        "Less than 75 mmHg",
+        "Less than 90 mmHg",
+        "Less than 85 mmHg",
+        "Less than 80 mmHg"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The diastolic pressure goal in diabetic retinopathy is less than 80 mmHg, since higher values ​​are associated with a greater risk of retinopathy progression.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "treatment",
+        "diastolic_target",
+        "MEDICAL_TOPIC",
+        "ADA 2023"
+      ]
+    },
+    {
+      "question": "What is the mechanism by which hypertension worsens diabetic retinopathy?",
+      "options": [
+        "Increased retinal blood flow",
+        "Endothelial damage due to mechanical stress",
+        "Decreased intraocular pressure",
+        "Increased production of aqueous humor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "High blood pressure damages the retinal microvascular endothelium due to mechanical stress, increasing permeability and favoring ischemia and the progression of diabetic retinopathy.",
+      "hashtags": [
+        "pathophysiology",
+        "diabetic_retinopathy",
+        "damage_mechanisms",
+        "mechanical_endothelial_stress",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which study demonstrated the benefit of strict blood pressure control in diabetic retinopathy?",
+      "options": [
+        "DCCT",
+        "UKPDS",
+        "ACCORD",
+        "FIELD"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The UKPDS study (United Kingdom Prospective Diabetes Study) demonstrated that strict blood pressure control reduces the progression of diabetic retinopathy in patients with type 2 diabetes.",
+      "hashtags": [
+        "ophthalmology",
+        "diabetic_retinopathy",
+        "treatment",
+        "ukpds",
+        "MEDICAL_TOPIC",
+        "UKPDS 1998"
       ]
     }
   ]

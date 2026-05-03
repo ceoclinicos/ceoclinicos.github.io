@@ -1,0 +1,77 @@
+{
+  "id": "diabetic_retinopathy",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Classification according to ETDRS",
+      "title": "ETDRS Classification",
+      "contentHtml": "<h2>Classification according to ETDRS</h2><ul><li><b>ETDRS</b> (Early Treatment Diabetic Retinopathy Study) classifies into <b>NPDR</b> (non-proliferative) mild, moderate, severe and very severe, and <b>PDR</b> (proliferative) with or without high-risk features.</li><li>Severe NPDR: <b>4-2-1</b> rule: hemorrhages/MA in 4 quadrants, venous beading in ≥2 quadrants, IRMA in ≥1 quadrant.</li><li>Very severe NPDR: ≥2 of the severe criteria.</li><li>High-risk PDR: <b>disc neovascularization (NVD)</b> ≥1/3 of the disc area, or <b>neovascularization elsewhere (NVE)</b> ≥1/2 of the disc area. disc with vitreous/preretinal hemorrhage. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Glycosylated hemoglobin as a risk factor",
+      "title": "HbA1c as a risk factor",
+      "contentHtml": "<h2>Glycosylated hemoglobin as a risk factor</h2><ul><li><b>HbA1c</b> is the main modifiable risk factor for the development and progression of diabetic retinopathy.</li><li>The <b>DCCT</b> (Diabetes Control and Complications Trial) study demonstrated that reducing HbA1c to <b>&lt;7%</b> reduces the risk of type 1 retinopathy in <b>76%</b>.</li><li>In type 2, <b>UKPDS</b> showed benefit with HbA1c &lt;7%.</li><li>Every 1% decrease in HbA1c reduces the risk of retinopathy by ~35-40%.</li><li>Trap: abrupt decrease in HbA1c can temporarily worsen retinopathy (phenomenon <b>worsening</b>).</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Anti-VEGF treatment",
+      "title": "Anti-VEGF in the DR",
+      "contentHtml": "<h2>Treatment with anti-VEGF</h2><ul><li>Main indication: <b>diabetic macular edema (DME)</b> with foveal involvement and <b>proliferative diabetic retinopathy (PDR)</b> as an alternative to panretinal photocoagulation.</li><li>Approved drugs: <b>ranibizumab</b> (Lucentis, 0.3 mg/0.05 mL), <b>aflibercept</b> (Eylea, 2 mg/0.05 mL), <b>bevacizumab</b> (Avastin, 1.25 mg/0.05 mL, off-label).</li><li>Regimen: initial monthly dose, then as needed (PRN) or treat-and-extend.</li><li><b>DRCR.net Protocol T study</b>: aflibercept superior to ranibizumab and bevacizumab in initial visual acuity &lt;20/50.</li><li>Adverse effects: endophthalmitis, retinal detachment, increased intraocular pressure.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "diabetic macular edema",
+      "title": "diabetic macular edema",
+      "contentHtml": "<h2>Diabetic macular edema</h2><ul><li>Defined as retinal thickening within <b>1 disc diameter</b> of the center of the macula.</li><li>Classification: <b>DME with central involvement</b> (foveal) vs <b>without central involvement</b>.</li><li>Diagnosis by <b>OCT</b> (optical coherence tomography) showing thickening and intraretinal cysts.</li><li>First-line treatment: <b>intravitreal anti-VEGF</b>; intravitreal corticosteroids (triamcinolone, dexamethasone implant) as a second line.</li><li>Trap: DME can occur in any stage of DR, not only in PDR.</li><li>Risk factor: <b>elevated HbA1c</b>, hypertension, dyslipidemia.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Panretinal photocoagulation",
+      "title": "Panretinal photocoagulation",
+      "contentHtml": "<h2>Panretinal photocoagulation</h2><ul><li>Indicated in <b>high-risk PDR</b> (NVD ≥1/3 of the disc or NVE with vitreous hemorrhage) and in severe NPDR with poor glycemic control or lack of follow-up.</li><li>Objective: ablation of peripheral ischemic retina to reduce <b>VEGF</b> production.</li><li>Technique: 1200-1600 burns of 200-500 µm, separated by 1 burn diameter, in the peripheral retina, sparing the macula and papilla.</li><li>Adverse effects: loss of peripheral vision, worsening of macular edema, <b>nyctalopia</b>, exudative retinal detachment.</li><li>The <b>DRS</b> study (Diabetic Retinopathy Study) demonstrated reduction of severe visual loss in high-risk PDR.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Vitreous hemorrhage",
+      "title": "Vitreous hemorrhage",
+      "contentHtml": "<h2>Vitreous hemorrhage</h2><ul><li>Most common cause: <b>rupture of neovessels</b> in PDR, due to vitreous traction.</li><li>Presentation: sudden painless loss of vision, myodesopsias, vision of reddish fog.</li><li>Diagnosis: <b>B-scan ultrasound</b> if dense hemorrhage prevents seeing the fundus; rule out associated retinal detachment. </li><li>Initial management: rest, control of HbA1c and BP; if it does not clear in 4-6 weeks, consider <b>pars plana vitrectomy</b>.</li><li>Indications for early vitrectomy: dense vitreous hemorrhage that does not clear, presence of tractional retinal detachment, hemolytic glaucoma.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Tractional retinal detachment",
+      "title": "Tractional DR",
+      "contentHtml": "<h2>Tractional retinal detachment</h2><ul><li>Complication of advanced <b>PDR</b> due to contraction of fibrovascular membranes at the vitreous-retinal interface.</li><li>Mechanism: tangential and anteroposterior traction, elevating retina without tear.</li><li>Symptoms: progressive decrease in vision, metamorphopsias, central scotoma if affected macula.</li><li>Diagnosis: <b>OCT</b> and <b>B-scan ultrasound</b> show elevated retina with traction.</li><li>Surgical treatment: <b>pars plana vitrectomy</b> with membrane dissection and endolaser; if it involves the macula, urgent surgery.</li><li>Trap: it can be combined with retinal tear (tractional-rhegmatogenous DR).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Microaneurysms as initial finding",
+      "title": "Initial microaneurysms",
+      "contentHtml": "<h2>Microaneurysms as initial finding</h2><ul><li>First clinical sign of <b>diabetic retinopathy</b>, visible as small red dots in the retina (usually in the posterior pole).</li><li>Pathophysiology: weakness of the capillary wall due to <b>loss of pericytes</b> and thickening of the basement membrane.</li><li>On <b>fluorescein angiography</b> they appear as dots. hyperfluorescent with late leakage.</li><li>Typical location: inner and outer plexiform layers, with greater density in the temporal macular region.</li><li>DDx: <b>punctate hemorrhages</b> (red dots that do not hyperfluorescent in angiography).</li><li>Its isolated presence defines <b>mild NPDR</b>.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Neovascularization of the optic disc",
+      "title": "NVD",
+      "contentHtml": "<h2>Neovascularization of the optic disc</h2><ul><li>Definition: <b>neovascularization</b> in or within 1 disc diameter of the edge of the optic nerve.</li><li>Marker of <b>high-risk PDR</b> according to <b>DRS</b> if it occupies ≥1/3 of the disc area.</li><li>Pathophysiology: severe retinal ischemia releases <b>VEGF</b> stimulating growth of abnormal vessels in the papilla.</li><li>Risk of massive vitreous hemorrhage and tractional retinal detachment.</li><li>Treatment: <b>panretinal photocoagulation</b> or first-line <b>intravitreal anti-VEGF</b>.</li><li>Snare: NVD may be difficult to detect with vitreous hemorrhage; use <b>fluorescein angiography</b> to confirm.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Proliferative diabetic retinopathy",
+      "title": "PDR",
+      "contentHtml": "<h2>Proliferative diabetic retinopathy</h2><ul><li>Defined by the presence of retinal or disc <b>neovascularization</b>, or vitreous/preretinal hemorrhage.</li><li>Advanced stage of DR, with high risk of severe visual loss.</li><li>Risk factors: <b>Elevated HbA1c</b>, hypertension, duration of diabetes, pregnancy, nephropathy. </li><li>Treatment: <b>panretinal photocoagulation</b> (historical standard) or <b>anti-VEGF</b> (ranibizumab, aflibercept) as an alternative.</li><li><b>DRCR.net Protocol S study</b>: ranibizumab non-inferior to PRP for PDR, with less loss of peripheral visual field.</li><li>Complications: vitreous hemorrhage, detachment traction retina, neovascular glaucoma. </li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Fluorescein angiography",
+      "title": "Fluorescein angiography",
+      "contentHtml": "<h2>Fluorescein angiography</h2><ul><li>Imaging technique with intravenous contrast (<b>sodium fluorescein</b>) to evaluate retinal microvasculature.</li><li>Phases: choroidal (10-15 s), arterial, arteriovenous, venous (30 s - 2 min), late (5-10 min).</li><li>Findings in DR: <b>microaneurysms</b> such as hyperfluorescent spots, <b>leak</b> in macular edema, <b>neovascularization</b> with progressive leak, <b>areas of non-perfusion</b> (hypofluorescence).</li><li>Indications: evaluate clinically significant macular edema, guide photocoagulation, differentiate neovessels from IRMA.</li><li>Contraindications: allergy to fluorescein, severe asthma, renal failure (creatinine clearance &lt;30 mL/min).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Strict blood pressure control",
+      "title": "BP control in DR",
+      "contentHtml": "<h2>Strict control of blood pressure</h2><ul><li><b>Hypertension</b> accelerates the progression of diabetic retinopathy, independently of HbA1c.</li><li><b>UKPDS</b> study showed that reducing BP to <b>&lt;150/85 mmHg</b> decreased progression of DR and need for photocoagulation.</li><li>Current guidelines recommend target <b>&lt;130/80 mmHg</b> in patients with diabetes and retinopathy.</li><li>Drugs of choice: <b>ACEI</b> or <b>ARA-II</b> due to renoprotective effect independent of BP reduction.</li><li>Trap: sudden decrease in BP can worsen retinal perfusion in severe ischemia.</li><li>Monitoring: <b>ambulatory measurement of PA</b> (MAP) to confirm control. </li></ul>"
+    }
+  ]
+}
