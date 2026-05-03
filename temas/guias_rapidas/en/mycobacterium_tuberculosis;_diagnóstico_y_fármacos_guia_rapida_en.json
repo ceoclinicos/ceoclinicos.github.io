@@ -1,0 +1,65 @@
+{
+  "id": "mycobacterium_tuberculosis;_diagnosis_and_drugs",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Tuberculin test and Quantiferon",
+      "title": "Tuberculin test and Quantiferon",
+      "contentHtml": "<h2>Tuberculin test and Quantiferon</h2><ul><li><b>Tuberculin test (PPD or Mantoux):</b> reading at <b>48-72 h</b>; induration is measured, not erythema. Cut-off point: ≥5 mm in immunocompromised/contacts, ≥10 mm in other risk groups, ≥15 mm in people without risk factors. False negatives due to anergy (HIV, measles, recent vaccination with live viruses).</li><li><b>Quantiferon-TB Gold (IGRA):</b> measures the release of <b>IFN-γ</b> after stimulation with ESAT-6, CFP-10, TB7.7 antigens. Advantage: not crossed with BCG or non-tuberculous mycobacteria (except M. kansasii, M. szulgai, M. marinum). Indicated in patients vaccinated with BCG or with previous false positives of PPD.</li><li><b>DDx:</b> Positive PPD does not distinguish latent infection from active disease; always complement with clinic and chest x-ray. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Bacilloscopy with Ziehl-Neelsen stain",
+      "title": "Bacilloscopy with Ziehl-Neelsen stain",
+      "contentHtml": "<h2>Baciloscopy with Ziehl-Neelsen stain</h2><ul><li><b>Ziehl-Neelsen stain:</b> uses <b>basic fuchsin</b> with heat (phenol) and decolorization with alcohol-acid; Mycobacteria retain the dye due to their wall rich in <b>mycolic acids</b>. Result: red bacilli on a blue background (contrast with methylene blue). </li><li><b>Sensitivity:</b> 10⁴ bacilli/mL of sputum. At least <b>2 samples</b> (morning expectoration) are required for diagnosis. High specificity, but does not differentiate<i>M. tuberculosis</i>of other mycobacteria.</li><li><b>Trap examination:</b> negative smear microscopy does not rule out tuberculosis; in paucibacillary forms (children, HIV, extrapulmonary TB) the sensitivity falls to 30-50%. It correlates with the <b>degree of positivity</b> (1+ to 3+ according to WHO).</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Cultivation in Löwenstein-Jensen medium",
+      "title": "Cultivation in Löwenstein-Jensen medium",
+      "contentHtml": "<h2>Culture in Löwenstein-Jensen medium</h2><ul><li><b>Löwenstein-Jensen medium (LJ):</b> solid medium based on egg, asparagine and malachite green (inhibits accompanying flora). Slow growth: visible colonies in <b>3-8 weeks</b> (average 4-6). Rough, creamy colonies, “breadcrumb” color. </li><li><b>Alternative:</b> liquid medium <b>Middlebrook 7H9</b> in automated systems (MGIT) reduces time to 10-14 days. Culture is the <b>gold standard</b> for diagnosis and allows drug sensitivity testing.</li><li><b>Key fact:</b> requires incubation at <b>37°C</b> with 5-10% CO₂. The sensitivity is 10-100 bacilli/mL, much higher than smear microscopy. Growth time should be reported to guide empirical treatment.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "PCR for DNA detection",
+      "title": "PCR for DNA detection",
+      "contentHtml": "<h2>PCR for DNA detection</h2><ul><li><b>Xpert MTB/RIF (GeneXpert):</b> Real-time PCR that detects DNA from <i>M. tuberculosis</i>and mutations in the <b>rpoB</b> gene (associated with resistance to rifampicin). Sensitivity &gt;95% in positive smear and ~70% in negative. Result in <b>2 hours</b>.</li><li><b>WHO indication:</b> first diagnostic test in suspected pulmonary and extrapulmonary TB, especially in HIV+ and children. Also in <b>resistant TB</b> for rapid detection of resistance to rifampicin (substitute marker for MDR).</li><li><b>Limitation:</b> does not differentiate viable from non-viable DNA; may give false positives after recent treatment. It does not replace culture for complete sensitivity. </li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Chest and cavern x-ray",
+      "title": "Chest and cavern x-ray",
+      "contentHtml": "<h2>X-ray of the chest and caverns</h2><ul><li><b>Classic finding:</b> infiltrates in the upper lobes (apexes) with <b>caverns</b> (thick walls >2 mm, air content). The caverns are pathognomonic of active TB in clinical context.</li><li><b>Other findings:</b> centrilobular nodules in “tree in bud”, hilar/mediastinal lymphadenopathy (more common in children and HIV), pleural effusion (unilateral, lymphocytic exudate).</li><li><b>DDx:</b> caverns also in lung abscess (air-fluid level), cavitated cancer (irregular wall, satellite nodule), granulomatosis with polyangiitis. Normal chest x-ray does not rule out TB (especially in HIV with severe immunosuppression). </li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Rifampicin and isoniazid as first line",
+      "title": "Rifampicin and isoniazid as first line",
+      "contentHtml": "<h2>Rifampin and isoniazid as first line</h2><ul><li><b>Isoniazid (INH):</b> dose 5 mg/kg/day (max 300 mg) or 15 mg/kg 3 times/week. Bactericidal against actively replicating bacilli; It acts by inhibiting the synthesis of <b>mycolic acids</b>. High initial potency.</li><li><b>Rifampicin (RIF):</b> dose 10 mg/kg/day (max 600 mg). Bactericidal against all bacillary populations (including intracellular and slow growing). Inhibits <b>DNA-dependent RNA polymerase</b>. Strong CYP450 inducer.</li><li><b>Standard regimen:</b> 2-month intensive phase with <b>isoniazid</b>, <b>rifampicin</b>, pyrazinamide and ethambutol; then continuation phase 4 months with <b>isoniazid</b> and <b>rifampicin</b>. The combination prevents resistance. </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Resistance to isoniazid due to katG mutation",
+      "title": "Resistance to isoniazid due to katG mutation",
+      "contentHtml": "<h2>Isoniazid resistance due to katG mutation</h2><ul><li><b>Main mechanism:</b> mutation in the <b>katG</b> gene (encodes catalase-peroxidase) that prevents the activation of <b>isoniazid</b> to its active form. Responsible for 50-80% of INH resistance.</li><li><b>Most frequent mutation:</b> S315T (serine for threonine in codon 315) confers high resistance without complete loss of catalase function, allowing bacterial survival.</li><li><b>Other mutations:</b> in the <b>inhA</b> gene (enol-ACP reductase) confer low-level resistance. and sometimes cross resistance with ethionamide. PCR detection (Xpert MTB/XDR) guides treatment.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Directly Observed Treatment Shortened (DOTS)",
+      "title": "Directly Observed Treatment Shortened (DOTS)",
+      "contentHtml": "<h2>Directly Observed Short-course Treatment (DOTS)</h2><ul><li><b>DOTS (Directly Observed Therapy, Short-course):</b> WHO strategy that combines 5 components: government commitment, smear diagnosis, supervised standardized treatment, regular drug supply and registration/monitoring system.</li><li><b>Supervision:</b> a health professional observes the intake of each dose, especially in the intensive phase. It reduces the dropout rate and prevents the appearance of acquired resistance.</li><li><b>Exam trap:</b> DOTS is not just “taking pills in front of someone”; includes logistical support and guarantee of adherence. <b>Directly observed therapy</b> (DOT) is only one component of DOTS.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Adverse effect of rifampicin: hepatotoxicity",
+      "title": "Adverse effect of rifampicin: hepatotoxicity",
+      "contentHtml": "<h2>Adverse effect of rifampicin: hepatotoxicity</h2><ul><li><b>Hepatotoxicity:</b> <b>rifampicin</b> can cause elevation of transaminases (ALT/AST) and, in severe cases, cholestatic hepatitis or liver necrosis. It is more common in combination with <b>isoniazide</b> (hepatotoxic synergy).</li><li><b>Monitoring:</b> measure liver enzymes at baseline and monthly. Discontinue if ALT &gt;3 times the upper limit of normal with symptoms (jaundice, nausea, abdominal pain) or &gt;5 times without symptoms.</li><li><b>Management:</b> remove hepatotoxic drugs, evaluate gradual restart. Rifampicin is less hepatotoxic than isoniazid; it is often reintroduced first. </li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Isoniazid neuropathy and B6 prophylaxis",
+      "title": "Isoniazid neuropathy and B6 prophylaxis",
+      "contentHtml": "<h2>Neuropathy due to isoniazid and prophylaxis with B6</h2><ul><li><b>Peripheral neuropathy:</b> dose-dependent adverse effect of <b>isoniazid</b> (more common with doses >5 mg/kg/day or in patients with risk factors: diabetes, alcoholism, malnutrition, pregnancy, HIV).</li><li><b>Mechanism:</b> <b>isoniazide</b> interferes with the metabolism of <b>pyridoxine (vitamin B6)</b> by forming inactive hydrazones, causing functional deficiency of B6 necessary for the synthesis of neurotransmitters.</li><li><b>Prophylaxis:</b> administer <b>pyridoxine (B6)</b> 25-50 mg/day in all patients with risk factors or high doses of <b>isoniazide</b>. Neuropathy is reversible if detected early and supplemented. </li></ul>"
+    }
+  ]
+}

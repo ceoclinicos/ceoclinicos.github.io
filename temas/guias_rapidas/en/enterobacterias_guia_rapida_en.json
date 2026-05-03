@@ -1,0 +1,65 @@
+{
+  "id": "enterobacteria",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Escherichia coli causes more urinary tract infections",
+      "title": "E. coli in UTI",
+      "contentHtml": "<h2>E. coli in UTI</h2><ul><li><b>Escherichia coli</b> is the first cause of <b>uncomplicated urinary tract infection</b> (>80% of cases).</li><li>The main virulence factor is <b>P fimbriae</b> (adhesins that bind to uroepithelial receptors).</li><li>In acute pyelonephritis, the diagnosis is confirmed with <b>positive urine culture</b>. (&gt;10<sup>5</sup> CFU/mL).</li><li>First empirical line: <b>trimethoprim-sulfamethoxazole</b> (if resistance &lt;20%) or <b>nitrofurantoin</b> in cystitis.</li><li><b>Trap:</b> strains producing <b>ESBL</b> (extended-spectrum beta-lactamases) are resistant to cephalosporins. 3rd generation; treat with <b>ertapenem</b> or <b>fosfomycin trometamol</b>.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Carbapenemase-producing Klebsiella pneumoniae",
+      "title": "KPC: K. pneumoniae carbapenemase",
+      "contentHtml": "<h2>KPC: K. pneumoniae carbapenemase</h2><ul><li><b>Carbapenemase-producing Klebsiella pneumoniae</b> (KPC) is a cause of <b>nosocomial infection</b> with high mortality (40-50%).</li><li>Mechanism: enzyme <b>carbapenemase type A</b> (serine-betalactamase) that hydrolyzes carbapenems and almost all beta-lactams.</li><li>Diagnosis: <b>modified Hodge test</b> or <b>PCR</b> for <b>blaKPC</b> gene.</li><li>First line therapy: combination of <b>ceftazidime-avibactam</b> (dose: 2.5 g every 8 h IV).</li><li><b>Trap:</b> if the strain produces <b>metallo-betalactamase</b> (NDM), ceftazidime-avibactam is not active; use <b>ceftazidime-avibactam + aztreonam</b> or <b>tigecycline</b>.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Salmonella typhi causes typhoid fever",
+      "title": "Typhoid fever due to S. typhi",
+      "contentHtml": "<h2>Typhoid fever due to S. typhi</h2><ul><li><b>Salmonella typhi</b> causes <b>typhoid fever</b>, prolonged fever, relative bradycardia and <b>pink spots</b> on the trunk.</li><li>Physiopathology: invasion of <b>Peyer's patches</b> in the distal ileum; can cause intestinal perforation (surgical emergency).</li><li>Diagnosis: <b>blood culture</b> (positive in the first week), <b>stool culture</b> (2nd-3rd week), <b>Widal reaction</b> (antibodies O and H, although with false positives).</li><li>First line: <b>ceftriaxone</b> (2 g/day IV) or <b>azithromycin</b> (500 mg/day PO) due to resistance to chloramphenicol.</li><li><b>Trap:</b> <b>chronic carrier</b> (gallbladder) is treated with <b>ciprofloxacin</b> 750 mg every 12 h PO for 4-6 weeks.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Shigella causes dysentery by mucosal invasion",
+      "title": "Shigella and invasive dysentery",
+      "contentHtml": "<h2>Shigella and invasive dysentery</h2><ul><li><b>Shigella</b> (species: <i>flexneri, sonnei, dysenteriae, boydii</i>) causes <b>bacillary dysentery</b> by invasion of the colonic mucosa.</li><li>Pathophysiology: secretion of <b>Shiga toxin</b> (similar to EHEC) that causes epithelial necrosis and diarrhea with blood, mucus and tenesmus.</li><li>Diagnosis: <b>stool culture</b> on <b>SS (Salmonella-Shigella)</b> medium and serological agglutination.</li><li>First line: <b>azithromycin</b> (500 mg/day PO for 3 days) or <b>ciprofloxacin</b> (500 mg every 12 h PO for 3 days).</li><li><b>Trap:</b> do not use antidiarrheals (loperamide) because they retain the pathogen and increase the risk of toxic megacolon.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Cephalosporin-resistant Enterobacter cloacae",
+      "title": "Enterobacter cloacae AmpC",
+      "contentHtml": "<h2>Enterobacter cloacae AmpC</h2><ul><li><b>Enterobacter cloacae</b> has <b>inducible AmpC beta-lactamase</b> encoded in the chromosome; exposure to 3rd generation cephalosporins selects derepressed mutants.</li><li>Resistance: to <b>ceftriaxone</b>, <b>cefotaxime</b> and <b>ceftazidime</b>; they do not hydrolyze cefepime or carbapenems (in strains without other beta-lactamases).</li><li>Diagnosis: <b>induction test with cefoxitin</b> (adjacent cefoxitin and ceftazidime disk; synergy suggests AmpC).</li><li>First line: <b>cefepime</b> (2 g every 8 h IV) or <b>carbapenem</b> if infection serious.</li><li><b>Trap:</b> in <b>catheter infection</b> or bacteremia, consider device removal and antibiotic adjustment due to sensitivity.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Yersinia enterocolitica causes mesenteric adenitis",
+      "title": "Y. enterocolitica and adenitis",
+      "contentHtml": "<h2>And. enterocolitica and adenitis</h2><ul><li><b>Yersinia enterocolitica</b> causes <b>mesenteric adenitis</b> (pseudoappendicitis) with pain in the right iliac fossa, fever and diarrhea.</li><li>Pathophysiology: invasion of mesenteric lymph nodes; can produce <b>erythema nodosum</b> and reactive arthritis (post-infectious).</li><li>Diagnosis: <b>stool culture</b> in <b>CIN (cefsulodin-irgasan-novobiocin) medium</b> at 25-30°C; serology for anti-Yersinia antibodies.</li><li>First line: <b>trimethoprim-sulfamethoxazole</b> (800/160 mg every 12 h PO) or <b>ciprofloxacin</b> in severe cases.</li><li><b>Trap:</b> differentiate from acute appendicitis; if there is <b>mesenteric adenitis</b>, avoid unnecessary surgery; The treatment is medical. </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Proteus mirabilis produces urease and stones",
+      "title": "Proteus mirabilis and lithiasis",
+      "contentHtml": "<h2>Proteus mirabilis and lithiasis</h2><ul><li><b>Proteus mirabilis</b> produces <b>urease</b> that hydrolyzes urea to ammonium, alkalinizing the urine (pH &gt;7).</li><li>Alkalinization precipitates <b>magnesium ammonium phosphate</b> (struvite), forming <b>coral-shaped stones</b> (staghorn). </li><li>Pathophysiology: the stones act as a bacterial nest, perpetuating the infection; require <b>percutaneous nephrolithotomy</b> for complete eradication.</li><li>First line: <b>ciprofloxacin</b> (500 mg every 12 h PO) or <b>trimethoprim-sulfamethoxazole</b> if sensitive; associate <b>acetohydroxamic acid</b> (urease inhibitor, second line).</li><li><b>Trap:</b> <b>Proteus mirabilis</b> is intrinsically resistant to <b>tetracycline</b> and <b>colistin</b>.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Serratia marcescens associated with nosocomial infections",
+      "title": "Serratia marcescens nosocomial",
+      "contentHtml": "<h2>Nosocomial Serratia marcescens</h2><ul><li><b>Serratia marcescens</b> is an opportunistic nosocomial pathogen, common in <b>ICU</b> and patients with <b>catheters</b> or <b>mechanical ventilation</b>.</li><li>It produces <b>urinary tract infections</b>, <b>pneumonia</b> and <b>bacteremia</b>; has <b>inducible AmpC beta-lactamase</b> and resistance to multiple antibiotics.</li><li>Virulence factor: <b>prodigiosin</b> (red pigment) and <b>proteases</b> that degrade IgA.</li><li>First line: <b>cefepime</b> (2 g every 8 h IV) or <b>carbapenem</b> (meropenem 1 g every 8 h IV).</li><li><b>Trap:</b> <b>Serratia</b> is resistant to <b>polymyxin B</b> and <b>colistin</b> by LPS modification; Do not use these drugs. </li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Citrobacter freundii induces AmpC beta-lactamases",
+      "title": "Citrobacter freundii AmpC",
+      "contentHtml": "<h2>Citrobacter freundii AmpC</h2><ul><li><b>Citrobacter freundii</b> possesses <b>inducible chromosomal AmpC beta-lactamase</b>, similar to Enterobacter; it is derepressed with exposure to 3rd generation cephalosporins.</li><li>Resistance: to <b>ceftriaxone</b>, <b>cefotaxime</b> and <b>ceftazidime</b>; remains sensitive to <b>cefepime</b> and <b>carbapenems</b>.</li><li>Diagnosis: <b>induction test with cefoxitin</b> (positive if there is synergy between cefoxitin disc and ceftazidime).</li><li>First line: <b>cefepime</b> (2 g every 8 h IV) or <b>meropenem</b> (1 g every 8 h IV) in severe infections.</li><li><b>Trap:</b> <b>Citrobacter freundii</b> can acquire <b>ESBL</b> or <b>carbapenemases</b> through plasmids; request extended antibiogram. </li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Colistin-resistant Morganella morganii",
+      "title": "Morganella morganii and colistin",
+      "contentHtml": "<h2>Morganella morganii and colistin</h2><ul><li><b>Morganella morganii</b> is a facultative anaerobic gram-negative bacillus that presents <b>intrinsic resistance to colistin</b> and <b>polymyxin B</b>.</li><li>Mechanism: modification of lipid A of LPS by <b>ArnT</b> enzymes and <b>PmrC</b>, reducing the negative charge.</li><li>Frequently causes <b>urinary infection</b> and <b>wound infection</b> in immunocompromised patients.</li><li>First line: <b>carbapenem</b> (meropenem 1 g every 8 h IV) or <b>cefepime</b> (2 g every 8 h IV), depending sensitivity.</li><li><b>Trap:</b> do not use <b>colistin</b> or <b>tigecycline</b> (natural resistance); <b>Morganella</b> is a producer of <b>urease</b>, but not as potent as Proteus.</li></ul>"
+    }
+  ]
+}

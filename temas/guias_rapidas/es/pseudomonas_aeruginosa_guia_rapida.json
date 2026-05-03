@@ -1,0 +1,77 @@
+{
+  "id": "pseudomonas_aeruginosa",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Factor de virulencia: exotoxina A",
+      "title": "Exotoxina A",
+      "contentHtml": "<h2>Exotoxina A</h2><ul><li><b>Exotoxina A</b> es una ADP-ribosiltransferasa que inactiva el factor de elongación 2 (EF-2), inhibiendo la síntesis proteica celular, similar al mecanismo de la toxina diftérica.</li><li>Produce necrosis tisular y daño hepático agudo en infecciones diseminadas.</li><li>Su gen <i>toxA</i> está regulado por el sistema de <b>quorum sensing</b>; la expresión aumenta en condiciones de estrés oxidativo.</li><li>No es neutralizada por antitoxina diftérica; el tratamiento es antibiótico específico contra <i>P. aeruginosa</i>.</li><li>En modelos animales, anticuerpos anti-exotoxina A reducen la mortalidad, pero no se usa en clínica rutinaria.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Resistencia intrínseca a betalactámicos",
+      "title": "Resistencia intrínseca a betalactámicos",
+      "contentHtml": "<h2>Resistencia intrínseca a betalactámicos</h2><p><i>P. aeruginosa</i> presenta <b>resistencia intrínseca</b> a múltiples betalactámicos debido a la producción cromosómica de <b>AmpC β-lactamasa</b> inducible y a la baja permeabilidad de su membrana externa (porina <b>OprD</b>).</p><ul><li><b>AmpC</b> hidroliza penicilinas, cefalosporinas de 1ª/2ª generación y cefamicinas; no afecta a <b>ceftazidima</b>, <b>cefepime</b> ni carbapenémicos (excepto si hay mutaciones de desrepresión).</li><li>La pérdida de <b>OprD</b> confiere resistencia a imipenem, pero no a meropenem.</li><li>Asociación frecuente con bombas de eflujo (MexAB-OprM) que aumentan la resistencia a β-lactámicos y otros grupos.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Formación de biopelículas en fibrosis quística",
+      "title": "Biopelículas en fibrosis quística",
+      "contentHtml": "<h2>Formación de biopelículas en fibrosis quística</h2><p>En <b>fibrosis quística</b>, <i>P. aeruginosa</i> adopta fenotipo mucoide por sobreexpresión de <b>algD</b> (producción de alginato), formando biopelículas que resisten fagocitosis y antibióticos.</p><ul><li>La biopelícula madura presenta canales de agua y gradientes de oxígeno; las bacterias en su interior están en fase estacionaria y son tolerantes a aminoglucósidos y quinolonas.</li><li>El <b>quorum sensing</b> (sistemas Las y Rhl) regula la producción de alginato y factores de virulencia como piocianina.</li><li>Tratamiento: combinación de <b>tobramicina inhalada</b> + <b>aztreonam</b> o <b>ciprofloxacino</b> oral; en exacerbaciones graves, <b>ceftazidima</b> + <b>tobramicina</b> IV.</li><li>Nuevas terapias: <b>colistimetato inhalado</b> y <b>fosfomicina</b> como antibiopelícula.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Causa más común de otitis externa maligna",
+      "title": "Otitis externa maligna",
+      "contentHtml": "<h2>Otitis externa maligna</h2><p><i>Pseudomonas aeruginosa</i> es la <b>causa más común de otitis externa maligna</b> (OEM), infección necrotizante del conducto auditivo externo que se extiende a base de cráneo, casi exclusiva en <b>diabéticos ancianos</b> e inmunocomprometidos.</p><ul><li>Clínica: otalgia intensa, otorrea purulenta, parálisis del nervio facial (VII par) si hay osteomielis del hueso temporal.</li><li>Diagnóstico: TAC o RM muestra erosión del hueso temporal; cultivo de secreción confirma <i>P. aeruginosa</i>.</li><li>Tratamiento: <b>ceftazidima</b> o <b>cefepime</b> IV 2 g c/8h por 6-8 semanas; se añade <b>ciprofloxacino</b> oral o IV si hay resistencia o alergia.</li><li>Desbridamiento quirúrgico si hay absceso o secuestro óseo.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Tratamiento de elección: ceftazidima o cefepime",
+      "title": "Tratamiento de elección: ceftazidima o cefepime",
+      "contentHtml": "<h2>Tratamiento de elección: ceftazidima o cefepime</h2><p>Para infecciones graves por <i>P. aeruginosa</i> sensibles, el <b>tratamiento de elección</b> es <b>ceftazidima</b> o <b>cefepime</b>, ambos cefalosporinas de 3ª/4ª generación con actividad antipseudomónica.</p><ul><li><b>Ceftazidima</b>: dosis 2 g IV c/8h; no cubre cocos grampositivos ni anaerobios.</li><li><b>Cefepime</b>: 2 g IV c/8h; mejor cobertura para <i>Enterobacterales</i> y cocos grampositivos (excepto MRSA).</li><li>En monoterapia, riesgo de desarrollo de resistencia por inducción de <b>AmpC</b> (menor con cefepime).</li><li>Alternativas: <b>piperacilina-tazobactam</b> (4,5 g IV c/6h), <b>meropenem</b> (1 g IV c/8h) o <b>imipenem</b> (500 mg IV c/6h).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Mecanismo de resistencia: bombas de eflujo",
+      "title": "Bombas de eflujo",
+      "contentHtml": "<h2>Mecanismo de resistencia: bombas de eflujo</h2><p><i>P. aeruginosa</i> expresa <b>bombas de eflujo</b> de la familia RND (Resistance-Nodulation-Division) que expulsan antibióticos, reduciendo su concentración intracelular.</p><ul><li>La más relevante es <b>MexAB-OprM</b>, que confiere resistencia a β-lactámicos (excepto carbapenémicos), quinolonas, tetraciclinas y cloranfenicol.</li><li><b>MexXY-OprM</b>: asociada a resistencia a aminoglucósidos (gentamicina, tobramicina, amikacina) y macrólidos.</li><li><b>MexCD-OprJ</b>: sobreexpresada por mutaciones en <i>nfxB</i>; da resistencia a quinolonas y cefalosporinas de 4ª generación (cefepime).</li><li>La sobreexpresión de bombas de eflujo es un mecanismo de <b>resistencia adquirida</b> frecuente en cepas nosocomiales multirresistentes.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Infección nosocomial en pacientes quemados",
+      "title": "Infección nosocomial en pacientes quemados",
+      "contentHtml": "<h2>Infección nosocomial en pacientes quemados</h2><p><i>Pseudomonas aeruginosa</i> es la principal causa de <b>infección nosocomial en pacientes quemados</b>, colonizando la escara y causando celulitis, sepsis y fascitis necrotizante.</p><ul><li>Factores de riesgo: pérdida de barrera cutánea, inmunosupresión, uso de catéteres y ventilación mecánica.</li><li>Clínica: exudado verde (piocianina), olor dulzón, necrosis de la escara y septicemia con ectima gangrenoso (lesiones cutáneas violáceas con centro necrótico por invasión vascular).</li><li>Tratamiento empírico: <b>ceftazidima</b> o <b>cefepime</b> + <b>tobramicina</b> o <b>amikacina</b>; en cepas resistentes, <b>colistimetato sódico</b> (colistina) IV.</li><li>Desbridamiento quirúrgico precoz y cobertura con apósitos de plata (sulfadiazina argéntica).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Quorum sensing y producción de piocianina",
+      "title": "Quorum sensing y piocianina",
+      "contentHtml": "<h2>Quorum sensing y producción de piocianina</h2><p>El <b>quorum sensing</b> (QS) en <i>P. aeruginosa</i> está mediado por dos sistemas principales: <b>LasI/LasR</b> (autoinductor 3-oxo-C12-HSL) y <b>RhlI/RhlR</b> (C4-HSL), que regulan la expresión de factores de virulencia, incluida la <b>piocianina</b>.</p><ul><li><b>Piocianina</b>: pigmento fenazina azul-verde, actúa como toxina que genera especies reactivas de oxígeno (ROS), dañando el epitelio respiratorio y compitiendo con la cadena respiratoria mitocondrial.</li><li>La piocianina inhibe la función ciliar y la fagocitosis, favoreciendo la cronicidad en fibrosis quística.</li><li>El QS también regula la formación de biopelículas y la producción de exotoxina A, proteasas y alginato.</li><li>Fármacos anti-QS en investigación (ej. furanonas, azitromicina en dosis subinhibitorias).</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Sensible a aminoglucósidos y quinolonas",
+      "title": "Sensible a aminoglucósidos y quinolonas",
+      "contentHtml": "<h2>Sensible a aminoglucósidos y quinolonas</h2><p><i>P. aeruginosa</i> suele ser <b>sensible a aminoglucósidos</b> (gentamicina, tobramicina, amikacina) y <b>quinolonas</b> (ciprofloxacino, levofloxacino), aunque la resistencia adquirida es creciente.</p><ul><li><b>Aminoglucósidos</b>: se unen a la subunidad 30S ribosómica; la resistencia ocurre por enzimas modificantes (AAC, APH, ANT) o bombas de eflujo MexXY.</li><li><b>Ciprofloxacino</b>: dosis 400 mg IV c/12h o 500-750 mg VO c/12h; la resistencia emerge por mutaciones en <b>ADN girasa</b> (gyrA) y <b>topoisomerasa IV</b> (parC), y por sobreexpresión de bombas de eflujo.</li><li>En infecciones urinarias no complicadas, <b>ciprofloxacino</b> es primera línea; en infecciones sistémicas se usa en combinación.</li><li>No usar monoterapia con aminoglucósido para neumonía por baja penetración pulmonar.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Causa de neumonía en ventilación mecánica",
+      "title": "Neumonía en ventilación mecánica",
+      "contentHtml": "<h2>Neumonía en ventilación mecánica</h2><p><i>Pseudomonas aeruginosa</i> es la <b>causa de neumonía en ventilación mecánica</b> más frecuente entre los bacilos gramnegativos no fermentadores, especialmente en UCI y estancias prolongadas.</p><ul><li>Factores de riesgo: uso previo de antibióticos, EPOC, inmunosupresión, re-intubación.</li><li>Diagnóstico: cultivo cuantitativo de lavado broncoalveolar (BAL) &gt;10⁴ UFC/mL o cepillo protegido &gt;10³ UFC/mL.</li><li>Tratamiento empírico: combinación de dos antipseudomónicos: <b>ceftazidima</b> o <b>cefepime</b> o <b>piperacilina-tazobactam</b> + <b>tobramicina</b> o <b>ciprofloxacino</b>; en alergia, <b>aztreonam</b> + <b>amikacina</b>.</li><li>Duración: 7-14 días; desescalar según antibiograma.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Prueba de oxidasa positiva (bacilo gramnegativo)",
+      "title": "Prueba de oxidasa positiva",
+      "contentHtml": "<h2>Prueba de oxidasa positiva (bacilo gramnegativo)</h2><p><i>Pseudomonas aeruginosa</i> es un <b>bacilo gramnegativo</b> aerobio estricto, no fermentador de lactosa, que presenta <b>prueba de oxidasa positiva</b>, clave para su identificación presuntiva en el laboratorio de microbiología.</p><ul><li>La oxidasa detecta la presencia de citocromo c oxidasa; <i>P. aeruginosa</i> es oxidasa-positiva, diferenciándola de enterobacterias (oxidasa-negativas).</li><li>Otros bacilos gramnegativos oxidasa-positivos: <i>Burkholderia cepacia</i>, <i>Stenotrophomonas maltophilia</i> (esta última es oxidasa-débil o negativa).</li><li>Colonias: olor a uva (aminoacetofenona), hemólisis en agar sangre, pigmento verde (piocianina) o azul-verde (piocianina + pioverdina).</li><li>No fermenta lactosa en agar MacConkey; produce colonias incoloras.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Tratamiento combinado para infecciones graves",
+      "title": "Tratamiento combinado para infecciones graves",
+      "contentHtml": "<h2>Tratamiento combinado para infecciones graves</h2><p>En infecciones graves por <i>P. aeruginosa</i> (sepsis, neumonía asociada a ventilación mecánica, bacteriemia en neutropénicos), se recomienda <b>tratamiento combinado</b> con dos fármacos activos para sinergia y prevención de resistencia.</p><ul><li>Régimen estándar: β-lactámico antipseudomónico (<b>ceftazidima</b>, <b>cefepime</b>, <b>piperacilina-tazobactam</b> o <b>meropenem</b>) + aminoglucósido (<b>tobramicina</b> 5-7 mg/kg/día o <b>amikacina</b> 15-20 mg/kg/día).</li><li>Alternativa: β-lactámico + <b>ciprofloxacino</b> (400 mg IV c/12h).</li><li>En cepas multirresistentes (MDR/XDR): <b>colistina</b> (colistimetato sódico 9 millones UI de carga, luego 4,5 millones UI c/12h) + β-lactámico o fosfomicina.</li><li>Monoterapia solo en infecciones leves o urinarias no complicadas.</li></ul>"
+    }
+  ]
+}

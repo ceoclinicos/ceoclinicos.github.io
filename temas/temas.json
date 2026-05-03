@@ -2382,6 +2382,174 @@
         "#sinusitis"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "dacriocistitis",
+      "titulo": "Dacriocistitis",
+      "descripcion": "Infección o inflamación del saco lagrimal, generalmente por obstrucción del conducto nasolagrimal. Causa dolor, enrojecimiento y epífora.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#dacriocistitis",
+        "#infeccion_ocular",
+        "#via_lagrimal"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "cataratas",
+      "titulo": "Cataratas",
+      "descripcion": "Opacidad del cristalino que causa pérdida progresiva de la visión. Aborda causas, diagnóstico y tratamiento quirúrgico.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#oftalmologia",
+        "#cataratas",
+        "#cirugia_ocular"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "carcinoma_basocelular_palpebral",
+      "titulo": "Carcinoma basocelular palpebral",
+      "descripcion": "Tumor maligno más frecuente del párpado, de crecimiento lento y baja agresividad metastásica, pero con potencial destructivo local.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#oftalmologia",
+        "#dermatologia",
+        "#carcinoma_basocelular",
+        "#palpebral",
+        "#oncologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "mecanismos_de_resistencia_bacteriana",
+      "titulo": "Mecanismos de resistencia bacteriana",
+      "descripcion": "Estudio de los principales mecanismos por los cuales las bacterias desarrollan resistencia a los antimicrobianos, incluyendo inactivación enzimática, modificación del blanco y bombas de expulsión.",
+      "pdfUrl": "",
+      "precioPildoras": "caro",
+      "numPreguntas": 66,
+      "etiquetas": [
+        "#microbiologia",
+        "#resistencia_bacteriana",
+        "#antimicrobianos",
+        "#enfermedades_infecciosas",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "pseudomonas_aeruginosa",
+      "titulo": "Pseudomonas aeruginosa",
+      "descripcion": "Microorganismo gramnegativo oportunista, relevante en infecciones nosocomiales, fibrosis quística y resistencias antimicrobianas.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#microbiologia",
+        "#infecciones_nosocomiales",
+        "#resistencia_antimicrobiana",
+        "#fibrosis_quistica",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "staphylococcus_aureus_(toxinas_y_sarm)",
+      "titulo": "Staphylococcus aureus (toxinas y SARM)",
+      "descripcion": "Estudio de las toxinas producidas por Staphylococcus aureus y del Staphylococcus aureus resistente a la meticilina (SARM), incluyendo mecanismos de resistencia, factores de virulencia y relevancia clínica.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#microbiologia",
+        "#staphylococcus_aureus",
+        "#sarm",
+        "#toxinas_bacterianas",
+        "#resistencia_antimicrobiana",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "treponema_pallidum_(sífilis)",
+      "titulo": "Treponema pallidum (Sífilis)",
+      "descripcion": "Infección de transmisión sexual causada por la espiroqueta Treponema pallidum, con etapas clínicas que van desde úlceras primarias hasta manifestaciones terciarias.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#enfermedades_infecciosas",
+        "#ets",
+        "#sifilis",
+        "#microbiologia",
+        "#dermatologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "streptococcus_pyogenes_y_agalactiae",
+      "titulo": "Streptococcus pyogenes y agalactiae",
+      "descripcion": "Estudio de las características clínicas, diagnóstico y tratamiento de las infecciones por Streptococcus pyogenes (Grupo A) y Streptococcus agalactiae (Grupo B).",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#microbiologia",
+        "#infectologia",
+        "#streptococcus",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "neisseria_meningitidis_y_gonorrhoeae",
+      "titulo": "Neisseria Meningitidis Y Gonorrhoeae",
+      "descripcion": "Contenido sobre Neisseria meningitidis y gonorrhoeae.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#neisseriameningitidisygonorrhoeae"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "mycobacterium_tuberculosis;_diagnóstico_y_fármacos",
+      "titulo": "Mycobacterium tuberculosis: diagnóstico y fármacos",
+      "descripcion": "Aborda las técnicas diagnósticas y los principales fármacos utilizados en el tratamiento de la tuberculosis.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#tuberculosis",
+        "#infectologia",
+        "#microbiologia",
+        "#farmacologia",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "enterobacterias",
+      "titulo": "Enterobacterias",
+      "descripcion": "Estudio de la familia Enterobacteriaceae: características, patogenia, infecciones comunes y antibióticos.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 60,
+      "etiquetas": [
+        "#microbiologia",
+        "#enterobacterias",
+        "#infecciones_bacterianas",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
     }
   ]
 }

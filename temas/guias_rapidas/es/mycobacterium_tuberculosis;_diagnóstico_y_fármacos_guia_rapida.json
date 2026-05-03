@@ -1,0 +1,65 @@
+{
+  "id": "mycobacterium_tuberculosis;_diagnóstico_y_fármacos",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Prueba de tuberculina y Quantiferon",
+      "title": "Prueba de tuberculina y Quantiferon",
+      "contentHtml": "<h2>Prueba de tuberculina y Quantiferon</h2><ul><li><b>Prueba de tuberculina (PPD o Mantoux):</b> lectura a las <b>48-72 h</b>; se mide induración, no eritema. Punto de corte: ≥5 mm en inmunocomprometidos/contactos, ≥10 mm en otros grupos de riesgo, ≥15 mm en personas sin factores de riesgo. Falsos negativos por anergia (VIH, sarampión, vacunación reciente con virus vivos).</li><li><b>Quantiferon-TB Gold (IGRA):</b> mide liberación de <b>IFN-γ</b> tras estímulo con antígenos ESAT-6, CFP-10, TB7.7. Ventaja: no cruzado con BCG ni micobacterias no tuberculosas (excepto <i>M. kansasii, M. szulgai, M. marinum</i>). Indicado en pacientes vacunados con BCG o con falsos positivos previos de PPD.</li><li><b>DDx:</b> PPD positivo no distingue infección latente de enfermedad activa; siempre complementar con clínica y radiografía de tórax.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Baciloscopia con tinción Ziehl-Neelsen",
+      "title": "Baciloscopia con tinción Ziehl-Neelsen",
+      "contentHtml": "<h2>Baciloscopia con tinción Ziehl-Neelsen</h2><ul><li><b>Tinción de Ziehl-Neelsen:</b> utiliza <b>fucsina básica</b> con calor (fenol) y decoloración con alcohol-ácido; las micobacterias retienen el colorante por su pared rica en <b>ácidos micólicos</b>. Resultado: bacilos rojos sobre fondo azul (contraste con azul de metileno).</li><li><b>Sensibilidad:</b> 10⁴ bacilos/mL de esputo. Se requiere al menos <b>2 muestras</b> (expectoración matutina) para diagnóstico. Especificidad alta, pero no diferencia <i>M. tuberculosis</i> de otras micobacterias.</li><li><b>Trampa examen:</b> baciloscopia negativa no descarta tuberculosis; en formas paucibacilares (niños, VIH, TB extrapulmonar) la sensibilidad cae a 30-50%. Se correlaciona con el <b>grado de positividad</b> (1+ a 3+ según OMS).</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Cultivo en medio Löwenstein-Jensen",
+      "title": "Cultivo en medio Löwenstein-Jensen",
+      "contentHtml": "<h2>Cultivo en medio Löwenstein-Jensen</h2><ul><li><b>Medio Löwenstein-Jensen (LJ):</b> medio sólido a base de huevo, asparagina y verde malaquita (inhibe flora acompañante). Crecimiento lento: colonias visibles en <b>3-8 semanas</b> (promedio 4-6). Colonias rugosas, cremosas, color “migas de pan”.</li><li><b>Alternativa:</b> medio líquido <b>Middlebrook 7H9</b> en sistemas automatizados (MGIT) reduce tiempo a 10-14 días. El cultivo es el <b>gold standard</b> para diagnóstico y permite pruebas de sensibilidad a fármacos.</li><li><b>Dato clave:</b> requiere incubación a <b>37°C</b> con 5-10% CO₂. La sensibilidad es de 10-100 bacilos/mL, muy superior a la baciloscopia. Se debe reportar el tiempo de crecimiento para orientar tratamiento empírico.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "PCR para detección de ADN",
+      "title": "PCR para detección de ADN",
+      "contentHtml": "<h2>PCR para detección de ADN</h2><ul><li><b>Xpert MTB/RIF (GeneXpert):</b> PCR en tiempo real que detecta ADN de <i>M. tuberculosis</i> y mutaciones en el gen <b>rpoB</b> (asociado a resistencia a rifampicina). Sensibilidad &gt;95% en baciloscopia positiva y ~70% en negativa. Resultado en <b>2 horas</b>.</li><li><b>Indicación OMS:</b> primera prueba diagnóstica en sospecha de TB pulmonar y extrapulmonar, especialmente en VIH+ y niños. También en <b>TB resistente</b> para detección rápida de resistencia a rifampicina (marcador sustituto de MDR).</li><li><b>Limitación:</b> no diferencia ADN viable de no viable; puede dar falsos positivos tras tratamiento reciente. No sustituye al cultivo para sensibilidad completa.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Radiografía de tórax y cavernas",
+      "title": "Radiografía de tórax y cavernas",
+      "contentHtml": "<h2>Radiografía de tórax y cavernas</h2><ul><li><b>Hallazgo clásico:</b> infiltrados en lóbulos superiores (ápices) con <b>cavernas</b> (paredes gruesas &gt;2 mm, contenido aéreo). Las cavernas son patognomónicas de TB activa en contexto clínico.</li><li><b>Otros hallazgos:</b> nódulos centrolobulillares en “árbol en brote”, adenopatías hiliares/mediastínicas (más común en niños y VIH), derrame pleural (unilateral, exudado linfocítico).</li><li><b>DDx:</b> cavernas también en absceso pulmonar (nivel hidroaéreo), cáncer cavitado (pared irregular, nódulo satélite), granulomatosis con poliangitis. Rx de tórax normal no descarta TB (especialmente en VIH con inmunosupresión severa).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Rifampicina e isoniacida como primera línea",
+      "title": "Rifampicina e isoniacida como primera línea",
+      "contentHtml": "<h2>Rifampicina e isoniacida como primera línea</h2><ul><li><b>Isoniacida (INH):</b> dosis 5 mg/kg/día (máx 300 mg) o 15 mg/kg 3 veces/semana. Bactericida contra bacilos en replicación activa; actúa inhibiendo la síntesis de <b>ácidos micólicos</b>. Alta potencia inicial.</li><li><b>Rifampicina (RIF):</b> dosis 10 mg/kg/día (máx 600 mg). Bactericida contra todas las poblaciones bacilares (incluyendo intracelulares y de crecimiento lento). Inhibe la <b>ARN polimerasa dependiente de ADN</b>. Inductor potente del CYP450.</li><li><b>Régimen estándar:</b> fase intensiva de 2 meses con <b>isoniacida</b>, <b>rifampicina</b>, pirazinamida y etambutol; luego fase de continuación 4 meses con <b>isoniacida</b> y <b>rifampicina</b>. La combinación previene resistencia.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Resistencia a isoniacida por mutación katG",
+      "title": "Resistencia a isoniacida por mutación katG",
+      "contentHtml": "<h2>Resistencia a isoniacida por mutación katG</h2><ul><li><b>Mecanismo principal:</b> mutación en el gen <b>katG</b> (codifica catalasa-peroxidasa) que impide la activación de la <b>isoniacida</b> a su forma activa. Responsable del 50-80% de las resistencias a INH.</li><li><b>Mutación más frecuente:</b> S315T (serina por treonina en codón 315) confiere alta resistencia sin pérdida completa de la función catalasa, permitiendo la supervivencia bacteriana.</li><li><b>Otras mutaciones:</b> en el gen <b>inhA</b> (enol-ACP reductasa) confieren resistencia de bajo nivel y a veces resistencia cruzada con etionamida. La detección por PCR (Xpert MTB/XDR) guía el tratamiento.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Tratamiento acortado directamente observado (DOTS)",
+      "title": "Tratamiento acortado directamente observado (DOTS)",
+      "contentHtml": "<h2>Tratamiento acortado directamente observado (DOTS)</h2><ul><li><b>DOTS (Directly Observed Therapy, Short-course):</b> estrategia de la OMS que combina 5 componentes: compromiso gubernamental, diagnóstico por baciloscopia, tratamiento estandarizado supervisado, suministro regular de fármacos y sistema de registro/monitoreo.</li><li><b>Supervisión:</b> un profesional de salud observa la ingesta de cada dosis, especialmente en la fase intensiva. Reduce la tasa de abandono y previene la aparición de resistencia adquirida.</li><li><b>Trampa examen:</b> DOTS no es solo “tomar pastillas frente a alguien”; incluye el soporte logístico y la garantía de adherencia. La <b>terapia directamente observada</b> (TDO) es solo un componente del DOTS.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Efecto adverso de rifampicina: hepatotoxicidad",
+      "title": "Efecto adverso de rifampicina: hepatotoxicidad",
+      "contentHtml": "<h2>Efecto adverso de rifampicina: hepatotoxicidad</h2><ul><li><b>Hepatotoxicidad:</b> la <b>rifampicina</b> puede causar elevación de transaminasas (ALT/AST) y, en casos graves, hepatitis colestásica o necrosis hepática. Es más frecuente en combinación con <b>isoniacida</b> (sinergia hepatotóxica).</li><li><b>Monitorización:</b> medir enzimas hepáticas al inicio y mensualmente. Suspender si ALT &gt;3 veces el límite superior normal con síntomas (ictericia, náuseas, dolor abdominal) o &gt;5 veces sin síntomas.</li><li><b>Manejo:</b> retirar fármacos hepatotóxicos, evaluar reinicio escalonado. La <b>rifampicina</b> es menos hepatotóxica que la <b>isoniacida</b>; a menudo se reintroduce primero.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Neuropatía por isoniacida y profilaxis con B6",
+      "title": "Neuropatía por isoniacida y profilaxis con B6",
+      "contentHtml": "<h2>Neuropatía por isoniacida y profilaxis con B6</h2><ul><li><b>Neuropatía periférica:</b> efecto adverso dosis-dependiente de la <b>isoniacida</b> (más frecuente con dosis &gt;5 mg/kg/día o en pacientes con factores de riesgo: diabetes, alcoholismo, desnutrición, embarazo, VIH).</li><li><b>Mecanismo:</b> la <b>isoniacida</b> interfiere con el metabolismo de la <b>piridoxina (vitamina B6)</b> al formar hidrazonas inactivas, provocando déficit funcional de B6 necesario para la síntesis de neurotransmisores.</li><li><b>Profilaxis:</b> administrar <b>piridoxina (B6)</b> 25-50 mg/día en todos los pacientes con factores de riesgo o dosis altas de <b>isoniacida</b>. La neuropatía es reversible si se detecta a tiempo y se suplementa.</li></ul>"
+    }
+  ]
+}

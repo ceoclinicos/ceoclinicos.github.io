@@ -1,0 +1,65 @@
+{
+  "id": "enterobactérias",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Escherichia coli causa mais infecções do trato urinário",
+      "title": "E. coli em ITU",
+      "contentHtml": "<h2>E. coli na ITU</h2><ul><li><b>Escherichia coli</b> é a primeira causa de <b>infecção não complicada do trato urinário</b> (>80% dos casos).</li><li>O principal fator de virulência são as <b>fímbrias P</b> (adesinas que se ligam aos receptores uroepiteliais).</li><li>Na pielonefrite aguda, o diagnóstico é confirmado com <b>urocultura positiva</b>. (&gt;10<sup>5</sup> UFC/mL).</li><li>Primeira linha empírica: <b>trimetoprim-sulfametoxazol</b> (se resistência &lt;20%) ou <b>nitrofurantoína</b> na cistite.</li><li><b>Armadilha:</b> cepas produtoras de <b>ESBL</b> (beta-lactamases de espectro estendido) são resistentes a cefalosporinas. 3ª geração; tratar com <b>ertapenem</b> ou <b>fosfomicina trometamol</b>.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Klebsiella pneumoniae produtora de carbapenemases",
+      "title": "KPC: K. pneumoniae carbapenemase",
+      "contentHtml": "<h2>KPC: K. pneumoniae carbapenemase</h2><ul><li><b>Klebsiella pneumoniae produtora de carbapenemase</b> (KPC) é uma causa de <b>infecção nosocomial</b> com alta mortalidade (40-50%).</li><li>Mecanismo: enzima <b>carbapenemase tipo A</b> (serina-betalactamase) que hidrolisa carbapenêmicos e quase todos os beta-lactâmicos.</li><li>Diagnóstico: <b>teste de Hodge modificado</b> ou <b>PCR</b> para o gene <b>blaKPC</b>.</li><li>Terapia de primeira linha: combinação de <b>ceftazidima-avibactam</b> (dose: 2,5 g a cada 8 h IV).</li><li><b>Armadilha:</b> se a cepa produzir <b>metalo-betalactamase</b> (NDM), ceftazidima-avibactam não é ativo; use <b>ceftazidima-avibactam + aztreonam</b> ou <b>tigeciclina</b>.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Salmonella typhi causa febre tifóide",
+      "title": "Febre tifóide devido a S. typhi",
+      "contentHtml": "<h2>Febre tifóide por S. typhi</h2><ul><li><b>Salmonella typhi</b> causa <b>febre tifóide</b>, febre prolongada, bradicardia relativa e <b>manchas rosadas</b> no tronco.</li><li>Fisiopatologia: invasão de <b>placas de Peyer</b> no íleo distal; pode causar perfuração intestinal (emergência cirúrgica).</li><li>Diagnóstico: <b>hemocultura</b> (positiva na primeira semana), <b>coprocultura</b> (2ª a 3ª semana), <b>reação de Widal</b> (anticorpos O e H, embora com falsos positivos).</li><li>Primeira linha: <b>ceftriaxona</b> (2 g/dia IV) ou <b>azitromicina</b> (500 mg/dia PO) devido à resistência ao cloranfenicol.</li><li><b>Trap:</b> <b>portador crônico</b> (vesícula biliar) é tratado com <b>ciprofloxacina</b> 750 mg a cada 12 h PO por 4-6 semanas.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Shigella causa disenteria por invasão da mucosa",
+      "title": "Shigella e disenteria invasiva",
+      "contentHtml": "<h2>Shigella e disenteria invasiva</h2><ul><li><b>Shigella</b> (espécie: <i>flexneri, sonnei, disenteriae, boydii</i>) causa <b>disenteria bacilar</b> por invasão da mucosa do cólon.</li><li>Fisiopatologia: secreção de <b>toxina Shiga</b> (semelhante à EHEC) que causa necrose epitelial e diarreia com sangue, muco e tenesmo.</li><li>Diagnóstico: <b>coprocultura</b> em meio <b>SS (Salmonella-Shigella)</b> e aglutinação sorológica.</li><li>Primeira linha: <b>azitromicina</b> (500 mg/dia PO por 3 dias) ou <b>ciprofloxacina</b> (500 mg a cada 12 h PO por 3 dias) dias).</li><li><b>Armadilha:</b> não use antidiarreicos (loperamida) porque eles retêm o patógeno e aumentam o risco de megacólon tóxico.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Enterobacter cloacae resistente à cefalosporina",
+      "title": "Enterobacter cloacae AmpC",
+      "contentHtml": "<h2>Enterobacter cloacae AmpC</h2><ul><li><b>Enterobacter cloacae</b> possui <b>beta-lactamase AmpC induzível</b> codificada no cromossomo; a exposição às cefalosporinas de 3ª geração seleciona mutantes desreprimidos.</li><li>Resistência: à <b>ceftriaxona</b>, <b>cefotaxima</b> e <b>ceftazidima</b>; eles não hidrolisam cefepima ou carbapenêmicos (em cepas sem outras beta-lactamases).</li><li>Diagnóstico: <b>teste de indução com cefoxitina</b> (cefoxitina adjacente e disco de ceftazidima; sinergia sugere AmpC).</li><li>Primeira linha: <b>cefepima</b> (2 g a cada 8 h IV) ou <b>carbapenem</b> se houver infecção grave.</li><li><b>Armadilhagem:</b> em <b>infecção do cateter</b> ou bacteremia, considere a remoção do dispositivo e o ajuste do antibiótico devido à sensibilidade.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Yersinia enterocolitica causa adenite mesentérica",
+      "title": "Y. enterocolitica e adenite",
+      "contentHtml": "<h2>E. enterocolitica e adenite</h2><ul><li><b>Yersinia enterocolitica</b> causa <b>adenite mesentérica</b> (pseudoapendicite) com dor na fossa ilíaca direita, febre e diarreia.</li><li>Fisiopatologia: invasão de linfonodos mesentéricos; pode produzir <b>eritema nodoso</b> e artrite reativa (pós-infecciosa).</li><li>Diagnóstico: <b>cultura de fezes</b> em meio <b>CIN (cefsulodina-irgasan-novobiocina)</b> a 25-30°C; sorologia para anticorpos anti-Yersinia.</li><li>Primeira linha: <b>trimetoprim-sulfametoxazol</b> (800/160 mg a cada 12 h PO) ou <b>ciprofloxacina</b> em casos graves.</li><li><b>Trap:</b> diferenciar de apendicite aguda; se houver <b>adenite mesentérica</b>, evitar cirurgias desnecessárias; O tratamento é médico. </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Proteus mirabilis produz urease e pedras",
+      "title": "Proteus mirabilis e litíase",
+      "contentHtml": "<h2>Proteus mirabilis e litíase</h2><ul><li><b>Proteus mirabilis</b> produz <b>urease</b> que hidrolisa a uréia em amônio, alcalinizando a urina (pH &gt;7).</li><li>A alcalinização precipita <b>fosfato de amônio e magnésio</b> (estruvita), formando <b>pedras em forma de coral</b> (chifre de veado). </li><li>Fisiopatologia: os cálculos atuam como ninho bacteriano, perpetuando a infecção; requerem <b>nefrolitotomia percutânea</b> para erradicação completa.</li><li>Primeira linha: <b>ciprofloxacina</b> (500 mg a cada 12 horas PO) ou <b>trimetoprim-sulfametoxazol</b> se sensível; associar <b>ácido acetohidroxâmico</b> (inibidor da urease, segunda linha).</li><li><b>Armadilha:</b> <b>Proteus mirabilis</b> é intrinsecamente resistente à <b>tetraciclina</b> e à <b>colistina</b>.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Serratia marcescens associada a infecções nosocomiais",
+      "title": "Serratia marcescens nosocomial",
+      "contentHtml": "<h2>Serratia marcescens nosocomial</h2><ul><li><b>Serratia marcescens</b> é um patógeno nosocomial oportunista, comum em <b>UTI</b> e pacientes com <b>cateteres</b> ou <b>ventilação mecânica</b>.</li><li>Produz <b>infecções do trato urinário</b>, <b>pneumonia</b> e <b>bacteremia</b>; tem <b>beta-lactamase AmpC induzível</b> e resistência a múltiplos antibióticos.</li><li>Fator de virulência: <b>prodigiosina</b> (pigmento vermelho) e <b>proteases</b> que degradam IgA.</li><li>Primeira linha: <b>cefepima</b> (2 g a cada 8 h IV) ou <b>carbapenem</b> (meropenem 1 g a cada 8 h IV).</li><li><b>Trap:</b> <b>Serratia</b> é resistente à <b>polimixina B</b> e à <b>colistina</b> pela modificação do LPS; Não use esses medicamentos. </li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Citrobacter freundii induz beta-lactamases AmpC",
+      "title": "Citrobacter freundii AmpC",
+      "contentHtml": "<h2>Citrobacter freundii AmpC</h2><ul><li><b>Citrobacter freundii</b> possui <b>beta-lactamase AmpC cromossômica induzível</b>, semelhante à Enterobacter; é desreprimida com a exposição às cefalosporinas de 3ª geração.</li><li>Resistência: à <b>ceftriaxona</b>, <b>cefotaxima</b> e <b>ceftazidima</b>; permanece sensível a <b>cefepima</b> e <b>carbapenêmicos</b>.</li><li>Diagnóstico: <b>teste de indução com cefoxitina</b> (positivo se houver sinergia entre o disco de cefoxitina e a ceftazidima).</li><li>Primeira linha: <b>cefepima</b> (2 g a cada 8 h IV) ou <b>meropenem</b> (1 g a cada 8 h IV) em infecções graves.</li><li><b>Armadilha:</b> <b>Citrobacter freundii</b> pode adquirir <b>ESBL</b> ou <b>carbapenemases</b> através de plasmídeos; solicitar antibiograma estendido. </li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Morganella morganii resistente à colistina",
+      "title": "Morganella morganii e colistina",
+      "contentHtml": "<h2>Morganella morganii e colistina</h2><ul><li><b>Morganella morganii</b> é um bacilo gram-negativo anaeróbio facultativo que apresenta <b>resistência intrínseca à colistina</b> e à <b>polimixina B</b>.</li><li>Mecanismo: modificação do lipídeo A do LPS pelas enzimas <b>ArnT</b> e <b>PmrC</b>, reduzindo a carga negativa.</li><li>Frequentemente causa <b>infecção urinária</b> e <b>infecção de feridas</b> em pacientes imunocomprometidos.</li><li>Primeira linha: <b>carbapenem</b> (meropenem 1 g a cada 8 h IV) ou <b>cefepima</b> (2 g a cada 8 h IV), dependendo sensibilidade.</li><li><b>Armadilha:</b> não usar <b>colistina</b> ou <b>tigeciclina</b> (resistência natural); <b>Morganella</b> é produtora de <b>urease</b>, mas não tão potente quanto Proteus.</li></ul>"
+    }
+  ]
+}

@@ -1,0 +1,1372 @@
+{
+  "questions": [
+    {
+      "question": "¿Cuál es el mecanismo de acción de la exotoxina A de Pseudomonas aeruginosa?",
+      "options": [
+        "Inhibe la síntesis proteica",
+        "Despolimeriza actina",
+        "Activa adenilato ciclasa",
+        "Bloquea la pared celular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La exotoxina A de Pseudomonas aeruginosa es una ADP-ribosiltransferasa que inactiva el factor de elongación 2 (EF-2), inhibiendo la síntesis proteica y causando muerte celular.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "factores_virulencia",
+        "exotoxina_a",
+        "TEMA_MEDICO",
+        "Murray Microbiología Médica 9ed"
+      ]
+    },
+    {
+      "question": "La exotoxina A de Pseudomonas aeruginosa se asemeja funcionalmente a la toxina de:",
+      "options": [
+        "Escherichia coli",
+        "Vibrio cholerae",
+        "Corynebacterium diphtheriae",
+        "Clostridium tetani"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tanto la exotoxina A de Pseudomonas como la toxina diftérica de Corynebacterium diphtheriae actúan mediante ADP-ribosilación del factor de elongación 2, inhibiendo la síntesis proteica.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "factores_virulencia",
+        "comparacion_toxinas",
+        "TEMA_MEDICO",
+        "Murray---Jawetz"
+      ]
+    },
+    {
+      "question": "¿Qué estructura celular es el blanco molecular de la exotoxina A?",
+      "options": [
+        "Ribosoma 30S",
+        "ADN girasa",
+        "ARN polimerasa",
+        "Factor de elongación 2"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La exotoxina A cataliza la transferencia de ADP-ribosa desde el NAD al factor de elongación 2 (EF-2), inactivándolo y deteniendo la traducción proteica.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "factores_virulencia",
+        "blanco_molecular",
+        "TEMA_MEDICO",
+        "Murray---Harrison"
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes describe mejor el efecto final de la exotoxina A en la célula huésped?",
+      "options": [
+        "Lisis osmótica",
+        "Apoptosis masiva",
+        "Inhibición de traducción",
+        "Bloqueo de transcripción"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Al inactivar el EF-2, la exotoxina A impide la elongación de la cadena polipeptídica durante la traducción, lo que lleva a la inhibición de la síntesis proteica y muerte celular.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "factores_virulencia",
+        "efecto_celular",
+        "TEMA_MEDICO",
+        "Jawetz 28ed"
+      ]
+    },
+    {
+      "question": "La exotoxina A de Pseudomonas aeruginosa es un factor de virulencia que pertenece a la categoría de:",
+      "options": [
+        "Lipopolisacáridos",
+        "Exoenzimas tipo III",
+        "Sideróforos",
+        "Adhesinas fimbriales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La exotoxina A es secretada por el sistema de secreción tipo II, pero funcionalmente se considera una exoenzima que actúa como toxina intracelular, similar a las del sistema tipo III en su efecto citotóxico.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "factores_virulencia",
+        "clasificacion_toxinas",
+        "TEMA_MEDICO",
+        "Murray---Jawetz"
+      ]
+    },
+    {
+      "question": "¿Qué cofactor requiere la exotoxina A para ejercer su actividad enzimática?",
+      "options": [
+        "ATP",
+        "NAD",
+        "GTP",
+        "FAD"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La exotoxina A utiliza NAD como sustrato para transferir la ADP-ribosa al EF-2; sin NAD la reacción de ADP-ribosilación no puede ocurrir.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "factores_virulencia",
+        "cofactor_enzimatico",
+        "TEMA_MEDICO",
+        "Murray---Harrison"
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal mecanismo de resistencia intrínseca a betalactámicos en Pseudomonas aeruginosa?",
+      "options": [
+        "Permeabilidad aumentada",
+        "Producción de beta-lactamasa TEM",
+        "Bomba de eflujo MexAB-OprM",
+        "Modificación del PBP-3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pseudomonas aeruginosa posee una bomba de eflujo constitutiva MexAB-OprM que expulsa betalactámicos y otros antibióticos, contribuyendo a su resistencia intrínseca a múltiples fármacos.",
+      "hashtags": [
+        "microbiologia",
+        "resistencia_betalactamicos",
+        "mecanismos_resistencia",
+        "bomba_eflujo",
+        "TEMA_MEDICO",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "¿Qué enzima codificada cromosómicamente confiere resistencia intrínseca a betalactámicos en Pseudomonas aeruginosa?",
+      "options": [
+        "Beta-lactamasa TEM-1",
+        "Beta-lactamasa SHV-5",
+        "Beta-lactamasa AmpC",
+        "Beta-lactamasa KPC"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pseudomonas aeruginosa produce constitutivamente una beta-lactamasa AmpC cromosómica (tipo Bush 1) que hidroliza penicilinas y cefalosporinas de primera generación, contribuyendo a la resistencia intrínseca.",
+      "hashtags": [
+        "microbiologia",
+        "resistencia_betalactamicos",
+        "factores_virulencia",
+        "ampc_cromosomica",
+        "TEMA_MEDICO",
+        "Murray 8ed"
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes antibióticos betalactámicos es más activo frente a Pseudomonas aeruginosa por su estabilidad ante la resistencia intrínseca?",
+      "options": [
+        "Cefalexina",
+        "Cefotaxima",
+        "Cefazolina",
+        "Ceftazidima"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Ceftazidima es una cefalosporina de tercera generación con actividad antipseudomónica, ya que es menos afectada por la beta-lactamasa AmpC y las bombas de eflujo constitutivas de Pseudomonas aeruginosa.",
+      "hashtags": [
+        "farmacologia",
+        "resistencia_betalactamicos",
+        "indicaciones",
+        "ceftazidima",
+        "TEMA_MEDICO",
+        "Sanford 2023"
+      ]
+    },
+    {
+      "question": "¿Qué mutación en el gen oprM de Pseudomonas aeruginosa se asocia con aumento de resistencia intrínseca a betalactámicos?",
+      "options": [
+        "Sobreexpresión de la bomba",
+        "Deleción del gen",
+        "Mutación puntual silenciosa",
+        "Inserto de IS en promotor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La sobreexpresión de la bomba de eflujo MexAB-OprM, debida a mutaciones en sus genes reguladores (nalB, nalC), incrementa la expulsión de betalactámicos y eleva la resistencia intrínseca en Pseudomonas aeruginosa.",
+      "hashtags": [
+        "microbiologia",
+        "resistencia_betalactamicos",
+        "mecanismos_resistencia",
+        "sobreexpresion_eflujo",
+        "TEMA_MEDICO",
+        "Clin Microbiol Rev 2020"
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes características de la membrana externa de Pseudomonas aeruginosa contribuye a su resistencia intrínseca a betalactámicos?",
+      "options": [
+        "Alta fluidez lipídica",
+        "Presencia de porinas OprF",
+        "Baja permeabilidad por porinas",
+        "Ausencia de lipopolisacárido"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La membrana externa de Pseudomonas aeruginosa tiene porinas (OprF) de baja permeabilidad, lo que limita la entrada de betalactámicos y otros antibióticos, constituyendo un mecanismo de resistencia intrínseca.",
+      "hashtags": [
+        "microbiologia",
+        "resistencia_betalactamicos",
+        "morfologia_estructura",
+        "porinas_oprf",
+        "TEMA_MEDICO",
+        "Murray 8ed"
+      ]
+    },
+    {
+      "question": "¿Qué combinación de mecanismos confiere resistencia intrínseca a betalactámicos en Pseudomonas aeruginosa?",
+      "options": [
+        "Bomba de eflujo + meticilinasa",
+        "AmpC + bomba de eflujo + baja permeabilidad",
+        "Porina OprD + betalactamasa KPC",
+        "PBP modificado + betalactamasa TEM"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pseudomonas aeruginosa combina tres mecanismos intrínsecos: beta-lactamasa AmpC cromosómica, bomba de eflujo MexAB-OprM y baja permeabilidad de la membrana externa, generando resistencia a múltiples betalactámicos.",
+      "hashtags": [
+        "microbiologia",
+        "resistencia_betalactamicos",
+        "patogenia",
+        "mecanismos_combinados",
+        "TEMA_MEDICO",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal función de la formación de biopelículas de Pseudomonas aeruginosa en fibrosis quística?",
+      "options": [
+        "Favorecer la dispersión bacteriana",
+        "Reducir la resistencia a antibióticos",
+        "Evadir la respuesta inmune del huésped",
+        "Incrementar la producción de toxinas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La biopelícula actúa como una barrera física que protege a las bacterias de la fagocitosis, anticuerpos y antibióticos, permitiendo la persistencia crónica en las vías respiratorias de pacientes con fibrosis quística.",
+      "hashtags": [
+        "microbiologia",
+        "fibrosis_quistica",
+        "fisiopatologia",
+        "biopelicula",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué molécula de señalización es clave en la formación de biopelículas de Pseudomonas aeruginosa?",
+      "options": [
+        "Lipopolisacárido",
+        "Exotoxina A",
+        "Alginato",
+        "Flagelina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El alginato es un exopolisacárido esencial para la arquitectura de la biopelícula en cepas mucoides de Pseudomonas aeruginosa, especialmente en infecciones crónicas de fibrosis quística.",
+      "hashtags": [
+        "microbiologia",
+        "fibrosis_quistica",
+        "fisiopatologia",
+        "alginato",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal factor que favorece la transición a fenotipo mucoide en Pseudomonas aeruginosa en fibrosis quística?",
+      "options": [
+        "Presencia de virus respiratorios",
+        "Alta concentración de hierro",
+        "Baja humedad ambiental",
+        "Estrés oxidativo crónico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El estrés oxidativo crónico en el pulmón de pacientes con fibrosis quística induce mutaciones en el gen mucA, lo que lleva a la sobreproducción de alginato y al fenotipo mucoide característico de las biopelículas.",
+      "hashtags": [
+        "microbiologia",
+        "fibrosis_quistica",
+        "fisiopatologia",
+        "fenotipo_mucoide",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué sistema de detección de quórum está implicado en la formación de biopelículas de Pseudomonas aeruginosa?",
+      "options": [
+        "Sistema ComCDE",
+        "Sistema LasI/LasR",
+        "Sistema Agr",
+        "Sistema PhoP/PhoQ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El sistema LasI/LasR es uno de los principales sistemas de quórum sensing en Pseudomonas aeruginosa, regulando la expresión de genes involucrados en la formación de biopelículas y la producción de factores de virulencia.",
+      "hashtags": [
+        "microbiologia",
+        "fibrosis_quistica",
+        "fisiopatologia",
+        "quorum_sensing",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué característica estructural de la biopelícula de Pseudomonas aeruginosa dificulta la penetración de antibióticos?",
+      "options": [
+        "Matriz de polisacáridos",
+        "Flagelos perítricos",
+        "Cápsula proteica",
+        "Pared celular gruesa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La matriz extracelular compuesta principalmente por polisacáridos como el alginato forma una barrera física que limita la difusión de antibióticos, contribuyendo a la resistencia de las bacterias dentro de la biopelícula.",
+      "hashtags": [
+        "microbiologia",
+        "fibrosis_quistica",
+        "fisiopatologia",
+        "matriz_extracelular",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal objetivo terapéutico para erradicar biopelículas de Pseudomonas aeruginosa en fibrosis quística?",
+      "options": [
+        "Disruptar la matriz de la biopelícula",
+        "Bloquear la producción de exotoxinas",
+        "Aumentar la motilidad bacteriana",
+        "Inhibir la síntesis de flagelina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Disruptar la matriz de la biopelícula (por ejemplo, con DNasa recombinante o agentes quelantes) es clave para permitir la penetración de antibióticos y la acción del sistema inmune, mejorando el control de la infección crónica.",
+      "hashtags": [
+        "microbiologia",
+        "fibrosis_quistica",
+        "tratamiento",
+        "disrupción_biopelícula",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el agente etiológico más frecuente de la otitis externa maligna?",
+      "options": [
+        "Pseudomonas aeruginosa",
+        "Escherichia coli",
+        "Streptococcus pneumoniae",
+        "Staphylococcus aureus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pseudomonas aeruginosa es el patógeno más comúnmente aislado en la otitis externa maligna, especialmente en pacientes diabéticos o inmunocomprometidos.",
+      "hashtags": [
+        "otorrinolaringologia",
+        "otitis_externa_maligna",
+        "etiologia",
+        "pseudomonas_aeruginosa",
+        "TEMA_MEDICO",
+        "Cummings Otolaryngology 7ed"
+      ]
+    },
+    {
+      "question": "¿Qué factor de riesgo clásico predispone a otitis externa maligna por Pseudomonas?",
+      "options": [
+        "Insuficiencia renal",
+        "Asma bronquial",
+        "Diabetes mellitus",
+        "Hipertensión arterial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La diabetes mellitus es el principal factor de riesgo para el desarrollo de otitis externa maligna, facilitando la infección por Pseudomonas aeruginosa debido a la microangiopatía y alteración inmunitaria.",
+      "hashtags": [
+        "otorrinolaringologia",
+        "otitis_externa_maligna",
+        "epidemiologia",
+        "diabetes_mellitus",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento antibiótico de primera línea en otitis externa maligna por Pseudomonas?",
+      "options": [
+        "Amoxicilina",
+        "Ciprofloxacino",
+        "Ceftriaxona",
+        "Clindamicina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El ciprofloxacino es el antibiótico de elección por su alta actividad contra Pseudomonas aeruginosa y buena penetración en tejido óseo y cartilaginoso.",
+      "hashtags": [
+        "otorrinolaringologia",
+        "otitis_externa_maligna",
+        "tratamiento",
+        "ciprofloxacino",
+        "TEMA_MEDICO",
+        "Guía IDSA 2023"
+      ]
+    },
+    {
+      "question": "¿Qué complicación grave puede presentar la otitis externa maligna por Pseudomonas?",
+      "options": [
+        "Meningitis",
+        "Absceso hepático",
+        "Neumonía",
+        "Endocarditis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La extensión de la infección a la base del cráneo puede producir meningitis, parálisis de pares craneales y osteomielitis de la base del cráneo.",
+      "hashtags": [
+        "otorrinolaringologia",
+        "otitis_externa_maligna",
+        "complicaciones",
+        "meningitis",
+        "TEMA_MEDICO",
+        "Cummings Otolaryngology 7ed"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo imagenológico es característico en otitis externa maligna?",
+      "options": [
+        "Derrame pleural",
+        "Engrosamiento de cuerdas vocales",
+        "Absceso cerebral frontal",
+        "Osteomielitis de base de cráneo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La tomografía computarizada o resonancia magnética suele mostrar osteomielitis de la base del cráneo, que es un hallazgo distintivo de la otitis externa maligna avanzada.",
+      "hashtags": [
+        "otorrinolaringologia",
+        "otitis_externa_maligna",
+        "diagnostico",
+        "osteomielitis_base_craneo",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la vía de administración inicial recomendada para el antibiótico en otitis externa maligna?",
+      "options": [
+        "Intravenosa",
+        "Intramuscular",
+        "Oral",
+        "Tópica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tratamiento inicial es intravenoso para asegurar niveles séricos adecuados, especialmente en casos con compromiso óseo o extensión intracraneal.",
+      "hashtags": [
+        "otorrinolaringologia",
+        "otitis_externa_maligna",
+        "tratamiento",
+        "via_intravenosa",
+        "TEMA_MEDICO",
+        "Guía IDSA 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento de elección para infecciones graves por Pseudomonas aeruginosa?",
+      "options": [
+        "Ciprofloxacino oral",
+        "Amoxicilina-ácido clavulánico",
+        "Azitromicina intravenosa",
+        "Ceftazidima o cefepime"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Ceftazidima y cefepime son cefalosporinas de tercera y cuarta generación con actividad antipseudomónica, consideradas de elección en infecciones graves por Pseudomonas aeruginosa.",
+      "hashtags": [
+        "medicina_interna",
+        "infeccion_por_pseudomonas",
+        "tratamiento",
+        "cefalosporinas_antipseudomonicas",
+        "TEMA_MEDICO",
+        "Sanford Guide 2023"
+      ]
+    },
+    {
+      "question": "¿Qué mecanismo de resistencia a ceftazidima es más relevante en Pseudomonas aeruginosa?",
+      "options": [
+        "Alteración de la ADN girasa",
+        "Bomba de eflujo de tetraciclinas",
+        "Producción de betalactamasas AmpC",
+        "Metilación del ARNr 16S"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La producción de betalactamasas AmpC inducibles es un mecanismo clave de resistencia de Pseudomonas aeruginosa a ceftazidima, limitando su eficacia en cepas desreprimidas.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "mecanismos_resistencia",
+        "ampc_inducible",
+        "TEMA_MEDICO",
+        "Murray Microbiología Médica 9ed"
+      ]
+    },
+    {
+      "question": "¿En qué tipo de infección por Pseudomonas aeruginosa se prefiere cefepime sobre ceftazidima?",
+      "options": [
+        "Otitis externa difusa",
+        "Foliculitis por jacuzzi",
+        "Neumonía asociada a ventilador",
+        "Infección urinaria no complicada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cefepime tiene mejor penetración en tejido pulmonar y es preferido en neumonía asociada a ventilador por Pseudomonas aeruginosa, superando a ceftazidima en este escenario.",
+      "hashtags": [
+        "medicina_interna",
+        "neumonia_asociada_a_ventilador",
+        "tratamiento",
+        "cefepime_vs_ceftazidima",
+        "TEMA_MEDICO",
+        "IDSA Guidelines 2023"
+      ]
+    },
+    {
+      "question": "¿Qué combinación antimicrobiana se usa sinérgicamente con ceftazidima en infecciones severas por Pseudomonas?",
+      "options": [
+        "Metronidazol o clindamicina",
+        "Amikacina o tobramicina",
+        "Vancomicina o linezolid",
+        "Doxiciclina o tigeciclina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los aminoglucósidos como amikacina o tobramicina se combinan sinérgicamente con ceftazidima para tratar infecciones severas por Pseudomonas aeruginosa, especialmente en neutropénicos.",
+      "hashtags": [
+        "farmacologia",
+        "sinergia_antimicrobiana",
+        "tratamiento",
+        "aminoglucosidos",
+        "TEMA_MEDICO",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal limitación clínica del uso de ceftazidima en Pseudomonas aeruginosa?",
+      "options": [
+        "Nefrotoxicidad dosis-dependiente",
+        "Escasa penetración en LCR",
+        "Interacción con anticoagulantes",
+        "Inducción de betalactamasas AmpC"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La inducción de betalactamasas AmpC por exposición a ceftazidima puede generar resistencia durante el tratamiento, siendo una limitación clínica relevante en infecciones por Pseudomonas.",
+      "hashtags": [
+        "microbiologia",
+        "resistencia_inducible",
+        "farmacodinamia",
+        "ampc",
+        "TEMA_MEDICO",
+        "Murray Microbiología Médica 9ed"
+      ]
+    },
+    {
+      "question": "¿Qué cefalosporina antipseudomónica de cuarta generación es alternativa a ceftazidima?",
+      "options": [
+        "Cefepime",
+        "Cefotaxima",
+        "Cefuroxima",
+        "Cefalexina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cefepime es una cefalosporina de cuarta generación con actividad antipseudomónica comparable a ceftazidima, usada como alternativa de elección en infecciones por Pseudomonas aeruginosa.",
+      "hashtags": [
+        "farmacologia",
+        "cefalosporinas",
+        "tratamiento",
+        "cefepime",
+        "TEMA_MEDICO",
+        "Sanford Guide 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal mecanismo de acción de las bombas de eflujo en Pseudomonas aeruginosa?",
+      "options": [
+        "Modificación del sitio diana ribosomal",
+        "Inactivación enzimática del antibiótico",
+        "Expulsión activa del antibiótico al exterior",
+        "Alteración de la permeabilidad de membrana"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las bombas de eflujo transportan activamente antibióticos desde el interior bacteriano al exterior, reduciendo su concentración intracelular y confiriendo resistencia.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "mecanismos_resistencia",
+        "bombas_de_eflujo",
+        "TEMA_MEDICO",
+        "Murray Microbiología Médica 9ed"
+      ]
+    },
+    {
+      "question": "¿Qué familia de bombas de eflujo es la más relevante en la resistencia de Pseudomonas aeruginosa?",
+      "options": [
+        "Familia ABC",
+        "Familia MFS",
+        "Familia RND",
+        "Familia SMR"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La familia RND (Resistance-Nodulation-Division) es la más importante en Pseudomonas aeruginosa, siendo MexAB-OprM el sistema prototípico que expulsa múltiples antibióticos.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "morfologia_estructura",
+        "bombas_de_eflujo_rnd",
+        "TEMA_MEDICO",
+        "Murray Microbiología Médica 9ed"
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes antibióticos es sustrato típico de la bomba MexAB-OprM?",
+      "options": [
+        "Ceftazidima",
+        "Ciprofloxacino",
+        "Meropenem",
+        "Vancomicina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "MexAB-OprM expulsa fluoroquinolonas como ciprofloxacino, además de betalactámicos y aminoglucósidos; la vancomicina no es sustrato típico en gramnegativos.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "mecanismos_resistencia",
+        "sustratos_mexab_oprm",
+        "TEMA_MEDICO",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "¿Qué componente de la bomba MexAB-OprM actúa como porina de membrana externa?",
+      "options": [
+        "MexC",
+        "OprM",
+        "MexB",
+        "MexA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "OprM es la proteína de membrana externa que forma el canal de salida; MexA es la proteína de fusión periplásmica y MexB el transportador interno.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "morfologia_estructura",
+        "componentes_mexab_oprm",
+        "TEMA_MEDICO",
+        "Murray Microbiología Médica 9ed"
+      ]
+    },
+    {
+      "question": "¿Qué factor regula la sobreexpresión de bombas de eflujo en Pseudomonas aeruginosa?",
+      "options": [
+        "Presencia de cationes divalentes",
+        "Mutaciones en genes reguladores",
+        "Aumento de la temperatura ambiental",
+        "Disminución del pH citoplasmático"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mutaciones en genes reguladores como mexR o nalC llevan a sobreexpresión de bombas de eflujo, incrementando la resistencia; los otros factores no son desencadenantes primarios.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "factores_virulencia",
+        "regulacion_bombas_eflujo",
+        "TEMA_MEDICO",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la consecuencia clínica principal de la sobreexpresión de bombas de eflujo en Pseudomonas aeruginosa?",
+      "options": [
+        "Mayor susceptibilidad a fagocitosis",
+        "Aumento de la producción de biopelícula",
+        "Resistencia a múltiples clases antibióticas",
+        "Reducción de la motilidad bacteriana"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La sobreexpresión de bombas de eflujo confiere resistencia simultánea a varias clases de antibióticos (fluoroquinolonas, betalactámicos, aminoglucósidos), dificultando el tratamiento.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "patogenia",
+        "resistencia_multiple",
+        "TEMA_MEDICO",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal mecanismo de patogenicidad de Pseudomonas aeruginosa en infecciones de quemaduras?",
+      "options": [
+        "Invasión por flagelos",
+        "Formación de esporas resistentes",
+        "Secreción de exotoxina A",
+        "Producción de toxina tetánica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La exotoxina A de Pseudomonas aeruginosa inhibe la síntesis proteica celular, siendo un factor de virulencia clave en infecciones de quemaduras al causar necrosis local y facilitar la diseminación sistémica.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "factores_virulencia",
+        "exotoxina_a",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué antibiótico se considera de primera línea para infecciones por Pseudomonas aeruginosa en pacientes quemados?",
+      "options": [
+        "Eritromicina",
+        "Cefepime",
+        "Clindamicina",
+        "Ceftriaxona"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cefepime es una cefalosporina de cuarta generación con actividad antipseudomónica, utilizada como primera línea empírica en infecciones nosocomiales por Pseudomonas en quemados, cubriendo también gramnegativos resistentes.",
+      "hashtags": [
+        "farmacologia",
+        "infeccion_nosocomial",
+        "indicaciones",
+        "cefepime",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal factor de riesgo para colonización por Pseudomonas aeruginosa en pacientes quemados?",
+      "options": [
+        "Edad menor de 5 años",
+        "Antecedente de diabetes",
+        "Uso de catéter venoso central",
+        "Pérdida de barrera cutánea"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La pérdida de la barrera cutánea por la quemadura expone tejidos subyacentes, permitiendo la colonización por Pseudomonas aeruginosa del ambiente hospitalario, principal factor de riesgo para infección nosocomial.",
+      "hashtags": [
+        "patologia",
+        "infeccion_nosocomial",
+        "etiologia",
+        "perdida_barrera_cutanea",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo clínico es característico de la infección por Pseudomonas aeruginosa en quemaduras?",
+      "options": [
+        "Vesículas hemorrágicas",
+        "Exudado amarillo purulento",
+        "Secreción verdosa con olor dulce",
+        "Costras negras secas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La secreción verdosa con olor dulce o afrutado es típica de la infección por Pseudomonas aeruginosa debido a la producción de picocianina, un pigmento azul-verdoso que tiñe el exudado.",
+      "hashtags": [
+        "medicina_interna",
+        "infeccion_nosocomial",
+        "cuadro_clinico",
+        "secrecion_verdosa",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué complicación sistémica grave puede desencadenar Pseudomonas aeruginosa en quemaduras extensas?",
+      "options": [
+        "Trombosis venosa profunda",
+        "Sepsis por gramnegativos",
+        "Síndrome de Stevens-Johnson",
+        "Neumonía aspirativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pseudomonas aeruginosa puede invadir el torrente sanguíneo desde la herida quemada, provocando sepsis por gramnegativos con shock séptico, una complicación frecuente y letal en quemaduras extensas no controladas.",
+      "hashtags": [
+        "patologia",
+        "infeccion_nosocomial",
+        "complicaciones",
+        "sepsis_gramnegativos",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué medida preventiva es más eficaz para reducir infecciones por Pseudomonas en unidades de quemados?",
+      "options": [
+        "Aislamiento de contacto estricto",
+        "Uso de antibióticos profilácticos",
+        "Ventilación mecánica preventiva",
+        "Baños diarios con clorhexidina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aislamiento de contacto estricto (uso de guantes, batas y habitación individual) reduce la transmisión nosocomial de Pseudomonas aeruginosa en unidades de quemados, donde la colonización cruzada es un problema crítico.",
+      "hashtags": [
+        "medicina_interna",
+        "infeccion_nosocomial",
+        "tratamiento",
+        "aislamiento_contacto",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué molécula señalizadora regula el quorum sensing en Pseudomonas aeruginosa?",
+      "options": [
+        "Factor sigma RpoS",
+        "Ácido salicílico",
+        "N-acil homoserina lactona",
+        "Exotoxina A"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pseudomonas aeruginosa utiliza N-acil homoserina lactona como molécula señalizadora en su sistema de quorum sensing, regulando la expresión de genes de virulencia como la producción de piocianina.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "patogenia",
+        "quorum_sensing",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes pigmentos produce Pseudomonas aeruginosa mediante quorum sensing?",
+      "options": [
+        "Pioverdina",
+        "Caroteno",
+        "Melanina",
+        "Piocianina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La piocianina es un pigmento fenazínico producido por Pseudomonas aeruginosa, regulado por el sistema de quorum sensing LasI/LasR, que contribuye a su patogenicidad y al daño oxidativo.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "factores_virulencia",
+        "piocianina",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué sistema de quorum sensing controla la producción de piocianina en Pseudomonas aeruginosa?",
+      "options": [
+        "Sistema Agr",
+        "Sistema LuxS",
+        "Sistema LasI/LasR",
+        "Sistema ComQXPA"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El sistema LasI/LasR es el principal regulador del quorum sensing en Pseudomonas aeruginosa, activando la transcripción de genes implicados en la producción de piocianina y otros factores de virulencia.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "patogenia",
+        "sistema_las",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué efecto tiene la piocianina sobre las células del hospedador?",
+      "options": [
+        "Genera estrés oxidativo",
+        "Bloquea la síntesis proteica",
+        "Inhibe la fagocitosis",
+        "Estimula la apoptosis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La piocianina induce estrés oxidativo en las células del hospedador al generar especies reactivas de oxígeno, lo que contribuye al daño tisular y a la persistencia de la infección por Pseudomonas aeruginosa.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "patogenia",
+        "estres_oxidativo",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes moléculas es un autoinductor del quorum sensing en Pseudomonas aeruginosa?",
+      "options": [
+        "PQS",
+        "3-oxo-C12-HSL",
+        "C4-HSL",
+        "Todas las anteriores"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Pseudomonas aeruginosa produce varios autoinductores: 3-oxo-C12-HSL (sistema Las), C4-HSL (sistema Rhl) y PQS (Pseudomonas Quinolone Signal), todos involucrados en la regulación de la piocianina.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "morfologia_estructura",
+        "autoinductores",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué gen codifica la síntesis de piocianina en Pseudomonas aeruginosa?",
+      "options": [
+        "exoS",
+        "rhlR",
+        "phzA",
+        "lasI"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El operón phzA-G codifica las enzimas necesarias para la biosíntesis de piocianina, un factor de virulencia clave regulado por quorum sensing en Pseudomonas aeruginosa.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "metabolismo_genetica",
+        "operon_phz",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el mecanismo de acción de los aminoglucósidos frente a Pseudomonas aeruginosa?",
+      "options": [
+        "Alteración de la membrana externa",
+        "Inhibición de la síntesis proteica",
+        "Inhibición de la topoisomerasa",
+        "Inhibición de la síntesis de pared"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los aminoglucósidos actúan uniéndose a la subunidad 30S del ribosoma bacteriano, inhibiendo la síntesis proteica y provocando errores de lectura del ARNm, lo que lleva a la muerte bacteriana.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "mecanismo_accion",
+        "aminoglucosidos",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué tipo de antibiótico es la ciprofloxacina para Pseudomonas aeruginosa?",
+      "options": [
+        "Carbapenémico",
+        "Cefalosporina",
+        "Aminoglucósido",
+        "Fluoroquinolona"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La ciprofloxacina pertenece al grupo de las fluoroquinolonas, las cuales actúan inhibiendo la ADN girasa y la topoisomerasa IV, siendo activas frente a Pseudomonas aeruginosa sensible.",
+      "hashtags": [
+        "farmacologia",
+        "pseudomonas_aeruginosa",
+        "clasificacion",
+        "quinolonas",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes aminoglucósidos se usa típicamente contra Pseudomonas aeruginosa?",
+      "options": [
+        "Clindamicina",
+        "Gentamicina",
+        "Vancomicina",
+        "Eritromicina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La gentamicina es un aminoglucósido de uso frecuente en infecciones por Pseudomonas aeruginosa, especialmente en combinación con betalactámicos para sinergia y cobertura de cepas sensibles.",
+      "hashtags": [
+        "farmacologia",
+        "pseudomonas_aeruginosa",
+        "indicaciones",
+        "gentamicina",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué mecanismo de resistencia a quinolonas es más común en Pseudomonas aeruginosa?",
+      "options": [
+        "Bomba de eflujo",
+        "Modificación del sitio diana",
+        "Alteración de porinas",
+        "Inactivación enzimática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las bombas de eflujo, como MexAB-OprM, son un mecanismo frecuente de resistencia a quinolonas en Pseudomonas aeruginosa, expulsando activamente el antibiótico fuera de la célula bacteriana.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "mecanismos_resistencia",
+        "bombas_eflujo",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿En qué tipo de infección por Pseudomonas aeruginosa se prefiere usar una fluoroquinolona como monoterapia?",
+      "options": [
+        "Bacteriemia por catéter",
+        "Infección urinaria no complicada",
+        "Neumonía grave intrahospitalaria",
+        "Osteomielitis crónica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las fluoroquinolonas como ciprofloxacina se usan en infecciones urinarias no complicadas por Pseudomonas aeruginosa sensible, debido a su alta biodisponibilidad oral y buena concentración urinaria.",
+      "hashtags": [
+        "medicina_interna",
+        "pseudomonas_aeruginosa",
+        "tratamiento",
+        "quinolonas",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la combinación sinérgica clásica para tratar Pseudomonas aeruginosa multirresistente?",
+      "options": [
+        "Metronidazol más ciprofloxacina",
+        "Amoxicilina más ácido clavulánico",
+        "Ceftazidima más tobramicina",
+        "Vancomicina más clindamicina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La combinación de ceftazidima (betalactámico antipseudomónico) con tobramicina (aminoglucósido) es sinérgica y se emplea clásicamente en infecciones graves por Pseudomonas aeruginosa, especialmente en fibrosis quística.",
+      "hashtags": [
+        "farmacologia",
+        "pseudomonas_aeruginosa",
+        "interacciones_medicamentosas",
+        "sinergia",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el factor de virulencia más relevante de Pseudomonas aeruginosa en neumonía asociada a ventilación mecánica?",
+      "options": [
+        "Lipopolisacárido",
+        "Exotoxina A",
+        "Pili tipo IV",
+        "Flagelina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La exotoxina A es un factor de virulencia clave de Pseudomonas aeruginosa que inhibe la síntesis proteica celular, contribuyendo al daño tisular en la neumonía asociada a ventilación mecánica. Los otros elementos también participan en la patogenia, pero no son los más determinantes en este contexto.",
+      "hashtags": [
+        "medicina_interna",
+        "neumonia_asociada_ventilacion_mecanica",
+        "etiologia",
+        "factores_virulencia",
+        "TEMA_MEDICO",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento empírico de elección para neumonía por Pseudomonas aeruginosa en ventilación mecánica?",
+      "options": [
+        "Vancomicina más meropenem",
+        "Piperacilina-tazobactam más amikacina",
+        "Ceftriaxona más azitromicina",
+        "Levofloxacino más clindamicina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Piperacilina-tazobactam combinado con un aminoglucósido como amikacina es un régimen empírico de doble cobertura antipseudomónica recomendado en neumonía asociada a ventilación mecánica. Ceftriaxona y vancomicina no cubren adecuadamente Pseudomonas, y levofloxacino no se usa como primera línea en esta indicación.",
+      "hashtags": [
+        "medicina_interna",
+        "neumonia_asociada_ventilacion_mecanica",
+        "tratamiento",
+        "terapia_empirica",
+        "TEMA_MEDICO",
+        "IDSA 2023"
+      ]
+    },
+    {
+      "question": "¿Qué característica de Pseudomonas aeruginosa favorece la colonización del tubo endotraqueal?",
+      "options": [
+        "Producción de catalasa",
+        "Resistencia a betalactamasas",
+        "Formación de biopelícula",
+        "Motilidad por flagelos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pseudomonas aeruginosa forma biopelículas (biofilm) que le permiten adherirse firmemente a superficies inertes como el tubo endotraqueal, facilitando la colonización y persistencia en la neumonía asociada a ventilación mecánica. Las otras opciones son características bacterianas pero no explican directamente la adherencia al dispositivo.",
+      "hashtags": [
+        "medicina_interna",
+        "neumonia_asociada_ventilacion_mecanica",
+        "fisiopatologia",
+        "formacion_biopelicula",
+        "TEMA_MEDICO",
+        "Murray 8ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal vía de adquisición de Pseudomonas aeruginosa en pacientes con ventilación mecánica?",
+      "options": [
+        "Contaminación cruzada",
+        "Vía hematógena",
+        "Inhalación directa",
+        "Vía aérea ascendente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La inhalación directa de Pseudomonas aeruginosa desde el ambiente hospitalario o desde secreciones orofaríngeas colonizadas es la vía principal en pacientes intubados. La vía hematógena y la contaminación cruzada son menos frecuentes, y la vía aérea ascendente no aplica en este contexto.",
+      "hashtags": [
+        "medicina_interna",
+        "neumonia_asociada_ventilacion_mecanica",
+        "epidemiologia",
+        "via_transmision",
+        "TEMA_MEDICO",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo radiológico es más sugestivo de neumonía por Pseudomonas aeruginosa en ventilación mecánica?",
+      "options": [
+        "Consolidación lobar única",
+        "Infiltrados intersticiales difusos",
+        "Neumatoceles bilaterales",
+        "Derrame pleural loculado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La neumonía por Pseudomonas aeruginosa frecuentemente produce neumatoceles bilaterales, especialmente en pacientes inmunocomprometidos o con ventilación mecánica. El derrame pleural loculado es más típico de empiema bacteriano, la consolidación lobar única es común en neumonías típicas y los infiltrados intersticiales difusos se asocian a virus o Pneumocystis.",
+      "hashtags": [
+        "medicina_interna",
+        "neumonia_asociada_ventilacion_mecanica",
+        "cuadro_clinico",
+        "hallazgos_radiologicos",
+        "TEMA_MEDICO",
+        "Robbins 10ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el mecanismo de resistencia más frecuente de Pseudomonas aeruginosa a los carbapenémicos?",
+      "options": [
+        "Modificación del sitio blanco",
+        "Bomba de eflujo MexAB-OprM",
+        "Alteración de porinas OprD",
+        "Producción de carbapenemasa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La pérdida o alteración de la porina OprD es el mecanismo más común de resistencia a carbapenémicos en Pseudomonas aeruginosa, reduciendo la entrada del antibiótico. Las bombas de eflujo y las carbapenemasas también contribuyen, pero la alteración de OprD es la más prevalente en cepas clínicas.",
+      "hashtags": [
+        "medicina_interna",
+        "neumonia_asociada_ventilacion_mecanica",
+        "mecanismos_resistencia",
+        "porina_oprd",
+        "TEMA_MEDICO",
+        "Clinical Microbiology Reviews 2022"
+      ]
+    },
+    {
+      "question": "¿Qué caracteriza a Pseudomonas aeruginosa en la tinción de Gram?",
+      "options": [
+        "Bacilos gramnegativos",
+        "Espiroquetas gramnegativas",
+        "Cocos grampositivos",
+        "Cocobacilos grampositivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pseudomonas aeruginosa es un bacilo gramnegativo aerobio, lo que se evidencia en la tinción de Gram como bacilos de color rosado o rojo, característica fundamental para su identificación inicial.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "concepto",
+        "tincion_gram",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el resultado de la prueba de oxidasa para Pseudomonas aeruginosa?",
+      "options": [
+        "Negativa",
+        "Variable",
+        "No reactiva",
+        "Positiva"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Pseudomonas aeruginosa es oxidasa positiva, una característica clave que la diferencia de otras enterobacterias (generalmente oxidasa negativas) y ayuda en su identificación bioquímica rápida.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "diagnostico",
+        "prueba_oxidasa",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué enzima detecta la prueba de oxidasa en bacterias?",
+      "options": [
+        "Coagulasa",
+        "Catalasa",
+        "Oxidasa citocromo c",
+        "Ureasa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La prueba de oxidasa detecta la presencia de la enzima citocromo c oxidasa en la cadena respiratoria bacteriana; Pseudomonas aeruginosa la posee, dando una reacción positiva de color púrpura oscuro.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "concepto",
+        "enzima_oxidasa",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué color indica una prueba de oxidasa positiva en Pseudomonas aeruginosa?",
+      "options": [
+        "Amarillo",
+        "Verde",
+        "Rojo",
+        "Púrpura oscuro"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La prueba de oxidasa positiva produce un color púrpura oscuro (azul violáceo) en segundos debido a la oxidación del sustrato por la citocromo c oxidasa, indicando presencia de la enzima.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "identificacion_laboratorio",
+        "reaccion_colorimetrica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de estos patógenos es oxidasa positivo como Pseudomonas aeruginosa?",
+      "options": [
+        "Klebsiella pneumoniae",
+        "Neisseria gonorrhoeae",
+        "Salmonella typhi",
+        "Escherichia coli"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neisseria gonorrhoeae es también oxidasa positivo, al igual que Pseudomonas aeruginosa, mientras que Escherichia coli, Klebsiella pneumoniae y Salmonella typhi son oxidasa negativos.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "diagnostico",
+        "oxidasa_positivos",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué medio de cultivo se usa típicamente para aislar Pseudomonas aeruginosa?",
+      "options": [
+        "Agar sangre",
+        "Agar cetrimida",
+        "Agar MacConkey",
+        "Agar chocolate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El agar cetrimida es un medio selectivo para Pseudomonas aeruginosa, ya que el cetrimida inhibe otras bacterias y permite su crecimiento, siendo útil para su aislamiento en muestras clínicas.",
+      "hashtags": [
+        "microbiologia",
+        "pseudomonas_aeruginosa",
+        "identificacion_laboratorio",
+        "agar_cetrimida",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la combinación antibiótica clásica para infecciones graves por Pseudomonas aeruginosa?",
+      "options": [
+        "Vancomicina más metronidazol",
+        "Ceftriaxona más azitromicina",
+        "Amoxicilina más ácido clavulánico",
+        "Ceftazidima más amikacina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La combinación de ceftazidima (cefalosporina antipseudomónica) con amikacina (aminoglucósido) es un régimen sinérgico clásico para infecciones graves por Pseudomonas aeruginosa, aprovechando mecanismos de acción complementarios.",
+      "hashtags": [
+        "infectologia",
+        "pseudomonas_aeruginosa",
+        "tratamiento",
+        "terapia_combinada",
+        "TEMA_MEDICO",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "¿Qué beneficio principal ofrece el tratamiento combinado frente a la monoterapia en infecciones graves por Pseudomonas?",
+      "options": [
+        "Menor duración del ingreso",
+        "Menor costo del tratamiento",
+        "Mejor tolerancia oral",
+        "Reducción de la resistencia"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La terapia combinada reduce la probabilidad de emergencia de resistencia bacteriana durante el tratamiento, ya que los mecanismos de acción distintos dificultan que Pseudomonas desarrolle resistencia simultánea a ambos fármacos.",
+      "hashtags": [
+        "infectologia",
+        "pseudomonas_aeruginosa",
+        "tratamiento",
+        "resistencia_bacteriana",
+        "TEMA_MEDICO",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes antibióticos NO es activo contra Pseudomonas aeruginosa?",
+      "options": [
+        "Ceftriaxona",
+        "Meropenem",
+        "Ciprofloxacino",
+        "Cefepime"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ceftriaxona es una cefalosporina de tercera generación sin actividad antipseudomónica significativa, a diferencia de cefepime, meropenem y ciprofloxacino que sí cubren Pseudomonas aeruginosa en su espectro.",
+      "hashtags": [
+        "infectologia",
+        "pseudomonas_aeruginosa",
+        "tratamiento",
+        "espectro_antimicrobiano",
+        "TEMA_MEDICO",
+        "Sanford 2023"
+      ]
+    },
+    {
+      "question": "¿En qué tipo de infección por Pseudomonas está especialmente indicada la terapia combinada?",
+      "options": [
+        "Neumonía nosocomial grave",
+        "Otitis externa leve",
+        "Foliculitis por piscina",
+        "Infección urinaria no complicada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La neumonía nosocomial grave, especialmente en pacientes ventilados, es una infección por Pseudomonas con alta mortalidad y riesgo de resistencia, por lo que la terapia combinada está indicada para mejorar cobertura y sinergia.",
+      "hashtags": [
+        "infectologia",
+        "pseudomonas_aeruginosa",
+        "tratamiento",
+        "neumonia_nosocomial",
+        "TEMA_MEDICO",
+        "IDSA 2022"
+      ]
+    },
+    {
+      "question": "¿Qué aminoglucósido se utiliza con más frecuencia en combinación contra Pseudomonas?",
+      "options": [
+        "Estreptomicina",
+        "Tobramicina",
+        "Neomicina",
+        "Gentamicina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tobramicina es el aminoglucósido de elección en combinación para Pseudomonas aeruginosa por su mayor actividad antipseudomónica y mejor perfil farmacocinético en infecciones graves, especialmente respiratorias.",
+      "hashtags": [
+        "infectologia",
+        "pseudomonas_aeruginosa",
+        "tratamiento",
+        "aminoglucosidos",
+        "TEMA_MEDICO",
+        "Sanford 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál es el mecanismo de sinergia entre beta-lactámicos y aminoglucósidos contra Pseudomonas?",
+      "options": [
+        "Inhibición de bombas de eflujo",
+        "Bloqueo de pared celular",
+        "Aumento de permeabilidad",
+        "Inhibición de topoisomerasas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los beta-lactámicos dañan la pared celular bacteriana, facilitando la entrada del aminoglucósido al interior de la célula, lo que aumenta su concentración intracelular y potencia el efecto bactericida, generando sinergia.",
+      "hashtags": [
+        "infectologia",
+        "pseudomonas_aeruginosa",
+        "tratamiento",
+        "sinergia_antimicrobiana",
+        "TEMA_MEDICO",
+        "Mandell 9ed"
+      ]
+    }
+  ]
+}

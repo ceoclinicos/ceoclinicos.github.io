@@ -1,0 +1,1258 @@
+{
+  "questions": [
+    {
+      "question": "What is the most common resistance mechanism due to enzymatic inactivation in Staphylococcus aureus?",
+      "options": [
+        "Active drug pumping",
+        "β-lactamase synthesis",
+        "Ribosome methylation",
+        "Carbapenemase production"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Staphylococcus aureus produces β-lactamases that hydrolyze the β-lactam ring of penicillins, the most common resistance mechanism being mediated by enzymatic inactivation.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "clinical_table",
+        "beta_lactamases",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What type of enzyme inactivates aminoglycosides through covalent modification?",
+      "options": [
+        "Aminoglycoside acetyltransferase",
+        "16S rRNA methylase",
+        "extended spectrum β-lactamase",
+        "KPC type carbapenemase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aminoglycoside acetyltransferases modify amino or hydroxyl groups of the antibiotic, preventing its binding to the ribosome and constituting the main mechanism of enzymatic inactivation of aminoglycosides.",
+      "hashtags": [
+        "pharmacology",
+        "bacterial_resistance",
+        "action_mechanism",
+        "acetyltransferases",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which of the following bacteria frequently produces an extended-spectrum β-lactamase (ESBL) that inactivates third-generation cephalosporins?",
+      "options": [
+        "Clostridium difficile",
+        "Mycobacterium tuberculosis",
+        "Streptococcus pneumoniae",
+        "Escherichia coli"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Escherichia coli is one of the main producers of ESBL, enzymes that hydrolyze third-generation cephalosporins and aztreonam, being a relevant mechanism of enzymatic inactivation in Enterobacteriaceae.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "pathogeny",
+        "blee",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which antibiotic is inactivated by the acetyltransferase enzyme encoded by the aac(6')-Ib gene?",
+      "options": [
+        "Ciprofloxacin",
+        "Vancomycin",
+        "Penicillin G",
+        "Gentamicin"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The aac(6')-Ib gene encodes an acetyltransferase that modifies gentamicin and other aminoglycosides, inactivating them by transferring an acetyl group to the antibiotic.",
+      "hashtags": [
+        "pharmacology",
+        "bacterial_resistance",
+        "action_mechanism",
+        "aac_6_ib",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most relevant enzymatic inactivation mechanism in Pseudomonas aeruginosa versus carbapenems?",
+      "options": [
+        "Alteration of membrane porins",
+        "Production of metallo-β-lactamases",
+        "Overexpression of efflux pumps",
+        "Modification of the target site"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pseudomonas aeruginosa produces metallo-β-lactamases such as VIM and IMP, which hydrolyze carbapenems and other β-lactams, being a key mechanism of enzymatic inactivation in this pathogen.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "pathogeny",
+        "metallo_beta_lactamases",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What enzyme is responsible for the inactivation of chloramphenicol by acetylation?",
+      "options": [
+        "23S rRNA methylase",
+        "Chloramphenicol acetyltransferase",
+        "TEM type β-lactamase",
+        "Aminoglycoside phosphotransferase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chloramphenicol acetyltransferase (CAT) acetylates chloramphenicol, preventing its binding to the bacterial ribosome and constituting the classic enzymatic inactivation mechanism of this antibiotic.",
+      "hashtags": [
+        "pharmacology",
+        "bacterial_resistance",
+        "action_mechanism",
+        "chloramphenicol_acetyltransferase",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What mechanism explains resistance to macrolides due to modification of the target site?",
+      "options": [
+        "Inactivation by acetylation",
+        "23S rRNA methylation",
+        "Active drug efflux",
+        "Beta-lactam ring hydrolysis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Methylation of 23S rRNA by methylases encoded by erm genes alters the binding site of macrolides, lincosamides, and group B streptogramins, conferring cross-resistance.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "damage_mechanisms",
+        "white_site_modification",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "What is the consequence of the modification of the target site in resistance to oxazolidinones?",
+      "options": [
+        "Lower affinity for the ribosome",
+        "Permeability reduction",
+        "Enzymatic degradation of the drug",
+        "Increased bacterial efflux"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Target site modification, such as mutations in the 23S rRNA or ribosomal proteins, decreases the affinity of oxazolidinones for the bacterial ribosome, reducing their effectiveness.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "damage_mechanisms",
+        "ribosomal_mutation",
+        "MEDICAL_TOPIC",
+        "Mandell, Douglas and Bennett 9ed"
+      ]
+    },
+    {
+      "question": "What enzyme modifies the target site in aminoglycoside resistance?",
+      "options": [
+        "Amine acetyltransferase",
+        "Nucleotide phosphotransferase",
+        "Class A beta-lactamase",
+        "16S rRNA methylase"
+      ],
+      "correctAnswer": 4,
+      "explanation": "16S rRNA methylases methylate specific residues of the bacterial ribosome, preventing the binding of aminoglycosides and conferring high-level resistance to this group of antibiotics.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "damage_mechanisms",
+        "methylation_rnr_16s",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "What alteration in the target site produces methicillin resistance in Staphylococcus aureus?",
+      "options": [
+        "Mutation in topoisomerase II",
+        "Acquisition of the mecA gene",
+        "Overexpression of efflux pumps",
+        "Beta-lactamase production"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The mecA gene encodes a modified PBP2a with low affinity for beta-lactams, which allows cell wall synthesis even in the presence of methicillin, causing resistance.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "damage_mechanisms",
+        "pbp2a_modified",
+        "MEDICAL_TOPIC",
+        "Mandell, Douglas and Bennett 9ed"
+      ]
+    },
+    {
+      "question": "How does target site modification confer resistance to fluoroquinolones?",
+      "options": [
+        "23S rRNA methylation",
+        "Acetylation of the piperazine group",
+        "Quinolone ring hydrolysis",
+        "Mutations in DNA gyrase and topoisomerase IV"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Mutations in the gyrA/gyrB (DNA gyrase) and parC/parE (topoisomerase IV) genes alter the target site of fluoroquinolones, reducing their binding and causing resistance.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "damage_mechanisms",
+        "topoisomerase_mutation",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "What gene usually mediates macrolide target site modification in Streptococcus pneumoniae?",
+      "options": [
+        "mecA gene",
+        "Gene blaZ",
+        "Gene erm(B)",
+        "Gene vanA"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The erm(B) gene encodes a methylase that modifies the 23S rRNA, preventing the binding of macrolides, lincosamides and streptogramins B, and is common in resistant Streptococcus pneumoniae.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "damage_mechanisms",
+        "gen_erm_b",
+        "MEDICAL_TOPIC",
+        "Mandell, Douglas and Bennett 9ed"
+      ]
+    },
+    {
+      "question": "What is the main mechanism of active efflux pumps in Gram-negative bacteria?",
+      "options": [
+        "Decreased permeability",
+        "Expulsion of antibiotics outside",
+        "Alteration of the target site",
+        "Enzymatic inactivation of the drug"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Active efflux pumps transport antibiotics from the bacterial interior to the exterior, reducing the intracellular concentration of the drug and conferring resistance.",
+      "hashtags": [
+        "microbiology",
+        "active_expulsion_pumps",
+        "action_mechanism",
+        "active_transport",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "Which family of active efflux pumps is characteristic of Pseudomonas aeruginosa?",
+      "options": [
+        "ABC type pumps",
+        "MFS type pumps",
+        "RND type pumps",
+        "SMR type pumps"
+      ],
+      "correctAnswer": 3,
+      "explanation": "RND (Resistance-Nodulation-Division) type pumps are predominant in Pseudomonas aeruginosa, such as MexAB-OprM, and confer resistance to multiple antibiotics.",
+      "hashtags": [
+        "microbiology",
+        "active_expulsion_pumps",
+        "morphology_structure",
+        "family_rnd",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed---Lippincott Microbiology"
+      ]
+    },
+    {
+      "question": "What antibiotic is a frequent substrate of active efflux pumps in Staphylococcus aureus?",
+      "options": [
+        "Vancomycin",
+        "Methicillin",
+        "Tetracycline",
+        "Penicillin G"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tetracycline is a substrate for plasmid-encoded active efflux pumps in Staphylococcus aureus, such as Tet(K), that efflux the antibiotic out of the cell.",
+      "hashtags": [
+        "microbiology",
+        "active_expulsion_pumps",
+        "treatment",
+        "tetracycline_resistance",
+        "MEDICAL_TOPIC",
+        "Mandell Principles and Practice of Infectious Diseases"
+      ]
+    },
+    {
+      "question": "What energy do active efflux pumps of type MFS use in bacteria?",
+      "options": [
+        "sodium gradient",
+        "Oxidative phosphorylation",
+        "Proton gradient",
+        "ATP hydrolysis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "MFS (Major Facilitator Superfamily) type pumps use proton motive force (proton gradient) to eject substrates against their concentration gradient.",
+      "hashtags": [
+        "microbiology",
+        "active_expulsion_pumps",
+        "pathophysiology",
+        "protonic_gradient",
+        "MEDICAL_TOPIC",
+        "Harrison's Principles of Internal Medicine 21ed"
+      ]
+    },
+    {
+      "question": "What structural characteristic do ABC-type pumps have in bacteria?",
+      "options": [
+        "Outer membrane protein only",
+        "Transmembrane domain and ATPase",
+        "Lipopolysaccharide dependence",
+        "single component pump"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ABC-type pumps (ATP-Binding Cassette) have a transmembrane domain and a cytoplasmic ATPase domain that hydrolyzes ATP to energize expulsion.",
+      "hashtags": [
+        "microbiology",
+        "active_expulsion_pumps",
+        "morphology_structure",
+        "atpass_domain",
+        "MEDICAL_TOPIC",
+        "Lippincott Illustrated Reviews: Microbiology"
+      ]
+    },
+    {
+      "question": "What clinical strategy can inhibit active efflux pumps in bacterial infections?",
+      "options": [
+        "Combination with antifungals",
+        "Use of pump inhibitors",
+        "Increasing the antibiotic dose",
+        "Probiotic administration"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Active efflux pump inhibitors, such as verapamil or phenothiazine derivatives, can restore antibiotic sensitivity by blocking efflux.",
+      "hashtags": [
+        "microbiology",
+        "active_expulsion_pumps",
+        "treatment",
+        "efflux_inhibitors",
+        "MEDICAL_TOPIC",
+        "Clinical Microbiology Reviews---Harrison's 21ed"
+      ]
+    },
+    {
+      "question": "What is the main mechanism by which Gram-negative bacteria reduce the entry of antibiotics?",
+      "options": [
+        "Enzymatic inactivation",
+        "Ribosome modification",
+        "Active drug pumping",
+        "Porin mutation"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Decreased membrane permeability in Gram-negative bacteria is achieved primarily through mutations that alter or reduce the expression of porins, protein channels that allow the entry of hydrophilic antibiotics.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "damage_mechanisms",
+        "decrease_permeability",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "What type of antibiotic is most affected by decreased permeability in Pseudomonas aeruginosa?",
+      "options": [
+        "Tetracyclines",
+        "Carbapenems",
+        "Aminoglycosides",
+        "Macrolides"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In Pseudomonas aeruginosa, loss of the OprD porin specifically reduces permeability to carbapenems such as imipenem, being a key mechanism of acquired resistance.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "damage_mechanisms",
+        "porina_oprd",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "Which of the following bacteria is known for its natural resistance to multiple antibiotics due to low membrane permeability?",
+      "options": [
+        "Staphylococcus aureus",
+        "Clostridium perfringens",
+        "Pseudomonas aeruginosa",
+        "Streptococcus pyogenes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pseudomonas aeruginosa has an outer membrane with low intrinsic permeability, which makes it naturally resistant to many hydrophilic antibiotics, in addition to efflux pumps.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "damage_mechanisms",
+        "external_membrane",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "What component of the bacterial outer membrane contributes to the decrease in permeability in Gram-negatives?",
+      "options": [
+        "Lipopolysaccharide",
+        "teichoic acid",
+        "Peptidoglycan",
+        "Flagellin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lipopolysaccharide (LPS) in the outer membrane of Gram-negatives acts as a barrier against hydrophobic molecules and antibiotics, generally reducing permeability.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "morphology_structure",
+        "lipopolysaccharide",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "Which of the following porin mutations is associated with cephalosporin resistance in Enterobacteriaceae?",
+      "options": [
+        "OmpF",
+        "MtrC",
+        "ByB",
+        "OprD"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Loss or mutation of the OmpF porin in Enterobacteriaceae such as E. coli reduces the entry of cephalosporins and other beta-lactams, contributing to resistance.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "damage_mechanisms",
+        "porina_ompf",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "The decrease in membrane permeability usually acts in synergy with another resistance mechanism. Which is it?",
+      "options": [
+        "DNA gyrase mutation",
+        "Ejection pumps",
+        "Alteration of the target site",
+        "rRNA methylation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The low membrane permeability and the efflux pumps act together: the first delays the entry of the antibiotic and the second actively expels it, enhancing resistance.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "damage_mechanisms",
+        "eflux_pumps",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "Which of the following enzymes characterizes ESBLs?",
+      "options": [
+        "They degrade aminoglycosides",
+        "They hydrolyze third generation cephalosporins",
+        "They inactivate carbapenems",
+        "Block bacterial wall synthesis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Extended-spectrum beta-lactamase (ESBL) hydrolyze third-generation cephalosporins, such as ceftriaxone and ceftazidime, and also monobactams such as aztreonam, but not carbapenems.",
+      "hashtags": [
+        "microbiology",
+        "blee",
+        "pathogeny",
+        "hydrolysis_cephalosporins",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 9ed"
+      ]
+    },
+    {
+      "question": "What type of resistance is typically associated with ESBL?",
+      "options": [
+        "Macrolide resistance",
+        "Resistance to carbapenems only",
+        "Resistance to quinolones",
+        "Resistance to multiple beta-lactams"
+      ],
+      "correctAnswer": 4,
+      "explanation": "ESBLs confer resistance to penicillins, first- to third-generation cephalosporins, and aztreonam, but not to carbapenems or other non-beta-lactam families.",
+      "hashtags": [
+        "microbiology",
+        "blee",
+        "pathogeny",
+        "beta-lactam_resistance",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 9ed"
+      ]
+    },
+    {
+      "question": "What is the treatment of choice for ESBL infections?",
+      "options": [
+        "Ciprofloxacin",
+        "Piperacillin-tazobactam",
+        "Ceftriaxone",
+        "Carbapenem"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Carbapenems (meropenem, imipenem, ertapenem) are the treatment of choice for serious infections by ESBL-producing bacteria, since they are not hydrolyzed by these enzymes.",
+      "hashtags": [
+        "microbiology",
+        "blee",
+        "treatment",
+        "carbapenemic",
+        "MEDICAL_TOPIC",
+        "IDSA Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the most common transmission mechanism of ESBL genes?",
+      "options": [
+        "Phage transduction",
+        "Conjugative plasmids",
+        "Bacterial transformation",
+        "Chromosome rearrangement"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The genes that encode ESBL are usually located on conjugative plasmids, which facilitates their rapid dissemination among Enterobacteriaceae through horizontal transfer.",
+      "hashtags": [
+        "microbiology",
+        "blee",
+        "pathogeny",
+        "conjugative_plasmids",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 9ed"
+      ]
+    },
+    {
+      "question": "What bacteria is the main producer of ESBL?",
+      "options": [
+        "Streptococcus pneumoniae",
+        "Escherichia coli",
+        "Staphylococcus aureus",
+        "Pseudomonas aeruginosa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Escherichia coli is the enterobacteria most frequently associated with ESBL production, especially in urinary and nosocomial infections.",
+      "hashtags": [
+        "microbiology",
+        "blee",
+        "epidemiology",
+        "escherichia_coli",
+        "MEDICAL_TOPIC",
+        "IDSA Guide 2023"
+      ]
+    },
+    {
+      "question": "What test confirms the production of ESBL in the laboratory?",
+      "options": [
+        "Disc diffusion test",
+        "Synergy with clavulanic acid",
+        "Gram stain",
+        "Culture on MacConkey agar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The clavulanic acid synergy test (double disc) is the standard phenotypic method to confirm ESBL, since the inhibitor restores sensitivity to cephalosporins.",
+      "hashtags": [
+        "microbiology",
+        "blee",
+        "diagnosis",
+        "clavulanic_synergy",
+        "MEDICAL_TOPIC",
+        "CLSI M100 2023"
+      ]
+    },
+    {
+      "question": "What gene encodes high-level vancomycin resistance in Enterococcus?",
+      "options": [
+        "vanD",
+        "vanB",
+        "vanC",
+        "vanA"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The vanA gene is responsible for high-level resistance to vancomycin in Enterococcus, mediating the modification of the peptidoglycan precursor from D-Ala-D-Ala to D-Ala-D-Lac.",
+      "hashtags": [
+        "microbiology",
+        "vancomycin_resistance",
+        "concept",
+        "vain",
+        "MEDICAL_TOPIC",
+        "Murray PR, Medical Microbiology 9ed"
+      ]
+    },
+    {
+      "question": "What is the mechanism of action of vanA-mediated resistance?",
+      "options": [
+        "Drug efflux pump",
+        "Enzymatic inactivation of the antibiotic",
+        "Binding site modification",
+        "Reduced membrane permeability"
+      ],
+      "correctAnswer": 3,
+      "explanation": "vanA resistance modifies the vancomycin binding site by replacing D-Ala-D-Ala with D-Ala-D-Lac in the peptidoglycan, reducing the affinity of the antibiotic.",
+      "hashtags": [
+        "microbiology",
+        "vancomycin_resistance",
+        "damage_mechanisms",
+        "union_site_modification",
+        "MEDICAL_TOPIC",
+        "Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases 9ed"
+      ]
+    },
+    {
+      "question": "What bacteria is the main carrier of the vanB gene?",
+      "options": [
+        "Escherichia coli",
+        "Enterococcus faecium",
+        "Staphylococcus aureus",
+        "Pseudomonas aeruginosa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Enterococcus faecium is the species most commonly associated with the vanB gene, although it can also be found in Enterococcus faecalis, causing resistance to vancomycin.",
+      "hashtags": [
+        "microbiology",
+        "vancomycin_resistance",
+        "clinical_table",
+        "enterococcus_faecium",
+        "MEDICAL_TOPIC",
+        "CLSI M100 2023"
+      ]
+    },
+    {
+      "question": "What type of resistance does the vanB gene confer to vancomycin?",
+      "options": [
+        "Total resistance to all glycopeptides",
+        "High level resistance",
+        "Moderate level resistance",
+        "Increased sensitivity"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The vanB gene confers moderate-level resistance to vancomycin, with MICs generally between 16-128 µg/mL, and maintains sensitivity to teicoplanin.",
+      "hashtags": [
+        "microbiology",
+        "vancomycin_resistance",
+        "concept",
+        "moderate_level",
+        "MEDICAL_TOPIC",
+        "Murray PR, Medical Microbiology 9ed"
+      ]
+    },
+    {
+      "question": "What is the treatment of choice for enterococcus vanA infections?",
+      "options": [
+        "Linezolid",
+        "Teicoplanin",
+        "Vancomycin in high doses",
+        "Ampicillin alone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Linezolid is the treatment of choice for Enterococcus vanA infections, since they present cross-resistance to all glycopeptides, including teicoplanin.",
+      "hashtags": [
+        "microbiology",
+        "vancomycin_resistance",
+        "treatment",
+        "linezolid",
+        "MEDICAL_TOPIC",
+        "IDSA Guidelines 2023"
+      ]
+    },
+    {
+      "question": "Which peptidoglycan precursor is modified by vanA resistance?",
+      "options": [
+        "L-Ala-D-Glu",
+        "Wing-D-Be",
+        "Wing-D-Wing",
+        "Ala-D-Lac"
+      ],
+      "correctAnswer": 3,
+      "explanation": "vanA resistance modifies the precursor D-Ala-D-Ala to D-Ala-D-Lac, which reduces the affinity of vancomycin by approximately 1000-fold, preventing its effective binding.",
+      "hashtags": [
+        "microbiology",
+        "vancomycin_resistance",
+        "damage_mechanisms",
+        "d_ala_d_lac",
+        "MEDICAL_TOPIC",
+        "Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases 9ed"
+      ]
+    },
+    {
+      "question": "What bacterial enzyme is the main target of fluoroquinolones?",
+      "options": [
+        "Beta-lactamase",
+        "Acetyltransferase",
+        "RNA polymerase",
+        "DNA gyrase"
+      ],
+      "correctAnswer": 4,
+      "explanation": "DNA gyrase (topoisomerase II) is the enzyme that fluoroquinolones inhibit, and mutations in its subunits are the main cause of resistance to this group of antibiotics.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "action_mechanism",
+        "dna_gyrase",
+        "MEDICAL_TOPIC",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "What is the resistance mechanism associated with mutations in DNA gyrase?",
+      "options": [
+        "Decreased permeability",
+        "Enzymatic inactivation of the drug",
+        "Active pumping of the antibiotic",
+        "Alteration of the molecular target"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Mutations in the DNA gyrase genes gyrA and gyrB modify the binding site of fluoroquinolones, reducing their affinity and generating resistance by altering the molecular target.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "damage_mechanisms",
+        "topoisomerase_mutation",
+        "MEDICAL_TOPIC",
+        "Murray 8ed"
+      ]
+    },
+    {
+      "question": "Which antibiotic loses effectiveness due to mutations in topoisomerase IV?",
+      "options": [
+        "Tetracycline",
+        "Penicillin",
+        "Clindamycin",
+        "Ciprofloxacin"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Ciprofloxacin is a fluoroquinolone whose main target in gram-positive patients is topoisomerase IV; Mutations in this enzyme reduce its effectiveness against these microorganisms.",
+      "hashtags": [
+        "pharmacology",
+        "fluoroquinolone_resistance",
+        "action_mechanism",
+        "topoisomerase_iv",
+        "MEDICAL_TOPIC",
+        "Katzung 15ed"
+      ]
+    },
+    {
+      "question": "What gene encodes the A subunit of DNA gyrase in Escherichia coli?",
+      "options": [
+        "gyrB",
+        "parE",
+        "parC",
+        "gyrA"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The gyrA gene encodes the A subunit of DNA gyrase. Mutations in this gene are the most frequent in resistance to fluoroquinolones in gram-negative bacteria.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "genetics",
+        "gyra",
+        "MEDICAL_TOPIC",
+        "Bennett 8ed"
+      ]
+    },
+    {
+      "question": "What type of mutation confers the highest level of resistance to fluoroquinolones?",
+      "options": [
+        "Mutation in pairE alone",
+        "Silent mutation in gyrA",
+        "Mutation in gyrB alone",
+        "Mutation in parC and gyrA"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The combination of mutations in both targets (gyrA in DNA gyrase and parC in topoisomerase IV) produces high levels of resistance to fluoroquinolones, a common phenomenon in gram-positive individuals.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "pathophysiology",
+        "double_mutation",
+        "MEDICAL_TOPIC",
+        "Clin Infect Dis 2020"
+      ]
+    },
+    {
+      "question": "Which region of DNA gyrase is most affected by resistance mutations?",
+      "options": [
+        "C-terminal domain",
+        "enzyme active site",
+        "ATP binding loop",
+        "Resistance determining region"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The resistance determining region (QRDR) in the A subunit of DNA gyrase concentrates the majority of mutations that alter the binding of fluoroquinolones, raising the MIC of the antibiotic.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "damage_mechanisms",
+        "qrdr",
+        "MEDICAL_TOPIC",
+        "Antimicrob Agents Chemother 2021"
+      ]
+    },
+    {
+      "question": "What enzyme produces resistance to macrolides through ribosomal methylation?",
+      "options": [
+        "Beta-lactamase",
+        "Erm methylase",
+        "Acetyltransferase",
+        "Aminoglycoside acetylase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Erm methylase (erythromycin ribosome methylase) modifies 23S rRNA by methylating an adenine residue, preventing the binding of macrolides to the ribosome.",
+      "hashtags": [
+        "microbiology",
+        "macrolide_resistance",
+        "resistance_mechanisms",
+        "methylase_erm",
+        "MEDICAL_TOPIC",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "What is the mechanism of action of Erm methylase in macrolide resistance?",
+      "options": [
+        "Drug hydrolysis",
+        "Active pumping of the antibiotic",
+        "23S rRNA methylation",
+        "Enzymatic inactivation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Erm methylase methylates an adenine residue in the 23S rRNA of the 50S ribosomal subunit, altering the conformation of the macrolide binding site.",
+      "hashtags": [
+        "microbiology",
+        "macrolide_resistance",
+        "virulence_factors",
+        "RNA_methylation",
+        "MEDICAL_TOPIC",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "What type of resistance does ribosomal methylation confer to macrolides?",
+      "options": [
+        "Reduced spectrum resistance",
+        "Resistance to beta-lactams",
+        "Cross resistance to macrolides",
+        "Resistance to quinolones"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Methylation of the 23S rRNA produces cross-resistance to all macrolides, lincosamides and streptogramins B (MLSB phenotype), since they share the same ribosomal binding site.",
+      "hashtags": [
+        "microbiology",
+        "macrolide_resistance",
+        "pathogeny",
+        "mlsb_phenotype",
+        "MEDICAL_TOPIC",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "In which gene is Erm methylase frequently located in Gram-positive bacteria?",
+      "options": [
+        "aacA gene",
+        "Gene blaZ",
+        "ermB gene",
+        "mecA gene"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The ermB gene is one of the most common in Gram-positive bacteria such as Staphylococcus aureus and Enterococcus spp., and encodes the methylase responsible for resistance to macrolides.",
+      "hashtags": [
+        "microbiology",
+        "macrolide_resistance",
+        "resistance_mechanisms",
+        "gen_ermb",
+        "MEDICAL_TOPIC",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "What is the main clinical consequence of ribosomal methylation in staphylococcal infections?",
+      "options": [
+        "Exacerbated inflammatory response",
+        "Therapeutic failure with clindamycin",
+        "Increased drug activity",
+        "Increased sensitivity to erythromycin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ribosomal methylation confers cross-resistance to macrolides, lincosamides and streptogramins B, so clindamycin (a lincosamide) may be ineffective if there is constitutive expression of the erm gene.",
+      "hashtags": [
+        "microbiology",
+        "macrolide_resistance",
+        "clinical_table",
+        "clindamycin_failure",
+        "MEDICAL_TOPIC",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "What laboratory test detects ribosomal methylation-inducible resistance?",
+      "options": [
+        "Agar diffusion test",
+        "Automatic antibiogram",
+        "Erythromycin D test",
+        "Beta-lactamase test"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The D test (erythromycin disk near clindamycin) detects inducible resistance to clindamycin: a flattening of the halo in the adjacent area indicates induction by Erm methylase.",
+      "hashtags": [
+        "microbiology",
+        "macrolide_resistance",
+        "laboratory_id",
+        "test_d",
+        "MEDICAL_TOPIC",
+        "Mandell 9ed"
+      ]
+    },
+    {
+      "question": "What main function do plasmids play in bacterial resistance?",
+      "options": [
+        "Carry resistance genes",
+        "Repair bacterial DNA",
+        "Synthesize ribosomal proteins",
+        "Degrade antibiotics directly"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plasmids are extrachromosomal genetic elements that carry resistance genes between bacteria, facilitating the horizontal spread of antibiotic resistance.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "concept",
+        "plasmid_resistance",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "Which of the following mechanisms allows the transfer of plasmids between bacteria?",
+      "options": [
+        "Generalized transduction",
+        "Bacterial conjugation",
+        "Spontaneous mutation",
+        "natural transformation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bacterial conjugation is the process by which a plasmid is transferred directly from a donor bacteria to a recipient via a conjugation pilus.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "action_mechanism",
+        "conjugation",
+        "MEDICAL_TOPIC",
+        "Jawetz Medical Microbiology 27ed"
+      ]
+    },
+    {
+      "question": "What type of plasmid is most relevant in multidrug resistance?",
+      "options": [
+        "cryptic plasmid",
+        "Conjugative plasmid",
+        "Non-conjugative plasmid",
+        "Virulence plasmid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Conjugative plasmids possess genes for their own transfer and often carry multiple resistance genes, rapidly disseminating resistance to various antibiotics.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "morphology_structure",
+        "conjugative_plasmid",
+        "MEDICAL_TOPIC",
+        "Mandell Infectious Diseases 9ed"
+      ]
+    },
+    {
+      "question": "Which of these genes is usually encoded on resistance plasmids?",
+      "options": [
+        "helicase gene",
+        "topoisomerase gene",
+        "Beta-lactamase gene",
+        "ribosomal RNA gene"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Beta-lactamase genes, such as TEM and SHV, are frequently located on plasmids, allowing the hydrolysis of beta-lactam antibiotics and their rapid propagation.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "virulence_factors",
+        "beta_lactamases",
+        "MEDICAL_TOPIC",
+        "Harrison Principles of Internal Medicine 21ed"
+      ]
+    },
+    {
+      "question": "What is the ability of a plasmid to replicate independently of the chromosome called?",
+      "options": [
+        "Homologous recombination",
+        "Gene transposition",
+        "Chromosome integration",
+        "Autonomous replication"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Plasmids have their own origin of replication that allows them to replicate autonomously within the bacteria, maintaining multiple copies without integrating into the chromosome.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "concept",
+        "autonomous_replication",
+        "MEDICAL_TOPIC",
+        "Stanier Microbiology 6ed"
+      ]
+    },
+    {
+      "question": "What bacterial structure is essential for plasmid-mediated conjugation?",
+      "options": [
+        "Pili or sexual fimbria",
+        "Bacterial flagellum",
+        "Polysaccharide capsule",
+        "Peptidoglycan cell wall"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The sexual pili (F pili) is a filamentous structure that establishes physical contact between the donor and recipient bacteria during conjugation, allowing the passage of the plasmid.",
+      "hashtags": [
+        "microbiology",
+        "bacterial_resistance",
+        "morphology_structure",
+        "pili_conjugation",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "Which of the following mechanisms allows the transfer of DNA between bacteria through a pilus?",
+      "options": [
+        "Transduction",
+        "Conjugation",
+        "Transformation",
+        "Transposition"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bacterial conjugation requires cell-cell contact mediated by a conjugative pilus to transfer plasmids or other mobile genetic elements, being a key mechanism of horizontal resistance.",
+      "hashtags": [
+        "microbiology",
+        "horizontal_gene_transfer",
+        "concept",
+        "conjugation",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "In bacterial transformation, exogenous DNA is taken up by the recipient cell during:",
+      "options": [
+        "Natural competition phase",
+        "Sporulation phase",
+        "Latency phase",
+        "Exponential growth phase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Natural competence is a physiological state in which the bacterium expresses membrane proteins that allow the uptake of free DNA from the environment, essential for transformation.",
+      "hashtags": [
+        "microbiology",
+        "horizontal_gene_transfer",
+        "concept",
+        "natural_competence",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "What type of bacteriophage is involved in generalized transduction?",
+      "options": [
+        "Defective phage",
+        "Lysogenic phage",
+        "Lytic phage",
+        "attenuated phage"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In generalized transduction, a lytic phage packages bacterial DNA fragments randomly during the lytic cycle, transferring them to another bacterium upon infecting it.",
+      "hashtags": [
+        "microbiology",
+        "horizontal_gene_transfer",
+        "concept",
+        "generalized_transduction",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "Integrons facilitate bacterial resistance by acting as:",
+      "options": [
+        "Specific recombination sites",
+        "Tempered bacteriophages",
+        "Conjugative plasmids",
+        "DNA repair systems"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Integrons are genetic elements that contain a specific recombination site where gene cassettes are inserted, allowing the capture and expression of resistance genes.",
+      "hashtags": [
+        "microbiology",
+        "horizontal_gene_transfer",
+        "concept",
+        "integrons",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "Which of the following genetic elements is mobilized within the same bacterial genome without transfer between cells?",
+      "options": [
+        "Conjugative plasmid",
+        "Transposon",
+        "Integron",
+        "Tempered bacteriophage"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Transposons are DNA sequences that can change position within the genome of the same bacteria through a cut and paste mechanism, without requiring horizontal transfer.",
+      "hashtags": [
+        "microbiology",
+        "horizontal_gene_transfer",
+        "concept",
+        "transposons",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "The transfer of resistance plasmids between Enterobacteriaceae occurs mainly by:",
+      "options": [
+        "replicative transposition",
+        "Conjugation",
+        "Specialized translation",
+        "natural transformation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Conjugation is the predominant mechanism for the dissemination of resistance plasmids among Enterobacteriaceae, mediated by sexual pili and type IV secretion systems.",
+      "hashtags": [
+        "microbiology",
+        "horizontal_gene_transfer",
+        "concept",
+        "conjugation_enterobacteria",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "What enzyme frequently inactivates aminoglycosides in Gram-negative bacteria?",
+      "options": [
+        "Topoisomerase IV",
+        "Aminoglycoside acetyltransferase",
+        "Beta-lactamase",
+        "Penicillinase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aminoglycoside acetyltransferases covalently modify the antibiotic, preventing its binding to the bacterial ribosome and conferring resistance.",
+      "hashtags": [
+        "microbiology",
+        "aminoglycoside_resistance",
+        "virulence_factors",
+        "modifying_enzymes",
+        "MEDICAL_TOPIC",
+        "Murray Medical Microbiology 8ed"
+      ]
+    },
+    {
+      "question": "What is the main mechanism of resistance to aminoglycosides due to enzymatic modification?",
+      "options": [
+        "Active drug efflux",
+        "Lactone ring hydrolysis",
+        "16S rRNA methylation",
+        "Acetylation of the amino group"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Acetylation of the amino group is an enzymatic modification reaction mediated by acetyltransferases that inactivates the aminoglycoside.",
+      "hashtags": [
+        "microbiology",
+        "aminoglycoside_resistance",
+        "damage_mechanisms",
+        "acetylation",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---Murray 8ed"
+      ]
+    },
+    {
+      "question": "What type of enzymatic modification is most common against gentamicin?",
+      "options": [
+        "Acetylation",
+        "Adenylation",
+        "Phosphorylation",
+        "Methylation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Acetylation of the amino group is the most common enzymatic modification that inactivates gentamicin and other aminoglycosides in Gram-negative bacteria.",
+      "hashtags": [
+        "microbiology",
+        "gentamicin_resistance",
+        "virulence_factors",
+        "acetyltransferase",
+        "MEDICAL_TOPIC",
+        "Murray 8ed"
+      ]
+    },
+    {
+      "question": "Which of the following enzymes modifies aminoglycosides through phosphorylation?",
+      "options": [
+        "efflux pump",
+        "DNA gyrase",
+        "Aminoglycoside phosphotransferase",
+        "Aminoglycoside acetyltransferase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Aminoglycoside phosphotransferases transfer a phosphate group to the antibiotic, altering its structure and reducing its ribosomal affinity.",
+      "hashtags": [
+        "microbiology",
+        "aminoglycoside_resistance",
+        "virulence_factors",
+        "phosphotransferase",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What are the consequences of adenylation of an aminoglycoside?",
+      "options": [
+        "Stimulates drug release",
+        "Increases cellular penetration",
+        "Blocks protein synthesis",
+        "Inactivates its ribosomal binding"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Adenylation modifies the aminoglycoside, preventing it from binding to the 30S ribosome, which nullifies its bactericidal effect.",
+      "hashtags": [
+        "microbiology",
+        "aminoglycoside_resistance",
+        "damage_mechanisms",
+        "adenylation",
+        "MEDICAL_TOPIC",
+        "Murray 8ed"
+      ]
+    },
+    {
+      "question": "Which bacteria frequently expresses the AAC(6')-I enzyme?",
+      "options": [
+        "Staphylococcus aureus",
+        "Pseudomonas aeruginosa",
+        "Streptococcus pneumoniae",
+        "Clostridium difficile"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pseudomonas aeruginosa frequently carries the aac(6')-I gene that encodes an acetyltransferase that inactivates aminoglycosides such as amikacin.",
+      "hashtags": [
+        "microbiology",
+        "pseudomonas_resistance",
+        "virulence_factors",
+        "aac_6_i",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---Murray 8ed"
+      ]
+    }
+  ]
+}
