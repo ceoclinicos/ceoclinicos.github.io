@@ -1,0 +1,77 @@
+{
+  "id": "hiv_(cycle_and_treatment)",
+  "items": [
+    {
+      "order": 1,
+      "foco": "HIV replicative cycle: key steps",
+      "title": "Cycle steps",
+      "contentHtml": "<h2>HIV replicative cycle: key steps</h2><ul><li><b>Binding</b>: gp120 binds to <b>CD4</b> and coreceptor (CCR5/CXCR4); fusion mediated by gp41.</li><li><b>Entry and decapsidation</b>: release of the preintegration complex into cytoplasm.</li><li><b>Reverse transcriptase</b>: converts viral RNA into double-stranded DNA (target step of NRTIs and NNRTIs).</li><li><b>Integration</b>: integrase inserts proviral DNA into host genome (target of inhibitors). integrase).</li><li><b>Transcription and translation</b>: viral mRNA produces Gag-Pol polyproteins.</li><li><b>Maturation</b>: protease cleaves polyproteins into functional proteins (target of protease inhibitors).</li><li><b>Budding</b>: immature particles released; They mature after protease action. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Reverse transcriptase: nucleoside inhibitors",
+      "title": "NRTIs: mechanism and drugs",
+      "contentHtml": "<h2>Reverse transcriptase: nucleoside inhibitors</h2><p><b>NRTIs</b> (nucleoside reverse transcriptase inhibitors) act as <b>nucleoside analogues</b> that are incorporated into the elongating viral DNA, causing premature chain termination. They require <b>intracellular triphosphorylation</b> for their activation. Key drugs: <b>tenofovir disoproxil fumarate (TDF)</b> and <b>tenofovir alafenamide (TAF)</b> (less renal/bone toxicity), <b>emtricitabine (FTC)</b>, <b>lamivudine (3TC)</b>, <b>abacavir (ABC)</b> (associated with hypersensitivity reaction if HLA-B*5701 positive). <b>Zidovudine (AZT)</b> is already little used due to toxicity. Resistance due to <b>M184V</b> mutation confers high resistance to 3TC/FTC and low resistance to ABC.</p>"
+    },
+    {
+      "order": 3,
+      "foco": "Integrase: function and inhibitors",
+      "title": "Integrase inhibitors",
+      "contentHtml": "<h2>Integrase: function and inhibitors</h2><p>The <b>integrase</b> catalyzes two steps: <b>3′-processing</b> (cutting the 3′ end of the viral DNA) and <b>strand transfer</b> (insertion of the proviral DNA into the human genome). <b>Integrase strand transfer inhibitors (INSTIs)</b> block the second step. Drugs: <b>dolutegravir (DTG)</b>, <b>bictegravir (BIC)</b>, <b>raltegravir (RAL)</b>, <b>cabotegravir (CAB)</b> (long-acting injection). <b>DTG</b> and <b>BIC</b> have a high genetic barrier. Adverse effect: increase in serum creatinine due to inhibition of the tubular transporter <b>MATE-1</b> (not actual kidney damage). In pregnancy: <b>DTG</b> is associated with an increased risk of neural tube defects if used at conception.</p>"
+    },
+    {
+      "order": 4,
+      "foco": "Protease: viral maturation and drugs",
+      "title": "Protease inhibitors",
+      "contentHtml": "<h2>Protease: viral maturation and drugs</h2><p>The <b>HIV protease</b> cleaves the <b>Gag</b> and <b>Gag-Pol</b> polyproteins into functional proteins (p24, p17, protease, integrase, reverse transcriptase). Protease inhibitors (<b>PI</b>): <b>atazanavir (ATV)</b>, <b>darunavir (DRV)</b>, <b>lopinavir (LPV)</b> (formulated with ritonavir as a booster). All PIs are metabolized by <b>CYP3A4</b> and require augmentation with <b>ritonavir (RTV)</b> or <b>cobicistat (COBI)</b>. Adverse effects: dyslipidemia, lipodystrophy, hyperbilirubinemia (ATV), PR/QT prolongation. The <b>I50L</b> mutation confers resistance to ATV. <b>DRV/r</b> is the PI of choice in <b>rescue ART</b> due to high genetic barrier.</p>"
+    },
+    {
+      "order": 5,
+      "foco": "Fusion and entry: CCR5/CXCR4 coreceptors",
+      "title": "Coreceptors and input",
+      "contentHtml": "<h2>Fusion and entry: CCR5/CXCR4 coreceptors</h2><p>HIV entry requires binding of gp120 to <b>CD4</b> and subsequent interaction with a coreceptor: <b>CCR5</b> (R5 tropism, predominant in transmission) or <b>CXCR4</b> (X4 tropism, associated with progression). Maraviroc is a CCR5 antagonist; requires tropism test (Trofile) before use. The change from R5 to X4 (or mixed) tropism is associated with CD4 decline and worse prognosis. <b>Enfuvirtide</b> is a fusion inhibitor (gp41) for subcutaneous use, currently little used by other options. The <b>V3 loop</b> mutation determines tropism.</p>"
+    },
+    {
+      "order": 6,
+      "foco": "Recommended initial antiretroviral therapy",
+      "title": "initial TAR of choice",
+      "contentHtml": "<h2>Recommended initial antiretroviral therapy</h2><p>According to <b>DHHS 2024</b> and <b>GESIDA</b> guidelines, the initial regimen of choice is a combination of two <b>NRTIs</b> plus an <b>INSTI</b>. Preferred options: <b>BIC/TAF/FTC</b> (Biktarvy®) and <b>DTG/ABC/3TC</b> (Triumeq®) if HLA-B*5701 negative. Alternative: <b>DTG + TAF/FTC</b>. Renal function, lipid profile and HBV coinfection should be evaluated. It is not recommended to start with <b>IP/r</b> or <b>NNRTI</b> as the first line due to greater toxicity or lower genetic barrier. In patients with <b>viral load >500,000 copies/mL</b>, avoid ABC due to greater risk of failure.</p>"
+    },
+    {
+      "order": 7,
+      "foco": "Regimen of choice in pregnancy",
+      "title": "ART in pregnancy",
+      "contentHtml": "<h2>Regimen of choice in pregnancy</h2><p>The goal is <b>undetectable viral load</b> (<50 copies/mL) at delivery to prevent vertical transmission. Regimen of choice: <b>two NRTIs</b> (<b>TAF/FTC</b> or <b>TDF/FTC</b>; avoid TDF if kidney disease) plus one <b>INSTI</b>. <b>DTG</b> is associated with <b>neural tube defects</b> if exposed at conception (risk 0.19% vs. 0.11% baseline); If the patient is already on DTG and has an unplanned pregnancy, continue it. Alternative: <b>darunavir/r</b> + two NRTIs. Contraindicated: <b>efavirenz</b> (teratogen, category D) and <b>dolutegravir</b> at conception if there are options. In labor, <b>AZT IV</b> if viral load &gt;1000 copies/mL.</p>"
+    },
+    {
+      "order": 8,
+      "foco": "Post-exposure prophylaxis (PEP) duration",
+      "title": "PEP: duration and regimen",
+      "contentHtml": "<h2>Post-exposure prophylaxis (PEP) duration</h2><p><b>PEP</b> should be started <b>within 72 hours</b> (ideally in the first 2 hours) post-risk exposure (sexual, occupational, percutaneous). Duration: <b>28 consecutive days</b>. Recommended regimen: <b>tenofovir disoproxil fumarate (TDF) 300 mg + emtricitabine (FTC) 200 mg</b> (Truvada®) once a day, plus <b>raltegravir (RAL) 400 mg every 12 hours</b> or <b>dolutegravir (DTG) 50 mg/day</b>. An HIV test should be performed at the beginning, at 4-6 weeks and at 3 months. Don't forget to evaluate the risk of HBV and syphilis. If the source has known resistance, adjust the regime.</p>"
+    },
+    {
+      "order": 9,
+      "foco": "Pre-exposure prophylaxis (PrEP) indications",
+      "title": "PrEP: indications",
+      "contentHtml": "<h2>Pre-exposure prophylaxis (PrEP) indications</h2><p><b>PrEP</b> is indicated in people at high risk of acquiring HIV: men who have sex with men (<b>MSM</b>) without consistent condom use, serodiscordant couples, people with <b>bacterial STI</b> in the last 6 months, injection drug users. Oral regimen: <b>TDF/FTC</b> (Truvada®) or <b>TAF/FTC</b> (Descovy®) once daily. Injectable alternative: <b>cabotegravir</b> (Apretude®) every 2 months, with superior efficacy in MSM. Normal kidney function, negative HIV test before starting and every 3 months is required. In <b>women</b>, only <b>TDF/FTC</b> has evidence; TAF/FTC not approved for receptive vaginal sex.</p>"
+    },
+    {
+      "order": 10,
+      "foco": "Primary resistance and genotyping",
+      "title": "Primary resistance and genotype",
+      "contentHtml": "<h2>Primary resistance and genotyping</h2><p>Primary (transmitted) resistance is detected by <b>genotyping</b> (<b>RT</b>, <b>protease</b> and <b>integrase</b> sequencing) before starting ART. Prevalence in Spain ~10-15%. Relevant mutations: <b>M184V</b> (high resistance to 3TC/FTC), <b>K103N</b> (resistance to efavirenz/nevirapine), <b>L90M</b> (IP). Genotyping is performed with <b>viral load >1000 copies/mL</b>. If there is virological failure, repeat genotype in therapy. <b>INSTI resistance</b> (e.g. <b>R263K</b>, <b>G140S</b>) is less common but emerging. Do not forget that resistance to <b>tenofovir</b> (mutation <b>K65R</b>) reduces sensitivity to TDF and ABC.</p>"
+    },
+    {
+      "order": 11,
+      "foco": "Acute retroviral syndrome: manifestations",
+      "title": "Acute retroviral syndrome",
+      "contentHtml": "<h2>Acute retroviral syndrome: manifestations</h2><p>It occurs 2-4 weeks post-infection, coinciding with <b>high viremia</b> (>10⁶ copies/mL). Manifestations: <b>fever</b> (96%), <b>lymphadenopathy</b>, <b>pharyngitis</b>, <b>maculopapular rash</b> (trunk, symmetrical), <b>myalgias/arthralgias</b>, <b>headache</b>, <b>mucocutaneous ulcers</b> (genital, oral). Gastrointestinal symptoms: nausea, diarrhea. It can simulate <b>infectious mononucleosis</b> (but without exudative pharyngitis or marked splenomegaly). Diagnosis: <b>HIV-RNA</b> detectable, <b>p24 Ag</b> positive and <b>serology</b> (ELISA/Western blot) initially negative or indeterminate. The <b>CD4</b> count is usually temporarily low. Early recognition allows initiation of ART and reduces the reservoir.</p>"
+    },
+    {
+      "order": 12,
+      "foco": "ART initiation criteria: CD4 and viral load",
+      "title": "ART initiation: criteria",
+      "contentHtml": "<h2>Criteria for starting ART: CD4 and viral load</h2><p>It is currently recommended to <b>initiate ART in all patients with HIV</b> regardless of CD4 count (DHHS, WHO guidelines). The benefit is greater in <b>CD4 <350 cells/μL</b> (reduces morbidity and mortality). In asymptomatic patients with <b>CD4 >500 cells/μL</b>, early initiation reduces transmission (<b>treatment as prevention</b> strategy). Baseline <b>viral load</b> guides the choice of regimen: avoid <b>abacavir</b> if VL > 500,000 copies/mL. ART should be started as soon as possible, ideally within 7 days of diagnosis, except if there is <b>active opportunistic infection</b> (e.g. cryptococcal meningitis) where it is deferred 4-6 weeks to avoid <b>immune reconstitution inflammatory syndrome (IRIS).</p>"
+    }
+  ]
+}

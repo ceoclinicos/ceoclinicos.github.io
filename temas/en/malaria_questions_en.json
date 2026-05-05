@@ -1,55 +1,36 @@
 {
   "questions": [
     {
-      "question": "Where does the hepatic exoerythrocytic phase of malaria occur?",
-      "options": [
-        "in the spleen",
-        "in the erythrocytes",
-        "in hepatocytes",
-        "in the vascular endothelium"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The hepatic exoerythrocytic phase occurs when sporozoites invade hepatocytes, where they replicate and mature into hepatic schizonts.",
-      "hashtags": [
-        "infectology",
-        "malaria",
-        "pathophysiology",
-        "hepatic_cycle",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What parasitic form initiates the hepatic exoerythrocytic cycle?",
+      "question": "Which form of the malaria parasite initiates the hepatic exoerythrocytic cycle?",
       "options": [
         "Merozoite",
+        "Trophozoite",
         "Sporozoite",
-        "Gametocyte",
-        "Trophozoite"
+        "gametocyte"
       ],
-      "correctAnswer": 2,
-      "explanation": "The hepatic exoerythrocytic cycle begins with the inoculation of sporozoites by the Anopheles mosquito, which migrate to the liver and invade hepatocytes.",
+      "correctAnswer": 3,
+      "explanation": "The sporozoite is the infective form inoculated by the Anopheles mosquito, which migrates to the liver and invades the hepatocytes to initiate the exoerythrocytic cycle.",
       "hashtags": [
-        "infectology",
+        "internal_medicine",
         "malaria",
-        "pathophysiology",
-        "infection_start",
+        "clinical_table",
+        "exoerythrocytic_cycle",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is the end product of the liver schizont in malaria?",
+      "question": "What is the main product of the hepatic exoerythrocytic phase in malaria?",
       "options": [
-        "Merozoites",
-        "Gametocytes",
         "Trophozoites",
-        "Sporozoites"
+        "Sporozoites",
+        "Merozoites",
+        "Gametocytes"
       ],
-      "correctAnswer": 1,
-      "explanation": "Within the hepatocyte, the hepatic schizont matures and releases thousands of merozoites into the bloodstream, which invade the erythrocytes and initiate the erythrocytic phase.",
+      "correctAnswer": 3,
+      "explanation": "The sporozoites transform into hepatic schizonts that release merozoites into the bloodstream, initiating the erythrocytic phase.",
       "hashtags": [
-        "infectology",
+        "internal_medicine",
         "malaria",
         "pathophysiology",
         "hepatic_schizogony",
@@ -58,794 +39,946 @@
       ]
     },
     {
-      "question": "What species of Plasmodium can remain dormant in the liver?",
+      "question": "What species of Plasmodium can remain dormant in the liver as a hypnozoite?",
       "options": [
+        "Plasmodium vivax",
         "Plasmodium ovale",
+        "Plasmodium falciparum",
+        "Plasmodium malariae"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plasmodium vivax and Plasmodium ovale produce hypnozoites, latent liver forms that cause relapses months or years after initial infection.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "etiology",
+        "hypnozoites",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "How long does the hepatic exoerythrocytic cycle typically last in Plasmodium falciparum malaria?",
+      "options": [
+        "2 to 3 weeks",
+        "6 to 8 weeks",
+        "24 to 48 hours",
+        "5 to 7 days"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In Plasmodium falciparum the liver phase lasts approximately 5 to 7 days, after which the merozoites are released into the bloodstream.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "pathophysiology",
+        "hepatic_phase_duration",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which drug is effective against Plasmodium vivax hepatic hypnozoites?",
+      "options": [
+        "Chloroquine",
+        "Mefloquine",
+        "Artemisinin",
+        "Primaquina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Primaquine is the drug of choice to eliminate hepatic hypnozoites, preventing relapses; Chloroquine and artemisinin do not act in this phase.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "treatment",
+        "primaquine",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the immediate consequence of rupture of the hepatic schizont in malaria?",
+      "options": [
+        "Gametocyte formation",
+        "Merozoite release",
+        "Erythrocyte invasion",
+        "Fever and chills"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rupture of the hepatic schizont releases merozoites into the bloodstream, which then invade red blood cells and initiate the symptomatic erythrocytic phase.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "pathophysiology",
+        "hepatic_schizogony",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main pathophysiological mechanism of cerebral malaria due to Plasmodium falciparum?",
+      "options": [
+        "Immune complex deposition",
+        "Cerebral venous thrombosis",
+        "Cerebral erythrocyte sequestration",
+        "Massive erythrocyte rupture"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sequestration of parasitized erythrocytes in the cerebral microvasculature, mediated by adhesins such as PfEMP1, is the central mechanism causing obstruction and endothelial damage in cerebral malaria.",
+      "hashtags": [
+        "internal_medicine",
+        "cerebral_malaria",
+        "pathophysiology",
+        "erythrocyte_sequestration",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which clinical finding is characteristic of Plasmodium falciparum cerebral malaria?",
+      "options": [
+        "Coma with meningeal signs",
+        "Quartan fever and bradycardia",
+        "Jaundice and lower back pain",
+        "Seizures and severe headache"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Seizures and severe headache are common neurological manifestations in cerebral malaria, along with altered level of consciousness, although coma is the defining sign.",
+      "hashtags": [
+        "internal_medicine",
+        "cerebral_malaria",
+        "clinical_table",
+        "seizures",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What parasite is the main etiological agent of cerebral malaria?",
+      "options": [
+        "Plasmodium vivax",
+        "Plasmodium falciparum",
+        "Plasmodium malariae",
+        "Plasmodium ovale"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Plasmodium falciparum is the species that most frequently causes cerebral malaria, due to its capacity for erythrocyte sequestration and cytoadhesion in the cerebral microvasculature.",
+      "hashtags": [
+        "microbiology",
+        "plasmodium_falciparum",
+        "concept",
+        "cerebral_malaria",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for Plasmodium falciparum cerebral malaria?",
+      "options": [
+        "Intravenous artemisinin",
+        "Artemether-lumefantrine oral",
+        "intravenous quinine",
+        "oral chloroquine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intravenous artemisinin (artesunate) is the treatment of choice for severe cerebral malaria due to Plasmodium falciparum, due to its rapid action and lower mortality compared to quinine.",
+      "hashtags": [
+        "internal_medicine",
+        "cerebral_malaria",
+        "treatment",
+        "artesunato_iv",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What late neurological complication can occur after cerebral malaria due to Plasmodium falciparum?",
+      "options": [
+        "Spastic hemiplegia",
+        "Guillain-Barré syndrome",
+        "Bacterial meningitis",
+        "Residual cognitive deficit"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Residual cognitive deficits, including memory, attention, and language problems, are a recognized neurological sequelae in children and adults who survive severe cerebral malaria.",
+      "hashtags": [
+        "internal_medicine",
+        "cerebral_malaria",
+        "complications",
+        "cognitive_deficit",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What characteristic of Plasmodium falciparum favors the development of cerebral malaria?",
+      "options": [
+        "Chloroquine resistance",
+        "Hemozoin production",
+        "PfEMP1 expression",
+        "Hepatic exoerythrocytic cycle"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The expression of the PfEMP1 protein on the surface of the parasitized erythrocyte allows adhesion to the cerebral endothelium, facilitating vascular sequestration and the pathogenesis of cerebral malaria.",
+      "hashtags": [
+        "internal_medicine",
+        "cerebral_malaria",
+        "pathophysiology",
+        "pfemp1",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the typical interval of febrile attacks in P. vivax malaria?",
+      "options": [
+        "Every 48 hours",
+        "Every 72 hours",
+        "Every 24 hours",
+        "Every 36 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tertian fever due to P. vivax is characterized by febrile attacks that occur every 48 hours, coinciding with the release of merozoites into the bloodstream.",
+      "hashtags": [
+        "internal_medicine",
+        "tertian_fever",
+        "clinical_table",
+        "febrile_periodicity",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which of the following parasites causes benign tertian fever?",
+      "options": [
+        "Plasmodium knowlesi",
         "Plasmodium vivax",
         "Plasmodium malariae",
         "Plasmodium falciparum"
       ],
       "correctAnswer": 2,
-      "explanation": "Plasmodium vivax and Plasmodium ovale can form hypnozoites in hepatocytes, remaining dormant for months or years and causing late relapses of malaria.",
-      "hashtags": [
-        "infectology",
-        "malaria",
-        "pathophysiology",
-        "hypnozoites",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What drug is effective against hepatic hypnozoites?",
-      "options": [
-        "Artemisinin",
-        "Chloroquine",
-        "Primaquina",
-        "Mefloquine"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Primaquine is the drug of choice to eliminate hepatic hypnozoites of P. vivax and P. ovale, preventing long-term relapses in the treatment of malaria.",
-      "hashtags": [
-        "pharmacology",
-        "antimalarials",
-        "treatment",
-        "hypnozoites",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "How long does the hepatic exoerythrocytic phase typically last in P. falciparum?",
-      "options": [
-        "10 to 14 days",
-        "5 to 7 days",
-        "2 to 3 months",
-        "3 to 4 weeks"
-      ],
-      "correctAnswer": 2,
-      "explanation": "In P. falciparum the hepatic phase lasts approximately 5 to 7 days, after which merozoites are released into the bloodstream to initiate the erythrocytic phase.",
-      "hashtags": [
-        "infectology",
-        "malaria",
-        "pathophysiology",
-        "liver_duration",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main virulence factor of Plasmodium falciparum in severe malaria?",
-      "options": [
-        "Adhesion to endothelium",
-        "spore formation",
-        "Chloroquine resistance",
-        "Production of hemolysins"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The adhesion of infected erythrocytes to the vascular endothelium through PfEMP1 proteins causes microvascular obstruction, key in severe malaria.",
-      "hashtags": [
-        "internal_medicine",
-        "severe_malaria",
-        "pathophysiology",
-        "cytoadherence",
-        "MEDICAL_TOPIC",
-        "WHO Guide 2023"
-      ]
-    },
-    {
-      "question": "Which clinical finding is characteristic of severe Plasmodium falciparum malaria?",
-      "options": [
-        "Mild hemolytic anemia",
-        "Multiple organ dysfunction",
-        "Benign tertian fever",
-        "Chronic splenomegaly"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Severe P. falciparum malaria presents with multiple organ dysfunction, including coma, renal failure, and metabolic acidosis.",
-      "hashtags": [
-        "internal_medicine",
-        "severe_malaria",
-        "clinical_table",
-        "organic_dysfunction",
-        "MEDICAL_TOPIC",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "What is the treatment of choice for severe Plasmodium falciparum malaria?",
-      "options": [
-        "oral mefloquine",
-        "oral chloroquine",
-        "Intravenous artemisinin",
-        "oral primaquine"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Intravenous artemisinin is the first-line treatment for severe malaria, due to its rapid action and effectiveness against P. falciparum.",
-      "hashtags": [
-        "internal_medicine",
-        "severe_malaria",
-        "treatment",
-        "artemisinin_iv",
-        "MEDICAL_TOPIC",
-        "WHO Guide 2023"
-      ]
-    },
-    {
-      "question": "What neurological complication is classic of severe Plasmodium falciparum malaria?",
-      "options": [
-        "Malarial encephalopathy",
-        "Bacterial meningitis",
-        "Demyelinating polyneuropathy",
-        "brain abscess"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Malarial encephalopathy, characterized by altered level of consciousness and seizures, is a typical complication of severe malaria.",
-      "hashtags": [
-        "internal_medicine",
-        "severe_malaria",
-        "complications",
-        "malaric_encephalopathy",
-        "MEDICAL_TOPIC",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "What pathophysiological mechanism contributes to severe Plasmodium falciparum malaria?",
-      "options": [
-        "Destructive thrombocytopenia",
-        "Microvascular erythrocyte sequestration",
-        "Autoimmune hypersplenism",
-        "Massive intravascular hemolysis"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Sequestration of infected erythrocytes in the microvasculature of the brain and other organs causes tissue hypoxia and organ failure.",
-      "hashtags": [
-        "internal_medicine",
-        "severe_malaria",
-        "pathophysiology",
-        "erythrocyte_sequestration",
-        "MEDICAL_TOPIC",
-        "WHO Guide 2023"
-      ]
-    },
-    {
-      "question": "What test confirms severe Plasmodium falciparum malaria?",
-      "options": [
-        "Polymerase chain reaction",
-        "Serology for antibodies",
-        "Positive thick drop",
-        "Peripheral blood culture"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The thick smear is the gold standard for diagnosing malaria, allowing the species to be identified and parasitaemia quantified.",
-      "hashtags": [
-        "internal_medicine",
-        "severe_malaria",
-        "diagnosis",
-        "thick_drop",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the earliest form of Plasmodium visible in blood smear?",
-      "options": [
-        "Mature trophozoite",
-        "Schizont",
-        "intraerythrocytic ring",
-        "Gametocyte"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The intraerythrocytic ring is the initial form of the young trophozoite seen in the blood smear, characteristic of the early diagnosis of malaria.",
-      "hashtags": [
-        "internal_medicine",
-        "malaria",
-        "clinical_table",
-        "intraerythrocytic_ring",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What structure of the intraerythrocytic ring allows differentiating Plasmodium species?",
-      "options": [
-        "vacuolated cytoplasm",
-        "nuclear membrane",
-        "Apical flagellum",
-        "Chromatin and cytoplasm"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The morphology of the chromatin and cytoplasm of the intraerythrocytic ring helps to differentiate species such as P. falciparum and P. vivax in the blood smear.",
+      "explanation": "Plasmodium vivax and Plasmodium ovale are the causative agents of benign tertian fever, with 48-hour cycles, unlike P. falciparum, which causes malignant tertian fever.",
       "hashtags": [
         "parasitology",
         "malaria",
-        "diagnosis",
-        "ring_morphology",
+        "concept",
+        "plasmodium_species",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "At what stage of the Plasmodium cycle is the intraerythrocytic ring observed?",
+      "question": "What parasitic form is responsible for relapses in P. vivax malaria?",
       "options": [
-        "Sexual phase in mosquito",
-        "Young trophozoite in erythrocyte",
-        "Sporozoite formation",
-        "Exoerythrocytic schizogony"
+        "Merozoite",
+        "Trophozoite",
+        "Schizont",
+        "Hypnozoite"
       ],
-      "correctAnswer": 2,
-      "explanation": "The intraerythrocytic ring corresponds to the young trophozoite, the first stage of intraerythrocytic development of Plasmodium after the invasion of the red blood cell.",
+      "correctAnswer": 4,
+      "explanation": "Hypnozoites are latent intrahepatic forms of P. vivax and P. ovale that can reactivate weeks or months later, causing clinical relapses of the disease.",
       "hashtags": [
         "parasitology",
         "malaria",
         "biological_cycle",
-        "young_trophozoite",
+        "hypnozoite",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Which species of Plasmodium usually presents multiple intraerythrocytic rings in the same erythrocyte?",
+      "question": "What is the treatment of choice to eliminate P. vivax hypnozoites?",
       "options": [
-        "Plasmodium malariae",
-        "Plasmodium vivax",
-        "Plasmodium falciparum",
-        "Plasmodium ovale"
-      ],
-      "correctAnswer": 3,
-      "explanation": "P. falciparum frequently shows multiple intraerythrocytic rings (high parasitemia) in the same erythrocyte, unlike other species with fewer rings.",
-      "hashtags": [
-        "internal_medicine",
-        "malaria",
-        "diagnosis",
-        "plasmodium_falciparum",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the stain of choice to visualize intraerythrocytic rings in blood smears?",
-      "options": [
-        "Giemsa stain",
-        "Wright stain",
-        "Ziehl-Neelsen stain",
-        "Gram stain"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Giemsa staining is the standard method to identify Plasmodium intraerythrocytic rings in blood smears, allowing species to be differentiated by morphology.",
-      "hashtags": [
-        "internal_medicine",
-        "malaria",
-        "diagnosis",
-        "tincion_giemsa",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Which additional smear finding suggests severe P. falciparum malaria?",
-      "options": [
-        "Multiple intraerythrocytic rings",
-        "Rings with eccentric chromatin",
-        "Moon-shaped gametocytes",
-        "Schizonts with merozoites"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The presence of multiple intraerythrocytic rings in an erythrocyte indicates high parasitemia, a characteristic of severe P. falciparum malaria, associated with a poor prognosis.",
-      "hashtags": [
-        "internal_medicine",
-        "malaria",
-        "complications",
-        "high_parasitemia",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the typical incubation period for Plasmodium malariae quartan fever?",
-      "options": [
-        "60 to 90 days",
-        "1 to 3 days",
-        "18 to 40 days",
-        "7 to 14 days"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The incubation period of Plasmodium malariae is 18 to 40 days, longer than that of other Plasmodium species, which contributes to its characteristic clinical presentation.",
-      "hashtags": [
-        "tropical_medicine",
-        "quartan_fever",
-        "concept",
-        "incubation_period",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What febrile pattern characterizes quartan fever due to Plasmodium malariae?",
-      "options": [
-        "Everyday fever every 24 hours",
-        "Irregular fever without periodicity",
-        "Quartan fever every 72 hours",
-        "Tertian fever every 48 hours"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Quartan fever occurs every 72 hours due to the 72-hour erythrocyte cycle of Plasmodium malariae, unlike other species with shorter cycles.",
-      "hashtags": [
-        "tropical_medicine",
-        "quartan_fever",
-        "clinical_table",
-        "fever_pattern",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main pathophysiological mechanism of anemia in Plasmodium malariae malaria?",
-      "options": [
-        "Destruction of senescent erythrocytes",
-        "Splenic sequestration of erythrocytes",
-        "Inhibition of spinal erythropoiesis",
-        "Massive intravascular hemolysis"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Plasmodium malariae preferentially invades senescent erythrocytes, leading to their accelerated destruction and anemia, without causing massive hemolysis or significant splenic sequestration.",
-      "hashtags": [
-        "tropical_medicine",
-        "quartan_fever",
-        "pathophysiology",
-        "anemia_senescent_erythrocytes",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What renal complication is classically associated with chronic Plasmodium malariae infection?",
-      "options": [
-        "Acute interstitial nephritis",
-        "Nephrotic syndrome",
-        "Acute tubular necrosis",
-        "Membranous glomerulonephritis"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Chronic Plasmodium malariae infection can trigger a nephrotic syndrome due to deposition of immune complexes in the glomerulus, especially in children in endemic areas.",
-      "hashtags": [
-        "tropical_medicine",
-        "quartan_fever",
-        "complications",
-        "nephrotic_syndrome",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the treatment of choice for malaria not complicated by Plasmodium malariae?",
-      "options": [
-        "Primaquina",
-        "Doxycycline",
+        "Mefloquine",
         "Artemether-lumefantrine",
+        "Primaquina",
         "Chloroquine"
       ],
-      "correctAnswer": 4,
-      "explanation": "Plasmodium malariae is sensitive to chloroquine, so this drug remains the treatment of choice for uncomplicated infection, unlike other resistant species.",
-      "hashtags": [
-        "tropical_medicine",
-        "quartan_fever",
-        "treatment",
-        "chloroquine",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What parasitological finding differentiates Plasmodium malariae from other species in the peripheral blood smear?",
-      "options": [
-        "Ring forms with double chromatin",
-        "Band or bar shapes",
-        "Crescent-shaped gametocytes",
-        "Schizonts with 16 to 32 merozoites"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Plasmodium malariae presents band or bar forms in mature trophozoites, a distinctive finding that helps differentiate it from other Plasmodium species in the blood smear.",
-      "hashtags": [
-        "tropical_medicine",
-        "quartan_fever",
-        "diagnosis",
-        "band_shapes",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What structure of Plasmodium vivax allows late relapses?",
-      "options": [
-        "Gametocytes",
-        "Liver schizonts",
-        "Hypnozoites",
-        "Trophozoites"
-      ],
       "correctAnswer": 3,
-      "explanation": "Hypnozoites are latent intrahepatic forms of Plasmodium vivax and ovale that can reactivate weeks or months later, causing clinical relapses.",
+      "explanation": "Primaquine is the drug of choice for the eradication of hepatic hypnozoites of P. vivax and P. ovale, thus preventing relapses of tertian malaria.",
       "hashtags": [
-        "internal_medicine",
+        "pharmacology",
         "malaria",
-        "pathophysiology",
-        "hypnozoites",
+        "treatment",
+        "primaquine",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is the only human plasmodium that forms hypnozoites?",
+      "question": "What species of Plasmodium has a tertian febrile cycle but with quartan fever?",
       "options": [
+        "Plasmodium ovale",
         "Plasmodium falciparum",
         "Plasmodium malariae",
-        "Plasmodium knowlesi",
         "Plasmodium vivax"
       ],
-      "correctAnswer": 4,
-      "explanation": "Plasmodium vivax and Plasmodium ovale are the two species that produce hepatic hypnozoites, responsible for relapses; falciparum, malariae and knowlesi do not form them.",
+      "correctAnswer": 3,
+      "explanation": "Plasmodium malariae causes quartan fever (every 72 hours), unlike P. vivax and P. ovale which cause tertian fever (every 48 hours), so the statement is incorrect for the context.",
+      "hashtags": [
+        "internal_medicine",
+        "tertian_fever",
+        "diagnosis",
+        "febrile_cycle",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which of the following findings is characteristic of peripheral blood smear in P. vivax malaria?",
+      "options": [
+        "banana-shaped gametocytes",
+        "Enlarged parasitized erythrocytes",
+        "Band-shaped parasites",
+        "Multiple ring shapes per erythrocyte"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In P. vivax malaria, the parasitized erythrocytes are usually enlarged (macrocytes), unlike P. falciparum, which has multiple ring shapes and banana gametocytes.",
       "hashtags": [
         "microbiology",
         "malaria",
-        "concept",
-        "plasmodium_species",
+        "laboratory_id",
+        "blood_smear",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What drug is effective in eliminating hepatic hypnozoites?",
+      "question": "What is the main pathophysiological mechanism of anemia in Plasmodium falciparum malaria?",
       "options": [
-        "Primaquina",
-        "Chloroquine",
-        "Artemisinin",
-        "Mefloquine"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Primaquine is the drug of choice for the eradication of hepatic hypnozoites of P. vivax and P. ovale, preventing relapses; Chloroquine and artemisinin act in the blood phase.",
-      "hashtags": [
-        "pharmacology",
-        "malaria",
-        "indications",
-        "primaquine",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the anatomical location of hypnozoites?",
-      "options": [
-        "mature erythrocytes",
-        "vascular endothelium",
-        "Hepatocytes",
-        "Splenocytes"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The hypnozoites remain latent within the hepatocytes, without actively replicating, until they reactivate and initiate the erythrocytic phase of the infection.",
-      "hashtags": [
-        "internal_medicine",
-        "malaria",
-        "pathophysiology",
-        "liver_location",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What event triggers hypnozoite reactivation?",
-      "options": [
-        "mosquito bite",
-        "unknown exactly",
-        "immune stress",
-        "High fever"
+        "iron deficiency",
+        "intravascular hemolysis",
+        "Extravascular hemolysis",
+        "spinal aplasia"
       ],
       "correctAnswer": 2,
-      "explanation": "The precise mechanism of hypnozoite reactivation is not completely known, although it is associated with factors such as immunosuppression or hormonal changes; It does not depend directly on a new bite.",
+      "explanation": "Direct rupture of erythrocytes during schizogony produces intravascular hemolysis, releasing hemoglobin into the plasma and contributing to acute anemia.",
       "hashtags": [
         "internal_medicine",
-        "malaria",
+        "Hemolytic_anemia_due to_erythrocyte_rupture",
         "pathophysiology",
-        "reactivation",
+        "intravascular_hemolysis",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "How long can hypnozoites persist in the liver?",
+      "question": "Which laboratory finding is characteristic of malaria hemolytic anemia?",
       "options": [
-        "months to years",
-        "Weeks to months",
-        "hours to days",
-        "days to weeks"
+        "Increased indirect bilirubin",
+        "Decrease in reticulocytes",
+        "Decreased LDH",
+        "Increased haptoglobin"
       ],
       "correctAnswer": 1,
-      "explanation": "P. vivax and P. ovale hypnozoites can remain dormant in the liver for months or even years, causing late relapses if not treated with primaquine.",
+      "explanation": "Hemolysis of erythrocytes increases indirect bilirubin due to heme degradation, along with an increase in LDH and reticulocytes, and a decrease in haptoglobin.",
       "hashtags": [
         "internal_medicine",
-        "malaria",
-        "pathophysiology",
-        "liver_persistence",
+        "Hemolytic_anemia_due to_erythrocyte_rupture",
+        "diagnosis",
+        "indirect_bilirubin",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is the mechanism of action of primaquine against malaria?",
+      "question": "What acute complication can trigger massive hemolysis in severe malaria?",
       "options": [
-        "Blocks folate synthesis",
-        "Inhibits the parasite's polymerase",
-        "Alters the erythrocyte membrane",
-        "Eliminates hepatic hypnozoites"
+        "Splenic infarction",
+        "Nephrotic syndrome",
+        "Liver cirrhosis",
+        "Acute kidney failure"
       ],
       "correctAnswer": 4,
-      "explanation": "Primaquine acts by eliminating hepatic hypnozoites of Plasmodium vivax and ovale, preventing late relapses in malaria.",
+      "explanation": "Free hemoglobin obstructs the renal tubules and causes acute tubular necrosis, leading to acute renal failure in severe falciparum malaria.",
       "hashtags": [
         "internal_medicine",
-        "malaria",
-        "treatment",
-        "primaquine",
+        "Hemolytic_anemia_due to_erythrocyte_rupture",
+        "complications",
+        "acute_renal_failure",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What species of Plasmodium requires primaquine to avoid relapses?",
-      "options": [
-        "Plasmodium falciparum",
-        "Plasmodium vivax",
-        "Plasmodium knowlesi",
-        "Plasmodium malariae"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Plasmodium vivax forms dormant hepatic hypnozoites, and primaquine is necessary to eliminate them and prevent relapses, unlike P. falciparum.",
-      "hashtags": [
-        "internal_medicine",
-        "malaria",
-        "clinical_table",
-        "plasmodium_species",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is a serious side effect of primaquine?",
-      "options": [
-        "Severe hepatotoxicity",
-        "Cardiotoxicity due to long QT",
-        "Hemolysis in G6PD deficiency",
-        "Acute interstitial nephritis"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Primaquine can cause acute hemolysis in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency, a potentially serious adverse effect.",
-      "hashtags": [
-        "pharmacology",
-        "malaria",
-        "adverse_effects",
-        "deficit_g6pd",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What stage of the parasite is eliminated by primaquine?",
-      "options": [
-        "hepatic hypnozoite",
-        "liver schizont",
-        "erythrocytic gametocyte",
-        "blood trophozoite"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Primaquine is the only antimalarial drug that eliminates latent hepatic hypnozoites, responsible for relapses in P. vivax and P. ovale infections.",
-      "hashtags": [
-        "internal_medicine",
-        "malaria",
-        "pathophysiology",
-        "plasmodium_life_cycle",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main indication of primaquine?",
-      "options": [
-        "Prophylaxis in travelers to endemic areas",
-        "Prevention of relapses due to P. vivax",
-        "Combination therapy for severe malaria",
-        "Treatment of uncomplicated malaria"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Primaquine is mainly used for the eradication of hepatic hypnozoites and prevention of relapses in Plasmodium vivax and ovale infections.",
-      "hashtags": [
-        "pharmacology",
-        "malaria",
-        "indications",
-        "relapse_prevention",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What enzyme should be evaluated before administering primaquine?",
-      "options": [
-        "Glucose-6-phosphate dehydrogenase",
-        "Plasma cholinesterase",
-        "Cytochrome P450 2D6",
-        "Aldehyde dehydrogenase"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Before administering primaquine, it is mandatory to evaluate G6PD activity to avoid acute hemolysis, a serious adverse effect in patients with deficiency of this enzyme.",
-      "hashtags": [
-        "pharmacology",
-        "malaria",
-        "contraindications",
-        "deficit_g6pd",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the first-line treatment for uncomplicated Plasmodium falciparum malaria?",
+      "question": "What antimalarial treatment is indicated in severe hemolytic anemia due to P. falciparum?",
       "options": [
         "Artemether-lumefantrine",
-        "Primaquina",
-        "Doxycycline",
-        "Chloroquine"
+        "Primaquina alone",
+        "oral doxycycline",
+        "oral chloroquine"
       ],
       "correctAnswer": 1,
-      "explanation": "Artemether-lumefantrine is an artemisinin-based combination therapy (ACT) recommended as first-line for uncomplicated P. falciparum malaria, due to its high efficacy and low resistance.",
+      "explanation": "Artemether-lumefantrine is a first-line treatment for malaria not complicated by P. falciparum, controlling parasitaemia and stopping hemolysis.",
       "hashtags": [
         "internal_medicine",
-        "malaria",
+        "Hemolytic_anemia_due to_erythrocyte_rupture",
         "treatment",
-        "combined_artemisinin",
+        "artemeter_lumefantrine",
         "MEDICAL_TOPIC",
-        "WHO 2023"
+        ""
       ]
     },
     {
-      "question": "What main mechanism explains the rapidity of action of artemisinins in malaria?",
+      "question": "Which Plasmodium falciparum virulence factor promotes erythrocyte rupture?",
       "options": [
-        "Generation of free radicals",
-        "Binding to the ribosomal subunit",
-        "Inhibition of protein synthesis",
-        "Blocking folate synthesis"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Artemisinins contain an endoperoxide bridge that, when activated by the parasite's iron, generates free radicals that damage proteins and membranes, quickly eliminating the asexual stages.",
-      "hashtags": [
-        "pharmacology",
-        "malaria",
-        "action_mechanism",
-        "artemisinins",
-        "MEDICAL_TOPIC",
-        "Goodman & Gilman 14ed"
-      ]
-    },
-    {
-      "question": "What is the main advantage of using artemisinin combination therapy (ACT) versus monotherapy?",
-      "options": [
-        "Lower production cost",
-        "Reducing the risk of resistance",
-        "Removal of hypnozoites",
-        "Greater oral bioavailability"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The combination of a fast-acting artemisinin derivative with another drug with a longer half-life reduces the probability of selection of resistant parasites, since monotherapy favors the emergence of resistant strains.",
-      "hashtags": [
-        "internal_medicine",
-        "malaria",
-        "treatment",
-        "antimalarial_resistance",
-        "MEDICAL_TOPIC",
-        "WHO Guide 2022"
-      ]
-    },
-    {
-      "question": "Which of the following drugs is typically associated with artemisinin in combination for uncomplicated falciparum malaria?",
-      "options": [
-        "Sulfadoxine-pyrimethamine",
-        "Chloroquine",
-        "Primaquina",
-        "Mefloquine"
+        "Chitin cell wall",
+        "Bacterial flagellin",
+        "tetanus toxin",
+        "PfEMP1 on the surface"
       ],
       "correctAnswer": 4,
-      "explanation": "Mefloquine is one of the drugs associated with artemisinin in fixed combinations (such as artemether-lumefantrine or artesunate-mefloquine) to treat uncomplicated P. falciparum malaria, especially in regions without resistance.",
+      "explanation": "The PfEMP1 protein mediates the adhesion of infected erythrocytes to the endothelium, preventing splenic clearance and facilitating rupture during schizogony.",
       "hashtags": [
-        "pharmacology",
-        "malaria",
-        "posology",
-        "combined_therapy",
+        "internal_medicine",
+        "Hemolytic_anemia_due to_erythrocyte_rupture",
+        "pathophysiology",
+        "pfemp1",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the direct consequence of the breakdown of erythrocytes in the microcirculation?",
+      "options": [
+        "Pulmonary hypertension",
+        "Distal tissue hypoxia",
+        "deep vein thrombosis",
+        "Diffuse cerebral edema"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hemolysis reduces oxygen transport capacity, generating hypoxia in distal tissues, especially in organs such as the kidney and brain.",
+      "hashtags": [
+        "internal_medicine",
+        "Hemolytic_anemia_due to_erythrocyte_rupture",
+        "pathophysiology",
+        "tissue_hypoxia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main mechanism of quinine hypoglycemia in malaria?",
+      "options": [
+        "Insulinoma stimulation",
+        "Increased cortisol",
+        "Excessive insulin secretion",
+        "Glucagon blockade"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Quinine stimulates insulin secretion by pancreatic beta cells, which can cause severe hypoglycemia, especially in patients with severe malaria.",
+      "hashtags": [
+        "internal_medicine",
+        "hypoglycemia_as_complication_of_treatment",
+        "treatment",
+        "quinine",
         "MEDICAL_TOPIC",
         "Harrison 21ed"
       ]
     },
     {
-      "question": "What clinical criterion contraindicates the use of combination therapy with artemisinin for malaria?",
+      "question": "Which antimalarial drug is associated with a higher risk of hypoglycemia?",
       "options": [
-        "HIV coinfection",
-        "Severe or complicated malaria",
-        "Age over 65 years",
-        "Pregnancy in the first trimester"
+        "Artemether-lumefantrine",
+        "Chloroquine",
+        "Mefloquine",
+        "Quinine"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Quinine is the antimalarial that most frequently causes hypoglycemia due to its stimulating effect on insulin secretion, unlike other drugs such as chloroquine or mefloquine.",
+      "hashtags": [
+        "pharmacology",
+        "hypoglycemia_as_complication_of_treatment",
+        "adverse_effects",
+        "quinine",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "In severe malaria, quinine-induced hypoglycemia typically manifests as:",
+      "options": [
+        "Seizures and coma",
+        "Hyperthermia and tachycardia",
+        "Bradycardia and mydriasis",
+        "Hypertension and polydipsia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Severe hypoglycemia due to quinine can cause neuroglycopenic symptoms such as seizures and coma, which can be confused with cerebral malaria itself, making diagnosis difficult.",
+      "hashtags": [
+        "internal_medicine",
+        "hypoglycemia_as_complication_of_treatment",
+        "clinical_table",
+        "neuroglycopenic_symptoms",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which group of malaria patients is at greatest risk of hypoglycemia from quinine?",
+      "options": [
+        "Elderly with diabetes",
+        "pregnant women",
+        "Hypertensive adults",
+        "Children under 5 years"
       ],
       "correctAnswer": 2,
-      "explanation": "Combination therapy with artemisinin is indicated for uncomplicated malaria; In severe malaria, intravenous treatment with artesunate is required, since the oral route does not ensure rapid therapeutic levels in patients with organ dysfunction.",
+      "explanation": "Pregnant women with malaria are at increased risk of quinine hypoglycemia due to physiological changes in glucose metabolism and increased insulin sensitivity.",
+      "hashtags": [
+        "internal_medicine",
+        "hypoglycemia_as_complication_of_treatment",
+        "epidemiology",
+        "pregnancy",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the initial management of hypoglycemia due to quinine in malaria?",
+      "options": [
+        "10% dextrose infusion",
+        "Administer subcutaneous glucagon",
+        "Start intravenous corticosteroids",
+        "Discontinue quinine immediately"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intravenous administration of 10% dextrose is the treatment of choice to correct acute hypoglycemia, maintaining quinine if necessary for parasite control.",
+      "hashtags": [
+        "internal_medicine",
+        "hypoglycemia_as_complication_of_treatment",
+        "treatment",
+        "dextrose",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "Which laboratory finding confirms quinine-induced hypoglycemia?",
+      "options": [
+        "Elevated glycated hemoglobin",
+        "Decreased basal insulinemia",
+        "Ketone bodies in urine",
+        "Serum glucose less than 70 mg/dL"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Hypoglycemia is biochemically defined as serum glucose less than 70 mg/dL, and in the context of quinine treatment it should be suspected even if the patient is asymptomatic.",
+      "hashtags": [
+        "internal_medicine",
+        "hypoglycemia_as_complication_of_treatment",
+        "diagnosis",
+        "serum_glucose",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the main mechanism of action of artemisinin?",
+      "options": [
+        "Alters the trophozoite membrane",
+        "Generates oxygen free radicals",
+        "Blocks RNA polymerase",
+        "Inhibits folate synthesis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Artemisinin acts by generating oxygen free radicals by reacting with the iron of the heme group, damaging proteins and membranes of the parasite.",
       "hashtags": [
         "internal_medicine",
         "malaria",
-        "contraindications",
-        "severe_malaria",
+        "pharmacology",
+        "action_mechanism",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What role does lumefantrine play in combination therapy?",
+      "options": [
+        "Acts as a late schizonticide agent",
+        "Prevents relapse due to hypnozoites",
+        "Inhibits the synthesis of nucleic acids",
+        "Enhances the action of artemisinin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lumefantrine is a long-acting blood schizonticide that eliminates residual parasites after the rapid action of artemisinin.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "pharmacology",
+        "pharmacodynamics",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main indication for artemisinin-lumefantrine?",
+      "options": [
+        "Malaria not complicated by P. falciparum",
+        "Malaria prophylaxis in travelers",
+        "Severe Plasmodium falciparum malaria",
+        "P. vivax malaria treatment"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Artemisinin-lumefantrine is the first-line treatment for uncomplicated Plasmodium falciparum malaria in endemic regions.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "treatment",
+        "combined_therapy",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is a common side effect of artemisinin-lumefantrine?",
+      "options": [
+        "Severe hepatotoxicity",
+        "QT interval prolongation",
+        "Acute kidney failure",
+        "Severe hemolytic anemia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lumefantrine can prolong the QT interval, so it should be avoided in patients with cardiac conduction disorders or use of drugs that potentiate it.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "adverse_effects",
+        "cardiotoxicity",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What parasite causes malaria that is treated with artemisinin-lumefantrine?",
+      "options": [
+        "Plasmodium vivax",
+        "Plasmodium falciparum",
+        "Plasmodium ovale",
+        "Plasmodium malariae"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Artemisinin-lumefantrine is indicated mainly against Plasmodium falciparum, the most lethal species and resistant to other antimalarials.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "clinical_table",
+        "parasitic_species",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What dietary recommendation is associated with the administration of artemisinin-lumefantrine?",
+      "options": [
+        "Serve with grapefruit juice",
+        "Absolute fast for two hours",
+        "Avoid foods rich in vitamin C",
+        "Take with milk or fatty foods"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Fatty foods increase the absorption of lumefantrine, improving its bioavailability and therapeutic efficacy in the treatment of malaria.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "pharmacokinetics",
+        "absorption",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the method of choice for diagnosing malaria in endemic areas?",
+      "options": [
+        "real-time PCR",
+        "blood culture",
+        "IgM Serology",
+        "thick drop"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The thick smear is the gold standard technique in the field due to its high sensitivity to detect parasites even with low parasitemia, allowing a rapid and economical diagnosis.",
+      "hashtags": [
+        "tropical_medicine",
+        "malaria",
+        "diagnosis",
+        "thick_drop",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What stain is used to identify Plasmodium in blood smear?",
+      "options": [
+        "Ziehl-Neelsen stain",
+        "Gram stain",
+        "Wright stain",
+        "Giemsa stain"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The Giemsa stain is the most used for the microscopic diagnosis of malaria, since it stains the nucleus and cytoplasm of the parasite, facilitating the differentiation of Plasmodium species.",
+      "hashtags": [
+        "microbiology",
+        "malaria",
+        "diagnosis",
+        "tincion_giemsa",
         "MEDICAL_TOPIC",
         "WHO 2023"
       ]
     },
     {
-      "question": "What is the standard duration of treatment with artemether-lumefantrine in uncomplicated falciparum malaria?",
+      "question": "What is the main advantage of the thick smear over the thin smear in malaria?",
       "options": [
-        "14 days",
-        "5 days",
-        "3 days",
-        "7 days"
+        "Shorter staining time",
+        "Identify species",
+        "Greater sensitivity",
+        "Requires less blood"
       ],
       "correctAnswer": 3,
-      "explanation": "The artemether-lumefantrine regimen is administered for 3 days (six total doses), based on the pharmacokinetics of both drugs to ensure complete elimination of asexual parasites and reduce the risk of relapse.",
+      "explanation": "The thick smear concentrates a greater volume of blood, which increases the sensitivity to detect low parasitemias, although it does not allow the species to be identified with as much precision as the thin smear.",
       "hashtags": [
-        "internal_medicine",
+        "tropical_medicine",
         "malaria",
-        "posology",
-        "artemeter_lumefantrine",
+        "diagnosis",
+        "thick_drop_sensitivity",
         "MEDICAL_TOPIC",
-        "WHO Guide 2022"
+        "WHO Guide 2023"
       ]
     },
     {
-      "question": "What is the main mechanism of hemolytic anemia in chronic malaria?",
+      "question": "What finding in the thin smear allows you to differentiate Plasmodium falciparum from other species?",
       "options": [
-        "Splenic erythrocyte sequestration",
-        "Glucose-6-phosphate dehydrogenase deficiency",
-        "Ineffective spinal erythropoiesis",
-        "Hemolysis due to autoantibodies"
+        "Amoeboid trophozoites",
+        "Crescent-shaped gametocytes",
+        "Multiple ring shapes",
+        "Schizonts on banana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Crescent-shaped (banana) gametocytes are characteristic of Plasmodium falciparum, while other species have rounded gametocytes, facilitating microscopic identification.",
+      "hashtags": [
+        "microbiology",
+        "malaria",
+        "diagnosis",
+        "gametocytes_falciparum",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What is the minimum detectable parasitemia per thick smear under optimal conditions?",
+      "options": [
+        "5000 parasites/μL",
+        "5 parasites/μL",
+        "50 parasites/μL",
+        "500 parasites/μL"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The thick smear can detect up to 5 parasites per microliter of blood in expert hands, which makes it superior to the thin smear (approximately 50 parasites/μL) for low parasitemias.",
+      "hashtags": [
+        "tropical_medicine",
+        "malaria",
+        "diagnosis",
+        "parasitemia_coarse_drop",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What artifact can be confused with Plasmodium in the thick smear?",
+      "options": [
+        "Overlapping platelets",
+        "Coccoid bacteria",
+        "Basophilic leukocytes",
+        "hematoidin crystals"
       ],
       "correctAnswer": 1,
-      "explanation": "In chronic malaria, sequestration and destruction of parasitized and nonparasitized erythrocytes in the spleen is the primary mechanism of hemolytic anemia, exacerbated by splenomegaly.",
+      "explanation": "Overlapping platelets can simulate small Plasmodium trophozoites, especially in poorly stained samples or with low parasitemia, being a common cause of false positives in microscopy.",
+      "hashtags": [
+        "microbiology",
+        "malaria",
+        "diagnosis",
+        "microscopy_artifacts",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What is the main adverse effect of mefloquine in antimalarial chemoprophylaxis?",
+      "options": [
+        "Neuropsychiatric disorders",
+        "Interstitial nephritis",
+        "Skin photosensitivity",
+        "Severe hepatotoxicity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mefloquine is associated with neuropsychiatric alterations such as anxiety, insomnia and seizures, being the most relevant adverse effect that limits its prophylactic use.",
       "hashtags": [
         "internal_medicine",
-        "hemolytic_malarial_anemia",
-        "pathophysiology",
-        "splenic_abduction",
+        "malaria_chemoprophylaxis",
+        "adverse_effects",
+        "mefloquine",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Which finding is characteristic of chronic splenomegaly in malaria?",
+      "question": "What group of patients has an absolute contraindication to receiving mefloquine as prophylaxis?",
       "options": [
-        "Lymphomatous spleen of 500 grams",
-        "Normal 150 gram spleen",
-        "Congestive 300 gram spleen",
-        "800 gram spleen with fibrosis"
+        "Children over 5 years",
+        "Patients with epilepsy",
+        "Pregnant women first trimester",
+        "Adults with type 2 diabetes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mefloquine is contraindicated in patients with epilepsy or a history of seizures due to its neurotoxic potential and risk of triggering epileptic seizures.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria_chemoprophylaxis",
+        "contraindications",
+        "mefloquine",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the standard weekly dose of mefloquine for adults in antimalarial chemoprophylaxis?",
+      "options": [
+        "500 mg once a week",
+        "250 mg once a week",
+        "100 mg once a week",
+        "750 mg once a week"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The standard prophylactic dose of mefloquine for adults is 250 mg orally once weekly, starting at least one week before exposure.",
+      "hashtags": [
+        "pharmacology",
+        "malaria_chemoprophylaxis",
+        "posology",
+        "mefloquine",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What mechanism of action do mefloquine and doxycycline share against Plasmodium?",
+      "options": [
+        "Heme polymerase blockade",
+        "Inhibition of protein synthesis",
+        "Inhibition of folate synthesis",
+        "Alteration of the mitochondrial membrane"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Doxycycline acts by inhibiting the parasite's ribosomal protein synthesis, while mefloquine blocks heme polymerization; They do not share an exact mechanism.",
+      "hashtags": [
+        "pharmacology",
+        "malaria_chemoprophylaxis",
+        "action_mechanism",
+        "doxycycline_mefloquine",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main limitation of the use of doxycycline in antimalarial chemoprophylaxis?",
+      "options": [
+        "Skin photosensitivity",
+        "High cost of treatment",
+        "Interaction with contraceptives",
+        "Dose-dependent hepatotoxicity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Doxycycline causes significant skin photosensitivity, forcing patients to avoid direct sun exposure, limiting its use in tropical areas.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria_chemoprophylaxis",
+        "adverse_effects",
+        "doxycycline",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In which geographic region is doxycycline the prophylaxis of choice over mefloquine?",
+      "options": [
+        "Regions with resistance to mefloquine",
+        "Southeast Asia border",
+        "Brazilian Amazon",
+        "Rural sub-Saharan Africa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In areas with high mefloquine resistance, such as parts of Southeast Asia, doxycycline is preferred for its sustained efficacy against resistant strains of the parasite.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria_chemoprophylaxis",
+        "indications",
+        "doxycycline",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main cause of hyperreactive splenomegaly in chronic malaria?",
+      "options": [
+        "Splenic thrombosis",
+        "Portal hypertension",
+        "Splenic abscesses",
+        "Exaggerated immune response"
       ],
       "correctAnswer": 4,
-      "explanation": "In chronic malaria, splenomegaly can reach weights of 800 grams or more, with progressive fibrosis and deposition of malarial pigment, characteristic of the spleen in chronic malaria.",
+      "explanation": "Hyperreactive splenomegaly in chronic malaria is due to an exaggerated immune response of the host to recurrent Plasmodium infection, with lymphoid and macrophage hyperplasia.",
       "hashtags": [
         "internal_medicine",
         "malaric_splenomegaly",
-        "clinical_table",
-        "splenic_weight",
+        "pathophysiology",
+        "immune_hyperresponse",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What complication is directly associated with chronic malarial splenomegaly?",
+      "question": "What serological finding is characteristic of malarial hyperreactive splenomegaly?",
       "options": [
-        "Portal vein thrombosis",
-        "Pyogenic splenic abscess",
-        "spontaneous splenic rupture",
-        "Prehepatic portal hypertension"
+        "Elevated total IgM",
+        "Elevated total IgG",
+        "elevated total IgE",
+        "Elevated total IgA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In malarial hyperreactive splenomegaly, a marked increase in total IgG is observed, due to chronic stimulation of B lymphocytes by parasitic antigens.",
+      "hashtags": [
+        "internal_medicine",
+        "malaric_splenomegaly",
+        "diagnosis",
+        "hypergammaglobulinemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for malarial hyperreactive splenomegaly?",
+      "options": [
+        "Surgical splenectomy",
+        "Biological immunosuppressants",
+        "Systemic corticosteroids",
+        "Long-term antimalarial therapy"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The first-line treatment is prolonged antimalarial therapy with drugs such as chloroquine or sulfadoxine-pyrimethamine, which reduces the parasite load and splenic hyperplasia.",
+      "hashtags": [
+        "internal_medicine",
+        "malaric_splenomegaly",
+        "treatment",
+        "antimalarials",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What serious complication is associated with malarial hyperreactive splenomegaly?",
+      "options": [
+        "Fulminant myocarditis",
+        "Acute kidney failure",
+        "Spontaneous splenic rupture",
+        "Amebic liver abscess"
       ],
       "correctAnswer": 3,
-      "explanation": "Spontaneous splenic rupture is a feared complication of chronic massive splenomegaly due to malaria, due to capsular fragility and enlargement of the spleen.",
+      "explanation": "Spontaneous splenic rupture is a serious complication of malarial hyperreactive splenomegaly, due to the large size and fragility of the enlarged spleen.",
       "hashtags": [
         "internal_medicine",
         "malaric_splenomegaly",
@@ -856,288 +989,383 @@
       ]
     },
     {
-      "question": "What type of anemia predominates in chronic malaria with splenomegaly?",
+      "question": "What cytopenia is most common in malarial hyperreactive splenomegaly?",
       "options": [
-        "Severe iron deficiency anemia",
-        "Hypochromic microcytic anemia",
-        "Megaloblastic macrocytic anemia",
-        "Normocytic normochromic anemia"
+        "Pancytopenia",
+        "Thrombocytopenia",
+        "hemolytic anemia",
+        "Leukopenia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Thrombocytopenia is the most common cytopenia in malarial hyperreactive splenomegaly, secondary to sequestration and destruction of platelets in the enlarged spleen.",
+      "hashtags": [
+        "internal_medicine",
+        "malaric_splenomegaly",
+        "clinical_table",
+        "thrombocytopenia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What epidemiological characteristic is typical of malarial hyperreactive splenomegaly?",
+      "options": [
+        "Affects children under 5 years of age",
+        "It is more common in young adults",
+        "Predominates in areas of low transmission",
+        "It occurs exclusively in tourists"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Malaria hyperreactive splenomegaly is more common in young adults from endemic areas with prolonged and repeated exposure to Plasmodium, not in young children or tourists.",
+      "hashtags": [
+        "internal_medicine",
+        "malaric_splenomegaly",
+        "epidemiology",
+        "young_adults",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What main mechanism explains chloroquine resistance in P. falciparum?",
+      "options": [
+        "Mutation in PfCRT",
+        "Hemoglobin reduction",
+        "Increased calcium pump",
+        "DHFR enzyme inhibition"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Resistance to chloroquine in Plasmodium falciparum is mainly due to mutations in the pfcrt gene, which encodes the PfCRT transporter, altering the accumulation of the drug in the digestive vacuole of the parasite.",
+      "hashtags": [
+        "internal_medicine",
+        "resistance_to_chloroquine_in_p._falciparum",
+        "pathophysiology",
+        "damage_mechanisms",
+        "MEDICAL_TOPIC",
+        "WHO Guidelines for Malaria 2023"
+      ]
+    },
+    {
+      "question": "What is the treatment of choice for uncomplicated malaria due to chloroquine-resistant P. falciparum?",
+      "options": [
+        "oral primaquine",
+        "Chloroquine alone",
+        "Combination therapy with artemisinin",
+        "intravenous doxycycline"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Artemisinin combination therapy (ACT) is the standard treatment for uncomplicated malaria due to chloroquine-resistant P. falciparum, due to its high efficacy and ability to reduce resistance.",
+      "hashtags": [
+        "internal_medicine",
+        "resistance_to_chloroquine_in_p._falciparum",
+        "treatment",
+        "combined_therapy",
+        "MEDICAL_TOPIC",
+        "WHO Guidelines for Malaria 2023"
+      ]
+    },
+    {
+      "question": "What transporter protein is mutated in chloroquine resistance?",
+      "options": [
+        "PfCRT",
+        "PfDHPS",
+        "PfMDR1",
+        "PfATP6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The PfCRT (Plasmodium falciparum Chloroquine Resistance Transporter) protein is the main one involved in resistance to chloroquine, with mutations that reduce the accumulation of the drug in the digestive vacuole.",
+      "hashtags": [
+        "internal_medicine",
+        "resistance_to_chloroquine_in_p._falciparum",
+        "pathophysiology",
+        "damage_mechanisms",
+        "MEDICAL_TOPIC",
+        "WHO Guidelines for Malaria 2023"
+      ]
+    },
+    {
+      "question": "What additional gene amplifies chloroquine resistance in P. falciparum?",
+      "options": [
+        "pfcytb",
+        "pfdhfr",
+        "pfcrt",
+        "pfmdr1"
       ],
       "correctAnswer": 4,
-      "explanation": "In chronic malaria, the anemia is usually normocytic normochromic due to sustained hemolysis and compensatory erythropoiesis, without significant nutritional deficiencies in most cases.",
+      "explanation": "The pfmdr1 gene encodes the P-glycoprotein homolog 1, whose amplification or mutations can modulate resistance to chloroquine and other antimalarials, although the main mutation remains in pfcrt.",
       "hashtags": [
         "internal_medicine",
-        "hemolytic_malarial_anemia",
-        "clinical_table",
-        "type_of_anemia",
+        "resistance_to_chloroquine_in_p._falciparum",
+        "pathophysiology",
+        "damage_mechanisms",
         "MEDICAL_TOPIC",
-        ""
+        "WHO Guidelines for Malaria 2023"
       ]
     },
     {
-      "question": "What study confirms the diagnosis of chronic malarial splenomegaly?",
+      "question": "In which geographic region is chloroquine resistance in P. falciparum most prevalent?",
       "options": [
-        "Thick and extended peripheral gout",
-        "CT scan of the abdomen",
-        "Percutaneous splenic biopsy",
-        "Abdominal ultrasound with Doppler"
+        "Australia",
+        "Southeast Asia",
+        "North America",
+        "Eastern Europe"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Southeast Asia, especially the Greater Mekong region, has historically been the epicenter of resistance to chloroquine and other antimalarials, with a high prevalence of multidrug-resistant strains of P. falciparum.",
+      "hashtags": [
+        "internal_medicine",
+        "resistance_to_chloroquine_in_p._falciparum",
+        "epidemiology",
+        "geographic_distribution",
+        "MEDICAL_TOPIC",
+        "WHO Guidelines for Malaria 2023"
+      ]
+    },
+    {
+      "question": "What mechanism prevents the accumulation of chloroquine in the resistant parasite?",
+      "options": [
+        "Increased drug efflux",
+        "Activation of the proton pump",
+        "Protease inhibition",
+        "Decreased endocytosis"
       ],
       "correctAnswer": 1,
-      "explanation": "Thick smear and peripheral blood smear are the methods of choice to confirm Plasmodium parasitaemia, the diagnostic basis of chronic malarial splenomegaly.",
+      "explanation": "In resistant strains, the mutated PfCRT protein increases the efflux of chloroquine from the digestive vacuole to the cytoplasm, reducing its intracellular concentration and preventing its toxic action on heme.",
       "hashtags": [
         "internal_medicine",
-        "malaric_splenomegaly",
-        "diagnosis",
-        "thick_drop",
+        "resistance_to_chloroquine_in_p._falciparum",
+        "pathophysiology",
+        "damage_mechanisms",
         "MEDICAL_TOPIC",
-        ""
+        "WHO Guidelines for Malaria 2023"
       ]
     },
     {
-      "question": "What treatment reduces chronic splenomegaly in recurrent malaria?",
+      "question": "What is the main mechanism of action of primaquine against hypnozoites?",
       "options": [
-        "Elective total splenectomy",
-        "Repeated blood transfusion",
-        "Complete antimalarial therapy",
-        "Corticosteroids at high doses"
+        "Calcium channel block",
+        "Proton pump inhibition",
+        "Mitochondrial damage and oxidative stress",
+        "Inhibition of folate synthesis"
       ],
       "correctAnswer": 3,
-      "explanation": "Complete and timely antimalarial therapy reduces the parasite load and splenic hyperreactivity, managing to reduce the size of the spleen in chronic malarial splenomegaly.",
+      "explanation": "Primaquine acts by generating oxidative stress and mitochondrial damage in Plasmodium vivax hypnozoites, which allows eliminating latent liver forms and preventing relapses.",
       "hashtags": [
         "internal_medicine",
-        "malaric_splenomegaly",
+        "malaria",
         "treatment",
-        "antimalarial_therapy",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What is the main advantage of the thick smear over the thin smear in the diagnosis of malaria?",
-      "options": [
-        "Shorter staining time",
-        "Requires less blood",
-        "Greater diagnostic sensitivity",
-        "Identify exact species"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The thick smear concentrates a greater amount of blood, which allows detecting low parasitemias, offering greater sensitivity than the thin smear for the diagnosis of malaria.",
-      "hashtags": [
-        "internal_medicine",
-        "malaria",
-        "diagnosis",
-        "thick_drop",
-        "MEDICAL_TOPIC",
-        "OPS 2023"
-      ]
-    },
-    {
-      "question": "What stain is used as standard for thin smear and thick smear in malaria?",
-      "options": [
-        "Giemsa stain",
-        "Wright stain",
-        "Ziehl-Neelsen stain",
-        "Gram stain"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Giemsa staining is the reference method for staining Plasmodium parasites in thick drops and thin smears, allowing visualization of the nucleus and cytoplasm of the parasite.",
-      "hashtags": [
-        "microbiology",
-        "malaria",
-        "laboratory_id",
-        "tincion_giemsa",
-        "MEDICAL_TOPIC",
-        "WHO 2022"
-      ]
-    },
-    {
-      "question": "What is the structure of the parasite that is observed in the thin smear to differentiate Plasmodium species?",
-      "options": [
-        "Trophozoite morphology",
-        "Presence of rings",
-        "Number of merozoites",
-        "gametocyte shape"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The morphology of the trophozoite, including its shape, size and pigment, is key in thin smears to differentiate species such as Plasmodium falciparum from Plasmodium vivax.",
-      "hashtags": [
-        "microbiology",
-        "malaria",
-        "morphology_structure",
-        "trophozoite",
-        "MEDICAL_TOPIC",
-        "Harrison 21ed"
-      ]
-    },
-    {
-      "question": "Which finding in the thick smear indicates high parasitemia in malaria?",
-      "options": [
-        "More than 10 parasites per field",
-        "Moon-shaped gametocytes",
-        "Absence of leukocytes",
-        "Presence of schizonts"
-      ],
-      "correctAnswer": 1,
-      "explanation": "In thick smear, counting more than 10 parasites per microscopic field (with immersion objective) suggests high parasitemia, indicating severe Plasmodium falciparum infection.",
-      "hashtags": [
-        "internal_medicine",
-        "malaria",
-        "diagnosis",
-        "parasitemia",
+        "primaquine",
         "MEDICAL_TOPIC",
         "WHO Guide 2023"
       ]
     },
     {
-      "question": "What is the main limitation of the thin smear in the diagnosis of malaria?",
+      "question": "What parasitic form does primaquine specifically eliminate?",
       "options": [
-        "Requires electron microscope",
-        "Lower diagnostic specificity",
-        "High cost of reagents",
-        "Low sensitivity in low parasitemia"
+        "hepatic hypnozoites",
+        "mature gametocytes",
+        "blood merozoites",
+        "Erythrocytic schizonts"
       ],
-      "correctAnswer": 4,
-      "explanation": "The thin smear has less sensitivity than the thick smear, especially in low parasitemias, since it examines a thin layer of blood with fewer parasites per field.",
+      "correctAnswer": 1,
+      "explanation": "Primaquine is the only drug available that eliminates hepatic hypnozoites of P. vivax and P. ovale, preventing late relapses of malaria.",
       "hashtags": [
         "internal_medicine",
         "malaria",
-        "diagnosis",
-        "fine_smear",
-        "MEDICAL_TOPIC",
-        "CDC 2021"
-      ]
-    },
-    {
-      "question": "Which characteristic of Plasmodium falciparum is best identified in the thin smear?",
-      "options": [
-        "Multiple ring shape",
-        "Synchronous growth",
-        "Dark malarial pigment",
-        "Crescent-shaped gametocytes"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Crescent-shaped (banana) gametocytes are characteristic of Plasmodium falciparum and are clearly identified in the thin smear, helping to differentiate it from other species.",
-      "hashtags": [
-        "microbiology",
-        "malaria",
-        "morphology_structure",
-        "gametocyte",
+        "clinical_table",
+        "hypnozoites",
         "MEDICAL_TOPIC",
         "Harrison 21ed"
       ]
     },
     {
-      "question": "What is the recommended dose of mefloquine for chemoprophylaxis in adults?",
+      "question": "What enzyme should be evaluated before starting primaquine?",
       "options": [
-        "200 mg weekly",
-        "500 mg monthly",
-        "250 mg weekly",
-        "100 mg daily"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The prophylactic dose of mefloquine in adults is 250 mg orally once weekly, beginning one week before travel and continuing four weeks after return.",
-      "hashtags": [
-        "internal_medicine",
-        "malaria_chemoprophylaxis",
-        "treatment",
-        "mefloquine_dose",
-        "MEDICAL_TOPIC",
-        "CDC 2024"
-      ]
-    },
-    {
-      "question": "What is an absolute contraindication for the use of doxycycline in chemoprophylaxis?",
-      "options": [
-        "Diabetes mellitus",
-        "bronchial asthma",
-        "High blood pressure",
-        "Pregnancy"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Doxycycline is contraindicated in pregnancy due to its teratogenic effect and risk of bone and dental alterations in the fetus, as well as in children under 8 years of age.",
-      "hashtags": [
-        "pharmacology",
-        "malaria_chemoprophylaxis",
-        "contraindications",
-        "doxycycline_pregnancy",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "What common adverse effect is associated with mefloquine during chemoprophylaxis?",
-      "options": [
-        "Interstitial nephritis",
-        "Neuropsychiatric disorders",
-        "Irreversible ototoxicity",
-        "Acute hepatotoxicity"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Mefloquine can cause neuropsychiatric disorders such as anxiety, depression, insomnia and, rarely, seizures or psychosis, so it is contraindicated in patients with a psychiatric history.",
-      "hashtags": [
-        "pharmacology",
-        "malaria_chemoprophylaxis",
-        "adverse_effects",
-        "mefloquine_neuropsychiatry",
-        "MEDICAL_TOPIC",
-        "UpToDate 2024"
-      ]
-    },
-    {
-      "question": "What recommendation should be given to the patient regarding doxycycline to optimize its absorption?",
-      "options": [
-        "Take with plenty of water",
-        "Take with antacids",
-        "Take with whole milk",
-        "Take with orange juice"
+        "Glucose-6-phosphate dehydrogenase",
+        "Cytochrome P450 2D6",
+        "Creatine phosphokinase",
+        "Hepatic aldolase"
       ],
       "correctAnswer": 1,
-      "explanation": "Doxycycline should be administered with plenty of water to reduce the risk of esophagitis and avoid its binding to cations such as calcium or iron, present in milk or antacids, which reduce its absorption.",
+      "explanation": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency is a relative contraindication to primaquine, as it can cause severe acute hemolysis in these patients.",
       "hashtags": [
-        "pharmacology",
-        "malaria_chemoprophylaxis",
-        "pharmacokinetics",
-        "doxycycline_absorption",
+        "internal_medicine",
+        "malaria",
+        "contraindications",
+        "deficit_g6pd",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the typical duration of primaquine treatment for hypnozoites?",
+      "options": [
+        "3 days",
+        "7 days",
+        "28 days",
+        "14 days"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The standard regimen to eliminate P. vivax hypnozoites with primaquine is 14 days at doses of 0.25-0.5 mg/kg/day, although shorter regimens are used in some contexts.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "posology",
+        "treatment_duration",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What species of Plasmodium requires treatment with primaquine?",
+      "options": [
+        "P. falciparum",
+        "P. knowlesi",
+        "P. vivax",
+        "P. malariae"
+      ],
+      "correctAnswer": 3,
+      "explanation": "P. vivax and P. ovale form hepatic hypnozoites that can be reactivated; Primaquine is indicated to eliminate these latent forms, while P. falciparum does not produce hypnozoites.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "indications",
+        "plasmodium_species",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What serious adverse effect can primaquine cause in patients with G6PD deficiency?",
+      "options": [
+        "Severe hepatotoxicity",
+        "Acute hemolysis",
+        "Interstitial nephritis",
+        "Dilated cardiomyopathy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In patients with G6PD deficiency, primaquine can trigger acute hemolysis due to the oxidative stress it generates in erythrocytes, so prior evaluation is required.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "adverse_effects",
+        "hemolysis",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the main etiological agent of malaria transmitted by transfusion?",
+      "options": [
+        "Plasmodium knowlesi",
+        "Plasmodium ovale",
+        "Plasmodium falciparum",
+        "Plasmodium vivax"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Plasmodium falciparum is the most common and dangerous species in transfusion malaria, responsible for the majority of serious cases and deaths associated with this route of transmission.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "etiology",
+        "plasmodium_falciparum",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "In which geographic region is mefloquine most recommended as antimalarial prophylaxis?",
+      "question": "What incubation period is typical in post-transfusion malaria?",
       "options": [
-        "Southeast Asia",
-        "South America",
-        "Sub-Saharan Africa",
-        "eastern europe"
+        "More than 1 year",
+        "2 to 6 months",
+        "7 to 30 days",
+        "1 to 3 days"
       ],
       "correctAnswer": 3,
-      "explanation": "Mefloquine is recommended for regions with high resistance to chloroquine, such as sub-Saharan Africa, especially in areas where Plasmodium falciparum is predominant and multidrug-resistant.",
+      "explanation": "In malaria transmitted by transfusion, the incubation period is usually 7 to 30 days, depending on the Plasmodium species and the parasite load inoculated.",
       "hashtags": [
         "internal_medicine",
-        "malaria_chemoprophylaxis",
-        "indications",
-        "mefloquine_region",
+        "malaria",
+        "clinical_table",
+        "incubation_period",
         "MEDICAL_TOPIC",
-        "CDC 2024"
+        ""
       ]
     },
     {
-      "question": "What is the total duration of mefloquine chemoprophylaxis after return from an endemic area?",
+      "question": "What is the most sensitive screening method to detect malaria in blood donors?",
       "options": [
-        "8 weeks",
-        "4 weeks",
-        "1 week",
-        "2 weeks"
+        "thick drop",
+        "real-time PCR",
+        "Thin smear",
+        "rapid antigen test"
       ],
       "correctAnswer": 2,
-      "explanation": "After leaving the endemic area, mefloquine should be continued for 4 weeks to cover the incubation period of the parasite and prevent the onset of late malaria.",
+      "explanation": "Real-time PCR is the most sensitive technique for detecting Plasmodium DNA in donor blood, surpassing microscopic methods and antigen tests.",
       "hashtags": [
         "internal_medicine",
-        "malaria_chemoprophylaxis",
-        "treatment",
-        "mefloquine_duration",
+        "malaria",
+        "diagnosis",
+        "pcr_real_time",
         "MEDICAL_TOPIC",
-        "WHO 2023"
+        ""
+      ]
+    },
+    {
+      "question": "Which donor population is at greatest risk of transmitting malaria by transfusion?",
+      "options": [
+        "Donors from non-endemic areas",
+        "Donors with blood group O",
+        "Donors under 18 years of age",
+        "Donors with a history of malaria"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Donors with a history of malaria, especially if they have lived in endemic areas, can harbor latent forms of the parasite and transmit it even years after infection.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "epidemiology",
+        "risk_donors",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the treatment of choice for uncomplicated falciparum malaria acquired by transfusion?",
+      "options": [
+        "Chloroquine",
+        "Doxycycline",
+        "Artemether-lumefantrine",
+        "Primaquina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The artemether-lumefantrine combination is the first-line treatment for uncomplicated Plasmodium falciparum malaria, including cases acquired by transfusion, due to its high efficacy.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "treatment",
+        "artemether-lumefantrine",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which preventive measure is most effective in reducing malaria transmission by transfusion?",
+      "options": [
+        "Irradiation of blood products",
+        "Deferral of risk donors",
+        "Leukocyte filtration",
+        "Universal serological screening"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The temporary or permanent deferral of donors with a history of malaria or recent travel to endemic areas is the most effective measure to prevent transfusion transmission of the disease.",
+      "hashtags": [
+        "internal_medicine",
+        "malaria",
+        "epidemiology_prevention",
+        "donor_deferral",
+        "MEDICAL_TOPIC",
+        ""
       ]
     }
   ]

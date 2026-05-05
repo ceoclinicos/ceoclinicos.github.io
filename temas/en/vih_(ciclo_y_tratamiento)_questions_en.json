@@ -1,0 +1,1372 @@
+{
+  "questions": [
+    {
+      "question": "What is the first step in the HIV replicative cycle?",
+      "options": [
+        "Virion release",
+        "DNA integration",
+        "Reverse transcription",
+        "Merger and entry"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The HIV replicative cycle begins with the binding of gp120 to the CD4 receptor and coreceptor, followed by membrane fusion and entry of the nucleocapsid into the cytoplasm.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "pathophysiology",
+        "viral_entry",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What viral enzyme converts HIV RNA to double-stranded DNA?",
+      "options": [
+        "RNA polymerase",
+        "reverse transcriptase",
+        "Protease",
+        "Integrase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Reverse transcriptase is the key enzyme that copies viral RNA into complementary DNA, then forming double-stranded DNA that will be integrated into the host genome.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "pathophysiology",
+        "reverse_transcriptase",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Where does the integration of HIV proviral DNA occur?",
+      "options": [
+        "Cell cytoplasm",
+        "cell nucleus",
+        "plasma membrane",
+        "endoplasmic reticulum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The double-stranded proviral DNA is transported to the nucleus, where the viral integrase inserts it into the chromosome of the host cell, establishing latent or active infection.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "pathophysiology",
+        "nuclear_integration",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What step of the HIV replicative cycle do protease inhibitors inhibit?",
+      "options": [
+        "Virus entry",
+        "Virion maturation",
+        "Reverse transcription",
+        "DNA integration"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The viral protease cleaves precursor polyproteins into functional proteins during maturation; Its inhibition prevents the formation of mature infectious particles.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "action_mechanism",
+        "protease_inhibitors",
+        "MEDICAL_TOPIC",
+        "GESIDA Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the coreceptor most used by HIV to enter T lymphocytes?",
+      "options": [
+        "CD4 and CD45",
+        "MHC-I and MHC-II",
+        "CD8 and CD28",
+        "CCR5 and CXCR4"
+      ],
+      "correctAnswer": 4,
+      "explanation": "HIV mainly uses the coreceptors CCR5 (R5 strains) and CXCR4 (X4 strains) together with CD4 to fuse with the target cell, CCR5 being key in early transmission.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "pathophysiology",
+        "coreceptors_ccr5_cxcr4",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What happens immediately after reverse transcription in the HIV cycle?",
+      "options": [
+        "Virion release",
+        "Membrane fusion",
+        "Transport to the core",
+        "protein translation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Following reverse transcription, the viral double-stranded DNA forms a preintegration complex that is actively transported to the nucleus for integration into the cellular genome.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "pathophysiology",
+        "preintegration_complex",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the mechanism of action of nucleoside reverse transcriptase inhibitors (NRTIs)?",
+      "options": [
+        "Viral protease blockade",
+        "Binding to the CCR5 coreceptor",
+        "DNA chain termination",
+        "Inhibition of viral integrase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "NRTIs act as nucleoside analogues that, when incorporated into the forming viral DNA, cause premature chain termination, blocking reverse transcriptase.",
+      "hashtags": [
+        "infectology",
+        "hiv",
+        "action_mechanism",
+        "string_termination",
+        "MEDICAL_TOPIC",
+        "DHHS Guidelines 2023"
+      ]
+    },
+    {
+      "question": "What drug is a first-line NRTI in the treatment of HIV?",
+      "options": [
+        "Raltegravir",
+        "Tenofovir disoproxil",
+        "Maraviroc",
+        "Darunavir"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tenofovir disoproxil is an NRTI widely used as part of initial antiretroviral therapy, approved by international guidelines.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "treatment",
+        "first_line",
+        "MEDICAL_TOPIC",
+        "DHHS Guidelines 2023"
+      ]
+    },
+    {
+      "question": "What is a characteristic side effect of zidovudine (AZT)?",
+      "options": [
+        "Nephrolithiasis",
+        "Myelosuppression",
+        "Hyperglycemia",
+        "Acute hepatotoxicity"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Zidovudine produces significant myelosuppression, manifesting as anemia and neutropenia, due to its toxicity on hematopoietic precursors.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "adverse_effects",
+        "myelosuppression",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What characteristic differentiates NRTIs from NNRTIs?",
+      "options": [
+        "Require activation by kinases",
+        "They act on integrase",
+        "They do not require phosphorylation",
+        "Binding to the active site of the enzyme"
+      ],
+      "correctAnswer": 1,
+      "explanation": "NRTIs are prodrugs that require intracellular phosphorylation to convert to their active form, unlike NNRTIs that bind directly to the enzyme.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "action_mechanism",
+        "phosphorylation",
+        "MEDICAL_TOPIC",
+        "DHHS Guidelines 2023"
+      ]
+    },
+    {
+      "question": "What is the main mechanism of resistance to NRTIs?",
+      "options": [
+        "Mutation in reverse transcriptase",
+        "env gene hypermutation",
+        "Increased expression of P-gp",
+        "Gag gene deletion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mutations in reverse transcriptase, such as M184V or K65R, reduce the affinity of the drug for the enzyme, generating cross-resistance between NRTIs.",
+      "hashtags": [
+        "microbiology",
+        "hiv",
+        "resistance_mechanisms",
+        "tri_mutations",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which NRTI is associated with a higher risk of kidney toxicity?",
+      "options": [
+        "Emtricitabine",
+        "Abacavir",
+        "Lamivudine",
+        "Tenofovir disoproxil"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Tenofovir disoproxil accumulates in the renal proximal tubules, causing tubular dysfunction, proteinuria, and reduced glomerular filtration rate.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "adverse_effects",
+        "nephrotoxicity",
+        "MEDICAL_TOPIC",
+        "DHHS Guidelines 2023"
+      ]
+    },
+    {
+      "question": "What is the main function of HIV integrase?",
+      "options": [
+        "Degrade cellular proteins",
+        "Integrate viral DNA into the genome",
+        "Packaging viral RNA",
+        "Transcribe RNA to DNA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Integrase catalyzes the insertion of viral DNA into the host cell genome, an essential step for HIV replication.",
+      "hashtags": [
+        "infectology",
+        "hiv",
+        "concept",
+        "integrase_function",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which of these drugs is an integrase inhibitor?",
+      "options": [
+        "Efavirenz",
+        "Zidovudine",
+        "Tenofovir",
+        "Raltegravir"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Raltegravir is an integrase inhibitor, while tenofovir and zidovudine are reverse transcriptase inhibitors, and efavirenz is a non-nucleoside reverse transcriptase inhibitor.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "action_mechanism",
+        "integrase_inhibitors",
+        "MEDICAL_TOPIC",
+        "GESIDA Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the mechanism of action of integrase inhibitors?",
+      "options": [
+        "They inhibit viral fusion",
+        "They inhibit the viral protease",
+        "They block reverse transcriptase",
+        "Block DNA integration"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Integrase inhibitors act by blocking the integrase enzyme, preventing the integration of proviral DNA into the host cell genome.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "action_mechanism",
+        "integration_lock",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What stage of the HIV cycle is blocked by integrase inhibitors?",
+      "options": [
+        "Union and entry",
+        "Maturation",
+        "Reverse transcription",
+        "Integration"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Integrase inhibitors act specifically at the integration stage, preventing the viral DNA from inserting into the cellular genome.",
+      "hashtags": [
+        "pathophysiology",
+        "hiv",
+        "damage_mechanisms",
+        "integration_stage",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which of the following is a typical adverse effect of integrase inhibitors?",
+      "options": [
+        "Lipodystrophy",
+        "Pancreatitis",
+        "Insomnia and headache",
+        "Kidney failure"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Integrase inhibitors such as raltegravir and dolutegravir are associated with adverse effects such as insomnia, headache and gastrointestinal symptoms, unlike other effects more typical of other families.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "adverse_effects",
+        "raltegravir",
+        "MEDICAL_TOPIC",
+        "GESIDA Guide 2023"
+      ]
+    },
+    {
+      "question": "What characterizes integrase inhibitors compared to other antiretrovirals?",
+      "options": [
+        "They act in the late phase of the cycle",
+        "They are all daily administration",
+        "They have a low genetic barrier",
+        "Requires pharmacological enhancer"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Integrase inhibitors have a low genetic barrier, meaning they can select for resistance with single mutations, unlike protease inhibitors which have a high barrier.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "concept",
+        "genetic_barrier",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---GESIDA Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the main function of the HIV protease in the viral cycle?",
+      "options": [
+        "Fragment viral polyproteins",
+        "Inhibit reverse transcriptase",
+        "Integrate viral DNA into the genome",
+        "Attach the virus to the CD4 cell"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The HIV protease is an enzyme that cleaves the Gag and Gag-Pol polyproteins into functional proteins, a process essential for the maturation and production of infectious viral particles.",
+      "hashtags": [
+        "infectology",
+        "hiv",
+        "pathophysiology",
+        "viral_protease",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What class of drugs acts by inhibiting the HIV protease?",
+      "options": [
+        "Fusion inhibitors",
+        "Reverse transcriptase inhibitors",
+        "integrase inhibitors",
+        "Protease inhibitors"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Protease inhibitors (PIs) are antiretroviral drugs that block the HIV protease enzyme, preventing the maturation of viral particles and reducing the production of infectious viruses.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "action_mechanism",
+        "protease_inhibitors",
+        "PHARMACOLOGY",
+        ""
+      ]
+    },
+    {
+      "question": "What is a common side effect of protease inhibitors?",
+      "options": [
+        "Severe hepatotoxicity",
+        "Sinus bradycardia",
+        "Interstitial nephritis",
+        "Lipodystrophy and dyslipidemia"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Protease inhibitors are frequently associated with lipodystrophy (abnormal fat redistribution) and dyslipidemia (increased cholesterol and triglycerides), which increases cardiovascular risk.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "adverse_effects",
+        "protease_inhibitors",
+        "PHARMACOLOGY",
+        ""
+      ]
+    },
+    {
+      "question": "Which step of the HIV cycle is directly blocked by protease inhibitors?",
+      "options": [
+        "Viral entry into the cell",
+        "RNA reverse transcription",
+        "Maturation of the viral particle",
+        "Integration of viral DNA"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Protease inhibitors act in the final stage of the viral cycle, blocking the cleavage of polyproteins, which prevents the maturation and formation of infectious virions.",
+      "hashtags": [
+        "infectology",
+        "hiv",
+        "pharmacology",
+        "viral_maturation",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the consequence of inhibiting the HIV protease?",
+      "options": [
+        "Increased reverse transcriptase",
+        "Production of immature viral particles",
+        "Greater integration of viral DNA",
+        "Accelerated viral fusion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "By inhibiting the protease, the polyproteins are not processed correctly, generating immature and non-infectious viral particles, which reduces the viral load and disease progression.",
+      "hashtags": [
+        "infectology",
+        "hiv",
+        "pathophysiology",
+        "immature_particles",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What substrate is processed by the HIV protease?",
+      "options": [
+        "gp120 envelope proteins",
+        "Integrated proviral DNA",
+        "single-stranded viral RNA",
+        "Gag and Gag-Pol polyproteins"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The HIV protease has as its substrate the precursor polyproteins Gag and Gag-Pol, which are cleaved into structural proteins and enzymes essential for viral maturation.",
+      "hashtags": [
+        "microbiology",
+        "hiv",
+        "virulence_factors",
+        "protease_substrate",
+        "MICROBIOLOGY",
+        ""
+      ]
+    },
+    {
+      "question": "What coreceptor is used by HIV to fuse with macrophages in early stages?",
+      "options": [
+        "CCR5",
+        "CXCR4",
+        "CD4",
+        "gp120"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In early stages of HIV infection, R5 (macrophage-tropic) strains predominantly use the CCR5 coreceptor for cell entry. CXCR4 is more associated with late phases and CD4 is the primary receptor, not a coreceptor. gp120 is a viral glycoprotein.",
+      "hashtags": [
+        "infectology",
+        "hiv",
+        "pathophysiology",
+        "input_coreceptors",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the mechanism of action of maraviroc in the treatment of HIV?",
+      "options": [
+        "Inhibits reverse transcriptase",
+        "Inhibits viral integrase",
+        "Blocks the viral protease",
+        "Blocks the CCR5 coreceptor"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Maraviroc is a CCR5 coreceptor antagonist that prevents the binding of HIV gp120 to this coreceptor, blocking viral fusion and entry. The other options correspond to other antiretroviral drugs.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "action_mechanism",
+        "maraviroc",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What change in viral tropism is associated with progression to AIDS?",
+      "options": [
+        "From R5 to X4",
+        "From R5 to R5X4",
+        "From X4 to R5",
+        "From X4 to dual-tropic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Progression to AIDS is associated with a tropism shift from R5 (CCR5) to X4 (CXCR4), which allows the virus to infect CD4 T lymphocytes more aggressively and accelerate immunodeficiency. R5X4 or dual-tropic are mixed variants.",
+      "hashtags": [
+        "infectology",
+        "hiv",
+        "pathophysiology",
+        "viral_tropism",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which coreceptor is most frequently used by HIV in sexual transmission?",
+      "options": [
+        "CXCR4",
+        "CCR5",
+        "CD4",
+        "gp41"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In sexual transmission, the predominant HIV strains are R5, which use the CCR5 coreceptor. This is due to the increased expression of CCR5 in macrophages and mucosal dendritic cells. CXCR4 is more relevant in advanced stages.",
+      "hashtags": [
+        "infectology",
+        "hiv",
+        "epidemiology",
+        "sexual_transmission",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What viral protein binds directly to the coreceptor during HIV fusion?",
+      "options": [
+        "p24",
+        "gp160",
+        "gp41",
+        "gp120"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The gp120 glycoprotein is responsible for binding to the coreceptor (CCR5 or CXCR4) after the initial interaction with CD4. gp41 mediates membrane fusion, p24 is the capsid, and gp160 is the precursor of both.",
+      "hashtags": [
+        "microbiology",
+        "hiv",
+        "morphology_structure",
+        "viral_glycoproteins",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the consequence of a homozygous mutation in the CCR5-delta32 gene?",
+      "options": [
+        "Resistance to HIV infection",
+        "Increased susceptibility to HIV",
+        "Accelerated progression to AIDS",
+        "Increase in CD4 lymphocytes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The homozygous CCR5-delta32 mutation produces a non-functional truncated CCR5 protein, conferring natural resistance to infection by R5 strains of HIV, since the virus cannot use this coreceptor to enter cells.",
+      "hashtags": [
+        "genetics",
+        "hiv",
+        "pathophysiology",
+        "ccr5_delta32",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the preferred initial antiretroviral regimen in most adults with HIV?",
+      "options": [
+        "Zidovudine/lamivudine/nevirapine",
+        "Bictegravir/emtricitabine/tenofovir alafenamide",
+        "Darunavir/cobicistat/tenofovir disoproxil",
+        "Efavirenz/emtricitabine/tenofovir disoproxil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bictegravir/emtricitabine/tenofovir alafenamide is the regimen of choice due to its high genetic barrier, efficacy, and favorable adverse effect profile in current guidelines.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv_infection",
+        "treatment",
+        "preferred_initial_regimen",
+        "MEDICAL_TOPIC",
+        "DHHS Guidelines 2023---GeSIDA Guide 2023"
+      ]
+    },
+    {
+      "question": "What pharmacological characteristic distinguishes tenofovir alafenamide from tenofovir disoproxil?",
+      "options": [
+        "Requires reinforcement with cobicistat",
+        "Higher daily dose required",
+        "Lower risk of nephrotoxicity",
+        "Less penetration into tissues"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tenofovir alafenamide achieves lower plasma concentrations and less renal tubular accumulation, reducing the risk of nephrotoxicity and bone disorders compared to tenofovir disoproxil.",
+      "hashtags": [
+        "pharmacology",
+        "antiretrovirals",
+        "pharmacokinetics",
+        "tenofovir_alafenamide",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---DHHS 2023"
+      ]
+    },
+    {
+      "question": "What is a key criterion for starting antiretroviral therapy in a patient with HIV?",
+      "options": [
+        "Confirmed diagnosis of HIV at any stage",
+        "CD4 count less than 350 cells/μL",
+        "Spontaneously undetectable viral load",
+        "Presence of exclusively constitutional symptoms"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Current guidelines recommend starting ART in all patients with a confirmed diagnosis of HIV, regardless of CD4 count or clinical stage, to reduce morbidity, mortality and transmission.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv_infection",
+        "treatment",
+        "start_antiretroviral_therapy",
+        "MEDICAL_TOPIC",
+        "WHO 2023---DHHS 2023"
+      ]
+    },
+    {
+      "question": "Which antiretroviral drug has a mechanism of action as a non-nucleoside reverse transcriptase inhibitor?",
+      "options": [
+        "Maraviroc",
+        "Efavirenz",
+        "Dolutegravir",
+        "Raltegravir"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Efavirenz is a non-nucleoside reverse transcriptase inhibitor (NNRTI) that binds directly to the enzyme, blocking its activity; the others belong to other antiretroviral families.",
+      "hashtags": [
+        "pharmacology",
+        "antiretrovirals",
+        "action_mechanism",
+        "reverse_transcriptase_inhibitors",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the main advantage of integrase inhibitor-based regimens?",
+      "options": [
+        "Require pharmacokinetic reinforcement",
+        "They act only on resting cells",
+        "Lower oral bioavailability",
+        "Rapid suppression of viral load"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Integrase inhibitors, such as bictegravir or dolutegravir, achieve faster viral suppression than other antiretrovirals, with a high genetic barrier and good tolerance.",
+      "hashtags": [
+        "pharmacology",
+        "antiretrovirals",
+        "pharmacodynamics",
+        "integrase_inhibitors",
+        "MEDICAL_TOPIC",
+        "DHHS 2023---GeAIDS Guide 2023"
+      ]
+    },
+    {
+      "question": "What test should be performed before starting an abacavir regimen?",
+      "options": [
+        "Viral genotype for resistance",
+        "HLA-B*5701 typing",
+        "Hepatitis B surface antigen",
+        "Complete liver function test"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The presence of the HLA-B*5701 allele predisposes to severe hypersensitivity reactions to abacavir; Its prior determination is mandatory to avoid this potentially fatal reaction.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv_infection",
+        "diagnosis",
+        "hypersensitivity_screening",
+        "MEDICAL_TOPIC",
+        "DHHS 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the antiretroviral regimen of choice in pregnant women with HIV?",
+      "options": [
+        "Tenofovir/emtricitabine/dolutegravir",
+        "Abacavir/lamivudine/atazanavir",
+        "Stavudine/lamivudine/efavirenz",
+        "Zidovudine/lamivudine/nevirapine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The regimen of choice in pregnancy is tenofovir/emtricitabine/dolutegravir due to its efficacy and fetal safety profile. The other combinations present a greater risk of toxicity or teratogenicity.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv_pregnancy",
+        "treatment",
+        "antiretroviral_regimen",
+        "MEDICAL_TOPIC",
+        "WHO Guideline 2023---DHHS Perinatal Guidelines 2023"
+      ]
+    },
+    {
+      "question": "What antiretroviral drug is contraindicated in the first trimester of pregnancy?",
+      "options": [
+        "Efavirenz",
+        "Dolutegravir",
+        "Lamivudine",
+        "Tenofovir"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Efavirenz is contraindicated in the first trimester due to its teratogenic potential (neural tube defects). Dolutegravir, tenofovir and lamivudine are safe in pregnancy.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv_pregnancy",
+        "contraindications",
+        "efavirenz_teratogenicity",
+        "MEDICAL_TOPIC",
+        "DHHS Perinatal Guidelines 2023"
+      ]
+    },
+    {
+      "question": "What is the main objective of antiretroviral treatment in pregnant women with HIV?",
+      "options": [
+        "Improve cellular immunity",
+        "Prevent vertical transmission",
+        "Reduce maternal viral load",
+        "Eliminate HIV from the body"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The main objective is to prevent vertical transmission of HIV to the fetus, achieving an undetectable viral load at the time of delivery. The other options are secondary or not achievable.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv_pregnancy",
+        "clinical_table",
+        "vertical_transmission_prevention",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "At what point should antiretroviral treatment be started in a pregnant woman with HIV?",
+      "options": [
+        "Immediately upon diagnosis",
+        "after childbirth",
+        "Only in the third quarter",
+        "Only if CD4 less than 350"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Treatment should be initiated immediately upon diagnosis of HIV in pregnancy, regardless of CD4 count, to reduce vertical transmission and protect maternal health.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv_pregnancy",
+        "treatment",
+        "antiretroviral_start",
+        "MEDICAL_TOPIC",
+        "DHHS Perinatal Guidelines 2023"
+      ]
+    },
+    {
+      "question": "What route of delivery is recommended in pregnant women with HIV and a viral load greater than 1000 copies/mL?",
+      "options": [
+        "emergency cesarean section",
+        "Scheduled elective cesarean section",
+        "Vaginal delivery with forceps",
+        "Eutocic vaginal delivery"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Elective cesarean section is recommended at 38 weeks if the viral load is >1000 copies/mL, to reduce the risk of vertical transmission during labor.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv_pregnancy",
+        "treatment",
+        "via_parto_hiv",
+        "MEDICAL_TOPIC",
+        "WHO Guideline 2023---DHHS Perinatal Guidelines 2023"
+      ]
+    },
+    {
+      "question": "What prophylaxis is administered to the newborn of a mother with untreated HIV?",
+      "options": [
+        "Lamivudine for 2 weeks",
+        "Oral zidovudine for 6 weeks",
+        "Tenofovir for 4 weeks",
+        "Nevirapine single dose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Standard prophylaxis in high-risk neonates is oral zidovudine for 6 weeks, sometimes combined with nevirapine. The other options are not the recommended guideline.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv_pregnancy",
+        "treatment",
+        "neonatal_prophylaxis",
+        "MEDICAL_TOPIC",
+        "DHHS Perinatal Guidelines 2023"
+      ]
+    },
+    {
+      "question": "What is the recommended duration of post-exposure prophylaxis (PEP) for HIV?",
+      "options": [
+        "14 days",
+        "7 days",
+        "21 days",
+        "28 days"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Post-exposure prophylaxis (PEP) for HIV is administered for 28 consecutive days, according to international guidelines, to ensure early viral suppression.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "treatment",
+        "pep_duration",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023---CDC 2022"
+      ]
+    },
+    {
+      "question": "When should PEP be started after a high-risk exposure to HIV?",
+      "options": [
+        "Within 48 hours",
+        "Within 72 hours",
+        "Within 12 hours",
+        "Within 24 hours"
+      ],
+      "correctAnswer": 2,
+      "explanation": "PEP should ideally be initiated within the first 72 hours after exposure; Beyond that period its effectiveness decreases significantly.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "treatment",
+        "pep_start_window",
+        "MEDICAL_TOPIC",
+        "CDC 2022"
+      ]
+    },
+    {
+      "question": "What antiretroviral regimen is recommended as first line in PEP?",
+      "options": [
+        "Didanosine + Stavudine + Indinavir",
+        "Zidovudine + Lamivudine + Nevirapine",
+        "Abacavir + Lamivudine + Efavirenz",
+        "Tenofovir + Emtricitabine + Raltegravir"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The preferred regimen for PEP includes tenofovir disoproxil fumarate (TDF) plus emtricitabine (FTC) as a base, and an integrase inhibitor such as raltegravir or dolutegravir.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "treatment",
+        "recommended_pep_scheme",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023---CDC 2022"
+      ]
+    },
+    {
+      "question": "What serological follow-up is recommended after completing PEP?",
+      "options": [
+        "HIV test after 15 days",
+        "HIV testing only at baseline",
+        "HIV test per year",
+        "HIV test at 3 and 6 months"
+      ],
+      "correctAnswer": 4,
+      "explanation": "After completing PEP, it is recommended to perform an HIV test after 3 months and, in some cases, after 6 months to rule out late seroconversion.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "treatment",
+        "follow_post_pep",
+        "MEDICAL_TOPIC",
+        "CDC 2022"
+      ]
+    },
+    {
+      "question": "In what situation is PEP for HIV indicated?",
+      "options": [
+        "Sharing clothes with infected person",
+        "Mosquito bite in endemic area",
+        "Occupational exposure with hazardous material",
+        "Casual contact with an HIV positive person"
+      ],
+      "correctAnswer": 3,
+      "explanation": "PEP is indicated after occupational exposures (contaminated needle stick) or high-risk non-occupational exposures (unprotected sexual intercourse with an HIV-positive source).",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "treatment",
+        "pep_indications",
+        "MEDICAL_TOPIC",
+        "CDC 2022"
+      ]
+    },
+    {
+      "question": "What is the main cause of PEP failure?",
+      "options": [
+        "low fat diet",
+        "Intense physical exercise",
+        "Condom use during PEP",
+        "Late start of treatment"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Late onset of PEP (beyond 72 hours) is the main cause of failure, since the virus may have already established infection in the lymphoid tissues.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "treatment",
+        "failure_pep",
+        "MEDICAL_TOPIC",
+        "CDC 2022"
+      ]
+    },
+    {
+      "question": "What is the main indication for pre-exposure prophylaxis (PrEP) for HIV?",
+      "options": [
+        "Adults at high risk of acquiring HIV",
+        "All general population",
+        "Patients with hepatitis B",
+        "People with advanced HIV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PrEP is indicated for sexually active adults at high risk for HIV, such as men who have sex with men, intravenous drug users, or serodiscordant couples.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "concept",
+        "prep_indication",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What medication is used as first-line pre-exposure prophylaxis (PrEP)?",
+      "options": [
+        "Zidovudine/lamivudine",
+        "Abacavir/lamivudine",
+        "Tenofovir disoproxil fumarate/emtricitabine",
+        "Raltegravir"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The combination tenofovir disoproxil fumarate (TDF) with emtricitabine (FTC) is the approved first-line regimen for PrEP, due to its efficacy and safety profile in high-risk individuals.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "action_mechanism",
+        "tdf_ftc",
+        "MEDICAL_TOPIC",
+        "CDC Guide 2023"
+      ]
+    },
+    {
+      "question": "In which population group is PrEP especially indicated according to international guidelines?",
+      "options": [
+        "Adolescents with recurrent infections",
+        "Patients with active tuberculosis",
+        "Men who have sex with men",
+        "HIV negative pregnant women"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Men who have sex with men (MSM) represent a group with a high incidence of HIV, which is why the guidelines prioritize PrEP in this group to reduce new infections.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "concept",
+        "target_population",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What is a requirement before starting pre-exposure prophylaxis (PrEP)?",
+      "options": [
+        "Hepatitis A vaccination",
+        "Hemoglobin greater than 10 g/dL",
+        "normal electrocardiogram",
+        "Documented negative HIV test"
+      ],
+      "correctAnswer": 4,
+      "explanation": "It is mandatory to confirm that the patient is HIV negative through a serological test before starting PrEP, to avoid resistance in case of undetected infection.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "diagnosis",
+        "hiv_test",
+        "MEDICAL_TOPIC",
+        "CDC Guide 2023"
+      ]
+    },
+    {
+      "question": "What frequency of monitoring is recommended for PrEP users?",
+      "options": [
+        "Every 12 months",
+        "Every 3 months",
+        "Every 6 months",
+        "Only at the beginning and one year"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Quarterly follow-up is recommended for PrEP users, including HIV testing, adherence assessment, adverse effects, and screening for other sexually transmitted infections.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "treatment",
+        "clinical_monitoring",
+        "MEDICAL_TOPIC",
+        "CDC Guide 2023"
+      ]
+    },
+    {
+      "question": "What is a relative contraindication for the use of PrEP with tenofovir disoproxil fumarate?",
+      "options": [
+        "Chronic renal failure with GFR <30 mL/min",
+        "Moderate bronchial asthma",
+        "Uncontrolled high blood pressure",
+        "Diabetes mellitus type 2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tenofovir disoproxil fumarate can cause nephrotoxicity, so a glomerular filtration rate less than 30 mL/min is a relative contraindication for its use in PrEP.",
+      "hashtags": [
+        "pharmacology",
+        "hiv",
+        "contraindications",
+        "nephrotoxicity",
+        "MEDICAL_TOPIC",
+        "CDC Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the main usefulness of HIV genotyping?",
+      "options": [
+        "Diagnose acute infection",
+        "Detect resistance mutations",
+        "Evaluate liver function",
+        "Measure basal viral load"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Genotyping identifies mutations in the viral genome associated with resistance to antiretrovirals, guiding the choice of treatment.",
+      "hashtags": [
+        "internal_medicine",
+        "HIV_primary_resistance",
+        "diagnosis",
+        "genotyping",
+        "MEDICAL_TOPIC",
+        "DHHS Guidelines 2023"
+      ]
+    },
+    {
+      "question": "What mechanism explains primary resistance to HIV?",
+      "options": [
+        "Transmission of resistant strains",
+        "Reverse transcriptase failure",
+        "Previous use of antiretrovirals",
+        "Spontaneous host mutation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Primary resistance occurs when a person becomes infected with a strain of HIV that already carries resistance mutations, without having received treatment.",
+      "hashtags": [
+        "internal_medicine",
+        "HIV_primary_resistance",
+        "pathophysiology",
+        "resistance_mechanisms",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What test is recommended before starting antiretroviral therapy?",
+      "options": [
+        "CD4 lymphocyte culture",
+        "Resistance genotyping",
+        "Serology for hepatitis B",
+        "Qualitative viral load test"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Current guidelines recommend performing HIV resistance genotyping before initiating or changing therapy to optimize virological response.",
+      "hashtags": [
+        "internal_medicine",
+        "HIV_primary_resistance",
+        "diagnosis",
+        "pre_treatment_test",
+        "MEDICAL_TOPIC",
+        "DHHS Guidelines 2023"
+      ]
+    },
+    {
+      "question": "Which of the following is a target gene in HIV genotyping?",
+      "options": [
+        "Gag",
+        "Send",
+        "Pol",
+        "Neph"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The pol gene encodes reverse transcriptase, protease and integrase; Mutations in this region determine resistance to several antiretrovirals.",
+      "hashtags": [
+        "internal_medicine",
+        "HIV_primary_resistance",
+        "diagnosis",
+        "gen_pol",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which mutation confers resistance to nucleoside reverse transcriptase inhibitors?",
+      "options": [
+        "G48V",
+        "M184V",
+        "L90M",
+        "K103N"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The M184V mutation is associated with resistance to lamivudine and emtricitabine, decreasing the capacity for viral replication.",
+      "hashtags": [
+        "internal_medicine",
+        "HIV_primary_resistance",
+        "diagnosis",
+        "mutation_m184v",
+        "MEDICAL_TOPIC",
+        "IAS-USA 2023"
+      ]
+    },
+    {
+      "question": "What is the expected prevalence of primary resistance in naïve patients?",
+      "options": [
+        "5-15%",
+        "Less than 1%",
+        "50-60%",
+        "80-90%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Epidemiological studies show that between 5-15% of newly infected people present primary resistance to some antiretroviral.",
+      "hashtags": [
+        "internal_medicine",
+        "HIV_primary_resistance",
+        "epidemiology",
+        "prevalence_resistance",
+        "MEDICAL_TOPIC",
+        "Harrison 21st---WHO 2022"
+      ]
+    },
+    {
+      "question": "Which of the following is a characteristic symptom of acute retroviral syndrome?",
+      "options": [
+        "Hematuria",
+        "Jaundice",
+        "Dyspnoea",
+        "Fever"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Fever is the most common symptom in acute retroviral syndrome, appearing in more than 80% of patients, unlike jaundice, hematuria or dyspnea, which are not typical.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_retroviral_syndrome",
+        "clinical_table",
+        "frequent_symptoms",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What physical sign is common in acute retroviral syndrome?",
+      "options": [
+        "Ascites",
+        "Crackles",
+        "Splenomegaly",
+        "Lymphadenopathy"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Lymphadenopathy, especially cervical, is a common finding in acute retroviral syndrome, while ascites, splenomegaly, and crackles are not characteristic.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_retroviral_syndrome",
+        "clinical_table",
+        "physical_signs",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "How long after exposure does acute retroviral syndrome usually appear?",
+      "options": [
+        "Immediately",
+        "2 to 6 weeks",
+        "6 to 12 months",
+        "1 to 3 days"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acute retroviral syndrome typically manifests between 2 and 6 weeks after exposure to HIV, coinciding with massive viral replication.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_retroviral_syndrome",
+        "concept",
+        "incubation_period",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which of these tests is most useful in diagnosing acute retroviral syndrome?",
+      "options": [
+        "western blot",
+        "HIV viral load",
+        "quick test",
+        "ELISA for HIV"
+      ],
+      "correctAnswer": 2,
+      "explanation": "HIV viral load (HIV-RNA) is the most sensitive method in the acute phase, since antibodies are not yet detectable by ELISA, Western blot or rapid test.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_retroviral_syndrome",
+        "diagnosis",
+        "viral_load",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What oral manifestation is typical of acute retroviral syndrome?",
+      "options": [
+        "hairy leukoplakia",
+        "Gingivitis",
+        "Oral candidiasis",
+        "Aphthous ulcers"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Oral aphthous ulcers are a common manifestation of acute retroviral syndrome, while hairy leukoplakia and oral candidiasis are more typical of advanced stages.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_retroviral_syndrome",
+        "clinical_table",
+        "oral_manifestations",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which of these symptoms is part of acute retroviral syndrome?",
+      "options": [
+        "visual loss",
+        "Seizures",
+        "Myalgias",
+        "Hemorrhage"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Myalgias are a common symptom in acute retroviral syndrome, along with fever and fatigue, while visual loss, hemorrhage, and seizures are not typical.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_retroviral_syndrome",
+        "clinical_table",
+        "general_symptoms",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the CD4 threshold for starting ART in asymptomatic HIV patients?",
+      "options": [
+        "Less than 200 cells/mm³",
+        "Any CD4 count",
+        "Less than 500 cells/mm³",
+        "Less than 350 cells/mm³"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Current guidelines recommend initiating antiretroviral therapy (ART) in all HIV-infected patients, regardless of CD4 count, to reduce morbidity and mortality and transmission.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "treatment",
+        "tar_start_criteria",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023---DHHS 2023"
+      ]
+    },
+    {
+      "question": "What viral load value is considered undetectable in HIV patients on ART?",
+      "options": [
+        "Less than 1000 copies/mL",
+        "Less than 20 copies/mL",
+        "Less than 200 copies/mL",
+        "Less than 50 copies/mL"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An undetectable viral load is considered when it is less than 200 copies/mL, since below this threshold the risk of sexual transmission is practically zero (U=U).",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "treatment",
+        "undetectable_viral_load",
+        "MEDICAL_TOPIC",
+        "DHHS 2023"
+      ]
+    },
+    {
+      "question": "In what clinical situation should ART be urgently started for HIV?",
+      "options": [
+        "Undetectable viral load",
+        "Pregnancy in the first trimester",
+        "Active opportunistic infection",
+        "CD4 greater than 500 cells/mm³"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In the presence of an active opportunistic infection, it is recommended to start ART urgently (in the first two weeks) to reduce mortality, as long as there are no contraindications.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "treatment",
+        "tar_urgent_start",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the main objective of early initiation of ART in HIV?",
+      "options": [
+        "Increase CD4 count",
+        "Reduce adverse effects",
+        "Reduce viral load to undetectable",
+        "Prevent bacterial coinfections"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The main objective of ART is to suppress viral replication until reaching an undetectable viral load, which preserves immune function and prevents progression to AIDS.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "treatment",
+        "target_tar",
+        "MEDICAL_TOPIC",
+        "DHHS 2023"
+      ]
+    },
+    {
+      "question": "What parameter is used to define virological failure on ART?",
+      "options": [
+        "CD4 less than 350 cells/mm³",
+        "Viral load greater than 200 copies/mL",
+        "Viral load greater than 1000 copies/mL",
+        "CD4 less than 200 cells/mm³"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Virological failure is defined as a detectable viral load (>200 copies/mL) in two consecutive measurements after 24 weeks of ART, indicating lack of viral suppression.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "treatment",
+        "virological_failure",
+        "MEDICAL_TOPIC",
+        "DHHS 2023"
+      ]
+    },
+    {
+      "question": "When should ART be started in a patient with HIV and active tuberculosis?",
+      "options": [
+        "After completing TB treatment",
+        "Immediately upon diagnosis",
+        "Within 2-8 weeks",
+        "Only if CD4 less than 200"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In HIV-TB co-infection, ART should be initiated within 2 to 8 weeks after starting anti-tuberculosis treatment, adjusting according to CD4 count to reduce the risk of immune reconstitution inflammatory syndrome.",
+      "hashtags": [
+        "internal_medicine",
+        "hiv",
+        "treatment",
+        "coinfection_tb_hiv",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    }
+  ]
+}

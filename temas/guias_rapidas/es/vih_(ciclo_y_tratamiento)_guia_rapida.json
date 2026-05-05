@@ -1,0 +1,77 @@
+{
+  "id": "vih_(ciclo_y_tratamiento)",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Ciclo replicativo del VIH: pasos clave",
+      "title": "Pasos del ciclo",
+      "contentHtml": "<h2>Ciclo replicativo del VIH: pasos clave</h2><ul><li><b>Unión</b>: gp120 se une a <b>CD4</b> y correceptor (CCR5/CXCR4); fusión mediada por gp41.</li><li><b>Entrada y desencapsidación</b>: liberación del complejo de preintegración en citoplasma.</li><li><b>Transcriptasa inversa</b>: convierte ARN viral en ADN bicatenario (paso diana de ITIAN e ITINN).</li><li><b>Integración</b>: integrasa inserta ADN proviral en genoma huésped (diana de inhibidores de integrasa).</li><li><b>Transcripción y traducción</b>: ARNm viral produce poliproteínas Gag-Pol.</li><li><b>Maduración</b>: proteasa escinde poliproteínas en proteínas funcionales (diana de inhibidores de proteasa).</li><li><b>Gemación</b>: partículas inmaduras liberadas; maduran tras acción proteasa.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Transcriptasa inversa: inhibidores nucleósidos",
+      "title": "ITIAN: mecanismo y fármacos",
+      "contentHtml": "<h2>Transcriptasa inversa: inhibidores nucleósidos</h2><p>Los <b>ITIAN</b> (inhibidores nucleósidos de la transcriptasa inversa) actúan como <b>análogos de nucleósidos</b> que se incorporan al ADN viral en elongación, causando terminación prematura de la cadena. Requieren <b>trifosforilación intracelular</b> para su activación. Fármacos clave: <b>tenofovir disoproxil fumarato (TDF)</b> y <b>tenofovir alafenamida (TAF)</b> (menor toxicidad renal/ósea), <b>emtricitabina (FTC)</b>, <b>lamivudina (3TC)</b>, <b>abacavir (ABC)</b> (asociado a reacción de hipersensibilidad si HLA-B*5701 positivo). <b>Zidovudina (AZT)</b> ya es poco usada por toxicidad. La resistencia por mutación <b>M184V</b> confiere alta resistencia a 3TC/FTC y baja a ABC.</p>"
+    },
+    {
+      "order": 3,
+      "foco": "Integrasa: función e inhibidores",
+      "title": "Inhibidores de integrasa",
+      "contentHtml": "<h2>Integrasa: función e inhibidores</h2><p>La <b>integrasa</b> cataliza dos pasos: <b>3′-procesamiento</b> (corte del extremo 3′ del ADN viral) y <b>transferencia de cadena</b> (inserción del ADN proviral en el genoma humano). Los <b>inhibidores de la transferencia de cadena de integrasa (INSTI)</b> bloquean el segundo paso. Fármacos: <b>dolutegravir (DTG)</b>, <b>bictegravir (BIC)</b>, <b>raltegravir (RAL)</b>, <b>cabotegravir (CAB)</b> (inyectable de acción prolongada). <b>DTG</b> y <b>BIC</b> tienen alta barrera genética. Efecto adverso: aumento de creatinina sérica por inhibición del transportador tubular <b>MATE-1</b> (no daño renal real). En embarazo: <b>DTG</b> se asocia a mayor riesgo de defectos del tubo neural si se usa en la concepción.</p>"
+    },
+    {
+      "order": 4,
+      "foco": "Proteasa: maduración viral y fármacos",
+      "title": "Inhibidores de proteasa",
+      "contentHtml": "<h2>Proteasa: maduración viral y fármacos</h2><p>La <b>proteasa del VIH</b> escinde las poliproteínas <b>Gag</b> y <b>Gag-Pol</b> en proteínas funcionales (p24, p17, proteasa, integrasa, transcriptasa inversa). Inhibidores de proteasa (<b>IP</b>): <b>atazanavir (ATV)</b>, <b>darunavir (DRV)</b>, <b>lopinavir (LPV)</b> (formulado con ritonavir como potenciador). Todos los IP se metabolizan por <b>CYP3A4</b> y requieren potenciación con <b>ritonavir (RTV)</b> o <b>cobicistat (COBI)</b>. Efectos adversos: dislipidemia, lipodistrofia, hiperbilirrubinemia (ATV), prolongación PR/QT. La mutación <b>I50L</b> confiere resistencia a ATV. <b>DRV/r</b> es el IP de elección en <b>TAR de rescate</b> por alta barrera genética.</p>"
+    },
+    {
+      "order": 5,
+      "foco": "Fusión y entrada: correceptores CCR5/CXCR4",
+      "title": "Correceptores y entrada",
+      "contentHtml": "<h2>Fusión y entrada: correceptores CCR5/CXCR4</h2><p>La entrada del VIH requiere unión de gp120 a <b>CD4</b> y posterior interacción con un correceptor: <b>CCR5</b> (tropismo R5, predominante en transmisión) o <b>CXCR4</b> (tropismo X4, asociado a progresión). El <b>maraviroc</b> es un antagonista de CCR5; requiere prueba de tropismo (Trofile) antes de uso. El cambio de tropismo R5 a X4 (o mixto) se asocia a <b>declive de CD4</b> y peor pronóstico. El <b>enfuvirtida</b> es un inhibidor de fusión (gp41) de uso subcutáneo, actualmente poco usado por otras opciones. La mutación <b>V3 loop</b> determina tropismo.</p>"
+    },
+    {
+      "order": 6,
+      "foco": "Terapia antirretroviral inicial recomendada",
+      "title": "TAR inicial de elección",
+      "contentHtml": "<h2>Terapia antirretroviral inicial recomendada</h2><p>Según guías <b>DHHS 2024</b> y <b>GESIDA</b>, el régimen inicial de elección es una combinación de dos <b>ITIAN</b> más un <b>INSTI</b>. Opciones preferidas: <b>BIC/TAF/FTC</b> (Biktarvy®) y <b>DTG/ABC/3TC</b> (Triumeq®) si HLA-B*5701 negativo. Alternativa: <b>DTG + TAF/FTC</b>. Se debe evaluar función renal, perfil lipídico y coinfección por VHB. No se recomienda iniciar con <b>IP/r</b> o <b>ITINN</b> como primera línea por mayor toxicidad o menor barrera genética. En pacientes con <b>carga viral &gt;500.000 copias/mL</b>, evitar ABC por mayor riesgo de fracaso.</p>"
+    },
+    {
+      "order": 7,
+      "foco": "Régimen de elección en embarazo",
+      "title": "TAR en embarazo",
+      "contentHtml": "<h2>Régimen de elección en embarazo</h2><p>El objetivo es <b>carga viral indetectable</b> (&lt;50 copias/mL) al parto para prevenir transmisión vertical. Régimen de elección: <b>dos ITIAN</b> (<b>TAF/FTC</b> o <b>TDF/FTC</b>; evitar TDF si enfermedad renal) más un <b>INSTI</b>. <b>DTG</b> se asocia a <b>defectos del tubo neural</b> si se expone en la concepción (riesgo 0.19% vs 0.11% basal); si la paciente ya está con DTG y tiene embarazo no planeado, continuarlo. Alternativa: <b>darunavir/r</b> + dos ITIAN. Contraindicados: <b>efavirenz</b> (teratógeno, categoría D) y <b>dolutegravir</b> en la concepción si hay opciones. En trabajo de parto, <b>AZT IV</b> si carga viral &gt;1000 copias/mL.</p>"
+    },
+    {
+      "order": 8,
+      "foco": "Profilaxis post-exposición (PEP) duración",
+      "title": "PEP: duración y régimen",
+      "contentHtml": "<h2>Profilaxis post-exposición (PEP) duración</h2><p>La <b>PEP</b> debe iniciarse <b>dentro de las 72 horas</b> (idealmente en las primeras 2 horas) post-exposición de riesgo (sexual, ocupacional, percutáneo). Duración: <b>28 días</b> consecutivos. Régimen recomendado: <b>tenofovir disoproxil fumarato (TDF) 300 mg + emtricitabina (FTC) 200 mg</b> (Truvada®) una vez al día, más <b>raltegravir (RAL) 400 mg cada 12 horas</b> o <b>dolutegravir (DTG) 50 mg/día</b>. Se debe realizar prueba de VIH al inicio, a las 4-6 semanas y a los 3 meses. No olvidar evaluar riesgo de VHB y sífilis. Si la fuente tiene resistencia conocida, ajustar régimen.</p>"
+    },
+    {
+      "order": 9,
+      "foco": "Profilaxis pre-exposición (PrEP) indicaciones",
+      "title": "PrEP: indicaciones",
+      "contentHtml": "<h2>Profilaxis pre-exposición (PrEP) indicaciones</h2><p><b>PrEP</b> está indicada en personas con alto riesgo de adquirir VIH: hombres que tienen sexo con hombres (<b>HSH</b>) sin uso consistente de condón, pareja serodiscordante, personas con <b>ITS bacteriana</b> en los últimos 6 meses, usuarios de drogas inyectables. Régimen oral: <b>TDF/FTC</b> (Truvada®) o <b>TAF/FTC</b> (Descovy®) una vez al día. Alternativa inyectable: <b>cabotegravir</b> (Apretude®) cada 2 meses, con eficacia superior en HSH. Se requiere función renal normal, prueba de VIH negativa antes de iniciar y cada 3 meses. En <b>mujeres</b>, solo <b>TDF/FTC</b> tiene evidencia; TAF/FTC no aprobado para sexo vaginal receptivo.</p>"
+    },
+    {
+      "order": 10,
+      "foco": "Resistencia primaria y genotipificación",
+      "title": "Resistencia primaria y genotipo",
+      "contentHtml": "<h2>Resistencia primaria y genotipificación</h2><p>La <b>resistencia primaria</b> (transmitida) se detecta mediante <b>genotipificación</b> (secuenciación de <b>RT</b>, <b>proteasa</b> e <b>integrasa</b>) antes de iniciar TAR. Prevalencia en España ~10-15%. Mutaciones relevantes: <b>M184V</b> (alta resistencia a 3TC/FTC), <b>K103N</b> (resistencia a efavirenz/nevirapina), <b>L90M</b> (IP). La genotipificación se realiza con <b>carga viral &gt;1000 copias/mL</b>. Si hay fracaso virológico, repetir genotipo en terapia. La <b>resistencia a INSTI</b> (ej. <b>R263K</b>, <b>G140S</b>) es menos frecuente pero emergente. No olvidar que la resistencia a <b>tenofovir</b> (mutación <b>K65R</b>) reduce sensibilidad a TDF y ABC.</p>"
+    },
+    {
+      "order": 11,
+      "foco": "Síndrome retroviral agudo: manifestaciones",
+      "title": "Síndrome retroviral agudo",
+      "contentHtml": "<h2>Síndrome retroviral agudo: manifestaciones</h2><p>Ocurre 2-4 semanas post-infección, coincidiendo con <b>viremia alta</b> (&gt;10⁶ copias/mL). Manifestaciones: <b>fiebre</b> (96%), <b>linfadenopatía</b>, <b>faringitis</b>, <b>exantema maculopapular</b> (tronco, simétrico), <b>mialgias/artralgias</b>, <b>cefalea</b>, <b>úlceras mucocutáneas</b> (genitales, orales). Síntomas gastrointestinales: náuseas, diarrea. Puede simular <b>mononucleosis infecciosa</b> (pero sin faringitis exudativa ni esplenomegalia marcada). Diagnóstico: <b>ARN-VIH</b> detectable, <b>Ag p24</b> positivo y <b>serología</b> (ELISA/Western blot) inicialmente negativa o indeterminada. El recuento de <b>CD4</b> suele estar transitoriamente bajo. El reconocimiento temprano permite inicio de TAR y reduce reservorio.</p>"
+    },
+    {
+      "order": 12,
+      "foco": "Criterios de inicio de TAR: CD4 y carga viral",
+      "title": "Inicio de TAR: criterios",
+      "contentHtml": "<h2>Criterios de inicio de TAR: CD4 y carga viral</h2><p>Actualmente se recomienda <b>iniciar TAR en todos los pacientes con VIH</b> independientemente del recuento de CD4 (guías DHHS, OMS). El beneficio es mayor en <b>CD4 &lt;350 cél/μL</b> (reduce morbimortalidad). En pacientes asintomáticos con <b>CD4 &gt;500 cél/μL</b>, el inicio temprano disminuye la transmisión (estrategia <b>tratamiento como prevención</b>). La <b>carga viral</b> basal orienta la elección del régimen: evitar <b>abacavir</b> si CV &gt;500.000 copias/mL. Se debe iniciar TAR lo antes posible, idealmente dentro de los 7 días del diagnóstico, excepto si hay <b>infección oportunista activa</b> (ej. meningitis criptocócica) donde se difiere 4-6 semanas para evitar <b>síndrome inflamatorio de reconstitución inmune (IRIS)</b>.</p>"
+    }
+  ]
+}

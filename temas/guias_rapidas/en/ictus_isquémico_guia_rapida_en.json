@@ -1,0 +1,77 @@
+{
+  "id": "ischemic_stroke",
+  "items": [
+    {
+      "order": 1,
+      "foco": "TOAST classification of ischemic stroke",
+      "title": "TOAST Classification",
+      "contentHtml": "<h2>TOAST classification of ischemic stroke</h2><ul><li><b>TOAST</b> divides into 5 subtypes: atherothrombotic (LAA), cardioembolic (CE), lacunar (SVD), other determined cause (ODE) and undetermined cause (SUE).</li><li><b>Atherothrombotic:</b> stenosis ≥50% or thrombosis of a large artery; requires Doppler or CT angiography.</li><li><b>Cardioembolic:</b> presence of AF, valve prosthesis, recent AMI or LV thrombus; high recurrence.</li><li><b>Lacunar:</b> small infarction (&lt;15 mm) in perforating territory, associated with chronic HTN.</li><li><b>Other cause:</b> dissection, vasculitis, thrombophilia; requires directed studies.</li><li><b>Indeterminate:</b> two possible causes or incomplete study; up to 30% of cases. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Therapeutic window for IV thrombolysis",
+      "title": "IV thrombolysis window",
+      "contentHtml": "<h2>Therapeutic window for IV thrombolysis</h2><ul><li>The standard window is <b>4.5 hours</b> from the onset of symptoms or last healthy moment.</li><li>Between 3 and 4.5 hours apply <b>ECASS III criteria</b>: age &gt;80 years, oral anticoagulants (INR ≤1.7), diabetes + previous stroke are exclusions relatives.</li><li>In <b>stroke upon awakening</b> or unknown time, use <b>diffusion-FLAIR mismatch MRI</b> (DWI positive, FLAIR negative) for window up to <b>4.5 hours</b> from discovery if they meet WAKE-UP criteria.</li><li>Dose <b>alteplase</b>: 0.9 mg/kg (max 90 mg), 10% in bolus and the rest in infusion 1 h.</li><li>Do not exceed window or use beyond 4.5 hours without advanced image.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Exclusion criteria for alteplase",
+      "title": "Alteplase exclusions",
+      "contentHtml": "<h2>Exclusion criteria for alteplase</h2><ul><li><b>Absolute:</b> intracranial hemorrhage on CT, suspected SAH, history of ICH, major surgery or head trauma in &lt;3 months, active bleeding.</li><li><b>Relative:</b> INR &gt;1.7, aPTT &gt;40 s, platelets &lt;100,000, glycemia &lt;50 or &gt;400 mg/dL, AMI in &lt;3 months, recent major surgery.</li><li><b>BP:</b> SBP &gt;185 mmHg or DBP &gt;110 mmHg maintained despite treatment is exclusion.</li><li><b>Minor non-disabling stroke (NIHSS 0-4)</b> and rapid improvement: they are not absolute exclusion if there is a deficit disabling.</li><li><b>Pregnancy</b> is relative; individual risk/benefit. </li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "NIHSS scale and its interpretation",
+      "title": "NIHSS",
+      "contentHtml": "<h2>NIHSS scale and its interpretation</h2><ul><li><b>NIHSS</b> (National Institutes of Health Stroke Scale): 15 items, score 0-42; &lt;5 mild, 5-15 moderate, 16-20 moderate-severe, &gt;20 severe.</li><li>Key items: level of consciousness (1a,1b,1c), conjugate gaze (2), visual field (3), facial paralysis (4), motor MS (5) and MI (6), ataxia (7), sensitivity (8), language (9), dysarthria (10), extinction (11).</li><li><b>NIHSS ≥6</b> usually indicates large vessel occlusion candidate for endovascular therapy.</li><li>Interpretation: each point increases the odds of a bad outcome; NIHSS &gt;25 associates high risk of hemorrhagic transformation with thrombolysis.</li><li>It is performed on admission, 24 hours and at discharge to evaluate evolution.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Endovascular therapy with stent retriever",
+      "title": "Endovascular therapy",
+      "contentHtml": "<h2>Endovascular therapy with stent retriever</h2><ul><li>Indication: occlusion of <b>proximal anterior circulation</b> (ICA, M1, M2) with <b>NIHSS ≥6</b> and window up to <b>6 hours</b> from onset (up to 24 h with <b>mismatch perfusion</b> in DAWN/DEFUSE-3 studies).</li><li>Procedure: <b>stent retriever</b> (e.g. Solitaire, Trevo) is deployed in the thrombus, left for 5 minutes and removed with simultaneous aspiration.</li><li>Efficacy: TICI 2b-3 (complete reperfusion) in &gt;70% of cases; reduces disability (mRS ≤2 to 90 days).</li><li>Does not require perfusion imaging test if &lt;6 h; if &gt;6 h, use <b>CTP or perfusion MRI</b> for mismatch.</li><li>Contraindications: established infarction &gt;1/3 MCA territory on plain CT, hemorrhage, NIHSS &lt;6.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Management of blood pressure in the acute phase",
+      "title": "Management of acute BP",
+      "contentHtml": "<h2>Management of blood pressure in the acute phase</h2><ul><li>If candidate for thrombolysis: maintain <b>SBP <185 mmHg</b> and <b>DBP <110 mmHg</b> before alteplase; If it exceeds, use labetalol 10-20 mg IV or nicardipine 5 mg/h. </li><li>Without thrombolysis: permissiveness up to <b>SBP ≤220 mmHg</b> and <b>DBP ≤120 mmHg</b> in the first 24 hours, except for comorbidity (aortic dissection, PAD).</li><li>If thrombolysis is started: maintain <b>SBP <180 mmHg</b> and <b>DBP <105 mmHg</b> during 24 hours post-infusion. </li><li>Avoid sudden decrease (>15% in 24 hours) due to risk of ischemic penumbra.</li><li>Use titratable IV drugs: labetalol, nicardipine, clevidipine.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Differential diagnosis of stroke vs. seizure",
+      "title": "DDx stroke vs seizure",
+      "contentHtml": "<h2>Differential diagnosis of stroke vs. seizure</h2><ul><li><b>Postictal seizure</b> (Todd's palsy): focal deficit that resolves in &lt;24 h, typically &lt;1 h; EEG shows epileptiform activity.</li><li><b>Stroke</b>: sudden deficit without tonic-clonic movements, with signs of lateralization; image (CT/MRI) shows acute infarction.</li><li><b>Clues:</b> seizure at the beginning (suggests epilepsy), tongue biting, intense headache (SAH), versive eye movements.</li><li><b>MRI with diffusion</b> is gold standard: restriction in acute stroke; normal in Todd's palsy.</li><li>If in doubt, perform <b>urgent EEG</b> and do not delay thrombolysis if stroke is highly suspected.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Antiplatelet treatment in minor stroke",
+      "title": "Antiplatelet in minor stroke",
+      "contentHtml": "<h2>Antiplatelet treatment in minor stroke</h2><ul><li><b>Minor stroke:</b> NIHSS ≤3; acute management with <b>AAS</b> 300 mg/day orally started within 24-48 h post-stroke if thrombolysis was not administered.</li><li><b>CHANCE</b> and <b>POINT</b> study: dual therapy <b>AAS + clopidogrel</b> (loading 300 mg, then 75 mg/day) reduces recurrence at 90 days in minor or stroke High-risk TIA (ABCD2 ≥4).</li><li>Duration: <b>21 days</b> in CHANCE; in POINT up to 90 days but with greater bleeding.</li><li>Contraindication: intracranial hemorrhage, allergy, high risk of bleeding. </li><li>Do not use antiplatelet therapy if thrombolysis was given; wait 24 hours post-alteplase. </li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Indications for anticoagulation in cardioembolic",
+      "title": "Cardioembolic anticoagulation",
+      "contentHtml": "<h2>Indications for anticoagulation in cardioembolic conditions</h2><ul><li>Cardioembolic due to non-valvular <b>atrial fibrillation</b> (AF): initiate <b>oral anticoagulation</b> (OAC) with <b>NOAC</b> (apixaban, rivaroxaban, edoxaban, dabigatran) instead of warfarin (INR 2-3).</li><li>Start: rule <b>1-3-6-12</b>: OAC after 24 hours if TIA, 3 days if small infarction, 6 days if moderate, 12 days if large (NIHSS &gt;15 or &gt;1/3 MCA).</li><li>If valvular AF (mechanical prosthesis, moderate-severe mitral stenosis): use <b>warfarin</b> (INR 2.5-3.5).</li><li>Do not start OAC if hemorrhagic transformation or uncontrolled hypertension.</li><li>In <b>LV thrombus</b> or <b>AMI with aneurysm</b>: anticoagulation with warfarin or heparin according to guidelines.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Anterior circulation stroke vs. later",
+      "title": "Anterior vs posterior circulation",
+      "contentHtml": "<h2>Anterior circulation stroke vs. posterior</h2><ul><li><b>Anterior circulation</b> (ACI, MCA, ACA): contralateral hemiparesis/hemihypoesthesia, aphasia (dominant hemisphere), hemineglect (non-dominant), gaze deviation.</li><li><b>Posterior circulation</b> (vertebral, basilar, PCA, PICA, AICA): vertigo, diplopia, ataxia, dysphagia, Horner, homonymous hemianopia, alteration of lower cranial nerves.</li><li><b>Sign of posterior malignancy:</b> basilar occlusion with tetraparesis, coma, vertical gaze palsy; mortality &gt;80% without treatment.</li><li>Image: CT angiography of supra-aortic trunks for anterior; posterior circulation CT angiography or MRA for vertebrobasilar.</li><li>Endovascular therapy in basilar: window up to 24 hours with <b>mismatch perfusion</b>.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Signs of malignancy in cerebral infarction",
+      "title": "Signs of malignancy",
+      "contentHtml": "<h2>Signs of malignancy in cerebral infarction</h2><ul><li><b>Malignant MCA infarction</b>: &gt;50% of the MCA territory on CT or MRI, with massive cerebral edema and midline shift &gt;5 mm.</li><li>Clinical criteria: NIHSS &gt;20 in dominant hemisphere or &gt;15 in non-dominant hemisphere, impaired level of consciousness in the first 48 h. </li><li><b>Insular ribbon sign</b> erased on CT (insula hypodensity) is an early predictor of malignancy.</li><li>Treatment: <b>decompressive craniectomy</b> within 48 hours reduces mortality (DECIMAL, DESTINY, HAMLET studies).</li><li>Age <60 years and surgery before 48 hours improves prognosis. functional. </li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Secondary prevention: antiplatelets and statins",
+      "title": "Secondary prevention",
+      "contentHtml": "<h2>Secondary prevention: antiplatelet agents and statins</h2><ul><li>Antiplatelet therapy: <b>AAS</b> 75-100 mg/day or <b>clopidogrel</b> 75 mg/day as monotherapy; in minor stroke use <b>AAS + clopidogrel</b> for 21 days.</li><li>If cardioembolic: <b>NOAC</b> (dose adjusted to renal function and weight) or warfarin.</li><li>Statins: <b>atorvastatin 80 mg/day</b> (SPARCL study) reduces recurrence regardless of baseline LDL; LDL target &lt;70 mg/dL or reduction ≥50%.</li><li>Management of risk factors: HBP (&lt;130/80 mmHg), DM (HbA1c &lt;7%), smoking cessation, exercise.</li><li>Prolonged double antiplatelet therapy (&gt;90 days) not recommended due to bleeding risk.</li></ul>"
+    }
+  ]
+}

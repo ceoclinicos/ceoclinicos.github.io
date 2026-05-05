@@ -1,0 +1,77 @@
+{
+  "id": "ictus_isquémico",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Clasificación TOAST del ictus isquémico",
+      "title": "Clasificación TOAST",
+      "contentHtml": "<h2>Clasificación TOAST del ictus isquémico</h2><ul><li><b>TOAST</b> divide en 5 subtipos: aterotrombótico (LAA), cardioembólico (CE), lacunar (SVD), otra causa determinada (ODE) y causa indeterminada (SUE).</li><li><b>Aterotrombótico:</b> estenosis ≥50% o trombosis de arteria grande; requiere Doppler o angio-TC.</li><li><b>Cardioembólico:</b> presencia de FA, prótesis valvular, IAM reciente o trombo VI; alta recurrencia.</li><li><b>Lacunar:</b> infarto pequeño (&lt;15 mm) en territorio perforante, asociado a HTA crónica.</li><li><b>Otra causa:</b> disección, vasculitis, trombofilia; requiere estudios dirigidos.</li><li><b>Indeterminado:</b> dos causas posibles o estudio incompleto; hasta 30% de los casos.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Ventana terapéutica para trombólisis IV",
+      "title": "Ventana trombólisis IV",
+      "contentHtml": "<h2>Ventana terapéutica para trombólisis IV</h2><ul><li>La ventana estándar es <b>4,5 horas</b> desde inicio de síntomas o último momento sano.</li><li>Entre 3 y 4,5 horas aplicar <b>criterios ECASS III</b>: edad &gt;80 años, anticoagulantes orales (INR ≤1,7), diabetes + ictus previo son exclusiones relativas.</li><li>En <b>ictus al despertar</b> o tiempo desconocido, usar <b>RM de difusión-FLAIR mismatch</b> (DWI positiva, FLAIR negativa) para ventana hasta <b>4,5 horas</b> desde descubrimiento si cumplen criterios WAKE-UP.</li><li>Dosis <b>alteplasa</b>: 0,9 mg/kg (máx 90 mg), 10% en bolo y resto en infusión 1 h.</li><li>No superar ventana ni usar más allá de 4,5 h sin imagen avanzada.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Criterios de exclusión para alteplasa",
+      "title": "Exclusiones alteplasa",
+      "contentHtml": "<h2>Criterios de exclusión para alteplasa</h2><ul><li><b>Absolutos:</b> hemorragia intracraneal en TC, sospecha de HSA, antecedente de HIC, cirugía mayor o trauma craneal en &lt;3 meses, sangrado activo.</li><li><b>Relativos:</b> INR &gt;1,7, TTPa &gt;40 s, plaquetas &lt;100.000, glicemia &lt;50 o &gt;400 mg/dL, IAM en &lt;3 meses, cirugía mayor reciente.</li><li><b>TA:</b> PAS &gt;185 mmHg o PAD &gt;110 mmHg mantenida pese a tratamiento es exclusión.</li><li><b>Ictus menor no discapacitante (NIHSS 0-4)</b> y mejoría rápida: no son exclusión absoluta si hay déficit discapacitante.</li><li><b>Embarazo</b> es relativo; riesgo/beneficio individual.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Escala NIHSS y su interpretación",
+      "title": "NIHSS",
+      "contentHtml": "<h2>Escala NIHSS y su interpretación</h2><ul><li><b>NIHSS</b> (National Institutes of Health Stroke Scale): 15 ítems, puntuación 0-42; &lt;5 leve, 5-15 moderado, 16-20 moderado-severo, &gt;20 severo.</li><li>Ítems clave: nivel de conciencia (1a,1b,1c), mirada conjugada (2), campo visual (3), parálisis facial (4), motor MS (5) y MI (6), ataxia (7), sensibilidad (8), lenguaje (9), disartria (10), extinción (11).</li><li><b>NIHSS ≥6</b> suele indicar oclusión de gran vaso candidato a terapia endovascular.</li><li>Interpretación: cada punto incrementa odds de mal resultado; NIHSS &gt;25 asocia alto riesgo de transformación hemorrágica con trombólisis.</li><li>Se realiza al ingreso, 24 h y al alta para evaluar evolución.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Terapia endovascular con stent retriever",
+      "title": "Terapia endovascular",
+      "contentHtml": "<h2>Terapia endovascular con stent retriever</h2><ul><li>Indicación: oclusión de <b>circulación anterior proximal</b> (ACI, M1, M2) con <b>NIHSS ≥6</b> y ventana hasta <b>6 horas</b> desde inicio (hasta 24 h con <b>perfusión mismatch</b> en estudios DAWN/DEFUSE-3).</li><li>Procedimiento: <b>stent retriever</b> (ej. Solitaire, Trevo) se despliega en el trombo, se deja 5 min y se retira con aspiración simultánea.</li><li>Eficacia: TICI 2b-3 (reperfusión completa) en &gt;70% de casos; reduce discapacidad (mRS ≤2 a 90 días).</li><li>No requiere prueba de imagen de perfusión si &lt;6 h; si &gt;6 h, usar <b>CTP o RM de perfusión</b> para mismatch.</li><li>Contraindicaciones: infarto establecido &gt;1/3 territorio MCA en TC simple, hemorragia, NIHSS &lt;6.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Manejo de presión arterial en fase aguda",
+      "title": "Manejo de PA aguda",
+      "contentHtml": "<h2>Manejo de presión arterial en fase aguda</h2><ul><li>Si candidato a trombólisis: mantener <b>PAS &lt;185 mmHg</b> y <b>PAD &lt;110 mmHg</b> antes de alteplasa; si supera, usar labetalol 10-20 mg IV o nicardipino 5 mg/h.</li><li>Sin trombólisis: permisividad hasta <b>PAS ≤220 mmHg</b> y <b>PAD ≤120 mmHg</b> en primeras 24 h, salvo comorbilidad (disección aórtica, EAP).</li><li>Si se inicia trombólisis: mantener <b>PAS &lt;180 mmHg</b> y <b>PAD &lt;105 mmHg</b> durante 24 h post-infusión.</li><li>Evitar descenso brusco (&gt;15% en 24 h) por riesgo de penumbra isquémica.</li><li>Usar fármacos IV titulables: labetalol, nicardipino, clevidipino.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Diagnóstico diferencial de ictus vs. convulsión",
+      "title": "DDx ictus vs convulsión",
+      "contentHtml": "<h2>Diagnóstico diferencial de ictus vs. convulsión</h2><ul><li><b>Convulsión</b> postictal (parálisis de Todd): déficit focal que resuelve en &lt;24 h, típicamente &lt;1 h; EEG muestra actividad epileptiforme.</li><li><b>Ictus</b>: déficit súbito sin movimientos tónicoclónicos, con signos de lateralización; imagen (TC/RM) muestra infarto agudo.</li><li><b>Claves:</b> convulsión al inicio (sugiere epilepsia), mordedura de lengua, cefalea intensa (HSA), movimientos oculares versivos.</li><li><b>RM con difusión</b> es gold standard: restricción en ictus agudo; normal en parálisis de Todd.</li><li>Si duda, realizar <b>EEG urgente</b> y no retrasar trombólisis si alta sospecha de ictus.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Tratamiento antiagregante en ictus menor",
+      "title": "Antiagregante en ictus menor",
+      "contentHtml": "<h2>Tratamiento antiagregante en ictus menor</h2><ul><li><b>Ictus menor:</b> NIHSS ≤3; manejo agudo con <b>AAS</b> 300 mg/día oral iniciado dentro de las 24-48 h post-ictus si no se administró trombólisis.</li><li>Estudio <b>CHANCE</b> y <b>POINT</b>: terapia dual <b>AAS + clopidogrel</b> (carga 300 mg, luego 75 mg/día) reduce recurrencia a 90 días en ictus menor o AIT de alto riesgo (ABCD2 ≥4).</li><li>Duración: <b>21 días</b> en CHANCE; en POINT hasta 90 días pero con mayor sangrado.</li><li>Contraindicación: hemorragia intracraneal, alergia, alto riesgo de sangrado.</li><li>No usar antiagregación si se dio trombólisis; esperar 24 h post-alteplasa.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Indicaciones de anticoagulación en cardioembólico",
+      "title": "Anticoagulación cardioembólico",
+      "contentHtml": "<h2>Indicaciones de anticoagulación en cardioembólico</h2><ul><li>Cardioembólico por <b>fibrilación auricular</b> (FA) no valvular: iniciar <b>anticoagulación oral</b> (ACO) con <b>NOAC</b> (apixabán, rivaroxabán, edoxabán, dabigatrán) en lugar de warfarina (INR 2-3).</li><li>Inicio: regla <b>1-3-6-12</b>: ACO a las 24 h si AIT, 3 días si infarto pequeño, 6 días si moderado, 12 días si grande (NIHSS &gt;15 o &gt;1/3 MCA).</li><li>Si FA valvular (prótesis mecánica, estenosis mitral moderada-grave): usar <b>warfarina</b> (INR 2,5-3,5).</li><li>No iniciar ACO si transformación hemorrágica o hipertensión no controlada.</li><li>En <b>trombo VI</b> o <b>IAM con aneurisma</b>: anticoagulación con warfarina o heparina según guías.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Ictus de la circulación anterior vs. posterior",
+      "title": "Circulación anterior vs posterior",
+      "contentHtml": "<h2>Ictus de la circulación anterior vs. posterior</h2><ul><li><b>Circulación anterior</b> (ACI, ACM, ACA): hemiparesia/hemihipoestesia contralateral, afasia (hemisferio dominante), heminegligencia (no dominante), desviación de mirada.</li><li><b>Circulación posterior</b> (vertebral, basilar, PCA, PICA, AICA): vértigo, diplopía, ataxia, disfagia, síndrome de Horner, hemianopsia homónima, alteración de pares craneales bajos.</li><li><b>Signo de malignidad posterior:</b> oclusión de basilar con tetraparesia, coma, parálisis de mirada vertical; mortalidad &gt;80% sin tratamiento.</li><li>Imagen: angio-TC de troncos supraaórticos para anterior; angio-TC o ARM de circulación posterior para vertebrobasilar.</li><li>Terapia endovascular en basilar: ventana hasta 24 h con <b>perfusión mismatch</b>.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Signos de malignidad en infarto cerebral",
+      "title": "Signos de malignidad",
+      "contentHtml": "<h2>Signos de malignidad en infarto cerebral</h2><ul><li><b>Infarto maligno de ACM</b>: &gt;50% del territorio de ACM en TC o RM, con edema cerebral masivo y desplazamiento de línea media &gt;5 mm.</li><li>Criterios clínicos: NIHSS &gt;20 en hemisferio dominante o &gt;15 en no dominante, deterioro del nivel de conciencia en primeras 48 h.</li><li><b>Signo de la cinta insular</b> borrada en TC (hipodensidad de ínsula) es predictor temprano de malignidad.</li><li>Tratamiento: <b>craniectomía descompresiva</b> dentro de las 48 h reduce mortalidad (estudios DECIMAL, DESTINY, HAMLET).</li><li>Edad &lt;60 años y cirugía antes de 48 h mejora pronóstico funcional.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Prevención secundaria: antiagregantes y estatinas",
+      "title": "Prevención secundaria",
+      "contentHtml": "<h2>Prevención secundaria: antiagregantes y estatinas</h2><ul><li>Antiagregación: <b>AAS</b> 75-100 mg/día o <b>clopidogrel</b> 75 mg/día como monoterapia; en ictus menor usar <b>AAS + clopidogrel</b> por 21 días.</li><li>Si cardioembólico: <b>NOAC</b> (dosis ajustada a función renal y peso) o warfarina.</li><li>Estatinas: <b>atorvastatina 80 mg/día</b> (estudio SPARCL) reduce recurrencia independientemente del LDL basal; objetivo LDL &lt;70 mg/dL o reducción ≥50%.</li><li>Manejo de factores de riesgo: HTA (&lt;130/80 mmHg), DM (HbA1c &lt;7%), cesación tabáquica, ejercicio.</li><li>Doble antiagregación prolongada (&gt;90 días) no recomendada por riesgo hemorrágico.</li></ul>"
+    }
+  ]
+}

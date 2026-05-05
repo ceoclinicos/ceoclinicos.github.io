@@ -1,55 +1,36 @@
 {
   "questions": [
     {
-      "question": "Onde ocorre a fase exoeritrocítica hepática da malária?",
-      "options": [
-        "no baço",
-        "nos eritrócitos",
-        "em hepatócitos",
-        "no endotélio vascular"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A fase exoeritrocítica hepática ocorre quando os esporozoítos invadem os hepatócitos, onde se replicam e amadurecem em esquizontes hepáticos.",
-      "hashtags": [
-        "infectologia",
-        "malária",
-        "fisiopatologia",
-        "ciclo_hepático",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual forma parasitária inicia o ciclo exoeritrocítico hepático?",
+      "question": "Qual forma do parasita da malária inicia o ciclo exoeritrocítico hepático?",
       "options": [
         "Merozoíta",
+        "Trofozoíto",
         "Esporozoíto",
-        "Gametócito",
-        "Trofozoíto"
+        "gametócito"
       ],
-      "correctAnswer": 2,
-      "explanation": "O ciclo exoeritrocítico hepático inicia-se com a inoculação de esporozoítos pelo mosquito Anopheles, que migram para o fígado e invadem os hepatócitos.",
+      "correctAnswer": 3,
+      "explanation": "O esporozoíto é a forma infectante inoculada pelo mosquito Anopheles, que migra para o fígado e invade os hepatócitos para iniciar o ciclo exoeritrocítico.",
       "hashtags": [
-        "infectologia",
+        "medicina_interna",
         "malária",
-        "fisiopatologia",
-        "infecção_início",
+        "tabela_clínica",
+        "ciclo_exoeritrocítico",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual é o produto final do esquizonte hepático na malária?",
+      "question": "Qual é o principal produto da fase exoeritrocítica hepática na malária?",
       "options": [
-        "Merozoítos",
-        "Gametócitos",
         "Trofozoítos",
-        "Esporozoítos"
+        "Esporozoítos",
+        "Merozoítos",
+        "Gametócitos"
       ],
-      "correctAnswer": 1,
-      "explanation": "Dentro do hepatócito, o esquizonte hepático amadurece e libera milhares de merozoítos na corrente sanguínea, que invadem os eritrócitos e iniciam a fase eritrocítica.",
+      "correctAnswer": 3,
+      "explanation": "Os esporozoítos se transformam em esquizontes hepáticos que liberam merozoítos na corrente sanguínea, iniciando a fase eritrocítica.",
       "hashtags": [
-        "infectologia",
+        "medicina_interna",
         "malária",
         "fisiopatologia",
         "esquizogonia_hepática",
@@ -58,794 +39,946 @@
       ]
     },
     {
-      "question": "Que espécies de Plasmodium podem permanecer dormentes no fígado?",
+      "question": "Que espécies de Plasmodium podem permanecer dormentes no fígado como hipnozoítas?",
       "options": [
+        "Plasmodium vivax",
         "Plasmodium oval",
+        "Plasmodium falciparum",
+        "Malária por Plasmodium"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plasmodium vivax e Plasmodium ovale produzem hipnozoítos, formas hepáticas latentes que causam recaídas meses ou anos após a infecção inicial.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "etiologia",
+        "hipnozoítas",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Quanto tempo normalmente dura o ciclo exoeritrocítico hepático na malária por Plasmodium falciparum?",
+      "options": [
+        "2 a 3 semanas",
+        "6 a 8 semanas",
+        "24 a 48 horas",
+        "5 a 7 dias"
+      ],
+      "correctAnswer": 4,
+      "explanation": "No Plasmodium falciparum a fase hepática dura aproximadamente 5 a 7 dias, após os quais os merozoítos são liberados na corrente sanguínea.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "fisiopatologia",
+        "duração_fase_hepática",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual medicamento é eficaz contra os hipnozoítos hepáticos do Plasmodium vivax?",
+      "options": [
+        "Cloroquina",
+        "Mefloquina",
+        "Artemisinina",
+        "Primaquina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A primaquina é a droga de escolha para eliminar os hipnozoítos hepáticos, prevenindo recaídas; A cloroquina e a artemisinina não atuam nesta fase.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "tratamento",
+        "primaquina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a consequência imediata da ruptura do esquizonte hepático na malária?",
+      "options": [
+        "Formação de gametócitos",
+        "Liberação de merozoíta",
+        "Invasão de eritrócitos",
+        "Febre e calafrios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A ruptura do esquizonte hepático libera merozoítos na corrente sanguínea, que então invadem os glóbulos vermelhos e iniciam a fase eritrocítica sintomática.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "fisiopatologia",
+        "esquizogonia_hepática",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o principal mecanismo fisiopatológico da malária cerebral por Plasmodium falciparum?",
+      "options": [
+        "Deposição de complexo imunológico",
+        "Trombose venosa cerebral",
+        "Sequestro de eritrócitos cerebrais",
+        "Ruptura maciça de eritrócitos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O sequestro de eritrócitos parasitados na microvasculatura cerebral, mediado por adesinas como a PfEMP1, é o mecanismo central que causa obstrução e dano endotelial na malária cerebral.",
+      "hashtags": [
+        "medicina_interna",
+        "cerebral_malária",
+        "fisiopatologia",
+        "sequestro de eritrócitos",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual achado clínico é característico da malária cerebral por Plasmodium falciparum?",
+      "options": [
+        "Coma com sinais meníngeos",
+        "Febre de Quartan e bradicardia",
+        "Icterícia e dor lombar",
+        "Convulsões e dor de cabeça intensa"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Convulsões e dor de cabeça intensa são manifestações neurológicas comuns na malária cerebral, juntamente com alteração do nível de consciência, embora o coma seja o sinal definidor.",
+      "hashtags": [
+        "medicina_interna",
+        "cerebral_malária",
+        "tabela_clínica",
+        "convulsões",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual parasita é o principal agente etiológico da malária cerebral?",
+      "options": [
+        "Plasmodium vivax",
+        "Plasmodium falciparum",
+        "Malária por Plasmodium",
+        "Plasmodium oval"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Plasmodium falciparum é a espécie que mais frequentemente causa malária cerebral, devido à sua capacidade de sequestro de eritrócitos e citoadesão na microvasculatura cerebral.",
+      "hashtags": [
+        "microbiologia",
+        "plasmódio_falciparum",
+        "conceito",
+        "cerebral_malária",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha para a malária cerebral por Plasmodium falciparum?",
+      "options": [
+        "Artemisinina intravenosa",
+        "Arteméter-lumefantrina oral",
+        "quinino intravenoso",
+        "cloroquina oral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A artemisinina intravenosa (artesunato) é o tratamento de escolha para a malária cerebral grave por Plasmodium falciparum, devido à sua ação rápida e menor mortalidade em comparação ao quinino.",
+      "hashtags": [
+        "medicina_interna",
+        "cerebral_malária",
+        "tratamento",
+        "artesunato_iv",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que complicação neurológica tardia pode ocorrer após a malária cerebral causada por Plasmodium falciparum?",
+      "options": [
+        "Hemiplegia espástica",
+        "Síndrome de Guillain-Barré",
+        "Meningite bacteriana",
+        "Déficit cognitivo residual"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os défices cognitivos residuais, incluindo problemas de memória, atenção e linguagem, são sequelas neurológicas reconhecidas em crianças e adultos que sobrevivem à malária cerebral grave.",
+      "hashtags": [
+        "medicina_interna",
+        "cerebral_malária",
+        "complicações",
+        "déficit_cognitivo",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que característica do Plasmodium falciparum favorece o desenvolvimento da malária cerebral?",
+      "options": [
+        "Resistência à cloroquina",
+        "Produção de hemozoína",
+        "Expressão PfEMP1",
+        "Ciclo exoeritrocítico hepático"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A expressão da proteína PfEMP1 na superfície do eritrócito parasitado permite a adesão ao endotélio cerebral, facilitando o sequestro vascular e a patogênese da malária cerebral.",
+      "hashtags": [
+        "medicina_interna",
+        "cerebral_malária",
+        "fisiopatologia",
+        "pfemp1",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o intervalo típico dos ataques febris na malária por P. vivax?",
+      "options": [
+        "A cada 48 horas",
+        "A cada 72 horas",
+        "A cada 24 horas",
+        "A cada 36 horas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A febre terçã por P. vivax é caracterizada por crises febris que ocorrem a cada 48 horas, coincidindo com a liberação de merozoítos na corrente sanguínea.",
+      "hashtags": [
+        "medicina_interna",
+        "febre_tertian",
+        "tabela_clínica",
+        "periodicidade_febril",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual dos seguintes parasitas causa a febre terçã benigna?",
+      "options": [
+        "Conhecimento de Plasmodium",
         "Plasmodium vivax",
         "Malária por Plasmodium",
         "Plasmodium falciparum"
       ],
       "correctAnswer": 2,
-      "explanation": "Plasmodium vivax e Plasmodium ovale podem formar hipnozoítos nos hepatócitos, permanecendo inativos por meses ou anos e causando recaídas tardias da malária.",
-      "hashtags": [
-        "infectologia",
-        "malária",
-        "fisiopatologia",
-        "hipnozoítas",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual medicamento é eficaz contra hipnozoítos hepáticos?",
-      "options": [
-        "Artemisinina",
-        "Cloroquina",
-        "Primaquina",
-        "Mefloquina"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A primaquina é a droga de escolha para eliminar os hipnozoítos hepáticos de P. vivax e P. ovale, prevenindo recaídas a longo prazo no tratamento da malária.",
-      "hashtags": [
-        "farmacologia",
-        "antimaláricos",
-        "tratamento",
-        "hipnozoítas",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Quanto tempo normalmente dura a fase exoeritrocítica hepática em P. falciparum?",
-      "options": [
-        "10 a 14 dias",
-        "5 a 7 dias",
-        "2 a 3 meses",
-        "3 a 4 semanas"
-      ],
-      "correctAnswer": 2,
-      "explanation": "No P. falciparum, a fase hepática dura aproximadamente 5 a 7 dias, após os quais os merozoítos são liberados na corrente sanguínea para iniciar a fase eritrocítica.",
-      "hashtags": [
-        "infectologia",
-        "malária",
-        "fisiopatologia",
-        "duração_fígado",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o principal fator de virulência do Plasmodium falciparum na malária grave?",
-      "options": [
-        "Adesão ao endotélio",
-        "formação de esporos",
-        "Resistência à cloroquina",
-        "Produção de hemolisinas"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A adesão de eritrócitos infectados ao endotélio vascular através das proteínas PfEMP1 causa obstrução microvascular, fundamental na malária grave.",
-      "hashtags": [
-        "medicina_interna",
-        "malária_grave",
-        "fisiopatologia",
-        "citoaderência",
-        "MEDICAL_TOPIC",
-        "Guia da OMS 2023"
-      ]
-    },
-    {
-      "question": "Qual achado clínico é característico da malária grave por Plasmodium falciparum?",
-      "options": [
-        "Anemia hemolítica leve",
-        "Disfunção de múltiplos órgãos",
-        "Febre terçã benigna",
-        "Esplenomegalia crônica"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A malária grave por P. falciparum apresenta disfunção de múltiplos órgãos, incluindo coma, insuficiência renal e acidose metabólica.",
-      "hashtags": [
-        "medicina_interna",
-        "malária_grave",
-        "tabela_clínica",
-        "disfunção_orgânica",
-        "MEDICAL_TOPIC",
-        "Harrison 21 anos"
-      ]
-    },
-    {
-      "question": "Qual é o tratamento de escolha para a malária grave por Plasmodium falciparum?",
-      "options": [
-        "mefloquina oral",
-        "cloroquina oral",
-        "Artemisinina intravenosa",
-        "primaquina oral"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A artemisinina intravenosa é o tratamento de primeira linha para a malária grave, devido à sua rápida acção e eficácia contra o P. falciparum.",
-      "hashtags": [
-        "medicina_interna",
-        "malária_grave",
-        "tratamento",
-        "artemisinina_iv",
-        "MEDICAL_TOPIC",
-        "Guia da OMS 2023"
-      ]
-    },
-    {
-      "question": "Qual complicação neurológica é clássica da malária grave por Plasmodium falciparum?",
-      "options": [
-        "Encefalopatia malárica",
-        "Meningite bacteriana",
-        "Polineuropatia desmielinizante",
-        "abscesso cerebral"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A encefalopatia malárica, caracterizada por alteração do nível de consciência e convulsões, é uma complicação típica da malária grave.",
-      "hashtags": [
-        "medicina_interna",
-        "malária_grave",
-        "complicações",
-        "malárica_encefalopatia",
-        "MEDICAL_TOPIC",
-        "Harrison 21 anos"
-      ]
-    },
-    {
-      "question": "Qual mecanismo fisiopatológico contribui para a malária grave por Plasmodium falciparum?",
-      "options": [
-        "Trombocitopenia destrutiva",
-        "Sequestro microvascular de eritrócitos",
-        "Hiperesplenismo autoimune",
-        "Hemólise intravascular maciça"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O sequestro de eritrócitos infectados na microvasculatura do cérebro e de outros órgãos causa hipóxia tecidual e falência de órgãos.",
-      "hashtags": [
-        "medicina_interna",
-        "malária_grave",
-        "fisiopatologia",
-        "sequestro de eritrócitos",
-        "MEDICAL_TOPIC",
-        "Guia da OMS 2023"
-      ]
-    },
-    {
-      "question": "Que teste confirma a malária grave por Plasmodium falciparum?",
-      "options": [
-        "Reação em cadeia da polimerase",
-        "Sorologia para anticorpos",
-        "Queda espessa positiva",
-        "Hemocultura periférica"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O esfregaço espesso é o padrão-ouro para o diagnóstico da malária, permitindo a identificação da espécie e a quantificação da parasitemia.",
-      "hashtags": [
-        "medicina_interna",
-        "malária_grave",
-        "diagnóstico",
-        "gota_grossa",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a forma mais antiga de Plasmodium visível no esfregaço de sangue?",
-      "options": [
-        "Trofozoíto maduro",
-        "Esquizonte",
-        "anel intraeritrocitário",
-        "Gametócito"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O anel intraeritrocitário é a forma inicial do trofozoíto jovem observado no esfregaço de sangue, característico do diagnóstico precoce da malária.",
-      "hashtags": [
-        "medicina_interna",
-        "malária",
-        "tabela_clínica",
-        "anel_intraeritrocítico",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual estrutura do anel intraeritrocítico permite diferenciar as espécies de Plasmodium?",
-      "options": [
-        "citoplasma vacuolizado",
-        "membrana nuclear",
-        "Flagelo apical",
-        "Cromatina e citoplasma"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A morfologia da cromatina e do citoplasma do anel intraeritrocitário auxilia na diferenciação de espécies como P. falciparum e P. vivax no esfregaço de sangue.",
+      "explanation": "Plasmodium vivax e Plasmodium ovale são os agentes causadores da febre terçã benigna, com ciclos de 48 horas, ao contrário do P. falciparum, que causa a febre terçã maligna.",
       "hashtags": [
         "parasitologia",
         "malária",
-        "diagnóstico",
-        "morfologia do anel",
+        "conceito",
+        "espécie_plasmódio",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Em que fase do ciclo do Plasmodium é observado o anel intraeritrocítico?",
+      "question": "Qual forma parasitária é responsável pelas recidivas da malária por P. vivax?",
       "options": [
-        "Fase sexual no mosquito",
-        "Trofozoíto jovem em eritrócito",
-        "Formação de esporozoítos",
-        "Esquizogonia exoeritrocítica"
+        "Merozoíta",
+        "Trofozoíto",
+        "Esquizonte",
+        "Hipnozoíta"
       ],
-      "correctAnswer": 2,
-      "explanation": "O anel intraeritrocitário corresponde ao trofozoíto jovem, primeiro estágio do desenvolvimento intraeritrocitário do Plasmodium após a invasão da hemácia.",
+      "correctAnswer": 4,
+      "explanation": "Os hipnozoítos são formas intra-hepáticas latentes de P. vivax e P. ovale que podem ser reativadas semanas ou meses depois, causando recidivas clínicas da doença.",
       "hashtags": [
         "parasitologia",
         "malária",
         "ciclo_biológico",
-        "trofozoíto jovem",
+        "hipnozoíta",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual espécie de Plasmodium geralmente apresenta múltiplos anéis intraeritrocíticos no mesmo eritrócito?",
+      "question": "Qual o tratamento de escolha para eliminar os hipnozoítos do P. vivax?",
       "options": [
-        "Malária por Plasmodium",
-        "Plasmodium vivax",
-        "Plasmodium falciparum",
-        "Plasmodium oval"
-      ],
-      "correctAnswer": 3,
-      "explanation": "P. falciparum frequentemente apresenta múltiplos anéis intraeritrocíticos (alta parasitemia) no mesmo eritrócito, ao contrário de outras espécies com menos anéis.",
-      "hashtags": [
-        "medicina_interna",
-        "malária",
-        "diagnóstico",
-        "plasmódio_falciparum",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a coloração de escolha para visualizar anéis intraeritrocíticos em esfregaços de sangue?",
-      "options": [
-        "Mancha de Giemsa",
-        "Mancha de Wright",
-        "Coloração de Ziehl-Neelsen",
-        "Coloração de Gram"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A coloração de Giemsa é o método padrão para identificar anéis intraeritrocíticos de Plasmodium em esfregaços de sangue, permitindo a diferenciação das espécies pela morfologia.",
-      "hashtags": [
-        "medicina_interna",
-        "malária",
-        "diagnóstico",
-        "tincion_giemsa",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que resultados adicionais de esfregaço sugerem malária grave por P. falciparum?",
-      "options": [
-        "Múltiplos anéis intraeritrocíticos",
-        "Anéis com cromatina excêntrica",
-        "Gametócitos em forma de lua",
-        "Esquizontes com merozoítos"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A presença de múltiplos anéis intraeritrocíticos em um eritrócito indica alta parasitemia, uma característica da malária grave por P. falciparum, associada a um mau prognóstico.",
-      "hashtags": [
-        "medicina_interna",
-        "malária",
-        "complicações",
-        "alta_parasitemia",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o período de incubação típico da febre quartan por Plasmodium malariae?",
-      "options": [
-        "60 a 90 dias",
-        "1 a 3 dias",
-        "18 a 40 dias",
-        "7 a 14 dias"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O período de incubação do Plasmodium malariae é de 18 a 40 dias, superior ao de outras espécies de Plasmodium, o que contribui para a sua apresentação clínica característica.",
-      "hashtags": [
-        "medicina_tropical",
-        "febre_quartan",
-        "conceito",
-        "período de incubação",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que padrão febril caracteriza a febre quartã causada por Plasmodium malariae?",
-      "options": [
-        "Febre diária a cada 24 horas",
-        "Febre irregular sem periodicidade",
-        "Febre de Quartã a cada 72 horas",
-        "Febre terçã a cada 48 horas"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A febre de Quartan ocorre a cada 72 horas devido ao ciclo eritrocitário de 72 horas do Plasmodium malariae, ao contrário de outras espécies com ciclos mais curtos.",
-      "hashtags": [
-        "medicina_tropical",
-        "febre_quartan",
-        "tabela_clínica",
-        "padrão_febre",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o principal mecanismo fisiopatológico da anemia na malária por Plasmodium malariae?",
-      "options": [
-        "Destruição de eritrócitos senescentes",
-        "Sequestro esplênico de eritrócitos",
-        "Inibição da eritropoiese espinhal",
-        "Hemólise intravascular maciça"
-      ],
-      "correctAnswer": 1,
-      "explanation": "O Plasmodium malariae invade preferencialmente os eritrócitos senescentes, levando à sua destruição acelerada e anemia, sem causar hemólise maciça ou sequestro esplênico significativo.",
-      "hashtags": [
-        "medicina_tropical",
-        "febre_quartan",
-        "fisiopatologia",
-        "anemia_senescent_eritrócitos",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que complicação renal está classicamente associada à infecção crónica por Plasmodium malariae?",
-      "options": [
-        "Nefrite intersticial aguda",
-        "Síndrome nefrótica",
-        "Necrose tubular aguda",
-        "Glomerulonefrite membranosa"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A infecção crónica por Plasmodium malariae pode desencadear uma síndrome nefrótica devido à deposição de complexos imunes no glomérulo, especialmente em crianças em áreas endémicas.",
-      "hashtags": [
-        "medicina_tropical",
-        "febre_quartan",
-        "complicações",
-        "síndrome_nefrótica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o tratamento de escolha para a malária não complicada pelo Plasmodium malariae?",
-      "options": [
-        "Primaquina",
-        "Doxiciclina",
+        "Mefloquina",
         "Arteméter-lumefantrina",
+        "Primaquina",
         "Cloroquina"
       ],
-      "correctAnswer": 4,
-      "explanation": "O Plasmodium malariae é sensível à cloroquina, portanto este medicamento continua sendo o tratamento de escolha para infecções não complicadas, ao contrário de outras espécies resistentes.",
-      "hashtags": [
-        "medicina_tropical",
-        "febre_quartan",
-        "tratamento",
-        "cloroquina",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que achado parasitológico diferencia o Plasmodium malariae de outras espécies no esfregaço de sangue periférico?",
-      "options": [
-        "Formas de anel com cromatina dupla",
-        "Formas de banda ou barra",
-        "Gametócitos em forma de crescente",
-        "Esquizontes com 16 a 32 merozoítos"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Plasmodium malariae apresenta formas de faixa ou barra em trofozoítos maduros, um achado distinto que ajuda a diferenciá-lo de outras espécies de Plasmodium no esfregaço de sangue.",
-      "hashtags": [
-        "medicina_tropical",
-        "febre_quartan",
-        "diagnóstico",
-        "band_shapes",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual estrutura do Plasmodium vivax permite recaídas tardias?",
-      "options": [
-        "Gametócitos",
-        "Esquizontes hepáticos",
-        "Hipnozoítas",
-        "Trofozoítos"
-      ],
       "correctAnswer": 3,
-      "explanation": "Os hipnozoítos são formas intra-hepáticas latentes de Plasmodium vivax e ovale que podem ser reativadas semanas ou meses depois, causando recidivas clínicas.",
+      "explanation": "A primaquina é o medicamento de escolha para a erradicação dos hipnozoítos hepáticos de P. vivax e P. ovale, prevenindo assim as recaídas da malária terçã.",
       "hashtags": [
-        "medicina_interna",
+        "farmacologia",
         "malária",
-        "fisiopatologia",
-        "hipnozoítas",
+        "tratamento",
+        "primaquina",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual é o único plasmódio humano que forma hipnozoítas?",
+      "question": "Que espécie de Plasmodium tem ciclo febril terciário, mas com febre quartã?",
       "options": [
+        "Plasmodium oval",
         "Plasmodium falciparum",
         "Malária por Plasmodium",
-        "Conhecimento de Plasmodium",
         "Plasmodium vivax"
       ],
-      "correctAnswer": 4,
-      "explanation": "Plasmodium vivax e Plasmodium ovale são as duas espécies produtoras de hipnozoítos hepáticos, responsáveis ​​pelas recidivas; falciparum, malariae e knowlesi não os formam.",
+      "correctAnswer": 3,
+      "explanation": "Plasmodium malariae causa febre quartã (a cada 72 horas), ao contrário de P. vivax e P. ovale que causam febre terçã (a cada 48 horas), portanto a afirmação está incorreta para o contexto.",
+      "hashtags": [
+        "medicina_interna",
+        "febre_tertian",
+        "diagnóstico",
+        "ciclo_febril",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual dos seguintes achados é característico do esfregaço de sangue periférico na malária por P. vivax?",
+      "options": [
+        "gametócitos em forma de banana",
+        "Eritrócitos parasitados aumentados",
+        "Parasitas em forma de faixa",
+        "Múltiplos formatos de anéis por eritrócito"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Na malária por P. vivax, os eritrócitos parasitados geralmente estão aumentados (macrócitos), ao contrário do P. falciparum, que possui múltiplos formatos de anéis e gametócitos de banana.",
       "hashtags": [
         "microbiologia",
         "malária",
-        "conceito",
-        "espécie_plasmódio",
+        "laboratório_id",
+        "mancha de sangue",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual medicamento é eficaz na eliminação de hipnozoítos hepáticos?",
+      "question": "Qual é o principal mecanismo fisiopatológico da anemia na malária por Plasmodium falciparum?",
       "options": [
-        "Primaquina",
-        "Cloroquina",
-        "Artemisinina",
-        "Mefloquina"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A primaquina é a droga de escolha para a erradicação dos hipnozoítos hepáticos de P. vivax e P. ovale, prevenindo recidivas; A cloroquina e a artemisinina atuam na fase sanguínea.",
-      "hashtags": [
-        "farmacologia",
-        "malária",
-        "indicações",
-        "primaquina",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a localização anatômica dos hipnozoítos?",
-      "options": [
-        "eritrócitos maduros",
-        "endotélio vascular",
-        "Hepatócitos",
-        "Esplenócitos"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Os hipnozoítos permanecem latentes nos hepatócitos, sem se replicarem ativamente, até serem reativados e iniciarem a fase eritrocítica da infecção.",
-      "hashtags": [
-        "medicina_interna",
-        "malária",
-        "fisiopatologia",
-        "localização_do_fígado",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que evento desencadeia a reativação do hipnozoíta?",
-      "options": [
-        "picada de mosquito",
-        "desconhecido exatamente",
-        "estresse imunológico",
-        "Febre alta"
+        "deficiência de ferro",
+        "hemólise intravascular",
+        "Hemólise extravascular",
+        "aplasia espinhal"
       ],
       "correctAnswer": 2,
-      "explanation": "O mecanismo preciso de reativação dos hipnozoítos não é completamente conhecido, embora esteja associado a fatores como imunossupressão ou alterações hormonais; Não depende diretamente de uma nova mordida.",
+      "explanation": "A ruptura direta dos eritrócitos durante a esquizogonia produz hemólise intravascular, liberando hemoglobina no plasma e contribuindo para a anemia aguda.",
       "hashtags": [
         "medicina_interna",
-        "malária",
+        "Anemia_hemolítica_devido à ruptura_de_eritrocitos",
         "fisiopatologia",
-        "reativação",
+        "hemólise_intravascular",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Por quanto tempo os hipnozoítas podem persistir no fígado?",
+      "question": "Qual achado laboratorial é característico da anemia hemolítica da malária?",
       "options": [
-        "meses a anos",
-        "Semanas a meses",
-        "horas para dias",
-        "dias a semanas"
+        "Aumento da bilirrubina indireta",
+        "Diminuição de reticulócitos",
+        "LDH diminuído",
+        "Aumento da haptoglobina"
       ],
       "correctAnswer": 1,
-      "explanation": "Os hipnozoítos de P. vivax e P. ovale podem permanecer inativos no fígado por meses ou até anos, causando recaídas tardias se não forem tratados com primaquina.",
+      "explanation": "A hemólise dos eritrócitos aumenta a bilirrubina indireta devido à degradação do heme, juntamente com um aumento na LDH e nos reticulócitos e uma diminuição na haptoglobina.",
       "hashtags": [
         "medicina_interna",
-        "malária",
-        "fisiopatologia",
-        "fígado_persistência",
+        "Anemia_hemolítica_devido à ruptura_de_eritrocitos",
+        "diagnóstico",
+        "bilirrubina indireta",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual é o mecanismo de ação da primaquina contra a malária?",
+      "question": "Que complicação aguda pode desencadear hemólise maciça na malária grave?",
       "options": [
-        "Bloqueia a síntese de folato",
-        "Inibe a polimerase do parasita",
-        "Altera a membrana eritrocitária",
-        "Elimina hipnozoítos hepáticos"
+        "Infarto esplênico",
+        "Síndrome nefrótica",
+        "Cirrose hepática",
+        "Insuficiência renal aguda"
       ],
       "correctAnswer": 4,
-      "explanation": "A primaquina atua eliminando os hipnozoítos hepáticos de Plasmodium vivax e ovale, prevenindo recaídas tardias da malária.",
+      "explanation": "A hemoglobina livre obstrui os túbulos renais e causa necrose tubular aguda, levando à insuficiência renal aguda na malária falciparum grave.",
       "hashtags": [
         "medicina_interna",
-        "malária",
-        "tratamento",
-        "primaquina",
+        "Anemia_hemolítica_devido à ruptura_de_eritrocitos",
+        "complicações",
+        "insuficiência_renal aguda",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Que espécie de Plasmodium requer primaquina para evitar recaídas?",
-      "options": [
-        "Plasmodium falciparum",
-        "Plasmodium vivax",
-        "Conhecimento de Plasmodium",
-        "Malária por Plasmodium"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O Plasmodium vivax forma hipnozoítos hepáticos dormentes e a primaquina é necessária para eliminá-los e prevenir recaídas, ao contrário do P. falciparum.",
-      "hashtags": [
-        "medicina_interna",
-        "malária",
-        "tabela_clínica",
-        "espécie_plasmódio",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é um efeito colateral grave da primaquina?",
-      "options": [
-        "Hepatotoxicidade grave",
-        "Cardiotoxicidade devido ao QT longo",
-        "Hemólise na deficiência de G6PD",
-        "Nefrite intersticial aguda"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A primaquina pode causar hemólise aguda em pacientes com deficiência de glicose-6-fosfato desidrogenase (G6PD), um efeito adverso potencialmente grave.",
-      "hashtags": [
-        "farmacologia",
-        "malária",
-        "efeitos_adversos",
-        "déficit_g6pd",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual estágio do parasita é eliminado pela primaquina?",
-      "options": [
-        "hipnozoíta hepático",
-        "esquizonte de fígado",
-        "gametócito eritrocitário",
-        "trofozoíto sanguíneo"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A primaquina é o único medicamento antimalárico que elimina hipnozoítos hepáticos latentes, responsáveis ​​por recidivas nas infecções por P. vivax e P. ovale.",
-      "hashtags": [
-        "medicina_interna",
-        "malária",
-        "fisiopatologia",
-        "ciclo_de_vida_plasmódio",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual a principal indicação da primaquina?",
-      "options": [
-        "Profilaxia em viajantes para áreas endêmicas",
-        "Prevenção de recaídas por P. vivax",
-        "Terapia combinada para malária grave",
-        "Tratamento da malária não complicada"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A primaquina é usada principalmente para a erradicação de hipnozoítos hepáticos e prevenção de recaídas em infecções por Plasmodium vivax e ovale.",
-      "hashtags": [
-        "farmacologia",
-        "malária",
-        "indicações",
-        "prevenção_recaída",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual enzima deve ser avaliada antes de administrar primaquina?",
-      "options": [
-        "Glicose-6-fosfato desidrogenase",
-        "Colinesterase plasmática",
-        "Citocromo P450 2D6",
-        "Aldeído desidrogenase"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Antes de administrar primaquina é obrigatória a avaliação da atividade da G6PD para evitar hemólise aguda, efeito adverso grave em pacientes com deficiência desta enzima.",
-      "hashtags": [
-        "farmacologia",
-        "malária",
-        "contra-indicações",
-        "déficit_g6pd",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é o tratamento de primeira linha para a malária não complicada por Plasmodium falciparum?",
+      "question": "Qual tratamento antimalárico é indicado na anemia hemolítica grave por P. falciparum?",
       "options": [
         "Arteméter-lumefantrina",
-        "Primaquina",
-        "Doxiciclina",
-        "Cloroquina"
+        "Primaquina sozinha",
+        "doxiciclina oral",
+        "cloroquina oral"
       ],
       "correctAnswer": 1,
-      "explanation": "Arteméter-lumefantrina é uma terapia combinada à base de artemisinina (ACT) recomendada como primeira linha para malária não complicada por P. falciparum, devido à sua alta eficácia e baixa resistência.",
+      "explanation": "Arteméter-lumefantrina é um tratamento de primeira linha para a malária não complicada por P. falciparum, controlando a parasitemia e interrompendo a hemólise.",
       "hashtags": [
         "medicina_interna",
-        "malária",
+        "Anemia_hemolítica_devido à ruptura_de_eritrocitos",
         "tratamento",
-        "combinado_artemisinina",
+        "artemeter_lumefantrine",
         "MEDICAL_TOPIC",
-        "OMS 2023"
+        ""
       ]
     },
     {
-      "question": "Qual é o principal mecanismo que explica a rapidez de ação das artemisininas na malária?",
+      "question": "Qual fator de virulência do Plasmodium falciparum promove a ruptura de eritrócitos?",
       "options": [
-        "Geração de radicais livres",
-        "Ligação à subunidade ribossômica",
-        "Inibição da síntese proteica",
-        "Bloqueando a síntese de folato"
-      ],
-      "correctAnswer": 1,
-      "explanation": "As artemisininas contêm uma ponte endoperóxido que, quando ativada pelo ferro do parasita, gera radicais livres que danificam proteínas e membranas, eliminando rapidamente as fases assexuadas.",
-      "hashtags": [
-        "farmacologia",
-        "malária",
-        "mecanismo_de_ação",
-        "artemisininas",
-        "MEDICAL_TOPIC",
-        "Goodman e Gilman 14ª edição"
-      ]
-    },
-    {
-      "question": "Qual é a principal vantagem do uso da terapia combinada com artemisinina (ACT) versus monoterapia?",
-      "options": [
-        "Menor custo de produção",
-        "Reduzindo o risco de resistência",
-        "Remoção de hipnozoítos",
-        "Maior biodisponibilidade oral"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A combinação de um derivado da artemisinina de ação rápida com outro medicamento de meia-vida mais longa reduz a probabilidade de seleção de parasitas resistentes, uma vez que a monoterapia favorece o surgimento de cepas resistentes.",
-      "hashtags": [
-        "medicina_interna",
-        "malária",
-        "tratamento",
-        "resistência_antimalárica",
-        "MEDICAL_TOPIC",
-        "Guia da OMS 2022"
-      ]
-    },
-    {
-      "question": "Qual dos seguintes medicamentos está tipicamente associado à artemisinina em combinação para malária falciparum não complicada?",
-      "options": [
-        "Sulfadoxina-pirimetamina",
-        "Cloroquina",
-        "Primaquina",
-        "Mefloquina"
+        "Parede celular de quitina",
+        "Flagelina bacteriana",
+        "toxina tetânica",
+        "PfEMP1 na superfície"
       ],
       "correctAnswer": 4,
-      "explanation": "A mefloquina é um dos medicamentos associados à artemisinina em combinações fixas (como arteméter-lumefantrina ou artesunato-mefloquina) para tratar a malária não complicada por P. falciparum, especialmente em regiões sem resistência.",
+      "explanation": "A proteína PfEMP1 medeia a adesão de eritrócitos infectados ao endotélio, impedindo a depuração esplênica e facilitando a ruptura durante a esquizogonia.",
       "hashtags": [
-        "farmacologia",
-        "malária",
-        "posologia",
-        "terapia_combinada",
+        "medicina_interna",
+        "Anemia_hemolítica_devido à ruptura_de_eritrocitos",
+        "fisiopatologia",
+        "pfemp1",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a consequência direta da degradação dos eritrócitos na microcirculação?",
+      "options": [
+        "Hipertensão pulmonar",
+        "Hipóxia do tecido distal",
+        "trombose venosa profunda",
+        "Edema cerebral difuso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A hemólise reduz a capacidade de transporte de oxigênio, gerando hipóxia nos tecidos distais, principalmente em órgãos como rim e cérebro.",
+      "hashtags": [
+        "medicina_interna",
+        "Anemia_hemolítica_devido à ruptura_de_eritrocitos",
+        "fisiopatologia",
+        "tecido_hipóxia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o principal mecanismo da hipoglicemia de quinino na malária?",
+      "options": [
+        "Estimulação de insulinoma",
+        "Aumento do cortisol",
+        "Secreção excessiva de insulina",
+        "Bloqueio de glucagon"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A quinina estimula a secreção de insulina pelas células beta pancreáticas, o que pode causar hipoglicemia grave, especialmente em pacientes com malária grave.",
+      "hashtags": [
+        "medicina_interna",
+        "hipoglicemia_como_complicação_do_tratamento",
+        "tratamento",
+        "quinina",
         "MEDICAL_TOPIC",
         "Harrison 21 anos"
       ]
     },
     {
-      "question": "Qual critério clínico contra-indica o uso de terapia combinada com artemisinina para malária?",
+      "question": "Qual medicamento antimalárico está associado a um maior risco de hipoglicemia?",
       "options": [
-        "Coinfecção por HIV",
-        "Malária grave ou complicada",
-        "Idade acima de 65 anos",
-        "Gravidez no primeiro trimestre"
+        "Arteméter-lumefantrina",
+        "Cloroquina",
+        "Mefloquina",
+        "Quinina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A quinina é o antimalárico que mais frequentemente causa hipoglicemia devido ao seu efeito estimulante da secreção de insulina, ao contrário de outros medicamentos como a cloroquina ou a mefloquina.",
+      "hashtags": [
+        "farmacologia",
+        "hipoglicemia_como_complicação_do_tratamento",
+        "efeitos_adversos",
+        "quinina",
+        "MEDICAL_TOPIC",
+        "Guia da OMS 2023"
+      ]
+    },
+    {
+      "question": "Na malária grave, a hipoglicemia induzida por quinino manifesta-se tipicamente como:",
+      "options": [
+        "Convulsões e coma",
+        "Hipertermia e taquicardia",
+        "Bradicardia e midríase",
+        "Hipertensão e polidipsia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A hipoglicemia grave devido ao quinino pode causar sintomas neuroglicopênicos, como convulsões e coma, que podem ser confundidos com a própria malária cerebral, dificultando o diagnóstico.",
+      "hashtags": [
+        "medicina_interna",
+        "hipoglicemia_como_complicação_do_tratamento",
+        "tabela_clínica",
+        "sintomas_neuroglicopênicos",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual grupo de pacientes com malária corre maior risco de hipoglicemia devido ao quinino?",
+      "options": [
+        "Idosos com diabetes",
+        "mulheres grávidas",
+        "Adultos hipertensos",
+        "Crianças menores de 5 anos"
       ],
       "correctAnswer": 2,
-      "explanation": "A terapia combinada com artemisinina é indicada para malária não complicada; Na malária grave, é necessário tratamento intravenoso com artesunato, uma vez que a via oral não garante níveis terapêuticos rápidos em pacientes com disfunção orgânica.",
+      "explanation": "As mulheres grávidas com malária apresentam risco aumentado de hipoglicemia por quinino devido a alterações fisiológicas no metabolismo da glicose e ao aumento da sensibilidade à insulina.",
+      "hashtags": [
+        "medicina_interna",
+        "hipoglicemia_como_complicação_do_tratamento",
+        "epidemiologia",
+        "gravidez",
+        "MEDICAL_TOPIC",
+        "Guia da OMS 2023"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento inicial da hipoglicemia devido ao quinino na malária?",
+      "options": [
+        "Infusão de dextrose a 10%",
+        "Administrar glucagon subcutâneo",
+        "Iniciar corticosteróides intravenosos",
+        "Suspenda o quinino imediatamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A administração intravenosa de dextrose a 10% é o tratamento de escolha para correção da hipoglicemia aguda, mantendo a quinina se necessário para controle do parasita.",
+      "hashtags": [
+        "medicina_interna",
+        "hipoglicemia_como_complicação_do_tratamento",
+        "tratamento",
+        "dextrose",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed --- Guia da OMS 2023"
+      ]
+    },
+    {
+      "question": "Qual achado laboratorial confirma a hipoglicemia induzida por quinina?",
+      "options": [
+        "Hemoglobina glicada elevada",
+        "Diminuição da insulinemia basal",
+        "Corpos cetônicos na urina",
+        "Glicose sérica inferior a 70 mg/dL"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A hipoglicemia é bioquimicamente definida como glicose sérica inferior a 70 mg/dL e, no contexto do tratamento com quinina, deve ser suspeitada mesmo que o paciente seja assintomático.",
+      "hashtags": [
+        "medicina_interna",
+        "hipoglicemia_como_complicação_do_tratamento",
+        "diagnóstico",
+        "soro_glicose",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o principal mecanismo de ação da artemisinina?",
+      "options": [
+        "Altera a membrana do trofozoíto",
+        "Gera radicais livres de oxigênio",
+        "Bloqueia a RNA polimerase",
+        "Inibe a síntese de folato"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A artemisinina atua gerando radicais livres de oxigênio ao reagir com o ferro do grupo heme, danificando proteínas e membranas do parasita.",
       "hashtags": [
         "medicina_interna",
         "malária",
-        "contra-indicações",
-        "malária_grave",
+        "farmacologia",
+        "mecanismo_de_ação",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual o papel da lumefantrina na terapia combinada?",
+      "options": [
+        "Atua como agente esquizonticida tardio",
+        "Previne recaídas devido a hipnozoítos",
+        "Inibe a síntese de ácidos nucléicos",
+        "Potencializa a ação da artemisinina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A lumefantrina é um esquizonticida sanguíneo de ação prolongada que elimina parasitas residuais após a ação rápida da artemisinina.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "farmacologia",
+        "farmacodinâmica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual a principal indicação da artemisinina-lumefantrina?",
+      "options": [
+        "Malária não complicada por P. falciparum",
+        "Profilaxia da malária em viajantes",
+        "Malária grave por Plasmodium falciparum",
+        "Tratamento da malária por P. vivax"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A artemisinina-lumefantrina é o tratamento de primeira linha para a malária não complicada por Plasmodium falciparum em regiões endémicas.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "tratamento",
+        "terapia_combinada",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é um efeito colateral comum da artemisinina-lumefantrina?",
+      "options": [
+        "Hepatotoxicidade grave",
+        "Prolongamento do intervalo QT",
+        "Insuficiência renal aguda",
+        "Anemia hemolítica grave"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A lumefantrina pode prolongar o intervalo QT, por isso deve ser evitada em pacientes com distúrbios de condução cardíaca ou em uso de medicamentos que o potencializem.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "efeitos_adversos",
+        "cardiotoxicidade",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que parasita causa a malária tratada com artemisinina-lumefantrina?",
+      "options": [
+        "Plasmodium vivax",
+        "Plasmodium falciparum",
+        "Plasmodium oval",
+        "Malária por Plasmodium"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Artemisinina-lumefantrina é indicada principalmente contra Plasmodium falciparum, espécie mais letal e resistente a outros antimaláricos.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "tabela_clínica",
+        "espécie_parasita",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual recomendação dietética está associada à administração de artemisinina-lumefantrina?",
+      "options": [
+        "Sirva com suco de toranja",
+        "Rápido absoluto por duas horas",
+        "Evite alimentos ricos em vitamina C",
+        "Tomar com leite ou alimentos gordurosos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os alimentos gordurosos aumentam a absorção da lumefantrina, melhorando a sua biodisponibilidade e eficácia terapêutica no tratamento da malária.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "farmacocinética",
+        "absorção",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o método de escolha para diagnosticar a malária em áreas endémicas?",
+      "options": [
+        "PCR em tempo real",
+        "hemocultura",
+        "Sorologia IgM",
+        "gota grossa"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O esfregaço espesso é a técnica padrão ouro na área devido à sua alta sensibilidade para detectar parasitas mesmo com baixa parasitemia, permitindo um diagnóstico rápido e econômico.",
+      "hashtags": [
+        "medicina_tropical",
+        "malária",
+        "diagnóstico",
+        "gota_grossa",
+        "MEDICAL_TOPIC",
+        "Guia da OMS 2023"
+      ]
+    },
+    {
+      "question": "Que coloração é usada para identificar o Plasmodium no esfregaço de sangue?",
+      "options": [
+        "Coloração de Ziehl-Neelsen",
+        "Coloração de Gram",
+        "Mancha de Wright",
+        "Mancha de Giemsa"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A coloração de Giemsa é a mais utilizada para o diagnóstico microscópico da malária, pois cora o núcleo e o citoplasma do parasita, facilitando a diferenciação das espécies de Plasmodium.",
+      "hashtags": [
+        "microbiologia",
+        "malária",
+        "diagnóstico",
+        "tincion_giemsa",
         "MEDICAL_TOPIC",
         "OMS 2023"
       ]
     },
     {
-      "question": "Qual é a duração padrão do tratamento com arteméter-lumefantrina na malária falciparum não complicada?",
+      "question": "Qual é a principal vantagem do esfregaço espesso em relação ao esfregaço fino na malária?",
       "options": [
-        "14 dias",
-        "5 dias",
-        "3 dias",
-        "7 dias"
+        "Menor tempo de coloração",
+        "Identificar espécies",
+        "Maior sensibilidade",
+        "Requer menos sangue"
       ],
       "correctAnswer": 3,
-      "explanation": "O regime arteméter-lumefantrina é administrado durante 3 dias (seis doses no total), com base na farmacocinética de ambos os medicamentos para garantir a eliminação completa dos parasitas assexuados e reduzir o risco de recaída.",
+      "explanation": "O esfregaço espesso concentra maior volume de sangue, o que aumenta a sensibilidade para detectar parasitemias baixas, embora não permita identificar a espécie com tanta precisão quanto o esfregaço fino.",
       "hashtags": [
-        "medicina_interna",
+        "medicina_tropical",
         "malária",
-        "posologia",
-        "artemeter_lumefantrine",
+        "diagnóstico",
+        "espessura_drop_sensibilidade",
         "MEDICAL_TOPIC",
-        "Guia da OMS 2022"
+        "Guia da OMS 2023"
       ]
     },
     {
-      "question": "Qual é o principal mecanismo da anemia hemolítica na malária crónica?",
+      "question": "Que achado no esfregaço fino permite diferenciar o Plasmodium falciparum de outras espécies?",
       "options": [
-        "Sequestro esplênico de eritrócitos",
-        "Deficiência de glicose-6-fosfato desidrogenase",
-        "Eritropoiese espinhal ineficaz",
-        "Hemólise por autoanticorpos"
+        "Trofozoítos amebóides",
+        "Gametócitos em forma de crescente",
+        "Vários formatos de anel",
+        "Esquizontes na banana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Os gametócitos em forma de lua crescente (banana) são característicos do Plasmodium falciparum, enquanto outras espécies apresentam gametócitos arredondados, facilitando a identificação microscópica.",
+      "hashtags": [
+        "microbiologia",
+        "malária",
+        "diagnóstico",
+        "gametócitos_falciparum",
+        "MEDICAL_TOPIC",
+        "OMS 2023"
+      ]
+    },
+    {
+      "question": "Qual é a parasitemia mínima detectável por esfregaço espesso em condições ideais?",
+      "options": [
+        "5.000 parasitas/μL",
+        "5 parasitas/μL",
+        "50 parasitas/μL",
+        "500 parasitas/μL"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O esfregaço espesso pode detectar até 5 parasitas por microlitro de sangue em mãos experientes, o que o torna superior ao esfregaço fino (aproximadamente 50 parasitas/μL) para baixas parasitemias.",
+      "hashtags": [
+        "medicina_tropical",
+        "malária",
+        "diagnóstico",
+        "parasitemia_coarse_drop",
+        "MEDICAL_TOPIC",
+        "Guia da OMS 2023"
+      ]
+    },
+    {
+      "question": "Que artefato pode ser confundido com Plasmodium no esfregaço espesso?",
+      "options": [
+        "Sobreposição de plaquetas",
+        "Bactéria cocóide",
+        "Leucócitos basofílicos",
+        "cristais de hematoidina"
       ],
       "correctAnswer": 1,
-      "explanation": "Na malária crónica, o sequestro e a destruição de eritrócitos parasitados e não parasitados no baço é o mecanismo primário da anemia hemolítica, exacerbada pela esplenomegalia.",
+      "explanation": "A sobreposição de plaquetas pode simular pequenos trofozoítos de Plasmodium, principalmente em amostras mal coradas ou com baixa parasitemia, sendo causa comum de falsos positivos em microscopia.",
+      "hashtags": [
+        "microbiologia",
+        "malária",
+        "diagnóstico",
+        "microscopia_artefatos",
+        "MEDICAL_TOPIC",
+        "OMS 2023"
+      ]
+    },
+    {
+      "question": "Qual é o principal efeito adverso da mefloquina na quimioprofilaxia antimalárica?",
+      "options": [
+        "Distúrbios neuropsiquiátricos",
+        "Nefrite intersticial",
+        "Fotossensibilidade da pele",
+        "Hepatotoxicidade grave"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A mefloquina está associada a alterações neuropsiquiátricas como ansiedade, insônia e convulsões, sendo o efeito adverso mais relevante que limita seu uso profilático.",
       "hashtags": [
         "medicina_interna",
-        "hemolítica_malária_anemia",
-        "fisiopatologia",
-        "abdução_esplênica",
+        "malária_quimioprofilaxia",
+        "efeitos_adversos",
+        "mefloquina",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Qual achado é característico da esplenomegalia crônica na malária?",
+      "question": "Qual grupo de pacientes tem contraindicação absoluta para receber mefloquina como profilaxia?",
       "options": [
-        "Baço linfomatoso de 500 gramas",
-        "Baço normal de 150 gramas",
-        "Baço congestivo de 300 gramas",
-        "Baço de 800 gramas com fibrose"
+        "Crianças com mais de 5 anos",
+        "Pacientes com epilepsia",
+        "Mulheres grávidas no primeiro trimestre",
+        "Adultos com diabetes tipo 2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A mefloquina está contraindicada em pacientes com epilepsia ou história de convulsões devido ao seu potencial neurotóxico e risco de desencadear crises epilépticas.",
+      "hashtags": [
+        "medicina_interna",
+        "malária_quimioprofilaxia",
+        "contra-indicações",
+        "mefloquina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a dose semanal padrão de mefloquina para adultos na quimioprofilaxia antimalárica?",
+      "options": [
+        "500 mg uma vez por semana",
+        "250 mg uma vez por semana",
+        "100 mg uma vez por semana",
+        "750 mg uma vez por semana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A dose profilática padrão de mefloquina para adultos é de 250 mg por via oral uma vez por semana, começando pelo menos uma semana antes da exposição.",
+      "hashtags": [
+        "farmacologia",
+        "malária_quimioprofilaxia",
+        "posologia",
+        "mefloquina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual mecanismo de ação a mefloquina e a doxiciclina compartilham contra o Plasmodium?",
+      "options": [
+        "Bloqueio da heme polimerase",
+        "Inibição da síntese proteica",
+        "Inibição da síntese de folato",
+        "Alteração da membrana mitocondrial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A doxiciclina atua inibindo a síntese de proteínas ribossômicas do parasita, enquanto a mefloquina bloqueia a polimerização do heme; Eles não compartilham um mecanismo exato.",
+      "hashtags": [
+        "farmacologia",
+        "malária_quimioprofilaxia",
+        "mecanismo_de_ação",
+        "doxiciclina_mefloquina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual a principal limitação do uso da doxiciclina na quimioprofilaxia antimalárica?",
+      "options": [
+        "Fotossensibilidade da pele",
+        "Alto custo do tratamento",
+        "Interação com anticoncepcionais",
+        "Hepatotoxicidade dose-dependente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A doxiciclina causa significativa fotossensibilidade cutânea, obrigando os pacientes a evitar a exposição solar direta, limitando seu uso em áreas tropicais.",
+      "hashtags": [
+        "medicina_interna",
+        "malária_quimioprofilaxia",
+        "efeitos_adversos",
+        "doxiciclina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Em que região geográfica a doxiciclina é a profilaxia de escolha em vez da mefloquina?",
+      "options": [
+        "Regiões com resistência à mefloquina",
+        "Fronteira do Sudeste Asiático",
+        "Amazônia brasileira",
+        "África Subsaariana Rural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Em áreas com elevada resistência à mefloquina, como partes do Sudeste Asiático, a doxiciclina é preferida pela sua eficácia sustentada contra estirpes resistentes do parasita.",
+      "hashtags": [
+        "medicina_interna",
+        "malária_quimioprofilaxia",
+        "indicações",
+        "doxiciclina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a principal causa da esplenomegalia hiperreativa na malária crônica?",
+      "options": [
+        "Trombose esplênica",
+        "Hipertensão portal",
+        "Abscessos esplênicos",
+        "Resposta imunológica exagerada"
       ],
       "correctAnswer": 4,
-      "explanation": "Na malária crónica, a esplenomegalia pode atingir pesos iguais ou superiores a 800 gramas, com fibrose progressiva e deposição de pigmento malárico, característico do baço na malária crónica.",
+      "explanation": "A esplenomegalia hiperreativa na malária crônica é devida a uma resposta imune exagerada do hospedeiro à infecção recorrente por Plasmodium, com hiperplasia linfóide e macrófaga.",
       "hashtags": [
         "medicina_interna",
         "malárico_esplenomegalia",
-        "tabela_clínica",
-        "peso_esplênico",
+        "fisiopatologia",
+        "imuno_hiperresposta",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Que complicação está diretamente associada à esplenomegalia malárica crônica?",
+      "question": "Qual achado sorológico é característico da esplenomegalia hiperreativa da malária?",
       "options": [
-        "Trombose da veia porta",
-        "Abscesso esplênico piogênico",
-        "ruptura esplênica espontânea",
-        "Hipertensão portal pré-hepática"
+        "IgM total elevado",
+        "IgG total elevado",
+        "IgE total elevada",
+        "IgA total elevada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Na esplenomegalia hiperreativa da malária, observa-se um aumento acentuado na IgG total, devido à estimulação crônica dos linfócitos B por antígenos parasitários.",
+      "hashtags": [
+        "medicina_interna",
+        "malárico_esplenomegalia",
+        "diagnóstico",
+        "hipergamaglobulinemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha para a esplenomegalia hiperreativa da malária?",
+      "options": [
+        "Esplenectomia cirúrgica",
+        "Imunossupressores biológicos",
+        "Corticosteroides sistêmicos",
+        "Terapia antimalárica de longo prazo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O tratamento de primeira linha é a terapia antimalárica prolongada com medicamentos como cloroquina ou sulfadoxina-pirimetamina, que reduzem a carga parasitária e a hiperplasia esplênica.",
+      "hashtags": [
+        "medicina_interna",
+        "malárico_esplenomegalia",
+        "tratamento",
+        "antimaláricos",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que complicação grave está associada à esplenomegalia hiperreativa da malária?",
+      "options": [
+        "Miocardite fulminante",
+        "Insuficiência renal aguda",
+        "Ruptura esplênica espontânea",
+        "Abscesso hepático amebiano"
       ],
       "correctAnswer": 3,
-      "explanation": "A ruptura esplênica espontânea é uma complicação temida da esplenomegalia maciça crônica causada pela malária, devido à fragilidade capsular e ao aumento do baço.",
+      "explanation": "A ruptura esplênica espontânea é uma complicação grave da esplenomegalia hiperreativa da malária, devido ao grande tamanho e fragilidade do baço aumentado.",
       "hashtags": [
         "medicina_interna",
         "malárico_esplenomegalia",
@@ -856,288 +989,383 @@
       ]
     },
     {
-      "question": "Que tipo de anemia predomina na malária crónica com esplenomegalia?",
+      "question": "Qual citopenia é mais comum na esplenomegalia hiperreativa da malária?",
       "options": [
-        "Anemia grave por deficiência de ferro",
-        "Anemia microcítica hipocrômica",
-        "Anemia macrocítica megaloblástica",
-        "Anemia normocítica normocrômica"
+        "Pancitopenia",
+        "Trombocitopenia",
+        "anemia hemolítica",
+        "Leucopenia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A trombocitopenia é a citopenia mais comum na esplenomegalia hiperreativa da malária, secundária ao sequestro e destruição de plaquetas no baço aumentado.",
+      "hashtags": [
+        "medicina_interna",
+        "malárico_esplenomegalia",
+        "tabela_clínica",
+        "trombocitopenia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual característica epidemiológica é típica da esplenomegalia hiperreativa da malária?",
+      "options": [
+        "Afeta crianças menores de 5 anos de idade",
+        "É mais comum em adultos jovens",
+        "Predomina em áreas de baixa transmissão",
+        "Ocorre exclusivamente em turistas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A esplenomegalia hiperreativa da malária é mais comum em adultos jovens de áreas endêmicas com exposição prolongada e repetida ao Plasmodium, e não em crianças pequenas ou turistas.",
+      "hashtags": [
+        "medicina_interna",
+        "malárico_esplenomegalia",
+        "epidemiologia",
+        "jovens_adultos",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual mecanismo principal explica a resistência à cloroquina em P. falciparum?",
+      "options": [
+        "Mutação em PfCRT",
+        "Redução de hemoglobina",
+        "Aumento da bomba de cálcio",
+        "Inibição da enzima DHFR"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A resistência à cloroquina no Plasmodium falciparum se deve principalmente a mutações no gene pfcrt, que codifica o transportador PfCRT, alterando o acúmulo da droga no vacúolo digestivo do parasita.",
+      "hashtags": [
+        "medicina_interna",
+        "resistência_à_cloroquina_in_p._falciparum",
+        "fisiopatologia",
+        "danos_mecanismos",
+        "MEDICAL_TOPIC",
+        "Diretrizes da OMS para a Malária 2023"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de escolha para a malária não complicada causada por P. falciparum resistente à cloroquina?",
+      "options": [
+        "primaquina oral",
+        "Cloroquina sozinha",
+        "Terapia combinada com artemisinina",
+        "doxiciclina intravenosa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A terapia combinada com artemisinina (ACT) é o tratamento padrão para a malária não complicada causada por P. falciparum resistente à cloroquina, devido à sua elevada eficácia e capacidade de reduzir a resistência.",
+      "hashtags": [
+        "medicina_interna",
+        "resistência_à_cloroquina_in_p._falciparum",
+        "tratamento",
+        "terapia_combinada",
+        "MEDICAL_TOPIC",
+        "Diretrizes da OMS para a Malária 2023"
+      ]
+    },
+    {
+      "question": "Qual proteína transportadora sofre mutação na resistência à cloroquina?",
+      "options": [
+        "PfCRT",
+        "PfDHPS",
+        "PfMDR1",
+        "PfATP6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A proteína PfCRT (Plasmodium falciparum Chloroquine Resistance Transporter) é a principal envolvida na resistência à cloroquina, com mutações que reduzem o acúmulo do medicamento no vacúolo digestivo.",
+      "hashtags": [
+        "medicina_interna",
+        "resistência_à_cloroquina_in_p._falciparum",
+        "fisiopatologia",
+        "danos_mecanismos",
+        "MEDICAL_TOPIC",
+        "Diretrizes da OMS para a Malária 2023"
+      ]
+    },
+    {
+      "question": "Que gene adicional amplifica a resistência à cloroquina em P. falciparum?",
+      "options": [
+        "pfcytb",
+        "pfdhfr",
+        "pfcrt",
+        "pfmdr1"
       ],
       "correctAnswer": 4,
-      "explanation": "Na malária crónica, a anemia é geralmente normocítica, normocrómica, devido à hemólise sustentada e à eritropoiese compensatória, sem deficiências nutricionais significativas na maioria dos casos.",
+      "explanation": "O gene pfmdr1 codifica o homólogo 1 da glicoproteína P, cuja amplificação ou mutações podem modular a resistência à cloroquina e outros antimaláricos, embora a mutação principal permaneça no pfcrt.",
       "hashtags": [
         "medicina_interna",
-        "hemolítica_malária_anemia",
-        "tabela_clínica",
-        "tipo_de_anemia",
+        "resistência_à_cloroquina_in_p._falciparum",
+        "fisiopatologia",
+        "danos_mecanismos",
         "MEDICAL_TOPIC",
-        ""
+        "Diretrizes da OMS para a Malária 2023"
       ]
     },
     {
-      "question": "Que estudo confirma o diagnóstico de esplenomegalia malárica crônica?",
+      "question": "Em que região geográfica a resistência à cloroquina em P. falciparum é mais prevalente?",
       "options": [
-        "Gota periférica espessa e estendida",
-        "Tomografia computadorizada do abdômen",
-        "Biópsia esplênica percutânea",
-        "Ultrassonografia abdominal com Doppler"
+        "Austrália",
+        "Sudeste Asiático",
+        "América do Norte",
+        "Europa Oriental"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O Sudeste Asiático, especialmente a região do Grande Mekong, tem sido historicamente o epicentro da resistência à cloroquina e outros antimaláricos, com uma elevada prevalência de estirpes multirresistentes de P. falciparum.",
+      "hashtags": [
+        "medicina_interna",
+        "resistência_à_cloroquina_in_p._falciparum",
+        "epidemiologia",
+        "distribuição_geográfica",
+        "MEDICAL_TOPIC",
+        "Diretrizes da OMS para a Malária 2023"
+      ]
+    },
+    {
+      "question": "Qual mecanismo impede o acúmulo de cloroquina no parasita resistente?",
+      "options": [
+        "Aumento do efluxo de drogas",
+        "Ativação da bomba de prótons",
+        "Inibição da protease",
+        "Endocitose diminuída"
       ],
       "correctAnswer": 1,
-      "explanation": "O esfregaço espesso e o esfregaço de sangue periférico são os métodos de escolha para confirmar a parasitemia por Plasmodium, a base diagnóstica da esplenomegalia malárica crônica.",
+      "explanation": "Nas cepas resistentes, a proteína PfCRT mutada aumenta o efluxo de cloroquina do vacúolo digestivo para o citoplasma, reduzindo sua concentração intracelular e impedindo sua ação tóxica sobre o heme.",
       "hashtags": [
         "medicina_interna",
-        "malárico_esplenomegalia",
-        "diagnóstico",
-        "gota_grossa",
+        "resistência_à_cloroquina_in_p._falciparum",
+        "fisiopatologia",
+        "danos_mecanismos",
         "MEDICAL_TOPIC",
-        ""
+        "Diretrizes da OMS para a Malária 2023"
       ]
     },
     {
-      "question": "Que tratamento reduz a esplenomegalia crónica na malária recorrente?",
+      "question": "Qual é o principal mecanismo de ação da primaquina contra os hipnozoítas?",
       "options": [
-        "Esplenectomia total eletiva",
-        "Transfusão de sangue repetida",
-        "Terapia antimalárica completa",
-        "Corticosteróides em altas doses"
+        "Bloqueio do canal de cálcio",
+        "Inibição da bomba de prótons",
+        "Danos mitocondriais e estresse oxidativo",
+        "Inibição da síntese de folato"
       ],
       "correctAnswer": 3,
-      "explanation": "A terapia antimalárica completa e oportuna reduz a carga parasitária e a hiperreatividade esplênica, conseguindo reduzir o tamanho do baço na esplenomegalia malárica crônica.",
+      "explanation": "A primaquina atua gerando estresse oxidativo e dano mitocondrial nos hipnozoítos do Plasmodium vivax, o que permite eliminar formas hepáticas latentes e prevenir recaídas.",
       "hashtags": [
         "medicina_interna",
-        "malárico_esplenomegalia",
+        "malária",
         "tratamento",
-        "terapia_antimalárica",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Qual é a principal vantagem do esfregaço espesso sobre o esfregaço fino no diagnóstico da malária?",
-      "options": [
-        "Menor tempo de coloração",
-        "Requer menos sangue",
-        "Maior sensibilidade diagnóstica",
-        "Identifique as espécies exatas"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O esfregaço espesso concentra maior quantidade de sangue, o que permite detectar baixas parasitemias, oferecendo maior sensibilidade que o esfregaço fino para o diagnóstico de malária.",
-      "hashtags": [
-        "medicina_interna",
-        "malária",
-        "diagnóstico",
-        "gota_grossa",
-        "MEDICAL_TOPIC",
-        "OPS 2023"
-      ]
-    },
-    {
-      "question": "Que coloração é usada como padrão para esfregaço fino e esfregaço espesso na malária?",
-      "options": [
-        "Mancha de Giemsa",
-        "Mancha de Wright",
-        "Coloração de Ziehl-Neelsen",
-        "Coloração de Gram"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A coloração de Giemsa é o método de referência para coloração de parasitas Plasmodium em gotas grossas e esfregaços finos, permitindo a visualização do núcleo e do citoplasma do parasita.",
-      "hashtags": [
-        "microbiologia",
-        "malária",
-        "laboratório_id",
-        "tincion_giemsa",
-        "MEDICAL_TOPIC",
-        "OMS 2022"
-      ]
-    },
-    {
-      "question": "Qual é a estrutura do parasita que é observada no esfregaço fino para diferenciar as espécies de Plasmodium?",
-      "options": [
-        "Morfologia do trofozoíto",
-        "Presença de anéis",
-        "Número de merozoítos",
-        "forma de gametócito"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A morfologia do trofozoíto, incluindo a sua forma, tamanho e pigmento, é fundamental em esfregaços finos para diferenciar espécies como o Plasmodium falciparum do Plasmodium vivax.",
-      "hashtags": [
-        "microbiologia",
-        "malária",
-        "morfologia_estrutura",
-        "trofozoíto",
-        "MEDICAL_TOPIC",
-        "Harrison 21 anos"
-      ]
-    },
-    {
-      "question": "Qual achado no esfregaço espesso indica alta parasitemia na malária?",
-      "options": [
-        "Mais de 10 parasitas por campo",
-        "Gametócitos em forma de lua",
-        "Ausência de leucócitos",
-        "Presença de esquizontes"
-      ],
-      "correctAnswer": 1,
-      "explanation": "No esfregaço espesso, a contagem de mais de 10 parasitas por campo microscópico (com objetiva de imersão) sugere alta parasitemia, indicando infecção grave por Plasmodium falciparum.",
-      "hashtags": [
-        "medicina_interna",
-        "malária",
-        "diagnóstico",
-        "parasitemia",
+        "primaquina",
         "MEDICAL_TOPIC",
         "Guia da OMS 2023"
       ]
     },
     {
-      "question": "Qual é a principal limitação do esfregaço fino no diagnóstico da malária?",
+      "question": "Que forma parasitária a primaquina elimina especificamente?",
       "options": [
-        "Requer microscópio eletrônico",
-        "Menor especificidade diagnóstica",
-        "Alto custo de reagentes",
-        "Baixa sensibilidade em baixa parasitemia"
+        "hipnozoítos hepáticos",
+        "gametócitos maduros",
+        "merozoítos sanguíneos",
+        "Esquizontes eritrocíticos"
       ],
-      "correctAnswer": 4,
-      "explanation": "O esfregaço fino tem menor sensibilidade que o esfregaço espesso, principalmente em parasitemias baixas, pois examina uma fina camada de sangue com menos parasitas por campo.",
+      "correctAnswer": 1,
+      "explanation": "A primaquina é o único medicamento disponível que elimina os hipnozoítos hepáticos de P. vivax e P. ovale, prevenindo recaídas tardias da malária.",
       "hashtags": [
         "medicina_interna",
         "malária",
-        "diagnóstico",
-        "multa_smear",
-        "MEDICAL_TOPIC",
-        "CDC 2021"
-      ]
-    },
-    {
-      "question": "Qual característica do Plasmodium falciparum é melhor identificada no esfregaço fino?",
-      "options": [
-        "Formato de anel múltiplo",
-        "Crescimento síncrono",
-        "Pigmento escuro da malária",
-        "Gametócitos em forma de crescente"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Os gametócitos em forma de lua crescente (banana) são característicos do Plasmodium falciparum e são claramente identificados no esfregaço fino, ajudando a diferenciá-lo de outras espécies.",
-      "hashtags": [
-        "microbiologia",
-        "malária",
-        "morfologia_estrutura",
-        "gametócito",
+        "tabela_clínica",
+        "hipnozoítas",
         "MEDICAL_TOPIC",
         "Harrison 21 anos"
       ]
     },
     {
-      "question": "Qual é a dose recomendada de mefloquina para quimioprofilaxia em adultos?",
+      "question": "¿Qué enzima se debe evaluar antes de iniciar primaquina?",
       "options": [
-        "200 mg por semana",
-        "500 mg mensais",
-        "250 mg por semana",
-        "100 mg por dia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A dose profilática de mefloquina em adultos é de 250 mg por via oral uma vez por semana, começando uma semana antes da viagem e continuando quatro semanas após o retorno.",
-      "hashtags": [
-        "medicina_interna",
-        "malária_quimioprofilaxia",
-        "tratamento",
-        "mefloquina_dose",
-        "MEDICAL_TOPIC",
-        "CDC 2024"
-      ]
-    },
-    {
-      "question": "Qual é a contraindicação absoluta para o uso de doxiciclina na quimioprofilaxia?",
-      "options": [
-        "Diabetes mellitus",
-        "asma brônquica",
-        "Pressão alta",
-        "Gravidez"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A doxiciclina está contraindicada na gravidez devido ao seu efeito teratogênico e risco de alterações ósseas e dentárias no feto, bem como em crianças menores de 8 anos.",
-      "hashtags": [
-        "farmacologia",
-        "malária_quimioprofilaxia",
-        "contra-indicações",
-        "doxiciclina_gravidez",
-        "MEDICAL_TOPIC",
-        ""
-      ]
-    },
-    {
-      "question": "Que efeito adverso comum está associado à mefloquina durante a quimioprofilaxia?",
-      "options": [
-        "Nefrite intersticial",
-        "Distúrbios neuropsiquiátricos",
-        "Ototoxicidade irreversível",
-        "Hepatotoxicidade aguda"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A mefloquina pode causar distúrbios neuropsiquiátricos como ansiedade, depressão, insônia e, raramente, convulsões ou psicose, por isso é contraindicada em pacientes com histórico psiquiátrico.",
-      "hashtags": [
-        "farmacologia",
-        "malária_quimioprofilaxia",
-        "efeitos_adversos",
-        "mefloquina_neuropsiquiatria",
-        "MEDICAL_TOPIC",
-        "Atualização 2024"
-      ]
-    },
-    {
-      "question": "Que recomendação deve ser dada ao paciente em relação à doxiciclina para otimizar sua absorção?",
-      "options": [
-        "Tomar com bastante água",
-        "Tomar com antiácidos",
-        "Tomar com leite integral",
-        "Tomar com suco de laranja"
+        "Glicose-6-fosfato desidrogenase",
+        "Citocromo P450 2D6",
+        "Creatina fosfoquinase",
+        "Aldolase hepática"
       ],
       "correctAnswer": 1,
-      "explanation": "A doxiciclina deve ser administrada com bastante água para reduzir o risco de esofagite e evitar a sua ligação a catiões como o cálcio ou o ferro, presentes no leite ou nos antiácidos, que reduzem a sua absorção.",
+      "explanation": "A deficiência de glicose-6-fosfato desidrogenase (G6PD) é uma contraindicação relativa à primaquina, pois pode causar hemólise aguda grave nesses pacientes.",
       "hashtags": [
-        "farmacologia",
-        "malária_quimioprofilaxia",
-        "farmacocinética",
-        "doxiciclina_absorção",
+        "medicina_interna",
+        "malária",
+        "contra-indicações",
+        "déficit_g6pd",
+        "MEDICAL_TOPIC",
+        "Guia da OMS 2023 --- Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Qual é a duração típica do tratamento com primaquina para hipnozoítos?",
+      "options": [
+        "3 dias",
+        "7 dias",
+        "28 dias",
+        "14 dias"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O regime padrão para eliminar hipnozoítos de P. vivax com primaquina é de 14 dias em doses de 0,25-0,5 mg/kg/dia, embora regimes mais curtos sejam usados ​​em alguns contextos.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "posologia",
+        "duração_tratamento",
+        "MEDICAL_TOPIC",
+        "Guia da OMS 2023"
+      ]
+    },
+    {
+      "question": "Que espécie de Plasmodium requer tratamento com primaquina?",
+      "options": [
+        "P. falciparum",
+        "P. knowlesi",
+        "P. vivax",
+        "P. malariae"
+      ],
+      "correctAnswer": 3,
+      "explanation": "P. vivax e P. ovale formam hipnozoítos hepáticos que podem ser reativados; A primaquina é indicada para eliminar essas formas latentes, enquanto o P. falciparum não produz hipnozoítos.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "indicações",
+        "espécie_plasmódio",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Que efeito adverso grave a primaquina pode causar em pacientes com deficiência de G6PD?",
+      "options": [
+        "Hepatotoxicidade grave",
+        "Hemólise aguda",
+        "Nefrite intersticial",
+        "Cardiomiopatia dilatada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Em pacientes com deficiência de G6PD, a primaquina pode desencadear hemólise aguda devido ao estresse oxidativo que gera nos eritrócitos, sendo necessária avaliação prévia.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "efeitos_adversos",
+        "hemólise",
+        "MEDICAL_TOPIC",
+        "Guia da OMS 2023"
+      ]
+    },
+    {
+      "question": "Qual é o principal agente etiológico da malária transmitida por transfusão?",
+      "options": [
+        "Conhecimento de Plasmodium",
+        "Plasmodium oval",
+        "Plasmodium falciparum",
+        "Plasmodium vivax"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Plasmodium falciparum é a espécie mais comum e perigosa na malária transfusional, responsável pela maioria dos casos graves e mortes associadas a esta via de transmissão.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "etiologia",
+        "plasmódio_falciparum",
         "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Em que região geográfica a mefloquina é mais recomendada como profilaxia antimalárica?",
+      "question": "Qual é o período de incubação típico da malária pós-transfusional?",
       "options": [
-        "Sudeste Asiático",
-        "Ámérica do Sul",
-        "África Subsaariana",
-        "Europa Oriental"
+        "Mais de 1 ano",
+        "2 a 6 meses",
+        "7 a 30 dias",
+        "1 a 3 dias"
       ],
       "correctAnswer": 3,
-      "explanation": "A mefloquina é recomendada para regiões com alta resistência à cloroquina, como a África Subsaariana, especialmente em áreas onde o Plasmodium falciparum é predominante e multirresistente.",
+      "explanation": "Na malária transmitida por transfusão, o período de incubação é geralmente de 7 a 30 dias, dependendo da espécie de Plasmodium e da carga parasitária inoculada.",
       "hashtags": [
         "medicina_interna",
-        "malária_quimioprofilaxia",
-        "indicações",
-        "mefloquina_região",
+        "malária",
+        "tabela_clínica",
+        "período de incubação",
         "MEDICAL_TOPIC",
-        "CDC 2024"
+        ""
       ]
     },
     {
-      "question": "Qual é a duração total da quimioprofilaxia com mefloquina após o retorno de uma área endêmica?",
+      "question": "Qual é o método de rastreio mais sensível para detectar a malária em dadores de sangue?",
       "options": [
-        "8 semanas",
-        "4 semanas",
-        "1 semana",
-        "2 semanas"
+        "gota grossa",
+        "PCR em tempo real",
+        "Esfregaço fino",
+        "teste rápido de antígeno"
       ],
       "correctAnswer": 2,
-      "explanation": "Depois de deixar a área endémica, a mefloquina deve ser continuada durante 4 semanas para cobrir o período de incubação do parasita e prevenir o aparecimento da malária tardia.",
+      "explanation": "A PCR em tempo real é a técnica mais sensível para detecção de DNA de Plasmodium no sangue de doadores, superando os métodos microscópicos e os testes de antígeno.",
       "hashtags": [
         "medicina_interna",
-        "malária_quimioprofilaxia",
-        "tratamento",
-        "mefloquina_duração",
+        "malária",
+        "diagnóstico",
+        "pcr_tempo_real",
         "MEDICAL_TOPIC",
-        "OMS 2023"
+        ""
+      ]
+    },
+    {
+      "question": "Qual população de doadores corre maior risco de transmitir malária por transfusão?",
+      "options": [
+        "Doadores de áreas não endêmicas",
+        "Doadores com grupo sanguíneo O",
+        "Doadores menores de 18 anos",
+        "Doadores com histórico de malária"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Os dadores com antecedentes de malária, especialmente se viverem em zonas endémicas, podem albergar formas latentes do parasita e transmiti-lo mesmo anos após a infecção.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "epidemiologia",
+        "risco_doadores",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de escolha para a malária falciparum não complicada adquirida por transfusão?",
+      "options": [
+        "Cloroquina",
+        "Doxiciclina",
+        "Arteméter-lumefantrina",
+        "Primaquina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A combinação arteméter-lumefantrina é o tratamento de primeira linha para a malária não complicada por Plasmodium falciparum, incluindo casos adquiridos por transfusão, devido à sua elevada eficácia.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "tratamento",
+        "arteméter-lumefantrina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual medida preventiva é mais eficaz na redução da transmissão da malária por transfusão?",
+      "options": [
+        "Irradiação de hemoderivados",
+        "Diferimento de doadores de risco",
+        "Filtração de leucócitos",
+        "Triagem sorológica universal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O adiamento temporário ou permanente de dadores com antecedentes de malária ou viagens recentes para zonas endémicas é a medida mais eficaz para prevenir a transmissão transfusional da doença.",
+      "hashtags": [
+        "medicina_interna",
+        "malária",
+        "epidemiologia_prevenção",
+        "doador_diferimento",
+        "MEDICAL_TOPIC",
+        ""
       ]
     }
   ]
