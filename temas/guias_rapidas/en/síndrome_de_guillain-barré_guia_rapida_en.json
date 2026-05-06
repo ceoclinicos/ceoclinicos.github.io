@@ -1,0 +1,77 @@
+{
+  "id": "guillain-barré_syndrome",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Classic triad: areflexia, ascending paralysis, albuminocytological dissociation",
+      "title": "classical triad",
+      "contentHtml": "<h2>Classic triad</h2><ul><li>The triad includes <b>arreflexia</b> (symmetrical loss of deep tendon reflexes), <b>ascending paralysis</b> (weakness that progresses from lower to upper limbs in hours/days) and <b>albuminocytological dissociation</b> in CSF.</li><li><b>albuminocytological dissociation</b> consists of elevated proteins (&gt;45 mg/dL) without pleocytosis (&lt;10 cells/µL); It typically appears from day 7 after the onset of symptoms. </li><li><b>Ascending paralysis</b> can involve respiratory and bulbar muscles; The <b>Inverted Lasegue's sign</b> is an early finding.</li><li><b>Differential diagnosis:</b> Transverse myelitis (sensory level), myasthenia gravis (fluctuation), botulism (descending paralysis).</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Most common variant: acute inflammatory demyelinating polyneuropathy",
+      "title": "Most common variant (AIDP)",
+      "contentHtml": "<h2>Most common variant</h2><ul><li>Acute inflammatory demyelinating polyneuropathy (AIDP)</b> represents &gt;90% of cases in North America and Europe.</li><li>Pathophysiology: autoimmune attack mediated by T lymphocytes and antibodies against peripheral myelin, with macrophage infiltration and segmental demyelination.</li><li>Clinic: ascending weakness symmetrical, <b>early areflexia</b>, distal sensory alteration in glove and sock, and lumbar or radicular pain.</li><li>Electromyography shows <b>conduction block</b> and <b>absent F waves</b> as typical findings of demyelination.</li><li>Axonal variant: <b>AMSAN</b> (sensory-motor axonal) and <b>AMAN</b> (pure motor axonal), more common in Asia and associated with <i>Campylobacter jejuni</i>.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Infectious history: Campylobacter jejuni, CMV, EBV, Mycoplasma",
+      "title": "Infectious history",
+      "contentHtml": "<h2>Infectious history</h2><ul><li>Two thirds of cases have infection 1-3 weeks prior: <b>Campylobacter jejuni</b> (more common, associated with axonal variant), <b>CMV</b>, <b>EBV</b>, <b>Mycoplasma pneumoniae</b>.</li><li><b>Campylobacter jejuni</b>: induces antibodies anti-GM1 by molecular mimicry with bacterial lipopolysaccharides; It is associated with a worse prognosis.</li><li><b>CMV</b> and <b>EBV</b>: more linked to AIDP; CMV can present anti-GM2 antibodies. </li><li><b>Mycoplasma pneumoniae</b>: produces anti-galactocereboside antibodies; also associated with <b>Miller Fisher</b>.</li><li>Vaccination (influenza, meningococcus) is rarely associated; There is no solid evidence of causality with the COVID-19 vaccine. </li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "CSF finding: elevated protein without pleocytosis",
+      "title": "CSF Finding",
+      "contentHtml": "<h2>CSF Finding</h2><ul><li><b>Albuminocytological dissociation</b> is the elevation of proteins in the CSF (&gt;45 mg/dL, typically 100-1000 mg/dL) with <b>leukocyte count <10 cells/µL</b>.</li><li>It appears from day 7; may be absent in the first week (sensitivity ~50% at the beginning, &gt;90% at 14 days).</li><li>If there is pleocytosis (&gt;50 cells), reconsider diagnosis: HIV, neurosarcoidosis, infectious meningitis, poliomyelitis.</li><li>The elevation of proteins is due to root inflammation and alteration of the blood-brain barrier; It does not correlate with severity. </li><li>Repeat lumbar puncture is not necessary if the symptoms are typical. </li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Electromyography: conduction block, absent F waves",
+      "title": "Electromyography",
+      "contentHtml": "<h2>Electromyography</h2><ul><li>Findings of demyelination: <b>conduction block</b> (&gt;50% drop in compound muscle action potential amplitude between proximal and distal), <b>absent F waves</b> or with prolonged latency, reduced conduction velocity (&lt;80% of the lower limit of normal).</li><li>In typical <b>AIDP</b>, conduction block is multifocal; absent F waves indicate early proximal involvement.</li><li>In the axonal variant (<b>AMAN</b>), sensory action potentials are normal, but motor ones show reduced amplitudes without significant block.</li><li>Needle electromyography can show acute denervation (fibrillations) from the second week onwards.</li><li>Serial repetition helps predict prognosis: absence of reinnervation at 6 months suggests poor recovery. </li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Anti-ganglioside antibodies: GM1 (axonal), GQ1b (Miller Fisher)",
+      "title": "Anti-ganglioside antibodies",
+      "contentHtml": "<h2>Anti-ganglioside antibodies</h2><ul><li><b>Anti-GM1</b>: associated with axonal motor variant (<b>AMAN</b>) and <i>Campylobacter jejuni</i> infection; its presence indicates a worse prognosis and slower recovery.</li><li><b>Anti-GQ1b</b>: specific to the <b>Miller Fisher</b> variant (ophthalmoplegia, ataxia, areflexia); also present in Bickerstaff syndrome (stem encephalitis). It is not always necessary for diagnosis if the symptoms are typical. </li><li>Anti-ganglioside antibodies are not routinely measured in typical AIDP; They are reserved for atypical or variant cases. </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Miller Fisher variant: ophthalmoplegia, ataxia, areflexia",
+      "title": "Miller Fisher variant",
+      "contentHtml": "<h2>Miller Fisher variant</h2><ul><li>Classic triad: <b>ophthalmoplegia</b> (conjugate gaze palsy, ptosis, diplopia), <b>ataxia</b> (trunk and limb weakness, without significant weakness), and generalized <b>arreflexia</b>.</li><li>Associated with <b>anti-GQ1b</b> (sensitivity &gt;90%) and often preceded by <i>Campylobacter jejuni</i> or <i>Haemophilus influenzae</i> infection.</li><li><b>Ophthalmoplegia</b> is symmetrical and may be the first symptom; ataxia is disproportionate to the degree of weakness. </li><li>Brainstem variant: <b>Bickerstaff syndrome</b> (ophthalmoplegia + ataxia + hyperreflexia or pyramidal signs + altered level of consciousness).</li><li>CSF shows <b>albuminocytological dissociation</b> in ~50% of cases; The treatment is the same as in AIDP: <b>intravenous immunoglobulin</b> or <b>plasmapheresis</b>.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Treatment of choice: intravenous immunoglobulin or plasmapheresis",
+      "title": "Treatment of choice",
+      "contentHtml": "<h2>Treatment of choice</h2><ul><li>First line: <b>intravenous immunoglobulin (IVIG)</b> 0.4 g/kg/day for 5 days (total dose 2 g/kg) or <b>plasmapheresis</b> (5 sessions in 7-14 days, exchanging 1.5 times the plasma volume each session).</li><li>Both are equally effective; It is not recommended to combine them (it does not show additional benefit and increases costs).</li><li><b>IGIV</b> is preferred in children, pregnant women, patients with hemodynamic instability or difficult vascular access.</li><li>Start treatment as soon as possible, ideally within the first 2 weeks of the onset of symptoms, to limit progression.</li><li><b>Contraindication of corticosteroids:</b> they have no benefit and can worsen the prognosis; They are not used as monotherapy or adjuvant. </li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Indication for plasmapheresis: rapid progression, respiratory failure",
+      "title": "Indication for plasmapheresis",
+      "contentHtml": "<h2>Indication for plasmapheresis</h2><ul><li><b>Plasmapheresis</b> is indicated in cases of <b>rapid progression</b> (weakness that reaches the trunk in &lt;48 h) or <b>imminent respiratory failure</b> (forced vital capacity <20 mL/kg or need for mechanical ventilation).</li><li>It is also considered if there is a contraindication for <b>IVIG</b> (e.g. hyperviscosity, severe renal failure, history of thrombosis, IgA deficiency with anti-IgA antibodies). </li><li>Plasmapheresis</b> eliminates pathogenic antibodies and inflammatory factors; It should be performed in centers with experience. </li><li>Adverse effects: hypotension, hypocalcemia (due to citrate), catheter infection, allergic reactions. </li><li>Not recommended in patients with severe hemodynamic instability or active sepsis. </li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "ICU admission criteria: forced vital capacity less than 20 mL/kg",
+      "title": "ICU admission criteria",
+      "contentHtml": "<h2>ICU admission criteria</h2><ul><li>The main criterion is <b>forced vital capacity (FVC) &lt;20 mL/kg</b> or decrease &gt;30% compared to baseline in 24 h; also <b>PaO2 &lt;70 mmHg</b> or <b>PaCO2 &gt;50 mmHg</b>.</li><li>Other criteria: bulbar weakness (dysphagia, dysphonia, aspiration), severe dysautonomia (arrhythmias, labile hypertension, orthostatic hypotension, paralytic ileus), rapid progression (inability to ambulate in &lt;1 week).</li><li>The <b>FVC</b> is measured serially (every 4-6 hours) in patients with suspected respiratory compromise; drop &lt;20 mL/kg predicts need for mechanical ventilation in &gt;80%.</li><li>Dysautonomia may require continuous monitoring of heart rate and blood pressure.</li><li>Non-invasive mechanical ventilation is not recommended; most require elective orotracheal intubation if <b>FVC</b> continues to decline.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Prognosis: majority recovery, 20% sequelae, 5% mortality",
+      "title": "Forecast",
+      "contentHtml": "<h2>Prognosis</h2><ul><li>The majority of patients (80%) achieve complete or almost complete functional recovery after one year; 20% present permanent motor or sensory sequelae. </li><li>Approximate mortality of <b>5%</b>, mainly due to complications: cardiac arrest due to dysautonomia, aspiration pneumonia, sepsis, pulmonary thromboembolism. </li><li>Poor prognostic factors: age &gt;60 years, need for mechanical ventilation, history of <i>Campylobacter jejuni</i>, axonal variant, rapid onset (&lt;7 days), distal motor potential amplitude &lt;20% of the lower limit. </li><li>Recovery usually begins 2-4 weeks after the nadir; the plateau may last days to weeks.</li><li>Early rehabilitation (physical therapy, occupational therapy) improves functional outcome.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Contraindication of corticosteroids: no benefit, may worsen",
+      "title": "Contraindication of corticosteroids",
+      "contentHtml": "<h2>Contraindication of corticosteroids</h2><ul><li>Corticosteroids (prednisone, methylprednisolone) are <b>contraindicated</b> in the treatment of <b>Guillain-Barré syndrome</b> because they do not demonstrate benefit and may worsen the prognosis.</li><li>Clinical studies (including meta-analysis) show that corticosteroids alone or in combination with <b>IVIG</b> or <b>plasmapheresis</b> do not improve recovery and may delay it.</li><li>Proposed mechanism: corticosteroids could inhibit remyelination and increase secondary axonal damage.</li><li>Exception: if there is an absolute contraindication for <b>IVIG</b> and <b>plasmapheresis</b> (rare), corticosteroids are not used as an alternative; Support and expectant management should be considered.</li><li>In chronic variants (chronic inflammatory demyelinating polyneuropathy) corticosteroids are effective, but not in the acute form.</li></ul>"
+    }
+  ]
+}

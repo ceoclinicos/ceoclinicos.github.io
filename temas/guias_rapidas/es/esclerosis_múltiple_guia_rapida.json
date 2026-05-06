@@ -1,0 +1,77 @@
+{
+  "id": "esclerosis_múltiple",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Criterios de McDonald para diagnóstico",
+      "title": "Criterios McDonald 2017",
+      "contentHtml": "<h2>Criterios de McDonald 2017</h2><ul><li><b>Diseminación en espacio (DIS):</b> ≥1 lesión T2 en ≥2 de 4 regiones: periventricular, yuxtacortical, infratentorial, médula espinal.</li><li><b>Diseminación en tiempo (DIT):</b> presencia simultánea de lesiones realzantes (activas) y no realzantes (inactivas) en cualquier RM; o nueva lesión T2 en RM de seguimiento.</li><li><b>LCR con bandas oligoclonales (BOC)</b> puede sustituir DIT si se cumple DIS y clínica típica.</li><li><b>Trampa:</b> el diagnóstico requiere descartar otras enfermedades (NMO, sarcoidosis).</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Formas clínicas: remitente-recurrente y progresiva",
+      "title": "Fenotipos clínicos",
+      "contentHtml": "<h2>Formas clínicas</h2><ul><li><b>Remitente-recurrente (EMRR):</b> brotes agudos con recuperación completa o parcial; sin progresión entre brotes. Representa 85% al inicio.</li><li><b>Progresiva primaria (EMPP):</b> deterioro neurológico desde el inicio, sin brotes definidos; más frecuente en varones y >40 años.</li><li><b>Progresiva secundaria (EMPS):</b> evoluciona desde EMRR con progresión gradual, con o sin brotes superpuestos.</li><li><b>Clínicamente aislado (CIS):</b> primer episodio desmielinizante; si cumple DIS y DIT se clasifica como EMRR.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Lesiones desmielinizantes periventriculares en RM",
+      "title": "Lesiones en RM",
+      "contentHtml": "<h2>Hallazgos en RM cerebral</h2><ul><li><b>Lesiones periventriculares:</b> hiperintensas en T2/FLAIR, típicamente ovaladas y perpendiculares al eje ventricular (dedos de Dawson).</li><li><b>Realce tras gadolinio:</b> captación nodular o anular (incompleta) indica actividad inflamatoria aguda.</li><li><b>Localizaciones clave:</b> cuerpo calloso (lesiones en la interfaz calloso-septal), médula espinal (cortas, excéntricas, &lt;2 segmentos vertebrales).</li><li><b>Trampa:</b> en NMO las lesiones medulares son longitudinalmente extensas (&gt;3 segmentos) y el realce puede ser más homogéneo.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Bandas oligoclonales en LCR como marcador",
+      "title": "Bandas oligoclonales",
+      "contentHtml": "<h2>Bandas oligoclonales en LCR</h2><ul><li><b>Definición:</b> bandas de IgG detectadas por isoelectroenfoque en LCR ausentes en suero (patrón tipo 2).</li><li><b>Sensibilidad:</b> >90% en EM confirmada; pueden ser transitorias en otras enfermedades (infecciones, NMO).</li><li><b>Índice de IgG:</b> (IgG LCR/albúmina LCR)/(IgG suero/albúmina suero); &gt;0.7 sugiere síntesis intratecal.</li><li><b>Trampa:</b> la ausencia de BOC no descarta EM, pero obliga a reconsiderar diagnóstico diferencial.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Síntoma clásico: neuritis óptica unilateral",
+      "title": "Neuritis óptica",
+      "contentHtml": "<h2>Neuritis óptica en EM</h2><ul><li><b>Presentación:</b> dolor ocular con movimientos, pérdida visual subaguda unilateral, defecto pupilar aferente relativo (Marcus Gunn).</li><li><b>Recuperación:</b> espontánea en semanas; <b>metilprednisolona 1 g/día IV por 3-5 días</b> acelera recuperación sin mejorar pronóstico final.</li><li><b>Hallazgos:</b> edema del nervio óptico en RM con realce; potenciales evocados visuales con latencia prolongada.</li><li><b>Trampa:</b> si hay pérdida visual bilateral simultánea, pensar en NMO (anticuerpos anti-AQP4).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Fenómeno de Uhthoff y pseudobrotes por calor",
+      "title": "Fenómeno de Uhthoff",
+      "contentHtml": "<h2>Fenómeno de Uhthoff</h2><ul><li><b>Definición:</b> empeoramiento transitorio de síntomas neurológicos (visión borrosa, fatiga) por aumento de temperatura corporal (ejercicio, fiebre, baño caliente).</li><li><b>Mecanismo:</b> bloqueo de la conducción nerviosa en axones desmielinizados por aumento de temperatura, sin nueva inflamación.</li><li><b>Pseudobrote:</b> síntoma similar a brote pero sin evidencia de lesión activa en RM ni realce con gadolinio.</li><li><b>Trampa:</b> diferenciar de brote verdadero; el pseudobrote revierte al enfriarse y no requiere tratamiento con esteroides.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Tratamiento de brote agudo con metilprednisolona",
+      "title": "Tratamiento del brote agudo",
+      "contentHtml": "<h2>Tratamiento del brote agudo</h2><ul><li><b>Primera línea:</b> <b>metilprednisolona 1 g/día IV por 3-5 días</b>; equivalente a dexametasona o prednisona oral a dosis altas.</li><li><b>Indicación:</b> brote con deterioro funcional significativo (visión, marcha, fuerza).</li><li><b>Mecanismo:</b> reduce edema e inflamación; acelera recuperación pero no modifica discapacidad a largo plazo.</li><li><b>Si no respuesta:</b> considerar plasmaféresis (5-7 sesiones) en brotes graves corticorrefractarios.</li><li><b>Trampa:</b> no usar corticoides orales a dosis bajas; no prolongar >5 días sin evidencia.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Terapias modificadoras: interferón, fingolimod, natalizumab",
+      "title": "Terapias modificadoras",
+      "contentHtml": "<h2>Terapias modificadoras de la enfermedad</h2><ul><li><b>Interferón beta (1a/1b):</b> primera línea en EMRR; reduce tasa de brotes 30%; efectos adversos: síndrome pseudogripal, elevación de transaminasas.</li><li><b>Fingolimod:</b> modulador del receptor S1P; secuestra linfocitos en ganglios linfáticos; requiere monitorización cardíaca (bradicardia inicial) y ocular (edema macular).</li><li><b>Natalizumab:</b> anticuerpo anti-α4-integrina; alta eficacia; riesgo de <b>leucoencefalopatía multifocal progresiva (LMP)</b> asociado a JCV positivo.</li><li><b>Trampa:</b> natalizumab se reserva para EMRR activa; antes de iniciar, testar anticuerpos anti-JCV.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Signo de Lhermitte como manifestación temprana",
+      "title": "Signo de Lhermitte",
+      "contentHtml": "<h2>Signo de Lhermitte</h2><ul><li><b>Definición:</b> sensación de descarga eléctrica que recorre la columna vertebral al flexionar el cuello (maniobra de flexión cervical).</li><li><b>Mecanismo:</b> irritación de axones desmielinizados en la médula espinal cervical, típicamente en cordones posteriores.</li><li><b>Asociación:</b> signo temprano de EM; también puede ocurrir en compresión medular, mielitis, deficiencia de B12.</li><li><b>Trampa:</b> no es patognomónico de EM; requiere RM cervical para descartar lesiones compresivas.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Disartria, ataxia y temblor en formas avanzadas",
+      "title": "Síntomas en EM avanzada",
+      "contentHtml": "<h2>Disartria, ataxia y temblor</h2><ul><li><b>Disartria cerebelosa:</b> habla escandida (lenta, entrecortada) por lesión en vías cerebelosas.</li><li><b>Ataxia:</b> incoordinación de miembros y marcha; puede ser troncal o apendicular.</li><li><b>Temblor:</b> temblor intencional (cinético) y postural; frecuentemente refractario a tratamiento.</li><li><b>Manejo:</b> fisioterapia, betabloqueantes (propranolol), clonazepam; en casos graves, estimulación cerebral profunda (tálamo).</li><li><b>Trampa:</b> estos síntomas suelen aparecer en EM progresiva y se asocian a discapacidad irreversible.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Diagnóstico diferencial con neuromielitis óptica (NMO)",
+      "title": "DDx NMO vs EM",
+      "contentHtml": "<h2>Diagnóstico diferencial NMO</h2><ul><li><b>NMO:</b> anticuerpos anti-AQP4 (acuaporina 4) positivos en 70-80%; ataca astrocitos, no mielina.</li><li><b>Diferencias clave:</b> neuritis óptica bilateral grave, mielitis longitudinalmente extensa (&gt;3 segmentos), lesiones cerebrales atípicas (periacueductales, diencefálicas).</li><li><b>LCR:</b> en NMO rara vez hay bandas oligoclonales; puede haber pleocitosis neutrofílica.</li><li><b>Tratamiento:</b> brote agudo con metilprednisolona + plasmaféresis; mantenimiento con micofenolato, rituximab o eculizumab; interferón y fingolimod pueden empeorar NMO.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Escala EDSS para evaluar discapacidad neurológica",
+      "title": "Escala EDSS",
+      "contentHtml": "<h2>Escala EDSS (Kurtzke)</h2><ul><li><b>Rango:</b> 0 (examen normal) a 10 (muerte por EM).</li><li><b>Puntos clave:</b> 0-4.5: paciente deambula sin ayuda; 5.0-6.5: requiere bastón o andador; 7.0: confinado a silla de ruedas.</li><li><b>Basada en:</b> evaluación de 8 sistemas funcionales (piramidal, cerebeloso, tronco, sensitivo, visual, esfínteres, cerebral, otros).</li><li><b>Trampa:</b> cambios de 0.5 puntos pueden ser clínicamente significativos; no es lineal (la discapacidad progresa más rápido en puntajes bajos).</li></ul>"
+    }
+  ]
+}

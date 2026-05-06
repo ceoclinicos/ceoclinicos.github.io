@@ -1,0 +1,77 @@
+{
+  "id": "migraine",
+  "items": [
+    {
+      "order": 1,
+      "foco": "ICHD-3 criteria for migraine without aura",
+      "title": "ICHD-3 criteria migraine without aura",
+      "contentHtml": "<h2>ICHD-3 criteria for migraine without aura</h2><ul><li><b>A:</b> ≥5 attacks that meet B-D.</li><li><b>B:</b> duration 4-72 h (without treatment or failed treatment).</li><li><b>C:</b> ≥2 of: unilateral, pulsating, moderate-severe intensity, worsens with physical activity routine.</li><li><b>D:</b> ≥1 of: nausea/vomiting, photo and phonophobia.</li><li><b>E:</b> not better explained by another ICHD-3 diagnosis.</li><li>Examination trap: <b>migraine without aura</b> does not require aura for diagnosis; If there is aura, apply criteria for migraine with aura. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Typical aura: visual, sensory or language symptoms",
+      "title": "Typical aura symptoms",
+      "contentHtml": "<h2>Typical aura</h2><ul><li><b>Visual symptoms</b> (most frequent): sparkling scotoma, zigzag lines, photopsias.</li><li><b>Sensory symptoms</b>: unilateral paresthesias, typically slow progression (sensory gait).</li><li><b>Language symptoms</b>: aphasia (dysnomia, paraphasias), without deficit motor.</li><li>Pathophysiology: <b>propagated cortical depression</b> (wave of neuronal depolarization followed by suppression of activity).</li><li>Trap: aura without headache occurs in <b>migraine with typical aura</b>; does not rule out the diagnosis.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Migraine with aura: duration of aura 5-60 minutes",
+      "title": "Duration of aura in migraine",
+      "contentHtml": "<h2>Duration of aura</h2><ul><li>ICHD-3 criteria: <b>typical aura</b> lasts between <b>5 and 60 minutes</b>; if it is &gt;60 min and &lt;7 days, consider <b>migraine with prolonged aura</b>.</li><li><b>Criteria B</b> of migraine with aura: ≥1 reversible aura symptom (visual, sensory, language).</li><li><b>Criteria C</b>: ≥2 of: 1) at least one unilateral symptom, 2) gradual progression ≥5 min, 3) each symptom lasts 5-60 min.</li><li>Trap: if the aura lasts &lt;5 min, suspect <b>transient ischemic attack</b> (TIA) or other secondary cause.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Acute drugs: triptans, NSAIDs, ergotamines",
+      "title": "Acute migraine treatment",
+      "contentHtml": "<h2>Acute drugs</h2><ul><li><b>1st line</b> in mild-moderate migraine: <b>NSAIDs</b> (ibuprofen 400-800 mg, naproxen 500-1000 mg) or paracetamol 1000 mg.</li><li><b>Triptanes</b> (sumatriptan 50-100 mg oral, 6 mg sc): 5-HT1B/1D agonists; effective in moderate-severe migraine.</li><li><b>Ergotamines</b> (intranasal or IM dihydroergotamine): alternative, lower tolerance profile.</li><li>Golden rule: treat <b>early</b> in the attack; If a triptan fails, change to another with a different structure (<b>naratriptan</b>, <b>rizatriptan</b>).</li><li>Trap: <b>ergotamines</b> contraindicated in pregnancy and peripheral vascular disease.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Prophylaxis: beta blockers, topiramate, amitriptyline",
+      "title": "Migraine prophylaxis",
+      "contentHtml": "<h2>Pharmacological prophylaxis</h2><ul><li>Indication: ≥4 attacks/month or ≥8 days of headache/month, or refractoriness to acute treatment.</li><li><b>Beta blockers</b>: <b>propranolol</b> 40-240 mg/day (1st line).</li><li><b>Topiramate</b>: 50-200 mg/day, start 25 mg and titrate; Adverse effect: paresthesias, weight loss.</li><li><b>Amitriptyline</b>: 10-150 mg/day (especially if comorbid with insomnia or depression).</li><li>Trap: <b>beta-blockers</b> contraindicated in asthma and AV block; <b>topiramate</b> teratogenic (risk of cleft lip).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Tension Headache vs Migraine: Key Features",
+      "title": "DDx tension headache vs migraine",
+      "contentHtml": "<h2>Key differences</h2><ul><li><b>Tension headache</b>: bilateral, oppressive (non-pulsatile), mild-moderate intensity, no nausea/vomiting, no significant photo/phonophobia.</li><li><b>Migraine</b>: unilateral, pulsating, moderate-severe, worse with activity, associated with nausea and photo/phonophobia.</li><li>Duration: tension-type. 30 min-7 days; migraine 4-72 hours.</li><li>Trap: in <b>chronic migraine</b> there may be phenotypic overlap; use <b>headache diary</b> to differentiate.</li><li>Therapeutic test: response to <b>triptans</b> suggests migraine.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Status migrainosus: treatment with dihydroergotamine",
+      "title": "Status migrainosus and DHE",
+      "contentHtml": "<h2>State migrainous</h2><ul><li>Definition: migraine attack lasting &gt;72 h, with pain-free intervals &lt;4 h (without treatment).</li><li>Treatment of choice: <b>dihydroergotamine</b> (DHE) 0.5-1 mg IV/IM, repeat every 8 h (maximum 3 doses).</li><li>Alternatives: <b>ketorolac</b> 60 mg IM, <b>metoclopramide</b> 10 mg IV, corticosteroids (dexamethasone 8-16 mg IV).</li><li>Caution: <b>DHE</b> contraindicated if previous use of triptans in the last 24 hours (risk of vasospasm).</li><li>Trap: do not use oral <b>ergotamine</b> in state. migraine due to erratic absorption. </li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Vestibular migraine: differential diagnosis with vertigo",
+      "title": "Vestibular migraine and vertigo",
+      "contentHtml": "<h2>Vestibular migraine</h2><ul><li>Criteria: ≥5 episodes of vertigo of moderate-severe intensity, duration 5 min-72 h, associated with migraine (current or previous).</li><li>DDx with <b>benign paroxysmal positional vertigo</b> (BPPV): in BPPV the vertigo lasts seconds, triggered by postural changes, without headache.</li><li>DDx with <b>Ménière's disease</b>: fluctuating hearing loss, tinnitus, sensation of otic fullness.</li><li>Acute treatment: <b>triptans</b> (zolmitriptan 2.5 mg) or <b>dimenhydrinate</b> 50 mg.</li><li>Trap: <b>vestibular migraine</b> can occur without headache; Vertigo is the main symptom. </li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Hemiplegic migraine: mutations in CACNA1A genes",
+      "title": "Genetic hemiplegic migraine",
+      "contentHtml": "<h2>Hemiplegic migraine</h2><ul><li><b>Familial hemiplegic migraine</b> (FHM): autosomal dominant; mutations in <b>CACNA1A</b> (P/Q type calcium channel, chromosome 19p13), <b>ATP1A2</b> (Na+/K+ ATPase), <b>SCN1A</b> (sodium channel).</li><li>Clinical picture: motor aura (reversible hemiparesis) along with visual/sensory symptoms; aura duration up to 7 days.</li><li>Diagnosis: family history (≥1 1st or 2nd degree relative) and genetic study.</li><li>Treatment: avoid <b>triptans</b> and <b>ergotamines</b> (risk of vasospasm); use <b>NSAIDs</b> or <b>calcium antagonists</b> (verapamil) as prophylaxis.</li><li>Trap: in <b>sporadic hemiplegic migraine</b>, rule out TIA and vascular accident.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Complications: chronic migraine, status migrainosus",
+      "title": "Migraine complications",
+      "contentHtml": "<h2>Complications</h2><ul><li><b>Chronic migraine</b>: ≥15 days/month with headache for ≥3 months, of which ≥8 days meet the criteria for migraine.</li><li>Risk factors: excessive use of analgesics (≥10 days/month of triptans or ≥15 of NSAIDs).</li><li><b>Status migraine</b>: attack lasting &gt;72 h; treatment with <b>DHE</b> or corticosteroids.</li><li><b>Migraine infarction</b>: ischemic aura with cerebral infarction documented on neuroimaging, in the context of a migraine attack with aura.</li><li>Trap: <b>chronic migraine</b> requires ruling out headache due to medication abuse (ICHD-3 criterion).</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Contraindications of triptans: cardiovascular disease",
+      "title": "Contraindications of triptans",
+      "contentHtml": "<h2>Absolute contraindications</h2><ul><li><b>Cardiovascular disease</b>: acute myocardial infarction, unstable angina, ischemic coronary disease, coronary vasospasm (Prinzmetal's angina).</li><li><b>Cerebrovascular disease</b>: previous TIA or stroke.</li><li><b>Peripheral vascular disease</b> (claudication intermittent).</li><li><b>Uncontrolled arterial hypertension</b> (SBP &gt;180 mmHg or DBP &gt;110 mmHg).</li><li>Trap: <b>triptans</b> also contraindicated in <b>hemiplegic migraine</b> and <b>migraine with brainstem aura</b> due to theoretical risk of vasoconstriction.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Indications for botulinum toxin in chronic migraine",
+      "title": "Botulinum toxin in chronic migraine",
+      "contentHtml": "<h2>Botulinum toxin type A</h2><ul><li>Indication: <b>chronic migraine</b> (≥15 days/month, ≥8 with migraine) refractory to ≥2 oral prophylactics.</li><li>PREEMPT protocol: 155-195 U divided into 31-39 intramuscular points (muscles frontal, temporal, occipital, cervical).</li><li>Repeat every 12 weeks; evaluate response after 2 cycles.</li><li>Mechanism: inhibition of neurotransmitter release (CGRP, substance P) in nociceptive fibers.</li><li>Trap: do not use in <b>episodic migraine</b> (not approved); Adverse effect: ptosis, cervical weakness. </li></ul>"
+    }
+  ]
+}

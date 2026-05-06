@@ -1,0 +1,77 @@
+{
+  "id": "alzheimer",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Criterios NIA-AA para diagnóstico",
+      "title": "Criterios NIA-AA 2018",
+      "contentHtml": "<h2>Criterios NIA-AA para diagnóstico (2018)</h2><ul><li>Se basan en el constructo biológico: <b>AT(N)</b> (A: <b>beta-amiloide</b>, T: <b>tau fosforilado</b>, N: neurodegeneración).</li><li>Categorizan en: <b>Alzheimer patológico</b> (A+T+), <b>cambios Alzheimer</b> (A+T-), y <b>no Alzheimer</b> (A-T-).</li><li>Diagnóstico clínico: requiere <b>deterioro cognitivo</b> documentado más biomarcadores positivos (PET amiloide o LCR).</li><li>Trampa examen: no exigen <b>demencia</b> establecida; aplican a <b>deterioro cognitivo leve</b> (DCL) y fase preclínica.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Depósito de beta-amiloide y ovillos neurofibrilares",
+      "title": "Depósito amiloide y tau",
+      "contentHtml": "<h2>Depósito de beta-amiloide y ovillos neurofibrilares</h2><ul><li><b>Beta-amiloide</b>: péptido de 42 aa (Aβ42) se agrega en <b>placas seniles</b> extracelulares; inicio en neocórtex.</li><li><b>Ovillos neurofibrilares</b>: formados por <b>tau hiperfosforilado</b> intracelular; siguen etapas de <b>Braak</b> (I-VI), empezando en <b>corteza entorrinal</b>.</li><li>Correlación clínica: la carga de <b>ovillos</b> se correlaciona mejor con el grado de demencia que las placas amiloides.</li><li>Trampa examen: <b>Braak</b> estadio I-II = asintomático; &gt;III = síntomas; &gt;V = demencia severa.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Atrofia del hipocampo en RM",
+      "title": "Atrofia hipocampal",
+      "contentHtml": "<h2>Atrofia del hipocampo en RM</h2><ul><li><b>Hallazgo clave:</b> <b>atrofia del hipocampo</b> en secuencias T1, evaluada con <b>escala de Scheltens</b> (0-4) o volumetría.</li><li>Pérdida de volumen &gt; <b>2-3% anual</b> sugiere enfermedad de Alzheimer frente a envejecimiento normal.</li><li>Patrón característico: <b>atrofia medial temporal</b> asimétrica, con predominio en <b>CA1</b> y <b>subículo</b>.</li><li>Trampa examen: en <b>demencia con cuerpos de Lewy</b> la atrofia hipocampal es leve o ausente; útil para DDx.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "APOE ε4 como factor de riesgo genético",
+      "title": "APOE ε4",
+      "contentHtml": "<h2>APOE ε4 como factor de riesgo genético</h2><ul><li><b>APOE ε4</b> es el principal factor de riesgo genético para Alzheimer esporádico; herencia <b>autosómica</b> dosis-dependiente.</li><li>Un alelo ε4 aumenta el riesgo <b>3-4 veces</b>; dos alelos lo aumentan <b>8-12 veces</b> y adelanta inicio &lt; <b>65 años</b>.</li><li>Mecanismo: reduce la eliminación de <b>beta-amiloide</b> y promueve su agregación.</li><li>Trampa examen: <b>APOE ε4</b> no es diagnóstico; solo modifica riesgo. No todos los portadores desarrollan Alzheimer.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Declinación en memoria episódica temprana",
+      "title": "Memoria episódica temprana",
+      "contentHtml": "<h2>Declinación en memoria episódica temprana</h2><ul><li>La <b>memoria episódica</b> (hechos recientes, contexto) es la primera función cognitiva afectada por daño en <b>hipocampo</b> y <b>corteza entorrinal</b>.</li><li>Clínica: olvidos de conversaciones recientes, repetición de preguntas, desorientación temporal.</li><li>Evaluación: <b>test de aprendizaje verbal</b> (p. ej., <b>RAVLT</b>) muestra baja curva de recuerdo libre y reconocimiento.</li><li>Trampa examen: en <b>demencia frontotemporal</b> la memoria episódica se preserva inicialmente; DDx clave.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Mini-Mental State Examination (MMSE) score",
+      "title": "MMSE",
+      "contentHtml": "<h2>Mini-Mental State Examination (MMSE) score</h2><ul><li><b>MMSE</b> evalúa orientación, registro, atención, cálculo, recuerdo, lenguaje y praxia; puntaje máximo <b>30</b>.</li><li>Puntos de corte: &gt;<b>24</b> normal; <b>20-23</b> deterioro leve; <b>10-19</b> moderado; &lt;<b>10</b> severo.</li><li>Sensibilidad limitada para DCL; no detecta daño en <b>memoria episódica</b> pura.</li><li>Trampa examen: <b>MMSE</b> está influido por edad y escolaridad; ajustar por <b>nivel educativo</b> (p. ej., &lt;20 en analfabetos).</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Tratamiento con inhibidores de acetilcolinesterasa",
+      "title": "Inhibidores de acetilcolinesterasa",
+      "contentHtml": "<h2>Tratamiento con inhibidores de acetilcolinesterasa</h2><ul><li>Primera línea en <b>Alzheimer leve a moderado</b>: <b>donepezilo</b> (5-10 mg/día), <b>rivastigmina</b> (3-12 mg/día parche o cápsulas), <b>galantamina</b> (8-24 mg/día).</li><li>Mecanismo: inhiben la <b>acetilcolinesterasa</b> aumentando niveles de <b>acetilcolina</b> en sinapsis.</li><li>Efectos adversos: <b>náuseas</b>, <b>vómitos</b>, <b>bradicardia</b> (evitar en <b>bloqueo AV</b> no marcapasos).</li><li>Trampa examen: <b>donepezilo</b> es el único aprobado para Alzheimer severo; no usar en <b>demencia vascular</b> pura.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Uso de memantina en enfermedad moderada a severa",
+      "title": "Memantina",
+      "contentHtml": "<h2>Uso de memantina en enfermedad moderada a severa</h2><ul><li><b>Memantina</b> es un antagonista no competitivo del receptor <b>NMDA</b> del glutamato; reduce excitotoxicidad.</li><li>Indicada en <b>Alzheimer moderado a severo</b> (MMSE &lt;15). Dosis: titulación hasta <b>20 mg/día</b>.</li><li>Se puede combinar con <b>inhibidores de acetilcolinesterasa</b> (p. ej., <b>donepezilo</b> + memantina) para beneficio sinérgico.</li><li>Trampa examen: no eficaz en Alzheimer leve; efectos adversos mínimos (mareo, estreñimiento). Contraindicada en <b>insuficiencia renal</b> severa (CrCl &lt;30).</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Diagnóstico diferencial con demencia vascular",
+      "title": "DDx demencia vascular",
+      "contentHtml": "<h2>Diagnóstico diferencial con demencia vascular</h2><ul><li><b>Demencia vascular</b>: inicio abrupto, curso escalonado, focalidad neurológica (hemiparesia, afasia), <b>Hachinski isquémico</b> &gt;7.</li><li>RM: <b>infartos lacunares</b>, <b>leucoaraiosis</b>, <b>microsangrados</b>; no atrofia hipocampal predominante.</li><li>Alzheimer: inicio insidioso, curso progresivo, atrofia hipocampal, <b>APOE ε4</b> positivo.</li><li>Trampa examen: <b>demencia mixta</b> (Alzheimer + vascular) es frecuente; tratar ambos componentes.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Signos de alarma en deterioro cognitivo leve",
+      "title": "Signos de alarma en DCL",
+      "contentHtml": "<h2>Signos de alarma en deterioro cognitivo leve</h2><ul><li><b>Deterioro cognitivo leve (DCL)</b>: queja cognitiva subjetiva + déficit objetivo en un dominio (memoria, ejecutivo) sin afectar actividades diarias.</li><li>Signos de alarma de conversión a Alzheimer: <b>pérdida de memoria episódica</b> progresiva, <b>atrofia hipocampal</b> en RM, <b>biomarcadores</b> A+T+.</li><li>Factores de mal pronóstico: <b>APOE ε4</b>, depresión, baja reserva cognitiva.</li><li>Trampa examen: DCL amnésico (aDCL) tiene &gt; <b>50%</b> de conversión a Alzheimer en 5 años; DCL no amnésico sugiere otras demencias.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Criterios DSM-5 para trastorno neurocognitivo mayor",
+      "title": "DSM-5 trastorno neurocognitivo mayor",
+      "contentHtml": "<h2>Criterios DSM-5 para trastorno neurocognitivo mayor</h2><ul><li>Requiere declive significativo en <b>uno o más dominios cognitivos</b> (atención, memoria, lenguaje, ejecutivo, visoespacial, social).</li><li>Interferencia con <b>actividades diarias</b> (instrumentales o básicas).</li><li>No se explica por <b>delirium</b> u otro trastorno mental.</li><li>Especificar: <b>probable Alzheimer</b> si inicio insidioso, curso progresivo, y evidencia genética o biomarcadores.</li><li>Trampa examen: <b>DSM-5</b> unifica demencia y DCL bajo <b>trastorno neurocognitivo mayor</b> y <b>menor</b> respectivamente.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Prevención: control de factores vasculares",
+      "title": "Prevención factores vasculares",
+      "contentHtml": "<h2>Prevención: control de factores vasculares</h2><ul><li>Factores de riesgo vascular modificables: <b>hipertensión</b>, <b>diabetes</b>, <b>dislipidemia</b>, <b>tabaquismo</b>, <b>obesidad</b>.</li><li>Control estricto de <b>presión arterial</b> (meta &lt;130/80 mmHg) reduce riesgo de Alzheimer y demencia vascular.</li><li>Ejercicio aeróbico regular (&gt;150 min/semana) y dieta <b>mediterránea</b> (rica en antioxidantes, omega-3) asociados a menor incidencia.</li><li>Trampa examen: <b>suplementos</b> (vitamina E, ginkgo biloba) no han demostrado prevención en ensayos controlados; no recomendar.</li></ul>"
+    }
+  ]
+}

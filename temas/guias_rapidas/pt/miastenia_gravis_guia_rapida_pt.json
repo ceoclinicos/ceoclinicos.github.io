@@ -1,0 +1,77 @@
+{
+  "id": "miastenia_gravis",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Anticorpos anti-receptor de acetilcolina",
+      "title": "Anti-AChR",
+      "contentHtml": "<h2>Anti-AChR</h2><ul><li>Presentes em <b>80-90%</b> da miastenia ocular generalizada e em <b>50-60%</b> ocular.</li><li>Eles são IgG1 e IgG3, ativam o complemento e destroem a placa neuromuscular.</li><li>O título não se correlaciona estritamente com a gravidade clínica, mas títulos altos sugerem timoma.</li><li><b>Falso positivo:</b> até 5% em timoma sem miastenia, lúpus, artrite reumatóide.</li><li><b>DDx:</b> síndrome de Lambert-Eaton (canais de cálcio anti-dependentes de voltagem).</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Anticorpos anti-MuSK em soronegativos",
+      "title": "Anti-MuSK",
+      "contentHtml": "<h2>Anti-MuSK</h2><ul><li>Positivo em <b>40-70%</b> dos pacientes soronegativos para anti-AChR.</li><li>Associado a um fenótipo mais grave com envolvimento bulbar proeminente (disartria, disfagia, fraqueza facial).</li><li><b>Resposta deficiente aos anticolinesterásicos:</b> pode piorar com <b>piridostigmina</b>.</li><li><b>A timectomia de rotina não é indicada (não associada ao timoma).</li><li>Tratamento de escolha: corticosteroides e imunossupressores (micofenolato, rituximabe).</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Ptose e diplopia como apresentação inicial",
+      "title": "apresentação ocular",
+      "contentHtml": "<h2>Ptose inicial e diplopia</h2><ul><li>Primeiro sintoma em <b>50-70%</b> dos casos; A <b>ptose</b> geralmente é assimétrica e flutuante.</li><li><b>Sinal de queda da pálpebra</b> (Cogan): depois de olhar para baixo e para cima, a pálpebra sobe brevemente e depois desce.</li><li><b>Diplopia binocular</b> devido à fadiga muscular extraocular, piora com o olhar sustentado.</li><li><b>DDx:</b> paralisia do terceiro nervo (pupila fixa), oftalmopatia da tireoide (pálpebra). retração, proptose).</li><li><b>80%</b> dos pacientes oculares puros generalizam dentro de 2 anos se não receberem imunossupressão.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Fadiga muscular flutuante e piora à noite",
+      "title": "Fadiga flutuante",
+      "contentHtml": "<h2>Fatigabilidade e piora noturna</h2><ul><li>Fraqueza muscular que aumenta com a atividade e melhora com o repouso (fadiga verdadeira).</li><li>Normalmente piora à noite (<b>fenômeno diurno</b>) e melhora pela manhã.</li><li><b>Teste de gelo:</b> aplicar gelo na pálpebra por 2 minutos melhora a ptose na miastenia (sensibilidade 80%, especificidade 97%).</li><li><b>Teste de repouso:</b> melhora na força após 10-30 minutos de descanso.</li><li><b>DDx:</b> síndrome de fadiga crônica (não objetiva), miopatias metabólicas (não melhora com repouso).</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Teste diagnóstico de Tensilon (edrofônio)",
+      "title": "Teste de tensão",
+      "contentHtml": "<h2>Teste de Tensilon (edrofônio)</h2><ul><li>Administrar <b>2 mg IV</b> em bolus; se não houver reação em 30-45 segundos, administre <b>8 mg adicionais</b>.</li><li>Resposta positiva: melhora óbvia da fraqueza em 30-60 segundos, dura 5-10 minutos.</li><li><b>Risco de crise colinérgica e bradicardia:</b> tenha <b>atropina 0,5-1 mg IV</b> pronta.</li><li><b>Falso positivos:</b> ELA, síndrome de Guillain-Barré, botulismo.</li><li><b>Falsos negativos:</b> anti-MuSK positivo, uso recente de anticolinesterásicos.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Eletromiografia com estimulação repetitiva decremental",
+      "title": "Estimulação repetitiva EMG",
+      "contentHtml": "<h2>EMG com estimulação repetitiva</h2><ul><li>A estimulação em <b>2-3 Hz</b> mostra uma diminuição de &gt;10% na amplitude do potencial de ação muscular composto.</li><li>A <b>diminuição</b> é máxima entre o 4º e o 5º estímulo.</li><li><b>A eletromiografia de fibra única</b> (jitter) é mais sensível (>95%), mas menos específico.</li><li>Executar após a suspensão da <b>piridostigmina</b> 12-24 horas para evitar falsos negativos.</li><li><b>DDx:</b> a síndrome de Lambert-Eaton mostra aumento de >100% após estimulação tetânica ou exercício.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Timoma associado em 10-15% dos casos",
+      "title": "Timoma",
+      "contentHtml": "<h2>Timoma associado</h2><ul><li>Presente em <b>10-15%</b> da miastenia generalizada; até <b>30%</b> se anti-AChR positivo. </li><li>Idade típica: 40-60 anos; mais comum em homens.</li><li><b>TC de tórax com contraste</b> é o estudo de escolha (sensibilidade >95%).</li><li><b>Classificação de Masaoka:</b> estágio I (encapsulado) a IV (metástase).</li><li>Todos os pacientes com miastenia devem fazer <b>TC de tórax</b> no momento do diagnóstico para descartar timoma.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Crise miastênica devido a infecção ou estresse",
+      "title": "crise miastênica",
+      "contentHtml": "<h2>Crise miastênica</h2><ul><li>Definição: exacerbação aguda que requer suporte ventilatório (intubação ou VNI).</li><li><b>Gatilhos:</b> infecção (30-50%), cirurgia, gravidez, redução de imunossupressores, estresse.</li><li><b>Tratamento:</b> internação na UTI, <b>piridostigmina</b> IV (1/30 dose oral), plasmaférese ou imunoglobulina IV (2 g/kg).</li><li><b>escala MGFA</b> para classificar a gravidade; classe V = crise.</li><li><b>DDx com crise colinérgica:</b> fasciculações, miose, bradicardia, hipersalivação (resposta à atropina).</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Tratamento com piridostigmina (anticolinesterásico)",
+      "title": "Piridostigmina",
+      "contentHtml": "<h2>Piridostigmina (Mestinon)</h2><ul><li>Sintomático de primeira linha: dose inicial <b>30-60 mg PO a cada 4-6 h</b>; máximo de 120 mg a cada 3-4 horas.</li><li>Inibidor reversível da acetilcolinesterase, aumenta a disponibilidade de ACh na fenda sináptica.</li><li><b>Efeitos adversos:</b> diarréia, cólicas, hipersalivação, bradicardia (tratamento com anticolinérgicos como <b>atropina</b> ou <b>glicopirrolato</b>).</li><li><b>Forma estendida liberação</b> (180 mg) para sintomas noturnos, não em crises. </li><li>Não use em <b>anti-MuSK</b> (pode piorar).</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Crise colinérgica por overdose de anticolinesterásicos",
+      "title": "Crise colinérgica",
+      "contentHtml": "<h2>Crise colinérgica</h2><ul><li>Devido ao excesso de <b>piridostigmina</b> ou outros anticolinesterásicos.</li><li><b>Sintomas muscarínicos:</b> miose, bradicardia, hipersalivação, lacrimejamento, diarreia, broncorréia.</li><li><b>Sintomas nicotínicos:</b> fasciculações, fraqueza muscular (inclui músculos respiratório).</li><li><b>DDx com crise miastênica:</b> teste com <b>edrofônio</b> (piora a crise colinérgica) ou resposta à <b>atropina</b> (melhora os sintomas muscarínicos).</li><li>Manejo: descontinuar anticolinesterásicos, suporte ventilatório, atropina IV.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Evite medicamentos que piorem a miastenia (aminoglicosídeos, betabloqueadores)",
+      "title": "Medicamentos contra-indicados",
+      "contentHtml": "<h2>Medicamentos que pioram a miastenia</h2><ul><li><b>Aminoglicosídeos:</b> gentamicina, amicacina, tobramicina (bloqueio neuromuscular).</li><li><b>Betabloqueadores:</b> propranolol, atenolol (pode aumentar a fraqueza).</li><li><b>Bloqueadores neuromusculares:</b> succinilcolina, vecurônio (risco). de paralisia prolongada).</li><li><b>Outros:</b> magnésio intravenoso, penicilamina, quinina, procainamida, verapamil.</li><li>Cuidado com <b>fluoroquinolonas</b> e <b>macrólidos</b> (podem exacerbar).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Timectomia indicada em timoma ou pacientes jovens",
+      "title": "Timectomia",
+      "contentHtml": "<h2>Timectomia</h2><ul><li>Indicada em todos os pacientes com <b>timoma</b> (independentemente da idade ou gravidade).</li><li>Na miastenia sem timoma, indicada em <b>pacientes de 18 a 65 anos</b> com anti-AChR positivo e miastenia generalizada (estudo MGTX).</li><li><b>Benefício:</b> melhora clínica a longo prazo, reduz a necessidade de imunossupressores.</li><li><b>Abordagem:</b> esternotomia mediana ou VATS (toracoscopia).</li><li><b>Não indicado</b> em anti-MuSK, miastenia ocular pura ou >65 anos com comorbidades.</li></ul>"
+    }
+  ]
+}

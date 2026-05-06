@@ -1,0 +1,77 @@
+{
+  "id": "myasthenia_gravis",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Anti-acetylcholine receptor antibodies",
+      "title": "Anti-AChR",
+      "contentHtml": "<h2>Anti-AChR</h2><ul><li>Present in <b>80-90%</b> of generalized and <b>50-60%</b> ocular myasthenia.</li><li>They are IgG1 and IgG3, they activate complement and destroy the neuromuscular plaque.</li><li>The titer does not strictly correlate with clinical severity, but high titers suggest thymoma.</li><li><b>False positive:</b> up to 5% in thymoma without myasthenia, lupus, rheumatoid arthritis.</li><li><b>DDx:</b> Lambert-Eaton syndrome (anti-voltage-dependent calcium channels).</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Anti-MuSK antibodies in seronegatives",
+      "title": "Anti-MuSK",
+      "contentHtml": "<h2>Anti-MuSK</h2><ul><li>Positive in <b>40-70%</b> of patients seronegative for anti-AChR.</li><li>Associated with a more severe phenotype with prominent bulbar involvement (dysarthria, dysphagia, facial weakness).</li><li><b>Poor response to anticholinesterases:</b> may worsen with <b>pyridostigmine</b>.</li><li><b>Routine thymectomy is not indicated (not associated with thymoma).</li><li>Treatment of choice: corticosteroids and immunosuppressants (mycophenolate, rituximab).</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Ptosis and diplopia as initial presentation",
+      "title": "ocular presentation",
+      "contentHtml": "<h2>Initial ptosis and diplopia</h2><ul><li>First symptom in <b>50-70%</b> of cases; <b>ptosis</b> is usually asymmetrical and fluctuating.</li><li><b>Dropping eyelid sign</b> (Cogan): after looking down and up, the eyelid rises briefly and then descends.</li><li><b>Binocular diplopia</b> due to extraocular muscle fatigue, worsens with sustained gaze.</li><li><b>DDx:</b> third nerve palsy (fixed pupil), thyroid ophthalmopathy (eyelid retraction, proptosis).</li><li><b>80%</b> of pure ocular patients generalize within 2 years if they do not receive immunosuppression.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Fluctuating muscle fatigue and worsens in the evening",
+      "title": "Fluctuating fatigue",
+      "contentHtml": "<h2>Fatigability and evening worsening</h2><ul><li>Muscle weakness that increases with activity and improves with rest (true fatigue).</li><li>Typically worsens in the evening (<b>daytime phenomenon</b>) and improves in the morning.</li><li><b>Ice test:</b> applying ice to the eyelid for 2 min improves ptosis in myasthenia (sensitivity 80%, specificity 97%).</li><li><b>Rest test:</b> improvement in strength after 10-30 min of rest.</li><li><b>DDx:</b> chronic fatigue syndrome (not objective), metabolic myopathies (does not improve with rest).</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Diagnostic Tensilon (edrophonium) test",
+      "title": "Tensilon test",
+      "contentHtml": "<h2>Tensilon (edrophonium) test</h2><ul><li>Administer <b>2 mg IV</b> as a bolus; if there is no reaction in 30-45 sec, give <b>additional 8 mg</b>.</li><li>Positive response: obvious improvement in weakness in 30-60 sec, lasts 5-10 min.</li><li><b>Risk of cholinergic crisis and bradycardia:</b> have <b>atropine 0.5-1 mg IV</b> ready.</li><li><b>False positives:</b> ALS, Guillain-Barré syndrome, botulism.</li><li><b>False negatives:</b> anti-MuSK positive, recent use of anticholinesterases.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Electromyography with decremental repetitive stimulation",
+      "title": "EMG repetitive stimulation",
+      "contentHtml": "<h2>EMG with repetitive stimulation</h2><ul><li>Stimulation at <b>2-3 Hz</b> shows a &gt;10% decrease in the amplitude of the compound muscle action potential.</li><li>The <b>decrease</b> is maximum between the 4th and 5th stimulus.</li><li><b>Single fiber electromyography</b> (jitter) is more sensitive (>95%), but less specific.</li><li>Perform after suspending <b>pyridostigmine</b> 12-24 h to avoid false negatives.</li><li><b>DDx:</b> Lambert-Eaton syndrome shows >100% increase after tetanic stimulation or exercise.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Associated thymoma in 10-15% of cases",
+      "title": "Timoma",
+      "contentHtml": "<h2>Associated thymoma</h2><ul><li>Present in <b>10-15%</b> of generalized myasthenia; up to <b>30%</b> if anti-AChR positive. </li><li>Typical age: 40-60 years; more common in men.</li><li><b>Chest CT with contrast</b> is the study of choice (sensitivity >95%).</li><li><b>Masaoka Classification:</b> stage I (encapsulated) to IV (metastasis).</li><li>All patients with myasthenia should have <b>chest CT</b> at diagnosis to rule out thymoma.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Myasthenic crisis due to infection or stress",
+      "title": "myasthenic crisis",
+      "contentHtml": "<h2>Myasthenic crisis</h2><ul><li>Definition: acute exacerbation requiring ventilatory support (intubation or NIV).</li><li><b>Triggers:</b> infection (30-50%), surgery, pregnancy, reduction of immunosuppressants, stress.</li><li><b>Management:</b> ICU admission, IV <b>pyridostigmine</b> (1/30 oral dose), plasmapheresis or IV immunoglobulin (2 g/kg).</li><li><b>MGFA scale</b> to classify severity; class V = crisis.</li><li><b>DDx with cholinergic crisis:</b> fasciculations, miosis, bradycardia, hypersalivation (response to atropine).</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Treatment with pyridostigmine (anticholinesterase)",
+      "title": "Pyridostigmine",
+      "contentHtml": "<h2>Pyridostigmine (Mestinon)</h2><ul><li>First-line symptomatic: initial dose <b>30-60 mg PO every 4-6 h</b>; maximum 120 mg every 3-4 hours.</li><li>Reversible acetylcholinesterase inhibitor, increases availability of ACh in the synaptic cleft.</li><li><b>Adverse effects:</b> diarrhea, cramps, hypersalivation, bradycardia (management with anticholinergics such as <b>atropine</b> or <b>glycopyrrolate</b>).</li><li><b>Form extended release</b> (180 mg) for nocturnal symptoms, not in crises. </li><li>Do not use in <b>anti-MuSK</b> (may worsen).</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Cholinergic crisis due to overdose of anticholinesterases",
+      "title": "Cholinergic crisis",
+      "contentHtml": "<h2>Cholinergic crisis</h2><ul><li>Due to excess <b>pyridostigmine</b> or other anticholinesterases.</li><li><b>Muscarinic symptoms:</b> miosis, bradycardia, hypersalivation, lacrimation, diarrhea, bronchorrhea.</li><li><b>Nicotinic symptoms:</b> fasciculations, muscle weakness (includes muscles respiratory).</li><li><b>DDx with myasthenic crisis:</b> trial with <b>edrophonium</b> (worsens cholinergic crisis) or response to <b>atropine</b> (improves muscarinic symptoms).</li><li>Management: discontinue anticholinesterases, ventilatory support, IV atropine.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Avoid drugs that worsen myasthenia (aminoglycosides, beta blockers)",
+      "title": "Contraindicated drugs",
+      "contentHtml": "<h2>Drugs that worsen myasthenia</h2><ul><li><b>Aminoglycosides:</b> gentamicin, amikacin, tobramycin (neuromuscular blockade).</li><li><b>Beta blockers:</b> propranolol, atenolol (may increase weakness).</li><li><b>Neuromuscular blockers:</b> succinylcholine, vecuronium (risk). of prolonged paralysis).</li><li><b>Others:</b> IV magnesium, penicillamine, quinine, procainamide, verapamil.</li><li>Caution with <b>fluoroquinolones</b> and <b>macrolides</b> (may exacerbate).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Thymectomy indicated in thymoma or young patients",
+      "title": "Thymectomy",
+      "contentHtml": "<h2>Thymectomy</h2><ul><li>Indicated in all patients with <b>thymoma</b> (regardless of age or severity).</li><li>In myasthenia without thymoma, indicated in <b>patients 18-65 years old</b> with positive anti-AChR and generalized myasthenia (MGTX study).</li><li><b>Benefit:</b> long-term clinical improvement, reduces need for immunosuppressants.</li><li><b>Approach:</b> median sternotomy or VATS (thoracoscopy).</li><li><b>Not indicated</b> in anti-MuSK, pure ocular myasthenia or >65 years with comorbidities.</li></ul>"
+    }
+  ]
+}

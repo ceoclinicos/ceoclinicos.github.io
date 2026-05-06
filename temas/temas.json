@@ -2721,6 +2721,97 @@
         "#medicina_de_urgencias"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "alzheimer",
+      "titulo": "Alzheimer",
+      "descripcion": "Enfermedad neurodegenerativa progresiva que causa deterioro cognitivo, pérdida de memoria y cambios en la conducta.",
+      "pdfUrl": "",
+      "precioPildoras": "caro",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#neurologia",
+        "#alzheimer",
+        "#demencia",
+        "#neurodegeneracion",
+        "#geriatria"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "parkinson",
+      "titulo": "Enfermedad de Parkinson",
+      "descripcion": "Trastorno neurodegenerativo progresivo que afecta el movimiento, el equilibrio y la coordinación, causado por la pérdida de neuronas productoras de dopamina.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#neurologia",
+        "#parkinson",
+        "#enfermedad_neurodegenerativa",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "esclerosis_múltiple",
+      "titulo": "Esclerosis múltiple",
+      "descripcion": "Enfermedad autoinmune desmielinizante del sistema nervioso central que afecta la conducción nerviosa, con síntomas motores, sensitivos y cognitivos.",
+      "pdfUrl": "",
+      "precioPildoras": "caro",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#neurologia",
+        "#esclerosis_multiple",
+        "#enfermedades_autoinmunes",
+        "#desmielinizacion"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "síndrome_de_guillain-barré",
+      "titulo": "Síndrome de Guillain-Barré",
+      "descripcion": "Trastorno autoinmunitario que afecta los nervios periféricos, causando debilidad muscular progresiva y posible parálisis.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#neurologia",
+        "#sindrome_de_guillain_barre",
+        "#enfermedades_autoinmunitarias",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "miastenia_gravis",
+      "titulo": "Miastenia Gravis",
+      "descripcion": "Trastorno neuromuscular autoinmune que causa debilidad muscular fluctuante, afectando especialmente los músculos oculares, bulbares y extremidades.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#neurologia",
+        "#miastenia_gravis",
+        "#enfermedades_autoinmunes",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "migraña",
+      "titulo": "Migraña",
+      "descripcion": "Cefalea primaria caracterizada por episodios recurrentes de dolor pulsátil unilateral, a menudo acompañado de náuseas, vómitos y fotofobia.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#neurologia",
+        "#migraña",
+        "#cefalea",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
     }
   ]
 }

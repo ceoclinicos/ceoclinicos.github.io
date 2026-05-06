@@ -1,0 +1,77 @@
+{
+  "id": "síndrome_de_guillain-barré",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Triada clásica: arreflexia, parálisis ascendente, disociación albuminocitológica",
+      "title": "Triada clásica",
+      "contentHtml": "<h2>Triada clásica</h2><ul><li>La tríada incluye <b>arreflexia</b> (pérdida simétrica de reflejos osteotendinosos), <b>parálisis ascendente</b> (debilidad que progresa desde miembros inferiores hacia superiores en horas/días) y <b>disociación albuminocitológica</b> en LCR.</li><li>La <b>disociación albuminocitológica</b> consiste en elevación de proteínas (&gt;45 mg/dL) sin pleocitosis (&lt;10 células/µL); aparece típicamente a partir del día 7 del inicio de síntomas.</li><li>La <b>parálisis ascendente</b> puede comprometer músculos respiratorios y bulbares; el signo de <b>Lasegue invertido</b> es un hallazgo precoz.</li><li><b>Diagnóstico diferencial:</b> mielitis transversa (nivel sensitivo), miastenia gravis (fluctuación), botulismo (parálisis descendente).</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Variante más común: polineuropatía desmielinizante inflamatoria aguda",
+      "title": "Variante más común (AIDP)",
+      "contentHtml": "<h2>Variante más común</h2><ul><li>La <b>polineuropatía desmielinizante inflamatoria aguda (AIDP)</b> representa &gt;90% de los casos en Norteamérica y Europa.</li><li>Fisiopatología: ataque autoinmune mediado por linfocitos T y anticuerpos contra la mielina periférica, con infiltración de macrófagos y desmielinización segmentaria.</li><li>Clínica: debilidad ascendente simétrica, <b>arreflexia</b> precoz, alteración sensitiva distal en guante y calcetín, y dolor lumbar o radicular.</li><li>La electromiografía muestra <b>bloqueo de conducción</b> y <b>ondas F ausentes</b> como hallazgos típicos de desmielinización.</li><li>Variante axonal: <b>AMSAN</b> (axonal sensitivo-motora) y <b>AMAN</b> (axonal motora pura), más frecuente en Asia y asociada a <i>Campylobacter jejuni</i>.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Antecedente infeccioso: Campylobacter jejuni, CMV, VEB, Mycoplasma",
+      "title": "Antecedente infeccioso",
+      "contentHtml": "<h2>Antecedente infeccioso</h2><ul><li>Dos tercios de los casos tienen infección 1-3 semanas previas: <b>Campylobacter jejuni</b> (más frecuente, asociado a variante axonal), <b>CMV</b>, <b>VEB</b>, <b>Mycoplasma pneumoniae</b>.</li><li><b>Campylobacter jejuni</b>: induce anticuerpos anti-GM1 por mimetismo molecular con lipopolisacáridos bacterianos; se asocia a peor pronóstico.</li><li><b>CMV</b> y <b>VEB</b>: más ligados a AIDP; el CMV puede presentar anticuerpos anti-GM2.</li><li><b>Mycoplasma pneumoniae</b>: produce anticuerpos anti-galactocerebósido; también asociado a <b>Miller Fisher</b>.</li><li>Vacunación (influenza, meningococo) rara vez se asocia; no hay evidencia sólida de causalidad con vacuna COVID-19.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Hallazgo LCR: elevación de proteínas sin pleocitosis",
+      "title": "Hallazgo LCR",
+      "contentHtml": "<h2>Hallazgo LCR</h2><ul><li>La <b>disociación albuminocitológica</b> es la elevación de proteínas en LCR (&gt;45 mg/dL, típicamente 100-1000 mg/dL) con <b>recuento de leucocitos &lt;10 células/µL</b>.</li><li>Aparece a partir del día 7; puede estar ausente en la primera semana (sensibilidad ~50% al inicio, &gt;90% a los 14 días).</li><li>Si hay pleocitosis (&gt;50 células), reconsiderar diagnóstico: VIH, neurosarcoidosis, meningitis infecciosa, poliomielitis.</li><li>La elevación de proteínas se debe a inflamación radicular y alteración de la barrera hematoencefálica; no se correlaciona con gravedad.</li><li>Repetir punción lumbar no es necesario si la clínica es típica.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Electromiografía: bloqueo de conducción, ondas F ausentes",
+      "title": "Electromiografía",
+      "contentHtml": "<h2>Electromiografía</h2><ul><li>Hallazgos de desmielinización: <b>bloqueo de conducción</b> (caída &gt;50% de amplitud del potencial de acción muscular compuesto entre proximal y distal), <b>ondas F ausentes</b> o con latencia prolongada, velocidad de conducción reducida (&lt;80% del límite inferior normal).</li><li>En <b>AIDP</b> típica, el bloqueo de conducción es multifocal; las ondas F ausentes indican afectación proximal temprana.</li><li>En variante axonal (<b>AMAN</b>), los potenciales de acción sensitivos son normales, pero los motores muestran amplitudes reducidas sin bloqueo significativo.</li><li>La electromiografía de aguja puede mostrar denervación aguda (fibrilaciones) a partir de la segunda semana.</li><li>La repetición seriada ayuda a predecir pronóstico: ausencia de reinervación a los 6 meses sugiere mala recuperación.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Anticuerpos anti-gangliósidos: GM1 (axonal), GQ1b (Miller Fisher)",
+      "title": "Anticuerpos anti-gangliósidos",
+      "contentHtml": "<h2>Anticuerpos anti-gangliósidos</h2><ul><li><b>Anti-GM1</b>: asociado a variante axonal motora (<b>AMAN</b>) y a infección por <i>Campylobacter jejuni</i>; su presencia indica peor pronóstico y recuperación más lenta.</li><li><b>Anti-GQ1b</b>: específico de la variante <b>Miller Fisher</b> (oftalmoplejía, ataxia, arreflexia); también presente en <b>síndrome de Bickerstaff</b> (encefalitis del tallo).</li><li>Otros anticuerpos: anti-GD1a (AMAN), anti-GD1b (sensitivo), anti-GM2 (CMV), anti-GalC (Mycoplasma).</li><li>La detección de <b>anti-GQ1b</b> tiene sensibilidad &gt;90% para <b>Miller Fisher</b>; no siempre es necesario para el diagnóstico si la clínica es típica.</li><li>Los anticuerpos anti-gangliósidos no se miden de rutina en AIDP típica; se reservan para casos atípicos o variantes.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Variante Miller Fisher: oftalmoplejía, ataxia, arreflexia",
+      "title": "Variante Miller Fisher",
+      "contentHtml": "<h2>Variante Miller Fisher</h2><ul><li>Tríada clásica: <b>oftalmoplejía</b> (parálisis de la mirada conjugada, ptosis, diplopía), <b>ataxia</b> (troncal y de miembros, sin debilidad significativa), y <b>arreflexia</b> generalizada.</li><li>Asociada a <b>anti-GQ1b</b> (sensibilidad &gt;90%) y a menudo precedida por infección por <i>Campylobacter jejuni</i> o <i>Haemophilus influenzae</i>.</li><li>La <b>oftalmoplejía</b> es simétrica y puede ser el primer síntoma; la ataxia es desproporcionada para el grado de debilidad.</li><li>Variante de tronco encefálico: <b>síndrome de Bickerstaff</b> (oftalmoplejía + ataxia + hiperreflexia o signos piramidales + nivel de conciencia alterado).</li><li>El LCR muestra <b>disociación albuminocitológica</b> en ~50% de los casos; el tratamiento es igual que en AIDP: <b>inmunoglobulina intravenosa</b> o <b>plasmaféresis</b>.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Tratamiento de elección: inmunoglobulina intravenosa o plasmaféresis",
+      "title": "Tratamiento de elección",
+      "contentHtml": "<h2>Tratamiento de elección</h2><ul><li>Primera línea: <b>inmunoglobulina intravenosa (IGIV)</b> 0.4 g/kg/día por 5 días (dosis total 2 g/kg) o <b>plasmaféresis</b> (5 sesiones en 7-14 días, intercambiando 1.5 veces el volumen plasmático cada sesión).</li><li>Ambos son igualmente eficaces; no se recomienda combinarlos (no muestra beneficio adicional y aumenta costos).</li><li><b>IGIV</b> se prefiere en niños, embarazadas, pacientes con inestabilidad hemodinámica o difícil acceso vascular.</li><li>Iniciar tratamiento lo antes posible, idealmente dentro de las primeras 2 semanas de inicio de síntomas, para limitar la progresión.</li><li><b>Contraindicación de corticoides:</b> no tienen beneficio y pueden empeorar el pronóstico; no se usan en monoterapia ni adyuvancia.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Indicación de plasmaféresis: rápida progresión, insuficiencia respiratoria",
+      "title": "Indicación de plasmaféresis",
+      "contentHtml": "<h2>Indicación de plasmaféresis</h2><ul><li>La <b>plasmaféresis</b> está indicada en casos de <b>rápida progresión</b> (debilidad que alcanza el tronco en &lt;48 h) o <b>insuficiencia respiratoria inminente</b> (capacidad vital forzada &lt;20 mL/kg o necesidad de ventilación mecánica).</li><li>También se considera si hay contraindicación para <b>IGIV</b> (ej. hiperviscosidad, insuficiencia renal grave, antecedente de trombosis, deficiencia de IgA con anticuerpos anti-IgA).</li><li>La <b>plasmaféresis</b> elimina anticuerpos patógenos y factores inflamatorios; debe realizarse en centros con experiencia.</li><li>Efectos adversos: hipotensión, hipocalcemia (por citrato), infección de catéter, reacciones alérgicas.</li><li>No se recomienda en pacientes con inestabilidad hemodinámica grave o sepsis activa.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Criterio de ingreso a UCI: capacidad vital forzada menor 20 mL/kg",
+      "title": "Criterio de ingreso a UCI",
+      "contentHtml": "<h2>Criterio de ingreso a UCI</h2><ul><li>El principal criterio es <b>capacidad vital forzada (CVF) &lt;20 mL/kg</b> o descenso &gt;30% respecto al basal en 24 h; también <b>PaO2 &lt;70 mmHg</b> o <b>PaCO2 &gt;50 mmHg</b>.</li><li>Otros criterios: debilidad bulbar (disfagia, disfonía, aspiración), disautonomía grave (arritmias, hipertensión lábil, hipotensión ortostática, íleo paralítico), progresión rápida (incapacidad para deambular en &lt;1 semana).</li><li>La <b>CVF</b> se mide seriadamente (cada 4-6 h) en pacientes con sospecha de compromiso respiratorio; la caída &lt;20 mL/kg predice necesidad de ventilación mecánica en &gt;80%.</li><li>La disautonomía puede requerir monitorización continua de ritmo cardíaco y presión arterial.</li><li>La ventilación mecánica no invasiva no se recomienda; la mayoría requiere intubación orotraqueal electiva si la <b>CVF</b> continúa descendiendo.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Pronóstico: mayoría recuperación, 20% secuelas, 5% mortalidad",
+      "title": "Pronóstico",
+      "contentHtml": "<h2>Pronóstico</h2><ul><li>La mayoría de pacientes (80%) logra recuperación funcional completa o casi completa al año; el 20% presenta secuelas motoras o sensitivas permanentes.</li><li>Mortalidad aproximada del <b>5%</b>, principalmente por complicaciones: paro cardíaco por disautonomía, neumonía aspirativa, sepsis, tromboembolismo pulmonar.</li><li>Factores de mal pronóstico: edad &gt;60 años, necesidad de ventilación mecánica, antecedente de <i>Campylobacter jejuni</i>, variante axonal, inicio rápido (&lt;7 días), amplitud de potencial motor distal &lt;20% del límite inferior.</li><li>La recuperación suele iniciar a las 2-4 semanas después del nadir; la meseta puede durar días a semanas.</li><li>La rehabilitación temprana (fisioterapia, terapia ocupacional) mejora el resultado funcional.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Contraindicación de corticoides: no beneficio, pueden empeorar",
+      "title": "Contraindicación de corticoides",
+      "contentHtml": "<h2>Contraindicación de corticoides</h2><ul><li>Los corticoides (prednisona, metilprednisolona) están <b>contraindicados</b> en el tratamiento del <b>síndrome de Guillain-Barré</b> porque no demuestran beneficio y pueden empeorar el pronóstico.</li><li>Estudios clínicos (incluyendo meta-análisis) muestran que los corticoides solos o en combinación con <b>IGIV</b> o <b>plasmaféresis</b> no mejoran la recuperación y pueden retrasarla.</li><li>Mecanismo propuesto: los corticoides podrían inhibir la remielinización y aumentar el daño axonal secundario.</li><li>Excepción: si existe una contraindicación absoluta para <b>IGIV</b> y <b>plasmaféresis</b> (raro), no se usan corticoides como alternativa; se debe considerar soporte y manejo expectante.</li><li>En variantes crónicas (polineuropatía desmielinizante inflamatoria crónica) los corticoides sí son efectivos, pero no en la forma aguda.</li></ul>"
+    }
+  ]
+}
