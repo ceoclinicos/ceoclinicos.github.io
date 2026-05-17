@@ -3,27 +3,27 @@
   "items": [
     {
       "order": 1,
-      "foco": "Criterios Roma IV para diagnóstico",
-      "title": "Criterios Roma IV",
-      "contentHtml": "<h2>Criterios Roma IV para SII</h2><ul><li>Dolor abdominal recurrente al menos <b>1 día/semana en los últimos 3 meses</b>, asociado a ≥2 de: relación con defecación, cambio en frecuencia de deposiciones, cambio en forma (aspecto) de las heces.</li><li>Los criterios deben cumplirse durante los <b>últimos 3 meses</b> con inicio de síntomas al menos <b>6 meses antes del diagnóstico</b>.</li><li>No requieren pruebas invasivas si no hay signos de alarma; es un diagnóstico <b>basado en síntomas</b>.</li><li>Comparado con Roma III, se eliminó el requisito de “malestar” y se redujo el umbral de frecuencia de dolor de ≥3 días/mes a ≥1 día/semana.</li></ul>"
+      "foco": "Criterios Roma intravenosa para diagnóstico",
+      "title": "Criterios Roma intravenosa",
+      "contentHtml": "<h2>Criterios Roma intravenosa para SII</h2><ul><li>Dolor abdominal recurrente al menos <b>1 día/semana en los últimos 3 meses</b>, asociado a ≥2 de: relación con defecación, cambio en frecuencia de deposiciones, cambio en forma (aspecto) de las heces.</li><li>Los criterios deben cumplirse durante los <b>últimos 3 meses</b> con inicio de síntomas al menos <b>6 meses antes del diagnóstico</b>.</li><li>No requieren pruebas invasivas si no hay signos de alarma; es un diagnóstico <b>basado en síntomas</b>.</li><li>Comparado con Roma III, se eliminó el requisito de “malestar” y se redujo el umbral de frecuencia de dolor de ≥3 días/mes a ≥1 día/semana.</li></ul>"
     },
     {
       "order": 2,
       "foco": "Dolor abdominal relacionado con defecación",
       "title": "Dolor y defecación",
-      "contentHtml": "<h2>Dolor abdominal relacionado con defecación</h2><ul><li>El dolor típicamente mejora o empeora con la defecación; la relación se evalúa preguntando si el dolor se asocia a un cambio en la frecuencia o consistencia de las deposiciones.</li><li>El dolor puede ser de tipo cólico, localizado en hipogastrio o difuso; suele aliviarse tras la evacuación, pero no es obligatorio que desaparezca por completo.</li><li>La relación con la defecación es un criterio <b>Roma IV</b> clave para distinguir SII de otras causas de dolor abdominal funcional.</li><li>El dolor que <b>no</b> se modifica con la defecación sugiere diagnóstico diferencial como enfermedad inflamatoria intestinal o síndrome de dolor abdominal funcional.</li></ul>"
+      "contentHtml": "<h2>Dolor abdominal relacionado con defecación</h2><ul><li>El dolor típicamente mejora o empeora con la defecación; la relación se evalúa preguntando si el dolor se asocia a un cambio en la frecuencia o consistencia de las deposiciones.</li><li>El dolor puede ser de tipo cólico, localizado en hipogastrio o difuso; suele aliviarse tras la evacuación, pero no es obligatorio que desaparezca por completo.</li><li>La relación con la defecación es un criterio <b>Roma intravenosa</b> clave para distinguir SII de otras causas de dolor abdominal funcional.</li><li>El dolor que <b>no</b> se modifica con la defecación sugiere diagnóstico diferencial como enfermedad inflamatoria intestinal o síndrome de dolor abdominal funcional.</li></ul>"
     },
     {
       "order": 3,
       "foco": "Cambio en frecuencia de deposiciones",
       "title": "Cambio en frecuencia",
-      "contentHtml": "<h2>Cambio en frecuencia de deposiciones</h2><ul><li>Se considera cambio cuando el paciente refiere <b>&lt;3 deposiciones/semana</b> (estreñimiento) o <b>&gt;3 deposiciones/día</b> (diarrea).</li><li>El cambio debe ser <b>persistente</b> y no explicado por otra causa (p. ej., infección, medicamentos).</li><li>La frecuencia se evalúa mediante la <b>Escala de Bristol</b>; tipos 1-2 sugieren estreñimiento, tipos 6-7 diarrea.</li><li>En el SII, la frecuencia puede alternar entre ambos extremos; el patrón predominante define el subtipo.</li></ul>"
+      "contentHtml": "<h2>Cambio en frecuencia de deposiciones</h2><ul><li>Se considera cambio cuando el paciente refiere <b>&lt;3 deposiciones/semana</b> (estreñimiento) o <b>&gt;3 deposiciones/día</b> (diarrea).</li><li>El cambio debe ser <b>persistente</b> y no explicado por otra causa (por ejemplo, infección, medicamentos).</li><li>La frecuencia se evalúa mediante la <b>Escala de Bristol</b>; tipos 1-2 sugieren estreñimiento, tipos 6-7 diarrea.</li><li>En el SII, la frecuencia puede alternar entre ambos extremos; el patrón predominante define el subtipo.</li></ul>"
     },
     {
       "order": 4,
       "foco": "Alivio con la defecación",
       "title": "Alivio con defecación",
-      "contentHtml": "<h2>Alivio con la defecación</h2><ul><li>El alivio del dolor tras la evacuación es un criterio <b>Roma IV</b>; se considera presente si el dolor disminuye o desaparece después de defecar.</li><li>No se requiere alivio completo; mejoría parcial es suficiente para cumplir el criterio.</li><li>La ausencia de alivio con la defecación debe hacer sospechar otras entidades como <b>disquecia</b> o <b>proctalgia fugaz</b>.</li><li>En el examen, preguntan: “¿El dolor se alivia al defecar?”; respuesta afirmativa orienta a SII.</li></ul>"
+      "contentHtml": "<h2>Alivio con la defecación</h2><ul><li>El alivio del dolor tras la evacuación es un criterio <b>Roma intravenosa</b>; se considera presente si el dolor disminuye o desaparece después de defecar.</li><li>No se requiere alivio completo; mejoría parcial es suficiente para cumplir el criterio.</li><li>La ausencia de alivio con la defecación debe hacer sospechar otras entidades como <b>disquecia</b> o <b>proctalgia fugaz</b>.</li><li>En el examen, preguntan: “¿El dolor se alivia al defecar?”; respuesta afirmativa orienta a SII.</li></ul>"
     },
     {
       "order": 5,
@@ -35,7 +35,7 @@
       "order": 6,
       "foco": "Predominio de estreñimiento (SII-E)",
       "title": "SII con estreñimiento",
-      "contentHtml": "<h2>Predominio de estreñimiento (SII-E)</h2><ul><li>Deposiciones de <b>Bristol tipo 1-2</b> en &gt;25% de las defecaciones y Bristol 6-7 en &lt;25%.</li><li>Primera línea: <b>fibra soluble (psyllium)</b> y <b>antiespasmódicos</b> (p. ej., hioscina).</li><li>Si no responde, considerar <b>lubiprostona</b> (8-24 µg/día) o <b>linaclotida</b> (290 µg/día).</li><li>Evitar fibra insoluble (salvado) que puede empeorar la distensión.</li></ul>"
+      "contentHtml": "<h2>Predominio de estreñimiento (SII-E)</h2><ul><li>Deposiciones de <b>Bristol tipo 1-2</b> en &gt;25% de las defecaciones y Bristol 6-7 en &lt;25%.</li><li>Primera línea: <b>fibra soluble (psyllium)</b> y <b>antiespasmódicos</b> (por ejemplo, hioscina).</li><li>Si no responde, considerar <b>lubiprostona</b> (8-24 µg/día) o <b>linaclotida</b> (290 µg/día).</li><li>Evitar fibra insoluble (salvado) que puede empeorar la distensión.</li></ul>"
     },
     {
       "order": 7,

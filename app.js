@@ -480,13 +480,11 @@
     edadSelect.appendChild(opt);
   }
 
-  function isValidUsername(nombre) {
-    var t = nombre.trim();
-    return t.length > 0 && t.indexOf(' ') === -1;
-  }
+  var UN = window.UsernameNormalizer;
 
   function validarRegistro() {
-    var nombre = document.getElementById('auth-nombre').value.trim();
+    var nombreApellido = document.getElementById('auth-nombre-apellido').value;
+    var usuario = document.getElementById('auth-usuario').value.trim();
     var password = document.getElementById('auth-password').value;
     var edad = document.getElementById('auth-edad').value;
     var sexoM = document.getElementById('auth-sexo-m').checked;
@@ -495,17 +493,24 @@
     var pais = document.getElementById('auth-pais').value;
     var ok = true;
     authWarning.classList.remove('visible');
-    document.getElementById('auth-nombre').classList.remove('error');
+    document.getElementById('auth-nombre-apellido').classList.remove('error');
+    document.getElementById('auth-usuario').classList.remove('error');
     document.getElementById('auth-password').classList.remove('error');
-    if (!nombre) {
-      authWarning.textContent = 'El nombre es obligatorio.';
+    if (!UN || !UN.isValidNombreApellido(nombreApellido)) {
+      authWarning.textContent = 'Nombre y apellido obligatorio.';
       authWarning.classList.add('visible');
-      document.getElementById('auth-nombre').classList.add('error');
+      document.getElementById('auth-nombre-apellido').classList.add('error');
       ok = false;
-    } else if (!isValidUsername(nombre)) {
-      authWarning.textContent = 'El nombre no puede contener espacios.';
+    }
+    if (!usuario) {
+      authWarning.textContent = (authWarning.textContent || '') + ' El usuario es obligatorio.';
       authWarning.classList.add('visible');
-      document.getElementById('auth-nombre').classList.add('error');
+      document.getElementById('auth-usuario').classList.add('error');
+      ok = false;
+    } else if (!UN || !UN.isValidUsuario(usuario)) {
+      authWarning.textContent = 'Usuario inválido: solo letras, sin espacios, máximo 25 letras.';
+      authWarning.classList.add('visible');
+      document.getElementById('auth-usuario').classList.add('error');
       ok = false;
     }
     if (!password) {
@@ -549,7 +554,7 @@
     document.getElementById('auth-login-nombre').classList.remove('error');
     document.getElementById('auth-login-password').classList.remove('error');
     if (!nombre) {
-      authWarning.textContent = 'El nombre es obligatorio.';
+      authWarning.textContent = 'El usuario es obligatorio.';
       authWarning.classList.add('visible');
       document.getElementById('auth-login-nombre').classList.add('error');
       return false;
@@ -565,9 +570,10 @@
 
   document.getElementById('auth-btn-registrar').addEventListener('click', function () {
     if (!validarRegistro()) return;
-    var nombre = document.getElementById('auth-nombre').value.trim();
+    var usuario = document.getElementById('auth-usuario').value.trim();
     var password = document.getElementById('auth-password').value;
     var data = {
+      nombreApellido: document.getElementById('auth-nombre-apellido').value,
       edad: document.getElementById('auth-edad').value,
       sexo: document.getElementById('auth-sexo-m').checked ? 'M' : (document.getElementById('auth-sexo-f').checked ? 'F' : ''),
       profesion: document.getElementById('auth-profesion').value,
@@ -579,7 +585,7 @@
       authWarning.classList.add('visible');
       return;
     }
-    AuthService.register(nombre, password, data).then(function (result) {
+    AuthService.register(usuario, password, data).then(function (result) {
       if (!result || !result.ok) {
         authWarning.textContent = (result && result.msg) || 'Error al registrarse.';
         authWarning.classList.add('visible');

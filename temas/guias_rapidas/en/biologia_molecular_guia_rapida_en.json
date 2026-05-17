@@ -11,7 +11,7 @@
       "order": 1,
       "foco": "DNA Replication: Hairpin and Okazaki Fragments",
       "title": "DNA replication",
-      "contentHtml": "<h2>DNA Replication</h2><ul><li><b>Replication fork:</b> DNA helicase unwinds; topoisomerase (e.g. gyrase in prokaryotes) relieves tension; SSB proteins stabilize simple chains.</li><li><b>Frag. Okazaki:</b> lagging strand (3'→5' read), synthesized by DNA polymerase III in prokaryotes/ δ in eukaryotes; linked by DNA ligase. <b>Trap:</b> RNA (primase) primers are necessary; In the exam they ask that the leading chain is continuous 5'→3'.</li><li><b>Directionality:</b> always synthesis 5'→3'; the fork is asymmetrical. </li></ul>"
+      "contentHtml": "<h2>DNA Replication</h2><ul><li><b>Replication fork:</b> DNA helicase unwinds; topoisomerase (for example gyrase in prokaryotes) relieves tension; SSB proteins stabilize simple chains.</li><li><b>Frag. Okazaki:</b> lagging strand (3'→5' read), synthesized by DNA polymerase III in prokaryotes/ δ in eukaryotes; linked by DNA ligase. <b>Trap:</b> RNA (primase) primers are necessary; In the exam they ask that the leading chain is continuous 5'→3'.</li><li><b>Directionality:</b> always synthesis 5'→3'; the fork is asymmetrical. </li></ul>"
     },
     {
       "order": 2,
@@ -29,7 +29,7 @@
       "order": 4,
       "foco": "Point mutations: silent, nonsense, missense",
       "title": "Point mutations",
-      "contentHtml": "<h2>Point mutations</h2><ul><li><b>Silent:</b> base change does not alter amino acid (degeneration); no phenotypic effect.</li><li><b>Missense:</b> amino acid change; It can be conservative (similar chemistry) or non-conservative (e.g. HbS: Glu→Val in β-globin). </li><li><b>Nonsense:</b> codon becomes stop (UAA, UAG, UGA); produces truncated protein (e.g. Duchenne muscular dystrophy). <b>Cat:</b> meaningless mutation is not the same as frameshift; frameshift is insertion/deletion not a multiple of 3. </li></ul>"
+      "contentHtml": "<h2>Point mutations</h2><ul><li><b>Silent:</b> base change does not alter amino acid (degeneration); no phenotypic effect.</li><li><b>Missense:</b> amino acid change; It can be conservative (similar chemistry) or non-conservative (for example HbS: Glu→Val in β-globin). </li><li><b>Nonsense:</b> codon becomes stop (UAA, UAG, UGA); produces truncated protein (for example Duchenne muscular dystrophy). <b>Cat:</b> meaningless mutation is not the same as frameshift; frameshift is insertion/deletion not a multiple of 3. </li></ul>"
     },
     {
       "order": 5,
@@ -47,13 +47,13 @@
       "order": 7,
       "foco": "Polymerase chain reaction (PCR)",
       "title": "PCR",
-      "contentHtml": "<h2>PCR</h2><ul><li><b>Cycles:</b> denaturation (94-98°C), annealing (50-65°C, depending on Tm of primers), extension (72°C, thermostable Taq polymerase). 30-35 cycles amplify exponentially. </li><li><b>Key components:</b> Template DNA, primers, dNTPs, Taq pol, buffer with Mg²⁺ (cofactor). <b>Trap:</b> Excessive Mg²⁺ may increase nonspecificity; Tm is calculated with formula (2°C for A/T + 4°C for G/C).</li><li><b>Real-time PCR (qPCR):</b> quantifies DNA using SYBR Green or TaqMan probes; useful for viral load (HIV, HCV). </li></ul>"
+      "contentHtml": "<h2>PCR</h2><ul><li><b>Cycles:</b> denaturation (94-98°C), annealing (50-65°C, depending on Tm of primers), extension (72°C, thermostable Taq polymerase). 30-35 cycles amplify exponentially. </li><li><b>Key components:</b> Template DNA, primers, dNTPs, Taq pol, buffer with Mg²⁺ (cofactor). <b>Trap:</b> Excessive Mg²⁺ may increase nonspecificity; Tm is calculated with formula (2°C for A/T + 4°C for G/C).</li><li><b>Real-time PCR (qPCR):</b> quantifies DNA using SYBR Green or TaqMan probes; useful for viral load (human immunodeficiency virus, HCV). </li></ul>"
     },
     {
       "order": 8,
       "foco": "Gel electrophoresis and Southern blot",
       "title": "Electrophoresis and Southern blot",
-      "contentHtml": "<h2>Electrophoresis and Southern blot</h2><ul><li><b>Electrophoresis:</b> DNA (negatively charged) migrates towards anode in agarose gel; small fragments migrate faster. <b>Stain:</b> ethidium bromide or SYBR Safe; visualized with UV.</li><li><b>Southern blot:</b> DNA transfer to membrane (nylon/nitrocellulose) after digestion with restriction enzymes; hybridization with labeled probe (radioactive/chemiluminescent). <b>Useful for:</b> detecting mutations, gene rearrangements (e.g. clonality in lymphomas).</li><li><b>Trap:</b> Northern blot is for RNA; Western blot for proteins. </li></ul>"
+      "contentHtml": "<h2>Electrophoresis and Southern blot</h2><ul><li><b>Electrophoresis:</b> DNA (negatively charged) migrates towards anode in agarose gel; small fragments migrate faster. <b>Stain:</b> ethidium bromide or SYBR Safe; visualized with UV.</li><li><b>Southern blot:</b> DNA transfer to membrane (nylon/nitrocellulose) after digestion with restriction enzymes; hybridization with labeled probe (radioactive/chemiluminescent). <b>Useful for:</b> detecting mutations, gene rearrangements (for example clonality in lymphomas).</li><li><b>Trap:</b> Northern blot is for RNA; Western blot for proteins. </li></ul>"
     },
     {
       "order": 9,
@@ -65,7 +65,7 @@
       "order": 10,
       "foco": "Restriction enzymes and cloning vectors",
       "title": "Restriction enzymes and vectors",
-      "contentHtml": "<h2>Restriction enzymes and vectors</h2><ul><li><b>Restriction enzymes:</b> endonucleases that cut DNA in palindromic sequences (e.g. EcoRI: GAATTC). They produce cohesive (sticky) or blunt (blunt) ends. <b>Utility:</b> restriction mapping, cloning.</li><li><b>Cloning vectors:</b> plasmids (origin of replication, multiple cloning site, selection marker gene such as ampR). <b>Other vectors:</b> phages, BAC (bacterial artificial chromosome), YAC.</li><li><b>Trap:</b> DNA ligase joins fragments with compatible ends; Alkaline phosphatase prevents vector relegation. </li></ul>"
+      "contentHtml": "<h2>Restriction enzymes and vectors</h2><ul><li><b>Restriction enzymes:</b> endonucleases that cut DNA in palindromic sequences (for example EcoRI: GAATTC). They produce cohesive (sticky) or blunt (blunt) ends. <b>Utility:</b> restriction mapping, cloning.</li><li><b>Cloning vectors:</b> plasmids (origin of replication, multiple cloning site, selection marker gene such as ampR). <b>Other vectors:</b> phages, BAC (bacterial artificial chromosome), YAC.</li><li><b>Trap:</b> DNA ligase joins fragments with compatible ends; Alkaline phosphatase prevents vector relegation. </li></ul>"
     }
   ]
 }
