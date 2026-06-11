@@ -1,0 +1,77 @@
+{
+  "id": "dehydration_and_diarrhea",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Classification according to isotonic, hypertonic, hypotonic",
+      "title": "Types of dehydration according to tone",
+      "contentHtml": "<h2>Classification according to tonicity</h2><ul><li><b>Isotonic dehydration</b> (proportional loss of water and sodium): the most frequent (70-80% of cases); serum sodium 135-145 mEq/L.</li><li><b>Hypertonic dehydration</b> (water loss &gt; sodium): serum sodium &gt;145 mEq/L; occurs in osmotic diarrhea or high fever; risk of seizures with rapid rehydration.</li><li><b>Hypotonic dehydration</b> (sodium loss &gt; water): serum sodium &lt;135 mEq/L; worsens hemodynamic status; danger of cerebral edema.</li><li>Trap: clinically, tonicity is calculated with serum sodium; Do not confuse with measured osmolarity. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Causes of secretory diarrhea vs. osmotic",
+      "title": "Secretory and osmotic diarrhea",
+      "contentHtml": "<h2>Secretory diarrhea vs. osmotic</h2><ul><li><b>Secretory diarrhea</b>: caused by bacterial toxins (Vibrio cholerae, enterotoxigenic Escherichia coli), hormones (VIPoma) or bile acids; persists in fasting; fecal volume &gt;1 L/day; without osmotic gap. </li><li><b>Osmotic diarrhea</b>: due to unabsorbed solutes (lactose in lactase deficiency, laxatives, sorbitol); ceases with fasting; fecal osmotic gap &gt;100 mOsm/kg.</li><li>Key fact: measure <b>fecal osmolarity</b> and fecal electrolytes to differentiate: secretory (Na+K &times;2 ≈ fecal osmolarity); osmotic (Na+K &times;2 &lt; fecal osmolarity).</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Fecal osmotic gap in osmotic diarrhea",
+      "title": "Fecal osmotic gap",
+      "contentHtml": "<h2>Fecal osmotic gap</h2><ul><li><b>Fecal osmotic gap</b> = measured fecal osmolarity – [2 &times; (Fecal Na + Fecal K)].</li><li>Normal value: &lt;50 mOsm/kg. In <b>osmotic diarrhea</b>: &gt;100 mOsm/kg, due to the presence of unmeasured solutes (carbohydrates, magnesium).</li><li>In <b>secretory diarrhea</b>: gap &lt;50 mOsm/kg, because fecal osmolarity is almost entirely explained by electrolytes.</li><li>Trap: if fecal osmolarity is calculated (not is measured), assume 290 mOsm/kg; but direct measurement is more precise.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Oral rehydration with low osmolarity ORS",
+      "title": "low osmolarity ORS",
+      "contentHtml": "<h2>Oral rehydration with low osmolarity ORS</h2><ul><li>The <b>low osmolarity oral rehydration solution</b> (WHO 2002) has: glucose 75 mmol/L, sodium 75 mEq/L, total osmolarity 245 mOsm/L.</li><li>Advantage: reduces the need for intravenous fluids and the incidence of paralytic ileus versus standard ORS (311 mOsm/L).</li><li>Indicated in mild-moderate dehydration due to acute diarrhea of any cause, including cholera.</li><li>Dose: 50-100 mL/kg in 4 hours for moderate dehydration; Administer in small frequent doses. </li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "WHO Plan A, B and C for dehydration",
+      "title": "WHO rehydration plans",
+      "contentHtml": "<h2>WHO Plan A, B and C</h2><ul><li><b>Plan A</b> (without dehydration): at home, low osmolarity ORS as needed, continue feeding, zinc 20 mg/day (10 mg in &lt;6 months) for 10-14 days.</li><li><b>Plan B</b> (moderate dehydration): low osmolarity ORS 75 mL/kg in 4 hours, in a health center; reassess every 1-2 hours.</li><li><b>Plan C</b> (severe dehydration): immediate intravenous fluids (lactated Ringer's or 0.9% saline), 100 mL/kg in 3 hours (30 mL/kg in the first hour, 70 mL/kg in the remaining 2.5 hours).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Signs of severe dehydration in children",
+      "title": "Signs of severity in children",
+      "contentHtml": "<h2>Signs of severe dehydration in children</h2><ul><li>According to the WHO: two of the following signs = severe dehydration: <b>lethargy or unconsciousness</b>, <b>sunken eyes</b>, <b>skin fold that returns very slowly (&gt;2 seconds)</b>, <b>cannot drink or drinks poorly</b>.</li><li>Additional: tachycardia, capillary refill &gt;3 seconds, acidotic breathing (Kussmaul), cold extremities. </li><li><b>Fold sign</b>: in children <1 year, loss of turgor is late; use other combined signs. </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Weight loss as a criterion of severity",
+      "title": "Weight loss and severity",
+      "contentHtml": "<h2>Weight loss as a criterion of severity</h2><ul><li><b>Weight loss</b> is the gold standard for classifying dehydration: mild (&lt;3-5%), moderate (5-9%), severe (&gt;9-10%).</li><li>In children, acute weight loss &gt;10% indicates severe dehydration with risk of shock.</li><li>Trap: weight loss must be about the previous known weight; If there is no record, use combined clinical signs (<b>Gorelick</b> scale or <b>WHO Integrated Management of Childhood Illness</b>).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Zinc in acute diarrhea reduces duration and severity",
+      "title": "Zinc in acute diarrhea",
+      "contentHtml": "<h2>Zinc in acute diarrhea</h2><ul><li>Zinc supplementation</b> (20 mg/day in children &gt;6 months; 10 mg/day in &lt;6 months, for 10-14 days) reduces the duration of diarrhea by ~25% and the severity (less frequent bowel movements).</li><li>Mechanism: improves intestinal absorption of water and electrolytes, and shortens the recovery phase of the enterocyte.</li><li>Recommended by WHO and UNICEF as part of <b>Plan A</b> in all acute diarrhea, regardless of the cause.</li><li>Trap: do not start in children under 2 months of age without evidence of deficiency; it does not replace oral rehydration.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Indications for intravenous fluids in dehydration",
+      "title": "Intravenous fluids: when",
+      "contentHtml": "<h2>Indications for intravenous fluids in dehydration</h2><ul><li><b>Absolute indications</b>: severe dehydration (Plan C), hypovolemic shock, failure of oral rehydration (uncontrollable vomiting, abdominal distension), paralytic ileus, altered state of consciousness.</li><li>First choice: <b>Ringer's lactate</b> or 0.9% saline solution; in anger, prefer lactated Ringer's due to its electrolyte composition that is closer to the losses. </li><li>Speed: in shock, bolus of 20 mL/kg in 15-30 minutes, repeat if necessary until perfusion is restored. </li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Rehydration algorithm in cholera",
+      "title": "Rehydration in anger",
+      "contentHtml": "<h2>Rehydration algorithm in cholera</h2><ul><li>Assess dehydration: if severe, <b>Plan C</b>: Ringer's lactate IV 100 mL/kg in 3 hours (children) or 100 mL/kg in 2-4 hours (adults).</li><li>If moderate, <b>Plan B</b> with low osmolarity ORS: 75 mL/kg in 4 hours; monitor fecal output.</li><li>Once hydrated, move to <b>Plan A</b> (maintenance with ORS according to continuous losses).</li><li>Antibiotic in <b>severe cholera</b>: doxycycline 300 mg single dose (adults) or azithromycin 1 g single dose (pregnant women, children).</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Hypoglycemia as a complication in severe diarrhea",
+      "title": "Hypoglycemia in severe diarrhea",
+      "contentHtml": "<h2>Hypoglycemia as a complication</h2><ul><li><b>Hypoglycemia</b> (glucose &lt;54 mg/dL) is a serious complication in severe diarrhea, especially in malnourished children or those with prolonged fasting.</li><li>Mechanism: depletion of hepatic glycogen due to decreased intake and increased metabolic consumption.</li><li>Management: if the child is conscious, administer <b>glucose solution to the child. 10%</b>2 mL/kg IV or orally (if able to swallow); if there are seizures or coma, 1 mL/kg of 25% glucose IV. </li><li>Trap: always measure capillary glucose in any child with severe dehydration or lethargy.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Antibiotics only in dysenteric diarrhea or severe cholera",
+      "title": "Antibiotics in diarrhea: indications",
+      "contentHtml": "<h2>Antibiotics only in dysenteric diarrhea or severe cholera</h2><ul><li>In acute watery diarrhea, antibiotics are NOT indicated (most are viral or self-limiting); only in <b>severe cholera</b> (reduction in volume and duration) and <b>dysentery</b> (blood in stool, fever, tenesmus).</li><li>In Shigella dysentery: <b>ciprofloxacin</b> 15 mg/kg/day every 12 hours for 3-5 days or azithromycin if resistance.</li><li>In severe cholera: doxycycline 300 mg single dose (adults) or azithromycin 1 g single dose.</li><li>Trap: in diarrhea due to enterohemorrhagic <i>Escherichia coli</i> (O157:H7), antibiotics increase the risk of hemolytic uremic syndrome; contraindicated. </li></ul>"
+    }
+  ]
+}

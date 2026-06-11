@@ -1,554 +1,1258 @@
 {
   "questions": [
     {
-      "question": "Qual é a principal característica do diabetes mellitus?",
+      "question": "Qual dos seguintes valores de glicemia em jejum é diagnóstico de diabetes mellitus de acordo com a ADA?",
       "options": [
-        "Níveis baixos de colesterol.",
-        "Perda excessiva de peso.",
-        "Destruição de células autoimunes.",
-        "Aumento persistente da glicemia."
+        "≥ 110mg/dL",
+        "≥ 140mg/dL",
+        "≥ 100mg/dL",
+        "≥ 126 mg/dL"
       ],
       "correctAnswer": 4,
-      "explanation": "O diabetes mellitus é definido como um distúrbio metabólico crônico que se distingue fundamentalmente pela presença de **hiperglicemia persistente**. Isso significa que os níveis de açúcar no sangue permanecem constantemente elevados, o que com o tempo pode causar sérios danos a vários órgãos e sistemas e requer tratamento médico para controle."
+      "explanation": "A ADA estabelece que uma glicemia de jejum ≥ 126 mg/dL em duas ocasiões distintas confirma o diagnóstico de diabetes mellitus; Valores mais baixos indicam pré-diabetes ou normalidade.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "diagnóstico",
+        "jejum_glicemia",
+        "MEDICAL_TOPIC",
+        "ADA 2024"
+      ]
     },
     {
-      "question": "Quais são os principais mecanismos que causam o diabetes mellitus?",
+      "question": "Qual teste oral de tolerância à glicose confirma o diabetes de acordo com a OMS?",
       "options": [
-        "Diminuição da resistência ou secreção.",
-        "Apenas secreção insuficiente de insulina.",
-        "Exclusivamente devido a toxinas virais.",
-        "Apenas resistência periférica à insulina."
+        "≥ 200 mg/dL em 2 horas",
+        "≥ 140 mg/dL em 2 horas",
+        "≥ 180 mg/dL em 2 horas",
+        "≥ 250 mg/dL em 2 horas"
       ],
       "correctAnswer": 1,
-      "explanation": "O diabetes é causado por uma alteração na regulação da glicose que pode ser resultado de dois mecanismos patológicos diferentes ou de sua combinação: **resistência às ações da insulina** nos tecidos periféricos e/ou **deficiência na secreção de insulina** pelo pâncreas."
+      "explanation": "A OMS define diabetes se o nível de glicose no sangue 2 horas após uma sobrecarga oral de 75 g de glicose for ≥ 200 mg/dL, valor que indica resposta insuficiente à insulina.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "diagnóstico",
+        "curva_glicose",
+        "MEDICAL_TOPIC",
+        "OMS 2023"
+      ]
     },
     {
-      "question": "O que é um tipo de complicação microvascular do diabetes?",
+      "question": "Qual é o valor de hemoglobina glicada (HbA1c) considerado diagnóstico de diabetes pela ADA?",
       "options": [
-        "Hipertensão arterial.",
-        "AVC.",
-        "Retinopatia.",
-        "Doença cardiovascular."
+        "≥ 5,7%",
+        "≥ 6,0%",
+        "≥ 7,0%",
+        "≥ 6,5%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A ADA inclui HbA1c ≥ 6,5% como critério diagnóstico, desde que o laboratório seja certificado e padronizado; Valores entre 5,7-6,4% indicam pré-diabetes.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "diagnóstico",
+        "glicosilada_hemoglobina",
+        "MEDICAL_TOPIC",
+        "ADA 2024"
+      ]
+    },
+    {
+      "question": "Em um paciente com glicemia aleatória de 250 mg/dL e sintomas clássicos, qual abordagem diagnóstica é correta?",
+      "options": [
+        "Solicitar HbA1c em 3 meses",
+        "Criar curva de tolerância",
+        "Repetir glicemia em jejum",
+        "Diagnosticar diabetes imediatamente"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A ADA e a OMS aceitam que um nível aleatório de glicose no sangue ≥ 200 mg/dL acompanhado de poliúria, polidipsia ou perda de peso é suficiente para diagnosticar diabetes sem a necessidade de outro teste.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "diagnóstico",
+        "glicemia_aleatória",
+        "MEDICAL_TOPIC",
+        "ADA 2024"
+      ]
+    },
+    {
+      "question": "Qual condição é diagnosticada com glicemia de jejum entre 100 e 125 mg/dL de acordo com a ADA?",
+      "options": [
+        "Diabetes mellitus tipo 1",
+        "Diabetes mellitus tipo 2",
+        "Pré-diabetes (glicemia alterada)",
+        "Normoglicemia"
       ],
       "correctAnswer": 3,
-      "explanation": "As complicações microvasculares referem-se a danos em pequenos vasos sanguíneos e incluem **retinopatia** (lesão ocular), nefropatia (dano renal) e neuropatia (dano nervoso). As outras opções são complicações macrovasculares ou fatores de risco associados ao diabetes."
+      "explanation": "A ADA define glicemia de jejum alterada (pré-diabetes) quando os valores estão entre 100 e 125 mg/dL, indicando alto risco de progressão para diabetes.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "diagnóstico",
+        "pré-diabetes",
+        "MEDICAL_TOPIC",
+        "ADA 2024"
+      ]
     },
     {
-      "question": "Qual porcentagem de casos de diabetes é tipo 1?",
+      "question": "Qual das alternativas a seguir não é um critério diagnóstico para diabetes de acordo com a ADA?",
       "options": [
-        "Entre 5 e 10 por cento.",
-        "Menos de 2 por cento.",
-        "Cerca de 25 por cento.",
-        "Cerca de 90 por cento."
+        "HbA1c ≥ 6,5%",
+        "Glicose sanguínea em jejum ≥ 126 mg/dL",
+        "Glicemia 2 h ≥ 200 mg/dL",
+        "Glicose sanguínea em jejum ≥ 110 mg/dL"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A ADA requer glicemia de jejum ≥ 126 mg/dL; O valor de 110 mg/dL corresponde ao antigo critério de glicemia alterada e não ao diagnóstico de diabetes.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "diagnóstico",
+        "critérios_ada",
+        "MEDICAL_TOPIC",
+        "ADA 2024"
+      ]
+    },
+    {
+      "question": "Qual é a principal característica fisiopatológica do diabetes mellitus tipo 1?",
+      "options": [
+        "Hiperprodução de glucagon",
+        "Secreção inadequada de insulina",
+        "resistência à insulina",
+        "Deficiência absoluta de insulina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O diabetes tipo 1 é devido à destruição autoimune das células beta pancreáticas, levando à deficiência absoluta de insulina.",
+      "hashtags": [
+        "endocrinologia",
+        "diabetes_mellitus_type_1",
+        "fisiopatologia",
+        "deficiência_de insulina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual fator está mais frequentemente associado ao desenvolvimento de diabetes mellitus tipo 2?",
+      "options": [
+        "Obesidade e estilo de vida sedentário",
+        "Infecção viral anterior",
+        "Mutação genética monogênica",
+        "História da cirurgia pancreática"
       ],
       "correctAnswer": 1,
-      "explanation": "*Diabetes mellitus tipo 1 (DM1)* é a forma menos comum da doença em adultos e representa historicamente entre **5% e 10%** do total de casos diagnosticados de diabetes mellitus. É caracterizada por deficiência absoluta de insulina devido à destruição autoimune das células beta."
+      "explanation": "O diabetes tipo 2 está fortemente associado à obesidade e ao sedentarismo, que contribuem para a resistência à insulina e a disfunção das células beta.",
+      "hashtags": [
+        "endocrinologia",
+        "diabetes_mellitus_type_2",
+        "etiologia",
+        "fatores_de risco",
+        "MEDICAL_TOPIC",
+        ""
+      ]
     },
     {
-      "question": "Qual é a causa subjacente do diabetes tipo 1?",
+      "question": "Em que trimestre da gravidez geralmente é diagnosticado diabetes mellitus gestacional?",
       "options": [
-        "Destruição autoimune de células beta.",
-        "Infecção viral precoce.",
-        "Resistência periférica à insulina.",
-        "Obesidade e estilo de vida sedentário."
+        "Segundo trimestre",
+        "Terceiro trimestre",
+        "Pós-parto imediato",
+        "Primeiro trimestre"
       ],
       "correctAnswer": 1,
-      "explanation": "O diabetes tipo 1 é classificado como uma doença autoimune em que o sistema imunológico do corpo identifica e destrói seletivamente as células beta produtoras de insulina nas ilhotas do pâncreas, resultando na completa ausência de insulina."
+      "explanation": "O diabetes gestacional é normalmente diagnosticado no segundo trimestre, entre 24 e 28 semanas, por meio de um teste oral de tolerância à glicose.",
+      "hashtags": [
+        "endocrinologia",
+        "diabetes_gestacional",
+        "diagnóstico",
+        "gravidez_trimestre",
+        "MEDICAL_TOPIC",
+        ""
+      ]
     },
     {
-      "question": "Que tipo de diabetes representa o maior número de casos?",
+      "question": "Qual é o tratamento de primeira linha para diabetes mellitus tipo 2 não complicado?",
       "options": [
-        "Tipo 2.",
-        "Gestacional.",
-        "Tipo 1.",
-        "Monogênico."
-      ],
-      "correctAnswer": 1,
-      "explanation": "**Diabetes mellitus tipo 2 (DM2)** é a forma mais prevalente de diabetes em todo o mundo, constituindo aproximadamente **90%** de todos os casos de diabetes diagnosticados. Está fortemente associada a fatores de risco como obesidade e sedentarismo."
-    },
-    {
-      "question": "Que condição marca o início do diabetes tipo 2?",
-      "options": [
-        "Infecção viral precoce.",
-        "Deficiência absoluta de insulina.",
-        "Resistência à ação da insulina.",
-        "Destruição total das células beta."
-      ],
-      "correctAnswer": 3,
-      "explanation": "O processo patológico subjacente que inicia o *diabetes tipo 2* é a *resistência à insulina*, uma condição na qual as células do corpo não respondem adequadamente ao hormônio. Embora o pâncreas tente compensar, ele falha e ocorre hiperglicemia persistente."
-    },
-    {
-      "question": "Em que faixa etária o Tipo 2 é mais comum?",
-      "options": [
-        "Entre 10 e 25 anos.",
-        "Mais de 45 anos.",
-        "Mulheres grávidas.",
-        "Crianças menores de 10 anos."
-      ],
-      "correctAnswer": 2,
-      "explanation": "O *diabetes tipo 2* é mais comumente diagnosticado em *pessoas com mais de 45 anos*. No entanto, a crescente epidemia de obesidade e a falta de atividade física levaram a um aumento notável nos diagnósticos em crianças, adolescentes e adultos jovens."
-    },
-    {
-      "question": "O que é diabetes gestacional?",
-      "options": [
-        "Diabetes antes da gravidez.",
-        "Hiperglicemia detectada durante a gravidez.",
-        "Hiperglicemia após o parto.",
-        "Diabetes autoimune em adultos."
-      ],
-      "correctAnswer": 2,
-      "explanation": "*Diabetes mellitus gestacional (DMG)* é a condição de hiperglicemia observada ou **detectada pela primeira vez durante a gravidez** em uma mulher. Geralmente se manifesta no segundo ou terceiro trimestre e requer cuidados dietéticos e cuidados médicos para proteger o feto e a mãe."
-    },
-    {
-      "question": "Qual a porcentagem de gestações complicadas pelo DMG?",
-      "options": [
-        "Cerca de 7 por cento.",
-        "Menos de 1 por cento.",
-        "Mais de 50 por cento.",
-        "Cerca de 20 por cento."
-      ],
-      "correctAnswer": 1,
-      "explanation": "O diabetes gestacional é uma complicação significativa durante a gravidez. A American Diabetes Association (ADA) estima que esta condição **complica cerca de 7% de todas as gestações** e aumenta o risco tanto para a mãe como para o bebé de desenvolverem diabetes tipo 2 no futuro."
-    },
-    {
-      "question": "O que causa diabetes monogênico?",
-      "options": [
-        "Danos induzidos por drogas.",
-        "Doenças do pâncreas exócrino.",
-        "Mutação única em um gene.",
-        "Vários genes e fatores ambientais."
-      ],
-      "correctAnswer": 3,
-      "explanation": "**Diabetes monogênico** é um tipo raro de diabetes causado pela **mutação de um único gene** com padrão de herança autossômico dominante. Os exemplos incluem diabetes de início na maturidade dos jovens (MODY) e diabetes neonatal, e geralmente se manifestam em idade precoce."
-    },
-    {
-      "question": "Que condição pode causar diabetes secundário?",
-      "options": [
-        "Pancreatite.",
-        "Uma dieta baixa em carboidratos.",
-        "Atividade física excessiva.",
-        "Um baixo índice de massa corporal."
-      ],
-      "correctAnswer": 1,
-      "explanation": "**Diabetes secundário** é o diabetes que ocorre como resultado direto de outra doença ou do uso de certos medicamentos. Condições que afetam diretamente o pâncreas, como pancreatite, ou distúrbios hormonais, como a doença de Cushing, podem ser causas subjacentes."
-    },
-    {
-      "question": "Qual porcentagem da população americana tinha DM em 2015?",
-      "options": [
-        "Cerca de 10 por cento.",
-        "Cerca de 40 por cento.",
-        "Menos de 1 por cento.",
-        "Cerca de 25 por cento."
-      ],
-      "correctAnswer": 1,
-      "explanation": "De acordo com estimativas da Federação Internacional de Diabetes (IDF) para 2015, aproximadamente **10%** da população adulta nos Estados Unidos tinha diabetes. Além disso, estima-se que um grande número destes casos não foram diagnosticados na altura, pelo que o número real poderia ser superior."
-    },
-    {
-      "question": "Qual é a prevalência do diabetes em pessoas com mais de 65 anos de idade?",
-      "options": [
-        "Cerca de 25 por cento.",
-        "Menos de 5 por cento.",
-        "Mais de 75 por cento.",
-        "Cerca de 10 por cento."
-      ],
-      "correctAnswer": 1,
-      "explanation": "A prevalência da diabetes aumenta acentuadamente com a idade, tornando-se um importante problema de saúde pública na população idosa. Foi relatado que **cerca de 25%** da população com mais de 65 anos sofre de diabetes, ressaltando a necessidade de exames contínuos."
-    },
-    {
-      "question": "Qual complexo genético está relacionado ao Tipo 1?",
-      "options": [
-        "O receptor de glucagon.",
-        "Proteína C reativa.",
-        "Fator de crescimento de insulina 1.",
-        "O principal complexo de histocompatibilidade."
-      ],
-      "correctAnswer": 4,
-      "explanation": "O complexo principal de histocompatibilidade (MHC), também conhecido como antígeno leucocitário humano (HLA), é considerado o fator genético mais fortemente associado ao diabetes tipo 1, explicando aproximadamente 40% a 50% da agregação familiar observada na doença autoimune."
-    },
-    {
-      "question": "O que promove a resistência à insulina no Tipo 2?",
-      "options": [
-        "Baixa ingestão de ácidos graxos.",
-        "Altos níveis de GLP-1.",
-        "Atividade física vigorosa.",
-        "tecido adiposo."
-      ],
-      "correctAnswer": 4,
-      "explanation": "No diabetes tipo 2, especialmente em pacientes com obesidade, o tecido adiposo, particularmente o tecido adiposo visceral, não é apenas um armazenamento de energia, mas um órgão endócrino ativo que promove ativamente a **resistência à insulina** através da liberação excessiva de ácidos graxos livres e da disfunção de adipocinas pró-inflamatórias."
-    },
-    {
-      "question": "Com o que os pacientes com Tipo 1 costumam fazer sua estreia?",
-      "options": [
-        "Hipoglicemia grave.",
-        "Hipertensão arterial.",
-        "Dor abdominal crônica.",
-        "Coma cetoacidótico (CAD)."
-      ],
-      "correctAnswer": 4,
-      "explanation": "Devido à deficiência absoluta de insulina, um número significativo de pacientes com diabetes tipo 1, aproximadamente 30%, pode apresentar uma emergência metabólica grave conhecida como cetoacidose diabética (CAD). A CAD é caracterizada por hiperglicemia, acidose e cetose e é um início comum da doença."
-    },
-    {
-      "question": "Qual é um sintoma comum de hiperglicemia?",
-      "options": [
-        "Ausência de sede.",
-        "Cicatrização rápida de feridas.",
-        "Diminuição da micção.",
-        "Fadiga."
-      ],
-      "correctAnswer": 4,
-      "explanation": "A fadiga ou falta de energia é um sintoma inespecífico, mas muito comum em pacientes com hiperglicemia não controlada. Outros sintomas clássicos, também conhecidos como os '3 P's', incluem polidipsia (aumento da sede), poliúria (aumento da micção) e polifagia (aumento do apetite), bem como cicatrização lenta de feridas."
-    },
-    {
-      "question": "Com que idade deve começar o rastreio geral do DM?",
-      "options": [
-        "Aos 35 anos.",
-        "Aos 60 anos.",
-        "Aos 20 anos.",
-        "Aos 45 anos."
-      ],
-      "correctAnswer": 4,
-      "explanation": "Para a população adulta assintomática sem fatores de risco adicionais conhecidos, recomenda-se que o rastreio ou detecção de diabetes mellitus comece aos **45 anos** de idade. Se os resultados dos testes iniciais forem normais, a triagem deve ser repetida pelo menos a cada três anos para um monitoramento adequado da saúde."
-    },
-    {
-      "question": "Qual valor de Hb A1C diagnostica diabetes mellitus?",
-      "options": [
-        "Entre 6,0 e 6,4 por cento.",
-        "Menos de 6,0 por cento.",
-        "Maior que 5,7 por cento.",
-        "Maior que 6,5 por cento."
-      ],
-      "correctAnswer": 4,
-      "explanation": "O teste de hemoglobina glicosilada (Hb A1C) é uma ferramenta de diagnóstico conveniente que calcula a média do seu nível de glicose no sangue nos últimos dois a três meses. Um valor **maior ou igual a 6,5%** (48 mmol/mol) é considerado pelos padrões internacionais como diagnóstico de diabetes mellitus."
-    },
-    {
-      "question": "Qual é a terapia de primeira linha se a dieta não funcionar?",
-      "options": [
-        "Inibidores DPP-4",
-        "Sulfonilureias orais",
-        "Agonistas de GLP-1",
-        "Metformina"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A metformina é o medicamento de escolha para tratamento inicial em pacientes com diabetes tipo 2 quando modificações no estilo de vida, como dieta e exercícios, não são suficientes para atingir o controle glicêmico adequado. Seu uso é o primeiro passo antes de considerar outras terapias."
-    },
-    {
-      "question": "Qual é a base do tratamento para DM1 e DM2?",
-      "options": [
-        "Cirurgia e medicamentos",
-        "Perda de peso rápida",
-        "Insulina e estatina",
-        "Dieta e exercício"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A base da terapia para ambos os tipos de diabetes, tipo 1 e tipo 2, reside sempre em mudanças no estilo de vida, especificamente uma dieta saudável com baixo teor de gordura e exercício físico aeróbico regular."
-    },
-    {
-      "question": "Qual componente deve ser baixo em uma dieta recomendada?",
-      "options": [
-        "Fibra",
-        "gorduras monoinsaturadas",
-        "carboidratos refinados",
-        "Proteínas magras"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Uma dieta pobre em gordura saturada, xarope de milho rico em frutose e carboidratos refinados, embora rica em fibras e gorduras monoinsaturadas, deve ser incentivada para promover uma melhor saúde metabólica e controle glicêmico."
-    },
-    {
-      "question": "Qual é o objetivo do LDL-C sem doença cardiovascular aterosclerótica?",
-      "options": [
-        "Menos de 130~mg/dl",
-        "Menos de 85~mg/dl",
-        "Menos de 70~mg/dl",
-        "Menos de 100~mg/dl"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Para pacientes sem doença cardiovascular aterosclerótica (ASCVD), o nível alvo de LDL-C (colesterol de lipoproteína de baixa densidade) deve ser inferior a 100 mg/dl para reduzir o risco de complicações vasculares futuras."
-    },
-    {
-      "question": "Qual é a meta de pressão arterial recomendada?",
-      "options": [
-        "Menos de 140/90 mmHg",
-        "Menos de 130/85 mmHg",
-        "Menos de 120/80 mmHg",
-        "Menos de 135/90 mmHg"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Para reduzir complicações microvasculares na maioria dos pacientes diabéticos, a meta de pressão arterial (PA) deve ser inferior a 130/85 mmHg, e recomenda-se terapia com inibidores da enzima conversora de angiotensina (ECA) ou bloqueadores dos receptores de angiotensina (BRA)."
-    },
-    {
-      "question": "Qual é a meta da hemoglobina A1C para reduzir complicações?",
-      "options": [
-        "menos de 8%",
-        "Menos de 7,5%",
-        "menos de 7%",
-        "Menos de 6,5%"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Para minimizar o aparecimento e a progressão de complicações microvasculares na maioria dos pacientes com diabetes, a meta de Hb A1C (hemoglobina glicada) deve geralmente ser inferior a 7%, indicando um controle glicêmico médio adequado."
-    },
-    {
-      "question": "Com que frequência a albumina urinária deve ser medida?",
-      "options": [
-        "Uma vez por ano",
-        "Pelo menos duas vezes por ano",
-        "a cada três meses",
-        "Mensal"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A excreção de albumina na urina é um indicador crucial para a monitorização da nefropatia diabética e deve ser verificada pelo menos duas vezes por ano como parte da estratégia abrangente para a gestão e prevenção de complicações microvasculares renais."
-    },
-    {
-      "question": "Qual medicamento é considerado para pacientes com doença cardiovascular?",
-      "options": [
-        "Sulfonilureias",
+        "Insulina NPH",
         "Metformina",
-        "Empagliflozina",
-        "Pioglitazona"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Estudos recentes demonstraram que a empagliflozina (um inibidor do SGLT2) e a liraglutida (um agonista do GLP-1) reduzem significativamente os eventos cardiovasculares e a mortalidade, razão pela qual são recomendados em pacientes diabéticos que já apresentam doenças cardiovasculares."
-    },
-    {
-      "question": "Qual é a base da terapia para diabetes tipo 1 (DM1)?",
-      "options": [
-        "Agonistas de GLP-1",
-        "Insulina basal em bolus",
         "Inibidores de SGLT2",
-        "Dieta e exercício"
+        "Sulfonilureias"
       ],
       "correctAnswer": 2,
-      "explanation": "O regime de insulina basal-bolus constitui a principal abordagem terapêutica para pacientes com diabetes mellitus tipo 1, uma vez que o pâncreas cessou a produção de insulina devido à destruição autoimune das células beta."
+      "explanation": "A metformina é o medicamento de primeira linha para diabetes tipo 2 devido à sua eficácia, segurança e baixo risco de hipoglicemia, melhorando a sensibilidade à insulina.",
+      "hashtags": [
+        "endocrinologia",
+        "diabetes_mellitus_type_2",
+        "tratamento",
+        "metformina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
     },
     {
-      "question": "Que classe de medicamentos apresenta baixo risco de hipoglicemia?",
+      "question": "Qual anticorpo é característico do diabetes mellitus tipo 1?",
       "options": [
-        "Insulina e sulfonilureias",
-        "Alfa-glicosidase",
-        "Metformina sozinha",
-        "Inibidores de SGLT2"
+        "Anti-ANA",
+        "AntiTPO",
+        "Anti-PCC",
+        "Anti-GAD65"
       ],
       "correctAnswer": 4,
-      "explanation": "Deve-se dar preferência a terapias que não induzam hipoglicemia, visto que esta condição leva ao aumento da mortalidade; por exemplo, inibidores de SGLT-2, inibidores de DPP-4 e agonistas do receptor de GLP-1, especialmente em combinação com metformina."
+      "explanation": "Os anticorpos anti-GAD65 são um dos marcadores autoimunes mais comuns no diabetes tipo 1, direcionados contra a enzima descarboxilase do ácido glutâmico.",
+      "hashtags": [
+        "endocrinologia",
+        "diabetes_mellitus_type_1",
+        "diagnóstico",
+        "anticorpos",
+        "MEDICAL_TOPIC",
+        ""
+      ]
     },
     {
-      "question": "Além da glicemia, o que o SGLT2 e o GLP-1 reduzem?",
+      "question": "Qual é o critério diagnóstico para diabetes gestacional com o teste oral de tolerância à glicose de 75 g?",
       "options": [
-        "O apetite",
-        "Peso e pressão arterial",
-        "colesterol total",
-        "Frequência cardíaca"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Vantagens adicionais dos inibidores de SGLT-2 e agonistas do receptor de GLP-1 incluem uma redução significativa no peso corporal, na pressão arterial (PA) e na albuminúria, o que impacta favoravelmente as complicações vasculares do diabetes."
-    },
-    {
-      "question": "Qual é o medicamento preferido para o painel lipídico?",
-      "options": [
-        "Ezetimiba",
-        "Metformina",
-        "Estatina",
-        "Inibidores PCSK9"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O medicamento de escolha para o tratamento dos lípidos é uma estatina, uma vez que estes medicamentos têm demonstrado consistentemente a sua capacidade de reduzir eventos cardiovasculares e mortalidade relacionada em pacientes com diabetes."
-    },
-    {
-      "question": "O que é uma complicação microvascular crônica?",
-      "options": [
-        "doença cardíaca coronária",
-        "Doença periférica",
-        "Cetoacidose",
-        "Neuropatia"
+        "Glicemia em 2 horas ≥ 140 mg/dL",
+        "Glicemia aleatória ≥ 200 mg/dL",
+        "Hemoglobina A1c ≥ 6,5%",
+        "Glicose sanguínea em jejum ≥ 92 mg/dL"
       ],
       "correctAnswer": 4,
-      "explanation": "As complicações microvasculares crônicas do diabetes não controlado são aquelas que afetam pequenos vasos sanguíneos e incluem nefropatia (rins), retinopatia (olhos) e neuropatia (nervos)."
+      "explanation": "Segundo a ADA, o diagnóstico de diabetes gestacional requer pelo menos um valor elevado: glicemia de jejum ≥ 92 mg/dL, em 1 hora ≥ 180 mg/dL ou em 2 horas ≥ 153 mg/dL.",
+      "hashtags": [
+        "endocrinologia",
+        "diabetes_gestacional",
+        "diagnóstico",
+        "critérios_ada",
+        "MEDICAL_TOPIC",
+        ""
+      ]
     },
     {
-      "question": "O que é uma complicação macrovascular crônica?",
+      "question": "Qual é o principal mecanismo de resistência à insulina na obesidade?",
       "options": [
-        "Retinopatia",
-        "Nefropatia",
-        "Doença cerebrovascular",
-        "Hipoglicemia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Complicações macrovasculares crônicas são aquelas que afetam grandes vasos sanguíneos e incluem doença arterial coronariana (DAC), doença arterial periférica (DAP) e doença cerebrovascular."
-    },
-    {
-      "question": "O que é uma complicação aguda da hiperglicemia persistente?",
-      "options": [
-        "cetoacidose diabética",
-        "Neuropatia",
-        "Nefropatia",
-        "Retinopatia"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A cetoacidose diabética (CAD) é uma das complicações agudas graves que podem surgir da hiperglicemia não controlada, juntamente com a hipoglicemia e o estado hiperosmolar hiperglicêmico, necessitando de intervenção médica imediata."
-    },
-    {
-      "question": "O que um paciente com sintomas de hipoglicemia deve fazer?",
-      "options": [
-        "Coma 50g de carboidratos",
-        "Coma 15 a 20g de carboidratos",
-        "Tome um comprimido de insulina",
-        "Exercite-se imediatamente"
+        "Excesso de adiponectina",
+        "Lipotoxicidade de ácidos graxos",
+        "Hiperplasia de células beta",
+        "Aumento muscular GLUT4"
       ],
       "correctAnswer": 2,
-      "explanation": "Os profissionais de saúde devem educar os pacientes sobre os sintomas da hipoglicemia (como confusão ou sudorese) e a ação necessária, que é a ingestão de 15 a 20 gramas de carboidratos para aumentar rapidamente o nível de glicose no sangue."
+      "explanation": "A lipotoxicidade devido aos ácidos graxos livres ativa vias inflamatórias e altera a sinalização do receptor de insulina, sendo um mecanismo central na resistência à insulina induzida pela obesidade.",
+      "hashtags": [
+        "endocrinologia",
+        "resistência à insulina",
+        "fisiopatologia",
+        "lipotoxicidade",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
     },
     {
-      "question": "Qual é a principal causa do diabetes tipo 2 (DM2)?",
-      "options": [
-        "destruição autoimune",
-        "Resistência e secreção de insulina",
-        "Infecções virais",
-        "Deficiência de vitamina D"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O diabetes tipo 2 é caracterizado por um duplo defeito subjacente que inclui resistência à insulina nos tecidos periféricos e secreção disfuncional ou insuficiente de insulina pelas células beta pancreáticas para compensar."
-    },
-    {
-      "question": "Na primeira etapa do exame GDM, qual valor de PG passa para a segunda etapa?",
-      "options": [
-        "Menos de 140~mg/dl",
-        "Maior ou igual a 140~mg/dl",
-        "Maior ou igual a 105~mg/dl",
-        "Menos de 180~mg/dl"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A primeira etapa da estratégia de duas etapas para diabetes mellitus gestacional (DMG) requer prosseguir para a etapa dois (100 g de TOTG) se a glicose plasmática (PG) pós-carga de 1 hora for maior ou igual a 140 mg/dl."
-    },
-    {
-      "question": "Qual fator é importante na redução do risco de DCVA?",
-      "options": [
-        "ganho de peso",
-        "parar de fazer exercícios",
-        "Uso de estatinas",
-        "Níveis elevados de LDL"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O diabetes está associado ao aumento do risco de doença cardiovascular aterosclerótica (ASCVD), e esse risco é reduzido pelo tratamento da pressão arterial, uso de estatinas, exercícios regulares e cessação do tabagismo."
-    },
-    {
-      "question": "Que endocrinopatia é um diagnóstico diferencial?",
-      "options": [
-        "Hepatite C",
-        "síndrome metabólica",
-        "Doença de Cushing",
-        "Fibrose cística"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Endocrinopatias como acromegalia, feocromocitoma e doença de Cushing são condições que podem apresentar sinais e sintomas semelhantes ao diabetes mellitus, por isso devem ser consideradas no diagnóstico diferencial da hiperglicemia."
-    },
-    {
-      "question": "Qual é o fenótipo comum do Diabetes Mellitus?",
-      "options": [
-        "Hipoglicemia aguda",
-        "Hiperlipidemia crônica",
-        "Hiperglicemia crônica",
-        "Acidose respiratória"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O Diabetes Mellitus compreende um grupo de distúrbios metabólicos cuja característica distintiva e comum é a **hiperglicemia crônica**. Isto se deve a defeitos na secreção ou ação da insulina, ou uma combinação de ambas, alterando a capacidade do organismo de regular adequadamente os níveis de glicose no sangue."
-    },
-    {
-      "question": "Que tipo de célula é destruída no DM1?",
-      "options": [
-        "célula alfa",
-        "célula delta",
-        "célula beta",
-        "Célula T CD4+"
-      ],
-      "correctAnswer": 3,
-      "explanation": "O Diabetes Mellitus tipo 1 (DM1) é uma doença autoimune caracterizada pela **destruição seletiva das células beta (beta) das ilhotas pancreáticas**. Essa destruição é mediada por linfócitos T autorreativos, levando a uma deficiência absoluta do hormônio insulina no organismo."
-    },
-    {
-      "question": "Qual hormônio é hiperglicêmico e catabólico?",
+      "question": "Qual citocina pró-inflamatória está associada à resistência à insulina?",
       "options": [
         "Insulina",
         "Adiponectina",
-        "Glucagon",
-        "Amilina"
+        "Fator de necrose tumoral alfa",
+        "Interleucina-10"
       ],
       "correctAnswer": 3,
-      "explanation": "A homeostase da glicose é regulada pela interação da insulina (anabólica e hipoglicêmica) e do **glucagon**. O glucagon é um **hormônio catabólico e hiperglicêmico** porque estimula a produção hepática de glicose (gliconeogênese e glicogenólise) para aumentar os níveis de açúcar no sangue."
+      "explanation": "O fator de necrose tumoral alfa (TNF-α) é uma citocina pró-inflamatória que inibe a fosforilação do substrato do receptor de insulina IRS-1, contribuindo para a resistência à insulina.",
+      "hashtags": [
+        "endocrinologia",
+        "resistência à insulina",
+        "fisiopatologia",
+        "pró-inflamatórias_citocinas",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
     },
     {
-      "question": "Qual é o principal fator de risco para RI?",
+      "question": "Qual é o órgão chave na resistência hepática à insulina?",
       "options": [
-        "infecção viral",
-        "Obesidade visceral",
-        "Estresse oxidativo",
-        "Amilóide"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A obesidade visceral (ou central) é apontada como o principal fator de risco para Resistência à Insulina (RI) no DM2. O tecido adiposo disfuncional libera ácidos graxos livres em excesso, iniciando a lipotoxicidade e a inflamação crônica de baixo grau, que interfere na sinalização da insulina."
-    },
-    {
-      "question": "Qual autoanticorpo é um marcador de DM1?",
-      "options": [
-        "Anti-GAD65",
-        "Anti-IRS-1",
-        "Anti-GLUT4",
-        "Anti-HLA-DR4"
+        "Fígado",
+        "tecido adiposo",
+        "Pâncreas",
+        "Músculo esquelético"
       ],
       "correctAnswer": 1,
-      "explanation": "Os autoanticorpos são marcadores-chave do processo autoimune do DM1. O anticorpo anti-descarboxilase do ácido glutâmico (anti-GAD65) é um dos principais autoanticorpos, junto com os anticorpos anti-insulina (IAA) e anti-tirosina fosfatase (anti-IA2), que indicam a destruição das células beta."
+      "explanation": "Na resistência hepática à insulina, o fígado perde a capacidade de suprimir a gliconeogênese, o que aumenta a produção hepática de glicose e contribui para a hiperglicemia de jejum.",
+      "hashtags": [
+        "endocrinologia",
+        "resistência à insulina",
+        "fisiopatologia",
+        "hepática_gliconeogênese",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
     },
     {
-      "question": "Que consequência metabólica a cetogênese produz?",
+      "question": "Qual transportador de glicose é regulado pela insulina no músculo?",
       "options": [
-        "Hiperinsulinismo",
-        "Lipólise",
-        "Glicotoxicidade",
-        "Glicação"
-      ],
-      "correctAnswer": 2,
-      "explanation": "A deficiência absoluta de insulina no DM1 leva a um estado catabólico, ativando a **lipólise** no tecido adiposo. Isso libera maciçamente ácidos graxos livres (AGL) que, quando oxidados no fígado (beta-oxidação), produzem corpos cetônicos, o que pode levar à Cetoacidose Diabética (CAD)."
-    },
-    {
-      "question": "Qual proteína inibe a insulina na IR?",
-      "options": [
-        "IRS-1",
-        "Adiponectina",
+        "GLUT1",
+        "GLUT3",
         "GLUT4",
-        "Glucagon"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Na resistência à insulina (RI), os lipídios acumulados ectopicamente ativam a Proteína Quinase C (PKC). Esta enzima fosforila o **Substrato do Receptor de Insulina (IRS-1)** em resíduos de serina/treonina, o que interfere na sua sinalização normal e inibe a ação completa da insulina nos tecidos."
-    },
-    {
-      "question": "O que é um defeito inicial no DM2?",
-      "options": [
-        "CAD",
-        "Perda da primeira fase",
-        "Amiloidose",
-        "Hiperglucagonemia"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Um dos primeiros e mais cruciais defeitos na disfunção das células beta no DM2 é a **perda da primeira fase da secreção de insulina**. Refere-se ao rápido pico de liberação de insulina que ocorre imediatamente após uma refeição, essencial para controlar a produção hepática de glicose e a captação periférica pós-prandial."
-    },
-    {
-      "question": "Qual enzima converte glicose em sorbitol?",
-      "options": [
-        "Aldose redutase",
-        "Hexoquinase",
-        "Amilase",
-        "SGLT2"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Uma das principais vias metabólicas no dano microvascular devido à hiperglicemia crônica é a via do poliol. A enzima **aldose redutase** converte o excesso de glicose em sorbitol. O acúmulo de sorbitol causa estresse osmótico e esgota o sistema antioxidante, danificando tecidos como o cristalino e os nervos."
-    },
-    {
-      "question": "Qual via danifica os vasos por glicação não enzimática?",
-      "options": [
-        "Polióis",
-        "Hexosamina",
-        "IDADEs",
-        "PKC"
+        "GLUT2"
       ],
       "correctAnswer": 3,
-      "explanation": "A formação de produtos finais de glicação avançada (AGEs) é uma importante via de dano. Ocorre quando a glicose reage de forma não enzimática com proteínas e lipídios, um processo denominado glicação. Os AGEs resultantes se acumulam, causando rigidez vascular e dano endotelial, que são a base das complicações crônicas."
+      "explanation": "GLUT4 é o transportador de glicose sensível à insulina presente no músculo esquelético e no tecido adiposo; Sua translocação para a membrana está diminuída na resistência à insulina.",
+      "hashtags": [
+        "endocrinologia",
+        "resistência à insulina",
+        "fisiopatologia",
+        "transportador_glut4",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Que alteração no tecido adiposo contribui para a resistência à insulina?",
+      "options": [
+        "Hipertrofia de adipócitos",
+        "Aumento da adiponectina",
+        "Leptina diminuída",
+        "Aumento de GLUT4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A hipertrofia de adipócitos na obesidade gera disfunção do tecido adiposo, com liberação de ácidos graxos livres e citocinas pró-inflamatórias que promovem resistência sistêmica à insulina.",
+      "hashtags": [
+        "endocrinologia",
+        "resistência à insulina",
+        "fisiopatologia",
+        "adipócito_hipertrofia",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual via de sinalização intracelular está alterada na resistência à insulina?",
+      "options": [
+        "Via JAK-STAT",
+        "Via PI3K-Akt",
+        "Via NF-kB",
+        "Através do MAPK p38"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A via PI3K-Akt é a principal via de sinalização da insulina para a translocação do GLUT4; Sua alteração é um achado fundamental na resistência à insulina, reduzindo a captação de glicose.",
+      "hashtags": [
+        "endocrinologia",
+        "resistência à insulina",
+        "fisiopatologia",
+        "via_pi3k_akt",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o achado inicial mais característico da retinopatia diabética não proliferativa?",
+      "options": [
+        "Microaneurismas retinais",
+        "Descolamento de retina",
+        "Neovascularização vítrea",
+        "Edema macular grave"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Os microaneurismas retinais são a primeira manifestação clínica visível na retinopatia diabética não proliferativa, representando dilatações capilares focais.",
+      "hashtags": [
+        "medicina_interna",
+        "retinopatia diabética",
+        "tabela_clínica",
+        "descoberta_inicial",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual fator fisiopatológico é fundamental no desenvolvimento da retinopatia diabética?",
+      "options": [
+        "Dislipidemia mista grave",
+        "Obesidade visceral extrema",
+        "Hiperglicemia crônica sustentada",
+        "Hipertensão arterial sistêmica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A hiperglicemia crônica é o principal fator desencadeante que ativa vias como o sorbitol e a formação de produtos finais de glicação avançada, danificando a microvasculatura da retina.",
+      "hashtags": [
+        "medicina_interna",
+        "retinopatia diabética",
+        "fisiopatologia",
+        "hiperglicemia_crônica",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha para a retinopatia diabética proliferativa?",
+      "options": [
+        "Fotocoagulação a laser",
+        "Inibidores de VEGF",
+        "Corticosteróides intravítreos",
+        "Vitrectomia via pars plana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A fotocoagulação panretinal a laser é o tratamento padrão inicial para a retinopatia diabética proliferativa, reduzindo a neovascularização e o risco de perda visual grave.",
+      "hashtags": [
+        "medicina_interna",
+        "retinopatia diabética",
+        "tratamento",
+        "fotocoagulação a laser",
+        "MEDICAL_TOPIC",
+        "Guia ADA 2023"
+      ]
+    },
+    {
+      "question": "Que complicação visual irreversível pode ocorrer na retinopatia diabética avançada?",
+      "options": [
+        "Uveíte anterior aguda",
+        "Catarata nuclear incipiente",
+        "Ceratite puntiforme superficial",
+        "Glaucoma neovascular"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O glaucoma neovascular é uma complicação grave da retinopatia diabética proliferativa, causada pela oclusão do ângulo iridocorneano devido à neovascularização da íris.",
+      "hashtags": [
+        "medicina_interna",
+        "retinopatia diabética",
+        "complicações",
+        "glaucoma_neovascular",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual achado indica progressão para retinopatia diabética proliferativa?",
+      "options": [
+        "Edema macular difuso",
+        "Exsudados duros maculares",
+        "Neovascularização de disco",
+        "Hemorragias de chama"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A neovascularização do disco óptico ou de qualquer outra área da retina é o sinal característico da retinopatia diabética proliferativa, indicando isquemia grave.",
+      "hashtags": [
+        "medicina_interna",
+        "retinopatia diabética",
+        "tabela_clínica",
+        "disco_neovascularização",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é a principal causa de perda visual na retinopatia diabética não proliferativa?",
+      "options": [
+        "Hemorragia vítrea maciça",
+        "Destacamento tracional",
+        "edema macular diabético",
+        "oclusão da veia da retina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O edema macular diabético é a causa mais comum de perda visual em pacientes com retinopatia diabética não proliferativa, devido ao acúmulo de líquido na mácula.",
+      "hashtags": [
+        "medicina_interna",
+        "retinopatia diabética",
+        "tabela_clínica",
+        "edema_macular",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é a principal causa de morte em pacientes com diabetes mellitus tipo 2?",
+      "options": [
+        "Insuficiência renal crônica",
+        "doença cardíaca coronária",
+        "Neuropatia autonômica",
+        "Infecções recorrentes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A doença coronariana é a principal causa de mortalidade no diabetes tipo 2 devido à aterosclerose acelerada que afeta as artérias coronárias.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "epidemiologia",
+        "causa_morte",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual mecanismo fisiopatológico contribui mais para a doença coronariana no diabetes?",
+      "options": [
+        "hipoglicemia noturna",
+        "Hiperglicemia intermitente",
+        "Cetose recorrente",
+        "resistência à insulina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A resistência à insulina promove disfunção endotelial, inflamação e aterogênese acelerada, sendo o mecanismo central na doença coronariana diabética.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "fisiopatologia",
+        "resistência à insulina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha para doença arterial coronariana estável em diabéticos?",
+      "options": [
+        "Acarbose mais dipiridamol",
+        "Insulina mais varfarina",
+        "Sulfonilureia mais clopidogrel",
+        "Metformina mais aspirina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A metformina mais aspirina constitui a base do manejo inicial, uma vez que a metformina reduz eventos cardiovasculares e a aspirina previne a trombose coronariana.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "tratamento",
+        "primeira_linha",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual achado angiográfico é mais característico nas artérias coronárias de pacientes diabéticos?",
+      "options": [
+        "Estenose focal única",
+        "Aneurisma coronário isolado",
+        "Calcificação distal leve",
+        "Doença multiarterial difusa"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A doença multiarterial difusa é típica em diabéticos devido à aterosclerose acelerada e generalizada, afetando múltiplas artérias com lesões longas.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "diagnóstico",
+        "angiografia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual fator de risco coronariano é mais prevalente em pacientes com diabetes?",
+      "options": [
+        "Dislipidemia aterogênica",
+        "Obesidade mórbida",
+        "Fumar ativo",
+        "Pressão alta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A dislipidemia aterogênica (triglicerídeos elevados, HDL baixo, LDL pequeno e denso) é extremamente prevalente no diabetes e acelera a aterosclerose coronariana.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "etiologia",
+        "dislipidemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a complicação mais temida da doença coronariana em diabéticos?",
+      "options": [
+        "Pericardite constritiva",
+        "Angina crônica estável",
+        "Arritmia supraventricular",
+        "Infarto agudo do miocárdio"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O infarto agudo do miocárdio é a complicação mais grave e frequente, muitas vezes silenciosa nos diabéticos devido à neuropatia autonômica, retardando o diagnóstico.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "complicações",
+        "ataque cardíaco silencioso",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a primeira intervenção na cetoacidose diabética?",
+      "options": [
+        "Potássio sérico correto",
+        "Iniciar insulina rápida",
+        "Substituição de fluidos",
+        "Administrar bicarbonato de sódio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A reposição de fluidos é a primeira intervenção na cetoacidose diabética para restaurar a perfusão tecidual e reduzir a hiperglicemia antes de iniciar a insulina.",
+      "hashtags": [
+        "endocrinologia",
+        "diabética_cetoacidose",
+        "tratamento",
+        "reposição_volume",
+        "MEDICAL_TOPIC",
+        "Guia ADA 2024"
+      ]
+    },
+    {
+      "question": "Que complicação pode ocorrer se a insulina for iniciada sem a correção do potássio?",
+      "options": [
+        "Hipercalemia grave",
+        "Hipocalemia grave",
+        "Hiponatremia dilucional",
+        "Hipercalcemia leve"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A insulina desloca o potássio para dentro da célula, portanto, iniciá-la sem corrigir a hipocalemia anterior pode precipitar hipocalemia grave e arritmias.",
+      "hashtags": [
+        "endocrinologia",
+        "diabética_cetoacidose",
+        "tratamento",
+        "potássio_segurança",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o déficit hídrico médio na cetoacidose diabética?",
+      "options": [
+        "6-9 litros",
+        "10-12 litros",
+        "1-2 litros",
+        "3-5 litros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O déficit hídrico na cetoacidose diabética costuma ser de 6 a 9 litros, devido à diurese osmótica induzida pela hiperglicemia e perda de eletrólitos.",
+      "hashtags": [
+        "endocrinologia",
+        "diabética_cetoacidose",
+        "fisiopatologia",
+        "déficit_água",
+        "MEDICAL_TOPIC",
+        "Atualização 2023"
+      ]
+    },
+    {
+      "question": "Que tipo de insulina é preferida no tratamento agudo da CAD?",
+      "options": [
+        "Insulina glargina",
+        "Insulina intravenosa regular",
+        "Insulina detemir",
+        "Insulina NPH"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A insulina regular intravenosa é preferida no tratamento agudo da cetoacidose diabética devido ao seu rápido início de ação e fácil titulação.",
+      "hashtags": [
+        "endocrinologia",
+        "diabética_cetoacidose",
+        "tratamento",
+        "insulina_iv",
+        "MEDICAL_TOPIC",
+        "Guia ADA 2024"
+      ]
+    },
+    {
+      "question": "Quando é indicado o uso de bicarbonato na CAD?",
+      "options": [
+        "pH arterial inferior a 7,0",
+        "pH arterial maior que 7,4",
+        "pH arterial maior que 7,2",
+        "pH arterial inferior a 7,5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O bicarbonato é reservado para casos com pH arterial inferior a 7,0, pois seu uso rotineiro não melhora a evolução e pode causar alcalose rebote.",
+      "hashtags": [
+        "endocrinologia",
+        "diabética_cetoacidose",
+        "tratamento",
+        "indicação_bicarbonato",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual critério indica a resolução da cetoacidose diabética?",
+      "options": [
+        "Glicemia < 300 mg/dL",
+        "pH > 7,30 e bicarbonato > 18",
+        "Potássio sérico normal",
+        "Cetonúria negativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A resolução da CAD é definida como pH > 7,30 e bicarbonato sérico > 18 mEq/L, juntamente com glicemia < 200 mg/dL e desaparecimento de cetonas.",
+      "hashtags": [
+        "endocrinologia",
+        "diabética_cetoacidose",
+        "diagnóstico",
+        "critérios_de_resolução",
+        "MEDICAL_TOPIC",
+        "Guia ADA 2024"
+      ]
+    },
+    {
+      "question": "Qual é a osmolaridade sérica típica no estado hiperosmolar hiperglicêmico?",
+      "options": [
+        "Menos de 250 mOsm/L",
+        "Maior que 320 mOsm/L",
+        "Entre 250 e 300 mOsm/L",
+        "Entre 300 e 310 mOsm/L"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O estado hiperosmolar hiperglicêmico é caracterizado por uma osmolaridade sérica efetiva superior a 320 mOsm/L, devido à hiperglicemia grave sem cetose significativa.",
+      "hashtags": [
+        "medicina_interna",
+        "estado hiperosmolar_hiperglicêmico",
+        "diagnóstico",
+        "critérios_diagnóstico",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a complicação mais temida do estado hiperosmolar hiperglicêmico?",
+      "options": [
+        "Edema cerebral",
+        "Hipoglicemia grave",
+        "cetoacidose diabética",
+        "trombose vascular"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A trombose vascular é a complicação mais temida do estado hiperglicêmico hiperosmolar devido à desidratação grave e à hiperviscosidade sanguínea, que predispõem a eventos trombóticos.",
+      "hashtags": [
+        "medicina_interna",
+        "estado hiperosmolar_hiperglicêmico",
+        "complicações",
+        "trombose_vascular",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o principal mecanismo fisiopatológico do estado hiperosmolar hiperglicêmico?",
+      "options": [
+        "Cetogênese hepática acelerada",
+        "Diurese osmótica com hipovolemia",
+        "Secreção excessiva de glucagon",
+        "Resistência absoluta à insulina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A diurese osmótica induzida pela hiperglicemia grave causa perda maciça de água e eletrólitos, levando à desidratação hiperosmolar sem cetose significativa.",
+      "hashtags": [
+        "medicina_interna",
+        "estado hiperosmolar_hiperglicêmico",
+        "fisiopatologia",
+        "diurese_osmótica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha com fluidos no estado hiperosmolar hiperglicêmico?",
+      "options": [
+        "5% de dextrose em água",
+        "Solução salina 0,9%",
+        "Solução salina 0,45%",
+        "Ringer com lactato"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A solução salina 0,9% é a primeira escolha para corrigir a hipovolemia no estado hiperosmolar hiperglicêmico, pois restaura com segurança o volume intravascular.",
+      "hashtags": [
+        "medicina_interna",
+        "estado hiperosmolar_hiperglicêmico",
+        "tratamento",
+        "água_reposição",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que achado clínico diferencia o estado hiperosmolar hiperglicêmico da cetoacidose diabética?",
+      "options": [
+        "Ausência de corpos cetônicos",
+        "Estado mental alterado",
+        "desidratação profunda",
+        "Hiperglicemia grave"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A ausência de corpos cetônicos no sangue ou na urina é o principal achado que distingue o estado hiperosmolar hiperglicêmico da cetoacidose diabética, onde a cetogênese é proeminente.",
+      "hashtags": [
+        "medicina_interna",
+        "estado hiperosmolar_hiperglicêmico",
+        "diagnóstico",
+        "cetonemia_ausente",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o nível típico de glicose no sangue no estado hiperosmolar hiperglicêmico?",
+      "options": [
+        "300-400mg/dL",
+        "200-300mg/dL",
+        "400-500mg/dL",
+        "Maior que 600 mg/dL"
+      ],
+      "correctAnswer": 4,
+      "explanation": "No estado hiperosmolar hiperglicêmico, a glicemia geralmente ultrapassa 600 mg/dL, atingindo frequentemente valores entre 800 e 1000 mg/dL, sem cetose significativa.",
+      "hashtags": [
+        "medicina_interna",
+        "estado hiperosmolar_hiperglicêmico",
+        "diagnóstico",
+        "glicemia_extrema",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o principal mecanismo de ação da metformina?",
+      "options": [
+        "Bloqueia os receptores de glucagon",
+        "Aumenta a secreção de insulina",
+        "Diminui a gliconeogênese hepática",
+        "Inibe alfa-glicosidases"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A metformina atua principalmente diminuindo a produção hepática de glicose, inibindo a gliconeogênese, reduzindo assim a hiperglicemia de jejum no diabetes tipo 2.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "tratamento",
+        "mecanismo_de_ação",
+        "MEDICAL_TOPIC",
+        "Guia ADA 2023"
+      ]
+    },
+    {
+      "question": "Qual efeito adverso gastrointestinal é mais comum com a metformina?",
+      "options": [
+        "Diarréia e náusea",
+        "Pancreatite aguda",
+        "constipação grave",
+        "sangramento digestivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diarréia e náusea são os efeitos adversos gastrointestinais mais comuns da metformina, especialmente no início do tratamento, e geralmente são transitórios.",
+      "hashtags": [
+        "farmacologia",
+        "metformina",
+        "efeitos_adversos",
+        "intolerância_digestiva",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a contraindicação absoluta mais importante da metformina?",
+      "options": [
+        "Pressão alta não controlada",
+        "Doença renal crônica estágio 4",
+        "Insuficiência cardíaca leve",
+        "Obesidade mórbida"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A doença renal crônica estágio 4 (TFG <30 mL/min) é contraindicação absoluta devido ao risco de acidose láctica, uma vez que a metformina é eliminada pelos rins.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "contra-indicações",
+        "insuficiência renal",
+        "MEDICAL_TOPIC",
+        "Guia ADA 2023 --- UpToDate"
+      ]
+    },
+    {
+      "question": "Em que tipo de diabetes a metformina é o medicamento de primeira linha?",
+      "options": [
+        "diabetes tipo 1",
+        "Diabetes neonatal",
+        "Diabetes gestacional",
+        "diabetes tipo 2"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A metformina é o medicamento oral de primeira linha para diabetes mellitus tipo 2, recomendado pelas diretrizes internacionais desde o diagnóstico, juntamente com mudanças no estilo de vida.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus_type_2",
+        "indicações",
+        "primeira_linha",
+        "MEDICAL_TOPIC",
+        "Guia ADA 2023"
+      ]
+    },
+    {
+      "question": "Qual é a complicação metabólica mais grave associada à metformina?",
+      "options": [
+        "cetoacidose diabética",
+        "Hipoglicemia grave",
+        "Acidose láctica",
+        "Hiperosmolaridade"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A acidose láctica é a complicação mais grave, embora rara, favorecida por insuficiência renal, hipóxia ou alcoolismo, com elevada mortalidade se não for detectada a tempo.",
+      "hashtags": [
+        "farmacologia",
+        "metformina",
+        "efeitos_adversos",
+        "acidose láctica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual parâmetro deve ser monitorado antes de iniciar a metformina?",
+      "options": [
+        "glicemia em jejum",
+        "Hemoglobina glicosilada",
+        "Função renal com creatinina",
+        "Perfil lipídico completo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Antes de iniciar a metformina, a função renal deve ser avaliada através da creatinina sérica e da taxa de filtração glomerular, para ajustar a dose ou evitar seu uso caso haja contraindicação.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "diagnóstico",
+        "avaliação_anterior",
+        "MEDICAL_TOPIC",
+        "Guia ADA 2023"
+      ]
+    },
+    {
+      "question": "Qual a insulina de escolha para o tratamento inicial do diabetes tipo 1?",
+      "options": [
+        "Insulina NPH",
+        "Insulina detemir",
+        "Insulina glulisina",
+        "Insulina glargina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A insulina glargina é um análogo de ação prolongada que proporciona um perfil basal estável, sendo a opção inicial preferida no diabetes tipo 1 para cobrir as necessidades basais, embora também sejam utilizados detemir e NPH.",
+      "hashtags": [
+        "endocrinologia",
+        "diabetes_mellitus_type_1",
+        "tratamento",
+        "terapia_inicial_insulina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que tipo de insulina é normalmente administrada antes das refeições no diabetes tipo 1?",
+      "options": [
+        "Insulina aspártico",
+        "Insulina detemir",
+        "Insulina glargina",
+        "Insulina NPH"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A insulina aspártico é um análogo de ação rápida administrado imediatamente antes das refeições para controlar o pico glicêmico pós-prandial, ao contrário das insulinas basais como NPH, glargina ou detemir.",
+      "hashtags": [
+        "endocrinologia",
+        "diabetes_mellitus_type_1",
+        "tratamento",
+        "refeição_insulina",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o principal risco associado à terapia intensiva com insulina no diabetes tipo 1?",
+      "options": [
+        "Hipoglicemia grave",
+        "cetoacidose diabética",
+        "Hiperglicemia matinal",
+        "resistência à insulina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A insulinoterapia intensiva busca o controle glicêmico rigoroso, mas aumenta significativamente o risco de hipoglicemia grave, principalmente à noite ou após o exercício, sendo a complicação mais temida.",
+      "hashtags": [
+        "endocrinologia",
+        "diabetes_mellitus_type_1",
+        "efeitos_adversos",
+        "hipoglicemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "O que caracteriza o fenômeno do amanhecer no diabetes tipo 1?",
+      "options": [
+        "Hipoglicemia matinal devido ao jejum prolongado",
+        "Hiperglicemia matinal devido ao hormônio do crescimento",
+        "Hipoglicemia noturna devido ao excesso de insulina",
+        "Hiperglicemia noturna devido a déficit basal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O fenômeno da madrugada é a hiperglicemia matinal causada pelo aumento fisiológico do hormônio do crescimento e do cortisol nas primeiras horas, necessitando de ajuste de insulina basal para manejo.",
+      "hashtags": [
+        "endocrinologia",
+        "diabetes_mellitus_type_1",
+        "fisiopatologia",
+        "amanhecer_fenômeno",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a dose inicial diária total estimada de insulina em um adulto com diabetes tipo 1?",
+      "options": [
+        "0,5 a 1,0 U/kg/dia",
+        "0,1 a 0,2 U/kg/dia",
+        "1,2 a 2,0 U/kg/dia",
+        "0,3 a 0,4 U/kg/dia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A dose inicial total de insulina no diabetes tipo 1 costuma ser de 0,5 a 1,0 U/kg/dia, dividida em basal e prandial, ajustada de acordo com a glicemia do paciente e necessidades individuais.",
+      "hashtags": [
+        "endocrinologia",
+        "diabetes_mellitus_type_1",
+        "posologia",
+        "dose_insulina_inicial",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual regime de terapia com insulina é considerado padrão ouro no diabetes tipo 1?",
+      "options": [
+        "Insulina NPH duas vezes ao dia",
+        "Insulina regular antes de cada refeição",
+        "Insulina pré-misturada três vezes ao dia",
+        "Bolus basal com análogos de insulina"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O esquema de bolus basal com análogos de insulina (ação prolongada para basal e rápido para refeições) é o padrão-ouro, pois imita melhor a secreção pancreática fisiológica e permite maior flexibilidade.",
+      "hashtags": [
+        "endocrinologia",
+        "diabetes_mellitus_type_1",
+        "tratamento",
+        "esquema_basal_bolus",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual o principal objetivo do controle glicêmico perioperatório em pacientes diabéticos?",
+      "options": [
+        "Reduza o risco de infecção",
+        "Manter normoglicemia estrita",
+        "Prevenir cetoacidose",
+        "Evite hipoglicemia grave"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O principal objetivo é evitar hipoglicemia grave, pois esta está associada a maior morbidade e mortalidade perioperatória. A normoglicemia estrita aumenta o risco de hipoglicemia sem benefício claro.",
+      "hashtags": [
+        "medicina_interna",
+        "perioperatório_glicêmico_controle",
+        "tratamento",
+        "meta_glicêmica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual faixa de glicemia é recomendada para manter durante o intraoperatório em pacientes com diabetes?",
+      "options": [
+        "140-180mg/dL",
+        "80-110mg/dL",
+        "200-250mg/dL",
+        "Menos de 70 mg/dL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A faixa de glicemia intraoperatória recomendada é de 140-180 mg/dL, equilibrando o risco de hipoglicemia e as complicações da hiperglicemia. Faixas mais restritas aumentam o risco de hipoglicemia.",
+      "hashtags": [
+        "medicina_interna",
+        "perioperatório_glicêmico_controle",
+        "tratamento",
+        "faixa_glicêmica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual a droga de escolha para controle glicêmico intravenoso no período perioperatório?",
+      "options": [
+        "Glibenclamida",
+        "insulina regular",
+        "metformina oral",
+        "Dapagliflozina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A insulina regular intravenosa é a droga de escolha devido à sua ação rápida e titulação precisa, permitindo ajustes de acordo com a glicemia. Agentes hipoglicemiantes orais não são usados ​​no intraoperatório.",
+      "hashtags": [
+        "medicina_interna",
+        "perioperatório_glicêmico_controle",
+        "farmacologia",
+        "insulina_intravenosa",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual complicação metabólica é mais temida no perioperatório de pacientes diabéticos tratados com insulina?",
+      "options": [
+        "hipoglicemia noturna",
+        "cetoacidose diabética",
+        "Síndrome hiperglicêmica",
+        "Hiperglicemia grave"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A hipoglicemia noturna é a complicação mais temida devido ao risco de danos neurológicos e morte súbita, principalmente em pacientes que recebem insulina em jejum perioperatório.",
+      "hashtags": [
+        "medicina_interna",
+        "perioperatório_glicêmico_controle",
+        "complicações",
+        "hipoglicemia_noturna",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Quando a metformina deve ser interrompida antes da cirurgia programada?",
+      "options": [
+        "Não está suspenso",
+        "24 horas antes",
+        "48 horas antes",
+        "12 horas antes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A metformina é descontinuada 48 horas antes da cirurgia programada para prevenir acidose láctica, especialmente se houver risco de insuficiência renal ou hipoperfusão durante o procedimento.",
+      "hashtags": [
+        "medicina_interna",
+        "perioperatório_glicêmico_controle",
+        "tratamento",
+        "suspensão_metformin",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual monitoramento é essencial durante a infusão intravenosa de insulina perioperatória?",
+      "options": [
+        "Pressão arterial invasiva",
+        "Glicemia capilar horária",
+        "Eletrocardiograma contínuo",
+        "Gasometria arterial seriada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A glicemia capilar horária é essencial para ajustar a infusão de insulina e detectar rapidamente hipoglicemia ou hiperglicemia. Outro monitoramento é secundário neste contexto.",
+      "hashtags": [
+        "medicina_interna",
+        "perioperatório_glicêmico_controle",
+        "tratamento",
+        "monitoramento_glicêmico",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o limiar de LDL-c para iniciar estatinas no diabetes mellitus tipo 2 sem doença cardiovascular estabelecida?",
+      "options": [
+        "LDL-c > 130 mg/dL",
+        "LDL-c > 160 mg/dL",
+        "LDL-c > 100 mg/dL",
+        "LDL-c > 190 mg/dL"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Em pacientes com diabetes mellitus tipo 2 sem doença cardiovascular estabelecida, recomenda-se iniciar estatinas quando o LDL-c for > 100 mg/dL, de acordo com as diretrizes de prevenção primária.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "tratamento",
+        "estatinas_primary_prevention",
+        "MEDICAL_TOPIC",
+        "Guia ACC/AHA 2019"
+      ]
+    },
+    {
+      "question": "Que grupo de pacientes com diabetes mellitus requer o início de uma estatina de alta intensidade, independentemente do LDL-c basal?",
+      "options": [
+        "Doença cardiovascular estabelecida",
+        "Idade > 40 anos sem risco",
+        "HbA1c > 8% sem complicações",
+        "Microalbuminúria isolada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pacientes com diabetes mellitus e doença cardiovascular estabelecida (prevenção secundária) devem receber estatina em alta intensidade, independentemente do nível basal de LDL-c.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "tratamento",
+        "estatinas_secundária_prevenção",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2021"
+      ]
+    },
+    {
+      "question": "Qual o objetivo do LDL-c em pacientes com diabetes mellitus e risco cardiovascular muito elevado?",
+      "options": [
+        "LDL-c < 70 mg/dL",
+        "LDL-c < 130 mg/dL",
+        "LDL-c < 55 mg/dL",
+        "LDL-c < 100 mg/dL"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Em pacientes com diabetes mellitus e risco cardiovascular muito alto (por exemplo, doença cardiovascular estabelecida ou danos graves a órgãos), a meta de LDL-c é <55 mg/dL de acordo com as diretrizes atuais.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "tratamento",
+        "ldl_target_very_high_risk",
+        "MEDICAL_TOPIC",
+        "Guia ESC 2021"
+      ]
+    },
+    {
+      "question": "Qual estatina é considerada de alta intensidade para pacientes com diabetes mellitus?",
+      "options": [
+        "Rosuvastatina 20 mg",
+        "Sinvastatina 20 mg",
+        "Lovastatina 40 mg",
+        "Pravastatina 40 mg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A rosuvastatina 20 mg é uma estatina de alta intensidade, capaz de reduzir o LDL-c em mais de 50%, indicada em pacientes com diabetes de alto risco cardiovascular.",
+      "hashtags": [
+        "farmacologia",
+        "diabetes_mellitus",
+        "mecanismo_de_ação",
+        "estatinas_alta_intensidade",
+        "FARMACOLOGIA",
+        "Guia ACC/AHA 2019"
+      ]
+    },
+    {
+      "question": "Em qual paciente com diabetes mellitus tipo 2 é considerado adequado iniciar estatina na prevenção primária?",
+      "options": [
+        "Mulher de 35 anos sem fatores",
+        "Homem de 25 anos com HbA1c 6,5%",
+        "Homem de 50 anos com LDL 120 mg/dL",
+        "Mulher de 30 anos com LDL 90 mg/dL"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Um homem de 50 anos com diabetes e LDL-c 120 mg/dL (> 100 mg/dL) preenche os critérios para iniciar uma estatina na prevenção primária, de acordo com as diretrizes de manejo da dislipidemia diabética.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "tratamento",
+        "prevenção_de_estatina_primária",
+        "MEDICAL_TOPIC",
+        "Guia ADA 2023"
+      ]
+    },
+    {
+      "question": "Qual avaliação é recomendada antes de iniciar estatinas em pacientes com diabetes mellitus?",
+      "options": [
+        "Perfil lipídico completo",
+        "Ecocardiograma transtorácico",
+        "teste de estresse cardíaco",
+        "eletrocardiograma de repouso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Antes de iniciar estatinas no diabetes mellitus, deve-se obter um perfil lipídico completo (LDL-c, HDL-c, triglicerídeos) para determinar o nível basal e o objetivo terapêutico.",
+      "hashtags": [
+        "medicina_interna",
+        "diabetes_mellitus",
+        "diagnóstico",
+        "estatina_avaliação_anterior",
+        "MEDICAL_TOPIC",
+        "Guia ADA 2023"
+      ]
     }
   ]
 }

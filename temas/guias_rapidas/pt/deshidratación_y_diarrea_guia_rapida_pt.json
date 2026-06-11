@@ -1,0 +1,77 @@
+{
+  "id": "desidratação_e_diarréia",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Classificação de acordo com isotônico, hipertônico, hipotônico",
+      "title": "Tipos de desidratação de acordo com o tom",
+      "contentHtml": "<h2>Classificação de acordo com a tonicidade</h2><ul><li><b>Desidratação isotônica</b> (perda proporcional de água e sódio): a mais frequente (70-80% dos casos); sódio sérico 135-145 mEq/L.</li><li><b>Desidratação hipertônica</b> (perda de água &gt; sódio): sódio sérico &gt;145 mEq/L; ocorre em diarreia osmótica ou febre alta; risco de convulsões com reidratação rápida.</li><li><b>Desidratação hipotônica</b> (perda de sódio&gt; água): sódio sérico &lt;135 mEq/L; piora o estado hemodinâmico; perigo de edema cerebral.</li><li>Armadilha: clinicamente, a tonicidade é calculada com o sódio sérico; Não confunda com osmolaridade medida. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Causas de diarreia secretora vs. osmótica",
+      "title": "Diarreia secretora e osmótica",
+      "contentHtml": "<h2>Diarréia secretora vs. osmótica</h2><ul><li><b>Diarréia secretora</b>: causada por toxinas bacterianas (Vibrio cholerae, Escherichia coli enterotoxigênica), hormônios (VIPoma) ou ácidos biliares; persiste no jejum; volume fecal&gt;1 L/dia; sem lacuna osmótica. </li><li><b>Diarreia osmótica</b>: devido a solutos não absorvidos (lactose na deficiência de lactase, laxantes, sorbitol); cessa com o jejum; intervalo osmótico fecal &gt;100 mOsm/kg.</li><li>Fato importante: medir <b>osmolaridade fecal</b> e eletrólitos fecais para diferenciar: secretor (Na+K &times;2 ≈ osmolaridade fecal); osmótico (Na+K &times;2 &lt; osmolaridade fecal).</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Lacuna osmótica fecal na diarreia osmótica",
+      "title": "Lacuna osmótica fecal",
+      "contentHtml": "<h2>Lacuna osmótica fecal</h2><ul><li><b>Lacuna osmótica fecal</b> = osmolaridade fecal medida – [2 &times; (Na fecal + K fecal)].</li><li>Valor normal: &lt;50 mOsm/kg. Na <b>diarreia osmótica</b>: >100 mOsm/kg, devido à presença de solutos não medidos (carboidratos, magnésio).</li><li>Na <b>diarreia secretora</b>: intervalo <50 mOsm/kg, porque a osmolaridade fecal é quase inteiramente explicada pelos eletrólitos.</li><li>Armadilha: se a osmolaridade fecal for calculada (não medida), assuma 290 mOsm/kg; mas a medição direta é mais precisa.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Reidratação oral com SRO de baixa osmolaridade",
+      "title": "SRO de baixa osmolaridade",
+      "contentHtml": "<h2>Reidratação oral com SRO de baixa osmolaridade</h2><ul><li>A <b>solução de reidratação oral de baixa osmolaridade</b> (OMS 2002) tem: glicose 75 mmol/L, sódio 75 mEq/L, osmolaridade total 245 mOsm/L.</li><li>Vantagem: reduz a necessidade de fluidos intravenosos e a incidência de íleo paralítico versus SRO padrão (311 mOsm/L).</li><li>Indicado na desidratação leve a moderada devido a diarreia aguda de qualquer causa, incluindo cólera.</li><li>Dose: 50-100 mL/kg em 4 horas para desidratação moderada; Administrar em pequenas doses frequentes. </li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Plano A, B e C da OMS para desidratação",
+      "title": "Planos de reidratação da OMS",
+      "contentHtml": "<h2>Planos A, B e C da OMS</h2><ul><li><b>Plano A</b> (sem desidratação): em casa, SRO de baixa osmolaridade conforme necessário, continuar alimentando, zinco 20 mg/dia (10 mg em &lt;6 meses) por 10-14 dias.</li><li><b>Plano B</b> (desidratação moderada): SRO de baixa osmolaridade 75 mL/kg em 4 horas, em um centro de saúde; reavaliar a cada 1-2 horas.</li><li><b>Plano C</b> (desidratação grave): fluidos intravenosos imediatos (Ringer com lactato ou soro fisiológico 0,9%), 100 mL/kg em 3 horas (30 mL/kg na primeira hora, 70 mL/kg nas 2,5 horas restantes).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Sinais de desidratação grave em crianças",
+      "title": "Sinais de gravidade em crianças",
+      "contentHtml": "<h2>Sinais de desidratação grave em crianças</h2><ul><li>De acordo com a OMS: dois dos seguintes sinais = desidratação grave: <b>letargia ou inconsciência</b>, <b>olhos fundos</b>, <b>dobra cutânea que retorna muito lentamente (&gt;2 segundos)</b>, <b>não consegue beber ou bebe mal</b>.</li><li>Adicional: taquicardia, capilar recarga&gt; 3 segundos, respiração acidótica (Kussmaul), extremidades frias. </li><li><b>Sinal de dobra</b>: em crianças <1 ano, a perda do turgor é tardia; use outros sinais combinados. </li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Perda de peso como critério de gravidade",
+      "title": "Perda de peso e gravidade",
+      "contentHtml": "<h2>A perda de peso como critério de gravidade</h2><ul><li><b>A perda de peso</b> é o padrão-ouro para classificar a desidratação: leve (&lt;3-5%), moderada (5-9%), grave (&gt;9-10%).</li><li>Em crianças, a perda de peso aguda&gt;10% indica desidratação grave com risco de choque.</li><li>Armadilha: a perda de peso deve ser próxima ao peso anterior conhecido; Se não houver registro, usar sinais clínicos combinados (escala <b>Gorelick</b> ou <b>Manejo Integrado de Doenças Infantis da OMS</b>).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "O zinco na diarreia aguda reduz a duração e a gravidade",
+      "title": "Zinco na diarreia aguda",
+      "contentHtml": "<h2>Zinco na diarreia aguda</h2><ul><li>A suplementação de zinco</b> (20 mg/dia em crianças &gt;6 meses; 10 mg/dia em &lt;6 meses, durante 10-14 dias) reduz a duração da diarreia em ~25% e a gravidade (evacuações menos frequentes).</li><li>Mecanismo: melhora a absorção intestinal de água e eletrólitos e encurta a fase de recuperação do enterócito.</li><li>Recomendado pela OMS e UNICEF como parte do <b>Plano A</b> em todas as diarreias agudas, independentemente da causa.</li><li>Armadilha: não iniciar em crianças menores de 2 meses de idade sem evidência de deficiência; não substitui a reidratação oral.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Indicações para fluidos intravenosos na desidratação",
+      "title": "Fluidos intravenosos: quando",
+      "contentHtml": "<h2>Indicações para fluidos intravenosos na desidratação</h2><ul><li><b>Indicações absolutas</b>: desidratação grave (Plano C), choque hipovolêmico, falha na reidratação oral (vômitos incontroláveis, distensão abdominal), íleo paralítico, alteração do estado de consciência.</li><li>Primeira escolha: <b>Ringer com lactato</b> ou solução salina 0,9%; na raiva, prefira o Ringer com lactato devido à sua composição eletrolítica mais próxima das perdas. </li><li>Velocidade: em choque, bolus de 20 mL/kg em 15-30 minutos, repetir se necessário até que a perfusão seja restaurada. </li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Algoritmo de reidratação na cólera",
+      "title": "Reidratação com raiva",
+      "contentHtml": "<h2>Algoritmo de reidratação no cólera</h2><ul><li>Avalie a desidratação: se grave, <b>Plano C</b>: Ringer com lactato IV 100 mL/kg em 3 horas (crianças) ou 100 mL/kg em 2-4 horas (adultos).</li><li>Se moderado, <b>Plano B</b> com baixa osmolaridade SRO: 75 mL/kg em 4 horas; monitorar a produção fecal.</li><li>Uma vez hidratado, passar para o <b>Plano A</b> (manutenção com SRO de acordo com perdas contínuas).</li><li>Antibiótico em <b>cólera grave</b>: doxiciclina 300 mg dose única (adultos) ou azitromicina 1 g dose única (mulheres grávidas, crianças).</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Hipoglicemia como complicação na diarreia grave",
+      "title": "Hipoglicemia na diarreia grave",
+      "contentHtml": "<h2>Hipoglicemia como complicação</h2><ul><li><b>A hipoglicemia</b> (glicose &lt;54 mg/dL) é uma complicação grave na diarreia grave, especialmente em crianças desnutridas ou com jejum prolongado.</li><li>Mecanismo: depleção de glicogênio hepático devido à diminuição da ingestão e aumento do consumo metabólico.</li><li>Manejo: se a criança estiver consciente, administrar <b>solução de glicose à a criança. 10% 2 mL/kg IV ou oral (se for capaz de engolir); se houver convulsões ou coma, 1 mL/kg de glicose a 25% IV. </li><li>Armadilha: sempre meça a glicose capilar em qualquer criança com desidratação grave ou letargia.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Antibióticos apenas na diarreia disentérica ou cólera grave",
+      "title": "Antibióticos na diarreia: indicações",
+      "contentHtml": "<h2>Antibióticos apenas na diarreia disentérica ou cólera grave</h2><ul><li>Na diarreia aquosa aguda, os antibióticos NÃO são indicados (a maioria é viral ou autolimitada); apenas em <b>cólera grave</b> (redução no volume e duração) e <b>disenteria</b> (sangue nas fezes, febre, tenesmo).</li><li>Na disenteria por Shigella: <b>ciprofloxacina</b> 15 mg/kg/dia a cada 12 horas por 3-5 dias ou azitromicina em caso de resistência.</li><li>Na cólera grave: doxiciclina 300 mg única dose (adultos) ou azitromicina 1 g dose única.</li><li>Armadilha: na diarreia por <i>Escherichia coli enterohemorrágica</i> (O157:H7), os antibióticos aumentam o risco de síndrome hemolítico-urêmica; contra-indicado. </li></ul>"
+    }
+  ]
+}

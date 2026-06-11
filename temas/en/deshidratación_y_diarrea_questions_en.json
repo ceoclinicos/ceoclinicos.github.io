@@ -1,0 +1,1372 @@
+{
+  "questions": [
+    {
+      "question": "What is the normal serum osmolarity in isotonic dehydration?",
+      "options": [
+        "Between 285 and 295 mOsm/L",
+        "Between 250 and 260 mOsm/L",
+        "Less than 275 mOsm/L",
+        "Greater than 310 mOsm/L"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In isotonic dehydration, serum osmolarity remains between 285 and 295 mOsm/L, reflecting proportional losses of water and sodium, unlike hypotonic (<275) or hypertonic (>310).",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration",
+        "pathophysiology",
+        "classification_according to_osmolarity",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What type of dehydration occurs with serum sodium greater than 150 mEq/L?",
+      "options": [
+        "Hypertonic dehydration",
+        "Isotonic dehydration",
+        "Hypotonic dehydration",
+        "Mixed dehydration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hypertonic dehydration is characterized by hypernatremia (>150 mEq/L) and loss of free water, which increases plasma osmolarity; It is common in patients with diabetes insipidus or fever.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration",
+        "clinical_table",
+        "hypernatremia",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "In hypotonic dehydration, serum sodium is usually found:",
+      "options": [
+        "Above 150 mEq/L",
+        "Between 136 and 145 mEq/L",
+        "Below 135 mEq/L",
+        "Between 146 and 149 mEq/L"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hypotonic dehydration presents with hyponatremia (sodium <135 mEq/L), indicating predominant loss of sodium over water, as occurs in prolonged vomiting or excessive use of diuretics.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration",
+        "diagnosis",
+        "hyponatremia",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the most common cause of isotonic dehydration in children?",
+      "options": [
+        "Diabetes insipidus",
+        "acute diarrhea",
+        "High fever",
+        "extensive burns"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acute diarrhea is the main cause of isotonic dehydration in children, since water and electrolyte losses are proportional, maintaining serum osmolarity within normal ranges.",
+      "hashtags": [
+        "pediatrics",
+        "dehydration",
+        "etiology",
+        "acute_diarrhea",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What parameter defines hypertonic dehydration in a patient?",
+      "options": [
+        "Serum potassium 3.0 mEq/L",
+        "Urinary osmolarity 100 mOsm/L",
+        "Serum sodium 130 mEq/L",
+        "Serum sodium 155 mEq/L"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Hypertonic dehydration is defined by serum sodium >145 mEq/L (usually >150), which increases plasma osmolarity; Values ​​such as 155 mEq/L are characteristic of this type.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration",
+        "diagnosis",
+        "hypernatremia",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the liquid of choice to rehydrate mild isotonic dehydration?",
+      "options": [
+        "3% saline solution",
+        "5% glucose solution",
+        "Lactated Ringer's",
+        "0.9% saline solution"
+      ],
+      "correctAnswer": 4,
+      "explanation": "0.9% saline solution is the most suitable for isotonic dehydration, since its osmolarity is similar to that of plasma and corrects the deficit without altering the osmotic balance.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration",
+        "treatment",
+        "saline_solution",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2023"
+      ]
+    },
+    {
+      "question": "What mechanism predominates in diarrhea due to cholera?",
+      "options": [
+        "Fat malabsorption",
+        "Active ion secretion",
+        "Laxative intake",
+        "mucosal inflammation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cholera causes secretory diarrhea through cholera toxin that activates adenylate cyclase, increasing cAMP and secreting Cl- ions and water.",
+      "hashtags": [
+        "gastroenterology",
+        "secretory_diarrhea",
+        "pathophysiology",
+        "cholera_toxin",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the most common cause of osmotic diarrhea?",
+      "options": [
+        "Asian cholera",
+        "lactose intolerance",
+        "rotavirus infection",
+        "Crohn's disease"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lactose intolerance causes osmotic diarrhea because the undigested disaccharide draws water into the intestinal lumen via an osmotic gradient.",
+      "hashtags": [
+        "gastroenterology",
+        "osmotic_diarrhea",
+        "etiology",
+        "lactose_intolerance",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What characteristic differentiates secretory diarrhea from osmotic diarrhea?",
+      "options": [
+        "Leukocytes in feces",
+        "Increased fecal osmolarity",
+        "alkaline fecal pH",
+        "Cease fasting"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In osmotic diarrhea, fasting stops it by eliminating the unabsorbed solute, while secretory diarrhea persists because active secretion continues.",
+      "hashtags": [
+        "gastroenterology",
+        "diarrhea_differentiation",
+        "clinical_table",
+        "fasting_diagnosis",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What bacterial toxin causes secretory diarrhea due to increased cGMP?",
+      "options": [
+        "Cholera toxin",
+        "Thermostable toxin",
+        "tetanus toxin",
+        "botulinum toxin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The heat-stable toxin from enterotoxigenic Escherichia coli activates guanylate cyclase, elevating cGMP and stimulating ion and water secretion.",
+      "hashtags": [
+        "gastroenterology",
+        "secretory_diarrhea",
+        "action_mechanism",
+        "thermostable_toxin",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for secretory diarrhea due to cholera?",
+      "options": [
+        "oral metronidazole",
+        "oral loperamide",
+        "Oral rehydration",
+        "oral sulfasalazine"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Oral rehydration is the basis of treatment in cholera due to massive secretory diarrhea, replacing water and electrolyte losses to avoid shock.",
+      "hashtags": [
+        "gastroenterology",
+        "anger",
+        "treatment",
+        "oral_rehydration",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "Which finding supports the diagnosis of osmotic diarrhea?",
+      "options": [
+        "Fecal sodium greater than 90 mEq/L",
+        "Fecal pH less than 5.5",
+        "positive fecal leukocytes",
+        "Fecal osmolar gap greater than 100"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Elevated fecal osmolar gap (>100 mOsm/kg) indicates unabsorbed solutes in feces, typical of osmotic diarrhea due to malabsorption or laxatives.",
+      "hashtags": [
+        "gastroenterology",
+        "osmotic_diarrhea",
+        "diagnosis",
+        "fecal_osmolar_gap",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the normal value of the fecal osmotic gap?",
+      "options": [
+        "Less than 50 mOsm/kg",
+        "Between 50 and 100 mOsm/kg",
+        "Exactly 290 mOsm/kg",
+        "Greater than 125 mOsm/kg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The normal fecal osmotic gap is less than 50 mOsm/kg, calculated as 290 - 2*(fecal Na + fecal K). High values ​​indicate osmotic diarrhea.",
+      "hashtags": [
+        "gastroenterology",
+        "osmotic_diarrhea",
+        "diagnosis",
+        "fecal_osmotic_gap",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In osmotic diarrhea, the fecal osmotic gap is usually:",
+      "options": [
+        "Greater than 125 mOsm/kg",
+        "Equal to 290 mOsm/kg",
+        "Between 50 and 100 mOsm/kg",
+        "Less than 50 mOsm/kg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In osmotic diarrhea, the presence of unabsorbed solutes increases the fecal osmotic gap above 125 mOsm/kg, differentiating it from secretory diarrhea.",
+      "hashtags": [
+        "gastroenterology",
+        "osmotic_diarrhea",
+        "pathophysiology",
+        "fecal_osmotic_gap",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What nonabsorbable solute frequently causes osmotic diarrhea?",
+      "options": [
+        "Lactose",
+        "Baking soda",
+        "sodium chloride",
+        "Potassium"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lactose, in patients with lactase deficiency, is not absorbed and generates an osmotic gradient that drags water into the intestinal lumen, causing osmotic diarrhea.",
+      "hashtags": [
+        "gastroenterology",
+        "osmotic_diarrhea",
+        "etiology",
+        "lactose_intolerance",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "The formula to calculate the fecal osmotic gap is:",
+      "options": [
+        "(Na - K) / 290",
+        "290 - (Na + K) x 2",
+        "Na+K/290",
+        "290 x (Na - K)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The fecal osmotic gap is calculated as 290 - 2*(fecal Na + fecal K). A result greater than 125 mOsm/kg suggests osmotic diarrhea.",
+      "hashtags": [
+        "gastroenterology",
+        "osmotic_diarrhea",
+        "diagnosis",
+        "osmotic_gap_formula",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most common cause of osmotic diarrhea in adults?",
+      "options": [
+        "lactose intolerance",
+        "Vibrio cholerae infection",
+        "Irritable bowel syndrome",
+        "inflammatory bowel disease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lactose intolerance is the most common cause of osmotic diarrhea in adults, due to a lactase deficiency that prevents the digestion of the disaccharide.",
+      "hashtags": [
+        "gastroenterology",
+        "osmotic_diarrhea",
+        "etiology",
+        "lactose_intolerance",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In secretory diarrhea, the fecal osmotic gap is:",
+      "options": [
+        "Less than 50 mOsm/kg",
+        "Greater than 125 mOsm/kg",
+        "Between 100 and 125 mOsm/kg",
+        "Equal to 290 mOsm/kg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In secretory diarrhea, intestinal secretions have an osmolarity similar to plasma, so the fecal osmotic gap is less than 50 mOsm/kg.",
+      "hashtags": [
+        "gastroenterology",
+        "secretory_diarrhea",
+        "pathophysiology",
+        "fecal_osmotic_gap",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the recommended osmolarity of low-osmolarity oral rehydration salts (ORS)?",
+      "options": [
+        "275 mOsm/L",
+        "245 mOsm/L",
+        "310 mOsm/L",
+        "200 mOsm/L"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Low-osmolarity ORS has an osmolarity of 245 mOsm/L, which reduces the risk of osmotic diarrhea and improves the absorption of water and sodium in the intestine.",
+      "hashtags": [
+        "pediatrics",
+        "dehydration",
+        "treatment",
+        "sro_low_osmolarity",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What is the main mechanism of action of low osmolarity ORS in diarrhea?",
+      "options": [
+        "Increase chlorine secretion",
+        "Inhibit bacterial toxin",
+        "Decrease intestinal motility",
+        "Promote sodium-glucose cotransport"
+      ],
+      "correctAnswer": 4,
+      "explanation": "ORS take advantage of the cotransport of sodium and glucose in the small intestine, facilitating water absorption even during secretory diarrhea.",
+      "hashtags": [
+        "physiology",
+        "diarrhea",
+        "pathophysiology",
+        "intestinal_absorption",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What glucose concentration does a standard low-osmolarity ORS have?",
+      "options": [
+        "111 mmol/L",
+        "90 mmol/L",
+        "75 mmol/L",
+        "50 mmol/L"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Low-osmolarity ORS contains 75 mmol/L of glucose, a sufficient amount to activate sodium-glucose cotransport without generating osmotic excess.",
+      "hashtags": [
+        "pediatrics",
+        "oral_rehydration",
+        "treatment",
+        "composition_sro",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What is the main advantage of using low osmolarity ORS over the previous standard ORS?",
+      "options": [
+        "Lower risk of hypernatremia",
+        "Greater caloric intake",
+        "Less need for zinc",
+        "Higher sodium concentration"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Low-osmolarity ORS reduces the risk of hypernatremia and the duration of diarrhea, by having lower osmolarity and lower sodium concentration than the previous standard formula.",
+      "hashtags": [
+        "pediatrics",
+        "dehydration",
+        "treatment",
+        "advantages_sro",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In what type of diarrhea is oral rehydration with ORS contraindicated?",
+      "options": [
+        "Viral diarrhea without dehydration",
+        "Established paralytic ileus",
+        "Mild secretory diarrhea",
+        "Moderate osmotic diarrhea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Paralytic ileus prevents effective intestinal absorption, so oral rehydration is contraindicated and intravenous is required.",
+      "hashtags": [
+        "pediatrics",
+        "diarrhea",
+        "contraindications",
+        "paralytic_ileus",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the concentration of sodium in a low osmolarity ORS?",
+      "options": [
+        "90 mmol/L",
+        "60 mmol/L",
+        "75 mmol/L",
+        "50 mmol/L"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Low-osmolarity ORS contains 75 mmol/L sodium, a concentration that optimizes absorption without the risk of hypernatremia in children with acute diarrhea.",
+      "hashtags": [
+        "pediatrics",
+        "oral_rehydration",
+        "treatment",
+        "sodium_concentration",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What is the main WHO Plan A intervention for dehydration?",
+      "options": [
+        "Administer intravenous fluid",
+        "Refer to hospitalization",
+        "Indicate oral antibiotics",
+        "Perform oral rehydration"
+      ],
+      "correctAnswer": 4,
+      "explanation": "WHO Plan A is indicated for children without signs of dehydration; Its mainstay is oral rehydration with oral rehydration salts and continuing feeding.",
+      "hashtags": [
+        "pediatrics",
+        "dehydration_diarrhea",
+        "treatment",
+        "plan_a_oms",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What dehydration classification corresponds to WHO Plan B?",
+      "options": [
+        "Dehydration without signs",
+        "Moderate dehydration",
+        "Severe dehydration",
+        "Mild dehydration"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Plan B is applied in moderate dehydration (with signs such as sunken eyes and slow skin fold), where oral rehydration serum is administered under supervision.",
+      "hashtags": [
+        "pediatrics",
+        "dehydration_diarrhea",
+        "clinical_table",
+        "who_classification",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the recommended observation time in WHO Plan C?",
+      "options": [
+        "Observation for 6 hours",
+        "Observation for 1 hour",
+        "Observation for 24 hours",
+        "No observation required"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plan C for severe dehydration includes hospitalization with rapid intravenous rehydration and observation for at least 6 hours to evaluate response and prevent complications.",
+      "hashtags": [
+        "pediatrics",
+        "dehydration_diarrhea",
+        "treatment",
+        "plan_c_oms",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What clinical sign indicates the need to apply WHO Plan C?",
+      "options": [
+        "Lethargy or loss of consciousness",
+        "Watery diarrhea without blood",
+        "Fever greater than 38.5°C",
+        "Sunken eyes and intense thirst"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plan C is activated in severe dehydration, whose signs include lethargy, loss of consciousness or inability to drink, requiring urgent intravenous rehydration.",
+      "hashtags": [
+        "pediatrics",
+        "dehydration_diarrhea",
+        "clinical_table",
+        "alarm_signs",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What volume of oral serum is administered in WHO Plan B?",
+      "options": [
+        "150 ml/kg in 8 hours",
+        "50 ml/kg in 4 hours",
+        "100 ml/kg in 4 hours",
+        "200 ml/kg in 12 hours"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In Plan B for moderate dehydration, it is recommended to administer 100 ml/kg of oral rehydration serum in a period of 4 hours, divided and under medical supervision.",
+      "hashtags": [
+        "pediatrics",
+        "dehydration_diarrhea",
+        "treatment",
+        "plan_b_oms",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "When should one be referred to hospital in the context of WHO Plan A?",
+      "options": [
+        "All of the above options",
+        "If there is blood in the stool",
+        "If the child has persistent vomiting",
+        "If diarrhea lasts more than 3 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plan A is for dehydration without signs; However, the presence of persistent vomiting, prolonged diarrhea or blood in stool are warning signs that require hospital referral.",
+      "hashtags": [
+        "pediatrics",
+        "dehydration_diarrhea",
+        "treatment",
+        "derivation_criteria",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What is a clinical sign of severe dehydration in children?",
+      "options": [
+        "Jumping pulse",
+        "Bulging fontanelle",
+        "sunken fontanelle",
+        "Wet skin"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sunken fontanelle is a classic sign of severe dehydration in infants, reflecting significant loss of extracellular fluid. The other options are opposite or not compatible findings.",
+      "hashtags": [
+        "pediatrics",
+        "childhood_dehydration",
+        "clinical_table",
+        "physical_signs",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What indicator of tissue perfusion is altered in severe dehydration?",
+      "options": [
+        "Capillary refill >2 seconds",
+        "Strong radial pulse",
+        "abundant diuresis",
+        "Capillary refill <1 second"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In severe dehydration, capillary refill is prolonged (>2 seconds) due to hypovolemia. The other options indicate normal perfusion or excess fluids, not compatible with the condition.",
+      "hashtags": [
+        "pediatrics",
+        "childhood_dehydration",
+        "pathophysiology",
+        "hypoperfusion",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is a neurological sign of severe dehydration in children?",
+      "options": [
+        "crying with tears",
+        "Lethargy or coma",
+        "Restful sleep",
+        "Mild irritability"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lethargy or coma indicates central nervous system involvement due to severe cerebral hypoperfusion, typical in severe dehydration. The other options correspond to less compromised hydration states.",
+      "hashtags": [
+        "pediatrics",
+        "childhood_dehydration",
+        "clinical_table",
+        "neurological_signs",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which ocular finding is characteristic of severe dehydration?",
+      "options": [
+        "sunken eyes",
+        "Bulging eyes",
+        "Icteric sclerae",
+        "Dilated pupils"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sunken eyes are a sign of volume loss of the orbital tissue due to severe dehydration. The other options are not typically associated with this box.",
+      "hashtags": [
+        "pediatrics",
+        "childhood_dehydration",
+        "clinical_table",
+        "eye_signs",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is a criterion for severe dehydration according to the WHO?",
+      "options": [
+        "Drink greedily",
+        "clear urine",
+        "Skin that returns slowly",
+        "intense thirst"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The WHO defines severe dehydration as when the skin fold sign returns very slowly (>2 seconds). The other options are findings of mild or moderate dehydration, not severe.",
+      "hashtags": [
+        "pediatrics",
+        "childhood_dehydration",
+        "diagnosis",
+        "oms_criteria",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What initial behavior is a priority in severe dehydration?",
+      "options": [
+        "Empirical antibiotics",
+        "Oral antipyretics",
+        "Rapid IV fluids",
+        "Slow oral rehydration"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In severe dehydration, hypovolemia requires urgent intravenous resuscitation to restore perfusion. The oral route is contraindicated due to the risk of shock. The other options do not address the emergency.",
+      "hashtags": [
+        "pediatrics",
+        "childhood_dehydration",
+        "treatment",
+        "rehydration_iv",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What percentage of body weight loss in 24 hours defines severe dehydration in children?",
+      "options": [
+        "Between 5% and 9%",
+        "Between 3% and 5%",
+        "Greater than 9%",
+        "Less than 3%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Weight loss greater than 9% in 24 hours is a classic criterion of severe dehydration in pediatrics, indicating significant hemodynamic compromise.",
+      "hashtags": [
+        "pediatrics",
+        "pediatric_dehydration",
+        "clinical_table",
+        "severity_criteria",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In adults, what percentage weight loss in 24 hours indicates severe dehydration?",
+      "options": [
+        "From 9% to 12%",
+        "From 3% to 5%",
+        "From 6% to 8%",
+        "From 1% to 2%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In adults, a weight loss between 6% and 8% in 24 hours is considered severe dehydration, associated with signs of hypoperfusion and the requirement for intravenous replacement.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration_adults",
+        "clinical_table",
+        "loss_percentage",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main mechanism by which diarrhea causes rapid weight loss?",
+      "options": [
+        "Increased protein catabolism",
+        "Chronic fat malabsorption",
+        "Massive loss of water and electrolytes",
+        "Decreased caloric intake"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rapid weight loss in acute diarrhea is primarily due to massive loss of water and electrolytes, not depletion of lean or fatty tissue.",
+      "hashtags": [
+        "pathophysiology",
+        "acute_diarrhea",
+        "pathophysiology",
+        "water_loss",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In an infant with diarrhea, what weight loss in 24 hours is classified as mild dehydration?",
+      "options": [
+        "More than 10%",
+        "From 6% to 8%",
+        "From 3% to 5%",
+        "less than 3%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In infants, a weight loss of less than 3% in 24 hours corresponds to mild dehydration, with minimal clinical signs and management with oral rehydration.",
+      "hashtags": [
+        "pediatrics",
+        "infant_dehydration",
+        "clinical_table",
+        "mild_classification",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What clinical sign is associated with weight loss greater than 9% in dehydrated children?",
+      "options": [
+        "Skin fold that returns slowly",
+        "Normotensive fontanelle",
+        "crying with tears",
+        "Preserved diuresis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Slowly returning skin fold indicates weight loss greater than 9%, corresponding to severe dehydration with decreased tissue turgor.",
+      "hashtags": [
+        "pediatrics",
+        "severe_dehydration",
+        "clinical_table",
+        "gravity_signs",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In dehydration due to diarrhea, weight loss of 10% in 24 hours is associated with:",
+      "options": [
+        "Successful oral rehydration",
+        "Imminent hypovolemic shock",
+        "Spontaneous recovery",
+        "Mild hypernatremia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A weight loss of 10% in 24 hours constitutes critical dehydration, with a high risk of hypovolemic shock due to severe intravascular volume depletion.",
+      "hashtags": [
+        "emergencies",
+        "hypovolemic_shock",
+        "clinical_table",
+        "critical_loss",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main mechanism of zinc in acute diarrhea?",
+      "options": [
+        "Inhibits sodium absorption",
+        "Stimulates the proton pump",
+        "Reduces chlorine secretion",
+        "Increases intestinal motility"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Zinc acts by inhibiting chlorine secretion and improving the absorption of sodium and water, which reduces fluid loss and shortens the duration of the diarrheal episode.",
+      "hashtags": [
+        "pediatrics",
+        "acute_diarrhea",
+        "pathophysiology",
+        "zinc_action_mechanism",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What daily dose of zinc is recommended in infants with acute diarrhea?",
+      "options": [
+        "5mg",
+        "40mg",
+        "20mg",
+        "10mg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The WHO recommends 20 mg of zinc per day for 10 to 14 days in children with acute diarrhea, while 10 mg per day is used in infants under 6 months of age.",
+      "hashtags": [
+        "pediatrics",
+        "acute_diarrhea",
+        "treatment",
+        "zinc_dose",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What is the most relevant clinical effect of zinc in acute diarrhea?",
+      "options": [
+        "Prevents associated fever",
+        "Increases stool production",
+        "Reduces the duration of diarrhea",
+        "Reduces the frequency of vomiting"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Clinical studies have shown that zinc significantly reduces the duration and severity of acute diarrhea, as well as the risk of new episodes in the following months.",
+      "hashtags": [
+        "pediatrics",
+        "acute_diarrhea",
+        "clinical_table",
+        "zinc_effect",
+        "MEDICAL_TOPIC",
+        "Lancet 2022"
+      ]
+    },
+    {
+      "question": "In which age group is the use of zinc most indicated in acute diarrhea?",
+      "options": [
+        "Adolescents from 12 to 18 years old",
+        "Adults over 65 years of age",
+        "Preterm newborns",
+        "Children under 5 years"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Evidence supports the use of zinc mainly in children under 5 years of age, a group with the highest burden of morbidity and mortality from acute diarrhea in developing countries.",
+      "hashtags": [
+        "pediatrics",
+        "acute_diarrhea",
+        "epidemiology",
+        "age_group",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What therapeutic complement is essential along with zinc in acute diarrhea?",
+      "options": [
+        "Non-steroidal anti-inflammatory drugs",
+        "Oral rehydration salts",
+        "Broad spectrum antibiotics",
+        "Single dose loperamide"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Oral rehydration salts are the mainstay of acute diarrhea treatment to correct dehydration; Zinc is added as an adjuvant to reduce the duration and severity.",
+      "hashtags": [
+        "pediatrics",
+        "acute_diarrhea",
+        "treatment",
+        "oral_rehydration",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What is the most common pharmaceutical presentation of zinc for acute diarrhea?",
+      "options": [
+        "20 mg chewable tablets",
+        "Intravenous injection solution",
+        "Rectal suppositories",
+        "Extended release capsules"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The most commonly used presentation in public health programs is the 20 mg chewable or dispersible tablets, which are easy to administer to young children and are well accepted.",
+      "hashtags": [
+        "pediatrics",
+        "acute_diarrhea",
+        "posology",
+        "presentation_zinc",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
+    },
+    {
+      "question": "What is the main indication for intravenous fluids in dehydration?",
+      "options": [
+        "Vomiting of bilious content",
+        "Inability to take oral intake",
+        "Fever greater than 38.5 °C",
+        "diffuse abdominal pain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The inability to ingest oral fluids is the main indication for initiating intravenous fluids in dehydration, as it prevents enteral resuscitation.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration",
+        "treatment",
+        "indication_iv",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which clinical sign indicates severe dehydration with the need for intravenous fluids?",
+      "options": [
+        "Excessive thirst and dry mucosa",
+        "Skin fold that disappears",
+        "Heart rate of 90 bpm",
+        "Capillary refill greater than 3 seconds"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Prolonged capillary refill (>3 seconds) is a sign of severe dehydration indicating tissue hypoperfusion and the need for immediate intravenous fluids.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration",
+        "clinical_table",
+        "capillary_filling",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What type of intravenous fluid is recommended initially in hypovolemic dehydration?",
+      "options": [
+        "5% dextrose",
+        "Ringer's lactate",
+        "10% glucose solution",
+        "0.9% saline solution"
+      ],
+      "correctAnswer": 4,
+      "explanation": "0.9% saline solution is the initial intravenous fluid of choice in hypovolemic dehydration because it is isotonic and effectively expands the intravascular volume.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration",
+        "treatment",
+        "saline_solution",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In what situation is the use of intravenous fluids contraindicated in dehydration?",
+      "options": [
+        "Oliguria due to dehydration",
+        "Severe arterial hypotension",
+        "Acute pulmonary edema",
+        "Sinus tachycardia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Acute pulmonary edema contraindicates the administration of intravenous fluids, as it may worsen fluid overload and respiratory failure.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration",
+        "contraindications",
+        "pulmonary edema",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What laboratory parameter indicates the need for intravenous fluids in dehydration?",
+      "options": [
+        "BUN creatinine greater than 20:1",
+        "Serum sodium 135 mEq/L",
+        "Hematocrit of 38%",
+        "Serum potassium 4.2 mEq/L"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A BUN/creatinine ratio greater than 20:1 indicates prerenal dehydration with renal hypoperfusion, which justifies intravenous fluid replacement.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration",
+        "diagnosis",
+        "creatinine_bun_ratio",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the objective of intravenous fluid bolus in severe dehydration?",
+      "options": [
+        "Normalize serum osmolarity",
+        "Decrease heart rate",
+        "Restore tissue perfusion",
+        "Correct metabolic acidosis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The main objective of the intravenous bolus in severe dehydration is to restore tissue perfusion and blood pressure, reversing the state of critical hypovolemia.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration",
+        "treatment",
+        "bolus_iv",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the first step in the cholera rehydration algorithm?",
+      "options": [
+        "Assess the degree of dehydration",
+        "Place an IV",
+        "Administer antibiotics",
+        "Start oral rehydration salts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The rehydration algorithm in cholera begins with the evaluation of the degree of dehydration (mild, moderate or severe) to decide the route and type of fluid therapy.",
+      "hashtags": [
+        "internal_medicine",
+        "anger",
+        "clinical_table",
+        "initial_evaluation",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What solution is recommended for oral rehydration in cholera?",
+      "options": [
+        "5% dextrose in water",
+        "0.9% saline solution",
+        "WHO oral rehydration solution",
+        "Lactated Ringer's solution"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The WHO oral rehydration solution (with glucose and electrolytes) is the basis of treatment in cholera for mild to moderate dehydration, taking advantage of sodium-glucose cotransport.",
+      "hashtags": [
+        "internal_medicine",
+        "anger",
+        "treatment",
+        "oral_rehydration",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "When is intravenous rehydration indicated in cholera?",
+      "options": [
+        "Moderate dehydration without vomiting",
+        "Severe dehydration or hypovolemic shock",
+        "Always at the beginning of treatment",
+        "Mild dehydration with vomiting"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Intravenous rehydration is reserved for severe dehydration (loss >10% of body weight) or shock, since the oral route is not sufficient to quickly replace the lost volume.",
+      "hashtags": [
+        "internal_medicine",
+        "anger",
+        "treatment",
+        "intravenous_indication",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What intravenous fluid is of choice in the rehydration of severe cholera?",
+      "options": [
+        "Lactated Ringer's",
+        "10% dextrose",
+        "0.9% saline solution",
+        "0.45% saline solution"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lactated Ringer's is the preferred intravenous fluid in severe cholera because its electrolyte composition resembles the plasma lost in diarrhea, correcting acidosis and bicarbonate deficiency.",
+      "hashtags": [
+        "internal_medicine",
+        "anger",
+        "treatment",
+        "intravenous_fluids",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What criterion indicates the transition from intravenous to oral rehydration in cholera?",
+      "options": [
+        "Normalization of serum sodium",
+        "Appearance of spontaneous diuresis",
+        "Disappearance of diarrhea",
+        "Improved pulse and blood pressure"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The transition to oral administration is performed when the patient regains hemodynamic stability (palpable pulse, normal blood pressure) and can tolerate oral fluids without risk of aspiration.",
+      "hashtags": [
+        "internal_medicine",
+        "anger",
+        "treatment",
+        "therapeutic_transition",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What complication may occur if intravenous rehydration is excessive in cholera?",
+      "options": [
+        "metabolic acidosis",
+        "volume overload",
+        "Hypernatremia",
+        "Hypokalemia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Volume overload (pulmonary edema, heart failure) is a complication of excessive intravenous rehydration, especially in children and the elderly, so fluid balance should be monitored.",
+      "hashtags": [
+        "internal_medicine",
+        "anger",
+        "complications",
+        "volume_overload",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main mechanism of hypoglycemia in severe childhood diarrhea?",
+      "options": [
+        "Increased glycogenolysis",
+        "Decreased gluconeogenesis",
+        "Glucocorticoid excess",
+        "Increased endogenous insulin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In severe diarrhea, the depletion of substrates and the depletion of hepatic reserves decrease gluconeogenesis, causing hypoglycemia, there is no hyperinsulinism or excess of glucocorticoids.",
+      "hashtags": [
+        "pediatrics",
+        "hypoglycemia_diarrhea",
+        "pathophysiology",
+        "gluconeogenesis_decreased",
+        "MEDICAL_TOPIC",
+        "Nelson Textbook of Pediatrics 21ed"
+      ]
+    },
+    {
+      "question": "Which clinical sign is most specific for hypoglycemia in an infant with diarrhea?",
+      "options": [
+        "Decreased crying",
+        "Weak crying and sweating",
+        "Increased heart rate",
+        "Sunken anterior fontanel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hypoglycemia activates adrenergic response with sweating, tachycardia and weak crying; Sunken fontanelle is a sign of dehydration, not specific for hypoglycemia.",
+      "hashtags": [
+        "pediatrics",
+        "hypoglycemia_diarrhea",
+        "clinical_table",
+        "adrenergic_signs",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for symptomatic hypoglycemia in severe diarrhea?",
+      "options": [
+        "0.9% saline solution",
+        "baking soda",
+        "intramuscular glucagon",
+        "10% glucose bolus"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Intravenous 10% glucose bolus rapidly corrects symptomatic hypoglycemia; Saline solution does not provide glucose and glucagon is an alternative if there is no venous access.",
+      "hashtags": [
+        "pediatrics",
+        "hypoglycemia_diarrhea",
+        "treatment",
+        "glucose_iv",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023---Nelson 21ed"
+      ]
+    },
+    {
+      "question": "What risk factor predisposes to hypoglycemia in acute diarrhea?",
+      "options": [
+        "Chronic malnutrition",
+        "Age over 5 years",
+        "Pre-existing obesity",
+        "High blood pressure"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chronic malnutrition reduces hepatic reserves of glycogen and gluconeogenic substrates, increasing the risk of hypoglycemia during severe diarrhea; The other factors do not predispose.",
+      "hashtags": [
+        "pediatrics",
+        "hypoglycemia_diarrhea",
+        "epidemiology",
+        "malnutrition",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What electrolyte disturbance can exacerbate hypoglycemia in severe diarrhea?",
+      "options": [
+        "Hypokalemia",
+        "Hypochloremia",
+        "Hypercalcemia",
+        "Hypernatremia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hypokalemia impairs insulin secretion and carbohydrate metabolism, worsening hypoglycemia; hypernatremia and other disorders do not have this direct effect.",
+      "hashtags": [
+        "pediatrics",
+        "hypoglycemia_diarrhea",
+        "pathophysiology",
+        "hypokalemia",
+        "MEDICAL_TOPIC",
+        "Nelson 21ed"
+      ]
+    },
+    {
+      "question": "What is the glucose value that defines hypoglycemia in an infant with diarrhea?",
+      "options": [
+        "Less than 70 mg/dL",
+        "Less than 60 mg/dL",
+        "Less than 50 mg/dL",
+        "Less than 40 mg/dL"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In infants, hypoglycemia is defined as glucose <50 mg/dL (2.8 mmol/L); Values ​​of 60 or 70 mg/dL are still considered normal or mild hypoglycemia at other ages.",
+      "hashtags": [
+        "pediatrics",
+        "hypoglycemia_diarrhea",
+        "diagnosis",
+        "glycemic_criterion",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "In what type of diarrhea is the use of empiric antibiotics recommended?",
+      "options": [
+        "Chronic secretory diarrhea",
+        "Dysenteric diarrhea",
+        "Mild watery diarrhea",
+        "Osmotic diarrhea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Empirical antibiotics are indicated in dysenteric diarrhea (with blood and mucus) and in severe cholera, due to its invasive or toxigenic bacterial origin.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration_diarrhea",
+        "treatment",
+        "empirical_antibiotics",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the main indication for antibiotics in acute diarrhea?",
+      "options": [
+        "viral gastroenteritis",
+        "Mild traveler's diarrhea",
+        "Food poisoning",
+        "severe anger"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Severe cholera is a formal indication for antibiotic therapy, along with dysenteric diarrhea, to reduce duration and bacterial excretion.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration_diarrhea",
+        "indications",
+        "serious_anger",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What characterizes diarrhea that requires antibiotic treatment?",
+      "options": [
+        "watery stools without blood",
+        "Green stools without fever",
+        "Steatorrheic stools",
+        "Stools with mucus and blood"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The presence of mucus and blood (dysentery) suggests bacterial invasion of the colonic mucosa, which justifies the use of empirical antibiotics.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration_diarrhea",
+        "clinical_table",
+        "dysentery",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "When should antibiotics be avoided in acute diarrhea?",
+      "options": [
+        "In suspected shigellosis",
+        "In mild watery diarrhea",
+        "In serious anger",
+        "In dysenteric diarrhea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mild watery diarrhea is usually self-limited or virally caused, so antibiotics are not indicated and can prolong the condition or generate resistance.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration_diarrhea",
+        "contraindications",
+        "mild_watery_diarrhea",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What pathogen justifies the use of antibiotics in severe diarrhea?",
+      "options": [
+        "Rotavirus",
+        "Adenovirus",
+        "Vibrio cholerae",
+        "Giardia lamblia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Vibrio cholerae causes severe cholera with massive diarrhea, and antibiotic treatment reduces the duration of the disease and the spread of the pathogen.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration_diarrhea",
+        "etiology",
+        "vibrio_cholerae",
+        "MEDICAL_TOPIC",
+        "WHO Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the initial response to dysenteric diarrhea in a healthy adult?",
+      "options": [
+        "Immediate loperamide",
+        "Oral rehydration only",
+        "Empirical antibiotic",
+        "Absolute fast 48 hours"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dysenteric diarrhea suggests invasive bacterial infection, so it is recommended to start empirical antibiotics in addition to rehydration.",
+      "hashtags": [
+        "internal_medicine",
+        "dehydration_diarrhea",
+        "treatment",
+        "empirical_antibiotic",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    }
+  ]
+}

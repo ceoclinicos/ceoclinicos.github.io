@@ -2995,6 +2995,271 @@
         "#neurologia"
       ],
       "tieneGuia": false
+    },
+    {
+      "id": "localización_de_lesiones",
+      "titulo": "Localización de lesiones",
+      "descripcion": "Identificación y clasificación de lesiones según su ubicación anatómica en el cuerpo humano.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#anatomia",
+        "#patologia",
+        "#localizacion_lesiones",
+        "#medicina"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "diabetes_mellitus",
+      "titulo": "Diabetes mellitus",
+      "descripcion": "Trastorno metabólico crónico caracterizado por hiperglucemia debido a defectos en la secreción o acción de la insulina. Abarca diagnóstico, clasificación, tratamiento y complicaciones.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 66,
+      "etiquetas": [
+        "#endocrinologia",
+        "#diabetes_mellitus",
+        "#metabolismo",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "infección_urinaria",
+      "titulo": "Infección urinaria",
+      "descripcion": "Tema sobre infecciones del tracto urinario, incluyendo cistitis, pielonefritis y manejo clínico.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#infeccion_urinaria",
+        "#urologia",
+        "#medicina_interna",
+        "#infectologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "deshidratación_y_diarrea",
+      "titulo": "Deshidratación y diarrea",
+      "descripcion": "Aborda el manejo clínico de la diarrea aguda y crónica, así como la prevención y tratamiento de la deshidratación, especialmente en poblaciones vulnerables.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#pediatria",
+        "#medicina_interna",
+        "#urgencias",
+        "#deshidratacion",
+        "#diarrea"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "gripe_y_resfriado_común",
+      "titulo": "Gripe y Resfriado común",
+      "descripcion": "Aprende a diferenciar y manejar las infecciones respiratorias virales más frecuentes, incluyendo síntomas, tratamiento y prevención.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#infectologia",
+        "#gripe",
+        "#resfriado_comun",
+        "#medicina_general",
+        "#virologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "asma",
+      "titulo": "Asma",
+      "descripcion": "Enfermedad inflamatoria crónica de las vías respiratorias que causa episodios recurrentes de sibilancias, disnea, opresión torácica y tos.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#neumologia",
+        "#asma",
+        "#medicina_interna",
+        "#alergologia",
+        "#pediatria"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "obesidad",
+      "titulo": "Obesidad",
+      "descripcion": "Trastorno caracterizado por acumulación anormal o excesiva de grasa corporal que representa un riesgo para la salud. Abarca diagnóstico, clasificación, comorbilidades y abordaje terapéutico.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#obesidad",
+        "#endocrinologia",
+        "#nutricion",
+        "#medicina_interna",
+        "#metabolismo"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "estreñimiento",
+      "titulo": "Estreñimiento",
+      "descripcion": "Trastorno digestivo caracterizado por la dificultad para evacuar o la disminución en la frecuencia de las deposiciones.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#gastroenterologia",
+        "#estreñimiento",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "amigdalitis",
+      "titulo": "Amigdalitis",
+      "descripcion": "Infección e inflamación de las amígdalas palatinas, frecuentemente de origen viral o bacteriano. Incluye diagnóstico, tratamiento y complicaciones.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#otorrinolaringologia",
+        "#amigdalitis",
+        "#infecciones_respiratorias",
+        "#pediatria",
+        "#medicina_general"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "varicela",
+      "titulo": "Varicela",
+      "descripcion": "Enfermedad infecciosa altamente contagiosa causada por el virus varicela-zóster, caracterizada por erupción vesicular y fiebre.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#infectologia",
+        "#varicela",
+        "#pediatria",
+        "#virus_varicela_zoster",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "lumbalgia",
+      "titulo": "Lumbalgia",
+      "descripcion": "Manejo integral del dolor lumbar, incluyendo causas, diagnóstico y opciones terapéuticas.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#traumatologia",
+        "#lumbalgia",
+        "#dolor_lumbar",
+        "#medicina_fisica",
+        "#rehabilitacion"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "dengue",
+      "titulo": "Dengue",
+      "descripcion": "Enfermedad viral transmitida por mosquitos Aedes, con espectro clínico que va desde fiebre leve hasta formas graves con choque y hemorragias.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#dengue",
+        "#infectologia",
+        "#enfermedades_tropicales",
+        "#virologia",
+        "#salud_publica"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "hipotiroidismo",
+      "titulo": "Hipotiroidismo",
+      "descripcion": "Trastorno endocrino caracterizado por la producción insuficiente de hormonas tiroideas, que afecta el metabolismo y múltiples sistemas del organismo.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#endocrinologia",
+        "#hipotiroidismo",
+        "#tiroides",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "insomnio",
+      "titulo": "Insomnio",
+      "descripcion": "Trastorno del sueño caracterizado por dificultad para conciliar o mantener el sueño, o despertar temprano sin poder volver a dormir.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#medicina_del_sueno",
+        "#trastornos_del_sueno",
+        "#insomnio",
+        "#psiquiatria",
+        "#neurologia"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "micosis_cutánea",
+      "titulo": "Micosis cutánea",
+      "descripcion": "Infecciones fúngicas que afectan la piel, uñas y mucosas, causadas por dermatofitos y levaduras. Incluye diagnóstico, tratamiento y prevención.",
+      "pdfUrl": "",
+      "precioPildoras": "barato",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#dermatologia",
+        "#micosis_cutanea",
+        "#infecciones_fungicas",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "alergias.",
+      "titulo": "Alergias",
+      "descripcion": "Reacciones de hipersensibilidad del sistema inmunológico ante alérgenos comunes. Incluye diagnóstico, tratamiento y prevención.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#alergologia",
+        "#alergias",
+        "#inmunologia",
+        "#medicina_interna"
+      ],
+      "tieneGuia": false
+    },
+    {
+      "id": "ataxias_y_enfermedades_de_motoneurona",
+      "titulo": "Ataxias y enfermedades de motoneurona",
+      "descripcion": "Trastornos del movimiento y neurodegenerativos que afectan la coordinación y las neuronas motoras, incluyendo ataxias hereditarias y esporádicas, ELA y otras enfermedades de la motoneurona.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#neurologia",
+        "#ataxias",
+        "#enfermedades_motoneurona",
+        "#ela",
+        "#neurodegeneracion"
+      ],
+      "tieneGuia": false
     }
   ]
 }

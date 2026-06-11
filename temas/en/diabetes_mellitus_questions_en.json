@@ -1,554 +1,1258 @@
 {
   "questions": [
     {
-      "question": "What is the main characteristic of diabetes mellitus?",
+      "question": "Which of the following fasting blood glucose values ​​is diagnostic of diabetes mellitus according to the ADA?",
       "options": [
-        "Low cholesterol levels.",
-        "Excessive weight loss.",
-        "Autoimmune cell destruction.",
-        "Persistent increase in blood glucose."
+        "≥ 110 mg/dL",
+        "≥ 140 mg/dL",
+        "≥ 100 mg/dL",
+        "≥ 126 mg/dL"
       ],
       "correctAnswer": 4,
-      "explanation": "Diabetes mellitus is defined as a chronic metabolic disorder that is fundamentally distinguished by the presence of **persistent hyperglycemia**. This means that blood sugar levels remain constantly high, which over time can cause serious damage to various organs and systems and requires medical management to control."
+      "explanation": "The ADA establishes that a fasting blood glucose level ≥ 126 mg/dL on two separate occasions confirms the diagnosis of diabetes mellitus; Lower values ​​indicate prediabetes or normality.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "diagnosis",
+        "fasting_glycemia",
+        "MEDICAL_TOPIC",
+        "ADA 2024"
+      ]
     },
     {
-      "question": "What main mechanisms cause diabetes mellitus?",
+      "question": "Which oral glucose tolerance test confirms diabetes according to the WHO?",
       "options": [
-        "Decreased resistance or secretion.",
-        "Just insufficient insulin secretion.",
-        "Exclusively due to viral toxins.",
-        "Only peripheral insulin resistance."
+        "≥ 200 mg/dL at 2 hours",
+        "≥ 140 mg/dL at 2 hours",
+        "≥ 180 mg/dL at 2 hours",
+        "≥ 250 mg/dL at 2 hours"
       ],
       "correctAnswer": 1,
-      "explanation": "Diabetes is caused by an alteration in glucose regulation that can be the result of two different pathological mechanisms or their combination: **resistance to the actions of insulin** in peripheral tissues and/or a **deficiency in insulin secretion** by the pancreas."
+      "explanation": "The WHO defines diabetes if the blood glucose level 2 hours after an oral overload of 75 g of glucose is ≥ 200 mg/dL, a value that indicates an insufficient insulin response.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "diagnosis",
+        "glucose_curve",
+        "MEDICAL_TOPIC",
+        "WHO 2023"
+      ]
     },
     {
-      "question": "What is a type of microvascular complication of diabetes?",
+      "question": "What is the glycated hemoglobin (HbA1c) value considered diagnostic of diabetes by the ADA?",
       "options": [
-        "Arterial hypertension.",
-        "Stroke.",
-        "Retinopathy.",
-        "Cardiovascular disease."
+        "≥ 5.7%",
+        "≥ 6.0%",
+        "≥ 7.0%",
+        "≥ 6.5%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The ADA includes HbA1c ≥ 6.5% as a diagnostic criterion, as long as the laboratory is certified and standardized; Values ​​between 5.7-6.4% indicate prediabetes.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "diagnosis",
+        "glycosylated_hemoglobin",
+        "MEDICAL_TOPIC",
+        "ADA 2024"
+      ]
+    },
+    {
+      "question": "In a patient with a random blood glucose level of 250 mg/dL and classic symptoms, which diagnostic approach is correct?",
+      "options": [
+        "Request HbA1c in 3 months",
+        "Create tolerance curve",
+        "Repeat fasting blood glucose",
+        "Diagnose diabetes immediately"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The ADA and WHO accept that a random blood glucose level ≥ 200 mg/dL accompanied by polyuria, polydipsia, or weight loss is sufficient to diagnose diabetes without the need for another test.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "diagnosis",
+        "random_glycemia",
+        "MEDICAL_TOPIC",
+        "ADA 2024"
+      ]
+    },
+    {
+      "question": "What condition is diagnosed with fasting blood glucose between 100 and 125 mg/dL according to the ADA?",
+      "options": [
+        "Diabetes mellitus type 1",
+        "Diabetes mellitus type 2",
+        "Prediabetes (altered blood glucose)",
+        "Normoglycemia"
       ],
       "correctAnswer": 3,
-      "explanation": "Microvascular complications refer to damage to small blood vessels, and include **retinopathy** (eye damage), nephropathy (kidney damage), and neuropathy (nerve damage). The other options are macrovascular complications or risk factors associated with diabetes."
+      "explanation": "The ADA defines altered fasting blood glucose (prediabetes) when values ​​are between 100 and 125 mg/dL, indicating a high risk of progression to diabetes.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "diagnosis",
+        "prediabetes",
+        "MEDICAL_TOPIC",
+        "ADA 2024"
+      ]
     },
     {
-      "question": "What percentage of diabetes cases is Type 1?",
+      "question": "Which of the following is not a diagnostic criterion for diabetes according to the ADA?",
       "options": [
-        "Between 5 and 10 percent.",
-        "Less than 2 percent.",
-        "About 25 percent.",
-        "About 90 percent."
+        "HbA1c ≥ 6.5%",
+        "Fasting blood glucose ≥ 126 mg/dL",
+        "Blood glucose 2 h ≥ 200 mg/dL",
+        "Fasting blood glucose ≥ 110 mg/dL"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The ADA requires fasting blood glucose ≥ 126 mg/dL; The value of 110 mg/dL corresponds to the old criterion of altered blood glucose, not the diagnosis of diabetes.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "diagnosis",
+        "criteria_ada",
+        "MEDICAL_TOPIC",
+        "ADA 2024"
+      ]
+    },
+    {
+      "question": "What is the main pathophysiological characteristic of type 1 diabetes mellitus?",
+      "options": [
+        "Glucagon hyperproduction",
+        "Inadequate insulin secretion",
+        "insulin resistance",
+        "Absolute insulin deficiency"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Type 1 diabetes is due to autoimmune destruction of pancreatic beta cells, leading to absolute insulin deficiency.",
+      "hashtags": [
+        "endocrinology",
+        "diabetes_mellitus_type_1",
+        "pathophysiology",
+        "insulin_deficiency",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What factor is most frequently associated with the development of type 2 diabetes mellitus?",
+      "options": [
+        "Obesity and sedentary lifestyle",
+        "Previous viral infection",
+        "Monogenic genetic mutation",
+        "History of pancreatic surgery"
       ],
       "correctAnswer": 1,
-      "explanation": "*Type 1 diabetes mellitus (DM1)* is the least common form of the disease in adults and historically represents between **5% and 10%** of the total diagnosed cases of diabetes mellitus. It is characterized by absolute insulin deficiency due to autoimmune destruction of beta cells."
+      "explanation": "Type 2 diabetes is strongly associated with obesity and a sedentary lifestyle, which contribute to insulin resistance and beta cell dysfunction.",
+      "hashtags": [
+        "endocrinology",
+        "diabetes_mellitus_type_2",
+        "etiology",
+        "risk_factors",
+        "MEDICAL_TOPIC",
+        ""
+      ]
     },
     {
-      "question": "What is the underlying cause of Type 1 diabetes?",
+      "question": "In what trimester of pregnancy is gestational diabetes mellitus usually diagnosed?",
       "options": [
-        "Autoimmune destruction of beta cells.",
-        "Early viral infection.",
-        "Peripheral insulin resistance.",
-        "Obesity and sedentary lifestyle."
+        "Second trimester",
+        "Third quarter",
+        "Immediate postpartum",
+        "First quarter"
       ],
       "correctAnswer": 1,
-      "explanation": "Type 1 diabetes is classified as an autoimmune disease where the body's immune system identifies and proceeds to selectively destroy the insulin-producing beta cells in the islets of the pancreas, resulting in a complete absence of insulin."
+      "explanation": "Gestational diabetes is typically diagnosed in the second trimester, between weeks 24 and 28, using an oral glucose tolerance test.",
+      "hashtags": [
+        "endocrinology",
+        "gestational_diabetes",
+        "diagnosis",
+        "pregnancy_trimester",
+        "MEDICAL_TOPIC",
+        ""
+      ]
     },
     {
-      "question": "What type of diabetes represents the greatest number of cases?",
+      "question": "What is the first-line treatment for uncomplicated type 2 diabetes mellitus?",
       "options": [
-        "Type 2.",
-        "Gestational.",
-        "Type 1.",
-        "Monogenic."
-      ],
-      "correctAnswer": 1,
-      "explanation": "**Type 2 diabetes mellitus (T2DM)** is the most prevalent form of diabetes worldwide, constituting approximately **90%** of all diagnosed diabetes cases. It is strongly associated with risk factors such as obesity and physical inactivity."
-    },
-    {
-      "question": "What condition marks the onset of Type 2 diabetes?",
-      "options": [
-        "Early viral infection.",
-        "Absolute insulin deficiency.",
-        "Resistance to the action of insulin.",
-        "Total destruction of beta cells."
-      ],
-      "correctAnswer": 3,
-      "explanation": "The underlying pathological process that initiates *type 2 diabetes* is *insulin resistance*, a condition in which the body's cells do not respond properly to the hormone. Although the pancreas tries to compensate, it ultimately fails and persistent hyperglycemia occurs."
-    },
-    {
-      "question": "In what age group is Type 2 most common?",
-      "options": [
-        "Between 10 and 25 years.",
-        "Over 45 years old.",
-        "Pregnant women.",
-        "Children under 10 years old."
-      ],
-      "correctAnswer": 2,
-      "explanation": "*Type 2 diabetes* is most commonly diagnosed in *people over the age of 45*. However, the growing obesity epidemic and lack of physical activity have led to a notable increase in diagnoses in children, adolescents, and younger adults."
-    },
-    {
-      "question": "What is gestational diabetes?",
-      "options": [
-        "Diabetes before pregnancy.",
-        "Hyperglycemia detected during pregnancy.",
-        "Hyperglycemia after childbirth.",
-        "Autoimmune diabetes in adults."
-      ],
-      "correctAnswer": 2,
-      "explanation": "*Gestational diabetes mellitus (GDM)* is the condition of hyperglycemia that is observed or **detected for the first time during pregnancy** in a woman. It generally manifests itself in the second or third trimester and requires careful dietary and medical management to protect the fetus and mother."
-    },
-    {
-      "question": "What percentage of pregnancies are complicated by GDM?",
-      "options": [
-        "About 7 percent.",
-        "Less than 1 percent.",
-        "More than 50 percent.",
-        "About 20 percent."
-      ],
-      "correctAnswer": 1,
-      "explanation": "Gestational diabetes is a significant complication during pregnancy. The American Diabetes Association (ADA) estimates that this condition **complicates about 7% of all pregnancies** and increases the risk for both mother and baby of developing type 2 diabetes in the future."
-    },
-    {
-      "question": "What causes monogenic diabetes?",
-      "options": [
-        "Drug-induced damage.",
-        "Diseases of the exocrine pancreas.",
-        "Single mutation in a gene.",
-        "Multiple genes and environmental factors."
-      ],
-      "correctAnswer": 3,
-      "explanation": "**Monogenic diabetes** is a rare type of diabetes caused by the **mutation of a single gene** with an autosomal dominant inheritance pattern. Examples include maturity-onset diabetes of the young (MODY) and neonatal diabetes, and they usually present at an early age."
-    },
-    {
-      "question": "What condition can cause secondary diabetes?",
-      "options": [
-        "Pancreatitis.",
-        "A low carbohydrate diet.",
-        "Excessive physical activity.",
-        "A low body mass index."
-      ],
-      "correctAnswer": 1,
-      "explanation": "**Secondary diabetes** is diabetes that occurs as a direct result of another disease or the use of certain medications. Conditions that directly affect the pancreas, such as pancreatitis, or hormonal disorders such as Cushing's disease may be underlying causes."
-    },
-    {
-      "question": "What percentage of the American population had DM in 2015?",
-      "options": [
-        "About 10 percent.",
-        "About 40 percent.",
-        "Less than 1 percent.",
-        "About 25 percent."
-      ],
-      "correctAnswer": 1,
-      "explanation": "According to International Diabetes Federation (IDF) estimates for 2015, approximately **10%** of the adult population in the United States had diabetes. Furthermore, it is estimated that a large number of these cases were undiagnosed at the time, so the real number could be higher."
-    },
-    {
-      "question": "What is the prevalence of diabetes in people over 65 years of age?",
-      "options": [
-        "About 25 percent.",
-        "Less than 5 percent.",
-        "More than 75 percent.",
-        "About 10 percent."
-      ],
-      "correctAnswer": 1,
-      "explanation": "The prevalence of diabetes increases markedly with age, becoming a significant public health problem in the elderly population. It has been reported that **about 25%** of the population over 65 years of age suffers from diabetes, underscoring the need for continued screening."
-    },
-    {
-      "question": "What genetic complex is related to Type 1?",
-      "options": [
-        "The glucagon receptor.",
-        "C-reactive protein.",
-        "Insulin growth factor 1.",
-        "The major histocompatibility complex."
-      ],
-      "correctAnswer": 4,
-      "explanation": "The major histocompatibility complex (MHC), also known as human leukocyte antigens (HLA), is considered the genetic factor most strongly associated with type 1 diabetes, explaining approximately 40% to 50% of the familial aggregation observed in the autoimmune disease."
-    },
-    {
-      "question": "What promotes insulin resistance in Type 2?",
-      "options": [
-        "Low intake of fatty acids.",
-        "High levels of GLP-1.",
-        "Vigorous physical activity.",
-        "adipose tissue."
-      ],
-      "correctAnswer": 4,
-      "explanation": "In type 2 diabetes, especially in patients with obesity, adipose tissue, particularly visceral adipose tissue, is not only an energy store but an active endocrine organ that actively promotes **insulin resistance** through excessive release of free fatty acids and dysfunction of pro-inflammatory adipokines."
-    },
-    {
-      "question": "What do patients with Type 1 often debut with?",
-      "options": [
-        "Severe hypoglycemia.",
-        "Arterial hypertension.",
-        "Chronic abdominal pain.",
-        "Ketoacidotic coma (DKA)."
-      ],
-      "correctAnswer": 4,
-      "explanation": "Due to absolute insulin deficiency, a significant number of patients with type 1 diabetes, approximately 30%, may present with a severe metabolic emergency known as diabetic ketoacidosis (DKA). DKA is characterized by hyperglycemia, acidosis, and ketosis, and is a common onset of the disease."
-    },
-    {
-      "question": "What is a common symptom of hyperglycemia?",
-      "options": [
-        "Absence of thirst.",
-        "Rapid wound healing.",
-        "Decreased urination.",
-        "Fatigue."
-      ],
-      "correctAnswer": 4,
-      "explanation": "Fatigue or lack of energy is a nonspecific but very common symptom in patients with uncontrolled hyperglycemia. Other classic symptoms, also known as the '3 P's', include polydipsia (increased thirst), polyuria (increased urination) and polyphagia (increased appetite), as well as slow wound healing."
-    },
-    {
-      "question": "At what age should general DM screening begin?",
-      "options": [
-        "At 35 years old.",
-        "At 60 years old.",
-        "At 20 years old.",
-        "At 45 years old."
-      ],
-      "correctAnswer": 4,
-      "explanation": "For the asymptomatic adult population without known additional risk factors, it is recommended that screening or detection for diabetes mellitus begins at the age of **45 years**. If initial test results are normal, screening should be repeated at least every three years for adequate health monitoring."
-    },
-    {
-      "question": "What Hb A1C value diagnoses diabetes mellitus?",
-      "options": [
-        "Between 6.0 and 6.4 percent.",
-        "Less than 6.0 percent.",
-        "Greater than 5.7 percent.",
-        "Greater than 6.5 percent."
-      ],
-      "correctAnswer": 4,
-      "explanation": "The glycosylated hemoglobin (Hb A1C) test is a convenient diagnostic tool that averages your blood glucose level over the past two to three months. A value **greater than or equal to 6.5%** (48 mmol/mol) is considered by international standards as a diagnosis of diabetes mellitus."
-    },
-    {
-      "question": "What is the first line therapy if the diet doesn't work?",
-      "options": [
-        "DPP-4 inhibitors",
-        "Oral sulfonylureas",
-        "GLP-1 agonists",
-        "Metformin"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Metformin is the preferred medication for initial treatment in patients with type 2 diabetes when lifestyle modifications, such as diet and exercise, are not sufficient to achieve adequate glycemic control. Its use is the first step before considering other therapies."
-    },
-    {
-      "question": "What is the basis of treatment for T1DM and T2DM?",
-      "options": [
-        "Surgery and medications",
-        "Rapid weight loss",
-        "Insulin and statin",
-        "Diet and exercise"
-      ],
-      "correctAnswer": 4,
-      "explanation": "The foundation of therapy for both types of diabetes, both type 1 and type 2, always lies in lifestyle changes, specifically a healthy low-fat diet and regular aerobic physical exercise."
-    },
-    {
-      "question": "What component should be low in a recommended diet?",
-      "options": [
-        "Fiber",
-        "monounsaturated fats",
-        "refined carbohydrates",
-        "Lean proteins"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A diet that is low in saturated fat, high fructose corn syrup, and refined carbohydrates, while high in fiber and monounsaturated fats, should be encouraged to promote better metabolic health and glycemic control."
-    },
-    {
-      "question": "What is the goal of LDL-C without atherosclerotic CV disease?",
-      "options": [
-        "Less than 130~mg/dl",
-        "Less than 85~mg/dl",
-        "Less than 70~mg/dl",
-        "Less than 100~mg/dl"
-      ],
-      "correctAnswer": 4,
-      "explanation": "For patients without atherosclerotic cardiovascular disease (ASCVD), the target LDL-C (low-density lipoprotein cholesterol) level should be less than 100 mg/dl to reduce the risk of future vascular complications."
-    },
-    {
-      "question": "What is the recommended blood pressure goal?",
-      "options": [
-        "Less than 140/90 mmHg",
-        "Less than 130/85 mmHg",
-        "Less than 120/80 mmHg",
-        "Less than 135/90 mmHg"
-      ],
-      "correctAnswer": 2,
-      "explanation": "To reduce microvascular complications in most diabetic patients, the goal blood pressure (BP) should be less than 130/85mmHg, and therapy with angiotensin-converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARB) is recommended."
-    },
-    {
-      "question": "What is the hemoglobin A1C goal to reduce complications?",
-      "options": [
-        "less than 8%",
-        "Less than 7.5%",
-        "less than 7%",
-        "Less than 6.5%"
-      ],
-      "correctAnswer": 3,
-      "explanation": "To minimize the onset and progression of microvascular complications in most patients with diabetes, the Hb A1C (glycated hemoglobin) target should generally be less than 7%, indicating adequate average glycemic control."
-    },
-    {
-      "question": "How often should urinary albumin be measured?",
-      "options": [
-        "Once a year",
-        "At least twice a year",
-        "every three months",
-        "Monthly"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Albumin excretion in urine is a crucial indicator for monitoring diabetic nephropathy and should be verified at least twice a year as part of the comprehensive strategy for the management and prevention of renal microvascular complications."
-    },
-    {
-      "question": "What medication is considered for patients with CV disease?",
-      "options": [
-        "Sulfonylureas",
+        "NPH insulin",
         "Metformin",
-        "Empagliflozin",
-        "Pioglitazone"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Recent studies have shown that empagliflozin (an SGLT2 inhibitor) and liraglutide (a GLP-1 agonist) significantly reduce cardiovascular events and mortality, which is why they are recommended in diabetic patients who already have cardiovascular disease."
-    },
-    {
-      "question": "What is the mainstay of therapy for type 1 diabetes (T1DM)?",
-      "options": [
-        "GLP-1 agonists",
-        "Basal-bolus insulin",
         "SGLT2 inhibitors",
-        "Diet and exercise"
+        "Sulfonylureas"
       ],
       "correctAnswer": 2,
-      "explanation": "The basal-bolus insulin regimen constitutes the main therapeutic approach for patients with type 1 diabetes mellitus, since their pancreas has ceased insulin production due to autoimmune destruction of beta cells."
+      "explanation": "Metformin is the first-line drug for type 2 diabetes due to its effectiveness, safety and low risk of hypoglycemia, improving insulin sensitivity.",
+      "hashtags": [
+        "endocrinology",
+        "diabetes_mellitus_type_2",
+        "treatment",
+        "metformin",
+        "MEDICAL_TOPIC",
+        ""
+      ]
     },
     {
-      "question": "What class of medications has a low risk of hypoglycemia?",
+      "question": "Which antibody is characteristic of type 1 diabetes mellitus?",
       "options": [
-        "Insulin and sulfonylureas",
-        "Alpha-glucosidase",
-        "Metformin alone",
-        "SGLT2 inhibitors"
+        "Anti-ANA",
+        "Anti-TPO",
+        "Anti-CCP",
+        "Anti-GAD65"
       ],
       "correctAnswer": 4,
-      "explanation": "Preference should be given to therapies that do not induce hypoglycemia, given that this condition leads to increased mortality; for example, SGLT-2 inhibitors, DPP-4 inhibitors and GLP-1 receptor agonists, especially in combination with metformin."
+      "explanation": "Anti-GAD65 antibodies are one of the most common autoimmune markers in type 1 diabetes, directed against the enzyme glutamic acid decarboxylase.",
+      "hashtags": [
+        "endocrinology",
+        "diabetes_mellitus_type_1",
+        "diagnosis",
+        "antibodies",
+        "MEDICAL_TOPIC",
+        ""
+      ]
     },
     {
-      "question": "Besides blood glucose, what do SGLT2 and GLP-1 reduce?",
+      "question": "What is the diagnostic criterion for gestational diabetes with the 75 g oral glucose tolerance test?",
       "options": [
-        "The appetite",
-        "Weight and blood pressure",
-        "total cholesterol",
-        "Heart rate"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Additional advantages of SGLT-2 inhibitors and GLP-1 receptor agonists include a significant reduction in body weight, blood pressure (BP), and albuminuria, which favorably impacts the vascular complications of diabetes."
-    },
-    {
-      "question": "What is the preferred drug for the lipid panel?",
-      "options": [
-        "Ezetimibe",
-        "Metformin",
-        "Statin",
-        "PCSK9 inhibitors"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The drug of choice for the treatment of lipids is a statin, as these drugs have consistently demonstrated their ability to reduce cardiovascular events and related mortality in patients with diabetes."
-    },
-    {
-      "question": "What is a chronic microvascular complication?",
-      "options": [
-        "coronary heart disease",
-        "Peripheral disease",
-        "Ketoacidosis",
-        "Neuropathy"
+        "Blood glucose at 2 hours ≥ 140 mg/dL",
+        "Random blood glucose ≥ 200 mg/dL",
+        "Hemoglobin A1c ≥ 6.5%",
+        "Fasting blood glucose ≥ 92 mg/dL"
       ],
       "correctAnswer": 4,
-      "explanation": "Chronic microvascular complications of uncontrolled diabetes are those that affect small blood vessels and include nephropathy (kidney), retinopathy (eyes), and neuropathy (nerves)."
+      "explanation": "According to the ADA, the diagnosis of gestational diabetes requires at least one high value: fasting blood glucose ≥ 92 mg/dL, at 1 hour ≥ 180 mg/dL or at 2 hours ≥ 153 mg/dL.",
+      "hashtags": [
+        "endocrinology",
+        "gestational_diabetes",
+        "diagnosis",
+        "criteria_ada",
+        "MEDICAL_TOPIC",
+        ""
+      ]
     },
     {
-      "question": "What is a chronic macrovascular complication?",
+      "question": "What is the main mechanism of insulin resistance in obesity?",
       "options": [
-        "Retinopathy",
-        "Nephropathy",
-        "Cerebrovascular disease",
-        "Hypoglycemia"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Chronic macrovascular complications are those that affect large blood vessels and include coronary artery disease (CAD), peripheral artery disease (PAD), and cerebrovascular disease."
-    },
-    {
-      "question": "What is an acute complication of persistent hyperglycemia?",
-      "options": [
-        "diabetic ketoacidosis",
-        "Neuropathy",
-        "Nephropathy",
-        "Retinopathy"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Diabetic ketoacidosis (DKA) is one of the serious acute complications that can arise from uncontrolled hyperglycemia, along with hypoglycemia and hyperglycemic hyperosmolar state, requiring immediate medical intervention."
-    },
-    {
-      "question": "What should a patient with symptoms of hypoglycemia do?",
-      "options": [
-        "Eat 50g of carbohydrates",
-        "Eat 15 to 20g of carbohydrates",
-        "Take an insulin pill",
-        "Exercise immediately"
+        "Excess adiponectin",
+        "Fatty acid lipotoxicity",
+        "Beta cell hyperplasia",
+        "Increased muscle GLUT4"
       ],
       "correctAnswer": 2,
-      "explanation": "Health care professionals should educate patients about the symptoms of hypoglycemia (such as confusion or sweating) and the action required, which is the intake of 15 to 20 grams of carbohydrates to rapidly raise the blood glucose level."
+      "explanation": "Lipotoxicity due to free fatty acids activates inflammatory pathways and alters insulin receptor signaling, being a central mechanism in obesity-induced insulin resistance.",
+      "hashtags": [
+        "endocrinology",
+        "insulin_resistance",
+        "pathophysiology",
+        "lipotoxicity",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
     },
     {
-      "question": "What is the main cause of type 2 diabetes (T2DM)?",
-      "options": [
-        "autoimmune destruction",
-        "Insulin resistance and secretion",
-        "Viral infections",
-        "Vitamin D deficiency"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Type 2 diabetes is characterized by a dual underlying defect that includes insulin resistance in peripheral tissues and dysfunctional or insufficient insulin secretion by pancreatic beta cells to compensate."
-    },
-    {
-      "question": "In step one of the GDM exam, what PG value proceeds to step two?",
-      "options": [
-        "Less than 140~mg/dl",
-        "Greater than or equal to 140~mg/dl",
-        "Greater than or equal to 105~mg/dl",
-        "Less than 180~mg/dl"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The first step of the two-step strategy for gestational diabetes mellitus (GDM) requires proceeding to step two (100 g OGTT) if the 1-hour post-load plasma glucose (PG) is greater than or equal to 140 mg/dl."
-    },
-    {
-      "question": "Which factor is important in reducing the risk of ASCVD?",
-      "options": [
-        "weight gain",
-        "quit exercise",
-        "Statin use",
-        "High LDL levels"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Diabetes is associated with increased risk of atherosclerotic cardiovascular disease (ASCVD), and this risk is reduced by treating blood pressure, statin use, regular exercise, and cessation of smoking."
-    },
-    {
-      "question": "What endocrinopathy is a differential diagnosis?",
-      "options": [
-        "Hepatitis C",
-        "metabolic syndrome",
-        "Cushing's disease",
-        "Cystic fibrosis"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Endocrinopathies such as acromegaly, pheochromocytoma and Cushing's disease are conditions that can present with signs and symptoms similar to diabetes mellitus, so they should be considered in the differential diagnosis of hyperglycemia."
-    },
-    {
-      "question": "What is the common phenotype of Diabetes Mellitus?",
-      "options": [
-        "Acute hypoglycemia",
-        "Chronic hyperlipidemia",
-        "Chronic hyperglycemia",
-        "Respiratory acidosis"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Diabetes Mellitus comprises a group of metabolic disorders whose distinctive and common feature is **chronic hyperglycemia**. This is due to defects in the secretion or action of insulin, or a combination of both, altering the body's ability to regulate blood glucose levels appropriately."
-    },
-    {
-      "question": "What type of cell is destroyed in DM1?",
-      "options": [
-        "alpha cell",
-        "delta cell",
-        "beta cell",
-        "CD4+ T cell"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Type 1 Diabetes Mellitus (DM1) is an autoimmune disorder characterized by the **selective destruction of beta (beta) cells of pancreatic islets**. This destruction is mediated by autoreactive T lymphocytes, leading to an absolute deficiency of the hormone insulin in the body."
-    },
-    {
-      "question": "What hormone is hyperglycemic and catabolic?",
+      "question": "What proinflammatory cytokine is associated with insulin resistance?",
       "options": [
         "Insulin",
         "Adiponectin",
-        "Glucagon",
-        "Amylin"
+        "Tumor necrosis factor alpha",
+        "Interleukin-10"
       ],
       "correctAnswer": 3,
-      "explanation": "Glucose homeostasis is regulated by the interaction of insulin (anabolic and hypoglycemic) and **glucagon**. Glucagon is a **catabolic and hyperglycemic hormone** because it stimulates hepatic glucose production (gluconeogenesis and glycogenolysis) to raise blood sugar levels."
+      "explanation": "Tumor necrosis factor alpha (TNF-α) is a proinflammatory cytokine that inhibits the phosphorylation of the insulin receptor substrate IRS-1, contributing to insulin resistance.",
+      "hashtags": [
+        "endocrinology",
+        "insulin_resistance",
+        "pathophysiology",
+        "proinflammatory_cytokines",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
     },
     {
-      "question": "What is the main risk factor for IR?",
+      "question": "What is the key organ in hepatic insulin resistance?",
       "options": [
-        "viral infection",
-        "Visceral obesity",
-        "Oxidative stress",
-        "Amyloid"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Visceral (or central) obesity is identified as the main risk factor for Insulin Resistance (IR) in DM2. Dysfunctional adipose tissue releases excessive free fatty acids, initiating lipotoxicity and chronic low-grade inflammation, which interfere with insulin signaling."
-    },
-    {
-      "question": "What autoantibody is a marker of DM1?",
-      "options": [
-        "Anti-GAD65",
-        "Anti-IRS-1",
-        "Anti-GLUT4",
-        "Anti-HLA-DR4"
+        "Liver",
+        "adipose tissue",
+        "Pancreas",
+        "Skeletal muscle"
       ],
       "correctAnswer": 1,
-      "explanation": "Autoantibodies are key markers of the autoimmune process of DM1. Anti-glutamic acid decarboxylase antibody (anti-GAD65) is one of the main autoantibodies, along with anti-insulin (IAA) and anti-tyrosine phosphatase (anti-IA2) antibodies, that indicate beta cell destruction."
+      "explanation": "In hepatic insulin resistance, the liver loses the ability to suppress gluconeogenesis, which increases hepatic glucose production and contributes to fasting hyperglycemia.",
+      "hashtags": [
+        "endocrinology",
+        "insulin_resistance",
+        "pathophysiology",
+        "hepatic_gluconeogenesis",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
     },
     {
-      "question": "What metabolic consequence does ketogenesis produce?",
+      "question": "Which glucose transporter is regulated by insulin in muscle?",
       "options": [
-        "Hyperinsulinism",
-        "Lipolysis",
-        "Glucotoxicity",
-        "Glycation"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The absolute insulin deficiency in DM1 leads to a catabolic state, activating **lipolysis** in adipose tissue. This massively releases free fatty acids (FFA) which, when oxidized in the liver (beta-oxidation), produce ketone bodies, which can lead to Diabetic Ketoacidosis (DKA)."
-    },
-    {
-      "question": "What protein inhibits insulin in IR?",
-      "options": [
-        "IRS-1",
-        "Adiponectin",
+        "GLUT1",
+        "GLUT3",
         "GLUT4",
-        "Glucagon"
-      ],
-      "correctAnswer": 1,
-      "explanation": "In insulin resistance (IR), ectopically accumulated lipids activate Protein Kinase C (PKC). This enzyme phosphorylates **Insulin Receptor Substrate (IRS-1)** on serine/threonine residues, which interferes with its normal signaling and inhibits the complete action of insulin in tissues."
-    },
-    {
-      "question": "What is an early defect in DM2?",
-      "options": [
-        "CAD",
-        "First phase loss",
-        "Amyloidosis",
-        "Hyperglucagonemia"
-      ],
-      "correctAnswer": 2,
-      "explanation": "One of the earliest and most crucial defects in beta cell dysfunction in T2DM is the **loss of the first phase of insulin secretion**. It refers to the rapid peak of insulin release that occurs immediately after a meal, essential for controlling hepatic glucose production and postprandial peripheral uptake."
-    },
-    {
-      "question": "What enzyme converts glucose to sorbitol?",
-      "options": [
-        "Aldose reductase",
-        "Hexokinase",
-        "Amylase",
-        "SGLT2"
-      ],
-      "correctAnswer": 1,
-      "explanation": "One of the key metabolic pathways in microvascular damage due to chronic hyperglycemia is the polyol pathway. The enzyme **aldose reductase** converts excess glucose into sorbitol. The accumulation of sorbitol causes osmotic stress and depletes the antioxidant system, damaging tissues such as the lens and nerves."
-    },
-    {
-      "question": "Which pathway damages vessels by non-enzymatic glycation?",
-      "options": [
-        "Polyols",
-        "Hexosamine",
-        "AGEs",
-        "PKC"
+        "GLUT2"
       ],
       "correctAnswer": 3,
-      "explanation": "The formation of Advanced Glycation End Products (AGEs) is an important damage pathway. It occurs when glucose reacts non-enzymatically with proteins and lipids, a process called glycation. The resulting AGEs accumulate, causing vascular stiffness and endothelial damage, which are the basis of chronic complications."
+      "explanation": "GLUT4 is the insulin-sensitive glucose transporter present in skeletal muscle and adipose tissue; Its translocation to the membrane is decreased in insulin resistance.",
+      "hashtags": [
+        "endocrinology",
+        "insulin_resistance",
+        "pathophysiology",
+        "transporter_glut4",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What alteration in adipose tissue contributes to insulin resistance?",
+      "options": [
+        "Adipocyte hypertrophy",
+        "Increased adiponectin",
+        "Decreased leptin",
+        "Increase in GLUT4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adipocyte hypertrophy in obesity generates adipose tissue dysfunction, with the release of free fatty acids and proinflammatory cytokines that promote systemic insulin resistance.",
+      "hashtags": [
+        "endocrinology",
+        "insulin_resistance",
+        "pathophysiology",
+        "adipocyte_hypertrophy",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What intracellular signaling pathway is altered in insulin resistance?",
+      "options": [
+        "Via JAK-STAT",
+        "Via PI3K-Akt",
+        "Via NF-kB",
+        "Via MAPK p38"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The PI3K-Akt pathway is the main insulin signaling pathway for GLUT4 translocation; Its alteration is a key finding in insulin resistance, reducing glucose uptake.",
+      "hashtags": [
+        "endocrinology",
+        "insulin_resistance",
+        "pathophysiology",
+        "via_pi3k_akt",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the most characteristic initial finding of nonproliferative diabetic retinopathy?",
+      "options": [
+        "Retinal microaneurysms",
+        "Retinal detachment",
+        "Vitreous neovascularization",
+        "Severe macular edema"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Retinal microaneurysms are the first visible clinical manifestation in non-proliferative diabetic retinopathy, representing focal capillary dilations.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetic_retinopathy",
+        "clinical_table",
+        "initial_finding",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What pathophysiological factor is fundamental in the development of diabetic retinopathy?",
+      "options": [
+        "Severe mixed dyslipidemia",
+        "Extreme visceral obesity",
+        "Sustained chronic hyperglycemia",
+        "Systemic arterial hypertension"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chronic hyperglycemia is the main triggering factor that activates pathways such as sorbitol and the formation of advanced glycation end products, damaging the retinal microvasculature.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetic_retinopathy",
+        "pathophysiology",
+        "chronic_hyperglycemia",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for proliferative diabetic retinopathy?",
+      "options": [
+        "Laser photocoagulation",
+        "VEGF inhibitors",
+        "Intravitreal corticosteroids",
+        "Pars plana vitrectomy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Panretinal laser photocoagulation is the initial standard treatment for proliferative diabetic retinopathy, reducing neovascularization and the risk of severe visual loss.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetic_retinopathy",
+        "treatment",
+        "laser photocoagulation",
+        "MEDICAL_TOPIC",
+        "ADA Guide 2023"
+      ]
+    },
+    {
+      "question": "What irreversible visual complication can occur in advanced diabetic retinopathy?",
+      "options": [
+        "Acute anterior uveitis",
+        "Incipient nuclear cataract",
+        "Superficial punctate keratitis",
+        "Neovascular glaucoma"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Neovascular glaucoma is a serious complication of proliferative diabetic retinopathy, caused by occlusion of the iridocorneal angle due to neovascularization of the iris.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetic_retinopathy",
+        "complications",
+        "neovascular_glaucoma",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Which finding indicates progression to proliferative diabetic retinopathy?",
+      "options": [
+        "Diffuse macular edema",
+        "Macular hard exudates",
+        "Disc neovascularization",
+        "Flame hemorrhages"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Neovascularization of the optic disc or any other retinal area is the hallmark sign of proliferative diabetic retinopathy, indicating severe ischemia.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetic_retinopathy",
+        "clinical_table",
+        "neovascularization_disc",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the main cause of visual loss in nonproliferative diabetic retinopathy?",
+      "options": [
+        "Massive vitreous hemorrhage",
+        "Tractional detachment",
+        "diabetic macular edema",
+        "retinal vein occlusion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Diabetic macular edema is the most common cause of visual loss in patients with non-proliferative diabetic retinopathy, due to fluid accumulation in the macula.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetic_retinopathy",
+        "clinical_table",
+        "macular_edema",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the main cause of death in patients with type 2 diabetes mellitus?",
+      "options": [
+        "Chronic kidney failure",
+        "coronary heart disease",
+        "Autonomic neuropathy",
+        "Recurrent infections"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Coronary heart disease is the main cause of mortality in type 2 diabetes due to accelerated atherosclerosis that affects the coronary arteries.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "epidemiology",
+        "cause_death",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What pathophysiological mechanism contributes most to coronary heart disease in diabetes?",
+      "options": [
+        "nocturnal hypoglycemia",
+        "Intermittent hyperglycemia",
+        "Recurrent ketosis",
+        "insulin resistance"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Insulin resistance promotes endothelial dysfunction, inflammation and accelerated atherogenesis, being the central mechanism in diabetic coronary heart disease.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "pathophysiology",
+        "insulin_resistance",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the first-line treatment for stable coronary artery disease in diabetics?",
+      "options": [
+        "Acarbose plus dipyridamole",
+        "Insulin plus warfarin",
+        "Sulfonylurea plus clopidogrel",
+        "Metformin plus aspirin"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Metformin plus aspirin constitutes the basis of initial management, since metformin reduces cardiovascular events and aspirin prevents coronary thrombosis.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "treatment",
+        "first_line",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which angiographic finding is most characteristic in coronary arteries of diabetic patients?",
+      "options": [
+        "Single focal stenosis",
+        "Isolated coronary aneurysm",
+        "Mild distal calcification",
+        "Diffuse multivessel disease"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Diffuse multivessel disease is typical in diabetics due to accelerated and generalized atherosclerosis, affecting multiple arteries with long lesions.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "diagnosis",
+        "angiography",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What coronary risk factor is most prevalent in patients with diabetes?",
+      "options": [
+        "Atherogenic dyslipidemia",
+        "Morbid obesity",
+        "Active smoking",
+        "High blood pressure"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Atherogenic dyslipidemia (high triglycerides, low HDL, small dense LDL) is extremely prevalent in diabetes and accelerates coronary atherosclerosis.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "etiology",
+        "dyslipidemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most feared complication of coronary heart disease in diabetics?",
+      "options": [
+        "Constrictive pericarditis",
+        "Chronic stable angina",
+        "Supraventricular arrhythmia",
+        "Acute myocardial infarction"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Acute myocardial infarction is the most serious and frequent complication, often silent in diabetics due to autonomic neuropathy, delaying the diagnosis.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "complications",
+        "silent_heart attack",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the first intervention in diabetic ketoacidosis?",
+      "options": [
+        "Correct serum potassium",
+        "Start rapid insulin",
+        "Fluid replacement",
+        "Administer baking soda"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fluid replacement is the first intervention in diabetic ketoacidosis to restore tissue perfusion and reduce hyperglycemia before initiating insulin.",
+      "hashtags": [
+        "endocrinology",
+        "diabetic_ketoacidosis",
+        "treatment",
+        "volume_reposition",
+        "MEDICAL_TOPIC",
+        "ADA Guide 2024"
+      ]
+    },
+    {
+      "question": "What complication can occur if insulin is started without correcting potassium?",
+      "options": [
+        "Severe hyperkalemia",
+        "Severe hypokalemia",
+        "Dilutional hyponatremia",
+        "Mild hypercalcemia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Insulin displaces potassium into the cell, so starting it without correcting previous hypokalemia can precipitate severe hypokalemia and arrhythmias.",
+      "hashtags": [
+        "endocrinology",
+        "diabetic_ketoacidosis",
+        "treatment",
+        "potassium_safety",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What is the average water deficit in diabetic ketoacidosis?",
+      "options": [
+        "6-9 liters",
+        "10-12 liters",
+        "1-2 liters",
+        "3-5 liters"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The water deficit in diabetic ketoacidosis is usually 6 to 9 liters, due to osmotic diuresis induced by hyperglycemia and electrolyte loss.",
+      "hashtags": [
+        "endocrinology",
+        "diabetic_ketoacidosis",
+        "pathophysiology",
+        "water_deficit",
+        "MEDICAL_TOPIC",
+        "UpToDate 2023"
+      ]
+    },
+    {
+      "question": "What type of insulin is preferred in the acute management of DKA?",
+      "options": [
+        "Insulin glargine",
+        "Regular IV insulin",
+        "Insulin detemir",
+        "NPH insulin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Intravenous regular insulin is preferred in the acute management of diabetic ketoacidosis due to its rapid onset of action and easy titration.",
+      "hashtags": [
+        "endocrinology",
+        "diabetic_ketoacidosis",
+        "treatment",
+        "insulin_iv",
+        "MEDICAL_TOPIC",
+        "ADA Guide 2024"
+      ]
+    },
+    {
+      "question": "When is the use of bicarbonate indicated in DKA?",
+      "options": [
+        "Arterial pH less than 7.0",
+        "Arterial pH greater than 7.4",
+        "Arterial pH greater than 7.2",
+        "Arterial pH less than 7.5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bicarbonate is reserved for cases with arterial pH less than 7.0, since its routine use does not improve outcomes and can cause rebound alkalosis.",
+      "hashtags": [
+        "endocrinology",
+        "diabetic_ketoacidosis",
+        "treatment",
+        "bicarbonate_indication",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "What criterion indicates resolution of diabetic ketoacidosis?",
+      "options": [
+        "Blood glucose < 300 mg/dL",
+        "pH > 7.30 and bicarbonate > 18",
+        "Normal serum potassium",
+        "Negative ketonuria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Resolution of DKA is defined as pH > 7.30 and serum bicarbonate > 18 mEq/L, together with blood glucose < 200 mg/dL and disappearance of ketones.",
+      "hashtags": [
+        "endocrinology",
+        "diabetic_ketoacidosis",
+        "diagnosis",
+        "resolution_criteria",
+        "MEDICAL_TOPIC",
+        "ADA Guide 2024"
+      ]
+    },
+    {
+      "question": "What is the typical serum osmolarity in the hyperglycemic hyperosmolar state?",
+      "options": [
+        "Less than 250 mOsm/L",
+        "Greater than 320 mOsm/L",
+        "Between 250 and 300 mOsm/L",
+        "Between 300 and 310 mOsm/L"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The hyperglycemic hyperosmolar state is characterized by an effective serum osmolarity greater than 320 mOsm/L, due to severe hyperglycemia without significant ketosis.",
+      "hashtags": [
+        "internal_medicine",
+        "hyperosmolar_hyperglycemic_state",
+        "diagnosis",
+        "diagnostic_criteria",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most feared complication of the hyperglycemic hyperosmolar state?",
+      "options": [
+        "Brain edema",
+        "Severe hypoglycemia",
+        "diabetic ketoacidosis",
+        "vascular thrombosis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Vascular thrombosis is the most feared complication in the hyperosmolar hyperglycemic state due to severe dehydration and blood hyperviscosity, which predispose to thrombotic events.",
+      "hashtags": [
+        "internal_medicine",
+        "hyperosmolar_hyperglycemic_state",
+        "complications",
+        "vascular_thrombosis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main pathophysiological mechanism of the hyperglycemic hyperosmolar state?",
+      "options": [
+        "Accelerated hepatic ketogenesis",
+        "Osmotic diuresis with hypovolemia",
+        "Excessive glucagon secretion",
+        "Absolute insulin resistance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The osmotic diuresis induced by severe hyperglycemia causes massive loss of water and electrolytes, leading to hyperosmolar dehydration without significant ketosis.",
+      "hashtags": [
+        "internal_medicine",
+        "hyperosmolar_hyperglycemic_state",
+        "pathophysiology",
+        "osmotic_diuresis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the first-line treatment with fluids in the hyperglycemic hyperosmolar state?",
+      "options": [
+        "5% dextrose in water",
+        "0.9% saline solution",
+        "0.45% saline solution",
+        "Lactated Ringer's"
+      ],
+      "correctAnswer": 2,
+      "explanation": "0.9% saline is the first choice to correct hypovolemia in the hyperglycemic hyperosmolar state, as it safely restores intravascular volume.",
+      "hashtags": [
+        "internal_medicine",
+        "hyperosmolar_hyperglycemic_state",
+        "treatment",
+        "water_reposition",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What clinical finding differentiates the hyperglycemic hyperosmolar state from diabetic ketoacidosis?",
+      "options": [
+        "Absence of ketone bodies",
+        "Altered mental status",
+        "deep dehydration",
+        "Severe hyperglycemia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The absence of ketone bodies in blood or urine is the key finding that distinguishes the hyperglycemic hyperosmolar state from diabetic ketoacidosis, where ketogenesis is prominent.",
+      "hashtags": [
+        "internal_medicine",
+        "hyperosmolar_hyperglycemic_state",
+        "diagnosis",
+        "ketonemia_absent",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the typical blood glucose level in the hyperglycemic hyperosmolar state?",
+      "options": [
+        "300-400 mg/dL",
+        "200-300 mg/dL",
+        "400-500 mg/dL",
+        "Greater than 600 mg/dL"
+      ],
+      "correctAnswer": 4,
+      "explanation": "In the hyperglycemic hyperosmolar state, blood glucose usually exceeds 600 mg/dL, frequently reaching values ​​between 800 and 1000 mg/dL, without significant ketosis.",
+      "hashtags": [
+        "internal_medicine",
+        "hyperosmolar_hyperglycemic_state",
+        "diagnosis",
+        "extreme_glycemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main mechanism of action of metformin?",
+      "options": [
+        "Blocks glucagon receptors",
+        "Increases insulin secretion",
+        "Decreases hepatic gluconeogenesis",
+        "Inhibits alpha-glucosidases"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Metformin acts primarily by decreasing hepatic glucose production by inhibiting gluconeogenesis, thereby reducing fasting hyperglycemia in type 2 diabetes.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "treatment",
+        "action_mechanism",
+        "MEDICAL_TOPIC",
+        "ADA Guide 2023"
+      ]
+    },
+    {
+      "question": "Which gastrointestinal adverse effect is most common with metformin?",
+      "options": [
+        "Diarrhea and nausea",
+        "Acute pancreatitis",
+        "severe constipation",
+        "digestive bleeding"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diarrhea and nausea are the most common gastrointestinal adverse effects of metformin, especially at the beginning of treatment, and are usually transient.",
+      "hashtags": [
+        "pharmacology",
+        "metformin",
+        "adverse_effects",
+        "digestive_intolerance",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most important absolute contraindication of metformin?",
+      "options": [
+        "Uncontrolled high blood pressure",
+        "Chronic kidney disease stage 4",
+        "Mild heart failure",
+        "Morbid obesity"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Stage 4 chronic kidney disease (GFR <30 mL/min) is an absolute contraindication due to the risk of lactic acidosis, since metformin is eliminated through the kidneys.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "contraindications",
+        "kidney_failure",
+        "MEDICAL_TOPIC",
+        "ADA Guide 2023---UpToDate"
+      ]
+    },
+    {
+      "question": "In what type of diabetes is metformin the first-line drug?",
+      "options": [
+        "type 1 diabetes",
+        "Neonatal diabetes",
+        "Gestational diabetes",
+        "type 2 diabetes"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Metformin is the first-line oral drug for type 2 diabetes mellitus, recommended by international guidelines from diagnosis, along with lifestyle changes.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus_type_2",
+        "indications",
+        "first_line",
+        "MEDICAL_TOPIC",
+        "ADA Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the most serious metabolic complication associated with metformin?",
+      "options": [
+        "diabetic ketoacidosis",
+        "Severe hypoglycemia",
+        "Lactic acidosis",
+        "Hyperosmolarity"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lactic acidosis is the most serious although rare complication, favored by renal failure, hypoxia or alcoholism, with high mortality if it is not detected in time.",
+      "hashtags": [
+        "pharmacology",
+        "metformin",
+        "adverse_effects",
+        "lactic_acidosis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What parameter should be monitored before starting metformin?",
+      "options": [
+        "fasting blood glucose",
+        "Glycosylated hemoglobin",
+        "Kidney function with creatinine",
+        "Complete lipid profile"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Before starting metformin, renal function should be evaluated using serum creatinine and glomerular filtration rate, to adjust the dose or avoid its use if there is a contraindication.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "diagnosis",
+        "previous_evaluation",
+        "MEDICAL_TOPIC",
+        "ADA Guide 2023"
+      ]
+    },
+    {
+      "question": "What is the insulin of choice for the initial treatment of type 1 diabetes?",
+      "options": [
+        "NPH insulin",
+        "Insulin detemir",
+        "Insulin glulisine",
+        "Insulin glargine"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Insulin glargine is a long-acting analogue that provides a stable basal profile, being the preferred initial option in type 1 diabetes to cover basal needs, although detemir and NPH are also used.",
+      "hashtags": [
+        "endocrinology",
+        "diabetes_mellitus_type_1",
+        "treatment",
+        "initial_insulintherapy",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What type of insulin is typically given before meals in type 1 diabetes?",
+      "options": [
+        "Insulin aspart",
+        "Insulin detemir",
+        "Insulin glargine",
+        "NPH insulin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Insulin aspart is a rapid-acting analog that is administered just before meals to control the postprandial glycemic spike, unlike basal insulins such as NPH, glargine, or detemir.",
+      "hashtags": [
+        "endocrinology",
+        "diabetes_mellitus_type_1",
+        "treatment",
+        "meal_insulin",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main risk associated with intensive insulin therapy in type 1 diabetes?",
+      "options": [
+        "Severe hypoglycemia",
+        "diabetic ketoacidosis",
+        "Morning hyperglycemia",
+        "insulin resistance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intensive insulin therapy seeks strict glycemic control, but significantly increases the risk of severe hypoglycemia, especially at night or after exercise, being the most feared complication.",
+      "hashtags": [
+        "endocrinology",
+        "diabetes_mellitus_type_1",
+        "adverse_effects",
+        "hypoglycemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What characterizes the dawn phenomenon in type 1 diabetes?",
+      "options": [
+        "Morning hypoglycemia due to prolonged fasting",
+        "Morning hyperglycemia due to growth hormone",
+        "Nocturnal hypoglycemia due to excess insulin",
+        "Nocturnal hyperglycemia due to basal deficit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The dawn phenomenon is morning hyperglycemia caused by the physiological increase in growth hormone and cortisol in the first hours, requiring basal insulin adjustment for management.",
+      "hashtags": [
+        "endocrinology",
+        "diabetes_mellitus_type_1",
+        "pathophysiology",
+        "dawn_phenomenon",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the estimated total daily starting dose of insulin in an adult with type 1 diabetes?",
+      "options": [
+        "0.5 to 1.0 U/kg/day",
+        "0.1 to 0.2 U/kg/day",
+        "1.2 to 2.0 U/kg/day",
+        "0.3 to 0.4 U/kg/day"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The total initial dose of insulin in type 1 diabetes is usually 0.5 to 1.0 U/kg/day, divided into basal and prandial, adjusted according to the patient's glycemia and individual requirements.",
+      "hashtags": [
+        "endocrinology",
+        "diabetes_mellitus_type_1",
+        "posology",
+        "initial_insulin_dose",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What insulin therapy regimen is considered gold standard in type 1 diabetes?",
+      "options": [
+        "NPH insulin twice a day",
+        "Regular insulin before each meal",
+        "Premixed insulin three times a day",
+        "Basal bolus with insulin analogues"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The basal bolus scheme with insulin analogues (long-acting for basal and rapid for meals) is the gold standard, as it better imitates physiological pancreatic secretion and allows greater flexibility.",
+      "hashtags": [
+        "endocrinology",
+        "diabetes_mellitus_type_1",
+        "treatment",
+        "basal_bolus_scheme",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the main objective of perioperative glycemic control in diabetic patients?",
+      "options": [
+        "Reduce the risk of infection",
+        "Maintain strict normoglycemia",
+        "Prevent ketoacidosis",
+        "Avoid severe hypoglycemia"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The main objective is to avoid severe hypoglycemia, since this is associated with greater perioperative morbidity and mortality. Strict normoglycemia increases the risk of hypoglycemia without clear benefit.",
+      "hashtags": [
+        "internal_medicine",
+        "perioperative_glycemic_control",
+        "treatment",
+        "glycemic_goal",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What blood glucose range is recommended to maintain during the intraoperative period in patients with diabetes?",
+      "options": [
+        "140-180 mg/dL",
+        "80-110 mg/dL",
+        "200-250 mg/dL",
+        "Less than 70 mg/dL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The recommended intraoperative blood glucose range is 140-180 mg/dL, balancing the risk of hypoglycemia and the complications of hyperglycemia. Stricter ranges increase the risk of hypoglycemia.",
+      "hashtags": [
+        "internal_medicine",
+        "perioperative_glycemic_control",
+        "treatment",
+        "glycemic_range",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the drug of choice for intravenous glycemic control in the perioperative period?",
+      "options": [
+        "Glibenclamide",
+        "regular insulin",
+        "oral metformin",
+        "Dapagliflozin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Regular intravenous insulin is the drug of choice due to its rapid action and precise titration, allowing adjustments according to blood glucose. Oral hypoglycemic agents are not used intraoperatively.",
+      "hashtags": [
+        "internal_medicine",
+        "perioperative_glycemic_control",
+        "pharmacology",
+        "intravenous_insulin",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What metabolic complication is most feared in the perioperative period of diabetic patients treated with insulin?",
+      "options": [
+        "nocturnal hypoglycemia",
+        "diabetic ketoacidosis",
+        "Hyperglycemic syndrome",
+        "Severe hyperglycemia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nocturnal hypoglycemia is the most feared complication due to its risk of neurological damage and sudden death, especially in patients receiving insulin during perioperative fasting.",
+      "hashtags": [
+        "internal_medicine",
+        "perioperative_glycemic_control",
+        "complications",
+        "nocturnal_hypoglycemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "When should metformin be stopped before scheduled surgery?",
+      "options": [
+        "It is not suspended",
+        "24 hours before",
+        "48 hours before",
+        "12 hours before"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Metformin is discontinued 48 hours before scheduled surgery to prevent lactic acidosis, especially if there is a risk of renal failure or hypoperfusion during the procedure.",
+      "hashtags": [
+        "internal_medicine",
+        "perioperative_glycemic_control",
+        "treatment",
+        "suspension_metformin",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What monitoring is essential during perioperative intravenous insulin infusion?",
+      "options": [
+        "Invasive blood pressure",
+        "Hourly capillary blood glucose",
+        "Continuous electrocardiogram",
+        "Serial arterial blood gases"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hourly capillary blood glucose is essential to adjust insulin infusion and quickly detect hypoglycemia or hyperglycemia. Other monitoring is secondary in this context.",
+      "hashtags": [
+        "internal_medicine",
+        "perioperative_glycemic_control",
+        "treatment",
+        "glycemic_monitoring",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the LDL-c threshold for starting statins in type 2 diabetes mellitus without established cardiovascular disease?",
+      "options": [
+        "LDL-c > 130 mg/dL",
+        "LDL-c > 160 mg/dL",
+        "LDL-c > 100 mg/dL",
+        "LDL-c > 190 mg/dL"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In patients with type 2 diabetes mellitus without established cardiovascular disease, it is recommended to start statins when LDL-c is > 100 mg/dL, according to primary prevention guidelines.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "treatment",
+        "statins_primary_prevention",
+        "MEDICAL_TOPIC",
+        "ACC/AHA Guide 2019"
+      ]
+    },
+    {
+      "question": "What group of patients with diabetes mellitus requires starting a high-intensity statin regardless of baseline LDL-c?",
+      "options": [
+        "Established cardiovascular disease",
+        "Age > 40 years without risk",
+        "HbA1c > 8% without complications",
+        "Isolated microalbuminuria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Patients with diabetes mellitus and established cardiovascular disease (secondary prevention) should receive high-intensity statin regardless of baseline LDL-c level.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "treatment",
+        "statins_secondary_prevention",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2021"
+      ]
+    },
+    {
+      "question": "What is the goal of LDL-c in patients with diabetes mellitus and very high cardiovascular risk?",
+      "options": [
+        "LDL-c < 70 mg/dL",
+        "LDL-c < 130 mg/dL",
+        "LDL-c < 55 mg/dL",
+        "LDL-c < 100 mg/dL"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In patients with diabetes mellitus and very high cardiovascular risk (e.g., established cardiovascular disease or severe organ damage), the LDL-c goal is <55 mg/dL according to current guidelines.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "treatment",
+        "ldl_target_very_high_risk",
+        "MEDICAL_TOPIC",
+        "ESC Guide 2021"
+      ]
+    },
+    {
+      "question": "Which statin is considered high intensity for patients with diabetes mellitus?",
+      "options": [
+        "Rosuvastatin 20 mg",
+        "Simvastatin 20 mg",
+        "Lovastatin 40 mg",
+        "Pravastatin 40 mg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rosuvastatin 20 mg is a high-intensity statin, capable of reducing LDL-c by more than 50%, indicated in patients with diabetes at high cardiovascular risk.",
+      "hashtags": [
+        "pharmacology",
+        "diabetes_mellitus",
+        "action_mechanism",
+        "statins_high_intensity",
+        "PHARMACOLOGY",
+        "ACC/AHA Guide 2019"
+      ]
+    },
+    {
+      "question": "In which patient with type 2 diabetes mellitus is it considered appropriate to start a statin in primary prevention?",
+      "options": [
+        "35-year-old woman without factors",
+        "25-year-old male with HbA1c 6.5%",
+        "50-year-old man with LDL 120 mg/dL",
+        "30-year-old woman with LDL 90 mg/dL"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A 50-year-old man with diabetes and LDL-c 120 mg/dL (> 100 mg/dL) meets the criteria for starting a statin in primary prevention, according to diabetic dyslipidemia management guidelines.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "treatment",
+        "primary_statin_prevention",
+        "MEDICAL_TOPIC",
+        "ADA Guide 2023"
+      ]
+    },
+    {
+      "question": "What evaluation is recommended before starting statins in patients with diabetes mellitus?",
+      "options": [
+        "Complete lipid profile",
+        "Transthoracic echocardiogram",
+        "cardiac stress test",
+        "resting electrocardiogram"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Before starting statins in diabetes mellitus, a complete lipid profile (LDL-c, HDL-c, triglycerides) should be obtained to determine the basal level and the therapeutic objective.",
+      "hashtags": [
+        "internal_medicine",
+        "diabetes_mellitus",
+        "diagnosis",
+        "statin_previous_evaluation",
+        "MEDICAL_TOPIC",
+        "ADA Guide 2023"
+      ]
     }
   ]
 }
