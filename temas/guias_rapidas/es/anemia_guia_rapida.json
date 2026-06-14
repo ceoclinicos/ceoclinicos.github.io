@@ -1,0 +1,77 @@
+{
+  "id": "anemia",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Clasificación por VCM y CHCM",
+      "title": "Clasificación morfológica de anemias",
+      "contentHtml": "<h2>Clasificación por VCM y CHCM</h2><ul><li><b>VCM</b> (volumen corpuscular medio): microcítica (&lt;80 fL), normocítica (80-100 fL), macrocítica (&gt;100 fL).</li><li><b>CHCM</b> (concentración de hemoglobina corpuscular media): hipocrómica (&lt;32 g/dL), normocrómica (32-36 g/dL).</li><li>Combinaciones: microcítica hipocrómica (ferropenia, talasemia, anemia de enfermedad crónica en fases tardías); macrocítica (déficit de B12/folato, alcoholismo, mielodisplasia, hipotiroidismo).</li><li>El <b>RDW</b> (amplitud de distribución eritrocitaria) ayuda: elevado en ferropenia (anisocitosis), normal en talasemia.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Anemia ferropénica: ferritina baja",
+      "title": "Anemia ferropénica: diagnóstico y tratamiento",
+      "contentHtml": "<h2>Anemia ferropénica: ferritina baja</h2><ul><li><b>Ferritina sérica</b> &lt;15 ng/mL confirma depleción de hierro; en inflamación puede estar falsamente normal (usar <b>receptor soluble de transferrina</b> elevado).</li><li>Laboratorio: microcítica hipocrómica, <b>hierro sérico bajo</b>, <b>capacidad total de fijación de hierro (TIBC) alta</b>, <b>saturación de transferrina &lt;16%</b>.</li><li>Causas: pérdida crónica (gastrointestinal, menstrual), mala absorción, dieta.</li><li>Tratamiento: <b>hierro oral (sulfato ferroso 100-200 mg/día de hierro elemental)</b>; respuesta reticulocitaria en 7-10 días, Hb normaliza en 6-8 semanas; continuar 3-6 meses tras normalización para repletar depósitos.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Anemia megaloblástica: déficit B12/folato",
+      "title": "Anemia megaloblástica: déficit de B12 y folato",
+      "contentHtml": "<h2>Anemia megaloblástica: déficit B12/folato</h2><ul><li>Macrocítica (VCM &gt;100 fL), con <b>megaloblastos</b> en médula ósea (asincronía núcleo-citoplasma) y <b>hipersegmentación de neutrófilos</b> (&gt;5 lóbulos).</li><li><b>Déficit de vitamina B12 (cobalamina):</b> causas: anemia perniciosa, gastrectomía, ileítis, veganos estrictos; niveles &lt;200 pg/mL; puede cursar con <b>neuropatía (degeneración combinada subaguda de la médula espinal)</b>.</li><li><b>Déficit de folato:</b> alcoholismo, embarazo, fármacos (metotrexato, trimetoprim); niveles &lt;4 ng/mL; sin neuropatía.</li><li>Tratamiento: B12: <b>ciancobalamina 1000 µg intramuscular/día por 7 días, luego semanal por 4 semanas, luego mensual de por vida</b>; folato: <b>ácido fólico 1-5 mg/día oral</b>.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Anemia de enfermedad crónica: ferritina normal o alta",
+      "title": "Anemia de enfermedad crónica (AEC)",
+      "contentHtml": "<h2>Anemia de enfermedad crónica: ferritina normal o alta</h2><ul><li>Normocítica normocrómica (puede ser microcítica en fases tardías).</li><li>Fisiopatología: <b>hepcidina elevada</b> (por IL-6) que secuestra hierro en macrófagos y reduce absorción intestinal.</li><li>Perfil férrico: <b>ferritina sérica normal o aumentada</b> (&gt;100 ng/mL), <b>hierro sérico bajo</b>, <b>TIBC baja o normal</b>, <b>saturación de transferrina baja</b> (10-20%).</li><li>Diagnóstico diferencial con ferropenia: usar <b>receptor soluble de transferrina</b> (elevado en ferropenia, normal en AEC) o <b>índice receptor soluble de transferrina/log ferritina</b> (&gt;1.5 sugiere ferropenia añadida).</li><li>Tratamiento: tratar enfermedad de base; no responde a hierro.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Talasaemia: VCM muy bajo con Hb normal",
+      "title": "Talasaemia: rasgo talasémico",
+      "contentHtml": "<h2>Talasaemia: VCM muy bajo con Hb normal</h2><ul><li>Heterocigotos (rasgo talasémico): <b>VCM muy bajo</b> (&lt;75 fL) con <b>hemoglobina normal o casi normal</b> (11-14 g/dL) y <b>RDW normal</b> (contrario a ferropenia).</li><li>Electroforesis de hemoglobina: en β-talasemia menor: <b>HbA2 elevada (&gt;3.5%)</b>; en α-talasemia: normal (diagnóstico por genética).</li><li>No tratar con hierro; importante diferenciar de ferropenia para evitar hierro innecesario.</li><li>Fórmula de Mentzer: VCM/recuento eritrocitario (×10⁶/µL); &lt;13 sugiere talasemia, &gt;13 ferropenia.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Anemia hemolítica: LDH y bilirrubina altas",
+      "title": "Anemia hemolítica: datos de hemólisis",
+      "contentHtml": "<h2>Anemia hemolítica: LDH y bilirrubina altas</h2><ul><li>Hemólisis: <b>lactato deshidrogenasa (LDH) elevada</b>, <b>bilirrubina indirecta alta</b>, <b>haptoglobina baja</b> (&lt;25 mg/dL), <b>reticulocitosis</b> (&gt;2% o &gt;100.000/µL).</li><li>Frotis: esquistocitos (hemólisis mecánica), esferocitos (autoinmune), drepanocitos (falciforme), eliptocitos (hereditaria).</li><li>Clasificación: <b>intracorpuscular</b> (defecto de membrana, enzimopatía, hemoglobinopatía) vs. <b>extracorpuscular</b> (autoinmune, mecánica, infecciosa, tóxica).</li><li>Prueba de <b>Coombs directa</b> positiva en hemólisis inmune.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Prueba de Coombs directa en anemia autoinmune",
+      "title": "Anemia hemolítica autoinmune (AHAI)",
+      "contentHtml": "<h2>Prueba de Coombs directa en anemia autoinmune</h2><ul><li><b>Prueba de Coombs directa (test de antiglobulina directa)</b> detecta anticuerpos o complemento unidos a eritrocitos; positiva en <b>anemia hemolítica autoinmune (AHAI)</b>.</li><li>AHAI caliente (más común): IgG + C3d, respuesta a <b>corticoides (prednisona 1-2 mg/kg/día)</b>.</li><li>AHAI fría (enfermedad por aglutininas frías): IgM + C3d, evitar frío, <b>rituximab</b> o ciclofosfamida.</li><li>Falsa negativa: si el recubrimiento es bajo o anticuerpos IgA; usar técnicas más sensibles (gel, ELISA).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Anemia aplásica: pancitopenia y médula hipocelular",
+      "title": "Anemia aplásica",
+      "contentHtml": "<h2>Anemia aplásica: pancitopenia y médula hipocelular</h2><ul><li><b>Pancitopenia</b> (anemia, leucopenia, trombocitopenia) con <b>médula ósea hipocelular</b> (&lt;25% de celularidad normal) y ausencia de infiltración.</li><li>Causas: idiopática (autoimmune), fármacos (cloranfenicol, quimioterapia), virus (hepatitis, parvovirus B19, VIH), radiación.</li><li>Diagnóstico: biopsia de médula ósea (hipocelularidad, sin blastos ni fibrosis).</li><li>Tratamiento: <b>trasplante alogénico de progenitores hematopoyéticos</b> en jóvenes con donante HLA-idéntico; alternativa: <b>inmunosupresión con globulina antitimocito (ATG) + ciclosporina</b>.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Anemia falciforme: drepanocitos en frotis",
+      "title": "Anemia falciforme (drepanocitosis)",
+      "contentHtml": "<h2>Anemia falciforme: drepanocitos en frotis</h2><ul><li>Hemoglobinopatía por mutación en gen de β-globina (Glu6Val): <b>hemoglobina S (HbS)</b>.</li><li>Frotis de sangre periférica: <b>drepanocitos (células falciformes)</b>, dianocitos, cuerpos de Howell-Jolly (por asplenia funcional).</li><li>Electroforesis: HbS &gt;90%, HbF (fetal) variable, HbA2 normal.</li><li>Crisis: dolorosa (vasooclusiva), aplásica (parvovirus B19), secuestro esplénico, hemolítica.</li><li>Tratamiento: <b>hidroxiurea</b> (aumenta HbF, reduce crisis), <b>ácido fólico</b>, transfusiones en crisis severas; <b>vacunas antineumocócica y antimeningocócica</b> por asplenia.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Anemia por deficiencia de G6PD: hemólisis oxidativa",
+      "title": "Déficit de glucosa-6-fosfato deshidrogenasa (G6PD)",
+      "contentHtml": "<h2>Anemia por deficiencia de G6PD: hemólisis oxidativa</h2><ul><li>Déficit enzimático ligado al cromosoma X; más frecuente en varones.</li><li>Desencadenantes: <b>estrés oxidativo</b> (infecciones, fármacos: <b>sulfonamidas, nitrofurantoína, dapsona, primaquina, ácido nalidíxico</b>, habas).</li><li>Hemólisis aguda: anemia, ictericia, hemoglobinuria; frotis: <b>células en picadura (bite cells)</b> y <b>cuerpos de Heinz</b> (hemoglobina desnaturalizada, visibles con tinción especial).</li><li>Diagnóstico: medición de <b>actividad enzimática de G6PD</b> (no hacer durante hemólisis aguda porque los reticulocitos tienen actividad normal; repetir tras 2-3 meses).</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Anemia perniciosa: anticuerpos anti factor intrínseco",
+      "title": "Anemia perniciosa",
+      "contentHtml": "<h2>Anemia perniciosa: anticuerpos anti factor intrínseco</h2><ul><li>Gastritis autoinmune atrófica con déficit de <b>factor intrínseco</b> (producido por células parietales gástricas).</li><li>Anticuerpos: <b>anticuerpos anti factor intrínseco</b> (específicos, 50-70% sensibilidad) y <b>anticuerpos anti células parietales</b> (menos específicos, 90% sensibilidad).</li><li>Laboratorio: macrocitosis, déficit de vitamina B12, <b>gastrina sérica elevada</b> (por aclorhidria).</li><li>Prueba de Schilling (poco usada): diferencia entre déficit de factor intrínseco y mala absorción intestinal.</li><li>Tratamiento: <b>ciancobalamina 1000 µg intramuscular de por vida</b> (dosis de carga y mantenimiento).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Mielodisplasia: sideroblastos en anillo",
+      "title": "Síndrome mielodisplásico (SMD)",
+      "contentHtml": "<h2>Mielodisplasia: sideroblastos en anillo</h2><ul><li>Grupo de trastornos clonales de la médula ósea con <b>displasia</b> en una o más líneas (eritroide, mieloide, megacariocítica) y <b>citopenias periféricas</b>.</li><li><b>Sideroblastos en anillo</b> (eritroblastos con &gt;5 gránulos de hierro que rodean al menos un tercio del núcleo) definen el subtipo <b>SMD con sideroblastos en anillo (SMD-SA)</b>.</li><li>Clasificación OMS: según displasia, blastos (&lt;5% en médula) y citogenética (deleción 5q, monosomía 7).</li><li>Tratamiento: <b>lenalidomida</b> en deleción 5q; <b>agentes hipometilantes (azacitidina, decitabina)</b> en SMD de alto riesgo; trasplante alogénico curativo.</li></ul>"
+    }
+  ]
+}

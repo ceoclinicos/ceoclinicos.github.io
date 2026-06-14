@@ -1,0 +1,77 @@
+{
+  "id": "anemia",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Classificação por VCM e CHCM",
+      "title": "Classificação morfológica das anemias",
+      "contentHtml": "<h2>Classificação por MCV e MCHC</h2><ul><li><b>MCV</b> (volume corpuscular médio): microcítico (&lt;80 fL), normocítico (80-100 fL), macrocítico (&gt;100 fL).</li><li><b>MCC</b> (concentração média de hemoglobina corpuscular): hipocrômico (&lt;32 g/dL), normocrômico (32-36 g/dL).</li><li>Combinações: microcítica hipocrômica (deficiência de ferro, talassemia, anemia de doença crônica em estágios avançados); macrocítica (deficiência de B12/folato, alcoolismo, mielodisplasia, hipotireoidismo).</li><li>O <b>RDW</b> (largura de distribuição de eritrócitos) ajuda: elevado na deficiência de ferro (anisocitose), normal na talassemia.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Anemia por deficiência de ferro: ferritina baixa",
+      "title": "Anemia ferropriva: diagnóstico e tratamento",
+      "contentHtml": "<h2>Anemia por deficiência de ferro: ferritina baixa</h2><ul><li><b>Ferritina sérica</b> &lt;15 ng/mL confirma depleção de ferro; na inflamação, pode ser falsamente normal (use <b>receptor de transferrina solúvel elevado</b>).</li><li>Laboratório: microcítico hipocrômico, <b>ferro sérico baixo</b>, <b>alta capacidade total de ligação de ferro (TIBC)</b>, <b>saturação de transferrina &lt;16%</b>.</li><li>Causas: perda crônica (gastrointestinal, menstrual), má absorção, dieta.</li><li>Tratamento: <b>ferro oral (sulfato ferroso 100-200 mg/dia de ferro elementar)</b>; resposta dos reticulócitos em 7 a 10 dias, a Hb normaliza em 6 a 8 semanas; continue de 3 a 6 meses após a normalização para reabastecer os tanques.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Anemia megaloblástica: deficiência de B12/folato",
+      "title": "Anemia megaloblástica: deficiência de vitamina B12 e folato",
+      "contentHtml": "<h2>Anemia megaloblástica: deficiência de vitamina B12/folato</h2><ul><li>Macrocítica (MCV &gt;100 fL), com <b>megaloblastos</b> na medula óssea (assincronia núcleo-citoplasma) e <b>hiperssegmentação de neutrófilos</b> (&gt;5 lobos).</li><li><b>Deficiência de vitamina B12 (cobalamina):</b> causas: anemia perniciosa, gastrectomia, ileíte, veganos estritos; níveis &lt;200 pg/mL; Pode causar <b>neuropatia (degeneração subaguda combinada da medula espinhal).</li><li><b>Deficiência de folato:</b> alcoolismo, gravidez, medicamentos (metotrexato, trimetoprima); níveis &lt;4 ng/mL; sem neuropatia.</li><li>Tratamento: B12: <b>cianobalamina 1000 µg intramuscular/dia por 7 dias, depois semanalmente por 4 semanas, depois mensalmente por toda a vida</b>; folato: <b>ácido fólico 1-5 mg/dia por via oral</b>.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Anemia de doença crônica: ferritina normal ou alta",
+      "title": "Anemia de doença crônica (AEC)",
+      "contentHtml": "<h2>Anemia de doença crônica: ferritina normal ou alta</h2><ul><li>Normocítica normocrômica (pode ser microcítica nas fases tardias).</li><li>Fisiopatologia: <b>hepcidina elevada</b> (devido à IL-6) que sequestra o ferro nos macrófagos e reduz a absorção intestinal.</li><li>Perfil de ferro: <b>ferritina sérica normal ou aumentada</b> (>100 ng/mL), <b>ferro sérico baixo</b>, <b>TIBC baixo ou normal</b>, <b>baixa saturação de transferrina</b> (10-20%).</li><li>Diagnóstico diferencial com deficiência de ferro: use <b>receptor de transferrina solúvel</b> (elevado na deficiência de ferro, normal na AEC) ou <b>receptor de transferrina solúvel/log ferritina de índice</b> (&gt; 1,5 sugere adição de ferro). deficiência).</li><li>Tratamento: tratar a doença subjacente; não responde ao ferro. </li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Talassemia: VCM muito baixo com Hb normal",
+      "title": "Talassemia: traço talassêmico",
+      "contentHtml": "<h2>Talassemia: VCM muito baixo com Hb normal</h2><ul><li>Heterozigotos (traço talassêmico): <b>VCM muito baixo</b> (&lt;75 fL) com <b>hemoglobina normal ou quase normal</b> (11-14 g/dL) e <b>RDW normal</b> (contrário à deficiência de ferro).</li><li>Eletroforese de hemoglobina: na β-talassemia menor: <b>HbA2 elevada (>3,5%)</b>; na α-talassemia: normal (diagnóstico genético). </li><li>Não tratar com ferro; importante diferenciar da deficiência de ferro para evitar ferro desnecessário.</li><li>Fórmula de Mentzer: MCV/contagem de eritrócitos (×10⁶/µL); &lt;13 sugere talassemia, &gt;13 deficiência de ferro.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Anemia hemolítica: LDH e bilirrubina elevados",
+      "title": "Anemia hemolítica: dados de hemólise",
+      "contentHtml": "<h2>Anemia hemolítica: LDH e bilirrubina elevados</h2><ul><li>Hemólise: <b>lactato desidrogenase (LDH) elevada</b>, <b>bilirrubina indireta alta</b>, <b>haptoglobina baixa</b> (&lt;25 mg/dL), <b>reticulocitose</b> (&gt;2% ou &gt;100.000/µL).</li><li>Esfregaço: esquistócitos (hemólise mecânica), esferócitos (autoimunes), células falciformes (falciformes), eliptócitos (hereditários).</li><li>Classificação: <b>intracorpuscular</b> (defeito de membrana, enzimopatia, hemoglobinopatia) vs. mecânico, infeccioso, tóxico). </li><li>Teste de <b>Coombs</b> direto positivo em hemólise imunológica.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Teste direto de Coombs na anemia autoimune",
+      "title": "Anemia hemolítica autoimune (AIHA)",
+      "contentHtml": "<h2>Teste de Coombs direto na anemia autoimune</h2><ul><li><b>Teste de Coombs direto (teste de antiglobulina direto)</b> detecta anticorpos ou complemento ligado aos eritrócitos; positivo em <b>anemia hemolítica autoimune (AIHA).</li><li>AHA quente (mais comum): IgG + C3d, resposta a <b>corticosteróides (prednisona 1-2 mg/kg/dia).</li><li>AHA frio (doença de aglutinina fria): IgM + C3d, evitar frio, <b>rituximabe</b> ou ciclofosfamida.</li><li>Falso negativo: se o revestimento estiver baixo ou com anticorpos IgA; utilizar técnicas mais sensíveis (gel, ELISA). </li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Anemia aplástica: pancitopenia e medula hipocelular",
+      "title": "anemia aplástica",
+      "contentHtml": "<h2>Anemia aplástica: pancitopenia e medula hipocelular</h2><ul><li><b>Pacitopenia</b> (anemia, leucopenia, trombocitopenia) com <b>medula óssea hipocelular</b> (&lt;25% de celularidade normal) e ausência de infiltração.</li><li>Causas: idiopática (autoimune), medicamentos (cloranfenicol, quimioterapia), vírus (hepatite, parvovírus B19, HIV), radiação. </li><li>Diagnóstico: biópsia de medula óssea (hipocelularidade, sem blastos ou fibrose).</li><li>Tratamento: <b>transplante alogênico de progenitores hematopoiéticos</b> em jovens com doador HLA idêntico; alternativa: <b>imunossupressão com globulina antitimócito (ATG) + ciclosporina</b>. </li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Anemia falciforme: esfregaço falciforme",
+      "title": "Anemia falciforme (doença falciforme)",
+      "contentHtml": "<h2>Anemia falciforme: esfregaço falciforme</h2><ul><li>Hemoglobinopatia devido à mutação no gene da β-globina (Glu6Val): <b>hemoglobina S (HbS)</b>.</li><li>Esfregaço de sangue periférico: <b>células falciformes (células falciformes)</b>, dianócitos, corpos de Howell-Jolly (devido à asplenia funcional).</li><li>Eletroforese: HbS &gt;90%, HbF (fetal) variável, HbA2 normal.</li><li>Crise: dolorosa (vaso-oclusiva), aplástica (parvovírus B19), sequestro esplênico, hemolítica.</li><li>Tratamento: <b>hidroxiureia</b> (aumenta HbF, reduz crise), <b>ácido fólico</b>, transfusões em crises graves; <b>vacinas pneumocócicas e meningocócicas</b> para asplenia.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Anemia por deficiência de G6PD: hemólise oxidativa",
+      "title": "Deficiência de glicose-6-fosfato desidrogenase (G6PD)",
+      "contentHtml": "<h2>Anemia por deficiência de G6PD: hemólise oxidativa</h2><ul><li>Deficiência de enzima ligada ao X; mais comum em homens.</li><li>Desencadeadores: <b>estresse oxidativo</b> (infecções, medicamentos: <b>sulfonamidas, nitrofurantoína, dapsona, primaquina, ácido nalidíxico</b>, feijão).</li><li>Hemólise aguda: anemia, icterícia, hemoglobinúria; esfregaço: <b>células mordidas</b> e <b>corpos de Heinz</b> (hemoglobina desnaturada, visível com coloração especial).</li><li>Diagnóstico: medição da <b>atividade enzimática da G6PD</b> (não fazer durante a hemólise aguda porque os reticulócitos têm atividade normal; repetir após 2-3 meses).</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Anemia perniciosa: anticorpos anti-fator intrínseco",
+      "title": "anemia perniciosa",
+      "contentHtml": "<h2>Anemia perniciosa: anticorpos antifator intrínseco</h2><ul><li>Gastrite autoimune atrófica com deficiência de <b>fator intrínseco</b> (produzido pelas células parietais gástricas).</li><li>Anticorpos: <b>anticorpos antifator intrínseco</b> (específicos, 50-70% de sensibilidade) e <b>anticorpos anticélulas parietais</b> (menos específicos, 90% sensibilidade).</li><li>Laboratório: macrocitose, deficiência de vitamina B12, <b>gastrina sérica elevada</b> (devido à acloridria).</li><li>Teste de Schilling (raramente usado): diferença entre deficiência de fator intrínseco e má absorção intestinal.</li><li>Tratamento: <b>cianobalamina 1000 µg intramuscular por toda a vida</b> (dose de carga e manutenção).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Mielodisplasia: sideroblastos em anel",
+      "title": "Síndrome mielodisplásica (SMD)",
+      "contentHtml": "<h2>Mielodisplasia: sideroblastos em anel</h2><ul><li>Grupo de distúrbios clonais da medula óssea com <b>displasia</b> em uma ou mais linhas (eritróide, mieloide, megacariocítica) e <b>citopenias periféricas</b>.</li><li><b>Sideroblastos em anel</b> (eritroblastos com&gt; 5 grânulos de ferro circundando pelo menos um terço do núcleo) definem o subtipo <b>SMD com sideroblastos em anel (MDS-SA)</b>.</li><li>Classificação da OMS: de acordo com displasia, blastos (&lt;5% na medula) e citogenética (deleção 5q, monossomia 7).</li><li>Tratamento: <b>lenalidomida</b> na deleção 5q; <b>agentes hipometilantes (azacitidina, decitabina)</b> na SMD de alto risco; transplante alogênico curativo. </li></ul>"
+    }
+  ]
+}

@@ -1,266 +1,379 @@
 {
   "questions": [
     {
-      "question": "¿Cuál es el mecanismo más frecuente de lesión del LCA en deportes?",
+      "question": "¿Cuál es el mecanismo más frecuente de lesión del ligamento cruzado anterior?",
       "options": [
-        "Valgo y rotación externa",
-        "Hiperextensión pura",
-        "Flexión y rotación interna",
-        "Impacto directo anterior"
+        "Compresión axial y flexión",
+        "Desaceleración y rotación externa",
+        "Aducción y rotación neutra",
+        "Hiperextensión y rotación interna"
       ],
-      "correctAnswer": 3,
-      "explanation": "La lesión del LCA ocurre típicamente por un mecanismo de desaceleración con flexión de rodilla y rotación interna de la tibia, generando estrés en el ligamento.",
+      "correctAnswer": 2,
+      "explanation": "El mecanismo clásico de lesión del LCA es la desaceleración brusca combinada con rotación externa de la tibia, típico en deportes de cambio de dirección.",
       "hashtags": [
-        "traumatologia",
+        "medicina_del_deporte",
         "lesion_lca",
         "fisiopatologia",
-        "mecanismo_rotacional",
+        "mecanismo_lesional",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Qué estructura se tensa principalmente durante la rotación externa tibial con valgo?",
+      "question": "¿Qué estructura anatómica se lesiona con mayor frecuencia junto al LCA en un mecanismo de rotación?",
       "options": [
-        "Ligamento cruzado anterior",
-        "Ligamento colateral lateral",
         "Ligamento colateral medial",
-        "Ligamento cruzado posterior"
+        "Tendón rotuliano",
+        "Tendón del bíceps femoral",
+        "Ligamento colateral lateral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el mecanismo de rotación y desaceleración, el estrés en valgo suele asociar lesión del ligamento colateral medial junto con la rotura del LCA, formando parte de la tríada de O'Donoghue.",
+      "hashtags": [
+        "medicina_del_deporte",
+        "lesion_lca",
+        "cuadro_clinico",
+        "triada_odonoghue",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué prueba clínica es más específica para evaluar la integridad del LCA?",
+      "options": [
+        "McMurray",
+        "Cajón posterior",
+        "Lachman",
+        "Cajón anterior"
       ],
       "correctAnswer": 3,
-      "explanation": "El valgo forzado con rotación externa de la tibia produce tensión máxima en el ligamento colateral medial, aunque también puede afectar al LCA en mecanismos combinados.",
+      "explanation": "La prueba de Lachman es la más sensible y específica para la rotura del LCA, superando al cajón anterior en agudos, ya que evalúa la traslación tibial anterior con flexión de 20-30°.",
       "hashtags": [
-        "traumatologia",
-        "biomecanica_rodilla",
-        "anatomia_clinica",
-        "ligamento_colateral_medial",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué prueba clínica evalúa específicamente la integridad del LCA?",
-      "options": [
-        "Cajón anterior",
-        "Cajón posterior",
-        "Apley de compresión",
-        "McMurray"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La prueba del cajón anterior con la rodilla a 90° de flexión valora la traslación anterior de la tibia, indicando inestabilidad del LCA cuando es excesiva.",
-      "hashtags": [
-        "traumatologia",
-        "exploracion_rodilla",
-        "diagnostico",
-        "prueba_cajon_anterior",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo en la RM sugiere lesión aguda del LCA?",
-      "options": [
-        "Engrosamiento del menisco",
-        "Signo del doble surco",
-        "Edema en meseta tibial",
-        "Derrame articular moderado"
-      ],
-      "correctAnswer": 2,
-      "explanation": "El signo del doble surco en la vertiente lateral del cóndilo femoral es característico de lesión del LCA, por el impacto óseo durante la rotación forzada.",
-      "hashtags": [
-        "radiologia",
-        "rmn_rodilla",
-        "diagnostico",
-        "signo_doble_surco",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el tratamiento inicial de elección en una lesión aislada del LCA sin bloqueo?",
-      "options": [
-        "Fisioterapia y fortalecimiento",
-        "Reconstrucción quirúrgica inmediata",
-        "Infiltración de corticoides",
-        "Inmovilización rígida prolongada"
-      ],
-      "correctAnswer": 1,
-      "explanation": "En lesiones aisladas del LCA sin inestabilidad funcional severa, el manejo conservador con fisioterapia y fortalecimiento del cuádriceps e isquiotibiales es la primera línea.",
-      "hashtags": [
-        "traumatologia",
-        "manejo_lca",
-        "tratamiento",
-        "fisioterapia_conservadora",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué lesión meniscal se asocia con mayor frecuencia al mecanismo de rotación en LCA?",
-      "options": [
-        "Menisco medial en asa de cubo",
-        "Menisco medial posterior",
-        "Menisco lateral posterior",
-        "Menisco lateral periférico"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La lesión del LCA se asocia frecuentemente a desgarro del menisco medial en asa de cubo, por la traslación anterior tibial y rotación que atrapa el menisco.",
-      "hashtags": [
-        "traumatologia",
-        "lesion_meniscal",
-        "cuadro_clinico",
-        "asa_de_cubo_medial",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué estructura se evalúa principalmente con la prueba de Lachman?",
-      "options": [
-        "Ligamento cruzado posterior",
-        "Ligamento cruzado anterior",
-        "Ligamento colateral lateral",
-        "Ligamento colateral medial"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La prueba de Lachman está diseñada específicamente para evaluar la integridad del ligamento cruzado anterior (LCA), valorando la traslación tibial anterior con la rodilla en 20-30 grados de flexión.",
-      "hashtags": [
-        "traumatologia",
+        "medicina_del_deporte",
         "lesion_lca",
         "diagnostico",
         "prueba_lachman",
         "TEMA_MEDICO",
-        "Rockwood and Green's Fractures 9ed"
+        ""
       ]
     },
     {
-      "question": "¿En qué posición de la rodilla se realiza la prueba de Lachman?",
+      "question": "¿Cuál es el tratamiento quirúrgico de elección en una rotura completa del LCA en un deportista joven?",
       "options": [
-        "Flexión de 20-30 grados",
-        "Flexión de 45 grados",
-        "Flexión de 90 grados",
-        "Extensión completa"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La prueba de Lachman se ejecuta con la rodilla flexionada entre 20 y 30 grados, posición que minimiza la tensión de otras estructuras y permite evaluar mejor la traslación tibial anterior.",
-      "hashtags": [
-        "traumatologia",
-        "lesion_lca",
-        "diagnostico",
-        "posicion_articular",
-        "TEMA_MEDICO",
-        "Insall & Scott Surgery of the Knee 6ed"
-      ]
-    },
-    {
-      "question": "Un aumento de la traslación tibial anterior sin un límite firme en la prueba de Lachman sugiere:",
-      "options": [
-        "Rotura completa del LCA",
-        "Lesión del menisco medial",
-        "Rotura parcial del LCA",
-        "Distensión del ligamento colateral"
-      ],
-      "correctAnswer": 1,
-      "correctExplanation": "Un punto final blando o ausente en la prueba de Lachman indica una rotura completa del LCA, ya que el ligamento ya no puede frenar la traslación tibial anterior.",
-      "explanation": "Un punto final blando o ausente en la prueba de Lachman indica una rotura completa del LCA, ya que el ligamento ya no puede frenar la traslación tibial anterior.",
-      "hashtags": [
-        "traumatologia",
-        "lesion_lca",
-        "diagnostico",
-        "interpretacion_prueba",
-        "TEMA_MEDICO",
-        "DeLee & Drez Orthopaedic Sports Medicine 5ed"
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo clínico se asocia con una prueba de Lachman positiva?",
-      "options": [
-        "Subluxación rotuliana lateral",
-        "Dolor a la palpación de la interlínea",
-        "Traslación tibial anterior excesiva",
-        "Bloqueo articular en flexión"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Una prueba de Lachman positiva se define por una traslación tibial anterior excesiva respecto a la rodilla contralateral, reflejando la insuficiencia del LCA.",
-      "hashtags": [
-        "traumatologia",
-        "lesion_lca",
-        "diagnostico",
-        "traslacion_tibial",
-        "TEMA_MEDICO",
-        "Campbell's Operative Orthopaedics 14ed"
-      ]
-    },
-    {
-      "question": "¿Cuál de los siguientes es un falso positivo en la prueba de Lachman?",
-      "options": [
-        "Rotura del menisco lateral",
-        "Fractura de la meseta tibial",
-        "Lesión del tendón rotuliano",
-        "Laxitud del ligamento colateral"
+        "Reparación primaria del ligamento",
+        "Artroscopia de lavado",
+        "Tenodesis de aumento",
+        "Reconstrucción con autoinjerto"
       ],
       "correctAnswer": 4,
-      "explanation": "La laxitud del ligamento colateral medial puede dar una falsa sensación de traslación tibial anterior, simulando una lesión del LCA en la prueba de Lachman.",
+      "explanation": "La reconstrucción con autoinjerto (tendón rotuliano o isquiotibiales) es el estándar en deportistas jóvenes con rotura completa, ya que la reparación primaria tiene malos resultados a largo plazo.",
       "hashtags": [
-        "traumatologia",
+        "medicina_del_deporte",
         "lesion_lca",
-        "diagnostico",
-        "falsos_positivos",
-        "TEMA_MEDICO",
-        "Rockwood and Green's Fractures 9ed"
-      ]
-    },
-    {
-      "question": "En la evaluación aguda de un esguince de rodilla, la prueba de Lachman tiene mayor sensibilidad que:",
-      "options": [
-        "La prueba del cajón anterior",
-        "La prueba de Apley",
-        "La prueba de McMurray",
-        "La prueba de valgo forzado"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La prueba del cajón anterior, realizada a 90 grados de flexión, es menos sensible en la fase aguda por el espasmo muscular y el dolor, mientras que Lachman es más fiable.",
-      "hashtags": [
-        "traumatologia",
-        "lesion_lca",
-        "diagnostico",
-        "sensibilidad_pruebas",
-        "TEMA_MEDICO",
-        "Insall & Scott Surgery of the Knee 6ed"
-      ]
-    },
-    {
-      "question": "¿Qué estructura anatómica se evalúa principalmente con el signo del cajón anterior?",
-      "options": [
-        "Ligamento cruzado anterior",
-        "Ligamento colateral medial",
-        "Ligamento cruzado posterior",
-        "Ligamento colateral lateral"
-      ],
-      "correctAnswer": 1,
-      "explanation": "El signo del cajón anterior es una maniobra clínica específica para evaluar la integridad del ligamento cruzado anterior (LCA). Un desplazamiento anterior excesivo de la tibia respecto al fémur sugiere una rotura del LCA.",
-      "hashtags": [
-        "traumatologia",
-        "lesion_lca",
-        "diagnostico",
-        "signo_cajon_anterior",
+        "tratamiento",
+        "reconstruccion_quirurgica",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Qué posición de la rodilla es la correcta para realizar el cajón anterior?",
+      "question": "¿Qué tipo de movimiento de la tibia ocurre durante el mecanismo de desaceleración que lesiona el LCA?",
       "options": [
-        "Flexión de rodilla a 120°",
-        "Extensión completa de rodilla",
-        "Flexión de rodilla a 90°",
-        "Flexión de rodilla a 30°"
+        "Traslación anterior excesiva",
+        "Varismo forzado",
+        "Rotación interna forzada",
+        "Traslación posterior excesiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La desaceleración brusca genera una fuerza de traslación anterior de la tibia respecto al fémur, que sobrepasa la resistencia del LCA, especialmente si se combina con rotación externa.",
+      "hashtags": [
+        "medicina_del_deporte",
+        "lesion_lca",
+        "fisiopatologia",
+        "biomecanica_rodilla",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes hallazgos en la resonancia magnética es característico de una rotura aguda del LCA?",
+      "options": [
+        "Derrame articular sin edema",
+        "Señal aumentada en T2 continua",
+        "Engrosamiento del ligamento",
+        "Edema óseo en cóndilo femoral"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En la rotura aguda del LCA, la resonancia magnética muestra edema óseo en el cóndilo femoral externo y la meseta tibial lateral por el impacto durante el mecanismo de rotación y desaceleración.",
+      "hashtags": [
+        "medicina_del_deporte",
+        "lesion_lca",
+        "diagnostico",
+        "resonancia_magnetica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el mecanismo clásico que produce la tríada de O'Donoghue?",
+      "options": [
+        "Golpe directo en rodilla",
+        "Hiperextensión con valgo",
+        "Caída con rodilla en varo",
+        "Rotación externa en flexión"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La tríada de O'Donoghue (LCA, LCI y menisco medial) se produce típicamente por un mecanismo de hiperextensión combinado con valgo y rotación externa de la tibia.",
+      "hashtags": [
+        "medicina_deportiva",
+        "triada_o_donoghue",
+        "fisiopatologia",
+        "mecanismo_lesional",
+        "TEMA_MEDICO",
+        "Campbell 14ed---Insall & Scott 5ed"
+      ]
+    },
+    {
+      "question": "¿Qué estructura se lesiona con mayor frecuencia en la tríada de O'Donoghue?",
+      "options": [
+        "Menisco medial",
+        "Ligamento cruzado posterior",
+        "Ligamento colateral medial",
+        "Ligamento cruzado anterior"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El ligamento cruzado anterior es el más comúnmente afectado en la tríada de O'Donoghue, seguido del ligamento colateral medial y el menisco medial.",
+      "hashtags": [
+        "medicina_deportiva",
+        "triada_o_donoghue",
+        "cuadro_clinico",
+        "frecuencia_lesional",
+        "TEMA_MEDICO",
+        "Campbell 14ed---Insall & Scott 5ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento quirúrgico de elección para la tríada de O'Donoghue?",
+      "options": [
+        "Meniscectomía parcial artroscópica",
+        "Reparación aislada del LCI",
+        "Artroscopia diagnóstica únicamente",
+        "Reconstrucción LCA y sutura meniscal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El manejo quirúrgico estándar incluye reconstrucción del LCA y reparación o sutura del menisco medial, abordando las tres lesiones de la tríada.",
+      "hashtags": [
+        "medicina_deportiva",
+        "triada_o_donoghue",
+        "tratamiento",
+        "reconstruccion_lca",
+        "TEMA_MEDICO",
+        "Campbell 14ed---Insall & Scott 5ed"
+      ]
+    },
+    {
+      "question": "¿Qué prueba clínica es más sensible para detectar la lesión del LCA en la tríada?",
+      "options": [
+        "Prueba de cajón posterior",
+        "Prueba de McMurray",
+        "Prueba de valgo forzado",
+        "Prueba de Lachman"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La prueba de Lachman tiene la mayor sensibilidad para evaluar la integridad del LCA, superando al cajón anterior en la fase aguda de la tríada.",
+      "hashtags": [
+        "medicina_deportiva",
+        "triada_o_donoghue",
+        "diagnostico",
+        "exploracion_fisica",
+        "TEMA_MEDICO",
+        "Campbell 14ed---Insall & Scott 5ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la complicación a largo plazo más temida de la tríada de O'Donoghue no tratada?",
+      "options": [
+        "Rotura del tendón rotuliano",
+        "Inestabilidad rotuliana crónica",
+        "Artrosis femorotibial medial",
+        "Síndrome de fricción iliotibial"
       ],
       "correctAnswer": 3,
-      "explanation": "Para realizar el cajón anterior, la rodilla debe estar flexionada a 90° con el pie apoyado en la camilla. Esta posición relaja los isquiotibiales y permite evaluar adecuadamente el desplazamiento tibial anterior.",
+      "explanation": "La ausencia de tratamiento en la tríada lleva a inestabilidad crónica y degeneración articular, siendo la artrosis del compartimento medial la complicación más frecuente y grave.",
+      "hashtags": [
+        "medicina_deportiva",
+        "triada_o_donoghue",
+        "complicaciones",
+        "artrosis_secundaria",
+        "TEMA_MEDICO",
+        "Campbell 14ed---Insall & Scott 5ed"
+      ]
+    },
+    {
+      "question": "¿Qué estructuras anatómicas se afectan en la tríada de O'Donoghue?",
+      "options": [
+        "LCP, LCL, menisco lateral",
+        "LCA, LCI, menisco medial",
+        "LCA, LCL, menisco medial",
+        "LCP, LCI, menisco lateral"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La tríada clásica incluye el ligamento cruzado anterior (LCA), el ligamento colateral medial (LCI) y el menisco medial, descrita por O'Donoghue en 1950.",
+      "hashtags": [
+        "medicina_deportiva",
+        "triada_o_donoghue",
+        "concepto",
+        "estructuras_comprometidas",
+        "TEMA_MEDICO",
+        "Campbell 14ed---Insall & Scott 5ed"
+      ]
+    },
+    {
+      "question": "¿Qué estructura valora principalmente la prueba de Lachman?",
+      "options": [
+        "Ligamento colateral medial",
+        "Ligamento cruzado posterior",
+        "Ligamento cruzado anterior",
+        "Ligamento colateral lateral"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La prueba de Lachman evalúa la integridad del ligamento cruzado anterior (LCA), siendo más sensible que el cajón anterior para detectar su rotura.",
+      "hashtags": [
+        "ortopedia",
+        "lesion_lca",
+        "diagnostico",
+        "prueba_lachman",
+        "TEMA_MEDICO",
+        "Rockwood and Green 10ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la posición de la rodilla al realizar la prueba de Lachman?",
+      "options": [
+        "Flexión de 20 a 30 grados",
+        "Flexión de 90 grados",
+        "Extensión completa",
+        "Flexión de 45 grados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La prueba de Lachman se realiza con la rodilla en flexión de 20 a 30 grados, lo que relaja el cuádriceps y permite evaluar mejor la traslación tibial anterior.",
+      "hashtags": [
+        "ortopedia",
+        "lesion_lca",
+        "diagnostico",
+        "posicion_rodilla",
+        "TEMA_MEDICO",
+        "Rockwood and Green 10ed"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo sugiere una prueba de Lachman positiva?",
+      "options": [
+        "Traslación tibial anterior excesiva",
+        "Dolor en la interlínea articular",
+        "Bloqueo articular completo",
+        "Inestabilidad rotuliana externa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una prueba de Lachman positiva se caracteriza por una traslación tibial anterior excesiva y falta de punto final firme, indicando rotura del LCA.",
+      "hashtags": [
+        "ortopedia",
+        "lesion_lca",
+        "diagnostico",
+        "hallazgo_positivo",
+        "TEMA_MEDICO",
+        "Rockwood and Green 10ed"
+      ]
+    },
+    {
+      "question": "¿Qué prueba clínica es comparable en objetivo a la de Lachman?",
+      "options": [
+        "Prueba del cajón anterior",
+        "Prueba de Apley",
+        "Prueba de McMurray",
+        "Prueba de compresión rotuliana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La prueba del cajón anterior también evalúa la estabilidad del LCA, pero la de Lachman es más sensible, especialmente en fase aguda.",
+      "hashtags": [
+        "ortopedia",
+        "lesion_lca",
+        "diagnostico",
+        "prueba_comparativa",
+        "TEMA_MEDICO",
+        "Rockwood and Green 10ed"
+      ]
+    },
+    {
+      "question": "¿En qué tipo de lesión la prueba de Lachman es especialmente útil?",
+      "options": [
+        "Lesión meniscal crónica",
+        "Rotura aguda del LCA",
+        "Rotura del tendón rotuliano",
+        "Esguince del LCM grado I"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La prueba de Lachman es especialmente útil en la rotura aguda del LCA, donde su sensibilidad supera a otras maniobras como el cajón anterior.",
+      "hashtags": [
+        "ortopedia",
+        "lesion_lca",
+        "diagnostico",
+        "utilidad_clinica",
+        "TEMA_MEDICO",
+        "Rockwood and Green 10ed"
+      ]
+    },
+    {
+      "question": "¿Qué estructura anatómica limita la traslación tibial anterior evaluada por Lachman?",
+      "options": [
+        "Ligamento cruzado anterior",
+        "Ligamento colateral medial",
+        "Ligamento cruzado posterior",
+        "Tendón del bíceps femoral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ligamento cruzado anterior es el principal estabilizador que limita la traslación tibial anterior; su rotura permite el desplazamiento detectado en Lachman.",
+      "hashtags": [
+        "ortopedia",
+        "lesion_lca",
+        "anatomia_clinica",
+        "funcion_lca",
+        "TEMA_MEDICO",
+        "Rockwood and Green 10ed"
+      ]
+    },
+    {
+      "question": "¿Qué estructura evalúa principalmente la maniobra de cajón anterior en la rodilla?",
+      "options": [
+        "Ligamento cruzado anterior",
+        "Ligamento colateral medial",
+        "Ligamento colateral lateral",
+        "Ligamento cruzado posterior"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La maniobra de cajón anterior se realiza con la rodilla en flexión de 90 grados y valora la integridad del ligamento cruzado anterior (LCA). Un desplazamiento anterior excesivo de la tibia sugiere lesión de esta estructura.",
       "hashtags": [
         "traumatologia",
         "lesion_lca",
+        "diagnostico",
+        "cajon_anterior",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿En qué grado de flexión de rodilla se realiza la prueba de cajón anterior?",
+      "options": [
+        "0 grados (extensión completa)",
+        "30 grados de flexión",
+        "120 grados de flexión",
+        "90 grados de flexión"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La prueba de cajón anterior se efectúa con la rodilla flexionada a 90 grados y el pie estabilizado. Esta posición relaja el LCP y permite evaluar específicamente la traslación anterior de la tibia, indicativa de lesión del LCA.",
+      "hashtags": [
+        "traumatologia",
+        "exploracion_rodilla",
         "diagnostico",
         "posicion_exploracion",
         "TEMA_MEDICO",
@@ -268,56 +381,37 @@
       ]
     },
     {
-      "question": "¿Qué hallazgo en el cajón anterior sugiere una rotura del LCA?",
+      "question": "¿Cuál de los siguientes hallazgos sugiere una lesión aguda del LCA durante el cajón anterior?",
       "options": [
-        "Desplazamiento anterior de la tibia",
+        "Dolor en la interlínea articular",
         "Desplazamiento posterior de la tibia",
-        "Desplazamiento medial de la tibia",
-        "Desplazamiento lateral de la tibia"
+        "Desplazamiento anterior de la tibia",
+        "Aumento de la rotación externa"
       ],
-      "correctAnswer": 1,
-      "explanation": "En una rotura del LCA, el cajón anterior es positivo cuando la tibia se desplaza excesivamente hacia adelante respecto al fémur. Esto indica insuficiencia del LCA como estabilizador primario contra la traslación anterior tibial.",
+      "correctAnswer": 3,
+      "explanation": "En la prueba de cajón anterior, un desplazamiento anterior excesivo de la tibia respecto al fémur indica laxitud del LCA. Los otros hallazgos corresponden a otras lesiones: el desplazamiento posterior sugiere lesión del LCP.",
       "hashtags": [
         "traumatologia",
         "lesion_lca",
-        "diagnostico",
-        "hallazgo_positivo",
+        "cuadro_clinico",
+        "hallazgo_exploratorio",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Cuál es un falso positivo común del cajón anterior en LCA?",
+      "question": "¿Qué prueba complementaria tiene mayor sensibilidad para confirmar una rotura de LCA?",
       "options": [
-        "Rotura del ligamento cruzado posterior",
-        "Rotura del ligamento colateral medial",
-        "Rotura del tendón rotuliano",
-        "Rotura del menisco medial"
+        "Radiografía simple en carga",
+        "Resonancia magnética",
+        "Ecografía dinámica",
+        "Tomografía computarizada"
       ],
-      "correctAnswer": 1,
-      "explanation": "Una rotura del ligamento cruzado posterior (LCP) puede producir un falso positivo en el cajón anterior, ya que la tibia se desplaza posteriormente en reposo, haciendo que el desplazamiento anterior parezca exagerado al partir de una posición anormal.",
+      "correctAnswer": 2,
+      "explanation": "La resonancia magnética (RM) es el estudio de imagen de elección para la evaluación de lesiones ligamentosas de rodilla, con alta sensibilidad y especificidad para la rotura del LCA. Permite visualizar directamente el ligamento y lesiones asociadas.",
       "hashtags": [
         "traumatologia",
-        "lesion_lca",
-        "diagnostico",
-        "falso_positivo",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué prueba complementaria confirma la sospecha de rotura de LCA?",
-      "options": [
-        "Tomografía computarizada de rodilla",
-        "Ecografía de rodilla",
-        "Radiografía simple de rodilla",
-        "Resonancia magnética de rodilla"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La resonancia magnética (RM) es el estándar de oro para diagnosticar la rotura del LCA, ya que permite visualizar directamente la integridad del ligamento y lesiones asociadas como meniscales o condrales.",
-      "hashtags": [
-        "traumatologia",
-        "lesion_lca",
+        "rotura_lca",
         "diagnostico",
         "resonancia_magnetica",
         "TEMA_MEDICO",
@@ -325,15 +419,15 @@
       ]
     },
     {
-      "question": "¿Qué maniobra clínica adicional suele acompañar al cajón anterior para evaluar LCA?",
+      "question": "¿Qué maniobra explora la integridad del LCA con la rodilla en extensión?",
       "options": [
-        "Prueba de cajón posterior",
-        "Prueba de Lachman",
-        "Prueba de McMurray",
-        "Prueba de Apley"
+        "McMurray",
+        "Cajón anterior",
+        "Cajón posterior",
+        "Lachman"
       ],
-      "correctAnswer": 2,
-      "explanation": "La prueba de Lachman es más sensible que el cajón anterior para detectar roturas del LCA, especialmente en fase aguda. Se realiza con la rodilla flexionada a 30° y evalúa el desplazamiento anterior tibial.",
+      "correctAnswer": 4,
+      "explanation": "La maniobra de Lachman se realiza con la rodilla en 20-30 grados de flexión y es más sensible que el cajón anterior para detectar lesiones agudas del LCA. El cajón anterior se efectúa a 90 grados, no en extensión.",
       "hashtags": [
         "traumatologia",
         "lesion_lca",
@@ -344,37 +438,664 @@
       ]
     },
     {
-      "question": "¿Qué estructuras se lesionan típicamente en la tríada terrible de O'Donoghue?",
+      "question": "En un paciente con cajón anterior positivo, ¿cuál es el tratamiento quirúrgico de primera línea en pacientes jóvenes y activos?",
       "options": [
-        "LCP, LCM y menisco lateral",
-        "LCA, LCM y menisco medial",
-        "LCP, LCL y menisco lateral",
-        "LCA, LCL y menisco medial"
+        "Reconstrucción del LCA",
+        "Tenodesis del bíceps femoral",
+        "Reparación primaria del LCA",
+        "Artroscopia diagnóstica sola"
       ],
-      "correctAnswer": 2,
-      "explanation": "La tríada terrible de O'Donoghue clásicamente incluye la ruptura del ligamento cruzado anterior (LCA), del ligamento colateral medial (LCM) y del menisco medial, debido a un mecanismo de valgo y rotación externa.",
+      "correctAnswer": 1,
+      "explanation": "La reconstrucción del LCA (usando autoinjerto de tendón rotuliano o isquiotibiales) es el estándar quirúrgico en pacientes jóvenes y activos con inestabilidad funcional. La reparación primaria tiene malos resultados a largo plazo.",
       "hashtags": [
-        "ortopedia",
-        "triada_odonoghue",
-        "cuadro_clinico",
-        "estructuras_afectadas",
+        "traumatologia",
+        "reconstruccion_lca",
+        "tratamiento",
+        "cirugia_ligamentosa",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Cuál es el mecanismo de lesión más frecuente de la tríada terrible de O'Donoghue?",
+      "question": "¿Qué estructura se evalúa principalmente con la prueba de McMurray?",
       "options": [
-        "Flexión pura con carga axial",
-        "Hiperextensión con rotación",
-        "Valgo forzado con rotación",
-        "Varo forzado con flexión"
+        "Tendón rotuliano",
+        "Ligamento colateral medial",
+        "Meniscos de la rodilla",
+        "Ligamento cruzado anterior"
       ],
       "correctAnswer": 3,
-      "explanation": "El mecanismo típico es un valgo forzado combinado con rotación externa de la tibia, común en accidentes deportivos, que genera la tríada de O'Donoghue al sobrecargar las estructuras mediales y el LCA.",
+      "explanation": "La prueba de McMurray está diseñada para detectar lesiones meniscales, específicamente desgarros del menisco medial o lateral, mediante movimientos de rotación y extensión de la rodilla.",
       "hashtags": [
-        "ortopedia",
-        "triada_odonoghue",
+        "traumatologia",
+        "lesion_meniscal",
+        "diagnostico",
+        "prueba_mcmurray",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "Durante la prueba de McMurray, ¿qué movimiento se realiza para evaluar el menisco medial?",
+      "options": [
+        "Rotación interna y extensión",
+        "Rotación externa y flexión",
+        "Rotación interna y flexión",
+        "Rotación externa y extensión"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Para evaluar el menisco medial, la rodilla se flexiona y se aplica rotación externa de la tibia mientras se extiende la rodilla, lo que atrapa el menisco entre los cóndilos femorales.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "diagnostico",
+        "maniobra_mcmurray",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo durante la prueba de McMurray sugiere una lesión meniscal?",
+      "options": [
+        "Inestabilidad anteroposterior",
+        "Chasquido audible o palpable",
+        "Derrame articular severo",
+        "Dolor a la palpación directa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un chasquido o clic audible o palpable durante la maniobra de McMurray es característico de un desgarro meniscal, especialmente cuando se acompaña de dolor en la línea articular.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "diagnostico",
+        "signo_clinico",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es un falso positivo común de la prueba de McMurray?",
+      "options": [
+        "Lesión del ligamento cruzado",
+        "Tendinitis rotuliana crónica",
+        "Cuerpo libre intraarticular",
+        "Fractura de meseta tibial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Un cuerpo libre intraarticular puede producir un chasquido durante la movilización de la rodilla, simulando una lesión meniscal y generando un falso positivo en la prueba de McMurray.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "diagnostico",
+        "falsos_positivos",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué sensibilidad reporta la prueba de McMurray para lesiones meniscales?",
+      "options": [
+        "Mayor al 90%",
+        "Entre 70% y 80%",
+        "Entre 50% y 60%",
+        "Menor al 30%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La sensibilidad de la prueba de McMurray es moderada, alrededor del 50-60%, lo que significa que un resultado negativo no descarta una lesión meniscal, requiriendo estudios de imagen como resonancia magnética.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "diagnostico",
+        "sensibilidad_prueba",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué maniobra complementaria se usa junto a McMurray para evaluar meniscos?",
+      "options": [
+        "Prueba de Lachman",
+        "Prueba de cajón anterior",
+        "Prueba de varo forzado",
+        "Prueba de Apley"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La prueba de compresión de Apley (grinding test) se utiliza como complemento para evaluar lesiones meniscales, aplicando compresión y rotación sobre la rodilla en decúbito prono.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "diagnostico",
+        "prueba_apley",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la causa más frecuente de bloqueo articular verdadero en la rodilla?",
+      "options": [
+        "Rotura del ligamento colateral medial",
+        "Derrame articular inflamatorio",
+        "Rotura del ligamento cruzado anterior",
+        "Desgarro meniscal en asa de balde"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El bloqueo articular verdadero (imposibilidad de extensión completa) se produce típicamente por un fragmento meniscal desplazado, como el asa de balde, que se interpone entre los cóndilos femorales.",
+      "hashtags": [
+        "traumatologia",
+        "bloqueo_articular",
+        "cuadro_clinico",
+        "asa_de_balde_meniscal",
+        "TEMA_MEDICO",
+        "Campbell 14ed"
+      ]
+    },
+    {
+      "question": "¿Qué maniobra clínica clásicamente reproduce el bloqueo en un asa de balde meniscal?",
+      "options": [
+        "Maniobra de McMurray",
+        "Test del cajón anterior",
+        "Maniobra de Apley",
+        "Maniobra de Lachman"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La maniobra de McMurray, con rotación y flexoextensión de la rodilla, puede provocar un chasquido o bloqueo al atrapar el fragmento meniscal desplazado, típico del asa de balde.",
+      "hashtags": [
+        "traumatologia",
+        "bloqueo_articular",
+        "diagnostico",
+        "maniobra_mcmurray",
+        "TEMA_MEDICO",
+        "Rockwood 8ed"
+      ]
+    },
+    {
+      "question": "¿Qué tipo de desgarro meniscal se asocia más a bloqueo articular mecánico?",
+      "options": [
+        "Desgarro en asa de balde",
+        "Desgarro degenerativo",
+        "Desgarro horizontal",
+        "Desgarro radial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El desgarro en asa de balde es un desgarro longitudinal completo que puede desplazarse hacia la escotadura intercondílea, causando bloqueo verdadero al impedir la extensión completa de la rodilla.",
+      "hashtags": [
+        "traumatologia",
+        "bloqueo_articular",
+        "fisiopatologia",
+        "desgarro_asa_balde",
+        "TEMA_MEDICO",
+        "Insall 5ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento de elección para un bloqueo articular por asa de balde meniscal agudo?",
+      "options": [
+        "Artroscopia con reducción y sutura",
+        "Inmovilización con yeso por 6 semanas",
+        "Movilización pasiva forzada",
+        "Reposo y antiinflamatorios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tratamiento definitivo del asa de balde desplazada que causa bloqueo es artroscópico: reducir el fragmento y realizar meniscectomía parcial o sutura según la zona y calidad del tejido.",
+      "hashtags": [
+        "traumatologia",
+        "bloqueo_articular",
+        "tratamiento",
+        "artroscopia",
+        "TEMA_MEDICO",
+        "AAOS 2023"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo radiológico simple puede sugerir un asa de balde meniscal?",
+      "options": [
+        "Signo de la laguna",
+        "Signo del surco profundo",
+        "Signo de la espícula",
+        "Signo del segmento ausente"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En radiografías simples, el signo del segmento ausente (falta de visualización del menisco en su posición habitual) puede indicar un asa de balde desplazado hacia la escotadura intercondílea.",
+      "hashtags": [
+        "traumatologia",
+        "bloqueo_articular",
+        "diagnostico",
+        "signo_radiologico",
+        "TEMA_MEDICO",
+        "Radiología Musculoesquelética 3ed"
+      ]
+    },
+    {
+      "question": "¿Qué estructura anatómica atrapa el fragmento meniscal en el bloqueo por asa de balde?",
+      "options": [
+        "Ligamento cruzado anterior",
+        "Ligamento cruzado posterior",
+        "Escotadura intercondílea",
+        "Tendón rotuliano"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El fragmento meniscal desplazado se interpone en la escotadura intercondílea, impidiendo el contacto normal entre cóndilos femorales y platillos tibiales, lo que genera el bloqueo articular.",
+      "hashtags": [
+        "traumatologia",
+        "bloqueo_articular",
+        "anatomia_clinica",
+        "escotadura_intercondilea",
+        "TEMA_MEDICO",
+        "Netter 7ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la lesión meniscal más frecuente en la rodilla?",
+      "options": [
+        "Ligamento cruzado posterior",
+        "Meniscal lateral",
+        "Meniscal medial",
+        "Ligamento colateral lateral"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El menisco medial es más susceptible a lesiones debido a su fijación más rígida a la cápsula articular y al ligamento colateral medial, lo que limita su movilidad durante movimientos de rotación.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "cuadro_clinico",
+        "menisco_medial",
+        "TEMA_MEDICO",
+        "Campbell 14ed---Rockwood 6ed"
+      ]
+    },
+    {
+      "question": "¿Qué mecanismo típico produce una lesión del menisco medial?",
+      "options": [
+        "Golpe directo en la rótula",
+        "Hiperextensión pura de rodilla",
+        "Flexión con rotación interna",
+        "Rotación externa con carga axial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La lesión del menisco medial ocurre con frecuencia durante la flexión de rodilla combinada con rotación interna del fémur sobre la tibia, atrapando el menisco entre los cóndilos femorales.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "fisiopatologia",
+        "mecanismo_lesional",
+        "TEMA_MEDICO",
+        "Insall 5ed"
+      ]
+    },
+    {
+      "question": "¿Qué prueba semiológica es más sensible para el menisco medial?",
+      "options": [
+        "Prueba de McMurray",
+        "Prueba de Lachman",
+        "Prueba de aprehensión",
+        "Prueba de cajón anterior"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La prueba de McMurray, con rotación externa de la pierna y extensión de rodilla, genera un chasquido doloroso característico en lesiones del menisco medial, siendo la maniobra más empleada.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "diagnostico",
+        "exploracion_fisica",
+        "TEMA_MEDICO",
+        "Hoppenfeld 3ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la causa anatómica de la mayor frecuencia de lesiones del menisco medial?",
+      "options": [
+        "Menisco lateral más grande",
+        "Menisco medial más móvil",
+        "Ausencia de irrigación sanguínea",
+        "Fijación firme a la cápsula"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El menisco medial está firmemente adherido a la cápsula articular y al ligamento colateral medial, lo que limita su desplazamiento durante movimientos rotacionales y lo predispone a desgarros.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "concepto",
+        "anatomia_funcional",
+        "TEMA_MEDICO",
+        "Netter 7ed"
+      ]
+    },
+    {
+      "question": "¿Qué tipo de desgarro meniscal medial es más común en adultos jóvenes?",
+      "options": [
+        "Desgarro horizontal",
+        "Desgarro en asa de cubo",
+        "Desgarro radial",
+        "Desgarro degenerativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El desgarro en asa de cubo, longitudinal y vertical, es el más frecuente en adultos jóvenes tras un traumatismo deportivo, pudiendo causar bloqueo articular si el fragmento se desplaza.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "cuadro_clinico",
+        "tipos_desgarro",
+        "TEMA_MEDICO",
+        "AAOS 2022"
+      ]
+    },
+    {
+      "question": "¿Cuál es la primera línea de tratamiento para un desgarro meniscal medial estable?",
+      "options": [
+        "Meniscectomía parcial artroscópica",
+        "Manejo conservador con fisioterapia",
+        "Reparación artroscópica inmediata",
+        "Inmovilización rígida por seis semanas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los desgarros meniscales estables y no obstructivos suelen manejarse inicialmente con fisioterapia y fortalecimiento muscular, reservando la cirugía para casos con bloqueo o inestabilidad persistente.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "tratamiento",
+        "manejo_conservador",
+        "TEMA_MEDICO",
+        "Guía AAOS 2021"
+      ]
+    },
+    {
+      "question": "¿Qué estructura se explora con el signo de Steinmann I en la rodilla?",
+      "options": [
+        "Menisco medial",
+        "Menisco lateral",
+        "Ligamento cruzado anterior",
+        "Ligamento colateral medial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El signo de Steinmann I es una maniobra semiológica que provoca dolor en la interlínea medial al rotar la tibia, indicando lesión del menisco medial.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "cuadro_clinico",
+        "signo_steinmann_i",
+        "TEMA_MEDICO",
+        "Exploración física en ortopedia"
+      ]
+    },
+    {
+      "question": "¿Cuál es el mecanismo típico que causa la lesión del menisco medial?",
+      "options": [
+        "Impacto directo sobre la rótula",
+        "Flexión mantenida sin apoyo",
+        "Hiperextensión brusca de rodilla",
+        "Rotación externa forzada con carga"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La lesión del menisco medial suele ocurrir por un mecanismo de rotación externa forzada de la tibia con el pie fijo y la rodilla en flexión, comprimiendo el menisco.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "etiologia",
+        "mecanismo_lesional",
+        "TEMA_MEDICO",
+        "Rockwood and Green's Fractures"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo clínico se asocia directamente al signo de Steinmann I?",
+      "options": [
+        "Dolor en interlínea medial al rotar",
+        "Inestabilidad anteroposterior",
+        "Derrame articular masivo",
+        "Bloqueo articular en extensión"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El signo de Steinmann I se caracteriza por dolor localizado en la interlínea articular medial cuando se aplica rotación pasiva a la tibia, sugiriendo lesión meniscal medial.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "cuadro_clinico",
+        "signo_steinmann_i",
+        "TEMA_MEDICO",
+        "Exploración física en ortopedia"
+      ]
+    },
+    {
+      "question": "¿Qué prueba complementaria confirma con mayor precisión una lesión meniscal?",
+      "options": [
+        "Radiografía simple",
+        "Ecografía dinámica",
+        "Resonancia magnética",
+        "Tomografía computarizada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La resonancia magnética es el gold standard para el diagnóstico de lesiones meniscales, con alta sensibilidad y especificidad para evaluar la morfología y localización del desgarro.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "diagnostico",
+        "resonancia_magnetica",
+        "TEMA_MEDICO",
+        "Guía clínica de rodilla 2022"
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento conservador inicial para una lesión meniscal estable?",
+      "options": [
+        "Artroscopia diagnóstica",
+        "Infiltración de corticoides",
+        "Reposo y fisioterapia",
+        "Inmovilización con yeso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En lesiones meniscales estables sin bloqueo articular, el manejo inicial incluye reposo, hielo, compresión, elevación y fisioterapia para recuperar movilidad y fuerza.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "tratamiento",
+        "manejo_conservador",
+        "TEMA_MEDICO",
+        "AAOS Clinical Practice Guideline"
+      ]
+    },
+    {
+      "question": "¿Qué maniobra explora específicamente el cuerno posterior del menisco medial?",
+      "options": [
+        "Apley con compresión axial",
+        "McMurray con rotación externa",
+        "Steinmann I con rotación externa",
+        "Lachman con flexión a 30°"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La maniobra de Steinmann I, al rotar externamente la tibia, tensa el cuerno posterior del menisco medial, reproduciendo dolor en la interlínea medial si está lesionado.",
+      "hashtags": [
+        "traumatologia",
+        "lesion_meniscal",
+        "cuadro_clinico",
+        "maniobra_steinmann_i",
+        "TEMA_MEDICO",
+        "Exploración física en ortopedia"
+      ]
+    },
+    {
+      "question": "¿Cuál es el mecanismo más frecuente de lesión meniscal aislada?",
+      "options": [
+        "Rotación en carga",
+        "Golpe directo anterior",
+        "Hiperextensión brusca",
+        "Caída sobre rodilla"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La rotación en carga, típicamente en deportes con giros sobre pierna fija, produce cizallamiento meniscal, mecanismo clásico de lesión aislada del menisco.",
+      "hashtags": [
+        "medicina_deporte",
+        "lesion_meniscal",
+        "cuadro_clinico",
+        "mecanismo_lesional",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo clínico es característico de una lesión meniscal crónica?",
+      "options": [
+        "Chasquido rotuliano",
+        "Inestabilidad anteroposterior",
+        "Bloqueo articular intermitente",
+        "Dolor en cara anterior"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El bloqueo articular intermitente (pseudo-bloqueo por fragmento meniscal desplazado) es típico de lesiones meniscales crónicas, diferenciándose de la inestabilidad ligamentosa.",
+      "hashtags": [
+        "medicina_deporte",
+        "lesion_meniscal",
+        "cuadro_clinico",
+        "bloqueo_articular",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la prueba de exploración física más específica para lesión de menisco medial?",
+      "options": [
+        "McMurray rotación externa",
+        "Cajón anterior",
+        "Apley compresión",
+        "Lachman"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La maniobra de McMurray con rotación externa y extensión provoca dolor o chasquido en el compartimento medial, siendo la prueba más específica para lesión del menisco medial.",
+      "hashtags": [
+        "medicina_deporte",
+        "lesion_meniscal",
+        "diagnostico",
+        "maniobra_mcmurray",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué tipo de derrame articular sugiere fuertemente lesión meniscal?",
+      "options": [
+        "Edema periarticular",
+        "Derrame purulento",
+        "Derrame seroso tardío",
+        "Hemartrosis inmediata"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El derrame articular tardío aparece horas después de la lesión, típico de daño meniscal por sinovitis reactiva, a diferencia del hemartrosis inmediato de roturas ligamentosas.",
+      "hashtags": [
+        "medicina_deporte",
+        "lesion_meniscal",
+        "cuadro_clinico",
+        "derrame_tardio",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento de elección en una rotura meniscal en asa de cubo con bloqueo articular agudo?",
+      "options": [
+        "Fisioterapia durante 6 semanas",
+        "Infiltración con corticoides",
+        "Artroscopia con sutura meniscal",
+        "Reposo y antiinflamatorios"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El bloqueo articular por asa de cubo requiere artroscopia urgente para reducir el fragmento desplazado y realizar sutura meniscal si es viable, evitando daño articular progresivo.",
+      "hashtags": [
+        "medicina_deporte",
+        "lesion_meniscal",
+        "tratamiento",
+        "artroscopia_meniscal",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué prueba de imagen es el estándar diagnóstico para lesiones meniscales?",
+      "options": [
+        "Tomografía computarizada",
+        "Radiografía simple en carga",
+        "Ecografía dinámica",
+        "Resonancia magnética articular"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La resonancia magnética articular ofrece alta sensibilidad y especificidad para detectar roturas meniscales, su localización y extensión, siendo el gold standard no invasivo.",
+      "hashtags": [
+        "medicina_deporte",
+        "lesion_meniscal",
+        "diagnostico",
+        "resonancia_magnetica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal estabilizador estático de la esquina posterolateral de la rodilla?",
+      "options": [
+        "Ligamento poplíteo arqueado",
+        "Ligamento colateral lateral",
+        "Ligamento cruzado anterior",
+        "Ligamento colateral medial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ligamento poplíteo arqueado es el principal estabilizador estático de la esquina posterolateral, actuando junto con el tendón poplíteo y el ligamento colateral lateral para controlar la rotación externa y el varo.",
+      "hashtags": [
+        "traumatologia",
+        "esquina_posterolateral",
+        "concepto",
+        "estabilizador_estatico",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué maniobra clínica es específica para evaluar inestabilidad rotacional posterolateral?",
+      "options": [
+        "Prueba de dial en rotación externa",
+        "Prueba de Lachman",
+        "Prueba de cajón anterior",
+        "Prueba de varo a 30 grados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La prueba de dial (o dial test) evalúa el aumento de la rotación externa en la esquina posterolateral comparando ambas rodillas; un incremento mayor a 10 grados sugiere lesión de esta estructura.",
+      "hashtags": [
+        "traumatologia",
+        "esquina_posterolateral",
+        "diagnostico",
+        "prueba_dial",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes estructuras forma parte del complejo de la esquina posterolateral?",
+      "options": [
+        "Ligamento transverso",
+        "Ligamento cruzado posterior",
+        "Ligamento patelar",
+        "Tendón poplíteo"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El tendón poplíteo es un componente esencial de la esquina posterolateral, junto con el ligamento colateral lateral, el ligamento poplíteo arqueado y el ligamento popliteofibular.",
+      "hashtags": [
+        "traumatologia",
+        "esquina_posterolateral",
+        "anatomia_clinica",
+        "tendon_popliteo",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué mecanismo de lesión típicamente produce daño aislado de la esquina posterolateral?",
+      "options": [
+        "Hiperextensión con rotación externa",
+        "Flexión con rotación interna",
+        "Abducción con flexión",
+        "Compresión axial pura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hiperextensión combinada con rotación externa de la tibia es el mecanismo clásico para lesión de la esquina posterolateral, ya que tensa las estructuras posterolaterales.",
+      "hashtags": [
+        "traumatologia",
+        "esquina_posterolateral",
         "fisiopatologia",
         "mecanismo_lesion",
         "TEMA_MEDICO",
@@ -382,816 +1103,18 @@
       ]
     },
     {
-      "question": "¿Qué prueba clínica es más específica para evaluar el componente meniscal en la tríada de O'Donoghue?",
+      "question": "¿Qué hallazgo en resonancia magnética sugiere lesión de la esquina posterolateral?",
       "options": [
-        "Prueba de cajón anterior",
-        "Prueba de McMurray",
-        "Prueba de Lachman",
-        "Prueba de estrés en valgo"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La prueba de McMurray es la maniobra clásica para explorar lesiones meniscales, reproduciendo dolor o clic al rotar y extender la rodilla. Las otras pruebas evalúan ligamentos cruzados o colaterales.",
-      "hashtags": [
-        "ortopedia",
-        "triada_odonoghue",
-        "diagnostico",
-        "exploracion_fisica",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el tratamiento quirúrgico de elección para la tríada terrible de O'Donoghue?",
-      "options": [
-        "Inmovilización con yeso por 12 semanas",
-        "Reconstrucción aislada del LCA",
-        "Artroplastia total de rodilla",
-        "Reparación meniscal y ligamentaria"
-      ],
-      "correctAnswer": 4,
-      "explanation": "El manejo quirúrgico óptimo implica la reparación o sutura del menisco medial y la reconstrucción simultánea del LCA y LCM, restaurando la estabilidad y función de la rodilla.",
-      "hashtags": [
-        "ortopedia",
-        "triada_odonoghue",
-        "tratamiento",
-        "reparacion_quirurgica",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué complicación a largo plazo es más temida en la tríada de O'Donoghue no tratada?",
-      "options": [
-        "Síndrome compartimental",
-        "Inestabilidad rotuliana",
-        "Artrosis postraumática",
-        "Trombosis venosa profunda"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La lesión combinada de menisco y ligamentos genera una alteración biomecánica severa que conduce a desgaste articular precoz, siendo la artrosis postraumática la complicación degenerativa más frecuente y grave.",
-      "hashtags": [
-        "ortopedia",
-        "triada_odonoghue",
-        "complicaciones",
-        "artrosis",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál de los siguientes hallazgos en RM es característico de la tríada de O'Donoghue?",
-      "options": [
-        "Quiste de Baker y tendinosis",
-        "Fractura de la meseta tibial",
-        "Derrame articular y edema óseo",
-        "Rotura del LCA y del menisco medial"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La RM muestra típicamente rotura del LCA y del menisco medial, junto con lesión del LCM. Los otros hallazgos no representan la combinación específica de la tríada.",
-      "hashtags": [
-        "ortopedia",
-        "triada_odonoghue",
-        "diagnostico",
-        "resonancia_magnetica",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué estructura meniscal se evalúa principalmente con la prueba de McMurray?",
-      "options": [
-        "Ligamento cruzado",
-        "Ambos meniscos",
-        "Menisco interno",
-        "Menisco externo"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La prueba de McMurray está diseñada específicamente para evaluar el menisco interno, provocando un chasquido doloroso al rotar la tibia sobre el fémur con la rodilla flexionada.",
-      "hashtags": [
-        "medicina_deportiva",
-        "prueba_de_mcmurray",
-        "diagnostico",
-        "menisco_interno",
-        "TEMA_MEDICO",
-        "Exploración física en ortopedia"
-      ]
-    },
-    {
-      "question": "¿Cuál es el movimiento principal que reproduce la prueba de McMurray?",
-      "options": [
-        "Flexión y rotación externa",
-        "Extensión y rotación interna",
-        "Flexión y rotación interna",
-        "Extensión y rotación externa"
-      ],
-      "correctAnswer": 1,
-      "explanation": "En la prueba de McMurray, la rodilla se flexiona y luego se extiende mientras se aplica rotación externa de la tibia para evaluar el menisco interno; el chasquido indica lesión.",
-      "hashtags": [
-        "medicina_deportiva",
-        "prueba_de_mcmurray",
-        "exploracion",
-        "rotacion_externa",
-        "TEMA_MEDICO",
-        "Manual de exploración física"
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo clínico se considera positivo en la prueba de McMurray?",
-      "options": [
-        "Inestabilidad anteroposterior",
-        "Derrame articular severo",
-        "Dolor en la interlínea articular",
-        "Bloqueo articular completo"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Un chasquido o dolor reproducible en la interlínea articular durante la maniobra indica una lesión meniscal, específicamente del menisco interno, que es el hallazgo positivo.",
-      "hashtags": [
-        "medicina_deportiva",
-        "prueba_de_mcmurray",
-        "semiologia",
-        "interlinea_articular",
-        "TEMA_MEDICO",
-        "Exploración física en ortopedia"
-      ]
-    },
-    {
-      "question": "¿Qué tipo de lesión meniscal puede dar un falso negativo en la prueba de McMurray?",
-      "options": [
-        "Desgarro longitudinal pequeño",
-        "Rotura en asa de cubo",
-        "Lesión del cuerno anterior",
-        "Lesión del cuerno posterior"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La prueba de McMurray es menos sensible para lesiones del cuerno anterior del menisco, ya que la maniobra no tensiona adecuadamente esa región, pudiendo dar falsos negativos.",
-      "hashtags": [
-        "medicina_deportiva",
-        "prueba_de_mcmurray",
-        "diagnostico",
-        "cuerno_anterior",
-        "TEMA_MEDICO",
-        "Ortopedia y traumatología"
-      ]
-    },
-    {
-      "question": "¿En qué posición se coloca la rodilla al iniciar la prueba de McMurray?",
-      "options": [
-        "Hiperextensión",
-        "Flexión de 30 grados",
-        "Flexión de 90 grados",
-        "Extensión completa"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La prueba de McMurray se inicia con la rodilla en flexión de 90 grados para permitir la rotación y extensión controlada, maximizando la tensión sobre el menisco.",
-      "hashtags": [
-        "medicina_deportiva",
-        "prueba_de_mcmurray",
-        "exploracion",
-        "flexion_90_grados",
-        "TEMA_MEDICO",
-        "Manual de exploración física"
-      ]
-    },
-    {
-      "question": "¿Cuál es una limitación importante de la prueba de McMurray?",
-      "options": [
-        "Baja sensibilidad en lesiones crónicas",
-        "Alta especificidad para roturas",
-        "Requiere anestesia general",
-        "No evalúa el menisco externo"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La prueba de McMurray tiene baja sensibilidad en lesiones crónicas o pequeñas, por lo que un resultado negativo no descarta una lesión meniscal, especialmente en casos de larga evolución.",
-      "hashtags": [
-        "medicina_deportiva",
-        "prueba_de_mcmurray",
-        "diagnostico",
-        "sensibilidad_limitada",
-        "TEMA_MEDICO",
-        "Ortopedia y traumatología"
-      ]
-    },
-    {
-      "question": "¿Cuál es la causa más frecuente de bloqueo articular en la rodilla?",
-      "options": [
-        "Rotura del LCP",
-        "Rotura del LCA",
-        "Lesión del LCM",
-        "Rotura meniscal"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La rotura meniscal, especialmente en asa de cubo, produce fragmentos que se interponen entre los cóndilos femorales y la meseta tibial, impidiendo la extensión completa de la rodilla y generando bloqueo articular.",
-      "hashtags": [
-        "traumatologia",
-        "bloqueo_articular_por_menisco",
-        "cuadro_clinico",
-        "causa_mecanica",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué maniobra explora específicamente el bloqueo por menisco?",
-      "options": [
-        "Lachman",
-        "McMurray",
-        "Cajón anterior",
-        "Apley grinding"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La maniobra de McMurray reproduce el chasquido o dolor al movilizar la rodilla en flexión y rotación, y suele asociarse a la presencia de un fragmento meniscal desplazado que causa bloqueo.",
-      "hashtags": [
-        "traumatologia",
-        "bloqueo_articular_por_menisco",
-        "diagnostico",
-        "maniobra_exploratoria",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el tratamiento quirúrgico de elección para un bloqueo meniscal agudo?",
-      "options": [
-        "Reemplazo total de rodilla",
-        "Reconstrucción del LCA",
-        "Reparación meniscal",
-        "Meniscectomía total"
-      ],
-      "correctAnswer": 3,
-      "explanation": "En pacientes jóvenes con rotura meniscal traumática y bloqueo, la reparación meniscal es preferida para preservar la función y prevenir artrosis, siempre que la zona sea vascularizada.",
-      "hashtags": [
-        "traumatologia",
-        "bloqueo_articular_por_menisco",
-        "tratamiento",
-        "reparacion_meniscal",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué tipo de rotura meniscal se asocia típicamente a bloqueo articular?",
-      "options": [
-        "Rotura radial",
-        "Rotura horizontal",
-        "Rotura degenerativa",
-        "Rotura en asa de cubo"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La rotura en asa de cubo del menisco medial genera un fragmento móvil que se desplaza hacia la escotadura intercondílea, bloqueando mecánicamente la extensión de la rodilla.",
-      "hashtags": [
-        "traumatologia",
-        "bloqueo_articular_por_menisco",
-        "patologia",
-        "tipo_rotura_meniscal",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué prueba de imagen es la más sensible para diagnosticar bloqueo por menisco?",
-      "options": [
-        "Radiografía simple",
-        "Ecografía dinámica",
-        "Tomografía computarizada",
-        "Resonancia magnética"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La resonancia magnética es la técnica de elección para evaluar lesiones meniscales, ya que permite visualizar el fragmento desplazado y su relación con las superficies articulares.",
-      "hashtags": [
-        "traumatologia",
-        "bloqueo_articular_por_menisco",
-        "diagnostico",
-        "resonancia_magnetica",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es un signo clínico clásico del bloqueo meniscal?",
-      "options": [
-        "Imposibilidad de extensión",
-        "Derrame articular leve",
-        "Inestabilidad rotuliana",
-        "Dolor en cara anterior"
-      ],
-      "correctAnswer": 1,
-      "explanation": "El bloqueo meniscal se caracteriza por la imposibilidad de extender completamente la rodilla debido a la interposición del fragmento meniscal entre las superficies articulares.",
-      "hashtags": [
-        "traumatologia",
-        "bloqueo_articular_por_menisco",
-        "cuadro_clinico",
-        "signo_clinico",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la clasificación más aceptada de las lesiones meniscales según su morfología?",
-      "options": [
-        "Clasificación de Outerbridge",
-        "Clasificación de Insall",
-        "Clasificación de O'Donoghue",
-        "Clasificación de Palmer"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La clasificación de Palmer es la más utilizada para describir las lesiones meniscales según su morfología, incluyendo tipos como asa de cubo, colgajo y radial.",
-      "hashtags": [
-        "traumatologia",
-        "lesiones_meniscales",
-        "concepto",
-        "clasificacion_morfologica",
-        "TEMA_MEDICO",
-        "Campbell's Operative Orthopaedics 14ed"
-      ]
-    },
-    {
-      "question": "¿Qué tipo de lesión meniscal se asocia con mayor frecuencia a inestabilidad de la rodilla?",
-      "options": [
-        "Lesión en asa de cubo",
-        "Lesión radial",
-        "Lesión horizontal",
-        "Lesión degenerativa"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La lesión en asa de cubo es una rotura longitudinal completa que puede desplazarse y bloquear la rodilla, causando inestabilidad mecánica significativa.",
-      "hashtags": [
-        "traumatologia",
-        "lesiones_meniscales",
-        "cuadro_clinico",
-        "inestabilidad_rodilla",
-        "TEMA_MEDICO",
-        "Insall & Scott Surgery of the Knee 6ed"
-      ]
-    },
-    {
-      "question": "¿Cuál es el signo clínico clásico de una lesión meniscal traumática aguda?",
-      "options": [
-        "Signo de Lachman positivo",
-        "Signo de McMurray positivo",
-        "Signo de aprensión rotuliana",
-        "Signo de cajón anterior"
-      ],
-      "correctAnswer": 2,
-      "explanation": "El signo de McMurray es una maniobra de exploración que provoca dolor o clic en la interlínea articular, indicativo de lesión meniscal aguda.",
-      "hashtags": [
-        "traumatologia",
-        "lesiones_meniscales",
-        "diagnostico",
-        "signo_mcmurray",
-        "TEMA_MEDICO",
-        "Rockwood and Green's Fractures 9ed"
-      ]
-    },
-    {
-      "question": "¿Qué prueba de imagen es el gold standard para el diagnóstico de lesiones meniscales?",
-      "options": [
-        "Ecografía de rodilla",
-        "Artrografía",
-        "Radiografía simple",
-        "Resonancia magnética"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La resonancia magnética es la técnica de imagen más precisa para evaluar lesiones meniscales, con alta sensibilidad y especificidad para detectar roturas.",
-      "hashtags": [
-        "traumatologia",
-        "lesiones_meniscales",
-        "diagnostico",
-        "resonancia_magnetica",
-        "TEMA_MEDICO",
-        "AJR Am J Roentgenol 2020"
-      ]
-    },
-    {
-      "question": "¿Cuál es el tratamiento de primera línea en una lesión meniscal traumática estable?",
-      "options": [
-        "Manejo conservador",
-        "Inmovilización con yeso",
-        "Reemplazo total de rodilla",
-        "Meniscoplastia artroscópica"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Las lesiones meniscales estables y no desplazadas suelen tratarse de forma conservadora con fisioterapia y reposo, evitando cirugía inicial.",
-      "hashtags": [
-        "traumatologia",
-        "lesiones_meniscales",
-        "tratamiento",
-        "manejo_conservador",
-        "TEMA_MEDICO",
-        "AAOS Clinical Practice Guideline 2021"
-      ]
-    },
-    {
-      "question": "¿Qué tipo de rotura meniscal tiene peor pronóstico de cicatrización espontánea?",
-      "options": [
-        "Rotura en asa de cubo",
-        "Rotura longitudinal periférica",
-        "Rotura radial completa",
-        "Rotura horizontal incompleta"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La rotura radial completa interrumpe las fibras de colágeno circunferenciales del menisco, impidiendo la cicatrización espontánea debido a la falta de vascularización en esa zona.",
-      "hashtags": [
-        "traumatologia",
-        "lesiones_meniscales",
-        "fisiopatologia",
-        "cicatrizacion_meniscal",
-        "TEMA_MEDICO",
-        "Am J Sports Med 2019"
-      ]
-    },
-    {
-      "question": "¿Cuál es la secuencia de RM más sensible para detectar rotura de menisco?",
-      "options": [
-        "T2 sagital",
-        "T1 con gadolinio",
-        "DP con saturación grasa",
-        "T1 axial"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La secuencia DP con saturación grasa es la más sensible para detectar roturas meniscales, ya que resalta el líquido sinovial y el edema en el menisco lesionado.",
-      "hashtags": [
-        "radiologia",
-        "rotura_meniscal",
-        "diagnostico",
-        "secuencias_rm",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "En RM, ¿qué signo es característico de rotura completa del LCA?",
-      "options": [
-        "Signo del vacío articular",
-        "Signo del menisco en asa",
-        "Signo de la cuerda rota",
-        "Signo del doble ligamento"
-      ],
-      "correctAnswer": 4,
-      "explanation": "El signo del doble ligamento en RM indica rotura completa del LCA, donde el muñón distal se sitúa anterior al PCL, simulando dos ligamentos.",
-      "hashtags": [
-        "radiologia",
-        "rotura_lca",
-        "diagnostico",
-        "signos_rm",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la sensibilidad reportada de la RM para rotura de menisco medial?",
-      "options": [
-        "50-55%",
-        "75-85%",
-        "90-95%",
-        "60-70%"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La RM tiene una sensibilidad del 90-95% para roturas del menisco medial, debido a su menor movilidad y mejor visualización en cortes coronales.",
-      "hashtags": [
-        "radiologia",
-        "rotura_meniscal",
-        "diagnostico",
-        "rendimiento_diagnostico",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo en RM sugiere una rotura meniscal en asa de cubo?",
-      "options": [
-        "Quiste parameniscal gigante",
-        "Signo del doble PCL",
-        "Aumento de señal meniscal grado II",
-        "Menisco fragmentado en dos partes"
-      ],
-      "correctAnswer": 2,
-      "explanation": "El signo del doble PCL en RM es patognomónico de rotura en asa de cubo, donde el fragmento desplazado del menisco se sitúa delante del PCL.",
-      "hashtags": [
-        "radiologia",
-        "rotura_meniscal",
-        "diagnostico",
-        "signos_rm",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la especificidad de la RM para rotura del LCA?",
-      "options": [
-        "70-80%",
-        "85-90%",
-        "50-60%",
-        "95-98%"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La RM tiene una especificidad del 95-98% para rotura del LCA, lo que la convierte en el estándar diagnóstico por imagen para esta lesión ligamentosa.",
-      "hashtags": [
-        "radiologia",
-        "rotura_lca",
-        "diagnostico",
-        "rendimiento_diagnostico",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué secuencia de RM es ideal para evaluar edema óseo asociado a lesión ligamentosa?",
-      "options": [
-        "T1 sin contraste",
-        "T1 con contraste",
-        "DP sin saturación grasa",
-        "T2 con saturación grasa"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La secuencia T2 con saturación grasa es la más sensible para detectar edema óseo, ya que suprime la señal grasa y resalta el líquido en el hueso esponjoso.",
-      "hashtags": [
-        "radiologia",
-        "lesion_ligamentosa",
-        "diagnostico",
-        "secuencias_rm",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la indicación principal para manejo quirúrgico temprano de LCA en un paciente joven y activo?",
-      "options": [
-        "Falla del tratamiento conservador inicial",
-        "Deseo de retorno a deportes de pivote",
-        "Inestabilidad residual tras rehabilitación",
-        "Lesión meniscal asociada sintomática"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La inestabilidad residual tras rehabilitación bien realizada es la principal indicación quirúrgica en LCA, ya que el fracaso del manejo conservador expone a lesiones secundarias.",
-      "hashtags": [
-        "medicina_deportiva",
-        "lesion_lca",
-        "tratamiento",
-        "indicaciones_quirurgicas",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué factor se asocia con peor pronóstico en el manejo conservador de una rotura de LCA?",
-      "options": [
-        "Obesidad con IMC menor a 25",
-        "Actividades de bajo impacto",
-        "Edad mayor a 40 años",
-        "Fallo en la propiocepción articular"
-      ],
-      "correctAnswer": 4,
-      "explanation": "El fallo en la propiocepción articular, que lleva a déficit de control neuromuscular, se asocia con inestabilidad recurrente y peor pronóstico en el tratamiento conservador del LCA.",
-      "hashtags": [
-        "medicina_deportiva",
-        "lesion_lca",
-        "pronostico",
-        "manejo_conservador",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el objetivo principal de la rehabilitación prequirúrgica en una lesión de LCA?",
-      "options": [
-        "Mejorar la propiocepción y estabilidad",
-        "Reducir edema y dolor articular",
-        "Fortalecer musculatura isquiotibial",
-        "Recuperar rango de movimiento completo"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Mejorar la propiocepción y estabilidad es esencial antes de la cirugía de LCA para optimizar resultados postoperatorios y reducir el riesgo de complicaciones.",
-      "hashtags": [
-        "medicina_deportiva",
-        "lesion_lca",
-        "rehabilitacion",
-        "fase_preoperatoria",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo en la resonancia magnética sugiere fracaso del manejo conservador en LCA?",
-      "options": [
-        "Edema óseo en cóndilo femoral",
-        "Derrame articular moderado crónico",
-        "Ligamento cruzado anterior elongado",
-        "Lesión meniscal de tipo asa de cubo"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La lesión meniscal de tipo asa de cubo indica inestabilidad crónica y fracaso del manejo conservador, pues el menisco se desplaza por la falta de contención del LCA.",
-      "hashtags": [
-        "medicina_deportiva",
-        "lesion_lca",
-        "diagnostico",
-        "resonancia_magnetica",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la ventaja principal del manejo quirúrgico frente al conservador en LCA en deportistas de élite?",
-      "options": [
-        "Mayor tasa de retorno al mismo nivel",
-        "Menor tiempo de rehabilitación total",
-        "Eliminación del riesgo de artrosis",
-        "Recuperación completa de la fuerza"
-      ],
-      "correctAnswer": 1,
-      "explanation": "El manejo quirúrgico del LCA ofrece una mayor tasa de retorno al mismo nivel deportivo en atletas de élite, aunque no elimina el riesgo de artrosis ni acorta la rehabilitación.",
-      "hashtags": [
-        "medicina_deportiva",
-        "lesion_lca",
-        "tratamiento",
-        "comparacion_quirurgico_conservador",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuándo se recomienda manejo conservador inicial en una rotura aguda de LCA?",
-      "options": [
-        "Adulto activo con pivote frecuente",
-        "Paciente joven con lesión meniscal",
-        "Paciente sedentario sin inestabilidad",
-        "Atleta profesional con lesión aislada"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El manejo conservador inicial está indicado en pacientes sedentarios que no presentan inestabilidad funcional, pues el riesgo de fracaso es bajo y pueden evitar la cirugía.",
-      "hashtags": [
-        "medicina_deportiva",
-        "lesion_lca",
-        "tratamiento",
-        "criterios_conservador",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es una ventaja principal del injerto hueso-tendón rotuliano-hueso?",
-      "options": [
-        "Extracción más sencilla",
-        "Menor rigidez articular",
-        "Integración ósea rápida",
-        "Menor dolor postoperatorio"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El injerto hueso-tendón rotuliano-hueso presenta bloques óseos en sus extremos, lo que permite una integración ósea rápida en los túneles femorales y tibiales, acelerando la consolidación del injerto.",
-      "hashtags": [
-        "traumatologia",
-        "reconstruccion_lca",
-        "tratamiento",
-        "injerto_hueso_tendon_rotuliano",
-        "TEMA_MEDICO",
-        "Campbell 14ed"
-      ]
-    },
-    {
-      "question": "¿Qué complicación se asocia más al injerto hueso-tendón rotuliano-hueso?",
-      "options": [
-        "Trombosis venosa profunda",
-        "Infección intraarticular",
-        "Fractura de rótula",
-        "Síndrome compartimental"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La fractura de rótula es una complicación específica del injerto hueso-tendón rotuliano-hueso, debido a la debilidad residual en el sitio donante del tendón rotuliano y la rótula, especialmente en la rehabilitación temprana.",
-      "hashtags": [
-        "traumatologia",
-        "reconstruccion_lca",
-        "complicaciones",
-        "fractura_rotuliana",
-        "TEMA_MEDICO",
-        "Insall & Scott 6ed"
-      ]
-    },
-    {
-      "question": "¿Cuál es el sitio donante más frecuente para este injerto?",
-      "options": [
-        "Fascia lata contralateral",
-        "Isquiotibiales homolateral",
-        "Tendón rotuliano ipsilateral",
-        "Tendón de Aquiles"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El sitio donante más utilizado para el injerto hueso-tendón rotuliano-hueso es el tendón rotuliano ipsilateral, tomando el tercio central junto con los bloques óseos de la rótula y la tibia.",
-      "hashtags": [
-        "traumatologia",
-        "reconstruccion_lca",
-        "tratamiento",
-        "sitio_donante",
-        "TEMA_MEDICO",
-        "Rockwood 9ed"
-      ]
-    },
-    {
-      "question": "¿Qué tipo de fijación se emplea típicamente con este injerto?",
-      "options": [
-        "Clavos intramedulares",
-        "Tornillos de interferencia",
-        "Placas bloqueadas",
-        "Grapas de sutura"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Los tornillos de interferencia son el método de fijación estándar para el injerto hueso-tendón rotuliano-hueso, ya que comprimen los bloques óseos contra las paredes de los túneles, logrando una fijación estable y biológica.",
-      "hashtags": [
-        "traumatologia",
-        "reconstruccion_lca",
-        "tratamiento",
-        "fijacion_injerto",
-        "TEMA_MEDICO",
-        "Miller 8ed"
-      ]
-    },
-    {
-      "question": "¿Qué desventaja presenta este injerto respecto a los isquiotibiales?",
-      "options": [
-        "Menor resistencia inicial",
-        "Dolor anterior de rodilla",
-        "Mayor tasa de rerrotura",
-        "Peor integración ósea"
-      ],
-      "correctAnswer": 2,
-      "explanation": "El dolor anterior de rodilla es una desventaja reconocida del injerto hueso-tendón rotuliano-hueso, relacionado con la morbilidad del sitio donante, incluyendo tendinopatía rotuliana o dolor al arrodillarse, más frecuente que con injertos de isquiotibiales.",
-      "hashtags": [
-        "traumatologia",
-        "reconstruccion_lca",
-        "cuadro_clinico",
-        "dolor_anterior_rodilla",
-        "TEMA_MEDICO",
-        "AAOS 2023"
-      ]
-    },
-    {
-      "question": "¿Cuál es la principal indicación para elegir este injerto?",
-      "options": [
-        "Pacientes con artrosis severa",
-        "Niños con fisis abierta",
-        "Reconstrucciones de revisión",
-        "Deportistas de alto impacto"
-      ],
-      "correctAnswer": 4,
-      "explanation": "El injerto hueso-tendón rotuliano-hueso es preferido en deportistas de alto impacto que requieren máxima estabilidad y rigidez inicial, ya que ofrece una fijación biológica más rápida y una resistencia comparable a la del LCA nativo, ideal para retorno deportivo exigente.",
-      "hashtags": [
-        "traumatologia",
-        "reconstruccion_lca",
-        "indicaciones",
-        "deportistas_alto_impacto",
-        "TEMA_MEDICO",
-        "Knee Surg Sports Traumatol Arthrosc 2022"
-      ]
-    },
-    {
-      "question": "¿Cuál es el mecanismo más frecuente de lesión del cuerno posterior del menisco medial?",
-      "options": [
-        "Golpe directo en la rótula",
-        "Caída sobre rodilla flexionada",
-        "Hiperextensión de rodilla",
-        "Rotación externa con flexión"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La lesión del cuerno posterior del menisco medial ocurre típicamente por rotación externa de la tibia sobre el fémur con la rodilla en flexión, atrapando el menisco entre los cóndilos.",
-      "hashtags": [
-        "traumatologia",
-        "lesion_menisco_medial",
-        "concepto",
-        "mecanismo_lesional",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué prueba semiológica es más específica para lesión del cuerno posterior del menisco medial?",
-      "options": [
-        "Prueba de McMurray",
-        "Prueba de Lachman",
-        "Prueba de Apley",
-        "Prueba de cajón anterior"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La prueba de McMurray, con rotación externa de la tibia y flexoextensión de la rodilla, genera dolor y chasquido en la interlínea medial, indicando lesión del cuerno posterior del menisco medial.",
-      "hashtags": [
-        "traumatologia",
-        "lesion_menisco_medial",
-        "diagnostico",
-        "exploracion_fisica",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo en la resonancia magnética es característico de una rotura del cuerno posterior del menisco medial?",
-      "options": [
-        "Fractura del platillo tibial medial",
         "Derrame articular sin alteración meniscal",
-        "Engrosamiento del ligamento colateral",
-        "Señal aumentada hasta el borde articular"
+        "Señal anormal en el tendón poplíteo",
+        "Edema en el ligamento colateral medial",
+        "Engrosamiento del ligamento cruzado anterior"
       ],
-      "correctAnswer": 4,
-      "explanation": "En la RM, la rotura del cuerno posterior se manifiesta como una señal hiperintensa en T2 que contacta con la superficie articular del menisco, indicando una rotura completa.",
+      "correctAnswer": 2,
+      "explanation": "La señal anormal (hiperintensidad en T2) en el tendón poplíteo o en el ligamento poplíteo arqueado en la RM es un hallazgo característico de lesión de la esquina posterolateral.",
       "hashtags": [
-        "radiologia",
-        "lesion_menisco_medial",
+        "traumatologia",
+        "esquina_posterolateral",
         "diagnostico",
         "resonancia_magnetica",
         "TEMA_MEDICO",
@@ -1199,172 +1122,248 @@
       ]
     },
     {
-      "question": "¿Cuál es el tratamiento conservador de primera línea en una lesión estable del cuerno posterior del menisco medial?",
+      "question": "¿Cuál es el tratamiento quirúrgico de elección para una lesión crónica de la esquina posterolateral?",
       "options": [
-        "Fisioterapia y fortalecimiento muscular",
-        "Administración de corticoides intraarticulares",
-        "Reparación artroscópica inmediata",
-        "Inmovilización con yeso por 6 semanas"
+        "Reconstrucción anatómica de la esquina posterolateral",
+        "Reparación directa del tendón poplíteo",
+        "Artroplastia total de rodilla",
+        "Reconstrucción del ligamento colateral medial"
       ],
       "correctAnswer": 1,
-      "explanation": "En lesiones estables sin bloqueo articular, el manejo inicial es conservador con fisioterapia para fortalecer cuádriceps e isquiotibiales, mejorando la estabilidad dinámica de la rodilla.",
+      "explanation": "En lesiones crónicas, la reconstrucción anatómica de la esquina posterolateral (con injertos) es el tratamiento de elección, ya que la reparación directa suele fallar por la mala calidad del tejido cicatricial.",
       "hashtags": [
         "traumatologia",
-        "lesion_menisco_medial",
+        "esquina_posterolateral",
         "tratamiento",
-        "manejo_conservador",
+        "reconstruccion_quirurgica",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Qué estructura anatómica se lesiona con frecuencia junto al cuerno posterior del menisco medial en una rotura compleja?",
+      "question": "¿Cuál es la prueba de imagen gold standard para evaluar lesiones meniscales?",
       "options": [
-        "Ligamento colateral lateral",
-        "Ligamento cruzado anterior",
-        "Tendón rotuliano",
-        "Ligamento poplíteo arqueado"
+        "Ecografía dinámica",
+        "Resonancia magnética",
+        "Radiografía simple",
+        "Tomografía computarizada"
       ],
       "correctAnswer": 2,
-      "explanation": "El cuerno posterior del menisco medial está firmemente unido al ligamento cruzado anterior (LCA) a través del ligamento meniscofemoral; las roturas complejas suelen asociarse a lesión del LCA.",
+      "explanation": "La resonancia magnética (RM) es el gold standard para la evaluación de lesiones meniscales debido a su alta sensibilidad y especificidad en la visualización de tejidos blandos.",
       "hashtags": [
-        "anatomia",
-        "lesion_menisco_medial",
-        "concepto",
-        "relaciones_anatomicas",
+        "medicina_deportiva",
+        "lesion_meniscal",
+        "diagnostico",
+        "resonancia_magnetica",
         "TEMA_MEDICO",
-        ""
+        "American College of Radiology 2023"
       ]
     },
     {
-      "question": "¿Cuál es la complicación más temida de una lesión no tratada del cuerno posterior del menisco medial?",
+      "question": "¿Qué signo en RM sugiere una rotura completa del LCA?",
       "options": [
-        "Subluxación rotuliana recurrente",
-        "Rotura del LCA contralateral",
-        "Trombosis venosa profunda",
-        "Artrosis femorotibial medial"
+        "Signo del gap",
+        "Signo del lazo",
+        "Signo del doble surco",
+        "Signo del resorte"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El signo del lazo (o 'lazo vacío') en la RM indica ausencia de fibras del LCA en su inserción femoral, típico de rotura completa del ligamento.",
+      "hashtags": [
+        "medicina_deportiva",
+        "rotura_lca",
+        "diagnostico",
+        "signo_radiologico",
+        "TEMA_MEDICO",
+        "Stoller 2022"
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes hallazgos en RM es más específico de lesión meniscal?",
+      "options": [
+        "Línea hiperintensa intra meniscal",
+        "Edema de médula ósea",
+        "Fractura subcondral",
+        "Aumento de líquido articular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una línea hiperintensa que contacta con la superficie articular del menisco en secuencias T2 o PDFS es el hallazgo más específico de rotura meniscal.",
+      "hashtags": [
+        "medicina_deportiva",
+        "lesion_meniscal",
+        "diagnostico",
+        "signo_rmn",
+        "TEMA_MEDICO",
+        "De Smet 2021"
+      ]
+    },
+    {
+      "question": "¿Qué secuencia de RM es más sensible para detectar edema óseo asociado a lesión del LCA?",
+      "options": [
+        "STIR coronal",
+        "T1 axial",
+        "T2 sagital",
+        "T1 con contraste"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La secuencia STIR (Short Tau Inversion Recovery) es la más sensible para edema óseo, suprimiendo la grasa y destacando el líquido y la inflamación.",
+      "hashtags": [
+        "medicina_deportiva",
+        "lesion_lca",
+        "diagnostico",
+        "secuencia_rmn",
+        "TEMA_MEDICO",
+        "Bolog 2020"
+      ]
+    },
+    {
+      "question": "¿Cuál es la sensibilidad reportada de la RM para detectar roturas meniscales?",
+      "options": [
+        "70-75%",
+        "85-95%",
+        "98-100%",
+        "50-60%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La RM tiene una sensibilidad del 85-95% para roturas meniscales, siendo superior a la artrografía y comparable a la artroscopia en manos expertas.",
+      "hashtags": [
+        "medicina_deportiva",
+        "lesion_meniscal",
+        "diagnostico",
+        "sensibilidad_rmn",
+        "TEMA_MEDICO",
+        "Oei 2003"
+      ]
+    },
+    {
+      "question": "¿Qué estructura anatómica se visualiza mejor con RM en el diagnóstico de lesión del LCA?",
+      "options": [
+        "Haz posterolateral del LCP",
+        "Haz anteromedial del LCA",
+        "Tendón rotuliano",
+        "Ligamento colateral medial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El haz anteromedial del LCA es el más fácil de identificar en RM, especialmente en secuencias oblicuas sagitales, y su ausencia sugiere rotura.",
+      "hashtags": [
+        "medicina_deportiva",
+        "rotura_lca",
+        "diagnostico",
+        "haz_anteromedial",
+        "TEMA_MEDICO",
+        "Petersen 2006"
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal beneficio de la reconstrucción tardía del LCA respecto a la temprana?",
+      "options": [
+        "Mayor estabilidad rotacional",
+        "Menor tasa de infección",
+        "Recuperación más rápida",
+        "Menor desarrollo de artrosis"
       ],
       "correctAnswer": 4,
-      "explanation": "La pérdida de la función amortiguadora del menisco medial, especialmente en su cuerno posterior, acelera el desgaste del cartílago articular, llevando a artrosis degenerativa del compartimento medial de la rodilla.",
+      "explanation": "La reconstrucción tardía del LCA se asocia a una menor incidencia de artrosis postoperatoria, probablemente al permitir la resolución de la inflamación aguda y restaurar la biomecánica articular de forma más estable.",
       "hashtags": [
         "traumatologia",
-        "lesion_menisco_medial",
-        "complicaciones",
-        "artrosis_postraumatica",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el objetivo principal de la rehabilitación precoz postoperatoria tras una plastia de LCA?",
-      "options": [
-        "Conseguir una fusión ósea",
-        "Evitar la atrofia muscular",
-        "Lograr una hiperlaxitud",
-        "Retrasar la carga precoz"
-      ],
-      "correctAnswer": 2,
-      "explanation": "El objetivo principal de la rehabilitación precoz postoperatoria tras una plastia de LCA es prevenir la atrofia muscular y mantener la movilidad articular, facilitando la recuperación funcional temprana.",
-      "hashtags": [
-        "medicina_deportiva",
-        "rehabilitacion_lca",
-        "cuadro_clinico",
-        "objetivo_terapeutico",
-        "TEMA_MEDICO",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué tipo de ejercicio se inicia en las primeras 24 horas tras una cirugía de menisco?",
-      "options": [
-        "Carrera en cinta",
-        "Isométricos de cuádriceps",
-        "Saltos pliométricos",
-        "Sentadillas con peso"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Los isométricos de cuádriceps son ejercicios seguros y efectivos que se inician en las primeras 24 horas postoperatorias para activar el músculo sin movilizar la articulación, minimizando el riesgo de lesión del injerto.",
-      "hashtags": [
-        "medicina_deportiva",
-        "rehabilitacion_menisco",
+        "reconstruccion_lca",
         "tratamiento",
-        "ejercicios_precoces",
+        "reconstruccion_tardia",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Cuál es un criterio común para iniciar la carga parcial de peso tras una plastia de LCA?",
+      "question": "¿Qué factor se relaciona con mayor riesgo de artrosis tras reconstrucción temprana del LCA?",
       "options": [
-        "Fiebre postoperatoria",
-        "Ausencia de dolor en reposo",
-        "Extensión completa activa",
-        "Aumento del rango pasivo"
+        "Uso de autoinjerto rotuliano",
+        "Edad avanzada del paciente",
+        "Persistencia de derrame articular",
+        "Realizar el injerto con isquiotibiales"
       ],
       "correctAnswer": 3,
-      "explanation": "La extensión completa activa de la rodilla es un criterio funcional clave para iniciar la carga parcial de peso, ya que indica control neuromuscular y estabilidad articular adecuados en la fase precoz.",
+      "explanation": "La reconstrucción temprana en un ambiente de inflamación aguda y derrame persistente puede alterar la homeostasis del cartílago, aumentando el riesgo de artrosis a largo plazo.",
       "hashtags": [
-        "medicina_deportiva",
-        "rehabilitacion_lca",
-        "tratamiento",
-        "carga_parcial_peso",
+        "traumatologia",
+        "reconstruccion_lca",
+        "etiologia",
+        "artrosis_postoperatoria",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Qué complicación se previene con la movilización pasiva continua tras una reparación meniscal?",
+      "question": "¿Cuál es el periodo considerado como reconstrucción tardía del LCA?",
       "options": [
-        "Síndrome compartimental",
-        "Trombosis venosa profunda",
-        "Rotura del injerto",
-        "Artrofibrosis"
+        "Entre 6 y 12 semanas",
+        "Entre 3 y 6 semanas",
+        "Más de 12 semanas",
+        "Menos de 3 semanas"
       ],
-      "correctAnswer": 4,
-      "explanation": "La movilización pasiva continua (CPM) se utiliza para prevenir la artrofibrosis (rigidez articular) al mantener el rango de movimiento sin sobrecargar la sutura meniscal, mejorando el resultado funcional.",
+      "correctAnswer": 3,
+      "explanation": "Se considera reconstrucción tardía cuando se realiza después de 12 semanas desde la lesión, permitiendo que la inflamación aguda disminuya y la rodilla recupere un rango de movimiento normal.",
       "hashtags": [
-        "medicina_deportiva",
-        "rehabilitacion_menisco",
-        "complicaciones",
-        "artrofibrosis",
+        "traumatologia",
+        "reconstruccion_lca",
+        "concepto",
+        "definicion_temporal",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Qué parámetro indica que el paciente puede progresar a ejercicios de cadena cinética cerrada?",
+      "question": "¿Qué consecuencia se asocia a la reconstrucción temprana del LCA en comparación con la tardía?",
       "options": [
-        "Dolor al caminar",
-        "Control de cuádriceps",
-        "Derrame articular leve",
-        "Laxitud ligamentosa"
+        "Recuperación más precoz",
+        "Mayor rigidez articular",
+        "Menor tasa de rerruptura",
+        "Mejor integración del injerto"
       ],
       "correctAnswer": 2,
-      "explanation": "El control adecuado del cuádriceps, evidenciado por la capacidad de realizar una contracción isométrica sin dolor, es un indicador de que el paciente puede progresar a ejercicios de cadena cinética cerrada de forma segura.",
+      "explanation": "La reconstrucción temprana puede generar mayor rigidez articular debido a la inflamación y fibrosis capsular, mientras que la tardía permite una mejor recuperación del movimiento previo a la cirugía.",
       "hashtags": [
-        "medicina_deportiva",
-        "rehabilitacion_lca",
-        "tratamiento",
-        "cadena_cinetica_cerrada",
+        "traumatologia",
+        "reconstruccion_lca",
+        "complicaciones",
+        "rigidez_articular",
         "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Cuál es la posición recomendada para la rodilla durante el reposo en las primeras 48 horas postoperatorias?",
+      "question": "¿Qué tipo de estudio es más utilizado para evaluar artrosis post-reconstrucción del LCA?",
       "options": [
-        "Rotación externa",
-        "Flexión a 30 grados",
-        "Flexión a 90 grados",
-        "Extensión completa"
+        "Tomografía computada",
+        "Resonancia magnética",
+        "Radiografía simple",
+        "Ecografía dinámica"
       ],
-      "correctAnswer": 4,
-      "explanation": "Mantener la rodilla en extensión completa durante el reposo en las primeras 48 horas postoperatorias ayuda a prevenir el desarrollo de contractura en flexión y facilita la recuperación temprana del rango de movimiento.",
+      "correctAnswer": 3,
+      "explanation": "La radiografía simple con proyecciones anteroposterior y lateral es el método estándar para evaluar cambios degenerativos articulares como pinzamiento del espacio articular y osteofitos.",
       "hashtags": [
-        "medicina_deportiva",
-        "rehabilitacion_lca",
-        "tratamiento",
-        "posicion_postoperatoria",
+        "traumatologia",
+        "reconstruccion_lca",
+        "diagnostico",
+        "evaluacion_radiografica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes no es un factor protector para artrosis en reconstrucción tardía del LCA?",
+      "options": [
+        "Realizar cirugía antes de 6 semanas",
+        "Fortalecimiento muscular preoperatorio",
+        "Recuperación de rango articular",
+        "Resolución de inflamación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La cirugía antes de 6 semanas se considera temprana y no protege contra el desarrollo de artrosis; al contrario, puede aumentar el riesgo por realizarse en un entorno inflamatorio agudo.",
+      "hashtags": [
+        "traumatologia",
+        "reconstruccion_lca",
+        "fisiopatologia",
+        "factores_protectores",
         "TEMA_MEDICO",
         ""
       ]

@@ -1,0 +1,77 @@
+{
+  "id": "anemia",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Classification by VCM and CHCM",
+      "title": "Morphological classification of anemias",
+      "contentHtml": "<h2>Classification by MCV and MCHC</h2><ul><li><b>MCV</b> (mean corpuscular volume): microcytic (&lt;80 fL), normocytic (80-100 fL), macrocytic (&gt;100 fL).</li><li><b>MCC</b> (mean corpuscular hemoglobin concentration): hypochromic (&lt;32 g/dL), normochromic (32-36 g/dL).</li><li>Combinations: hypochromic microcytic (iron deficiency, thalassemia, anemia of chronic disease in late stages); macrocytic (B12/folate deficiency, alcoholism, myelodysplasia, hypothyroidism).</li><li>The <b>RDW</b> (erythrocyte distribution width) helps: elevated in iron deficiency (anisocytosis), normal in thalassemia.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Iron deficiency anemia: low ferritin",
+      "title": "Iron deficiency anemia: diagnosis and treatment",
+      "contentHtml": "<h2>Iron deficiency anemia: low ferritin</h2><ul><li><b>Serum ferritin</b> &lt;15 ng/mL confirms iron depletion; in inflammation it can be falsely normal (use <b>elevated soluble transferrin receptor</b>).</li><li>Laboratory: hypochromic microcytic, <b>low serum iron</b>, <b>high total iron binding capacity (TIBC)</b>, <b>transferrin saturation &lt;16%</b>.</li><li>Causes: chronic loss (gastrointestinal, menstrual), poor absorption, diet.</li><li>Treatment: <b>oral iron (ferrous sulfate 100-200 mg/day of elemental iron)</b>; reticulocyte response in 7-10 days, Hb normalizes in 6-8 weeks; continue 3-6 months after normalization to refill tanks.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Megaloblastic anemia: B12/folate deficiency",
+      "title": "Megaloblastic anemia: B12 and folate deficiency",
+      "contentHtml": "<h2>Megaloblastic anemia: B12/folate deficiency</h2><ul><li>Macrocytic (MCV &gt;100 fL), with <b>megaloblasts</b> in bone marrow (nucleus-cytoplasm asynchrony) and <b>neutrophil hypersegmentation</b> (&gt;5 lobes).</li><li><b>Vitamin B12 deficiency (cobalamin):</b> causes: pernicious anemia, gastrectomy, ileitis, strict vegans; levels &lt;200 pg/mL; It can cause <b>neuropathy (subacute combined degeneration of the spinal cord).</li><li><b>Folate deficiency:</b> alcoholism, pregnancy, drugs (methotrexate, trimethoprim); levels &lt;4 ng/mL; without neuropathy.</li><li>Treatment: B12: <b>cyancobalamin 1000 µg intramuscular/day for 7 days, then weekly for 4 weeks, then monthly for life</b>; folate: <b>folic acid 1-5 mg/day orally</b>.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Anemia of chronic disease: normal or high ferritin",
+      "title": "Anemia of chronic disease (AEC)",
+      "contentHtml": "<h2>Anemia of chronic disease: normal or high ferritin</h2><ul><li>Normocytic normochromic (can be microcytic in late phases).</li><li>Pathophysiology: <b>elevated hepcidin</b> (due to IL-6) which sequesters iron in macrophages and reduces intestinal absorption.</li><li>Iron profile: <b>normal or increased serum ferritin</b> (>100 ng/mL), <b>low serum iron</b>, <b>low or normal TIBC</b>, <b>low transferrin saturation</b> (10-20%).</li><li>Differential diagnosis with iron deficiency: use <b>soluble transferrin receptor</b> (elevated in iron deficiency, normal in AEC) or <b>soluble transferrin receptor/log index ferritin</b> (&gt;1.5 suggests added iron deficiency).</li><li>Treatment: treat underlying disease; does not respond to iron. </li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Thalassemia: very low MCV with normal Hb",
+      "title": "Thalassemia: thalassemic trait",
+      "contentHtml": "<h2>Thalassaemia: very low MCV with normal Hb</h2><ul><li>Heterozygotes (thalassemic trait): <b>very low MCV</b> (&lt;75 fL) with <b>normal or almost normal hemoglobin</b> (11-14 g/dL) and <b>normal RDW</b> (contrary to iron deficiency).</li><li>Hemoglobin electrophoresis: in β-thalassemia minor: <b>Elevated HbA2 (>3.5%)</b>; in α-thalassemia: normal (diagnosis by genetics). </li><li>Do not treat with iron; important to differentiate from iron deficiency to avoid unnecessary iron.</li><li>Mentzer formula: MCV/erythrocyte count (×10⁶/µL); &lt;13 suggests thalassemia, &gt;13 iron deficiency.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Hemolytic anemia: high LDH and bilirubin",
+      "title": "Hemolytic anemia: hemolysis data",
+      "contentHtml": "<h2>Hemolytic anemia: high LDH and bilirubin</h2><ul><li>Hemolysis: <b>elevated lactate dehydrogenase (LDH)</b>, <b>high indirect bilirubin</b>, <b>low haptoglobin</b> (&lt;25 mg/dL), <b>reticulocytosis</b> (&gt;2% or &gt;100,000/µL).</li><li>Smear: schistocytes (mechanical hemolysis), spherocytes (autoimmune), sickle cell (sickle cell), elliptocytes (hereditary).</li><li>Classification: <b>intracorpuscular</b> (membrane defect, enzymopathy, hemoglobinopathy) vs. <b>extracorpuscular</b> (autoimmune, mechanical, infectious, toxic). </li><li>Direct <b>Coombs test</b> positive in immune hemolysis.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Direct Coombs test in autoimmune anemia",
+      "title": "Autoimmune hemolytic anemia (AIHA)",
+      "contentHtml": "<h2>Direct Coombs test in autoimmune anemia</h2><ul><li><b>Direct Coombs test (direct antiglobulin test)</b> detects antibodies or complement bound to erythrocytes; positive in <b>autoimmune hemolytic anemia (AIHA).</li><li>Warm AHA (most common): IgG + C3d, response to <b>corticosteroids (prednisone 1-2 mg/kg/day).</li><li>Cold AHA (cold agglutinin disease): IgM + C3d, avoid cold, <b>rituximab</b> or cyclophosphamide.</li><li>False negative: if the coating is low or IgA antibodies; use more sensitive techniques (gel, ELISA). </li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Aplastic anemia: pancytopenia and hypocellular marrow",
+      "title": "aplastic anemia",
+      "contentHtml": "<h2>Aplastic anemia: pancytopenia and hypocellular marrow</h2><ul><li><b>Pancytopenia</b> (anemia, leukopenia, thrombocytopenia) with <b>hypocellular bone marrow</b> (&lt;25% normal cellularity) and absence of infiltration.</li><li>Causes: idiopathic (autoimmune), drugs (chloramphenicol, chemotherapy), viruses (hepatitis, parvovirus B19, HIV), radiation. </li><li>Diagnosis: bone marrow biopsy (hypocellularity, without blasts or fibrosis).</li><li>Treatment: <b>allogeneic transplant of hematopoietic progenitors</b> in young people with an HLA-identical donor; alternative: <b>immunosuppression with antithymocyte globulin (ATG) + cyclosporine</b>. </li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Sickle cell anemia: sickle cell smear",
+      "title": "Sickle cell anemia (sickling cell disease)",
+      "contentHtml": "<h2>Sickle cell anemia: sickle cell smear</h2><ul><li>Hemoglobinopathy due to mutation in the β-globin gene (Glu6Val): <b>hemoglobin S (HbS)</b>.</li><li>Peripheral blood smear: <b>sickling cells (sickle cells)</b>, dianocytes, Howell-Jolly bodies (due to asplenia functional).</li><li>Electrophoresis: HbS &gt;90%, HbF (fetal) variable, HbA2 normal.</li><li>Crisis: painful (vaso-occlusive), aplastic (parvovirus B19), splenic sequestration, hemolytic.</li><li>Treatment: <b>hydroxyurea</b> (increases HbF, reduces crisis), <b>folic acid</b>, transfusions in severe crises; <b>pneumococcal and meningococcal vaccines</b> for asplenia.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "G6PD deficiency anemia: oxidative hemolysis",
+      "title": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency",
+      "contentHtml": "<h2>G6PD deficiency anemia: oxidative hemolysis</h2><ul><li>X-linked enzyme deficiency; more common in men.</li><li>Triggers: <b>oxidative stress</b> (infections, drugs: <b>sulfonamides, nitrofurantoin, dapsone, primaquine, nalidixic acid</b>, beans).</li><li>Acute hemolysis: anemia, jaundice, hemoglobinuria; smear: <b>bite cells</b> and <b>Heinz bodies</b> (denatured hemoglobin, visible with special stain).</li><li>Diagnosis: measurement of <b>G6PD enzymatic activity</b> (do not do during acute hemolysis because the reticulocytes have normal activity; repeat after 2-3 months).</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Pernicious anemia: anti-intrinsic factor antibodies",
+      "title": "pernicious anemia",
+      "contentHtml": "<h2>Pernicious anemia: anti-intrinsic factor antibodies</h2><ul><li>Atrophic autoimmune gastritis with deficiency of <b>intrinsic factor</b> (produced by gastric parietal cells).</li><li>Antibodies: <b>anti-intrinsic factor antibodies</b> (specific, 50-70% sensitivity) and <b>anti-cell antibodies parietal</b> (less specific, 90% sensitivity).</li><li>Laboratory: macrocytosis, vitamin B12 deficiency, <b>elevated serum gastrin</b> (due to achlorhydria).</li><li>Schilling test (rarely used): difference between intrinsic factor deficiency and poor intestinal absorption.</li><li>Treatment: <b>cyancobalamin 1000 µg intramuscular for life</b> (loading and maintenance dose).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Myelodysplasia: ring sideroblasts",
+      "title": "Myelodysplastic syndrome (MDS)",
+      "contentHtml": "<h2>Myelodysplasia: ring sideroblasts</h2><ul><li>Group of clonal disorders of the bone marrow with <b>dysplasia</b> in one or more lines (erythroid, myeloid, megakaryocytic) and <b>peripheral cytopenias</b>.</li><li><b>Ring sideroblasts</b> (erythroblasts with &gt;5 iron granules surrounding at least one third of the nucleus) define the subtype <b>MDS with ring sideroblasts (MDS-SA)</b>.</li><li>WHO classification: according to dysplasia, blasts (&lt;5% in marrow) and cytogenetics (5q deletion, monosomy 7).</li><li>Treatment: <b>lenalidomide</b> in 5q deletion; <b>hypomethylating agents (azacytidine, decitabine)</b> in high-risk MDS; curative allogeneic transplant. </li></ul>"
+    }
+  ]
+}
