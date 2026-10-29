@@ -1,0 +1,77 @@
+{
+  "id": "síndrome_de_cushing",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Dexametasona suprime cortisol en Cushing ACTH-dependiente",
+      "title": "Prueba de supresión con dexametasona",
+      "contentHtml": "<h2>Prueba de supresión con dexametasona</h2><ul><li><b>Dexametasona</b> es un glucocorticoide sintético potente que no cruza reactividad con el cortisol en la mayoría de inmunoensayos; suprime la secreción de hormona adrenocorticotropa (ACTH) hipofisaria en sujetos sanos.</li><li><b>Prueba de supresión con dosis baja (1 mg nocturno)</b>: cortisol sérico matinal &lt;1.8 µg/dL (&lt;50 nmol/L) descarta hipercortisolismo; en enfermedad de Cushing no suprime.</li><li><b>Prueba de supresión con dosis alta (8 mg nocturno)</b>: cortisol &lt;50% del basal orienta a origen hipofisario (enfermedad de Cushing); adenoma ectópico o suprarrenal no suprime.</li><li>Trampa: fármacos inductores de CYP3A4 (rifampicina, fenitoína, carbamazepina) aceleran el metabolismo de <b>dexametasona</b> y causan falsos no supresores.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Prueba de supresión con dosis baja confirma hipercortisolismo",
+      "title": "Confirmación bioquímica de hipercortisolismo",
+      "contentHtml": "<h2>Confirmación bioquímica de hipercortisolismo</h2><ul><li>Ante sospecha clínica, se requieren al menos <b>dos pruebas de cribado alteradas</b> para confirmar síndrome de Cushing: cortisol libre urinario de 24 horas, cortisol salival nocturno o <b>prueba de supresión con dosis baja (1 mg nocturno)</b>.</li><li><b>Prueba de supresión con dosis baja</b>: cortisol sérico matinal &gt;1.8 µg/dL (&gt;50 nmol/L) tras 1 mg de dexametasona a las 23:00 h confirma hipercortisolismo bioquímico.</li><li>Falsos positivos: embarazo, anticonceptivos orales (aumentan globulina transportadora de cortisol), estrés agudo, alcoholismo, depresión mayor, obesidad mórbida.</li><li>Trampa: no iniciar pruebas de supresión sin retirar glucocorticoides exógenos ni en enfermedad aguda.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Cortisol libre urinario de 24 horas elevado",
+      "title": "Cortisol libre urinario de 24 horas",
+      "contentHtml": "<h2>Cortisol libre urinario de 24 horas</h2><ul><li>Mide la fracción de cortisol no ligada a proteínas excretada en orina; refleja la producción integrada del día y es una de las <b>pruebas de cribado</b> del síndrome de Cushing.</li><li>Valor elevado: &gt;1-3 veces el límite superior de la normalidad según laboratorio; requiere recolección completa de 24 horas (verificar creatinina urinaria).</li><li>Falsos positivos: estrés, embarazo, anticonceptivos, insuficiencia renal, síndrome de pseudo-Cushing (depresión, alcoholismo).</li><li>Falsos negativos: insuficiencia renal avanzada (aclaramiento reducido) y variabilidad día a día; se recomienda repetir en dos ocasiones.</li><li>Trampa: no sirve para diferenciar la causa; solo confirma hipercortisolismo.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Ritmo circadiano de cortisol perdido",
+      "title": "Pérdida del ritmo circadiano",
+      "contentHtml": "<h2>Pérdida del ritmo circadiano de cortisol</h2><ul><li>En sujetos sanos, el cortisol sérico alcanza su pico a las 06:00-08:00 h y su nadir hacia la medianoche (&lt;50% del valor matinal).</li><li>En el síndrome de Cushing se pierde el nadir nocturno; el <b>cortisol salival nocturno</b> (a las 23:00-24:00 h) elevado es una prueba de cribado sensible y cómoda (nefelometría o inmunoensayo).</li><li>El <b>cortisol salival nocturno</b> tiene alta sensibilidad y especificidad; dos determinaciones elevadas confirman hipercortisolismo.</li><li>Trampa: turnos nocturnos, embarazo y estrés agudo alteran el ritmo; interpretar con contexto clínico.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "ACTH baja sugiere origen adrenal",
+      "title": "Hormona adrenocorticotropa baja: origen adrenal",
+      "contentHtml": "<h2>Hormona adrenocorticotropa baja: origen adrenal</h2><ul><li>La <b>hormona adrenocorticotropa (ACTH)</b> plasmática matinal &lt;10 pg/mL (&lt;2.2 pmol/L) con cortisol elevado indica <b>síndrome de Cushing ACTH-independiente</b> de origen suprarrenal.</li><li>Causas: adenoma suprarrenal, carcinoma suprarrenal, hiperplasia adrenal macronodular o micronodular.</li><li>El cortisol autónomo suprime la <b>hormona adrenocorticotropa</b> por retroalimentación negativa; la glándula contralateral se atrofia.</li><li>Trampa: valores de <b>hormona adrenocorticotropa</b> inapropiadamente normales-bajos en un paciente con hipercortisolismo ya orientan a origen adrenal.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "ACTH alta sugiere origen hipofisario o ectópico",
+      "title": "Hormona adrenocorticotropa alta: hipofisario o ectópico",
+      "contentHtml": "<h2>Hormona adrenocorticotropa alta: hipofisario o ectópico</h2><ul><li><b>Hormona adrenocorticotropa</b> plasmática &gt;20 pg/mL (&gt;4.4 pmol/L) con cortisol elevado indica <b>síndrome de Cushing ACTH-dependiente</b>: enfermedad de Cushing (adenoma hipofisario) o secreción ectópica.</li><li>El carcinoma pulmonar de células pequeñas y los tumores neuroendocrinos (carcinoide bronquial, timoma, pancreático) son causas de <b>síndrome de Cushing ectópico</b>.</li><li>Diferenciación: prueba de supresión con dosis alta de dexametasona (8 mg) y prueba de hormona liberadora de corticotropina (CRH).</li><li>Trampa: el <b>síndrome de Cushing ectópico</b> suele ser más grave, con hipopotasemia marcada y ACTH muy elevada.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Test de CRH y cateterismo de senos petrosos",
+      "title": "Prueba de CRH y cateterismo de senos petrosos",
+      "contentHtml": "<h2>Prueba de hormona liberadora de corticotropina y cateterismo de senos petrosos</h2><ul><li><b>Prueba de hormona liberadora de corticotropina (CRH)</b>: en enfermedad de Cushing, la <b>hormona adrenocorticotropa</b> y el cortisol aumentan &gt;20-50% tras CRH; en secreción ectópica no responden.</li><li><b>Cateterismo bilateral de senos petrosos inferiores</b>: gold estándar para diferenciar origen hipofisario de ectópico cuando las pruebas no invasivas son dudosas; gradiente central/periférico &gt;2 basal o &gt;3 tras CRH confirma origen hipofisario.</li><li>Requiere operador experto; complicaciones: hematoma, trombosis, lesión de pares craneales.</li><li>Trampa: el cateterismo se reserva para casos con imagen hipofisaria negativa o discordante.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Adenoma hipofisario: enfermedad de Cushing",
+      "title": "Enfermedad de Cushing: adenoma hipofisario",
+      "contentHtml": "<h2>Enfermedad de Cushing: adenoma hipofisario</h2><ul><li>El <b>adenoma hipofisario productor de hormona adrenocorticotropa</b> es la causa más frecuente de síndrome de Cushing endógeno (≈70%), predominio en mujeres de 20-40 años.</li><li>La <b>enfermedad de Cushing</b> cursa con <b>hormona adrenocorticotropa</b> elevada o inapropiadamente normal, supresión con dosis alta de dexametasona (&gt;50%) y respuesta a CRH.</li><li>Imagen: <b>resonancia magnética hipofisaria con contraste</b>; microadenoma &lt;10 mm en la mayoría; macroadenoma infrecuente.</li><li>Tratamiento de primera línea: <b>cirugía transesfenoidal</b>; segunda línea: radioterapia, ketoconazol, metirapona, pasireotida.</li><li>Trampa: en <b>enfermedad de Cushing</b> la hipopotasemia es menos intensa que en el origen ectópico.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Carcinoma suprarrenal: masa grande y virilización",
+      "title": "Carcinoma suprarrenal",
+      "contentHtml": "<h2>Carcinoma suprarrenal</h2><ul><li>Tumor maligno raro, habitualmente &gt;4-6 cm, heterogéneo, con necrosis y calcificaciones en tomografía computarizada; suele ser funcional (cortisol, andrógenos o ambos).</li><li>Clínica: <b>síndrome de Cushing</b> de instauración rápida + <b>virilización</b> (acné, hirsutismo, voz grave, clitoromegalia) por cosecreción de andrógenos; más frecuente en mujeres y niños.</li><li>Datos de laboratorio: cortisol elevado no supresible, <b>hormona adrenocorticotropa</b> suprimida, deshidroepiandrosterona sulfato (DHEA-S) muy elevada.</li><li>Tratamiento: <b>adrenalectomía radical</b>; mal pronóstico, mitotano en casos avanzados.</li><li>Trampa: masa suprarrenal grande con virilización = sospecha de carcinoma, no adenoma.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Cushing ectópico: tumores pulmonares de células pequeñas",
+      "title": "Síndrome de Cushing ectópico",
+      "contentHtml": "<h2>Síndrome de Cushing ectópico</h2><ul><li>Secreción de <b>hormona adrenocorticotropa</b> por tumores neuroendocrinos fuera de la hipófisis; el <b>carcinoma pulmonar de células pequeñas</b> es la causa más frecuente (&gt;50%), seguido de carcinoide bronquial, timoma y tumores pancreáticos.</li><li>Clínica de instauración rápida y grave: hipertensión, hipopotasemia intensa, hiperpigmentación, miopatía proximal, diabetes; a veces sin fenotipo cushingoide clásico.</li><li>Laboratorio: <b>hormona adrenocorticotropa</b> muy elevada (&gt;100 pg/mL), cortisol no suprime con dosis alta de dexametasona, sin respuesta a CRH.</li><li>Imagen: tomografía computarizada de tórax/abdomen y octreotida marcada para localizar el tumor primario.</li><li>Trampa: el <b>síndrome de Cushing ectópico</b> debe sospecharse ante hipopotasemia grave y ACTH muy alta.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Nefelometría: cortisol salival nocturno útil en cribado",
+      "title": "Cortisol salival nocturno por nefelometría",
+      "contentHtml": "<h2>Cortisol salival nocturno por nefelometría</h2><ul><li>El <b>cortisol salival nocturno</b> refleja la fracción libre sérica y es estable a temperatura ambiente; se determina por <b>nefelometría</b> o inmunoensayo.</li><li>Ventajas: no invasivo, recolección domiciliaria, útil en cribado de <b>síndrome de Cushing</b>; dos determinaciones elevadas (a las 23:00 h) confirman hipercortisolismo.</li><li>Punto de corte variable según laboratorio (aproximadamente &gt;0.15-0.30 µg/dL); validar con el rango local.</li><li>Trampa: tabaquismo, embarazo, turnos nocturnos, enfermedad crítica y glucocorticoides exógenos alteran el resultado.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Retirar glucocorticoides exógenos antes de pruebas",
+      "title": "Retirar glucocorticoides exógenos antes de las pruebas",
+      "contentHtml": "<h2>Retirar glucocorticoides exógenos antes de las pruebas</h2><ul><li>El <b>síndrome de Cushing exógeno</b> (iatrogénico) es la causa más frecuente de hipercortisolismo; suprime el eje hipotálamo-hipófisis-suprarrenal y altera todas las pruebas dinámicas.</li><li>Antes de estudiar un <b>síndrome de Cushing</b> endógeno, retirar glucocorticoides (orales, tópicos potentes, inhalados, inyectables) el tiempo suficiente según su vida media; puede requerir semanas.</li><li>Si es imprescindible mantener el tratamiento, interpretar con cautela: cortisol y <b>hormona adrenocorticotropa</b> suprimidos, pruebas de supresión no valorables.</li><li>Trampa: no confundir <b>síndrome de Cushing exógeno</b> con enfermedad de Cushing; la imagen suprarrenal puede mostrar atrofia bilateral.</li></ul>"
+    }
+  ]
+}

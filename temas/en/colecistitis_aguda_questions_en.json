@@ -1,952 +1,1370 @@
 {
   "questions": [
     {
-      "question": "What percentage of cases of acute cholecystitis are calculous type?",
+      "question": "Which of the following is NOT a diagnostic criterion for acute cholecystitis according to Tokyo?",
       "options": [
-        "About 5-10%",
-        "less than 5%",
-        "About 90-95%",
-        "About 70%"
+        "Fever greater than 38°C",
+        "Murphy's sign",
+        "Increased serum amylase",
+        "Leukocytosis"
       ],
       "correctAnswer": 3,
-      "explanation": "Acute calculous cholecystitis represents the vast majority of cases, specifically between 90% and 95%, being caused by obstruction of the cystic duct by a gallstone.",
+      "explanation": "The Tokyo criteria include local inflammatory signs (Murphy, mass, pain), systemic (fever, elevated CRP, leukocytosis) and imaging signs. Elevated amylase suggests pancreatitis, not acute cholecystitis.",
       "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
-        "concept",
-        "etiological_prevalence",
-        "PATHOLOGY",
-        ""
+        "clinical_table",
+        "tokyo_criteria",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
       ]
     },
     {
-      "question": "What is the distinguishing feature of acute acalculous cholecystitis?",
+      "question": "In the Tokyo 2018 criteria, acute cholecystitis is classified as Grade III when there is:",
       "options": [
-        "Presence of gallstones",
-        "Absence of gallstones",
-        "Common bile duct obstruction",
-        "Chronic inflammation"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Acute acalculous cholecystitis is characterized by inflammation of the gallbladder in the absence of gallstones obstructing the cystic duct, and is more common in critically ill patients.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "concept",
-        "alitasic_type",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the key event that initiates acute calculous cholecystitis?",
-      "options": [
-        "Inflammation of the duodenum",
-        "Obstruction of the cystic duct",
-        "Decreased bile",
-        "intestinal perforation"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Obstruction of the cystic duct, usually by an impacted gallstone, is the key event that initiates the inflammatory cascade and distinguishes acute cholecystitis from simple biliary colic.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "pathophysiology",
-        "cystic_obstruction",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which of the following is NOT a risk factor for cholelithiasis?",
-      "options": [
-        "Female sex",
-        "Old age",
-        "Rapid weight loss",
-        "Fiber consumption"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Fiber consumption is generally protective for digestive health and is not associated with an increased risk of cholelithiasis, unlike female sex, older age, and rapid weight loss.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "etiology",
-        "lithiasis_risk_factors",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is one of the '4 F's' that describes risk factors for cholelithiasis?",
-      "options": [
-        "Fecund (Fertile)",
-        "Fine",
-        "Strong",
-        "Fragile (Fragile)"
+        "Cardiovascular dysfunction",
+        "moderate leukocytosis",
+        "Positive Murphy sign",
+        "Vesicular mural thickening"
       ],
       "correctAnswer": 1,
-      "explanation": "The '4 F's' are a mnemonic for cholelithiasis risk factors: Female, Fat, Forty, and Fertile.",
+      "explanation": "Grade III (severe) implies organic dysfunction: cardiovascular, neurological, respiratory, renal, hepatic or hematological. Leukocytosis, Murphy, and thickening are grade I or II findings.",
       "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
-        "etiology",
-        "mnemonics_4f",
-        "PATHOLOGY",
-        ""
+        "clinical_table",
+        "degrees_gravity",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
       ]
     },
     {
-      "question": "Which condition is not typically associated with acute acalculous cholecystitis?",
+      "question": "What imaging finding is diagnostic of acute cholecystitis according to Tokyo?",
       "options": [
-        "Severe trauma",
-        "Total parenteral nutrition",
-        "Major postoperative",
-        "Regular exercise"
+        "Air in the bile duct",
+        "Dilation of the common hepatic duct",
+        "Gaseous distension of the colon",
+        "Gallbladder wall thickening"
       ],
       "correctAnswer": 4,
-      "explanation": "Acute acalculous cholecystitis is associated with critically ill patients or with severe systemic stress, such as trauma, TPN, or major postoperative care. Regular exercise is not a risk factor.",
+      "explanation": "Imaging criteria for acute cholecystitis include wall thickening (>4 mm), gallbladder distention, double wall sign, or perivesicular abscess. Bile air suggests emphysema, common bile duct dilation suggests choledocholithiasis.",
       "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
-        "etiology",
-        "risk_factors_alitasica",
-        "PATHOLOGY",
-        ""
+        "diagnosis",
+        "findings_image",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
       ]
     },
     {
-      "question": "What is the initial process after cystic obstruction in acute cholecystitis?",
+      "question": "In acute Grade II (moderate) cholecystitis, early cholecystectomy is indicated if:",
       "options": [
-        "Immediate drilling",
-        "pressure drop",
-        "Distension and ischemia",
-        "Extra bile formation"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Occlusion of the cystic duct causes increased intraluminal pressure, distention of the gallbladder, and compromised blood flow, resulting in wall ischemia.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "pathophysiology",
-        "consequences_obstruction",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What enzyme converts bile lecithin to lysolecithin during inflammation?",
-      "options": [
-        "Amylase",
-        "Lipase",
-        "Phospholipase A",
-        "Peptidase"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Phospholipase A, released by damaged mucosal enzymes, converts biliary lecithin to lysolecithin, a potent cytotoxic agent that contributes to chemical inflammation.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "pathophysiology",
-        "chemical_inflammation",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the most common Gram-negative bacteria in secondary infection?",
-      "options": [
-        "Staphylococcus aureus",
-        "Escherichia coli",
-        "Streptococcus pyogenes",
-        "Pseudomonas aeruginosa"
+        "There is gallbladder perforation",
+        "Surgery is low risk",
+        "The patient has severe comorbidity",
+        "There is septic shock"
       ],
       "correctAnswer": 2,
-      "explanation": "Approximately 50-70% of cases of acute cholecystitis develop secondary bacterial infection, with enteric Gram-negative bacteria such as Escherichia coli being the most common.",
+      "explanation": "Grade II is defined by marked local inflammation without organ dysfunction. If the patient has no surgical contraindications, early cholecystectomy is the treatment of choice. Perforation or shock indicate Grade III or complications.",
       "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
-        "pathophysiology",
-        "bacterial_infection",
-        "PATHOLOGY",
-        ""
+        "treatment",
+        "handling_grade_ii",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
       ]
     },
     {
-      "question": "What complication is described as gallbladder wall necrosis?",
+      "question": "What is the recommended initial treatment in Grade I acute cholecystitis?",
       "options": [
-        "Empyema",
-        "Cholecystoenteric fistula",
-        "vesicular gangrene",
-        "Mirizzi syndrome"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Gallbladder gangrene is necrosis of the gallbladder wall, caused by severe ischemia and infection, and is a serious complication that can lead to perforation.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "complications",
-        "gallbladder gangrene",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What complication can cause gallstone ileus due to stone migration?",
-      "options": [
-        "Perivesicular abscess",
-        "vesicular empyema",
-        "Cholecystoenteric fistula",
-        "Mirizzi syndrome"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Cholecystoenteric fistula is an abnormal communication between the gallbladder and the gastrointestinal tract, which can allow stones to migrate and, if it obstructs the small intestine, cause gallstone ileus.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "complications",
-        "ileo_biliary",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What condition can mimic cystic obstruction due to extrinsic compression?",
-      "options": [
-        "Asymptomatic cholelithiasis",
-        "Acute cholangitis",
-        "Mirizzi syndrome",
-        "Acute pancreatitis"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Mirizzi Syndrome occurs when an impacted stone in the cystic duct or Hartmann's pouch extrinsically compresses the common hepatic duct, causing biliary obstruction.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "complications",
-        "mirizzi_syndrome",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the annual incidence of acute cholecystitis in the United States?",
-      "options": [
-        "5 per 100,000",
-        "10 per 100,000",
-        "20 per 100,000",
-        "50 per 100,000"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The annual incidence of acute cholecystitis in the United States is approximately 20 cases per 100,000 inhabitants, making it a common cause of hospital admission.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "epidemiology",
-        "annual_incidence",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What hormonal risk factor is associated with a higher incidence in women?",
-      "options": [
-        "Testosterone",
-        "Progesterone",
-        "Estrogens",
-        "Insulin"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Women have a higher incidence of cholecystitis than men, with a ratio of 2:1 to 3:1, influenced by hormonal factors such as estrogens, which increase cholesterol saturation in the bile.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "epidemiology",
-        "gender_hormones",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What age group has a peak incidence of acute cholecystitis?",
-      "options": [
-        "Teenagers",
-        "Twenty",
-        "Sixth and seventh decades",
-        "ninth decade"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The incidence of acute cholecystitis increases with age, reaching a peak in the sixth and seventh decades of life, due to a higher prevalence of gallstones in older people.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "epidemiology",
-        "age_incidence",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the mortality of acute acalculous cholecystitis compared to calculous cholecystitis?",
-      "options": [
-        "Similar",
-        "Minor",
-        "Elderly",
-        "Negligible"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Acute acalculous cholecystitis has a significantly higher mortality (10-50%) than calculous cholecystitis (1-4%), because it affects more seriously ill patients with multiple comorbidities.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "epidemiology",
-        "alitasic_mortality",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the cardinal symptom of acute cholecystitis?",
-      "options": [
-        "Jaundice",
-        "Pain in right upper quadrant",
-        "Diarrhea",
-        "Headache"
+        "Observation without surgery",
+        "Early laparoscopic cholecystectomy",
+        "Antibiotics for 6 weeks",
+        "Percutaneous drainage of the gallbladder"
       ],
       "correctAnswer": 2,
-      "explanation": "The cardinal symptom of acute cholecystitis is constant and severe abdominal pain in the right upper quadrant (RSC) or epigastrium.",
+      "explanation": "In Grade I, early laparoscopic cholecystectomy is the gold standard. Drainage is reserved for patients at high surgical risk; prolonged antibiotics or observation are not the first line.",
       "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
-        "clinical_table",
-        "abdominal_pain",
-        "PATHOLOGY",
-        ""
+        "treatment",
+        "handling_grade_i",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
       ]
     },
     {
-      "question": "To which area does the pain of acute cholecystitis frequently radiate?",
+      "question": "What combination of criteria confirms the diagnosis of acute cholecystitis according to Tokyo?",
       "options": [
-        "left groin",
-        "left shoulder",
-        "Back (right scapula)",
-        "Periumbilical region"
+        "Fever and pain in the right upper quadrant",
+        "Positive image without clinic",
+        "Local + systemic signs + image",
+        "Only systemic signs and leukocytosis"
       ],
       "correctAnswer": 3,
-      "explanation": "The pain of acute cholecystitis frequently radiates to the back, especially the right scapula or right shoulder, known as referred pain via the phrenic nerve.",
+      "explanation": "Diagnosis requires at least a local inflammatory sign (Murphy, mass, pain), a systemic sign (fever, CRP, leukocytosis) and a characteristic imaging test. The isolated combination of fever or pain is not enough.",
       "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
-        "clinical_table",
-        "pain_irradiation",
-        "PATHOLOGY",
-        ""
+        "diagnosis",
+        "tokyo_criteria",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
       ]
     },
     {
-      "question": "What is the typical duration of pain in acute cholecystitis?",
+      "question": "What is the most specific clinical sign of acute cholecystitis?",
       "options": [
-        "less than 30 minutes",
-        "Between 1 and 6 hours",
-        "More than 6 hours",
-        "Intermittent for weeks"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Pain in acute cholecystitis is usually continuous and persistent, with a typical duration of more than 6 hours, often exceeding 24 hours, unlike biliary colic.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "clinical_table",
-        "pain_duration",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What does the presence of jaundice in acute cholecystitis suggest?",
-      "options": [
-        "retrocecal appendix",
-        "Concurrent choledocholithiasis",
-        "Pyelonephritis",
-        "Gastritis"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Jaundice is uncommon in acute uncomplicated cholecystitis. If present, it suggests the coexistence of choledocholithiasis (stone in the common bile duct), acute cholangitis or Mirizzi syndrome.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "clinical_table",
-        "associated_jaundice",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which sign is less reliable in the elderly or immunocompromised?",
-      "options": [
-        "abdominal pain",
-        "Fever",
+        "Gray Turner sign",
+        "Rovsing sign",
         "Murphy's sign",
-        "Nausea"
+        "Blumberg sign"
       ],
       "correctAnswer": 3,
-      "explanation": "Murphy's sign is the classic physical sign, but may be less reliable in elderly or immunocompromised patients, who often have an attenuated inflammatory response.",
+      "explanation": "Murphy's sign, characterized by interruption of inspiration during deep palpation of the right upper quadrant, is the most specific finding of acute cholecystitis, with a reported specificity greater than 80%.",
       "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
-        "diagnosis",
-        "murphy_sign_reliability",
-        "PATHOLOGY",
+        "clinical_table",
+        "murphy_sign",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed---Schwartz 11ed"
+      ]
+    },
+    {
+      "question": "In acute cholecystitis, the typical fever is usually:",
+      "options": [
+        "Intermittent with chills",
+        "High, greater than 39°C",
+        "Low, less than 38°C",
+        "Absent in elderly"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fever in acute cholecystitis is generally low or moderate, less than 38°C, although it may be absent in the elderly or immunocompromised, and high fever with chills suggests complications such as cholangitis or abscess.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_cholecystitis",
+        "clinical_table",
+        "fever",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Which finding on physical examination indicates severe peritoneal irritation?",
+      "question": "Which laboratory finding supports the diagnosis of acute cholecystitis?",
       "options": [
-        "Increased bowel sounds",
-        "Voluntary guarding",
-        "rebound pain",
-        "Non-painful palpable gallbladder"
+        "Leukocytosis with left shift",
+        "Severe thrombocytopenia",
+        "hemolytic anemia",
+        "Marked eosinophilia"
       ],
-      "correctAnswer": 3,
-      "explanation": "The presence of rebound pain (pain that worsens when the hand is withdrawn quickly after deep palpation) suggests localized or generalized peritonitis, indicating more advanced inflammation.",
+      "correctAnswer": 1,
+      "explanation": "Leukocytosis with left shift is a classic inflammatory marker in acute cholecystitis, reflecting the neutrophilic response to gallbladder inflammation; The other findings are not characteristic of this pathology.",
       "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
         "diagnosis",
-        "pain_rebound",
-        "PATHOLOGY",
+        "leukocytosis",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Which of the following is not a Tokyo diagnostic criterion (TG18)?",
+      "question": "What is the initial imaging study of choice in suspected acute cholecystitis?",
       "options": [
-        "Local signs of inflammation",
-        "Systemic signs of inflammation",
-        "Radiological findings",
-        "History of biliary colic"
+        "MRI of bile ducts",
+        "Abdominal CT scan",
+        "abdominal ultrasound",
+        "Endoscopic retrograde cholangiopancreatography"
       ],
-      "correctAnswer": 4,
-      "explanation": "The Tokyo diagnostic criteria (TG18) require local signs of inflammation, systemic signs of inflammation, and characteristic radiological findings. A history of biliary colic is a risk factor, not a diagnostic criterion.",
+      "correctAnswer": 3,
+      "explanation": "Abdominal ultrasound is the preferred initial modality due to its high sensitivity to detect stones, parietal thickening and ultrasound Murphy's sign, in addition to being accessible and without radiation; CT is complementary and ERCP is therapeutic.",
       "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
         "diagnosis",
-        "tokyo_criteria_tg18",
-        "PATHOLOGY",
+        "ultrasound",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "The definitive treatment of acute cholecystitis is:",
+      "options": [
+        "Laparoscopic cholecystectomy",
+        "low fat diet",
+        "Antibiotics for 14 days",
+        "Extracorporeal lithotripsy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Early laparoscopic cholecystectomy is the gold standard for acute cholecystitis, as it eliminates the source of infection and prevents recurrence; Antibiotics are adjuvant and lithotripsy is not indicated in acute cholecystitis.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "treatment",
+        "cholecystectomy",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018---SAGES"
+      ]
+    },
+    {
+      "question": "What is a serious complication of untreated acute cholecystitis?",
+      "options": [
+        "Acute kidney failure",
+        "Chronic pancreatitis",
+        "Gallbladder perforation",
+        "Aspiration pneumonia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Gallbladder perforation is a feared complication of acute cholecystitis, which can cause biliary peritonitis or abscess; therapeutic delay increases its incidence, so early surgery reduces morbidity and mortality.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_cholecystitis",
+        "complications",
+        "gallbladder_perforation",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "In acute cholecystitis, ultrasound Murphy's sign is defined as:",
+      "options": [
+        "Pain with the transducer in the right upper quadrant",
+        "Pain on palpation of epigastrium",
+        "Referred pain to the right shoulder",
+        "Pain in left lower quadrant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ultrasonographic Murphy's sign is the reproduction of maximum pain in the right upper quadrant when pressing with the transducer during the patient's deep inspiration, indicating gallbladder inflammation.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_cholecystitis",
+        "clinical_table",
+        "ultrasound_murphy_sign",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is the first-line imaging study for acute cholecystitis?",
+      "question": "What ultrasound finding typically accompanies positive Murphy's sign?",
       "options": [
-        "Hepatobiliary scan (HIDA)",
-        "Computed Tomography (CT)",
-        "Abdominal ultrasound (US)",
-        "MR cholangiopancreatography"
+        "Presence of gas in the biliary tree",
+        "Gallbladder wall thickening",
+        "Dilation of the intrahepatic bile duct",
+        "Increase in diameter of the port"
       ],
-      "correctAnswer": 3,
-      "explanation": "Abdominal ultrasound is the first-line imaging study due to its availability, low cost, and absence of radiation, with key findings such as gallstones and gallbladder wall thickening.",
+      "correctAnswer": 2,
+      "explanation": "In acute cholecystitis, ultrasound Murphy's sign is usually associated with wall thickening (>3 mm), perivesicular fluid, and stones, with thickening being a characteristic finding.",
       "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "diagnosis",
-        "initial_image_study",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which ultrasound finding is NOT characteristic of acute cholecystitis?",
-      "options": [
-        "Gallstones",
-        "Wall thickening >3 mm",
-        "Common bile duct dilation",
-        "Perivesicular fluid"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Dilation of the common bile duct suggests choledocholithiasis or cholangitis; it is not a primary characteristic finding of acute cholecystitis per se, although they may coexist.",
-      "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
         "diagnosis",
         "ultrasound_findings",
-        "PATHOLOGY",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is the gold standard if the ultrasound is inconclusive?",
+      "question": "In a patient with biliary pain and a positive ultrasound Murphy's sign, the initial approach is:",
       "options": [
-        "Simple abdominal x-ray",
-        "Hepatobiliary scan (HIDA)",
-        "Upper digestive endoscopy",
-        "MRI"
+        "Emergency laparoscopic surgery",
+        "Endoscopic retrograde cholangiopancreatography",
+        "Outpatient antibiotic therapy",
+        "Expectant management with analgesics"
       ],
-      "correctAnswer": 2,
-      "explanation": "Hepatobiliary scintigraphy (HIDA scan) is considered the gold standard if ultrasound is inconclusive, since non-visualization of the gallbladder indicates obstruction of the cystic duct.",
+      "correctAnswer": 1,
+      "explanation": "In acute cholecystitis with a positive Murphy sign, early laparoscopic cholecystectomy is the treatment of choice, especially in patients without high surgical risk.",
       "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "diagnosis",
-        "image_gold_standard",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What level of leukocytosis is a criterion for Grade II cholecystitis according to TG18?",
-      "options": [
-        "<10,000/mm³",
-        "10,000-14,000/mm³",
-        ">18,000/mm³",
-        "Any leukocytosis"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Grade II (moderate) cholecystitis is associated with an elevated white blood cell count (>18,000/mm³), indicating a more intense systemic inflammatory response.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "diagnosis",
-        "classification_tg18_grade2",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which condition does not classify cholecystitis as Grade II (moderate)?",
-      "options": [
-        "Palpable mass on CSD",
-        "Symptoms >72 hours",
-        "Marked local inflammation",
-        "Leukocytosis <10,000/mm³"
-      ],
-      "correctAnswer": 4,
-      "explanation": "A leukocytosis <10,000/mm³ is not a criterion for Grade II cholecystitis. Elevated white blood cell count (>18,000/mm³) is a criterion for Grade II.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "diagnosis",
-        "criteria_grade_ii",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the criterion of liver dysfunction for Grade III cholecystitis?",
-      "options": [
-        "AST > 50 U/L",
-        "ALT > 70 U/L",
-        "INR > 1.5",
-        "Total bilirubin > 1 mg/dL"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Liver dysfunction, manifested by coagulopathy with INR > 1.5, is one of the criteria for organ dysfunction that classifies cholecystitis as Grade III (severe).",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "diagnosis",
-        "grade_iii_criteria",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which pathology is NOT a differential diagnosis of acute cholecystitis?",
-      "options": [
-        "Acute pancreatitis",
-        "Acute pyelonephritis",
-        "inguinal hernia",
-        "Acute cholangitis"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Inguinal hernia is a pathology of the abdominal wall, its symptoms and location (generally groin) differentiate it from acute cholecystitis. The others are causes of upper abdominal pain.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "diagnosis",
-        "general_differential_diagnosis",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What symptom is key in the Charcot Triad for acute cholangitis?",
-      "options": [
-        "Hypotension",
-        "Fever",
-        "Leukocytosis",
-        "Diarrhea"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The Charcot Triad for acute cholangitis includes fever, right upper quadrant pain, and jaundice. Hypotension is part of the Reynolds Pentad.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "diagnosis",
-        "triad_charcot",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the recommended initial management for the patient with acute cholecystitis?",
-      "options": [
-        "free diet",
-        "Fluid therapy and analgesia",
-        "Oral antibiotics",
-        "Immediate surgical intervention"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Initial medical management includes bowel rest (NPO), intravenous fluid therapy to correct dehydration, and analgesia to control pain, before definitive intervention.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "treatment",
-        "initial_medical_management",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which NSAID analgesic is commonly used in acute cholecystitis?",
-      "options": [
-        "Ibuprofen",
-        "Paracetamol",
-        "Ketorolac",
-        "Naproxen"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Ketorolac 30 mg IV every 6 hours is an effective NSAID for moderate pain in acute cholecystitis, provided there are no contraindications, and has been shown to reduce inflammation.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "treatment",
-        "analgesia_aines",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What antibiotic combination is recommended for mild/moderate cholecystitis?",
-      "options": [
-        "Vancomycin and Gentamicin",
-        "Ceftriaxone and Metronidazole",
-        "Azithromycin and Doxycycline",
-        "Amoxicillin and Clavulanic Acid"
-      ],
-      "correctAnswer": 2,
-      "explanation": "For mild to moderate cholecystitis (Grade I-II), second or third generation cephalosporins such as Ceftriaxone are recommended, combined with Metronidazole to cover anaerobes.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "treatment",
-        "antibiotics_grade_i_ii",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What is the ideal time for early laparoscopic cholecystectomy?",
-      "options": [
-        "After 1 week",
-        "Within 24-72 hours",
-        "Only if there is no improvement",
-        "When the fever subsides"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Early laparoscopic cholecystectomy is the gold standard for Grade I and II acute cholecystitis, ideally performed within 24-72 hours of symptom onset.",
-      "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
         "treatment",
         "early_cholecystectomy",
-        "PATHOLOGY",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "For what type of patient is percutaneous cholecystostomy indicated?",
+      "question": "The ultrasound Murphy sign loses diagnostic usefulness in patients with:",
       "options": [
-        "Mild cholecystitis (Grade I)",
-        "Young and healthy patients",
-        "Severe cholecystitis (Grade III)",
-        "Only acalculous cholecystitis"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Percutaneous cholecystostomy is indicated for patients with Grade III (severe) acute cholecystitis or those at high surgical risk, for decompression and infection control.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "treatment",
-        "cholecystostomy_indications",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What medical order is given to prevent nausea and vomiting?",
-      "options": [
-        "Omeprazole IV",
-        "Metronidazole IV",
-        "Ondansetron IV",
-        "Ketorolac IV"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Ondansetron 4-8 mg IV every 8 hours PRN is an anti-emetic commonly used to control nausea and vomiting in patients with acute cholecystitis.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "treatment",
-        "antiemetics_orders",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What laboratory is requested to rule out acute pancreatitis?",
-      "options": [
-        "Liver function tests",
-        "complete blood count",
-        "Amylase and Lipase",
-        "C Reactive Protein"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Amylase and lipase are ordered on admission to rule out acute pancreatitis, as it can present with symptoms similar to acute cholecystitis.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "diagnosis",
-        "differential_laboratories",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What type of diet is initially recommended for acute cholecystitis?",
-      "options": [
-        "low fat diet",
-        "soft diet",
-        "Nothing by mouth (NPO)",
-        "High fiber diet"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The patient should be fasted (nothing by mouth, NPO) initially to reduce stimulation of the gallbladder and prevent nausea and vomiting.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "treatment",
-        "initial_diet",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What antibiotic is used for Grade III or high-risk cholecystitis?",
-      "options": [
-        "oral cephalexin",
-        "Doxycycline IV",
-        "Piperacillin/Tazobactam IV",
-        "oral erythromycin"
-      ],
-      "correctAnswer": 3,
-      "explanation": "For severe (Grade III) or high-risk cholecystitis, broad-spectrum antibiotics such as Piperacillin/Tazobactam, or Carbapenems, are required if resistance or sepsis is suspected.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "treatment",
-        "antibiotics_grade_iii",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "Which factor is NOT associated with the pathophysiology of acalculous cholecystitis?",
-      "options": [
-        "Prolonged bile stasis",
-        "wall ischemia",
-        "Biliary motor dysfunction",
-        "Impacted calculations"
+        "Asymptomatic cholelithiasis",
+        "Mild acute pancreatitis",
+        "Acalculous cholecystitis",
+        "Gallbladder perforation or peritonitis"
       ],
       "correctAnswer": 4,
-      "explanation": "Acalculous cholecystitis occurs without gallstones, so impacted stones are not part of its pathophysiology, which focuses on bile stasis, ischemia, and motor dysfunction.",
+      "explanation": "In case of perforation or peritonitis, the diffuse inflammatory response and generalized pain can mask the focus of Murphy's sign, reducing its diagnostic specificity.",
       "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "pathophysiology",
-        "alitasic_physiopathology",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What percentage of the Western adult population has cholelithiasis?",
-      "options": [
-        "1-3%",
-        "5-10%",
-        "10-15%",
-        "20-25%"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Cholelithiasis affects approximately 10-15% of the adult population in Western countries, being a common precursor to acute cholecystitis.",
-      "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "epidemiology",
-        "cholelithiasis_prevalence",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What happens with bowel sounds on physical examination for cholecystitis?",
-      "options": [
-        "Augmented",
-        "Normal",
-        "Decreased or absent",
-        "Intense borborygmi"
-      ],
-      "correctAnswer": 3,
-      "explanation": "On physical examination, bowel sounds are usually decreased or absent, which is consistent with peritoneal irritation and systemic inflammatory response in acute cholecystitis.",
-      "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
         "diagnosis",
-        "physical_examination_noises",
-        "PATHOLOGY",
+        "limitations_sign",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What bilirubin level suggests concurrent choledocholithiasis?",
+      "question": "In acute cholecystitis, the ultrasound Murphy sign has an approximate sensitivity of:",
       "options": [
-        "Mild elevations",
-        "More than 2-3 mg/dL",
-        "Any elevation",
-        "normal bilirubin"
+        "50-60%",
+        "95-99%",
+        "65-75%",
+        "80-90%"
       ],
-      "correctAnswer": 2,
-      "explanation": "A significant elevation of bilirubin (>2-3 mg/dL) or ALP may suggest concurrent choledocholithiasis or cholangitis, requiring further evaluation of the bile ducts.",
+      "correctAnswer": 4,
+      "explanation": "The ultrasound Murphy sign has a sensitivity of 80-90% for acute cholecystitis, with variable specificity; It is one of the Tokyo diagnostic criteria.",
       "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
         "diagnosis",
-        "bilirubin_laboratories",
-        "PATHOLOGY",
+        "sign_sensitivity",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What sign could be the only clue in acalculous cholecystitis in critically ill patients?",
+      "question": "Which of the following ultrasound findings supports the diagnosis of acute cholecystitis along with Murphy's sign?",
       "options": [
-        "Marked jaundice",
-        "intense pain",
-        "Unexplained fever",
-        "Obvious palpable mass"
+        "Perivesicular fluid",
+        "Tumor in head of pancreas",
+        "Air in the portal vein",
+        "Large volume ascites"
       ],
-      "correctAnswer": 3,
-      "explanation": "In critically ill patients with acalculous cholecystitis, unexplained fever and deterioration of the patient's general condition may be the only clues due to attenuated symptoms.",
+      "correctAnswer": 1,
+      "explanation": "The presence of perivesicular fluid, together with wall thickening and a positive Murphy's sign, constitutes a classic ultrasound triad that supports the diagnosis of acute cholecystitis.",
       "hashtags": [
-        "gastroenterology",
-        "acute_cholecystitis",
-        "clinical_table",
-        "alitasic_presentation",
-        "PATHOLOGY",
-        ""
-      ]
-    },
-    {
-      "question": "What condition is not considered in the Grade III classification according to TG18?",
-      "options": [
-        "Severe hypotension",
-        "Alteration of consciousness",
-        "Duration of symptoms >72h",
-        "Creatinine >2.0 mg/dL"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Duration of symptoms >72 hours is a criterion for Grade II (moderate) cholecystitis, while Grade III is defined by organ dysfunction, such as hypotension, impaired consciousness, or renal failure.",
-      "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
         "diagnosis",
-        "classification_tg18_grade3",
-        "PATHOLOGY",
+        "ultrasound_criteria",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What is the central pathophysiology of acalculous cholecystitis?",
+      "question": "What is the minimum ultrasound value of gallbladder mural thickening to suggest acute cholecystitis?",
       "options": [
-        "Impact of calculations",
-        "Biliary stasis and ischemia",
-        "viral infection",
-        "autoimmune reaction"
+        "2mm",
+        "4mm",
+        "5mm",
+        "3mm"
       ],
       "correctAnswer": 2,
-      "explanation": "In acalculous cholecystitis, prolonged biliary stasis (due to TPN, fasting), ischemia of the gallbladder wall (due to shock, sepsis) and biliary motor dysfunction play a central role in the pathophysiology.",
+      "explanation": "Thickening of the gallbladder wall greater than 4 mm is a major ultrasound criterion for the diagnosis of acute cholecystitis, along with distention and the presence of perivesicular fluid.",
       "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
         "acute_cholecystitis",
-        "pathophysiology",
-        "alitasic_mechanisms",
-        "PATHOLOGY",
+        "diagnosis",
+        "engrosamiento_mural",
+        "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "Which complication is described as a collection of pus within the gallbladder?",
+      "question": "¿Qué hallazgo ecográfico adicional apoya el diagnóstico de colecistitis aguda cuando hay engrosamiento mural >4 mm?",
       "options": [
-        "Vesicular hydrops",
-        "vesicular empyema",
-        "Mucocele",
-        "Cholelithiasis"
+        "Aire en la pared vesicular",
+        "Cálculo en el cístico",
+        "Dilatación de vía biliar",
+        "Signo de Murphy ecográfico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El signo de Murphy ecográfico (dolor a la compresión del transductor sobre la vesícula) es un criterio mayor junto al engrosamiento mural >4 mm para el diagnóstico de colecistitis aguda.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "diagnostico",
+        "murphy_sign",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "What condition can cause gallbladder mural thickening without acute cholecystitis?",
+      "options": [
+        "Chronic pancreatitis",
+        "Hepatitis aguda",
+        "Insuficiencia renal",
+        "Ascites"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Acute hepatitis can produce edema of the gallbladder wall, simulating mural thickening >4 mm, but without the local inflammatory signs of acute cholecystitis.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_cholecystitis",
+        "diagnostico",
+        "diagnostico_diferencial",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In the context of acute cholecystitis, which imaging technique has the greatest sensitivity for detecting mural thickening >4 mm?",
+      "options": [
+        "Abdominal x-ray",
+        "abdominal ultrasonography",
+        "Retrograde cholangiopancreatography",
+        "CT scan"
       ],
       "correctAnswer": 2,
-      "explanation": "Gallbladder empyema is the accumulation of pus within the gallbladder, indicating a severe infection and is a potential complication of acute cholecystitis.",
+      "explanation": "Abdominal ultrasonography is the initial modality of choice due to its high sensitivity to detect wall thickening, lithiasis and Murphy's sign, being the standard in clinical practice.",
       "hashtags": [
-        "gastroenterology",
+        "internal_medicine",
+        "acute_cholecystitis",
+        "diagnosis",
+        "ultrasound",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the definitive management recommended in acute cholecystitis with mural thickening >4 mm and severity criteria?",
+      "options": [
+        "Outpatient antibiotics",
+        "Elective percutaneous drainage",
+        "Observation and ultrasound control",
+        "Laparoscopic cholecystectomy"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Early laparoscopic cholecystectomy is the treatment of choice in acute cholecystitis, even with mural thickening, when the patient is a surgical candidate, reducing complications.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_cholecystitis",
+        "treatment",
+        "cholecystectomy",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which complication is most frequently associated with acute cholecystitis with marked mural thickening and necrosis?",
+      "options": [
+        "Gallstone ileus",
+        "Ascending cholangitis",
+        "Gallbladder perforation",
+        "Cholecystoenteric fistula"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Severe acute cholecystitis with transmural necrosis can progress to gallbladder perforation, a complication that occurs more frequently in patients with severe wall thickening and signs of ischemia.",
+      "hashtags": [
+        "internal_medicine",
         "acute_cholecystitis",
         "complications",
-        "vesicular_empyema",
-        "PATHOLOGY",
+        "gallbladder_perforation",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "What inflammatory mediators are released during acute cholecystitis?",
+      "question": "What is the most common cause of acute cholecystitis?",
       "options": [
-        "Serotonin and Dopamine",
-        "Histamine and Bradykinin",
-        "Prostaglandins and Cytokines",
-        "Acetylcholine and GABA"
+        "Cholecystolithiasis",
+        "Gallbladder neoplasia",
+        "arterial ischemia",
+        "Bacterial infection"
       ],
-      "correctAnswer": 3,
-      "explanation": "During chemical inflammation, inflammatory mediators such as prostaglandins (PGE2, PGF2) and cytokines (interleukins, TNF-alpha) are released, which promote inflammation.",
+      "correctAnswer": 1,
+      "explanation": "Acute cholecystitis is associated with cholelithiasis in approximately 90% of cases, where a stone obstructs the cystic duct, triggering inflammation.",
       "hashtags": [
-        "gastroenterology",
+        "general_surgery",
+        "acute_cholecystitis",
+        "etiology",
+        "cholecystolithiasis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What percentage of acute cholecystitis is related to gallstones?",
+      "options": [
+        "90%",
+        "30%",
+        "50%",
+        "70%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gallstones are present in approximately 90% of patients with acute cholecystitis, being the predominant cause of this entity.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "epidemiology",
+        "stone_prevalence",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What pathophysiological mechanism initiates acute stone cholecystitis?",
+      "options": [
+        "Increased bile salts",
+        "Spontaneous vesicular perforation",
+        "Pancreatic juice reflux",
+        "Obstruction of the cystic duct"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Obstruction of the cystic duct by a stone produces bile stasis, increased intravesicular pressure and mucosal ischemia, triggering acute inflammation.",
+      "hashtags": [
+        "general_surgery",
         "acute_cholecystitis",
         "pathophysiology",
-        "inflammatory_mediators",
-        "PATHOLOGY",
+        "cystic_obstruction",
+        "MEDICAL_TOPIC",
         ""
       ]
     },
     {
-      "question": "Which disease is characterized by pleuritic pain in CSD with cough and fever?",
+      "question": "What is the cardinal symptom of acute stone cholecystitis?",
       "options": [
-        "Acute hepatitis",
-        "Right pyelonephritis",
-        "Right lower lobe pneumonia",
-        "Acute gastritis"
+        "Oppressive substernal pain",
+        "Pain in left iliac fossa",
+        "Radiating lower back pain",
+        "Pain in right hypochondrium"
       ],
-      "correctAnswer": 3,
-      "explanation": "Right lower lobe pneumonia or pleuritis can cause pleuritic pain in the right upper quadrant that worsens with inspiration, along with cough and fever, mimicking cholecystitis.",
+      "correctAnswer": 4,
+      "explanation": "Pain in the right upper quadrant, frequently radiating to the scapula, is the main symptom of acute cholecystitis, exacerbated by gallbladder inflammation.",
       "hashtags": [
-        "gastroenterology",
+        "general_surgery",
+        "acute_cholecystitis",
+        "clinical_table",
+        "pain_hypochondrium_right",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which ultrasound finding is most suggestive of acute stone cholecystitis?",
+      "options": [
+        "Gallbladder wall thickening",
+        "Intrahepatic bile duct dilation",
+        "Cystic image in pancreas",
+        "Presence of gas in the gallbladder"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gallbladder wall thickening (>4 mm) together with stones and ultrasound Murphy's sign are the key findings that confirm acute stone cholecystitis.",
+      "hashtags": [
+        "general_surgery",
         "acute_cholecystitis",
         "diagnosis",
-        "pulmonary_differential_diagnosis",
-        "PATHOLOGY",
+        "gallbladder_ultrasound",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the definitive treatment for acute stone cholecystitis?",
+      "options": [
+        "Outpatient antibiotic therapy",
+        "Extracorporeal lithotripsy",
+        "Laparoscopic cholecystectomy",
+        "Retrograde cholangiopancreatography"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Early laparoscopic cholecystectomy is the gold standard for acute stone cholecystitis, eliminating the source of inflammation and preventing recurrences.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "treatment",
+        "laparoscopic_cholecystectomy",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most common cause of cystic duct obstruction in acute cholecystitis?",
+      "options": [
+        "Impacted calculation",
+        "roundworm parasite",
+        "Biliary stricture",
+        "Gallbladder tumor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Acute cholecystitis almost always occurs due to obstruction of the cystic duct by an impacted stone, which generates inflammation and distention of the gallbladder. Other causes are less common and do not represent the typical mechanism.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_cholecystitis",
+        "etiology",
+        "cystic_obstruction",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In acute cholecystitis, elevation of alkaline phosphatase and bilirubin suggests:",
+      "options": [
+        "Acute viral hepatitis",
+        "Gallbladder perforation",
+        "Associated choledocholithiasis",
+        "Acute pancreatitis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Elevation of alkaline phosphatase and bilirubin in acute cholecystitis indicates obstruction of the common bile duct, generally due to a common bile duct. This is associated with cholangitis or obstructive jaundice, differentiating it from other complications.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_cholecystitis",
+        "clinical_table",
+        "extrahepatic_cholestasis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which laboratory finding is most characteristic of acute cholecystitis?",
+      "options": [
+        "Leukocytosis with deviation",
+        "Severe thrombocytopenia",
+        "Marked hypoglycemia",
+        "Severe hypercalcemia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Acute cholecystitis presents with leukocytosis and neutrophilia as an inflammatory response. The other parameters are not typically altered in this pathology and are not part of the usual diagnostic criteria.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_cholecystitis",
+        "diagnosis",
+        "laboratory",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the definitive treatment of acute cholecystitis?",
+      "options": [
+        "Percutaneous drainage",
+        "Oral antibiotics",
+        "Laparoscopic cholecystectomy",
+        "exploratory laparotomy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Laparoscopic cholecystectomy is the definitive treatment for acute cholecystitis, as it eliminates the diseased gallbladder and the cause of the obstruction. Antibiotics are adjuvant and drainage is reserved for high-risk patients.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_cholecystitis",
+        "treatment",
+        "cholecystectomy",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What clinical sign is classic of acute cholecystitis?",
+      "options": [
+        "McBurney sign",
+        "Murphy's sign",
+        "Gray Turner sign",
+        "Cullen sign"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Murphy's sign, which is the interruption of inspiration due to pain on palpation in the right upper quadrant, is classic of acute cholecystitis. The other signs are associated with pancreatitis or appendicitis.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_cholecystitis",
+        "clinical_table",
+        "murphy_sign",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "In acute cholecystitis, what severity criterion indicates probable cholangitis?",
+      "options": [
+        "Radiating pain",
+        "intense vomiting",
+        "Abdominal distension",
+        "Fever and choluria"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The presence of fever, jaundice and choluria in the context of cholecystitis suggests ascending cholangitis, since obstruction and infection of the bile duct produces these symptoms. The other data is nonspecific.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_cholecystitis",
+        "complications",
+        "cholangitis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most important risk factor for postsurgical acalculous cholecystitis?",
+      "options": [
+        "Total parenteral nutrition",
+        "Advanced age of the patient",
+        "History of gallstones",
+        "Previous abdominal surgery"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total parenteral nutrition is a critical risk factor because it induces bile stasis and bile sludge formation, favoring acalculous cholecystitis in post-surgical patients.",
+      "hashtags": [
+        "internal_medicine",
+        "post-surgical_alithiatic_cholecystitis",
+        "etiology",
+        "risk_factors",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Which imaging finding is most suggestive of acalculous cholecystitis?",
+      "options": [
+        "Presence of intramural gas",
+        "Bile duct dilation",
+        "Murphy positive ultrasound",
+        "Diffuse mural thickening"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Diffuse mural thickening without stones, along with other signs such as distention and biliary sludge, is characteristic of acalculous cholecystitis; Positive Murphy is nonspecific and intramural gas indicates emphysematous.",
+      "hashtags": [
+        "internal_medicine",
+        "post-surgical_alithiatic_cholecystitis",
+        "diagnosis",
+        "ultrasound",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the first-line treatment in postsurgical acalculous cholecystitis?",
+      "options": [
+        "Percutaneous cholecystostomy",
+        "Laparoscopic cholecystectomy",
+        "Intravenous antibiotic therapy",
+        "Retrograde cholangiopancreatography"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Percutaneous cholecystostomy is the preferred initial treatment in critically ill post-surgical patients, as it allows drainage of the gallbladder with less morbidity than surgery in an unstable patient.",
+      "hashtags": [
+        "internal_medicine",
+        "post-surgical_alithiatic_cholecystitis",
+        "treatment",
+        "percutaneous_drainage",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What complication is most common in untreated acalculous cholecystitis?",
+      "options": [
+        "Acute pancreatitis",
+        "obstructive jaundice",
+        "Ascending cholangitis",
+        "Gallbladder perforation"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Acalculous cholecystitis progresses rapidly to gangrene and gallbladder perforation due to wall ischemia, with high mortality if timely intervention is not performed.",
+      "hashtags": [
+        "medicina_interna",
+        "post-surgical_alithiatic_cholecystitis",
+        "complications",
+        "perforacion_vesicular",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "What pathophysiological mechanism predominates in acalculous cholecystitis?",
+      "options": [
+        "Reflujo de jugo pancreático",
+        "Gallbladder wall ischemia",
+        "Obstrucción por cálculo impactado",
+        "Mucosal hyperplasia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ischemia of the gallbladder wall due to hypoperfusion, bile stasis and activation of inflammatory mediators is the central mechanism, unlike stone cholecystitis where stone obstruction is key.",
+      "hashtags": [
+        "internal_medicine",
+        "post-surgical_alithiatic_cholecystitis",
+        "pathophysiology",
+        "mural_ischemia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What germ is most frequently isolated in postoperative acalculous cholecystitis?",
+      "options": [
+        "Enterococcus faecalis",
+        "Escherichia coli",
+        "Pseudomonas aeruginosa",
+        "Klebsiella pneumoniae"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Escherichia coli is the most common microorganism in biliary infections, including acalculous cholecystitis, due to its enteric origin and ability to ascend through the bile duct.",
+      "hashtags": [
+        "internal_medicine",
+        "post-surgical_alithiatic_cholecystitis",
+        "microbiology",
+        "etiological_agents",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the most recommended initial broad-spectrum antibiotic in severe acute cholecystitis?",
+      "options": [
+        "Ciprofloxacin",
+        "Piperacillin-tazobactam",
+        "Ceftriaxone",
+        "Metronidazole"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In severe acute cholecystitis, initial empiric therapy should cover Enterobacteriaceae, anaerobes, and possible Enterococcus; piperacillin-tazobactam offers that broad-spectrum coverage. Ceftriaxone lacks anaerobic activity, ciprofloxacin does not cover anaerobes, and metronidazole only covers anaerobes.",
+      "hashtags": [
+        "internal_medicine",
+        "acute_cholecystitis",
+        "treatment",
+        "initial_antibiotic",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018---IDSA 2017"
+      ]
+    },
+    {
+      "question": "What etiological agent requires adding empirical antifungal coverage in severe acute cholecystitis?",
+      "options": [
+        "Candida spp.",
+        "Enterococcus faecalis",
+        "Escherichia coli",
+        "Klebsiella pneumoniae"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Candida spp. It is isolated in complicated cholecystitis, especially in post-surgical patients or patients with prolonged stays; Therefore, in severe cases, empirical antifungal is recommended. The other bacteria are covered by common antibiotics and do not require antifungal.",
+      "hashtags": [
+        "microbiology",
+        "acute_cholecystitis",
+        "patogenia",
+        "candida_empirica",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Cuál es la duración recomendada de antibióticos en colecistitis aguda tras colecistectomía sin complicaciones?",
+      "options": [
+        "5 days",
+        "7 days",
+        "24 horas",
+        "72 hours"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tras colecistectomía por colecistitis aguda no complicada, la antibioticoterapia se suspende a las 24 horas si se logró control del foco. Solo en casos complicados (perforación, absceso) se extiende a 4-7 días.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "tratamiento",
+        "duracion_antibiotico",
+        "TEMA_MEDICO",
+        "IDSA 2017---SIS 2017"
+      ]
+    },
+    {
+      "question": "¿Qué factor NO indica necesidad de antibiótico de amplio espectro inicial en colecistitis aguda?",
+      "options": [
+        "Signos de peritonitis",
+        "Elevación de amilasa",
+        "Comorbilidad inmunosupresora",
+        "Edad mayor de 70 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La elevación de amilasa sugiere pancreatitis biliar, pero no es criterio de gravedad para ampliar espectro antibiótico; los otros factores (edad, peritonitis, inmunosupresión) sí indican terapia empírica amplia.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "cuadro_clinico",
+        "criterios_gravedad",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento antibiótico empírico inicial en colecistitis aguda leve en paciente alérgico a penicilina?",
+      "options": [
+        "Ampicilina-sulbactam",
+        "Ceftriaxona + metronidazol",
+        "Ertapenem",
+        "Ciprofloxacino + metronidazol"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In penicillin allergy, ceftriaxone (cephalosporin) plus metronidazole is used to cover anaerobes; ampicillin-sulbactam and ertapenem are contraindicated due to allergy to beta-lactams, and ciprofloxacin+metronidazole is an alternative but less effective.",
+      "hashtags": [
+        "pharmacology",
+        "acute_cholecystitis",
+        "indicaciones",
+        "alergia_penicilina",
+        "TEMA_MEDICO",
+        "IDSA 2017---Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "Which initial broad-spectrum antibiotic is preferred in acute cholecystitis with risk of ESBL-producing bacteria?",
+      "options": [
+        "Ertapenem",
+        "Ceftazidime",
+        "Amikacin",
+        "Cefepime"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When ESBL is suspected, carbapenems such as ertapenem are the option of choice due to their stability against beta-lactamases. Ceftazidime, cefepime and amikacin do not offer reliable coverage against ESBL.",
+      "hashtags": [
+        "internal_medicine",
+        "colecistitis_aguda",
+        "treatment",
+        "blee_carbapenem",
+        "MEDICAL_TOPIC",
+        "IDSA 2017---Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "What is the main benefit of early laparoscopic cholecystectomy in acute cholecystitis?",
+      "options": [
+        "Lower complication rate",
+        "Reduces conversion to open",
+        "Avoid cholangiopancreatography",
+        "Reduces hospital stay"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Early laparoscopic cholecystectomy within 72 hours reduces overall hospital stay and costs, without increasing morbidity or conversion, compared with deferred management.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "treatment",
+        "early_cholecystectomy",
+        "MEDICAL_TOPIC",
+        "SAGES 2020---Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "Which finding contraindicates early laparoscopic cholecystectomy in acute cholecystitis?",
+      "options": [
+        "Multiple cholelithiasis",
+        "Suspected gangrene",
+        "Biliary peritonitis",
+        "High body mass index"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Biliary peritonitis suggests perforation or abscess, which requires deferring surgery and initially managing it with drainage and antibiotics, being a relative contraindication for the early laparoscopic approach.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "contraindications",
+        "biliary_peritonitis",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "What is the maximum recommended time to perform early cholecystectomy?",
+      "options": [
+        "12 hours from admission",
+        "24 hours from admission",
+        "72 hours from start",
+        "7 days from start"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Early laparoscopic cholecystectomy is defined as being performed within 72 hours from the onset of symptoms or admission, since later the surgical difficulty increases due to local inflammation and fibrosis.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "treatment",
+        "therapeutic_window",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018---SAGES 2020"
+      ]
+    },
+    {
+      "question": "What complication is associated with delaying cholecystectomy in acute cholecystitis?",
+      "options": [
+        "Increase in biliary fistula",
+        "Increased risk of choledocholithiasis",
+        "Increased bleeding",
+        "Higher open conversion rate"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Delaying surgery beyond 72 hours increases inflammation and fibrosis, increasing the rate of conversion to open surgery and intraoperative complications, so early intervention is preferred.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "complications",
+        "open_conversion",
+        "MEDICAL_TOPIC",
+        "Cochrane 2013---Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "What is the diagnostic gold standard for acute cholecystitis before early surgery?",
+      "options": [
+        "CT scan",
+        "Cholangiopancreatography",
+        "abdominal ultrasound",
+        "Cholangioresonance"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Abdominal ultrasound is the first line of diagnosis due to its high sensitivity to detect stones, gallbladder wall thickening >4 mm and ultrasound Murphy's sign, essential for deciding early cholecystectomy.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "diagnosis",
+        "ultrasound",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "What severity criterion prevents early cholecystectomy?",
+      "options": [
+        "Hydropic vesicle",
+        "Fever of 38.5°C",
+        "Leukocytosis of 15,000",
+        "Organic dysfunction"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Organ dysfunction defines severe acute cholecystitis (grade III) according to Tokyo, where immediate surgery is contraindicated; Stabilization and percutaneous drainage are preferred before delayed cholecystectomy.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "severity_classification",
+        "grade_iii",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "What is the main criterion for classifying acute cholecystitis as grade I on the Tokyo scale?",
+      "options": [
+        "Absence of organic dysfunction",
+        "Presence of perivesicular abscess",
+        "Established multi-organ failure",
+        "Mild organic dysfunction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Grade I acute cholecystitis is defined as mild, in patients without organ dysfunction and with localized inflammatory changes in the gallbladder, which allows initial conservative treatment.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "cuadro_clinico",
+        "escala_tokio_grado_i",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo clínico caracteriza el grado II (moderado) de colecistitis aguda según Tokio?",
+      "options": [
+        "Fiebre mayor de 39°C",
+        "obstructive jaundice",
+        "Disfunción orgánica",
+        "Negative Murphy sign"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El grado II implica colecistitis aguda asociada a signos inflamatorios locales marcados como tumor doloroso palpable, masa, absceso o gangrena, sin disfunción orgánica; la fiebre no es criterio distintivo.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "cuadro_clinico",
+        "escala_tokio_grado_ii",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "What is the diagnostic criterion for grade III acute cholecystitis according to the Tokyo scale?",
+      "options": [
+        "Ascending cholangitis",
+        "Gallbladder perforation",
+        "Organic dysfunction",
+        "Cardiovascular dysfunction"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Grade III is defined by the presence of organic dysfunction, which can be cardiovascular, neurological, respiratory, renal, hepatic or hematological; This indicates severe cholecystitis requiring intensive support.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "complications",
+        "tokyo_scale_grade_iii",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "On the Tokyo scale, which local finding indicates grade II cholecystitis?",
+      "options": [
+        "Acute pancreatitis",
+        "Perivesicular abscess",
+        "Murphy ultrasound",
+        "common bile duct dilation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The presence of perivesicular abscess, gangrene or local perforation are local inflammatory signs that elevate cholecystitis to grade II; Murphy's sign is part of the initial diagnosis, not severity.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "diagnosis",
+        "local_findings",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "What organ dysfunction is considered a criterion for grade III cholecystitis?",
+      "options": [
+        "All of the above",
+        "Respiratory dysfunction",
+        "Kidney dysfunction",
+        "Liver dysfunction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tokyo grade III includes organic dysfunction in any system: cardiovascular, neurological, respiratory, renal, hepatic or hematological; therefore, all options are correct.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "complications",
+        "organic_dysfunction",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "What is the recommended initial management for grade I acute cholecystitis?",
+      "options": [
+        "Urgent laparoscopic cholecystectomy",
+        "Observation without antibiotics",
+        "Antibiotics and delayed surgery",
+        "Immediate percutaneous drainage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In mild cholecystitis (grade I), early laparoscopic cholecystectomy is the standard treatment; Deferred surgery is reserved when there is a delay or high surgical risk, but it is not the first line.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "treatment",
+        "handling_grade_i",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "What is the main indication for percutaneous drainage in acute cholecystitis?",
+      "options": [
+        "Patient with high surgical risk",
+        "Patient with mild cholecystitis",
+        "Patient with obstructive jaundice",
+        "Patient with low anesthetic risk"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Percutaneous drainage is reserved for patients with acute cholecystitis who are high-risk candidates for cholecystectomy, such as those with severe comorbidities or ASA III-IV, allowing surgery to be deferred.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "tratamiento",
+        "drenaje_percutaneo",
+        "TEMA_MEDICO",
+        "SAGES 2022---Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo de imagen contraindica el drenaje percutáneo como primera opción?",
+      "options": [
+        "Colelitiasis múltiple asintomática",
+        "Perforación de la vesícula biliar",
+        "Absceso perihepático drenable",
+        "Engrosamiento difuso de la pared"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La presencia de un absceso perihepático drenable puede requerir drenaje percutáneo del absceso, pero no contraindica el procedimiento; la perforación con peritonitis difusa es indicación de cirugía de urgencia.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "diagnostico",
+        "imagen_vesicular",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Cuál es la vía de acceso más común para el drenaje percutáneo de la vesícula?",
+      "options": [
+        "Transgástrico endoscópico",
+        "Transperitoneal directo",
+        "Transhepático transperitoneal",
+        "Transvaginal guiado por eco"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El acceso transhepático transperitoneal es el más utilizado porque fija la vesícula al lecho hepático, reduciendo el riesgo de fuga biliar y permitiendo un trayecto seguro guiado por ultrasonido o tomografía.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "tratamiento",
+        "tecnica_procedimiento",
+        "TEMA_MEDICO",
+        "SIR Guidelines 2019"
+      ]
+    },
+    {
+      "question": "What complication is most frequently associated with percutaneous drainage?",
+      "options": [
+        "Intraperitoneal bile leak",
+        "Insertion site infection",
+        "Perforación intestinal",
+        "Upper gastrointestinal bleeding"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La fuga biliar intraperitoneal es una complicación reconocida del drenaje percutáneo, especialmente si el catéter se desplaza o si hay obstrucción distal; otras complicaciones incluyen hemorragia, pero la fuga es la más característica.",
+      "hashtags": [
+        "cirugia_general",
+        "acute_cholecystitis",
+        "complications",
+        "bile_leak",
+        "MEDICAL_TOPIC",
+        "Radiographics 2016---SIR 2019"
+      ]
+    },
+    {
+      "question": "What is the recommended initial management in a high-risk patient with acute cholecystitis and sepsis?",
+      "options": [
+        "Antibióticos y drenaje percutáneo",
+        "Extracorporeal wave lithotripsy",
+        "Only analgesia and observation",
+        "Urgent laparoscopic cholecystectomy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In high-risk patients with sepsis due to acute cholecystitis, initial management combines broad-spectrum antibiotics and percutaneous drainage of the gallbladder to control the septic focus, deferring cholecystectomy until the patient improves.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "treatment",
+        "sepsis_management",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018---SIS Guidelines"
+      ]
+    },
+    {
+      "question": "Which patient is the optimal candidate for percutaneous drainage as a bridge to surgery?",
+      "options": [
+        "Pregnant woman in first trimester",
+        "Patient with uncorrected coagulopathy",
+        "Elderly man with severe heart failure",
+        "Young man with uncomplicated cholecystitis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Percutaneous drainage is indicated as a bridge in elderly patients with severe comorbidities such as heart failure, who do not tolerate general anesthesia; uncorrected coagulopathy is a relative contraindication, and other cases are usually resolved with surgery.",
+      "hashtags": [
+        "general_surgery",
+        "acute_cholecystitis",
+        "indications",
+        "surgical_patient",
+        "MEDICAL_TOPIC",
+        "Tokyo Guidelines 2018---SAGES 2022"
+      ]
+    },
+    {
+      "question": "What is the most serious complication of acute cholecystitis that requires urgent surgery?",
+      "options": [
+        "Biliary colic",
+        "Gallbladder perforation",
+        "Acute pancreatitis",
+        "obstructive jaundice"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gallbladder perforation is the most serious complication of acute cholecystitis, as it can cause biliary peritonitis and perivesicular abscess, requiring emergency cholecystectomy.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "complicaciones",
+        "perforacion_vesicular",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo tomográfico es más sugestivo de absceso perivesicular?",
+      "options": [
+        "Adjacent liquid collection",
+        "Engrosamiento mural difuso",
+        "Aire en la vesícula",
+        "Dilatación de vía biliar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A fluid collection adjacent to the gallbladder on CT is characteristic of perivesicular abscess, a complication of acute perforated cholecystitis.",
+      "hashtags": [
+        "imagenologia",
+        "acute_cholecystitis",
+        "diagnosis",
+        "abdominal_tomography",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the initial management of a small perivesicular abscess?",
+      "options": [
+        "Retrograde cholangiopancreatography",
+        "Immediate laparoscopic cholecystectomy",
+        "Antibiotics and percutaneous drainage",
+        "Observation and oral analgesia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In small perivesicular abscesses, initial treatment includes broad-spectrum antibiotics and image-guided percutaneous drainage, deferring surgery until the infection is resolved.",
+      "hashtags": [
+        "general_surgery",
+        "perivesicular_abscess",
+        "treatment",
+        "percutaneous_drainage",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What bacteria is most frequently isolated in perivesicular abscesses?",
+      "options": [
+        "Escherichia coli",
+        "Streptococcus pyogenes",
+        "Staphylococcus aureus",
+        "Pseudomonas aeruginosa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Escherichia coli is the most common microorganism in biliary infections and perivesicular abscesses, due to the ascending enteric flora that colonizes the inflamed gallbladder.",
+      "hashtags": [
+        "microbiology",
+        "perivesicular_abscess",
+        "etiology",
+        "biliary_flora",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What clinical sign suggests gallbladder perforation in acute cholecystitis?",
+      "options": [
+        "Generalized abdominal pain",
+        "Pain in right hypochondrium",
+        "Low grade fever",
+        "mild jaundice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gallbladder perforation produces biliary peritonitis, manifesting as generalized abdominal pain with signs of peritoneal irritation, unlike the initial localized pain of cholecystitis.",
+      "hashtags": [
+        "general_surgery",
+        "gallbladder_perforation",
+        "clinical_table",
+        "biliary_peritonitis",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "What is the imaging study of choice to confirm perivesicular abscess?",
+      "options": [
+        "Peroperative cholangiography",
+        "Abdominal x-ray",
+        "CT scan",
+        "Endoscopic ultrasound"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Computed tomography is the most sensitive and specific study to detect perivesicular abscesses, showing fluid collections with peripheral enhancement adjacent to the gallbladder.",
+      "hashtags": [
+        "imaging",
+        "perivesicular_abscess",
+        "diagnosis",
+        "computed_tomography",
+        "MEDICAL_TOPIC",
         ""
       ]
     }

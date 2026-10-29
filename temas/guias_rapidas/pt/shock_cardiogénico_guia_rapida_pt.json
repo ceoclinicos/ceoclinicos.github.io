@@ -1,0 +1,77 @@
+{
+  "id": "choque_cardiogênico",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Definição e critérios hemodinâmicos",
+      "title": "Critérios hemodinâmicos para choque cardiogênico",
+      "contentHtml": "<h2>Definição e critérios</h2><ul><li><b>Choque cardiogênico</b> é um estado de <b>hipoperfusão tecidual</b> devido a <b>débito cardíaco insuficiente</b> apesar de <b>volume intravascular adequado</b>.</li><li>Critérios clássicos (ensaios SHOCK): <b>pressão arterial sistólica &lt;90 mmHg</b> por ≥30 minutos ou necessidade de <b>vasopressores</b> para mantê-lo, com <b>frequência cardíaca &lt;2,2 L/min/m²</b> e <b>pressão de cunha pulmonar &gt;15 mmHg</b>.</li><li>Definição atual (SCAI 2019): estágios A–E; o choque estabelecido corresponde ao <b>estágio C</b> (hipoperfusão que requer intervenção) e ao <b>estágio D</b> (refratário).</li><li>A <b>pressão arterial média</b> não faz parte dos critérios diagnósticos, mas é um objetivo terapêutico.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Causas mais frequentes: IAM",
+      "title": "Infarto agudo do miocárdio como principal causa",
+      "contentHtml": "<h2>Infarto agudo do miocárdio (IAM)</h2><ul><li>A causa mais comum é o <b>infarto agudo do miocárdio</b> (IAM), especialmente com <b>elevação do segmento ST</b> (STEMI) anterior.</li><li>Disfunção ventricular esquerda aguda devido à perda de miocárdio >40% do ventrículo esquerdo geralmente precipita choque.</li><li>Complicações mecânicas do IAM (ruptura da parede livre, ruptura do septo interventricular, regurgitação mitral aguda devido à ruptura do músculo papilar) são causas secundárias que requerem cirurgia urgente.</li><li>O diagnóstico é confirmado com <b>eletrocardiograma</b> (elevação do segmento ST) e <b>biomarcadores</b> (troponina elevada).</li><li>A <b>reperfusão</b> precoce é a base do tratamento (ver foco específico).</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Diferença com choque obstrutivo",
+      "title": "Choque cardiogênico vs obstrutivo",
+      "contentHtml": "<h2>Principais diferenças</h2><ul><li>No <b>choque cardiogênico</b>, o problema é a <b>falha da bomba</b> (diminuição da contratilidade ou enchimento devido a causa cardíaca intrínseca).</li><li>No <b>choque obstrutivo</b> há uma obstrução mecânica ao fluxo sanguíneo, com <b>baixo débito cardíaco</b>, mas função miocárdica intrinsecamente normal.</li><li>Causas de obstrução: <b>pulmão maciça tromboembolismo</b>, <b>tamponamento cardíaco</b>, <b>pneumotórax hipertensivo</b>, <b>estenose aórtica crítica</b>.</li><li>A ecocardiografia</b> é essencial: na hipocinesia cardiogênica, difusa ou segmentar é observada; Na obstrutiva observa-se derrame pericárdico, sinais de sobrecarga direita ou hipertrofia ventricular esquerda com gradiente aórtico. </li><li>O tratamento da obstrutiva é específico (pericardiocentese, trombólise, etc.), não inotrópico como primeira linha. </li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Sinais de hipoperfusão tecidual",
+      "title": "Reconhecer hipoperfusão",
+      "contentHtml": "<h2>Sinais clínicos e laboratoriais</h2><ul><li>Hiperfusão cutânea: <b>pele fria, pálida, suada</b>, com <b>reenchimento capilar &gt;3 segundos</b>.</li><li>Estado mental alterado: <b>confusão, agitação</b> ou <b>sonolência</b>.</li><li>Oligúria: <b>diurese &lt;0,5 mL/kg/hora</b> por pelo menos 2 horas.</li><li>Laboratório: <b>lactato sérico elevado</b> (&gt;2 mmol/L), <b>deficiência de base negativa</b> na gasometria, <b>aumento da creatinina</b>, <b>transaminases elevadas</b> devido à congestão hepática.</li><li>A presença de <b>hipoperfusão</b> distingue choque de choque <b>hipotensão isolada</b>.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Pressão arterial média alvo",
+      "title": "Meta de pressão arterial média",
+      "contentHtml": "<h2>Pressão arterial média alvo (PAM)</h2><ul><li>Objetivo inicial <b>pressão arterial média (PAM)</b> ≥<b>65 mmHg</b> na maioria dos pacientes com choque cardiogênico.</li><li>Em pacientes com <b>hipertensão arterial crônica</b> ou <b>estenose aórtica</b>, uma PAM mais alta (70–75) pode ser necessária. mmHg) para manter a perfusão coronária e cerebral.</li><li>A PAM é calculada como: <b>PAM = (pressão arterial sistólica + 2 × pressão arterial diastólica) / 3</b>.</li><li>A monitorização invasiva com <b>cateter arterial</b> é preferida para ajuste contínuo.</li><li>A PAM alvo deve ser ajustada de acordo com os marcadores de perfusão (lactato, débito urinário, estado mental).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Uso de inotrópicos: norepinefrina",
+      "title": "Norepinefrina e outros agentes",
+      "contentHtml": "<h2>Inotrópicos e vasopressores</h2><ul><li><b>A norepinefrina</b> é o <b>vasopressor de primeira linha</b> no choque cardiogênico, em doses de <b>0,05–0,5 µg/kg/min</b>, devido ao seu perfil alfa e beta.</li><li>A dobutamina</b> (inotrópica) é adicionada se houver <b>baixo débito cardíaco</b> com pressão arterial adequada ou como um adjuvante da norepinefrina; dose <b>2,5–10 µg/kg/min</b>.</li><li>A epinefrina é reservada para casos refratários ou parada cardíaca, não como primeira linha.</li><li>Levosimendan</b> (sensibilizador de cálcio) é uma alternativa em pacientes com <b>betabloqueadores</b> ou <b>disfunção diastólica</b>.</li><li>Evite <b>norepinefrina</b> em altas doses sem inotrópico se houver <b>débito cardíaco muito baixo</b> para não aumentar excessivamente a pós-carga.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Bomba de balão intra-aórtico",
+      "title": "Bomba de balão intra-aórtico (BIA)",
+      "contentHtml": "<h2>Bomba de balão intra-aórtico (BIA)</h2><ul><li>A <b>bomba de balão intra-aórtico (BIA)</b> é um dispositivo percutâneo que é colocado na <b>aorta descendente</b> e infla na <b>diástole</b>, aumentando a <b>pressão diastólica coronariana</b> e a perfusão miocárdica.</li><li>Ele desinfla. na <b>sístole</b>, reduzindo a <b>pós-carga</b> e o trabalho ventricular.</li><li>Indicado em choque cardiogênico devido a <b>infarto agudo do miocárdio</b> com complicações mecânicas (regurgitação mitral, defeito do septo ventricular) ou como ponte para revascularização.</li><li>Não foi demonstrado que reduza a mortalidade no estudo IABP-SHOCK II como uso de rotina; Seu uso é seletivo.</li><li><b>Contra-indicações</b>: <b>insuficiência aórtica moderada/grave</b>, <b>dissecção aórtica</b>, <b>doença vascular periférica grave</b>, <b>coagulopatia</b>.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Dispositivos de assistência ventricular",
+      "title": "assistência ventricular mecânica",
+      "contentHtml": "<h2>Dispositivos de suporte circulatório</h2><ul><li><b>Dispositivos de assistência ventricular</b> (VAD) são usados em choque cardiogênico refratário a medicamentos e balão.</li><li><b>Impella</b> (bomba axial percutânea) fornece fluxo de até <b>5 L/min</b> (Impella 5.0), descarregando o ventrículo esquerdo e melhorando a perfusão coronária.</li><li><b>Membrana extracorpórea oxigenação (ECMO)</b> Venoarterial (VA-ECMO) oferece suporte cardiopulmonar completo; é considerado em prisão ou choque muito grave.</li><li>A escolha depende da <b>disponibilidade</b>, <b>causa</b> e <b>prognóstico neurológico</b>.</li><li>Complicações: <b>hemólise</b>, <b>trombose</b>, <b>sangramento</b>, <b>infecção</b>.</li><li>O <b>transplante de coração</b> ou <b>ventrículo artificial</b> são opções de longo prazo.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Contra-indicação para estenose aórtica crítica",
+      "title": "Estenose aórtica crítica: contra-indicações",
+      "contentHtml": "<h2>Estenose aórtica crítica</h2><ul><li>A estenose aórtica crítica</b> (área valvular &lt;1,0 cm²) é uma <b>contra-indicação relativa</b> ao uso de <b>bomba de balão intra-aórtico (BIA)</b> porque a redução da pós-carga não traz nenhum benefício e pode causar hipotensão grave.</li><li>Também contra-indica o uso de <b>Impella</b> (o cateter não pode cruzar a válvula estenótica sem risco de dano).</li><li>No choque cardiogênico devido à <b>estenose aórtica</b> (por exemplo, após falha na substituição da válvula), o tratamento é <b>cirúrgico</b> ou <b>valvoplastia aórtica percutânea</b> urgente.</li><li>Os <b>vasodilatadores</b> (nitroprussiato) são contraindicados porque diminuem a pressão de perfusão coronária. </li><li><b>A norepinefrina</b> pode ser usada para manter a pressão arterial média, mas não corrige o obstáculo.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Tratamento de reperfusão precoce",
+      "title": "Reperfusão precoce no IAM",
+      "contentHtml": "<h2>Reperfusão precoce</h2><ul><li>No choque cardiogênico causado por <b>infarto agudo do miocárdio</b> (IAM), a <b>reperfusão precoce</b> é o tratamento mais importante, com <b>intervenção coronária percutânea (ICP)</b> primária nas primeiras <b>2 horas</b> do diagnóstico, se possível.</li><li>O estudo SHOCK demonstrou que a revascularização precoce (ICP ou cirurgia) reduz a mortalidade em 6 meses em comparação com o tratamento médico inicial. </li><li>A fibrinólise</b> é contraindicada no choque cardiogênico se não houver acesso à ICP imediata; A ICP é preferida.</li><li>Se a ICP não for viável, uma <b>cirurgia de revascularização</b> urgente é considerada.</li><li>O suporte circulatório com <b>bomba de balão intra-aórtico</b> ou <b>Impella</b> pode ser iniciado antes da ICP se houver instabilidade extrema.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Líquidos: restrição e monitoramento",
+      "title": "Gestão e monitoramento de líquidos",
+      "contentHtml": "<h2>Fluidos no choque cardiogênico</h2><ul><li>A maioria dos pacientes apresenta <b>congestão pulmonar</b> e <b>pressão pulmonar elevada</b>; portanto, a administração de líquidos deve ser restrita e diuréticos (furosemida intravenosa) devem ser usados ​​se houver sobrecarga. Bolus de cristaloides (250–500 mL) só são administrados se houver sinais de hipovolemia (pressão venosa central baixa, resposta de volume prévia). A artéria pulmonar</b> pode orientar o enchimento, mas não melhora a sobrevida no uso rotineiro. </li><li>A <b>ecocardiografia</b> seriada é preferida para avaliar o <b>volume intravascular</b> e a <b>contratilidade</b>.</li><li>O objetivo é manter a <b>pressão arterial média ≥65 mmHg</b> com a menor quantidade de volume possível.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Prognóstico: alta mortalidade",
+      "title": "Prognóstico e mortalidade",
+      "contentHtml": "<h2>Prognóstico</h2><ul><li>A mortalidade por <b>choque cardiogênico</b> permanece <b>alta</b>, entre <b>40-50%</b> em 30 dias em ensaios recentes.</li><li>A mortalidade é maior se houver <b>parada cardíaca</b> prévia, <b>lactato >10 mmol/L</b>, <b>disfunção renal</b> ou <b>idade </li><li>A avaliação com a <b>escala SCAI</b> (estágio E) prevê mortalidade de quase 100% sem suporte avançado. </li></ul>"
+    }
+  ]
+}

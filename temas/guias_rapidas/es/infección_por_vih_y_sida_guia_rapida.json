@@ -1,0 +1,77 @@
+{
+  "id": "infección_por_vih_y_sida",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Carga viral y CD4 para clasificar y monitorizar",
+      "title": "Carga viral y CD4: clasificación y monitorización",
+      "contentHtml": "<h2>Carga viral y CD4: clasificación y monitorización</h2><ul><li><b>Carga viral (CV)</b>: ARN del VIH en plasma; <b>&gt;100.000 copias/mL</b> se asocia a progresión rápida; <b>&lt;50 copias/mL</b> = supresión virológica.</li><li><b>CD4</b>: recuento absoluto; <b>&lt;200 células/µL</b> define SIDA; <b>&lt;50 células/µL</b> riesgo de infecciones oportunistas graves.</li><li>Monitorización: CV a las <b>4-8 semanas</b> de inicio de TARV, luego cada <b>3-6 meses</b>; CD4 cada <b>3-6 meses</b> hasta estabilidad.</li><li>Fallo virológico: CV <b>&gt;200 copias/mL</b> confirmada a las <b>24 semanas</b> o rebrote tras supresión.</li><li>Trampa: CD4 puede descender transitoriamente por infección intercurrente; no cambia clasificación sin confirmación.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Profilaxis con TMP-SMX si CD4 menor de 200",
+      "title": "Profilaxis con trimetoprima-sulfametoxazol",
+      "contentHtml": "<h2>Profilaxis con trimetoprima-sulfametoxazol</h2><ul><li>Indicación: <b>CD4 &lt;200 células/µL</b> o candidiasis oral; iniciar <b>trimetoprima-sulfametoxazol</b> (TMP-SMX) <b>160/800 mg</b> una vez al día.</li><li>Cubre <b>Pneumocystis jirovecii</b>, <b>Toxoplasma gondii</b> (si CD4 &lt;100 y serología IgG positiva) y algunas bacterias.</li><li>Suspender si CD4 <b>&gt;200 células/µL</b> durante <b>&gt;3 meses</b> con CV suprimida.</li><li>Alternativa en alergia: <b>dapsona</b> 100 mg/día o <b>atovacuona</b> 1500 mg/día.</li><li>Trampa: no suspender profilaxis si CD4 sube pero CV no suprimida.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Infección aguda por VIH: síndrome mononucleósico y serología negativa",
+      "title": "Infección aguda por VIH",
+      "contentHtml": "<h2>Infección aguda por VIH</h2><ul><li>Cuadro <b>2-4 semanas</b> postexposición: fiebre, faringitis, adenopatías, rash maculopapular, mialgias, úlceras orales/genitales.</li><li>Diagnóstico diferencial: mononucleosis por <b>virus Epstein-Barr</b>, <b>citomegalovirus</b>, sífilis secundaria, influenza.</li><li>Serología convencional puede ser <b>negativa</b> (ventana); usar <b>carga viral de VIH</b> o <b>ELISA cuarta generación</b> (detecta antígeno p24).</li><li>CV elevada y CD4 transitoriamente bajo; alta infectividad.</li><li>Trampa: no descartar VIH agudo por ELISA negativo en fase temprana.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Diagnóstico: ELISA cuarta generación y confirmación con Western blot",
+      "title": "Diagnóstico serológico de VIH",
+      "contentHtml": "<h2>Diagnóstico serológico de VIH</h2><ul><li>Cribado: <b>ELISA cuarta generación</b> (antígeno p24 + anticuerpos anti-VIH-1/2); sensibilidad &gt;99%.</li><li>Confirmación: <b>Western blot</b> o <b>inmunofluorescencia indirecta</b>; patrón de bandas (gp160, gp120, p24).</li><li>Algoritmo actual: ELISA 4ª generación reactivo → prueba confirmatoria; si indeterminado → <b>carga viral de VIH</b>.</li><li>Falso negativo: ventana inmunológica (<b>&lt;4 semanas</b>), inmunosupresión grave, <b>agammaglobulinemia</b>.</li><li>Trampa: <b>Western blot</b> positivo no cuantifica; la <b>carga viral de VIH</b> monitoriza.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Cribado universal de VIH en embarazo y prueba rápida",
+      "title": "Cribado de VIH en el embarazo",
+      "contentHtml": "<h2>Cribado de VIH en el embarazo</h2><ul><li>Cribado universal en <b>primer trimestre</b> con <b>ELISA cuarta generación</b>; repetir en <b>tercer trimestre</b> si riesgo.</li><li><b>Prueba rápida</b> en trabajo de parto si no cribado previo; resultado en <b>&lt;30 minutos</b>.</li><li>Si prueba rápida positiva: iniciar <b>profilaxis antirretroviral</b> intraparto sin esperar confirmación.</li><li>Confirmar con <b>Western blot</b> o <b>carga viral de VIH</b> posparto.</li><li>Trampa: no retrasar profilaxis perinatal por esperar confirmación serológica.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Transmisión vertical y profilaxis antirretroviral perinatal",
+      "title": "Transmisión vertical y profilaxis perinatal",
+      "contentHtml": "<h2>Transmisión vertical y profilaxis perinatal</h2><ul><li>Riesgo sin intervención: <b>15-30%</b>; con <b>TARV</b>, cesárea electiva si CV &gt;1000 y lactancia artificial: <b>&lt;1%</b>.</li><li>Madre con VIH: <b>TARV</b> desde el embarazo; <b>zidovudina</b> intravenosa intraparto si CV &gt;1000 o desconocida.</li><li>Recién nacido: <b>zidovudina</b> 4 semanas; si alto riesgo, <b>zidovudina + nevirapina</b> o triple terapia.</li><li>Contraindicado: lactancia materna (transmisión por leche).</li><li>Trampa: cesárea electiva a las <b>38 semanas</b> si CV &gt;1000; no si CV suprimida.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Riesgo de transmisión por exposición sexual y profilaxis postexposición",
+      "title": "Riesgo sexual y profilaxis postexposición",
+      "contentHtml": "<h2>Riesgo sexual y profilaxis postexposición</h2><ul><li>Riesgo por acto: receptivo anal <b>1,4%</b>; receptivo vaginal <b>0,08%</b>; insertivo <b>0,04%</b>; oral bajo.</li><li><b>Profilaxis postexposición</b> (PEP): iniciar <b>&lt;72 horas</b>, idealmente <b>&lt;2 horas</b>; duración <b>28 días</b>.</li><li>Pauta: <b>tenofovir/emtricitabina + dolutegravir</b> o <b>raltegravir</b>.</li><li>Indicación: exposición sexual de riesgo, pinchazo, violencia sexual.</li><li>Trampa: PEP no indicada tras exposición establecida &gt;72 h; monitorizar serología a las <b>4-6 semanas</b> y <b>3-6 meses</b>.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Infecciones oportunistas: PCP, toxoplasmosis y MAC por CD4",
+      "title": "Infecciones oportunistas según CD4",
+      "contentHtml": "<h2>Infecciones oportunistas según CD4</h2><ul><li><b>CD4 &lt;200</b>: <b>Pneumocystis jirovecii</b> (PCP) → disnea, hipoxemia, LDH elevada; <b>trimetoprima-sulfametoxazol</b>.</li><li><b>CD4 &lt;100</b>: <b>Toxoplasma gondii</b> → encefalitis, lesiones en anillo en TC; <b>pirimetamina + sulfadiazina + ácido folínico</b>.</li><li><b>CD4 &lt;50</b>: <b>Mycobacterium avium complex</b> (MAC) → fiebre, adenopatías; <b>azitromicina</b> profilaxis.</li><li>Profilaxis con <b>trimetoprima-sulfametoxazol</b> cubre PCP y toxoplasmosis.</li><li>Trampa: MAC no requiere aislamiento; PCP con <b>trimetoprima-sulfametoxazol</b> es primera línea.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Tuberculosis en VIH: cribado y tratamiento simultáneo",
+      "title": "Tuberculosis y VIH",
+      "contentHtml": "<h2>Tuberculosis y VIH</h2><ul><li>Cribado anual con <b>prueba de tuberculina</b> o <b>IGRA</b>; si positivo y no enfermedad activa → <b>isoniazida</b> 9 meses.</li><li>Enfermedad activa: <b>RIPE</b> (rifampicina, isoniazida, pirazinamida, etambutol) 2 meses + rifampicina/isoniazida 4 meses.</li><li>Iniciar <b>TARV</b> en <b>&lt;2 semanas</b> si CD4 &lt;50; a las <b>2-8 semanas</b> si CD4 &gt;50.</li><li>Interacción: rifampicina induce CYP450; ajustar <b>dolutegravir</b> a <b>50 mg cada 12 h</b>.</li><li>Trampa: no usar <b>rifampicina</b> con inhibidores de proteasa sin ajuste.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Síndrome de reconstitución inmune tras inicio de TARV",
+      "title": "Síndrome de reconstitución inmune",
+      "contentHtml": "<h2>Síndrome de reconstitución inmune</h2><ul><li>Cuadro <b>2-12 semanas</b> tras inicio de <b>TARV</b>: fiebre, adenopatías, empeoramiento de lesiones oportunistas.</li><li>Fisiopatología: recuperación de CD4 contra antígenos residuales.</li><li>Factores de riesgo: CD4 <b>&lt;50</b>, CV alta, infección oportunista previa.</li><li>Manejo: continuar <b>TARV</b>; tratar infección oportunista; <b>corticoides</b> si grave (ej. PCP hipoxémico).</li><li>Trampa: no suspender <b>TARV</b>; diferenciar de fracaso terapéutico o nueva infección.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "TARV de primera línea: TDF/FTC más dolutegravir",
+      "title": "TARV de primera línea",
+      "contentHtml": "<h2>TARV de primera línea</h2><ul><li>Pauta preferida: <b>tenofovir/emtricitabina</b> (TDF/FTC) + <b>dolutegravir</b> 50 mg/día.</li><li>Alternativa: <b>tenofovir/emtricitabina</b> + <b>bictegravir</b> o <b>raltegravir</b>.</li><li>Inicio en todos los pacientes con VIH, independientemente de CD4.</li><li>Contraindicaciones: <b>tenofovir</b> en enfermedad renal (TFG &lt;60) → usar <b>abacavir</b> si HLA-B*5701 negativo.</li><li>Trampa: <b>dolutegravir</b> no requiere ajuste renal; evitar con cationes (aluminio, magnesio).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "VIH y sífilis: coinfección y pruebas treponémicas",
+      "title": "Coinfección VIH y sífilis",
+      "contentHtml": "<h2>Coinfección VIH y sífilis</h2><ul><li>Cribado: <b>RPR</b> o <b>VDRL</b> (no treponémicas); confirmar con <b>FTA-ABS</b> o <b>TPHA</b> (treponémicas).</li><li>En VIH: sífilis puede ser más agresiva, con neurosífilis temprana; considerar <b>líquido cefalorraquídeo</b> si síntomas neurológicos.</li><li>Tratamiento: <b>penicilina benzatínica</b> 2,4 millones UI IM; neurosífilis: <b>penicilina G intravenosa</b> 14 días.</li><li>Falso negativo de <b>RPR</b> en VIH por fenómeno de prozona; diluir muestra.</li><li>Trampa: <b>FTA-ABS</b> permanece positivo de por vida; no indica curación.</li></ul>"
+    }
+  ]
+}

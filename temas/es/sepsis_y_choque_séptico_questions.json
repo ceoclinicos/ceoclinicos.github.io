@@ -1,0 +1,1372 @@
+{
+  "questions": [
+    {
+      "question": "Según la definición Sepsis-3, ¿qué criterio establece la disfunción orgánica en la sepsis?",
+      "options": [
+        "SOFA ≥2 puntos",
+        "SIRS ≥2 criterios",
+        "Lactato >2 mmol/L",
+        "qSOFA ≥2 puntos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La definición Sepsis-3 establece que la sepsis es una disfunción orgánica potencialmente mortal causada por una respuesta desregulada del huésped a la infección. La disfunción orgánica se identifica por un aumento agudo en la puntuación SOFA de 2 o más puntos. qSOFA es una herramienta de cribado, no un criterio diagnóstico. SIRS ya no se usa para definir sepsis. El lactato es un marcador de hipoperfusión, pero no define la disfunción orgánica por sí solo.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "criterios_sofa",
+        "PATOLOGIA",
+        "Sepsis-3 JAMA 2016"
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes variables forma parte del cálculo de la puntuación SOFA?",
+      "options": [
+        "Presión arterial media",
+        "Frecuencia respiratoria",
+        "Diuresis horaria",
+        "Recuento de plaquetas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La puntuación SOFA evalúa seis sistemas orgánicos: respiratorio (PaO2/FiO2), coagulación (plaquetas), hepático (bilirrubina), cardiovascular (presión arterial media y uso de vasopresores), sistema nervioso central (escala de coma de Glasgow) y renal (creatinina o diuresis). La presión arterial media es parte del componente cardiovascular. El recuento de plaquetas también forma parte, pero la pregunta se refiere a una variable que se incluye directamente en el cálculo; sin embargo, la opción correcta es la presión arterial media porque es una de las variables del SOFA. Las otras opciones no son variables directas del SOFA.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "sofa_presion_arterial",
+        "PATOLOGIA",
+        "Sepsis-3 JAMA 2016"
+      ]
+    },
+    {
+      "question": "En un paciente con sospecha de infección, ¿qué cambio en la puntuación SOFA indica disfunción orgánica según Sepsis-3?",
+      "options": [
+        "Aumento crónico ≥2 puntos",
+        "Aumento agudo ≥2 puntos",
+        "Aumento agudo ≥1 punto",
+        "Puntuación total ≥4 puntos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La definición Sepsis-3 requiere un aumento agudo en la puntuación SOFA de al menos 2 puntos para identificar disfunción orgánica en un paciente con infección. No se requiere una puntuación total específica, sino el cambio agudo. Un aumento de 1 punto no es suficiente. La cronicidad no aplica, ya que la disfunción debe ser aguda. La puntuación total ≥4 no es el criterio, sino el delta de 2 puntos.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "delta_sofa",
+        "PATOLOGIA",
+        "Sepsis-3 JAMA 2016"
+      ]
+    },
+    {
+      "question": "¿Cuál es el papel de la puntuación qSOFA en la definición Sepsis-3?",
+      "options": [
+        "Criterio diagnóstico de sepsis",
+        "Marcador de hipoperfusión tisular",
+        "Criterio de disfunción orgánica",
+        "Herramienta de cribado clínico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La qSOFA (quick SOFA) es una herramienta de cribado bedside para identificar pacientes con sospecha de infección que tienen mayor riesgo de mal resultado. No forma parte de la definición de sepsis ni sustituye al SOFA para diagnosticar disfunción orgánica. La definición Sepsis-3 utiliza el SOFA para diagnosticar sepsis. qSOFA incluye alteración del estado mental, frecuencia respiratoria ≥22/min y presión arterial sistólica ≤100 mmHg. No es un marcador de hipoperfusión.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "qsofa_cribado",
+        "PATOLOGIA",
+        "Sepsis-3 JAMA 2016"
+      ]
+    },
+    {
+      "question": "¿Qué componente del SOFA evalúa la función renal?",
+      "options": [
+        "Cistatina C sérica",
+        "Nitrógeno ureico en sangre",
+        "Depuración de creatinina",
+        "Creatinina sérica o diuresis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La puntuación SOFA evalúa la función renal mediante la creatinina sérica o la diuresis. El nitrógeno ureico en sangre no se utiliza en el SOFA. La cistatina C y la depuración de creatinina no forman parte de la puntuación. La diuresis y la creatinina son las variables especificadas en el SOFA renal.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "sofa_renal",
+        "PATOLOGIA",
+        "Sepsis-3 JAMA 2016"
+      ]
+    },
+    {
+      "question": "Según Sepsis-3, ¿qué diferencia al choque séptico de la sepsis?",
+      "options": [
+        "Presencia de hipotensión arterial",
+        "Necesidad de vasopresores y lactato elevado",
+        "Disfunción orgánica con SOFA ≥2",
+        "Taquicardia y fiebre persistente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El choque séptico se define como sepsis con hipoperfusión tisular que requiere vasopresores para mantener una presión arterial media ≥65 mmHg y con lactato sérico >2 mmol/L a pesar de una adecuada reanimación con líquidos. La sepsis se define por disfunción orgánica (SOFA ≥2). La hipotensión arterial sola no define el choque séptico. La taquicardia y fiebre no son criterios específicos.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "choque_septico_criterios",
+        "PATOLOGIA",
+        "Sepsis-3 JAMA 2016"
+      ]
+    },
+    {
+      "question": "En un paciente con choque séptico, ¿cuál es la primera línea de vasopresor para alcanzar una PAM ≥65 mmHg?",
+      "options": [
+        "Dopamina a dosis altas",
+        "Noradrenalina",
+        "Vasopresina",
+        "Adrenalina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La noradrenalina es el vasopresor de primera elección en el choque séptico para lograr una presión arterial media ≥65 mmHg, ya que su perfil de efectos adversos es más favorable que el de la dopamina y mejora la supervivencia.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_séptico",
+        "tratamiento",
+        "noradrenalina_primera_linea",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es el objetivo de presión arterial media (PAM) recomendado inicialmente en el choque séptico?",
+      "options": [
+        "PAM ≥55 mmHg",
+        "PAM ≥60 mmHg",
+        "PAM ≥75 mmHg",
+        "PAM ≥65 mmHg"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las guías internacionales recomiendan un objetivo inicial de PAM ≥65 mmHg en el choque séptico, ya que valores inferiores se asocian a mayor disfunción orgánica y valores superiores no han demostrado beneficio adicional.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_séptico",
+        "tratamiento",
+        "objetivo_pam",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "Si la noradrenalina no logra alcanzar la PAM objetivo, ¿qué vasopresor se recomienda añadir como segundo fármaco?",
+      "options": [
+        "Vasopresina",
+        "Dopamina",
+        "Fenilefrina",
+        "Adrenalina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La vasopresina se recomienda como segundo vasopresor para reducir la dosis de noradrenalina o alcanzar la PAM objetivo, ya que su mecanismo de acción independiente de los receptores adrenérgicos puede ser útil en la vasoplejía refractaria.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_séptico",
+        "tratamiento",
+        "vasopresina_segunda_linea",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Qué efecto adverso se asocia clásicamente al uso de dopamina en el choque séptico en comparación con noradrenalina?",
+      "options": [
+        "Mayor riesgo de hipocalcemia",
+        "Mayor riesgo de trombosis",
+        "Mayor riesgo de arritmias",
+        "Mayor riesgo de hiperglucemia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La dopamina se asocia con un mayor riesgo de arritmias cardíacas en comparación con la noradrenalina, lo que ha llevado a recomendarla solo en pacientes muy seleccionados con bradicardia y bajo riesgo de arritmias.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_séptico",
+        "tratamiento",
+        "dopamina_arritmias",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es el vasopresor de elección en el choque séptico cuando el paciente presenta bradicardia refractaria?",
+      "options": [
+        "Fenilefrina",
+        "Vasopresina",
+        "Dopamina",
+        "Noradrenalina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La dopamina puede considerarse en pacientes con bradicardia refractaria o alto riesgo de bradicardia, ya que su efecto cronotrópico positivo puede contrarrestar la bradicardia, aunque su uso es limitado por el mayor riesgo de arritmias.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_séptico",
+        "tratamiento",
+        "dopamina_bradicardia",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es la vía de administración preferida para la noradrenalina en el choque séptico?",
+      "options": [
+        "Intravenosa central",
+        "Intravenosa periférica",
+        "Subcutánea",
+        "Intramuscular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La noradrenalina se administra preferentemente por vía intravenosa central para evitar la extravasación y la necrosis tisular; sin embargo, puede iniciarse por vía periférica de forma temporal mientras se obtiene el acceso central.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_séptico",
+        "tratamiento",
+        "noradrenalina_via_administracion",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "En un paciente con sospecha de sepsis, ¿qué valor de lactato inicial se asocia con mayor mortalidad y justifica una reanimación agresiva inmediata?",
+      "options": [
+        "Lactato inicial entre 2 y 3 mmol/L",
+        "Lactato inicial menor de 1 mmol/L",
+        "Lactato inicial mayor de 4 mmol/L",
+        "Lactato inicial entre 1 y 2 mmol/L"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Un lactato inicial mayor de 4 mmol/L se asocia con alta mortalidad y es un criterio de gravedad que obliga a reanimación agresiva y monitorización estrecha, según las guías de sepsis.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "lactato_inicial",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal valor pronóstico de la depuración de lactato en las primeras 6 horas en el choque séptico?",
+      "options": [
+        "La depuración mayor del 30% se asocia a menor mortalidad",
+        "La depuración mayor del 10% indica buen pronóstico",
+        "La depuración menor del 50% no tiene valor pronóstico",
+        "La depuración mayor del 60% predice fracaso renal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una depuración de lactato superior al 30% en las primeras 6 horas se correlaciona con menor mortalidad y mejor perfusión tisular, siendo un objetivo terapéutico en la sepsis.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "concepto",
+        "depuracion_lactato",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "En la fisiopatología del choque séptico, ¿qué mecanismo explica mejor la hiperlactatemia persistente a pesar de una adecuada reanimación con fluidos?",
+      "options": [
+        "Disfunción mitocondrial y hipoperfusión microcirculatoria",
+        "Aumento del aclaramiento hepático de lactato",
+        "Inhibición de la glucólisis anaerobia",
+        "Alcalosis metabólica compensadora"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hiperlactatemia persistente en sepsis se debe a disfunción mitocondrial y alteraciones de la microcirculación que impiden la utilización aerobia de oxígeno, incluso tras restaurar la hemodinámica macro.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "fisiopatologia",
+        "hiperlactatemia",
+        "PATOLOGIA",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Qué parámetro de laboratorio, junto con el lactato inicial, se utiliza para calcular el índice de depuración de lactato en el choque séptico?",
+      "options": [
+        "Lactato a las 6 horas",
+        "Lactato a las 2 horas",
+        "Lactato a las 12 horas",
+        "Lactato a las 24 horas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La depuración de lactato se calcula habitualmente con el lactato inicial y el de control a las 6 horas, ya que este intervalo refleja la respuesta metabólica a la reanimación inicial.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "lactato_6_horas",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes factores puede elevar falsamente el lactato inicial en un paciente séptico y confundir su interpretación pronóstica?",
+      "options": [
+        "Administración de bicarbonato",
+        "Hipotermia leve",
+        "Uso de metformina",
+        "Hiperglucemia moderada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La metformina puede producir acidosis láctica por disfunción mitocondrial, elevando el lactato sin relación directa con la hipoperfusión séptica, lo que confunde el pronóstico.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "falsos_positivos_lactato",
+        "PATOLOGIA",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "En un paciente con choque séptico y lactato inicial de 6 mmol/L, ¿qué objetivo de depuración de lactato en las primeras 6 horas se considera indicador de buena respuesta terapéutica?",
+      "options": [
+        "Reducción al menos del 50%",
+        "Reducción al menos del 20%",
+        "Reducción al menos del 30%",
+        "Reducción al menos del 10%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Una reducción de al menos el 30% en las primeras 6 horas se asocia con mejor pronóstico; sin embargo, reducciones mayores del 50% indican una respuesta especialmente favorable.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "tratamiento",
+        "objetivo_depuracion",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "En un paciente con sospecha de sepsis y choque séptico, ¿cuál es el momento recomendado para obtener hemocultivos?",
+      "options": [
+        "Después de la primera dosis antibiótica",
+        "Antes de iniciar antibióticos",
+        "Únicamente en pacientes inmunodeprimidos",
+        "Solo si hay fiebre persistente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La obtención de hemocultivos antes de administrar antibióticos es fundamental para maximizar la rentabilidad diagnóstica, ya que la antibioticoterapia previa reduce la sensibilidad del cultivo. Sin embargo, esto no debe retrasar el inicio del tratamiento antimicrobiano.",
+      "hashtags": [
+        "infectologia",
+        "sepsis_y_choque_septico",
+        "diagnostico",
+        "hemocultivos_previos_a_antibioticos",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal razón para no retrasar el inicio de antibióticos mientras se realizan hemocultivos en sepsis?",
+      "options": [
+        "Disminuir la necesidad de cultivos repetidos",
+        "Evitar la progresión rápida de la sepsis",
+        "Reducir el costo del tratamiento",
+        "Prevenir la contaminación de las muestras"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la sepsis y el choque séptico, cada hora de retraso en la administración de antibióticos se asocia con un aumento de la mortalidad. Por ello, la toma de hemocultivos debe ser rápida y no debe posponer el tratamiento antimicrobiano empírico.",
+      "hashtags": [
+        "infectologia",
+        "sepsis_y_choque_septico",
+        "tratamiento",
+        "inicio_precoz_de_antibioticos",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "En un paciente séptico con acceso vascular, ¿cuántos juegos de hemocultivos se recomienda obtener antes de la antibioterapia?",
+      "options": [
+        "Tres juegos de hemocultivos",
+        "Al menos dos juegos de hemocultivos",
+        "Cuatro juegos de hemocultivos",
+        "Un solo juego de hemocultivos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se recomienda obtener al menos dos juegos de hemocultivos (cada uno con una muestra aerobia y otra anaerobia) antes de iniciar antibióticos, para aumentar la sensibilidad y diferenciar contaminantes de patógenos verdaderos.",
+      "hashtags": [
+        "infectologia",
+        "sepsis_y_choque_septico",
+        "diagnostico",
+        "numero_de_juegos_de_hemocultivos",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Qué volumen de sangre por frasco de hemocultivo se recomienda en adultos para optimizar el rendimiento?",
+      "options": [
+        "2 mL por frasco",
+        "20 mL por frasco",
+        "5 mL por frasco",
+        "10 mL por frasco"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En adultos, se recomienda extraer aproximadamente 10 mL de sangre por cada frasco de hemocultivo, ya que un mayor volumen aumenta la probabilidad de detectar microorganismos en sangre.",
+      "hashtags": [
+        "infectologia",
+        "sepsis_y_choque_septico",
+        "diagnostico",
+        "volumen_de_sangre_por_frasco",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "Ante la imposibilidad de obtener hemocultivos antes de la primera dosis de antibiótico, ¿qué actitud es más adecuada?",
+      "options": [
+        "Administrar antibiótico sin demora y obtener cultivos después",
+        "Retrasar el antibiótico hasta lograr los hemocultivos",
+        "Omitir los hemocultivos definitivamente",
+        "Solicitar solo cultivos de superficies"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si no es posible obtener hemocultivos de inmediato, se debe priorizar la administración de antibióticos empíricos sin retraso, ya que el beneficio de iniciar el tratamiento oportunamente supera el riesgo de no tener cultivos previos.",
+      "hashtags": [
+        "infectologia",
+        "sepsis_y_choque_septico",
+        "tratamiento",
+        "prioridad_de_antibiotico_sobre_cultivos",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal beneficio de obtener hemocultivos antes de iniciar antibióticos en sepsis?",
+      "options": [
+        "Reducir la dosis de antibióticos",
+        "Evitar la necesidad de cultivos posteriores",
+        "Acortar la duración del tratamiento empírico",
+        "Identificar el patógeno y ajustar terapia"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los hemocultivos previos a la antibioterapia permiten identificar el microorganismo causal y su perfil de sensibilidad, lo que facilita la desescalada y el ajuste del tratamiento antimicrobiano, mejorando los resultados clínicos.",
+      "hashtags": [
+        "infectologia",
+        "sepsis_y_choque_septico",
+        "diagnostico",
+        "identificacion_del_patogeno",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "En un paciente con sepsis y choque séptico, ¿cuál es el tiempo máximo recomendado para iniciar el antibiótico empírico?",
+      "options": [
+        "Primeras 12 horas",
+        "Primera hora",
+        "Primeras 6 horas",
+        "Primeras 3 horas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La administración de antibióticos empíricos dentro de la primera hora de reconocida la sepsis o el choque séptico se asocia a mejor supervivencia. Las guías internacionales recomiendan iniciar el tratamiento antimicrobiano lo antes posible, idealmente en la primera hora.",
+      "hashtags": [
+        "infectologia",
+        "sepsis_y_choque_séptico",
+        "tratamiento",
+        "tiempo_inicio_antibiótico",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "Antes de iniciar el antibiótico empírico en un paciente con choque séptico, ¿qué acción es prioritaria si no retrasa su administración?",
+      "options": [
+        "Solicitar tomografía abdominal",
+        "Realizar punción lumbar",
+        "Iniciar diurético de asa",
+        "Obtener hemocultivos"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Se deben obtener hemocultivos antes de iniciar los antibióticos siempre que no retrasen su administración. La toma de cultivos permite ajustar posteriormente el tratamiento antimicrobiano según el antibiograma.",
+      "hashtags": [
+        "infectologia",
+        "sepsis_y_choque_séptico",
+        "diagnostico",
+        "hemocultivos_previos",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Qué característica debe tener el régimen antibiótico empírico inicial en el choque séptico?",
+      "options": [
+        "Monoterapia con penicilina cristalina",
+        "Espectro amplio y alta penetración",
+        "Solo cobertura de grampositivos",
+        "Espectro estrecho y baja toxicidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El tratamiento empírico inicial debe cubrir los patógenos más probables según el foco y el contexto, por lo que se recomienda un régimen de amplio espectro con buena penetración tisular. Posteriormente se ajusta según cultivos y evolución clínica.",
+      "hashtags": [
+        "infectologia",
+        "sepsis_y_choque_séptico",
+        "tratamiento",
+        "espectro_antibiótico",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "En un paciente con choque séptico de probable origen abdominal, ¿qué componente es esencial en la terapia empírica inicial?",
+      "options": [
+        "Vancomicina en monoterapia",
+        "Cobertura de anaerobios",
+        "Cobertura de Pseudomonas exclusiva",
+        "Antifúngico de primera línea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la sepsis de origen abdominal es fundamental cubrir microorganismos anaerobios, además de gramnegativos entéricos. La cobertura de anaerobios se logra con fármacos como metronidazol o carbapenémicos, entre otros.",
+      "hashtags": [
+        "infectologia",
+        "sepsis_y_choque_séptico",
+        "tratamiento",
+        "cobertura_anaerobios",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuándo se recomienda añadir un antifúngico empírico al esquema antibiótico en el choque séptico?",
+      "options": [
+        "Solo si hay fiebre persistente",
+        "En todos los pacientes con sepsis",
+        "Si hay factores de riesgo para hongos",
+        "De forma rutinaria en UCI"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El tratamiento antifúngico empírico se reserva para pacientes con factores de riesgo de infección fúngica invasora, como neutropenia prolongada, inmunosupresión o colonización por Candida. No se recomienda de forma rutinaria en todos los pacientes sépticos.",
+      "hashtags": [
+        "infectologia",
+        "sepsis_y_choque_séptico",
+        "tratamiento",
+        "antifúngico_empírico",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "Tras obtener los resultados de cultivos y antibiograma en un paciente con choque séptico, ¿qué conducta es más adecuada?",
+      "options": [
+        "Suspender todo antibiótico",
+        "Añadir un segundo antibiótico",
+        "Desescalar el antibiótico",
+        "Mantener el esquema empírico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La desescalada antimicrobiana consiste en ajustar el tratamiento empírico de amplio espectro a uno de menor espectro, dirigido al patógeno identificado y su sensibilidad. Esto reduce la presión selectiva y los efectos adversos sin comprometer la eficacia.",
+      "hashtags": [
+        "infectologia",
+        "sepsis_y_choque_séptico",
+        "tratamiento",
+        "desescalada_antibiótica",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "En un paciente adulto con sepsis y choque séptico, ¿cuál es la recomendación inicial de reanimación con cristaloides según las guías actuales?",
+      "options": [
+        "Cristaloides balanceados 15 mL/kg en 6 horas",
+        "Solución salina al 0.9% 30 mL/kg en 1 hora",
+        "Albúmina al 20% 10 mL/kg en 24 horas",
+        "Cristaloides balanceados 30 mL/kg en 3 horas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las guías de supervivencia de sepsis recomiendan cristaloides balanceados como primera línea, administrando al menos 30 mL/kg en las primeras 3 horas en pacientes con sepsis y choque séptico o hipoperfusión.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis_y_choque_séptico",
+        "tratamiento",
+        "cristaloides_balanceados_30_ml_kg",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal ventaja de los cristaloides balanceados sobre la solución salina al 0.9% en la reanimación inicial del choque séptico?",
+      "options": [
+        "Mayor expansión del volumen plasmático",
+        "Menor riesgo de hipercloremia y acidosis",
+        "Menor costo y mayor disponibilidad",
+        "Mayor contenido de calcio y magnesio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los cristaloides balanceados tienen una composición electrolítica más fisiológica, con menor concentración de cloro que la solución salina al 0.9%, lo que reduce el riesgo de hipercloremia y acidosis metabólica hiperclorémica.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis_y_choque_séptico",
+        "fisiopatologia",
+        "cristaloides_balanceados_ventajas",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "En un paciente con choque séptico que requiere reanimación con cristaloides, ¿qué parámetro clínico es más útil para valorar la respuesta a la expansión de volumen?",
+      "options": [
+        "Diuresis horaria mayor de 0.5 mL/kg/h",
+        "Lactato sérico en descenso",
+        "Variación del volumen sistólico con la respiración",
+        "Presión arterial media mayor de 65 mmHg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El lactato sérico es un marcador de hipoperfusión tisular; su descenso durante la reanimación indica mejoría de la perfusión. La presión arterial media y la diuresis también son útiles, pero el lactato refleja directamente la corrección de la hipoxia celular.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis_y_choque_séptico",
+        "diagnostico",
+        "monitorizacion_lactato",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes cristaloides se considera balanceado y de primera línea en la reanimación inicial del choque séptico?",
+      "options": [
+        "Solución salina al 0.9%",
+        "Solución salina hipertónica al 3%",
+        "Solución glucosada al 5%",
+        "Ringer lactato"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El Ringer lactato es un cristaloides balanceado con composición electrolítica similar al plasma, recomendado como primera línea en la reanimación con volumen del choque séptico, a diferencia de la solución salina al 0.9% que es no balanceada.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis_y_choque_séptico",
+        "tratamiento",
+        "ringer_lactato_primera_linea",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "En la reanimación inicial del choque séptico con cristaloides balanceados, ¿cuál es el volumen mínimo recomendado por kilogramo de peso en las primeras 3 horas?",
+      "options": [
+        "20 mL/kg",
+        "40 mL/kg",
+        "10 mL/kg",
+        "30 mL/kg"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las guías internacionales recomiendan administrar al menos 30 mL/kg de cristaloides balanceados en las primeras 3 horas en pacientes con sepsis y choque séptico o hipoperfusión, como parte de la reanimación inicial.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis_y_choque_séptico",
+        "tratamiento",
+        "volumen_30_ml_kg",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Qué solución cristaloide se debe evitar como primera elección en la reanimación inicial del choque séptico debido a su asociación con acidosis hiperclorémica?",
+      "options": [
+        "Solución balanceada de múltiples electrolitos",
+        "Plasma-Lyte",
+        "Ringer lactato",
+        "Solución salina al 0.9%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La solución salina al 0.9% tiene una alta concentración de cloro (154 mEq/L) que puede inducir acidosis metabólica hiperclorémica y empeorar la perfusión renal, por lo que se prefiere evitar como primera elección frente a cristaloides balanceados.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis_y_choque_séptico",
+        "tratamiento",
+        "evitar_salina_0_9",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "En un paciente adulto con choque séptico, ¿cuál es el vasopresor de primera elección para mantener una presión arterial media adecuada?",
+      "options": [
+        "Vasopresina",
+        "Adrenalina",
+        "Noradrenalina",
+        "Dopamina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La noradrenalina es el vasopresor de primera línea en el choque séptico porque aumenta la presión arterial media con menor riesgo de arritmias que la dopamina y menor mortalidad. Se recomienda iniciarla tempranamente para alcanzar una presión arterial media de al menos 65 mmHg.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_septico",
+        "tratamiento",
+        "vasopresor_primera_linea",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal mecanismo de acción por el que la noradrenalina eleva la presión arterial en el choque séptico?",
+      "options": [
+        "Inhibición de la enzima convertidora de angiotensina",
+        "Antagonismo de receptores de vasopresina",
+        "Agonismo dopaminérgico en dosis altas",
+        "Agonismo alfa-1 y beta-1 adrenérgico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La noradrenalina actúa principalmente como agonista de los receptores alfa-1, produciendo vasoconstricción, y en menor medida de los beta-1, aumentando el gasto cardíaco. Este perfil farmacológico la hace eficaz para revertir la hipotensión por vasodilatación séptica.",
+      "hashtags": [
+        "farmacologia",
+        "choque_septico",
+        "concepto",
+        "agonismo_adrenergico",
+        "PATOLOGIA",
+        "Goodman & Gilman 13ed"
+      ]
+    },
+    {
+      "question": "En un paciente con choque séptico que no alcanza la presión arterial media objetivo a pesar de dosis altas de noradrenalina, ¿cuál es el siguiente vasopresor recomendado?",
+      "options": [
+        "Dobutamina",
+        "Milrinona",
+        "Vasopresina",
+        "Fenilefrina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La vasopresina se recomienda como segundo vasopresor en el choque séptico cuando la noradrenalina no logra el objetivo de presión arterial media, ya que actúa por un mecanismo no adrenérgico y puede reducir la dosis de noradrenalina. La dobutamina es un inotrópico, no un vasopresor de rescate.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_septico",
+        "tratamiento",
+        "segundo_vasopresor",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es la vía de administración preferida para la noradrenalina en el choque séptico?",
+      "options": [
+        "Subcutánea",
+        "Intravenosa central",
+        "Intramuscular",
+        "Intravenosa periférica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La noradrenalina se administra por infusión intravenosa continua, preferiblemente a través de un catéter central para evitar extravasación y necrosis tisular. Sin embargo, puede iniciarse por vía periférica en situaciones de emergencia mientras se obtiene el acceso central.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_septico",
+        "tratamiento",
+        "via_administracion",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es el efecto adverso más característico de la noradrenalina cuando se usa en dosis elevadas en el choque séptico?",
+      "options": [
+        "Broncodilatación",
+        "Bradicardia severa",
+        "Hipoglucemia",
+        "Isquemia digital y necrosis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La noradrenalina en dosis altas puede causar vasoconstricción periférica intensa, lo que lleva a isquemia digital y necrosis. También puede provocar arritmias, pero la isquemia periférica es un efecto adverso característico por su potente acción alfa-1.",
+      "hashtags": [
+        "farmacologia",
+        "choque_septico",
+        "concepto",
+        "isquemia_periferica",
+        "PATOLOGIA",
+        "Goodman & Gilman 13ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la presión arterial media objetivo que se recomienda alcanzar con noradrenalina en la mayoría de pacientes con choque séptico?",
+      "options": [
+        "85 mmHg",
+        "75 mmHg",
+        "65 mmHg",
+        "55 mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las guías de práctica clínica recomiendan un objetivo inicial de presión arterial media de 65 mmHg en el choque séptico, ya que valores más altos no han demostrado beneficio y pueden aumentar el riesgo de efectos adversos. La noradrenalina se titula para alcanzar este objetivo.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_septico",
+        "tratamiento",
+        "presion_arterial_media",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal mecanismo por el que la vasopresina reduce la necesidad de noradrenalina en el choque séptico?",
+      "options": [
+        "Disminuye el volumen plasmático eficaz",
+        "Inhibe la liberación de noradrenalina",
+        "Aumenta la resistencia vascular sistémica",
+        "Reduce la frecuencia cardíaca por efecto vagal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La vasopresina actúa sobre receptores V1a del músculo liso vascular, produciendo vasoconstricción y aumentando la resistencia vascular sistémica, lo que permite reducir la dosis de noradrenalina necesaria para mantener la presión arterial.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_séptico",
+        "fisiopatologia",
+        "receptores_v1a",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué receptor media principalmente el efecto vasoconstrictor de la vasopresina en el músculo liso vascular?",
+      "options": [
+        "Receptor oxitocina",
+        "Receptor V1b",
+        "Receptor V2",
+        "Receptor V1a"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La vasopresina ejerce su efecto vasoconstrictor a través de los receptores V1a localizados en el músculo liso vascular, mientras que los receptores V2 median la retención de agua en el riñón y los V1b actúan en la hipófisis.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_séptico",
+        "fisiopatologia",
+        "receptores_v1a",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el efecto adverso más característico del uso de vasopresina en el choque séptico?",
+      "options": [
+        "Isquemia digital y cutánea",
+        "Alcalosis metabólica grave",
+        "Bradicardia sinusal severa",
+        "Hiperglucemia refractaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La vasopresina produce vasoconstricción periférica intensa, lo que puede provocar isquemia digital, cutánea y esplácnica, siendo el efecto adverso más característico y limitante de su uso en el choque séptico.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_séptico",
+        "complicaciones",
+        "isquemia_periférica",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿En qué situación clínica se recomienda añadir vasopresina al tratamiento con noradrenalina en el choque séptico?",
+      "options": [
+        "Cuando hay bradicardia refractaria",
+        "Cuando la noradrenalina no logra presión objetivo",
+        "En pacientes con gasto cardíaco elevado",
+        "Como primera línea antes de noradrenalina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La vasopresina se recomienda como fármaco ahorrador de noradrenalina cuando esta no consigue alcanzar la presión arterial media objetivo o requiere dosis elevadas, permitiendo reducir la dosis de catecolaminas y sus efectos adversos.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_séptico",
+        "tratamiento",
+        "segunda_linea",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal beneficio clínico de la vasopresina como ahorradora de noradrenalina en el choque séptico?",
+      "options": [
+        "Aumento del gasto cardíaco basal",
+        "Disminución de la dosis de catecolaminas",
+        "Reducción de la mortalidad a 28 días",
+        "Mejora de la función renal a largo plazo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El beneficio principal de la vasopresina es permitir la reducción de la dosis de noradrenalina, lo que disminuye los efectos adversos asociados a las catecolaminas, aunque no ha demostrado reducir la mortalidad de forma consistente.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_séptico",
+        "tratamiento",
+        "ahorro_catecolaminas",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué efecto fisiológico de la vasopresina contribuye a su acción vasoconstrictora en el choque séptico?",
+      "options": [
+        "Liberación de factor natriurético auricular",
+        "Inhibición de la óxido nítrico sintasa",
+        "Estimulación de receptores V2 renales",
+        "Aumento de la permeabilidad capilar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La vasopresina inhibe la producción de óxido nítrico, un potente vasodilatador cuya sobreexpresión contribuye a la vasoplejía del choque séptico, lo que refuerza su efecto vasoconstrictor y ahorrador de noradrenalina.",
+      "hashtags": [
+        "medicina_interna",
+        "choque_séptico",
+        "fisiopatologia",
+        "oxido_nitrico",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el mecanismo fisiopatológico principal que justifica el uso de hidrocortisona en el choque séptico refractario a vasopresores?",
+      "options": [
+        "Restauración de la sensibilidad vascular a catecolaminas",
+        "Bloqueo de receptores de angiotensina II",
+        "Aumento directo de la contractilidad miocárdica",
+        "Inhibición de la óxido nítrico sintasa inducible"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hidrocortisona en el choque séptico refractario actúa principalmente restaurando la sensibilidad de los vasos a las catecolaminas, al corregir la insuficiencia adrenal relativa y modular la respuesta inflamatoria, lo que permite reducir la dosis de vasopresores.",
+      "hashtags": [
+        "patologia",
+        "hidrocortisona_en_choque_refractario_a_vasopresores",
+        "fisiopatologia",
+        "sensibilidad_catecolaminas",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿En qué situación clínica específica está indicada la hidrocortisona en el choque séptico según las guías actuales?",
+      "options": [
+        "Choque séptico con vasopresores a dosis altas",
+        "Choque séptico con lactato inicial mayor de 4",
+        "Choque séptico con infección por gramnegativos",
+        "Choque séptico con disfunción renal aguda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hidrocortisona se recomienda en el choque séptico que persiste con requerimiento de vasopresores a dosis altas, a pesar de una adecuada reanimación con fluidos, para reducir la duración del soporte vasopresor.",
+      "hashtags": [
+        "patologia",
+        "hidrocortisona_en_choque_refractario_a_vasopresores",
+        "concepto",
+        "choque_refractario",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es la dosis recomendada de hidrocortisona en el choque séptico refractario a vasopresores?",
+      "options": [
+        "200 mg en infusión continua diaria",
+        "100 mg en bolo cada 8 horas",
+        "50 mg en bolo cada 6 horas",
+        "150 mg en dosis única diaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dosis habitual de hidrocortisona en el choque séptico refractario es de 200 mg al día, administrados preferentemente en infusión continua o en bolos de 50 mg cada 6 horas, aunque la pauta de 100 mg cada 8 horas no es la estándar.",
+      "hashtags": [
+        "patologia",
+        "hidrocortisona_en_choque_refractario_a_vasopresores",
+        "tratamiento",
+        "dosis",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Qué efecto adverso se debe monitorizar específicamente durante la administración de hidrocortisona en el choque séptico?",
+      "options": [
+        "Hiperpotasemia",
+        "Acidosis metabólica",
+        "Hipocalcemia",
+        "Hiperglucemia"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La hidrocortisona puede inducir hiperglucemia, por lo que se recomienda monitorizar estrechamente la glucemia y ajustar la insulinoterapia si es necesario en pacientes críticos.",
+      "hashtags": [
+        "patologia",
+        "hidrocortisona_en_choque_refractario_a_vasopresores",
+        "complicaciones",
+        "hiperglucemia",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es el momento recomendado para iniciar hidrocortisona en el choque séptico?",
+      "options": [
+        "Inmediatamente tras el diagnóstico de sepsis",
+        "Antes de la reanimación con fluidos",
+        "Solo si hay hipotensión refractaria a fluidos",
+        "Tras 6 horas de vasopresores a dosis altas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La hidrocortisona se indica cuando el paciente persiste hipotenso y requiere vasopresores a dosis altas a pesar de una reanimación adecuada con fluidos, generalmente después de las primeras horas de tratamiento.",
+      "hashtags": [
+        "patologia",
+        "hidrocortisona_en_choque_refractario_a_vasopresores",
+        "concepto",
+        "momento_inicio",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Qué parámetro clínico se utiliza para evaluar la respuesta a la hidrocortisona en el choque séptico refractario?",
+      "options": [
+        "Descenso del lactato en 24 horas",
+        "Aumento del gasto cardíaco",
+        "Reducción de la dosis de vasopresores",
+        "Mejoría de la diuresis horaria"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El objetivo principal de la hidrocortisona en este contexto es disminuir el requerimiento de vasopresores; una reducción de la dosis o la suspensión del vasopresor en las primeras 24-48 horas indica buena respuesta.",
+      "hashtags": [
+        "patologia",
+        "hidrocortisona_en_choque_refractario_a_vasopresores",
+        "diagnostico",
+        "respuesta_vasopresores",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es el criterio de frecuencia respiratoria en qSOFA?",
+      "options": [
+        "FR ≥ 20 rpm",
+        "FR ≥ 24 rpm",
+        "FR ≥ 18 rpm",
+        "FR ≥ 22 rpm"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El qSOFA establece como punto de corte una frecuencia respiratoria mayor o igual a 22 respiraciones por minuto. Valores inferiores no cumplen este criterio, aunque pueden ser anormales en otros contextos.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "criterios_qsofa",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué puntaje de presión arterial sistólica define el criterio qSOFA?",
+      "options": [
+        "PAS ≤ 110 mmHg",
+        "PAS ≤ 90 mmHg",
+        "PAS ≤ 100 mmHg",
+        "PAS ≤ 95 mmHg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El qSOFA considera hipotensión cuando la presión arterial sistólica es menor o igual a 100 mmHg. Este umbral es más alto que el usado en definiciones tradicionales de shock, permitiendo detectar disfunción precoz.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "criterios_qsofa",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el tercer componente del qSOFA además de FR y PAS?",
+      "options": [
+        "Temperatura corporal anormal",
+        "Alteración del estado mental",
+        "Frecuencia cardíaca elevada",
+        "Recuento leucocitario alterado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El qSOFA incluye tres criterios: frecuencia respiratoria ≥22 rpm, presión arterial sistólica ≤100 mmHg y alteración del estado mental (escala de Glasgow <15). Los otros parámetros no forman parte de esta escala.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "criterios_qsofa",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuántos criterios qSOFA deben cumplirse para considerarlo positivo?",
+      "options": [
+        "Al menos 2 criterios",
+        "Al menos 1 criterio",
+        "Los 3 criterios",
+        "Al menos 2 criterios más lactato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se considera qSOFA positivo cuando están presentes dos o más de sus tres componentes. Un solo criterio no es suficiente, y no se requiere lactato para su interpretación inicial.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "criterios_qsofa",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la utilidad principal del qSOFA en la sepsis?",
+      "options": [
+        "Determinar la necesidad de cirugía",
+        "Confirmar diagnóstico microbiológico",
+        "Guiar la elección del antibiótico",
+        "Identificar riesgo de mala evolución"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El qSOFA es una herramienta de cribado bedside que identifica pacientes con sospecha de infección y mayor riesgo de mortalidad o estancia prolongada. No confirma microbiología ni guía directamente el tratamiento antimicrobiano.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "criterios_qsofa",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué escala se emplea para valorar la alteración mental en qSOFA?",
+      "options": [
+        "Escala de Richmond",
+        "Escala de Norton",
+        "Escala de Ramsay",
+        "Escala de Glasgow"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La alteración mental en qSOFA se define como una puntuación en la escala de Glasgow menor de 15. Las otras escalas evalúan sedación, agitación o riesgo de úlceras, no el nivel de conciencia en este contexto.",
+      "hashtags": [
+        "medicina_interna",
+        "sepsis",
+        "diagnostico",
+        "criterios_qsofa",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "En un paciente con sepsis en mejoría clínica, ¿qué comportamiento de la procalcitonina apoya la decisión de suspender el antibiótico?",
+      "options": [
+        "Ascenso progresivo en 48 horas",
+        "Descenso mayor del 80% del pico",
+        "Valor persistentemente mayor de 10 ng/mL",
+        "Descenso menor del 10% del pico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un descenso rápido y significativo de la procalcitonina, habitualmente superior al 80% del valor pico o descenso a valores bajos, se asocia con resolución de la infección y permite acortar la antibioticoterapia con seguridad en pacientes sépticos que mejoran clínicamente.",
+      "hashtags": [
+        "infectologia",
+        "sepsis",
+        "diagnostico",
+        "procalcitonina_descenso",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal beneficio demostrado de utilizar procalcitonina para guiar la duración del antibiótico en sepsis?",
+      "options": [
+        "Reducción de la mortalidad a 28 días",
+        "Menor necesidad de vasopresores",
+        "Disminución de la estancia en UCI",
+        "Acortamiento de la duración antibiótica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los ensayos clínicos y metaanálisis muestran que la procalcitonina guía la duración del tratamiento antibiótico principalmente reduciendo los días de antibioticoterapia, sin aumentar la mortalidad ni el fracaso terapéutico, aunque no ha demostrado reducir de forma consistente la estancia en UCI.",
+      "hashtags": [
+        "infectologia",
+        "sepsis",
+        "tratamiento",
+        "duracion_antibiotica",
+        "PATOLOGIA",
+        "Cochrane 2018"
+      ]
+    },
+    {
+      "question": "En un paciente séptico con foco abdominal, ¿qué valor de procalcitonina se considera útil para sugerir suspensión del antibiótico si hay mejoría clínica?",
+      "options": [
+        "Menor de 0,5 ng/mL o descenso >80%",
+        "Mayor de 2 ng/mL en ascenso",
+        "Mayor de 10 ng/mL persistente",
+        "Entre 0,5 y 1 ng/mL sin cambios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se acepta que valores de procalcitonina por debajo de 0,5 ng/mL o un descenso superior al 80% respecto al pico, junto con mejoría clínica, permiten considerar la suspensión del antibiótico en sepsis de origen abdominal, evitando prolongaciones innecesarias.",
+      "hashtags": [
+        "infectologia",
+        "sepsis_abdominal",
+        "tratamiento",
+        "umbral_procalcitonina",
+        "PATOLOGIA",
+        "Guía WSES 2017"
+      ]
+    },
+    {
+      "question": "¿Qué limitación importante debe considerarse al interpretar la procalcitonina para guiar la duración antibiótica en sepsis?",
+      "options": [
+        "Siempre desciende con la mejoría clínica",
+        "Puede elevarse por causas no infecciosas",
+        "No se eleva en infecciones bacterianas",
+        "Solo es útil en infecciones virales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La procalcitonina puede elevarse en situaciones no infecciosas como cirugía reciente, trauma, quemaduras, shock cardiogénico o fallo renal, lo que puede llevar a prolongar innecesariamente el antibiótico si no se interpreta junto con la clínica.",
+      "hashtags": [
+        "infectologia",
+        "sepsis",
+        "diagnostico",
+        "limitaciones_procalcitonina",
+        "PATOLOGIA",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Según las guías actuales, ¿en qué escenario la procalcitonina tiene mayor utilidad para acortar la antibioticoterapia en sepsis?",
+      "options": [
+        "Paciente inestable con procalcitonina en ascenso",
+        "Paciente neutropénico sin respuesta clínica",
+        "Paciente con mejoría clínica y descenso marcado",
+        "Paciente con infección viral confirmada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La procalcitonina es más útil para acortar la duración del antibiótico cuando el paciente muestra mejoría clínica y la procalcitonina desciende de forma significativa; en pacientes inestables o sin mejoría, no debe usarse para suspender el tratamiento.",
+      "hashtags": [
+        "infectologia",
+        "sepsis",
+        "tratamiento",
+        "indicacion_procalcitonina",
+        "PATOLOGIA",
+        "Surviving Sepsis Campaign 2021"
+      ]
+    },
+    {
+      "question": "¿Qué estrategia basada en procalcitonina se recomienda para reducir la duración del antibiótico en sepsis?",
+      "options": [
+        "Suspender si desciende >10% del pico",
+        "Mantener hasta normalizar la PCR",
+        "Suspender si desciende >80% o <0,5 ng/mL",
+        "Mantener hasta negativizar hemocultivos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La estrategia recomendada es suspender el antibiótico cuando la procalcitonina desciende más del 80% del valor pico o alcanza valores inferiores a 0,5 ng/mL, siempre que el paciente muestre mejoría clínica, lo que permite reducir días de tratamiento sin aumentar riesgos.",
+      "hashtags": [
+        "infectologia",
+        "sepsis",
+        "tratamiento",
+        "algoritmo_procalcitonina",
+        "PATOLOGIA",
+        "Guía ESC 2023"
+      ]
+    },
+    {
+      "question": "En un paciente con sepsis y sospecha de foco abdominal, ¿cuál es la conducta más adecuada respecto al control del foco?",
+      "options": [
+        "Observación clínica por 48 horas",
+        "Antibióticos de amplio espectro únicamente",
+        "Reposición volumétrica aislada sin drenaje",
+        "Drenaje quirúrgico precoz del foco"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El control del foco es prioritario en la sepsis de origen abdominal; el drenaje quirúrgico precoz elimina la fuente de infección y mejora la supervivencia, junto con antibióticos y soporte hemodinámico.",
+      "hashtags": [
+        "patologia",
+        "sepsis_choque_septico",
+        "tratamiento",
+        "drenaje_quirurgico_precoz",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del drenaje quirúrgico precoz en el choque séptico de origen abdominal?",
+      "options": [
+        "Mejorar la diuresis inmediata",
+        "Eliminar la fuente de infección",
+        "Reducir la dosis de vasopresores",
+        "Normalizar la temperatura corporal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El drenaje quirúrgico precoz busca eliminar la fuente de infección (control del foco), lo que disminuye la carga bacteriana y la respuesta inflamatoria sistémica, siendo fundamental para la resolución del choque séptico.",
+      "hashtags": [
+        "patologia",
+        "sepsis_choque_septico",
+        "fisiopatologia",
+        "control_del_foco",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "En un paciente con choque séptico por absceso intraabdominal, ¿qué medida forma parte del control del foco?",
+      "options": [
+        "Transfusión de plasma fresco congelado",
+        "Administración de corticoides sistémicos",
+        "Inicio de nutrición parenteral total",
+        "Drenaje percutáneo o quirúrgico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El control del foco en abscesos intraabdominales requiere drenaje, ya sea percutáneo o quirúrgico, para eliminar la colección purulenta y la fuente de infección, junto con antibioticoterapia adecuada.",
+      "hashtags": [
+        "patologia",
+        "sepsis_choque_septico",
+        "tratamiento",
+        "drenaje_percutaneo_quirurgico",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el momento recomendado para realizar el control del foco en la sepsis de origen abdominal?",
+      "options": [
+        "Al completar el esquema antibiótico",
+        "Lo antes posible tras la reanimación inicial",
+        "Solo si hay deterioro hemodinámico",
+        "Después de 24 horas de antibióticos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El control del foco debe realizarse lo antes posible tras la reanimación inicial y el inicio de antibióticos, ya que el retraso se asocia a mayor mortalidad en la sepsis y el choque séptico.",
+      "hashtags": [
+        "patologia",
+        "sepsis_choque_septico",
+        "tratamiento",
+        "momento_del_drenaje",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué consecuencia fisiopatológica se espera si no se realiza el control del foco en un paciente con choque séptico abdominal?",
+      "options": [
+        "Mejoría de la perfusión tisular",
+        "Resolución espontánea de la sepsis",
+        "Persistencia de la carga bacteriana",
+        "Disminución de la respuesta inflamatoria"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La falta de control del foco mantiene la liberación de endotoxinas y mediadores inflamatorios, perpetuando la disfunción orgánica y aumentando la mortalidad; no hay resolución espontánea sin eliminar la fuente.",
+      "hashtags": [
+        "patologia",
+        "sepsis_choque_septico",
+        "fisiopatologia",
+        "carga_bacteriana_persistente",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "En el manejo del choque séptico de origen biliar, ¿cuál es la intervención de control del foco más adecuada?",
+      "options": [
+        "Antibióticos sin drenaje biliar",
+        "Observación con analgesia y ayuno",
+        "Drenaje biliar urgente por CPRE",
+        "Colecistectomía electiva diferida"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la sepsis biliar, el control del foco requiere drenaje biliar urgente, frecuentemente mediante CPRE con esfinterotomía, para descomprimir la vía biliar y eliminar la fuente de infección.",
+      "hashtags": [
+        "patologia",
+        "sepsis_choque_septico",
+        "tratamiento",
+        "drenaje_biliar_urgente",
+        "PATOLOGIA",
+        ""
+      ]
+    }
+  ]
+}

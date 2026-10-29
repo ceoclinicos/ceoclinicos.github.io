@@ -1,0 +1,77 @@
+{
+  "id": "diabetes_insípida",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Diferencia central vs nefrogénica por osmolaridad urinaria",
+      "title": "Osmolaridad urinaria: central vs nefrogénica",
+      "contentHtml": "<h2>Osmolaridad urinaria en diabetes insípida</h2><ul><li><b>Diabetes insípida central</b>: déficit de hormona antidiurética; la osmolaridad urinaria permanece baja (&lt;300 mOsm/kg) tras restricción hídrica y <b>asciende &gt;50% con desmopresina</b>.</li><li><b>Diabetes insípida nefrogénica</b>: resistencia renal a la hormona antidiurética; osmolaridad urinaria baja que <b>no asciende con desmopresina</b> (cambio &lt;50%).</li><li>La osmolaridad urinaria &gt;800 mOsm/kg descarta diabetes insípida y sugiere poliuria por solutos o polidipsia primaria.</li><li>Trampa: en ambos tipos la orina es diluida; la diferencia se establece con la prueba de desmopresina, no con la osmolaridad basal.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Diabetes insípida central: déficit de ADH hipofisaria",
+      "title": "Diabetes insípida central",
+      "contentHtml": "<h2>Diabetes insípida central</h2><ul><li>Déficit de síntesis o liberación de <b>hormona antidiurética</b> en los núcleos supraóptico y paraventricular del hipotálamo, con transporte axonal a la neurohipófisis.</li><li>Causas: <b>cirugía hipofisaria</b> (causa frecuente), traumatismo craneoencefálico, tumores selares, infiltración, autoinmune, idiopática.</li><li>Clínica: poliuria hipotónica &gt;3 L/día, nicturia, sed intensa, preferencia por agua fría; hipernatremia si no hay acceso a agua.</li><li>Diagnóstico: osmolaridad urinaria baja que <b>asciende &gt;50% con desmopresina</b>; resonancia magnética con pérdida del hiperintenso de la neurohipófisis.</li><li>Tratamiento: <b>desmopresina</b> intranasal u oral; vigilar hiponatremia por sobredosificación.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Diabetes insípida nefrogénica: resistencia renal a ADH",
+      "title": "Diabetes insípida nefrogénica",
+      "contentHtml": "<h2>Diabetes insípida nefrogénica</h2><ul><li>Resistencia renal a la <b>hormona antidiurética</b> por defecto del receptor V2 o de la acuaporina-2 en el túbulo colector; la hormona antidiurética puede estar normal o elevada.</li><li>Causas adquiridas: <b>litio</b> (la más frecuente), <b>hipercalcemia</b>, <b>hipocalemia</b>, enfermedad renal crónica, obstrucción urinaria, fármacos (anfotericina B, foscarnet).</li><li>Clínica: poliuria hipotónica &gt;3 L/día sin respuesta a desmopresina; riesgo de hipernatremia y deshidratación.</li><li>Diagnóstico: osmolaridad urinaria baja que <b>no asciende con desmopresina</b>; osmolaridad urinaria &lt;300 mOsm/kg tras restricción hídrica.</li><li>Tratamiento: suspender el fármaco causal, corregir calcio y potasio, dieta baja en sodio, tiazidas, amilorida (en litio).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Poliuria hipotónica mayor de 3 L/día",
+      "title": "Poliuria hipotónica &gt;3 L/día",
+      "contentHtml": "<h2>Poliuria hipotónica</h2><ul><li>Definición operativa: diuresis &gt;3 L/día con osmolaridad urinaria &lt;300 mOsm/kg; orienta a diabetes insípida o polidipsia primaria.</li><li>Frente a poliuria por solutos (osmolaridad urinaria &gt;300 mOsm/kg): glucosuria, manitol, diuréticos, insuficiencia renal.</li><li>La polidipsia primaria muestra osmolaridad urinaria que se concentra con restricción hídrica y osmolaridad plasmática baja o normal.</li><li>Trampa: cuantificar diuresis de 24 horas y osmolaridad urinaria simultánea antes de etiquetar de diabetes insípida.</li><li>La poliuria hipotónica &gt;3 L/día exige estudio de eje hipotálamo-neurohipofisario.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Déficit de agua con natremia elevada en DI",
+      "title": "Hipernatremia por déficit de agua",
+      "contentHtml": "<h2>Hipernatremia en diabetes insípida</h2><ul><li>La poliuria diluye el agua corporal; si la ingesta no compensa, aparece <b>hipernatremia &gt;145 mEq/L</b> con orina diluida (osmolaridad urinaria &lt;300 mOsm/kg).</li><li>Clave diagnóstica: <b>hipernatremia con orina diluida</b> sugiere diabetes insípida; en la hipernatremia por falta de agua la orina suele estar concentrada.</li><li>Déficit de agua = 0.6 × peso (kg) × (sodio actual/140 − 1); corregir &lt;10 mEq/L en 24 horas para evitar edema cerebral.</li><li>En diabetes insípida central usar <b>desmopresina</b>; en nefrogénica, tiazidas y dieta baja en sodio.</li><li>Trampa: la sed intensa protege hasta que el acceso a agua se pierde (posoperatorio, demencia, sedación).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Prueba de desmopresina para diferenciar tipos",
+      "title": "Prueba de desmopresina",
+      "contentHtml": "<h2>Prueba de desmopresina</h2><ul><li>Tras restricción hídrica, administrar <b>desmopresina</b> (análogo de la hormona antidiurética) y medir osmolaridad urinaria a los 60-120 minutos.</li><li><b>Central</b>: ascenso &gt;50% de la osmolaridad urinaria (respuesta completa).</li><li><b>Nefrogénica</b>: ascenso &lt;50% (sin respuesta).</li><li>Polidipsia primaria: osmolaridad urinaria ya concentrada antes de la desmopresina.</li><li>Trampa: la prueba no distingue central parcial de nefrogénica parcial; usar resonancia magnética y osmolaridad plasmática.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Osmol urinaria <300 mOsm/kg sugiere DI",
+      "title": "Osmolaridad urinaria &lt;300",
+      "contentHtml": "<h2>Osmolaridad urinaria &lt;300 mOsm/kg</h2><ul><li>Una osmolaridad urinaria &lt;300 mOsm/kg con poliuria hipotónica &gt;3 L/día sugiere diabetes insípida.</li><li>No es diagnóstica por sí sola: también aparece en polidipsia primaria y en diuresis por solutos con agua libre elevada.</li><li>Requiere restricción hídrica y prueba de desmopresina para diferenciar central de nefrogénica.</li><li>La osmolaridad plasmática &gt;295 mOsm/kg con orina &lt;300 mOsm/kg refuerza el diagnóstico.</li><li>Trampa: la osmolaridad urinaria aislada no distingue el tipo de diabetes insípida.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Osmol urinaria >800 mOsm/kg descarta DI",
+      "title": "Osmolaridad urinaria &gt;800",
+      "contentHtml": "<h2>Osmolaridad urinaria &gt;800 mOsm/kg</h2><ul><li>Una osmolaridad urinaria &gt;800 mOsm/kg descarta diabetes insípida: la hormona antidiurética está actuando y el riñón concentra.</li><li>Orienta a poliuria por solutos (glucosuria, manitol, diuréticos) o polidipsia primaria con capacidad de concentración conservada.</li><li>En diabetes insípida la osmolaridad urinaria es &lt;300 mOsm/kg; valores intermedios (300-800) obligan a prueba de desmopresina.</li><li>Trampa: no solicitar prueba de desmopresina si la osmolaridad urinaria &gt;800 mOsm/kg.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Hipernatremia con orina diluida es clave",
+      "title": "Hipernatremia + orina diluida",
+      "contentHtml": "<h2>Hipernatremia con orina diluida</h2><ul><li>Combinación clave: <b>hipernatremia &gt;145 mEq/L</b> con osmolaridad urinaria &lt;300 mOsm/kg sugiere diabetes insípida.</li><li>En la hipernatremia por falta de agua la orina se concentra (&gt;800 mOsm/kg); en la diabetes insípida no puede concentrarse.</li><li>La hormona antidiurética debe elevarse con la hipernatremia; si está baja (central) o alta sin efecto (nefrogénica), confirma el defecto.</li><li>Corregir sodio &lt;10 mEq/L en 24 horas; usar <b>desmopresina</b> en central y tiazidas en nefrogénica.</li><li>Trampa: la hipernatremia con orina diluida en posoperatorio de hipófisis sugiere diabetes insípida central.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Causa central frecuente: cirugía hipofisaria",
+      "title": "Cirugía hipofisaria",
+      "contentHtml": "<h2>Cirugía hipofisaria como causa</h2><ul><li>La <b>cirugía hipofisaria</b> es la causa frecuente de diabetes insípida central por lesión del tallo hipofisario o de la neurohipófisis.</li><li>Puede ser transitoria (edema del tallo) o permanente; aparece poliuria hipotónica &gt;3 L/día en las primeras 24-48 horas.</li><li>Vigilar sodio sérico y diuresis horaria; la tríada de poliuria, hipernatremia y orina diluida confirma el diagnóstico.</li><li>Tratamiento: <b>desmopresina</b> intranasal u oral; en el posoperatorio usar dosis mínima eficaz para evitar hiponatremia.</li><li>Trampa: la diabetes insípida central posoperatoria puede alternar con síndrome de secreción inadecuada de hormona antidiurética.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Nefrogénica por litio, hipercalcemia e hipocalemia",
+      "title": "Causas nefrogénicas",
+      "contentHtml": "<h2>Diabetes insípida nefrogénica: causas</h2><ul><li><b>Litio</b>: causa más frecuente de nefrogénica adquirida; entra por canales de sodio del túbulo colector y reduce la acuaporina-2.</li><li><b>Hipercalcemia</b>: interfiere con la acción de la hormona antidiurética y la reabsorción de sodio.</li><li><b>Hipocalemia</b>: altera la respuesta del túbulo colector a la hormona antidiurética.</li><li>Otras: enfermedad renal crónica, obstrucción urinaria, anfotericina B, foscarnet, demeclociclina.</li><li>Tratamiento: suspender el fármaco, corregir calcio y potasio, dieta baja en sodio, tiazidas, amilorida en litio.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Restricción hídrica peligrosa en DI no controlada",
+      "title": "Peligro de restricción hídrica",
+      "contentHtml": "<h2>Restricción hídrica en diabetes insípida</h2><ul><li>La restricción hídrica en diabetes insípida no controlada causa hipernatremia grave, deshidratación hipertónica y riesgo de convulsiones.</li><li>Contraindicada si hay hipernatremia &gt;145 mEq/L, alteración del estado mental o inestabilidad hemodinámica.</li><li>La prueba de restricción hídrica debe hacerse con vigilancia de sodio sérico, osmolaridad y peso; suspender si el sodio asciende &gt;145 mEq/L.</li><li>En diabetes insípida central usar <b>desmopresina</b>; en nefrogénica, tiazidas y dieta baja en sodio.</li><li>Trampa: nunca restringir agua sin monitorización en sospecha de diabetes insípida.</li></ul>"
+    }
+  ]
+}

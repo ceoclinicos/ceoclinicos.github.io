@@ -1,0 +1,77 @@
+{
+  "id": "indicaciones_de_diálisis_de_urgencia",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Indicaciones absolutas de hemodiálisis urgente",
+      "title": "Indicaciones absolutas: AEIOU",
+      "contentHtml": "<h2>Indicaciones absolutas de hemodiálisis urgente</h2><ul><li>La mnemotecnia <b>AEIOU</b> resume las indicaciones: <b>A</b>cidosis metabólica grave, <b>E</b>lectrolitos (hiperpotasemia severa), <b>I</b>ntoxicación por dializables, <b>O</b>verload (sobrecarga de volumen), <b>U</b>remia sintomática.</li><li>Son indicaciones absolutas: <b>hiperpotasemia severa</b> con cambios electrocardiográficos, <b>acidosis metabólica grave</b> no corregible con bicarbonato, <b>sobrecarga de volumen refractaria</b> a diuréticos, <b>uremia sintomática</b> (pericarditis, encefalopatía, convulsiones), e <b>intoxicación por metanol o etilenglicol</b>.</li><li>La <b>creatinina elevada</b> no es indicación por sí sola; se dializa por complicaciones, no por cifra.</li><li>En fallo renal agudo con <b>anuria</b> y complicaciones, iniciar diálisis de urgencia si hay criterios AEIOU.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Hiperpotasemia severa con cambios ECG",
+      "title": "Hiperpotasemia: ECG y manejo",
+      "contentHtml": "<h2>Hiperpotasemia severa con cambios electrocardiográficos</h2><ul><li>Definición: potasio sérico &gt; <b>6,5 mEq/L</b> o cualquier valor con cambios electrocardiográficos.</li><li>Cambios electrocardiográficos progresivos: <b>ondas T picudas</b>, <b>intervalo PR prolongado</b>, <b>pérdida de onda P</b>, <b>complejo QRS ancho</b>, y finalmente <b>onda sinusoidal</b> o fibrilación ventricular.</li><li>Primera línea: <b>gluconato de calcio intravenoso</b> (10 ml al 10%) para estabilizar membrana; no reduce potasio.</li><li>Luego: <b>insulina regular</b> (10 unidades) con <b>glucosa al 50%</b> (50 ml) para shift intracelular; también <b>bicarbonato de sodio</b> si acidosis.</li><li>Diálisis de urgencia está indicada si hay cambios electrocardiográficos o potasio &gt; <b>6,5 mEq/L</b> refractario a tratamiento médico.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Sobrecarga de volumen refractaria a diuréticos",
+      "title": "Sobrecarga de volumen refractaria",
+      "contentHtml": "<h2>Sobrecarga de volumen refractaria a diuréticos</h2><ul><li>Definición: edema pulmonar o anasarca que no responde a dosis adecuadas de <b>diuréticos de asa</b> (p. ej., furosemida intravenosa &gt; <b>200 mg/día</b>).</li><li>Evaluar siempre <b>adherencia</b>, <b>ingesta de sodio</b> y función renal; si falla, considerar <b>diuréticos tiazídicos</b> adyuvantes (secuencial de nefronas).</li><li>Indicación de hemodiálisis urgente: <b>edema agudo de pulmón</b> con insuficiencia renal oligúrica o refractariedad a diuréticos.</li><li>En fallo renal agudo con <b>anuria</b>, la sobrecarga de volumen es la causa más común de diálisis urgente.</li><li>La <b>ultrafiltración</b> en hemodiálisis puede remover 1-2 litros por sesión; ajustar según hemodinamia.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Acidosis metabólica grave no corregible",
+      "title": "Acidosis metabólica grave",
+      "contentHtml": "<h2>Acidosis metabólica grave no corregible</h2><ul><li>Indicación de diálisis: <b>pH &lt; 7,1</b> o <b>bicarbonato &lt; 10 mEq/L</b> que no corrige con bicarbonato intravenoso.</li><li>En fallo renal agudo, la acidosis es por <b>retención de ácidos</b> (anión gap alto) y <b>disminución de excreción de amonio</b>.</li><li>Administrar <b>bicarbonato de sodio</b> si pH &lt; 7,1, pero riesgo de <b>sobrecarga de volumen</b> e hipernatremia.</li><li>Diálisis está indicada si acidosis es refractaria, especialmente con <b>hiperpotasemia</b> concomitante.</li><li>En intoxicación por <b>metanol o etilenglicol</b>, la acidosis grave es indicación absoluta de hemodiálisis, incluso con pH &gt; 7,1 si hay daño orgánico.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Uremia sintomática: pericarditis, encefalopatía",
+      "title": "Uremia sintomática",
+      "contentHtml": "<h2>Uremia sintomática: pericarditis, encefalopatía</h2><ul><li><b>Pericarditis urémica</b>: dolor pleurítico, roce pericárdico, cambios electrocardiográficos difusos; indica diálisis urgente.</li><li><b>Encefalopatía urémica</b>: confusión, asterixis, mioclonías, convulsiones; secundaria a toxinas urémicas.</li><li>Otros síntomas: <b>náuseas</b>, <b>vómitos</b>, <b>prurito</b>, <b>sangrado</b> por disfunción plaquetaria.</li><li>La <b>urea</b> &gt; <b>200 mg/dL</b> no es indicación aislada; solo si hay síntomas.</li><li>La <b>pericarditis urémica</b> responde a diálisis, pero puede complicarse con <b>taponamiento cardiaco</b>; monitorear.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Intoxicación por metanol o etilenglicol",
+      "title": "Intoxicación por alcoholes",
+      "contentHtml": "<h2>Intoxicación por metanol o etilenglicol</h2><ul><li><b>Metanol</b>: metabolito ácido fórmico → acidosis metabólica, <b>alteraciones visuales</b> (papiledema).</li><li><b>Etilenglicol</b>: metabolito ácido oxálico → acidosis, <b>insuficiencia renal aguda</b> por cristales de oxalato de calcio en túbulos.</li><li>Indicación de hemodiálisis: <b>acidosis metabólica grave</b> (pH &lt; 7,3), <b>fallo renal</b>, o niveles &gt; <b>50 mg/dL</b> (metanol o etilenglicol).</li><li>Antídoto: <b>fomepizol</b> (inhibidor de alcohol deshidrogenasa) o etanol; administrar antes de diálisis.</li><li>Hemodiálisis remueve el alcohol y sus metabolitos; ajustar dosis de fomepizol durante la sesión.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Intoxicación por litio o salicilatos",
+      "title": "Intoxicación por litio y salicilatos",
+      "contentHtml": "<h2>Intoxicación por litio o salicilatos</h2><ul><li><b>Litio</b>: tóxico con niveles &gt; <b>2,5 mEq/L</b> o &gt; <b>1,5 mEq/L</b> con síntomas neurológicos (confusión, convulsiones).</li><li>El litio se dializa bien; indicación absoluta si <b>insuficiencia renal</b>, <b>coma</b> o <b>convulsiones</b>.</li><li>Evitar <b>diuréticos tiazídicos</b> y <b>antiinflamatorios no esteroideos</b> que aumentan reabsorción de litio.</li><li><b>Salicilatos</b>: intoxicación grave con niveles &gt; <b>100 mg/dL</b> (aguda) o &gt; <b>60 mg/dL</b> (crónica) y acidosis.</li><li>Hemodiálisis si <b>acidosis grave</b>, <b>fallo renal</b>, <b>convulsiones</b> o <b>edema pulmonar</b>; alcalinizar con bicarbonato para aumentar excreción urinaria.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Hipercalcemia severa refractaria al tratamiento",
+      "title": "Hipercalcemia severa",
+      "contentHtml": "<h2>Hipercalcemia severa refractaria al tratamiento</h2><ul><li>Definición: calcio corregido &gt; <b>14 mg/dL</b> o &gt; <b>12 mg/dL</b> con síntomas neurológicos o cardiacos.</li><li>Primera línea: <b>solución salina intravenosa</b> (expansión de volumen) y <b>calcitonina</b> (4-8 UI/kg subcutánea) para efecto rápido.</li><li>Segunda línea: <b>bifosfonatos</b> (p. ej., pamidronato 60-90 mg intravenoso) que actúan en 24-48 horas.</li><li>Hemodiálisis con <b>calcio bajo en dializado</b> (1,5 mEq/L) está indicada si <b>fallo renal</b> o <b>refractariedad</b> a tratamiento médico.</li><li>La <b>hipercalcemia severa</b> puede causar <b>necrosis tubular aguda</b> y empeorar función renal.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Fallo renal agudo con anuria y complicaciones",
+      "title": "Fallo renal agudo anúrico",
+      "contentHtml": "<h2>Fallo renal agudo con anuria y complicaciones</h2><ul><li><b>Anuria</b> (diuresis &lt; <b>100 mL/24h</b>) sugiere <b>necrosis tubular aguda</b> severa, obstrucción bilateral o <b>glomerulonefritis rápidamente progresiva</b>.</li><li>Indicación de diálisis urgente si hay <b>hiperpotasemia</b>, <b>acidosis</b>, <b>edema pulmonar</b> o <b>uremia sintomática</b>.</li><li>La <b>creatinina</b> &gt; <b>10 mg/dL</b> no es criterio aislado; evaluar complicaciones.</li><li>En <b>fallo renal agudo</b>, la diálisis temprana no mejora supervivencia si no hay indicación clásica.</li><li>Complicaciones: <b>sobrecarga de volumen</b>, <b>pericarditis</b>, <b>encefalopatía</b>; corregir con diálisis.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Creatinina elevada no es indicación per se",
+      "title": "Creatinina no indica diálisis",
+      "contentHtml": "<h2>Creatinina elevada no es indicación per se</h2><ul><li>La <b>creatinina</b> es un marcador de función renal, pero no de toxicidad urémica.</li><li>Pacientes con <b>enfermedad renal crónica</b> pueden tener creatinina &gt; <b>8 mg/dL</b> asintomáticos y no requieren diálisis urgente.</li><li>La diálisis se indica por <b>complicaciones</b>: hiperpotasemia, acidosis, sobrecarga de volumen, uremia sintomática.</li><li>En <b>fallo renal agudo</b>, la <b>creatinina</b> sube 1-2 mg/dL/día; no usar cifra sola.</li><li>Evaluar <b>tasa de filtrado glomerular</b> con <b>ecuación CKD-EPI</b> para estadificar, pero no decide urgencia dialítica.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Diálisis urgente en hiperfosfatemia no indicada",
+      "title": "Hiperfosfatemia: no dializar",
+      "contentHtml": "<h2>Diálisis urgente en hiperfosfatemia no indicada</h2><ul><li>La <b>hiperfosfatemia</b> aislada no es indicación de diálisis urgente; se maneja con <b>quelantes de fósforo</b> (carbonato de calcio, sevelámero) y restricción dietética.</li><li>Niveles &gt; <b>7 mg/dL</b> pueden causar <b>calcificación metastásica</b> si son crónicos, pero no emergencia aguda.</li><li>En <b>síndrome de lisis tumoral</b>, la hiperfosfatemia severa con <b>hipocalcemia</b> puede requerir diálisis si hay <b>fallo renal</b> y síntomas.</li><li>La diálisis remueve fósforo, pero es menos eficiente que en otras indicaciones; usar solo si complicaciones.</li><li>Priorizar <b>hidratación</b> y <b>rasburicasa</b> en lisis tumoral para prevenir fallo renal.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Criterios de diálisis: AEIOU mnemotecnia",
+      "title": "Mnemotecnia AEIOU",
+      "contentHtml": "<h2>Criterios de diálisis: AEIOU mnemotecnia</h2><ul><li><b>A</b>cidosis metabólica grave (pH &lt; 7,1) no corregible con bicarbonato.</li><li><b>E</b>lectrolitos: <b>hiperpotasemia severa</b> (&gt; 6,5 mEq/L o cambios electrocardiográficos) refractaria a tratamiento.</li><li><b>I</b>ntoxicaciones por <b>metanol</b>, <b>etilenglicol</b>, <b>litio</b>, <b>salicilatos</b>, o <b>ácido valproico</b> (si niveles tóxicos).</li><li><b>O</b>verload (sobrecarga de volumen) con <b>edema pulmonar</b> refractario a diuréticos.</li><li><b>U</b>remia sintomática: <b>pericarditis</b>, <b>encefalopatía</b>, <b>convulsiones</b>, <b>sangrado</b>.</li><li>No incluye <b>hiperfosfatemia</b> ni <b>creatinina elevada</b> aisladas.</li></ul>"
+    }
+  ]
+}

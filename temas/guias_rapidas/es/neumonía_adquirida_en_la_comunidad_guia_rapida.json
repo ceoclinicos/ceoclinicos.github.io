@@ -1,0 +1,77 @@
+{
+  "id": "neumonía_adquirida_en_la_comunidad",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Criterios CURB-65 para gravedad",
+      "title": "Criterios CURB-65",
+      "contentHtml": "<h2>Criterios CURB-65 para gravedad</h2><ul><li><b>Confusión</b> de inicio agudo (desorientación a persona, lugar o tiempo).</li><li><b>Urea</b> en sangre &gt;7 mmol/L (aproximadamente &gt;19 mg/dL de nitrógeno ureico).</li><li><b>Frecuencia respiratoria</b> &ge;30 respiraciones por minuto.</li><li><b>Presión arterial</b>: sistólica &lt;90 mmHg o diastólica &le;60 mmHg.</li><li><b>Edad</b> &ge;65 años.</li><li>Cada criterio suma 1 punto; puntuación 0-1 bajo riesgo, 2 riesgo intermedio, &ge;3 alto riesgo.</li><li>La confusión se evalúa clínicamente, no con escalas cognitivas formales.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Derivación según CURB-65 mayor o igual a 2",
+      "title": "Derivación según CURB-65",
+      "contentHtml": "<h2>Derivación según CURB-65 mayor o igual a 2</h2><ul><li><b>CURB-65</b> 0-1: tratamiento ambulatorio.</li><li><b>CURB-65</b> 2: considerar hospitalización o unidad de corta estancia; valorar comorbilidades y saturación de oxígeno.</li><li><b>CURB-65</b> &ge;3: hospitalización; &ge;4 valorar ingreso en unidad de cuidados intensivos.</li><li>La decisión final integra criterios sociales, hipoxemia (saturación &lt;92%) y fracaso de tratamiento ambulatorio.</li><li>Trampa de examen: no derivar solo por edad si el resto de criterios están ausentes.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Neumococo como agente más frecuente",
+      "title": "Streptococcus pneumoniae",
+      "contentHtml": "<h2>Neumococo como agente más frecuente</h2><ul><li><b>Streptococcus pneumoniae</b> (neumococo) es el agente etiológico más frecuente de neumonía adquirida en la comunidad en todos los grupos de edad.</li><li>Coco grampositivo lanceolado, diplococo, alfa-hemolítico, capsulado; la cápsula es factor de virulencia principal.</li><li>Presentación clásica: fiebre alta, escalofríos, dolor torácico pleurítico, expectoración herrumbrosa y consolidación lobar.</li><li>Complicaciones: derrame paraneumónico, empiema, bacteriemia, meningitis.</li><li>Trampa: la presentación clásica no es obligatoria; en ancianos puede haber solo confusión.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Streptococcus pneumoniae resistente a penicilina",
+      "title": "Resistencia a penicilina",
+      "contentHtml": "<h2>Streptococcus pneumoniae resistente a penicilina</h2><ul><li>La resistencia se debe a alteraciones de las proteínas fijadoras de penicilina (PBP), no a betalactamasas.</li><li>Resistencia de alto nivel es infrecuente; la mayoría de cepas con resistencia intermedia responden a dosis altas de betalactámicos.</li><li>En neumonía ambulatoria no complicada, <b>amoxicilina</b> a dosis altas (1 g cada 8 horas) sigue siendo eficaz frente a cepas no completamente resistentes.</li><li>Factores de riesgo de resistencia: edad &ge;65 años, tratamiento antibiótico previo en los últimos 3 meses, inmunosupresión, exposición a guardería.</li><li>Trampa: la resistencia a penicilina no contraindica amoxicilina empírica en paciente ambulatorio sin factores de riesgo.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Atípicos: Mycoplasma, Chlamydia, Legionella",
+      "title": "Patógenos atípicos",
+      "contentHtml": "<h2>Atípicos: Mycoplasma, Chlamydia, Legionella</h2><ul><li><b>Mycoplasma pneumoniae</b>: adulto joven, inicio insidioso, tos seca persistente, faringitis, miringitis bullosa, anemia hemolítica por crioaglutininas; sin pared celular, no responde a betalactámicos.</li><li><b>Chlamydia pneumoniae</b>: cuadro subagudo, cefalea, ronquera; asociación con enfermedad aterosclerótica.</li><li><b>Legionella pneumophila</b>: fiebre alta, hiponatremia, diarrea, confusión, elevación de transaminasas; asociada a sistemas de agua caliente y aire acondicionado.</li><li>Tratamiento: macrólido o doxiciclina; en Legionella grave, fluoroquinolona o macrólido intravenoso.</li><li>Trampa: los betalactámicos no cubren atípicos.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Legionella: hiponatremia y diarrea",
+      "title": "Legionella",
+      "contentHtml": "<h2>Legionella: hiponatremia y diarrea</h2><ul><li><b>Legionella pneumophila</b> serogrupo 1 es la causa más frecuente de legionelosis.</li><li>Presentación: fiebre alta, tos, disnea, <b>hiponatremia</b> (por síndrome de secreción inadecuada de hormona antidiurética o tubulopatía), <b>diarrea</b>, confusión, elevación de transaminasas y creatina fosfocinasa.</li><li>La hiponatremia es un marcador de gravedad y se asocia a peor pronóstico.</li><li>Diagnóstico: antígeno urinario para Legionella serogrupo 1 (rápido, alta especificidad), cultivo en medio BCYE (estándar de oro), reacción en cadena de la polimerasa.</li><li>Trampa: el antígeno urinario no detecta otros serogrupos ni otras especies.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Diagnóstico con radiografía de tórax",
+      "title": "Radiografía de tórax",
+      "contentHtml": "<h2>Diagnóstico con radiografía de tórax</h2><ul><li><b>Radiografía de tórax</b> en dos proyecciones (posteroanterior y lateral) es el estudio inicial de elección para confirmar neumonía.</li><li>Hallazgo clave: <b>consolidación lobar o segmentaria con broncograma aéreo</b>.</li><li>La radiografía puede ser normal en las primeras 24 horas y en deshidratación grave; repetir si alta sospecha.</li><li>No se recomienda radiografía de rutina en seguimiento si la evolución clínica es favorable; considerar a las 6-8 semanas en fumadores o mayores de 50 años para descartar neoplasia.</li><li>Trampa: la radiografía no distingue etiología; la tomografía computarizada se reserva para complicaciones o duda diagnóstica.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Hemocultivos antes de antibiótico en graves",
+      "title": "Hemocultivos",
+      "contentHtml": "<h2>Hemocultivos antes de antibiótico en graves</h2><ul><li>En neumonía adquirida en la comunidad grave (criterios de ingreso a unidad de cuidados intensivos, <b>CURB-65</b> &ge;3 o neumonía con derrame), obtener <b>hemocultivos</b> antes de iniciar antibiótico.</li><li>Dos juegos de hemocultivos de sitios periféricos, con 20-30 mL de sangre total, antes de la primera dosis antibiótica.</li><li>También considerar cultivo de esputo y antígeno urinario para <b>Streptococcus pneumoniae</b> y <b>Legionella pneumophila</b> en casos graves.</li><li>No retrasar el antibiótico más de 4-6 horas por obtener muestras; en inestabilidad hemodinámica, iniciar tras la extracción si es posible.</li><li>Trampa: los hemocultivos no están indicados de rutina en neumonía ambulatoria no complicada.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Inicio de antibiótico en menos de 4-6 horas",
+      "title": "Tiempo de inicio de antibiótico",
+      "contentHtml": "<h2>Inicio de antibiótico en menos de 4-6 horas</h2><ul><li>En neumonía adquirida en la comunidad grave o con criterios de hospitalización, iniciar <b>antibiótico empírico en menos de 4-6 horas</b> desde el diagnóstico.</li><li>El retraso del tratamiento se asocia a mayor mortalidad, especialmente en pacientes con <b>CURB-65</b> &ge;3 o inestabilidad hemodinámica.</li><li>En pacientes ambulatorios estables, el inicio temprano es deseable pero no exige el mismo umbral horario.</li><li>Antes de la primera dosis, obtener hemocultivos y muestras respiratorias si no retrasan el tratamiento.</li><li>Trampa: la hora de inicio se cuenta desde la llegada al servicio de urgencias o desde el diagnóstico, no desde el ingreso a planta.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Amoxicilina empírica en ambulatorio sano",
+      "title": "Amoxicilina empírica",
+      "contentHtml": "<h2>Amoxicilina empírica en ambulatorio sano</h2><ul><li>En adulto sano, sin comorbilidades ni factores de riesgo de resistencia, el tratamiento empírico de elección es <b>amoxicilina</b> 1 g por vía oral cada 8 horas durante 5-7 días.</li><li>Alternativas: doxiciclina 100 mg cada 12 horas o macrólido (azitromicina) si alergia a betalactámicos o sospecha de atípicos.</li><li>En pacientes con comorbilidades (diabetes mellitus, enfermedad pulmonar obstructiva crónica, insuficiencia cardíaca, enfermedad renal crónica) o uso previo de antibióticos, usar amoxicilina-clavulanato o betalactámico más macrólido.</li><li>Duración mínima de 5 días y afebril 48-72 horas antes de suspender.</li><li>Trampa: la amoxicilina no cubre patógenos atípicos; si se sospechan, añadir macrólido o doxiciclina.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Macrólido o doxiciclina en atípicos",
+      "title": "Cobertura de atípicos",
+      "contentHtml": "<h2>Macrólido o doxiciclina en atípicos</h2><ul><li>Los patógenos atípicos (<b>Mycoplasma pneumoniae</b>, <b>Chlamydia pneumoniae</b>, <b>Legionella pneumophila</b>) carecen de pared celular o son intracelulares; los betalactámicos son ineficaces.</li><li>Tratamiento de elección: <b>macrólido</b> (azitromicina 500 mg el primer día y luego 250 mg al día por 4 días, o claritromicina 500 mg cada 12 horas) o <b>doxiciclina</b> 100 mg cada 12 horas.</li><li>En <b>Legionella</b> grave: azitromicina intravenosa o levofloxacino 750 mg al día.</li><li>La doxiciclina está contraindicada en embarazo y en niños menores de 8 años; usar macrólido en esos casos.</li><li>Trampa: la resistencia de <b>Mycoplasma pneumoniae</b> a macrólidos está aumentando en Asia; en fallo terapéutico, considerar fluoroquinolona.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Vacuna antineumocócica en prevención",
+      "title": "Vacuna antineumocócica",
+      "contentHtml": "<h2>Vacuna antineumocócica en prevención</h2><ul><li>Vacuna conjugada 13-valente (VPC13) y vacuna polisacárida 23-valente (VPP23) son las disponibles para prevención de enfermedad neumocócica invasora.</li><li>Indicación en adultos &ge;65 años y en adultos de 19-64 años con factores de riesgo (inmunosupresión, asplenia, enfermedad pulmonar crónica, diabetes mellitus, enfermedad renal crónica, tabaquismo).</li><li>Esquema habitual en adultos: VPC13 seguida de VPP23 al menos 1 año después (mínimo 8 semanas si inmunosupresión).</li><li>La vacuna reduce enfermedad invasora y neumonía bacteriémica, no toda neumonía adquirida en la comunidad.</li><li>Trampa: la vacuna antineumocócica no sustituye la vacunación antigripal anual, que también reduce neumonía secundaria.</li></ul>"
+    }
+  ]
+}

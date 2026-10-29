@@ -1,0 +1,77 @@
+{
+  "id": "babesiosis",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Ixodes tick vector",
+      "title": "Vector and transmission cycle",
+      "contentHtml": "<h2>Vector and transmission cycle</h2><ul><li><b>Ixodes scapularis</b> (black-legged tick) is the primary vector in the northeastern United States; <b>Ixodes ricinus</b> in Europe.</li><li>Transmission occurs by nymphs, not by adults; the feeding period required to inoculate <i>Babesia</i> is usually &gt;24-36 hours.</li><li>The main reservoir is small rodents, especially the white-footed mouse (<i>Peromyscus leucopus</i>).</li><li>Babesiosis is not transmitted from person to person by direct contact; The non-vector route includes blood transfusion and congenital transmission. </li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Blood culture not useful for diagnosis",
+      "title": "Diagnosis: useless blood culture",
+      "contentHtml": "<h2>Diagnosis: useless blood culture</h2><ul><li>Conventional blood culture is not useful because <i>Babesia</i> is an intraerythrocytic parasite that does not grow in standard bacterial media.</li><li>Definitive diagnosis is based on direct visualization of the parasite in peripheral blood smears stained with <b>Giemsa</b> or <b>Wright</b>.</li><li>Parasitemia may be low at the beginning; repeat the smear every 12-24 hours if suspicion is high. </li><li><b>inoculation in animals</b> (hamster or gerbil) is an experimental technique, not available in routine clinical practice.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Thick blood smear",
+      "title": "Smear and thick smear",
+      "contentHtml": "<h2>Smear and thick smear</h2><ul><li>The <b>thick smear</b> concentrates parasites and increases sensitivity, but the <b>thin smear</b> allows identification of the species and morphology. </li><li>In the thin smear, <i>Babesia</i> trophozoites appear as intraerythrocytic rings similar to <i>Plasmodium falciparum</i>.</li><li>The <b>tetrad</b> (Maltese cross shape) is pathognomonic but is seen in less than 5% of cases.</li><li>Parasitemia >4% is associated with severe disease; The count is expressed as a percentage of infected erythrocytes.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "High sensitivity PCR",
+      "title": "PCR in diagnosis",
+      "contentHtml": "<h2>PCR in diagnosis</h2><ul><li>The <b>polymerase chain reaction (PCR)</b> has high sensitivity and specificity, especially useful in low parasitemias or when the smear is negative.</li><li>PCR can detect <i>Babesia</i> DNA even after treatment, so it should not be used to monitor cure.</li><li>It is recommended in cases of high clinical suspicion with a negative smear, and in blood donors for screening in endemic areas.</li><li>PCR does not differentiate between active and past infection if used qualitatively; Quantitative load can be correlated with severity.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Tetrad intraerythrocytic parasite",
+      "title": "Morphology: tetrad",
+      "contentHtml": "<h2>Morphology: tetrad</h2><ul><li>The <b>tetrad</b> (also called <b>Maltese cross</b>) consists of four merozoites within an erythrocyte, the product of asexual division. </li><li>It is highly suggestive of babesiosis, but its absence does not exclude the diagnosis.</li><li>In the thin extension, the rings can have a vacuole, but unlike <i>Plasmodium</i> there is no malarial pigment (hemozoin).</li><li>The observation of extracellular forms (broken erythrocytes) is common in babesiosis, rare in malaria.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Splenectomy serious risk factor",
+      "title": "Severity risk factors",
+      "contentHtml": "<h2>Severity risk factors</h2><ul><li><b>Splenectomy</b> is the most important risk factor for severe disease, with high parasitemias and a fulminant course.</li><li>Other factors: age &gt;50 years, immunosuppression (HIV/AIDS, transplant, biological therapy), underlying cardiovascular or liver disease.</li><li>In asplenic patients, parasitemia can exceed the 70% and cause multiple organ failure. </li><li>Coinfection with <i>Borrelia burgdorferi</i> (Lyme disease) can also increase the severity.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Babesia microti common species",
+      "title": "most common species",
+      "contentHtml": "<h2>Most common species</h2><ul><li><b>Babesia microti</b> is the most common species in humans in the United States, transmitted by <b>Ixodes scapularis</b>.</li><li>In Europe, <b>Babesia divergens</b> is the main species, associated with cattle and with greater severity in splenectomized cattle.</li><li><b>Babesia duncani</b> has been described on the west coast of the United States.</li><li>The species <i>Babesia venatorum</i> (EU1) has been reported in Europe and Asia.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Atovaquone plus azithromycin treatment",
+      "title": "First line treatment",
+      "contentHtml": "<h2>First-line treatment</h2><ul><li>The regimen of choice for mild-moderate disease is <b>atovaquone</b> (750 mg every 12 hours) plus <b>azithromycin</b> (500 mg on the first day, then 250 mg/day) orally for 7-10 days.</li><li>This combination has fewer adverse effects than the alternative with quinine.</li><li>In patients immunocompromised or with severe disease, treatment can be prolonged up to 6 weeks or more, with monitoring for parasitemia. </li><li>Atovaquone acts by inhibiting the parasite's mitochondrial electron transport. </li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Alternativa clindamicina con quinina",
+      "title": "Tratamiento alternativo",
+      "contentHtml": "<h2>Tratamiento alternativo</h2><ul><li>La combinación <b>clindamicina</b> (600 mg cada 8 horas) más <b>quinina</b> (650 mg cada 6-8 horas) es la alternativa clásica, especialmente en enfermedad grave o si hay alergia a atovacuona.</li><li>Este esquema se asocia con más efectos adversos: cinconismo, hipoglucemia, arritmias (prolongación QT), y tinnitus.</li><li>En pacientes con parasitemia &gt;10% o complicaciones graves, se recomienda exanguinotransfusión además del tratamiento antiparasitario.</li><li>La clindamicina se administra intravenosa en casos severos.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Disease transmitted blood transfusion",
+      "title": "blood transfusion",
+      "contentHtml": "<h2>Transmisión transfusional</h2><ul><li>La babesiosis es la infección transmitida por transfusión más reportada en Estados Unidos, con <i>Babesia microti</i> como principal agente.</li><li>Los eritrocitos contaminados pueden permanecer viables durante la refrigeración (hasta 35 días) y sobrevivir a la leucorreducción.</li><li>El riesgo es mayor en donantes asintomáticos con parasitemia baja y persistente.</li><li>El screening de donantes se realiza en áreas endémicas mediante anticuerpos y PCR; la infección puede ser fatal en receptores inmunocomprometidos o asplénicos.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Fiebre hemolítica con anemia",
+      "title": "Clinical picture: hemolytic anemia",
+      "contentHtml": "<h2>Clinical picture: hemolytic anemia</h2><ul><li>The typical presentation is fever, fatigue, headache, myalgia, and hemolytic anemia with jaundice and splenomegaly.</li><li>Hemolysis is intravascular and extravascular, with increased lactate dehydrogenase (LDH) and indirect bilirubin, decreased haptoglobin, and reticulocytosis.</li><li>Thrombocytopenia may occur.</li><li>Thrombocytopenia may occur. and leukopenia, but disseminated intravascular coagulation is rare.</li><li>In severe cases: acute renal failure, acute respiratory distress syndrome, shock.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Coinfection with Borrelia burgdorferi",
+      "title": "Coinfección con Borrelia burgdorferi",
+      "contentHtml": "<h2>Coinfection with Borrelia burgdorferi</h2><ul><li>Both infections share the <b>Ixodes scapularis</b> vector, so coinfection is possible in up to 10-15% of patients with Lyme disease.</li><li>Presentation may include persistent fever, arthritis, erythema migrans, and constitutional symptoms that do not respond to doxycycline alone.</li><li>If coinfection is suspected, should treat both: doxycycline for <i>Borrelia burgdorferi</i> and babesiosis regimen.</li><li>Coinfection can cause more severe and prolonged disease, with a higher risk of complications.</li></ul>"
+    }
+  ]
+}

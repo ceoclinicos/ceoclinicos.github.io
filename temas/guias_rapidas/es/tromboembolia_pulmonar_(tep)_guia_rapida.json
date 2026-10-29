@@ -1,0 +1,77 @@
+{
+  "id": "tromboembolia_pulmonar_(tep)",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Wells y Ginebra para probabilidad clínica",
+      "title": "Escalas de probabilidad clínica: Wells y Ginebra",
+      "contentHtml": "<h2>Escalas de probabilidad clínica</h2><ul><li><b>Wells</b> para tromboembolia pulmonar: puntúa criterios clínicos; &gt;4 puntos indica probabilidad alta, 2-4 moderada, &lt;2 baja. Alternativa dicotómica: &gt;4 probable, ≤4 improbable.</li><li><b>Ginebra revisada</b>: estratifica en bajo, intermedio y alto; útil cuando no se usa Wells.</li><li>Ambas guían la secuencia diagnóstica: probabilidad baja/improbable + dímero D negativo descarta tromboembolia pulmonar sin imagen.</li><li>Trampa: no sustituyen la clínica; en inestabilidad hemodinámica no se usan para decidir trombolisis.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Dímero D negativo descarta TEP en baja probabilidad",
+      "title": "Dímero D: valor descartable",
+      "contentHtml": "<h2>Dímero D negativo</h2><ul><li>En probabilidad clínica baja o tromboembolia pulmonar improbable (Wells ≤4 o Ginebra bajo), un <b>dímero D negativo</b> descarta tromboembolia pulmonar sin necesidad de angiotomografía computarizada pulmonar.</li><li>Alta especificidad solo en baja probabilidad; en probabilidad alta o intermedia un negativo no descarta.</li><li>Falsos positivos: embarazo, cáncer, cirugía reciente, infección, edad avanzada; ajustar por edad (edad × 10 µg/L) en &gt;50 años.</li><li>Trampa: no pedir dímero D si la probabilidad es alta; ir directo a imagen.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "AngioTC pulmonar es el estudio de elección",
+      "title": "Angiotomografía computarizada pulmonar",
+      "contentHtml": "<h2>Estudio de elección</h2><ul><li><b>Angiotomografía computarizada pulmonar</b> es el estudio de elección para tromboembolia pulmonar: alta sensibilidad y especificidad, identifica émbolos hasta subsegmentarios y permite diagnósticos alternativos.</li><li>Hallazgo clave: defecto de repleción en arterias pulmonares en fase arterial.</li><li>Contraindicaciones relativas: insuficiencia renal, alergia al contraste, embarazo; en embarazo considerar gammagrafía ventilación/perfusión.</li><li>Trampa: no retrasar en inestabilidad; si el paciente está inestable y la tomografía no es inmediata, ecocardiograma bedside puede apoyar trombolisis empírica.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Gammagrafía V/Q si contraste contraindicado",
+      "title": "Gammagrafía ventilación/perfusión",
+      "contentHtml": "<h2>Alternativa sin contraste</h2><ul><li><b>Gammagrafía ventilación/perfusión</b> se indica si el contraste yodado está contraindicado: insuficiencia renal, alergia grave al contraste o embarazo.</li><li>Resultado: alta probabilidad con defectos de perfusión segmentarios sin alteración ventilatoria; normal descarta tromboembolia pulmonar en probabilidad baja/intermedia.</li><li>Limitación: menor disponibilidad, resultados no concluyentes frecuentes en enfermedad pulmonar obstructiva crónica o infiltrados.</li><li>Trampa: no es primera línea si la angiotomografía computarizada pulmonar está disponible y no contraindicada.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Signos de sobrecarga derecha en ECG",
+      "title": "ECG: sobrecarga derecha",
+      "contentHtml": "<h2>Signos electrocardiográficos de sobrecarga derecha</h2><ul><li><b>S1Q3T3</b>: onda S en I, Q en III y T invertida en III; clásico pero poco sensible.</li><li>Otros: desviación del eje a la derecha, bloqueo completo o incompleto de rama derecha, T invertida en precordiales derechas (V1-V4), onda P pulmonale.</li><li>Significado: disfunción del ventrículo derecho por aumento de resistencia vascular pulmonar; se asocia a mayor gravedad.</li><li>Trampa: ECG normal no descarta; ningún signo es patognomónico.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Taquicardia sinusal es el hallazgo ECG más frecuente",
+      "title": "Hallazgo ECG más frecuente",
+      "contentHtml": "<h2>Taquicardia sinusal</h2><ul><li><b>Taquicardia sinusal</b> es el hallazgo electrocardiográfico más frecuente en tromboembolia pulmonar; inespecífico pero presente en la mayoría.</li><li>Mecanismo: respuesta adrenérgica y aumento del gasto cardiaco por obstrucción vascular.</li><li>Frecuencia &gt;100 lpm; puede coexistir con fibrilación auricular de novo por sobrecarga auricular derecha.</li><li>Trampa: su ausencia no excluye; buscar signos de sobrecarga derecha asociados.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "TEP masiva: hipotensión o shock",
+      "title": "Tromboembolia pulmonar masiva",
+      "contentHtml": "<h2>Tromboembolia pulmonar masiva</h2><ul><li>Definida por <b>hipotensión</b> (presión arterial sistólica &lt;90 mmHg o caída &gt;40 mmHg) o <b>shock</b>, no solo por carga trombótica anatómica.</li><li>Fisiopatología: obstrucción &gt;50% del lecho vascular pulmonar con fallo agudo del ventrículo derecho.</li><li>Mortalidad alta; requiere reperfusión urgente, no solo anticoagulación.</li><li>Trampa: la clasificación es hemodinámica; una tomografía con émbolo central no define masiva si el paciente está estable.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Trombolisis en TEP con inestabilidad hemodinámica",
+      "title": "Trombolisis en inestabilidad",
+      "contentHtml": "<h2>Trombolisis</h2><ul><li>Indicada en tromboembolia pulmonar con <b>inestabilidad hemodinámica</b> (hipotensión o shock) sin contraindicación absoluta.</li><li>Fármaco de elección: <b>alteplasa</b> 100 mg en 2 horas o 0,6 mg/kg en 15 minutos (máximo 50 mg) en paro inminente.</li><li>Alternativa si contraindicación: embolectomía quirúrgica o catéter.</li><li>Trampa: en pacientes estables con disfunción del ventrículo derecho aislada no se tromboliza de rutina; solo anticoagulación.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Anticoagulación con HBPM o AOD en estable",
+      "title": "Anticoagulación en paciente estable",
+      "contentHtml": "<h2>Anticoagulación inicial</h2><ul><li>En tromboembolia pulmonar estable: <b>heparina de bajo peso molecular</b> (enoxaparina 1 mg/kg cada 12 horas) o <b>anticoagulantes orales directos</b> (apixabán 10 mg cada 12 horas por 7 días, luego 5 mg cada 12 horas; rivaroxabán 15 mg cada 12 horas por 21 días, luego 20 mg al día).</li><li>Anticoagulantes orales directos no en embarazo, síndrome antifosfolípido triple positivo ni insuficiencia renal grave.</li><li>Inicio simultáneo con anticoagulante oral directo; con warfarina requiere puente con heparina hasta INR 2-3.</li><li>Trampa: la heparina no fraccionada solo si inestabilidad, obesidad mórbida o insuficiencia renal.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Duración mínima de 3 meses de anticoagulación",
+      "title": "Duración de anticoagulación",
+      "contentHtml": "<h2>Duración mínima</h2><ul><li><b>Duración mínima de 3 meses de anticoagulación</b> en tromboembolia pulmonar provocada por factor transitorio.</li><li>Si el factor es persistente o idiopático: extender más allá de 3 meses, reevaluando riesgo de sangrado.</li><li>En cáncer activo: anticoagulación indefinida con heparina de bajo peso molecular o anticoagulante oral directo según guía.</li><li>Trampa: no suspender a las 3 meses en tromboembolia pulmonar no provocada sin evaluar recurrencia; el dímero D y el riesgo de sangrado guían la decisión.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Factores de riesgo transitorios vs persistentes",
+      "title": "Factores de riesgo transitorios y persistentes",
+      "contentHtml": "<h2>Factores de riesgo</h2><ul><li>Transitorios: cirugía mayor reciente, inmovilización &lt;3 meses, viaje prolongado, embarazo/puerperio, traumatismo, anticonceptivos orales.</li><li>Persistentes: cáncer activo, trombofilia hereditaria o adquirida, síndrome antifosfolípido, obesidad, enfermedad inflamatoria intestinal.</li><li>La distinción define duración de anticoagulación: transitorio permite 3 meses; persistente exige extender.</li><li>Trampa: el riesgo es acumulativo; varios transitorios suman y pueden comportar mayor recurrencia.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Embolia pulmonar recurrente y trombofilia",
+      "title": "Recurrencia y trombofilia",
+      "contentHtml": "<h2>Recurrencia y trombofilia</h2><ul><li>Embolia pulmonar recurrente: valorar trombofilia si es idiopática, recurrente, en &lt;50 años, en sitios atípicos o con historia familiar.</li><li>Estudio: anticuerpos antifosfolípidos, déficit de antitrombina, proteína C y S, factor V Leiden, mutación del gen de la protrombina.</li><li>No estudiar trombofilia de rutina en tromboembolia pulmonar provocada por factor transitorio ni durante anticoagulación (falsos negativos).</li><li>Trampa: el hallazgo de trombofilia no siempre cambia la duración; el síndrome antifosfolípido triple positivo contraindica anticoagulantes orales directos.</li></ul>"
+    }
+  ]
+}

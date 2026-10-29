@@ -1,0 +1,77 @@
+{
+  "id": "hiponatremia_e_hipernatremia",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Corrección lenta de hiponatremia crónica",
+      "title": "Límites de corrección y riesgo osmótico",
+      "contentHtml": "<h2>Corrección lenta de hiponatremia crónica</h2><ul><li>En hiponatremia crónica (&gt;48 horas o desconocida) la corrección no debe exceder <b>8 mmol/L en cualquier día</b> para evitar el síndrome de desmielinización osmótica.</li><li>Pacientes con alto riesgo (alcoholismo, desnutrición, hepatopatía) requieren un límite aún más estricto: <b>4-6 mmol/L en 24 horas</b>.</li><li>La meta inicial es un aumento de <b>4-6 mmol/L</b> en las primeras 24 horas, suficiente para revertir síntomas graves sin sobrecorregir.</li><li>Si se supera el límite, se debe <b>reducir el sodio sérico</b> con solución glucosada al 5% y considerar <b>desmopresina</b> para detener la diuresis acuosa.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Osmolalidad sérica en hiponatremia hipotónica",
+      "title": "Clasificación por osmolaridad",
+      "contentHtml": "<h2>Osmolalidad sérica en hiponatremia hipotónica</h2><ul><li>La <b>hiponatremia hipotónica</b> se define por una osmolalidad sérica &lt; <b>275 mOsm/kg</b>.</li><li>Excluir causas de hiponatremia sin hipoosmolaridad: hiperglucemia (corregir sodio sumando 1,6 mmol/L por cada 100 mg/dL de glucosa &gt;200), manitol o pseudohipernatremia por hiperlipidemia/hiperproteinemia.</li><li>Una vez confirmada la hipoosmolaridad, se clasifica según el estado de volumen y el sodio urinario para orientar la etiología.</li><li>La <b>osmolaridad urinaria</b> ayuda a diferenciar entre ingesta excesiva de agua (osmolaridad urinaria &lt;100 mOsm/kg) y estados con ADH presente (&gt;100, a menudo &gt;300).</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Síndrome de secreción inadecuada de ADH",
+      "title": "Criterios diagnósticos del SIADH",
+      "contentHtml": "<h2>Síndrome de secreción inadecuada de ADH</h2><ul><li>Los criterios esenciales del síndrome de secreción inadecuada de ADH son: <b>hipoosmolaridad</b> (&lt;275 mOsm/kg), <b>osmolaridad urinaria inapropiadamente alta</b> (&gt;100 mOsm/kg, típicamente &gt;300), <b>sodio urinario</b> &gt;40 mmol/L (con ingesta normal de sal), <b>euvolemia clínica</b>, y ausencia de hipotiroidismo o insuficiencia suprarrenal.</li><li>La causa más común es <b>secreción ectópica de ADH</b> por neoplasias (cáncer pulmonar de células pequeñas), enfermedades pulmonares o neurológicas, y fármacos (antidepresivos, carbamazepina).</li><li>El tratamiento de primera línea es la <b>restricción hídrica</b> (500-1000 mL/día); si falla, se usan antagonistas del receptor V2 como <b>tolvaptán</b> (con control estricto de la corrección).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Hiponatremia hipovolémica vs euvolémica vs hipervolémica",
+      "title": "Diagnóstico diferencial según volemia",
+      "contentHtml": "<h2>Hiponatremia hipovolémica vs euvolémica vs hipervolémica</h2><ul><li><b>Hiponatremia hipovolémica</b>: pérdidas de sodio y agua con reposición solo de agua (diuréticos, vómitos, diarrea). Sodio urinario &lt;20 mmol/L si pérdida extrarrenal; &gt;20 si pérdida renal (diuréticos, diuresis osmótica).</li><li><b>Hiponatremia euvolémica</b>: típicamente síndrome de secreción inadecuada de ADH, hipotiroidismo o insuficiencia suprarrenal. Sodio urinario &gt;40 mmol/L y osmolaridad urinaria &gt;100.</li><li><b>Hiponatremia hipervolémica</b>: cirrosis, insuficiencia cardíaca, síndrome nefrótico. Sodio urinario &lt;20 mmol/L (excepto si diuréticos). El tratamiento es restricción de sodio y agua, más diuréticos de asa.</li><li>La <b>evaluación clínica del volumen</b> (turgencia cutánea, mucosa oral, presión venosa yugular, edemas) es fundamental para clasificar.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Síndrome de desmielinización osmótica",
+      "title": "Prevención y manejo",
+      "contentHtml": "<h2>Síndrome de desmielinización osmótica</h2><ul><li>El síndrome de desmielinización osmótica (antes llamado mielinólisis pontina central) es una complicación de la <b>corrección excesiva o rápida</b> de la hiponatremia crónica, especialmente si se superan <b>8 mmol/L en 24 horas</b>.</li><li>Clínicamente se manifiesta con disartria, disfagia, paraparesia espástica, alteración del nivel de conciencia y, en casos graves, <b>síndrome de enclaustramiento</b>.</li><li>Factores de riesgo: alcoholismo, desnutrición, hepatopatía, hipopotasemia, hipofosfatemia y uso de diuréticos.</li><li>Si se detecta sobrecorrección (&gt;8 mmol/L/día), se debe <b>detener la corrección</b> administrando solución glucosada al 5% y <b>desmopresina</b> para re-lowering del sodio.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Tratamiento con solución salina hipertónica al 3%",
+      "title": "Indicaciones e infusión",
+      "contentHtml": "<h2>Tratamiento con solución salina hipertónica al 3%</h2><ul><li>Indicada en <b>hiponatremia sintomática grave</b> (convulsiones, coma, paro respiratorio) y en hiponatremia aguda (&lt;48 horas) con síntomas moderados-graves.</li><li>La dosis inicial es <b>100-150 mL de solución salina hipertónica al 3%</b> en bolo durante 10-20 minutos (o 2 mL/kg), que eleva el sodio sérico aproximadamente 2-4 mmol/L de forma inmediata.</li><li>Meta: aumentar el sodio sérico <b>4-6 mmol/L en las primeras 4-6 horas</b> para revertir síntomas, luego detener o reducir la infusión.</li><li>Monitorizar sodio sérico <b>cada 1-2 horas</b> durante la infusión para evitar sobrecorrección. La fórmula de Adrogué-Madias ayuda a predecir el cambio: (Na infundido - Na sérico) / (agua corporal total + 1).</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Fórmula de déficit de sodio en hipernatremia",
+      "title": "Cálculo del déficit de agua libre",
+      "contentHtml": "<h2>Fórmula de déficit de sodio en hipernatremia</h2><ul><li>La hipernatremia refleja un déficit de <b>agua libre</b>; la fórmula para estimar el déficit de agua (en litros) es: <b>Agua corporal total (ACT) × [(Na sérico/140) - 1]</b>, donde ACT = 0,5 × peso (kg) en mujeres y 0,6 × peso en hombres.</li><li>Ejemplo: varón de 70 kg con Na=160 mmol/L: déficit = 42 L × [(160/140)-1] = 42 × 0,143 = 6 L.</li><li>La corrección debe ser <b>lenta</b>: reducir el sodio sérico no más de <b>10-12 mmol/L en 24 horas</b> para evitar edema cerebral.</li><li>Administrar la mitad del déficit en las primeras 24 horas, reponiendo con <b>solución glucosada al 5%</b> o agua libre vía oral/enteral.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Diabetes insípida central vs nefrogénica",
+      "title": "Prueba de deshidratación y respuesta",
+      "contentHtml": "<h2>Diabetes insípida central vs nefrogénica</h2><ul><li>La <b>diabetes insípida central</b> se debe a déficit de hormona antidiurética (ADH); la <b>nefrogénica</b> a resistencia renal a la ADH.</li><li>La <b>prueba de deshidratación</b> (privación de agua 4-18 horas) diferencia ambas: en la central la osmolaridad urinaria aumenta &gt;50% tras <b>desmopresina</b>; en la nefrogénica el aumento es &lt;10%.</li><li>En la diabetes insípida central, la osmolaridad urinaria basal es baja (&lt;300 mOsm/kg) y tras desmopresina supera 600-800 mOsm/kg.</li><li>La diabetes insípida nefrogénica puede ser congénita (mutación del receptor V2 o acuaporina-2) o adquirida (litio, hipercalcemia, hipopotasemia).</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Causas de hipernatremia por pérdida de agua libre",
+      "title": "Pérdidas renales y extrarrenales",
+      "contentHtml": "<h2>Causas de hipernatremia por pérdida de agua libre</h2><ul><li><b>Pérdidas renales</b>: diabetes insípida central o nefrogénica, diuresis osmótica (glucosa, manitol, urea), y diuréticos de asa que alteran la capacidad de concentración.</li><li><b>Pérdidas extrarrenales</b>: sudoración excesiva (fiebre, ejercicio), pérdidas gastrointestinales (diarrea osmótica, vómitos), y quemaduras extensas.</li><li>La <b>osmolaridad urinaria</b> ayuda a localizar el sitio de pérdida: &lt;300 mOsm/kg sugiere diabetes insípida; &gt;600 mOsm/kg apunta a pérdidas extrarrenales o hipodipsia.</li><li>En pacientes con <b>hipodipsia</b> (lesión hipotalámica) o acceso limitado al agua, la hipernatremia se debe a ingesta insuficiente de agua libre.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Respuesta a desmopresina en diabetes insípida",
+      "title": "Interpretación de la prueba",
+      "contentHtml": "<h2>Respuesta a desmopresina en diabetes insípida</h2><ul><li>Tras administrar <b>desmopresina</b> (análogo de hormona antidiurética) por vía subcutánea o intranasal, se mide la osmolaridad urinaria a las 2 y 4 horas.</li><li>Un <b>incremento &gt;50%</b> de la osmolaridad urinaria respecto al valor basal indica <b>diabetes insípida central completa</b>.</li><li>Un incremento &lt;10% indica <b>diabetes insípida nefrogénica</b>.</li><li>En la diabetes insípida central parcial, la respuesta es intermedia (10-50%), y puede manejarse con dosis bajas de desmopresina o con agentes que estimulan la secreción de ADH (clorpropamida, carbamazepina).</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Evaluación de sodio urinario y osmolaridad urinaria",
+      "title": "Interpretación del laboratorio",
+      "contentHtml": "<h2>Evaluación de sodio urinario y osmolaridad urinaria</h2><ul><li>En hiponatremia hipotónica, el <b>sodio urinario</b> distingue: &lt;20 mmol/L sugiere depleción de volumen efectivo (cirrosis, insuficiencia cardíaca, pérdidas extrarrenales); &gt;40 mmol/L sugiere síndrome de secreción inadecuada de ADH o pérdidas renales.</li><li>La <b>osmolaridad urinaria</b> &lt;100 mOsm/kg indica ingesta excesiva de agua (polidipsia primaria, beer potomania); &gt;100 mOsm/kg sugiere que la hormona antidiurética está presente.</li><li>En hipernatremia, una <b>osmolaridad urinaria</b> &lt;300 mOsm/kg apunta a diabetes insípida; &gt;600 mOsm/kg indica pérdidas extrarrenales o hipodipsia.</li><li>El <b>sodio urinario</b> en hipernatremia &lt;20 mmol/L sugiere pérdidas extrarrenales; &gt;20 mmol/L, pérdidas renales (diuresis osmótica, diuréticos).</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Riesgo de sobrecorrección y uso de desmopresina",
+      "title": "Manejo de la corrección excesiva",
+      "contentHtml": "<h2>Riesgo de sobrecorrección y uso de desmopresina</h2><ul><li>La <b>sobrecorrección</b> se define como un aumento del sodio sérico &gt;8 mmol/L en 24 horas (o &gt;10-12 mmol/L en hipernatremia), asociado a riesgo de síndrome de desmielinización osmótica.</li><li>Si se detecta sobrecorrección, se debe <b>detener la infusión hipertónica</b> y administrar <b>desmopresina</b> 1-2 mcg intravenoso o subcutáneo para frenar la diuresis acuosa, junto con <b>solución glucosada al 5%</b> para re-lowering del sodio.</li><li>En pacientes con hiponatremia crónica tratados con solución salina hipertónica al 3%, se puede administrar <b>desmopresina profiláctica</b> para evitar la sobrecorrección y controlar la velocidad de ascenso.</li><li>Monitorizar sodio sérico <b>cada 2 horas</b> durante la fase activa de corrección para ajustar la terapia.</li></ul>"
+    }
+  ]
+}

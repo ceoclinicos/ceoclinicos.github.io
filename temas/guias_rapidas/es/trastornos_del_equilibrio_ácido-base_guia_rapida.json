@@ -1,0 +1,77 @@
+{
+  "id": "trastornos_del_equilibrio_ácido-base",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Fórmula de Henderson-Hasselbalch",
+      "title": "Henderson-Hasselbalch y pH",
+      "contentHtml": "<h2>Fórmula de Henderson-Hasselbalch</h2><ul><li>pH = 6.1 + log ([bicarbonato] / (0.03 × PaCO2 en mmHg)).</li><li>La constante 6.1 es el pKa del ácido carbónico; 0.03 es el coeficiente de solubilidad del CO2 en plasma a 37°C.</li><li><b>Relación clave:</b> el pH está determinado por la relación bicarbonato/PaCO2, no por valores absolutos; normal 20:1 (bicarbonato 24 mEq/L, PaCO2 40 mmHg).</li><li>Cambios primarios: si disminuye bicarbonato → acidosis metabólica; si aumenta PaCO2 → acidosis respiratoria; opuestos en alcalosis.</li><li>La fórmula no distingue trastorno primario de compensación; requiere contexto clínico y gasométrico.</li><li><b>Trampa de examen:</b> en acidosis láctica, el anión gap elevado puede coexistir con bicarbonato bajo; la fórmula predice pH pero no el mecanismo.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Anión gap normal y elevado",
+      "title": "Anión gap: cálculo y causas",
+      "contentHtml": "<h2>Anión gap (AG)</h2><ul><li>AG = sodio − (cloro + bicarbonato); normal 8–12 mEq/L (sin potasio).</li><li>AG elevado (&gt;12) indica acidosis por ácidos no clorados: láctico, cetoácidos, insuficiencia renal, tóxicos (metanol, etilenglicol, salicilatos).</li><li>AG normal (hiperclorémica) ocurre por pérdida de bicarbonato gastrointestinal (diarrea) o renal (acidosis tubular renal), o por aporte de cloro (solución salina).</li><li><b>AG corregido por albúmina:</b> AG efectivo = AG medido + 2.5 × (albúmina normal 4 − albúmina actual); hipoalbuminemia enmascara AG elevado.</li><li>Útil para diferenciar acidosis metabólica: AG elevado vs AG normal orienta etiología.</li><li><b>Trampa:</b> en mixed disorder, el AG puede estar elevado a pesar de bicarbonato normal por alcalosis metabólica concomitante.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Causas de acidosis metabólica",
+      "title": "Acidosis metabólica: etiologías",
+      "contentHtml": "<h2>Causas de acidosis metabólica</h2><ul><li>Clasificación por anión gap: elevado vs normal (hiperclorémica).</li><li>AG elevado: cetoacidosis diabética, ayuno, alcohol; acidosis láctica (tipo A hipoxia, tipo B fármacos); insuficiencia renal aguda/crónica (retención de sulfatos/fosfatos); tóxicos: metanol (formato), etilenglicol (glicolato), paraldehído, salicilatos.</li><li>AG normal: diarrea (pérdida de bicarbonato), fístulas pancreáticas/biliares, ureteroenterostomía, acidosis tubular renal (tipos 1, 2, 4), inhibidores de anhidrasa carbónica (acetazolamida), ácido clorhídrico o cloruro de amonio.</li><li>Compensación respiratoria esperada: PaCO2 = 1.5 × bicarbonato + 8 ± 2 (fórmula de Winters).</li><li><b>Umbral:</b> si PaCO2 medida difiere &gt;2 mmHg de la esperada → trastorno mixto.</li><li><b>Trampa:</b> en acidosis láctica, el AG puede ser normal si hay hipoalbuminemia; usar AG corregido.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Alcalosis metabólica por vómitos",
+      "title": "Alcalosis metabólica: vómitos",
+      "contentHtml": "<h2>Alcalosis metabólica por vómitos</h2><ul><li>Pérdida de ácido clorhídrico gástrico → aumento de bicarbonato sérico y cloro urinario bajo (&lt;20 mEq/L).</li><li>Mecanismos: depleción de volumen activa sistema renina-angiotensina-aldosterona → intercambio sodio-potasio, hipocalemia; hipocloremia reduce excreción renal de bicarbonato.</li><li>Fisiopatología: pérdida de hidrogeniones y cloro; el riñón retiene bicarbonato para mantener electroneutralidad.</li><li>Tratamiento: <b>solución salina 0.9%</b> intravenosa + reposición de potasio; responde a cloro (cloro-sensible).</li><li>Si no responde a cloro → sospechar hiperaldosteronismo, síndrome de Cushing, hipocalemia severa.</li><li><b>Trampa:</b> la alcalosis por vómitos puede cursar con pH alcalino pero bicarbonato muy alto; la gasometría muestra PaCO2 compensatoria &gt;45 mmHg.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Compensación respiratoria aguda vs crónica",
+      "title": "Compensación respiratoria",
+      "contentHtml": "<h2>Compensación respiratoria aguda vs crónica</h2><ul><li>Acidosis metabólica aguda: compensación hiperventilación ocurre en minutos; PaCO2 esperada = 1.5 × bicarbonato + 8 ± 2 (Winters).</li><li>Alcalosis metabólica: compensación hipoventilación; PaCO2 esperada = 0.7 × bicarbonato + 20 ± 5 (límite &lt;55 mmHg).</li><li>Acidosis respiratoria aguda: bicarbonato aumenta 1 mEq/L por cada 10 mmHg de PaCO2 &gt;40 (aguda); crónica: 3.5 mEq/L por cada 10 mmHg (compensación renal).</li><li>Alcalosis respiratoria aguda: bicarbonato disminuye 2 mEq/L por cada 10 mmHg de PaCO2 &lt;40; crónica: 5 mEq/L por cada 10 mmHg.</li><li><b>Regla de oro:</b> si la compensación excede los límites calculados → trastorno mixto.</li><li><b>Trampa:</b> en EPOC crónico, PaCO2 alta con bicarbonato alto puede simular alcalosis metabólica; usar pH y historia.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Gasometría arterial: interpretación inicial",
+      "title": "Gasometría: pasos iniciales",
+      "contentHtml": "<h2>Interpretación inicial de gasometría arterial</h2><ul><li>Paso 1: evaluar pH: &lt;7.35 acidosis, &gt;7.45 alcalosis; normal 7.35–7.45.</li><li>Paso 2: determinar trastorno primario: si pH bajo y PaCO2 alta → acidosis respiratoria; si pH bajo y bicarbonato bajo → acidosis metabólica; pH alto y PaCO2 baja → alcalosis respiratoria; pH alto y bicarbonato alto → alcalosis metabólica.</li><li>Paso 3: calcular compensación esperada (fórmulas de Winters o reglas de cambio por 10 mmHg).</li><li>Paso 4: calcular anión gap (AG) y delta ratio si hay acidosis metabólica.</li><li><b>Paso 5:</b> verificar oxigenación: PaO2 &lt;60 mmHg en aire ambiente indica hipoxemia; relación PaO2/FiO2 &lt;300 → lesión pulmonar aguda.</li><li><b>Trampa:</b> en trastorno mixto, pH puede ser normal o casi normal; siempre comparar con compensación esperada.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Delta ratio en acidosis metabólica",
+      "title": "Delta ratio: utilidad",
+      "contentHtml": "<h2>Delta ratio (Δ/Δ)</h2><ul><li>Fórmula: Δ/Δ = (AG actual − 12) / (24 − bicarbonato actual).</li><li>Interpretación: &lt;1 → acidosis mixta AG normal (hiperclorémica) concomitante; 1–2 → acidosis AG pura; &gt;2 → alcalosis metabólica concomitante.</li><li>Valor normal de AG 12 mEq/L y bicarbonato 24 mEq/L como referencia.</li><li>Útil para detectar trastornos mixtos en acidosis metabólica con AG elevado.</li><li>Ejemplo: cetoacidosis diabética con vómitos → Δ/Δ &gt;2 por alcalosis metabólica añadida.</li><li><b>Trampa:</b> si la acidosis es mixta (AG elevado + hiperclorémica), Δ/Δ &lt;1; no asumir error de laboratorio.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Hiato osmolar en intoxicación por metanol",
+      "title": "Hiato osmolar",
+      "contentHtml": "<h2>Hiato osmolar en intoxicación por metanol</h2><ul><li>Hiato osmolar = osmolaridad medida − osmolaridad calculada; normal &lt;10 mOsm/kg.</li><li>Osmolaridad calculada = 2 × sodio + glucosa/18 + nitrógeno ureico/2.8 (en mg/dL) + etanol/4.6 (si presente).</li><li>Hiato osmolar elevado (&gt;10) sugiere presencia de alcohol tóxico: metanol, etilenglicol, isopropanol.</li><li>En intoxicación por metanol, el hiato osmolar puede ser normal si el metabolismo ya convirtió metanol a ácido fórmico (fase tardía); entonces predomina acidosis metabólica con AG elevado.</li><li>Diagnóstico diferencial: etilenglicol también causa hiato osmolar y acidosis; cristales de oxalato en orina orientan a etilenglicol.</li><li><b>Tratamiento:</b> <b>fomepizol</b> (15 mg/kg intravenoso) o etanol; hemodiálisis si acidosis severa o hiato osmolar &gt;50.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Acidosis tubular renal tipo distal",
+      "title": "ATR distal (tipo 1)",
+      "contentHtml": "<h2>Acidosis tubular renal distal (tipo 1)</h2><ul><li>Defecto en la secreción de hidrogeniones en el túbulo colector → incapacidad de acidificar orina (pH urinario &gt;5.5) a pesar de acidosis sistémica.</li><li>Causa acidosis metabólica hiperclorémica con anión gap normal e hipocalemia.</li><li>Complicaciones: nefrolitiasis (cálculos de fosfato cálcico), nefrocalcinosis, osteomalacia.</li><li>Etiologías: autoimmune (síndrome de Sjögren, lupus), fármacos (anfotericina B, litio), hipercalcemia, obstructivas.</li><li>Diagnóstico: test de acidificación con cloruro de amonio; si pH urinario no baja &lt;5.3 → distal.</li><li><b>Tratamiento:</b> bicarbonato de sodio oral 1–3 mEq/kg/día; corregir hipocalemia antes de alcalinizar para evitar arritmias.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Alcalosis respiratoria por hiperventilación",
+      "title": "Alcalosis respiratoria",
+      "contentHtml": "<h2>Alcalosis respiratoria por hiperventilación</h2><ul><li>Definición: pH &gt;7.45 con PaCO2 &lt;35 mmHg y bicarbonato normal o bajo.</li><li>Causas: ansiedad, dolor, hipoxemia, sepsis, insuficiencia hepática, intoxicación por salicilatos, embarazo, fiebre.</li><li>Compensación renal: excreción de bicarbonato; aguda: disminución 2 mEq/L por cada 10 mmHg de PaCO2 bajo; crónica: 5 mEq/L por cada 10 mmHg.</li><li>Síntomas: parestesias, tetania, espasmo carpopedal por hipocalcemia transitoria (alcalosis reduce calcio ionizado).</li><li>Tratamiento de la causa subyacente; no usar bolsa de papel en hipoxemia o sepsis.</li><li><b>Trampa:</b> en intoxicación por salicilatos, la alcalosis respiratoria inicial puede pasar a acidosis metabólica mixta; medir niveles.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Exceso de base y déficit de bicarbonato",
+      "title": "Exceso de base (BE)",
+      "contentHtml": "<h2>Exceso de base y déficit de bicarbonato</h2><ul><li>Exceso de base (BE) es la cantidad de ácido o base necesaria para titular 1 L de sangre a pH 7.40 con PaCO2 de 40 mmHg a 37°C.</li><li>BE normal: −2 a +2 mEq/L; negativo indica déficit de base (acidosis metabólica), positivo exceso (alcalosis metabólica).</li><li>Déficit de bicarbonato (en mEq) = peso (kg) × 0.4 × (bicarbonato deseado − bicarbonato actual) para acidosis metabólica.</li><li>Corrección: administrar la mitad del déficit en bolo, luego reevaluar; evitar sobrecorrección.</li><li>BE es útil para cuantificar severidad y guiar reposición en paro o shock.</li><li><b>Trampa:</b> BE no diferencia causa respiratoria de metabólica; siempre correlacionar con pH y PaCO2.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Trastorno mixto: pH, PaCO2 y HCO3",
+      "title": "Trastornos mixtos",
+      "contentHtml": "<h2>Trastorno mixto</h2><ul><li>Definición: presencia de dos o más trastornos primarios simultáneos; ejemplos: acidosis metabólica + acidosis respiratoria (paro), acidosis metabólica + alcalosis respiratoria (sepsis).</li><li>Diagnóstico: comparar PaCO2 y bicarbonato con compensación esperada; si no coinciden → mixto.</li><li>pH puede ser normal, extremo o inapropiadamente normal; siempre calcular anión gap y delta ratio.</li><li>Ejemplo: acidosis metabólica con AG elevado + alcalosis metabólica → pH puede ser normal, AG &gt;12, delta ratio &gt;2.</li><li>Ejemplo: acidosis respiratoria crónica + acidosis metabólica → bicarbonato menor que el esperado para la PaCO2.</li><li><b>Trampa:</b> en trastorno mixto, la compensación nunca debe ser perfecta; si pH es normal pero hay anión gap alto, buscar mixto.</li></ul>"
+    }
+  ]
+}

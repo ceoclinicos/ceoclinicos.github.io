@@ -1,0 +1,1372 @@
+{
+  "questions": [
+    {
+      "question": "¿Qué variable se calcula directamente con la fórmula de Henderson-Hasselbalch?",
+      "options": [
+        "pH",
+        "pO2",
+        "Bicarbonato estándar",
+        "Exceso de base"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La fórmula de Henderson-Hasselbalch permite calcular el pH a partir de la relación entre bicarbonato y PCO2, siendo esencial en la interpretación de trastornos ácido-base.",
+      "hashtags": [
+        "medicina_interna",
+        "equilibrio_acido_base",
+        "fisiopatologia",
+        "formula_henderson_hasselbalch",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "En la ecuación de Henderson-Hasselbalch, ¿qué representa el término HCO3-?",
+      "options": [
+        "Base conjugada",
+        "Ácido volátil",
+        "Sistema tampón fosfato",
+        "ácido não volátil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la ecuación, el HCO3- actúa como base conjugada del ácido carbónico, y su concentración es regulada principalmente por el riñón.",
+      "hashtags": [
+        "fisiologia",
+        "equilibrio_acido_base",
+        "concepto",
+        "componentes_ecuacion",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la constante de disociación (pKa) del ácido carbónico en la fórmula?",
+      "options": [
+        "7,4",
+        "3,6",
+        "6,1",
+        "7,0"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El pKa del ácido carbónico es 6,1, valor que se emplea en la ecuación de Henderson-Hasselbalch para el sistema bicarbonato-ácido carbónico.",
+      "hashtags": [
+        "bioquimica",
+        "equilibrio_acido_base",
+        "concepto",
+        "pka_acido_carbonico",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "Si el pH es 7,1, la PCO2 es 60 mmHg, ¿qué valor aproximado de HCO3- esperaría?",
+      "options": [
+        "30 mEq/L",
+        "12 mEq/L",
+        "18 mEq/L",
+        "24 mEq/L"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Usando la fórmula: pH = 6,1 + log(HCO3-/(0,03*PCO2)). Con pH 7,1 y PCO2 60, el HCO3- se aproxima a 18 mEq/L, indicando acidosis mixta.",
+      "hashtags": [
+        "medicina_interna",
+        "equilibrio_acido_base",
+        "fisiopatologia",
+        "cálculo_prático",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué factor es el principal determinante de la PCO2 en la ecuación?",
+      "options": [
+        "Reabsorción tubular",
+        "Filtración glomerular",
+        "Producción hepática",
+        "Ventilación alveolar"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La PCO2 depende de la ventilación alveolar; su aumento o descenso refleja trastornos respiratorios primarios o compensatorios.",
+      "hashtags": [
+        "fisiologia",
+        "equilibrio_acido_base",
+        "fisiopatologia",
+        "determinantes_pco2",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "En la acidosis metabólica, ¿qué cambio espera en la relación HCO3-/PCO2?",
+      "options": [
+        "Aumento de la relación",
+        "Relación sin cambios",
+        "Aumento do pH",
+        "Diminuição no relacionamento"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En acidosis metabólica, el bicarbonato disminuye, reduciendo la relación HCO3-/PCO2 y por tanto el pH; la compensación respiratoria reduce la PCO2.",
+      "hashtags": [
+        "medicina_interna",
+        "acidosis_metabolica",
+        "fisiopatologia",
+        "relacion_hco3_pco2",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "En una acidosis metabólica con anión gap elevado, ¿cuál es el hallazgo característico?",
+      "options": [
+        "Cloro sérico normal",
+        "Cloro sérico elevado",
+        "Potasio sérico disminuido",
+        "Bicarbonato sérico elevado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La acidosis metabólica con anión gap elevado se caracteriza por la acumulación de ácidos no clorados, por lo que el cloro sérico permanece normal, a diferencia de la acidosis hiperclorémica.",
+      "hashtags": [
+        "medicina_interna",
+        "trastornos_equilibrio_acido_base",
+        "cuadro_clinico",
+        "cloro_serico",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "La acidosis metabólica con anión gap normal típicamente se asocia con:",
+      "options": [
+        "Cetoacidosis diabética",
+        "Acumulación de ácido láctico",
+        "Pérdida de bicarbonato gastrointestinal",
+        "Ingesta de metanol"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La pérdida de bicarbonato gastrointestinal, como en diarrea, causa acidosis hiperclorémica con anión gap normal, mientras que las otras opciones producen anión gap elevado.",
+      "hashtags": [
+        "medicina_interna",
+        "trastornos_equilibrio_acido_base",
+        "fisiopatologia",
+        "perdida_bicarbonato",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes trastornos cursa con anión gap elevado?",
+      "options": [
+        "Diarrea severa",
+        "Acidosis tubular renal distal",
+        "Cetoacidosis alcohólica",
+        "Acidosis tubular renal proximal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La cetoacidosis alcohólica produce acumulación de cuerpos cetónicos, generando anión gap elevado. Las acidosis tubulares renales y la diarrea causan anión gap normal.",
+      "hashtags": [
+        "medicina_interna",
+        "trastornos_equilibrio_acido_base",
+        "etiologia",
+        "alcoólica_cetoacidose",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "Na acidose metabólica com hiato aniônico elevado, a medição da osmolaridade sérica é útil para detectar:",
+      "options": [
+        "Intoxicación por salicilatos",
+        "Insuficiência renal aguda",
+        "Envenenamento por metanol",
+        "cetoacidose diabética"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A presença de hiato osmolar elevado sugere intoxicação por álcoois como metanol ou etilenoglicol, que são causas de acidose com hiato aniônico elevado.",
+      "hashtags": [
+        "medicina_interna",
+        "desequilíbrio_ácido-base_disorders",
+        "diagnóstico",
+        "soro_osmolaridade",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "O tratamento da acidose metabólica com hiato aniônico elevado devido à cetoacidose diabética inclui:",
+      "options": [
+        "Diálise peritoneal urgente",
+        "Solução salina hipertônica",
+        "Insulina e fluidos intravenosos",
+        "Bicarbonato de sódio intravenoso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A cetoacidose diabética é tratada com insulina e fluidos intravenosos para corrigir a hiperglicemia e a cetose, resolvendo a acidose sem a necessidade de bicarbonato na maioria dos casos.",
+      "hashtags": [
+        "medicina_interna",
+        "desequilíbrio_ácido-base_disorders",
+        "tratamento",
+        "cetoacidosis_diabetica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes valores de anión gap se considera elevado?",
+      "options": [
+        "10 mEq/L",
+        "8 mEq/L",
+        "16 mEq/L",
+        "12 mEq/L"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El anión gap normal es de 8 a 12 mEq/L; valores superiores a 12 indican anión gap elevado, como en acidosis láctica o cetoacidosis.",
+      "hashtags": [
+        "medicina_interna",
+        "trastornos_equilibrio_acido_base",
+        "diagnostico",
+        "valor_normal",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a causa mais comum de acidose metabólica com hiato aniônico elevado em pacientes hospitalizados?",
+      "options": [
+        "cetoacidose diabética",
+        "Acidose láctica",
+        "Intoxicación por salicilatos",
+        "Insuficiencia renal crónica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A acidose láctica é a causa mais comum de acidose metabólica com hiato aniônico elevado em pacientes hospitalizados, devido à hipoperfusão tecidual, sepse ou falência de múltiplos órgãos. As outras opções também aumentam o hiato aniônico, mas são menos comuns neste contexto.",
+      "hashtags": [
+        "medicina_interna",
+        "acidosis_metabolica",
+        "etiologia",
+        "anion_gap_elevado",
+        "TEMA_MEDICO",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "En la acidosis metabólica por cetoacidosis diabética, el anión gap suele ser:",
+      "options": [
+        "Elevado",
+        "Bajo",
+        "Normal",
+        "Variable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La cetoacidosis diabética produce acidosis metabólica con anión gap elevado debido a la acumulación de cuerpos cetónicos (betahidroxibutirato y acetoacetato). Un anión gap normal o bajo apunta a otras causas como acidosis hiperclorémica o hipoalbuminemia.",
+      "hashtags": [
+        "medicina_interna",
+        "acidose_metabólica",
+        "fisiopatologia",
+        "anion_gap",
+        "TEMA_MEDICO",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual das alternativas a seguir causa acidose metabólica com hiato aniônico normal (hiperclorêmico)?",
+      "options": [
+        "Acidose láctica",
+        "Envenenamento por metanol",
+        "Acidose tubular renal distal",
+        "Cetoacidose alcoólica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A acidose tubular renal distal (tipo I) causa acidose metabólica hiperclorêmica com hiato aniônico normal, devido a um defeito na excreção de íons hidrogênio. As outras opções geram um hiato aniônico elevado devido ao acúmulo de ácidos endógenos ou tóxicos.",
+      "hashtags": [
+        "medicina_interna",
+        "acidose_metabólica",
+        "etiologia",
+        "anion_gap_normal",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Na intoxicação por metanol, o tratamento antídoto específico é:",
+      "options": [
+        "Fomepizol",
+        "Flumazenil",
+        "Naloxona",
+        "N-acetilcisteína"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O fomepizol é o antídoto de escolha para intoxicação por metanol, pois inibe a álcool desidrogenase e previne a formação de ácido fórmico. A N-acetilcisteína é usada no envenenamento por paracetamol, o flumazenil nos benzodiazepínicos e a naloxona nos opioides.",
+      "hashtags": [
+        "medicina_interna",
+        "acidose_metabólica",
+        "tratamento",
+        "metanol_envenenamento",
+        "TEMA_MEDICO",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "La acidosis metabólica por pérdida de bicarbonato gastrointestinal se asocia típicamente a:",
+      "options": [
+        "Diarrea crónica",
+        "vômito intenso",
+        "Uso de diuréticos de alça",
+        "Insuficiência adrenal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La diarrea crónica causa pérdida rica en bicarbonato a nivel intestinal, generando acidosis metabólica con anión gap normal e hipercloremia. Los vómitos intensos producen alcalosis metabólica, y la insuficiencia suprarrenal o diuréticos de asa pueden causar acidosis o alcalosis respectivamente.",
+      "hashtags": [
+        "medicina_interna",
+        "acidosis_metabolica",
+        "etiologia",
+        "bicarbonato_perda",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Na acidose metabólica devido ao envenenamento por etilenoglicol, o achado característico na urina é:",
+      "options": [
+        "glóbulos vermelhos",
+        "corpos cetônicos",
+        "leucócitos abundantes",
+        "Cristais de oxalato de cálcio"
+      ],
+      "correctAnswer": 4,
+      "explanation": "O envenenamento por etilenoglicol produz cristais de oxalato de cálcio na urina, devido ao metabolismo em ácido oxálico. Os corpos cetônicos aparecem na cetoacidose, os glóbulos vermelhos sugerem glomerulonefrite e os leucócitos indicam infecção urinária.",
+      "hashtags": [
+        "medicina_interna",
+        "acidose_metabólica",
+        "diagnóstico",
+        "etilenoglicol",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o principal mecanismo fisiopatológico da alcalose metabólica induzida pelo vômito?",
+      "options": [
+        "Perda gástrica de íons de hidrogênio",
+        "Perda renal de bicarbonato",
+        "Aumento da reabsorção de cloro",
+        "Retención excesiva de dióxido de carbono"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O vômito elimina o ácido clorídrico gástrico rico em íons hidrogênio, que consome íons hidrogênio plasmáticos e gera alcalose metabólica. Além disso, perde-se cloro e potássio, perpetuando o distúrbio.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalose metabólica",
+        "fisiopatologia",
+        "perdida_hidrogeniones",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Que distúrbio eletrolítico acompanhante é típico da alcalose metabólica devido a vômitos prolongados?",
+      "options": [
+        "Hipocloremia",
+        "Hipernatremia",
+        "Hipercalcemia",
+        "Hipermagnesemia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O vômito produz perda de cloro junto com íons de hidrogênio, gerando hipocloremia. A alcalose metabólica hipoclorêmica é o padrão clássico associado ao vômito.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalose metabólica",
+        "tabela_clínica",
+        "hipocloremia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o valor do pH arterial que confirma alcalose metabólica em paciente com vômito?",
+      "options": [
+        "7,48",
+        "7h40",
+        "7h35",
+        "7h30"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A alcalose metabólica é definida por pH arterial superior a 7,45. Um valor de 7,48 indica alcalemia, consistente com o distúrbio após perda de ácido.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalose metabólica",
+        "diagnóstico",
+        "ph_arterial",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o distúrbio ácido-base compensatório esperado na alcalose metabólica?",
+      "options": [
+        "Hipoventilação alveolar",
+        "Diminuição da reabsorção de íons hidrogênio",
+        "Aumento da excreção renal de bicarbonato",
+        "Hiperventilação alveolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A compensação respiratória para a alcalose metabólica é a hipoventilação, que aumenta a PaCO2 para gerar ácido carbônico e neutralizar a alcalemia.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalose metabólica",
+        "fisiopatologia",
+        "compensação_respiratória",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual achado de gasometria arterial é característico de alcalose metabólica não complicada?",
+      "options": [
+        "PaCO2 diminuída",
+        "Bicarbonato alto",
+        "diminuição do pH",
+        "Intervalo aniônico alto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La alcalosis metabólica cursa con bicarbonato sérico elevado, resultado del consumo de hidrogeniones y de la mayor reabsorción renal de bicarbonato.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalosis_metabolica",
+        "diagnostico",
+        "bicarbonato_elevado",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento de primera línea para la alcalosis metabólica por vómitos con depleción de volumen?",
+      "options": [
+        "Diuréticos de asa",
+        "Bicarbonato de sodio intravenoso",
+        "Solución salina isotónica",
+        "Restricción de cloro en dieta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La administración de solución salina isotónica corrige la depleción de volumen y aporta cloro, permitiendo que el riñón excrete bicarbonato y resuelva la alcalosis.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalosis_metabolica",
+        "tratamiento",
+        "solução salina",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "En acidosis respiratoria crónica, la compensación renal esperada se caracteriza por:",
+      "options": [
+        "Aumento de bicarbonato plasmático",
+        "Aumento de la PaCO2",
+        "Diminuição do bicarbonato plasmático",
+        "Disminución de la PaCO2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la acidosis respiratoria crónica, los riñones retienen bicarbonato para compensar la retención de CO2, elevando el bicarbonato plasmático de forma significativa.",
+      "hashtags": [
+        "medicina_interna",
+        "acidosis_respiratoria_cronica",
+        "tabela_clínica",
+        "compensacion_renal",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a resposta compensatória imediata à acidose respiratória aguda?",
+      "options": [
+        "Excreção renal de íons hidrogênio",
+        "Aumento da hemoglobina",
+        "Hiperventilação alveolar",
+        "Retenção renal de bicarbonato"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O sistema de compensação imediata é a hiperventilação alveolar, que reduz a PaCO2; a compensação renal leva dias e não atua no evento agudo.",
+      "hashtags": [
+        "fisiopatologia",
+        "compensação_respiratória",
+        "fisiopatologia",
+        "resposta_imediata",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Na alcalose respiratória crônica, o achado típico de gasometria é:",
+      "options": [
+        "PaCO2 alto e bicarbonato alto",
+        "Baixa PaCO2 e baixo bicarbonato",
+        "Alta PaCO2 e baixo bicarbonato",
+        "Baixa PaCO2 e alto bicarbonato"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Na alcalose respiratória crônica, a hipocapnia persistente induz uma diminuição compensatória do bicarbonato, de modo que ambos os parâmetros são baixos.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalose_respiratória_crônica",
+        "diagnóstico",
+        "gasometria",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o principal distúrbio na compensação respiratória da acidose metabólica?",
+      "options": [
+        "Aumento da PaCO2",
+        "Aumento de bicarbonato",
+        "Diminuição do bicarbonato",
+        "Diminuição da PaCO2"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A acidose metabólica estimula quimiorreceptores periféricos, produzindo hiperventilação que diminui a PaCO2 como mecanismo compensatório.",
+      "hashtags": [
+        "fisiopatologia",
+        "acidose_metabólica",
+        "fisiopatologia",
+        "compensação_ventilatória",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Na acidose respiratória crónica, a compensação renal atinge o seu efeito máximo em:",
+      "options": [
+        "2 a 3 horas",
+        "3 a 5 dias",
+        "1 a 2 semanas",
+        "12 a 24 horas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A compensação renal demora 3 a 5 dias para atingir o seu máximo, ao contrário da resposta respiratória que é imediata mas limitada.",
+      "hashtags": [
+        "fisiopatologia",
+        "compensação_rim",
+        "fisiopatologia",
+        "tempo_compensação",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual parâmetro melhor distingue a acidose respiratória aguda da crônica?",
+      "options": [
+        "nível de pH",
+        "Nível de PaCO2",
+        "nível de bicarbonato",
+        "Nível de cloro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "O bicarbonato sérico é o principal diferenciador: na doença aguda há pouco aumento, enquanto na doença crônica aumenta acentuadamente devido à compensação renal.",
+      "hashtags": [
+        "medicina_interna",
+        "acidose_respiratória",
+        "diagnóstico",
+        "diferenciação_crônica_aguda",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Em um exame de gasometria arterial, o valor normal do pH é:",
+      "options": [
+        "7h25-7h35",
+        "7h35-7h45",
+        "7h15-7h25",
+        "7,45-7,55"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A faixa normal de pH arterial é 7,35-7,45. Valores fora dessa faixa indicam acidemia ou alcalemia, o que orienta o diagnóstico inicial de distúrbio ácido-básico.",
+      "hashtags": [
+        "medicina_interna",
+        "equilíbrio_base_ácido",
+        "conceito",
+        "valores_normais",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Numa acidose metabólica primária, espera-se encontrar:",
+      "options": [
+        "PH alto, alto HCO3",
+        "pH baixo, HCO3 alto",
+        "pH baixo, baixo HCO3",
+        "pH alto, baixo HCO3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A acidose metabólica é caracterizada por baixo pH e baixo bicarbonato, uma vez que a perda de HCO3 ou ganho de ácido reduz o tampão. A compensação respiratória tenta diminuir a PCO2.",
+      "hashtags": [
+        "medicina_interna",
+        "acidose_metabólica",
+        "fisiopatologia",
+        "alterações_de gás",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o distúrbio ácido-base se pH 7,48, PCO2 30 mmHg e HCO3 24 mEq/L?",
+      "options": [
+        "alcalose metabólica",
+        "Alcalose respiratória",
+        "acidose metabólica",
+        "Acidosis respiratoria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El pH elevado (7.48) indica alcalemia. La PCO2 baja (30 mmHg) señala origen respiratorio, pues la alcalosis respiratoria se debe a hiperventilación que reduce el CO2, sin alteración primaria del bicarbonato.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalosis_respiratoria",
+        "fisiopatologia",
+        "interpretacion_gasometrica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "Ante una acidosis metabólica con anión gap elevado, la causa más probable es:",
+      "options": [
+        "Acidosis tubular renal",
+        "Cetoacidosis diabética",
+        "Diarrea severa",
+        "Hipercloremia crónica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La cetoacidosis diabética produce acidosis metabólica con anión gap alto por acumulación de cetoácidos. Diarrea y acidosis tubular causan anión gap normal por pérdida de bicarbonato.",
+      "hashtags": [
+        "medicina_interna",
+        "acidosis_metabolica",
+        "diagnostico",
+        "anion_gap",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "Na gasometria, a PaO2 normal em um adulto saudável ao nível do mar é:",
+      "options": [
+        "80-100 mmHg",
+        "60-80 mmHg",
+        "100-120mmHg",
+        "40-60mmHg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A PaO2 normal varia entre 80 e 100 mmHg respirando ar ambiente. Valores mais baixos indicam hipoxemia, que pode ser causada por hipoventilação, desvio ou difusão prejudicada.",
+      "hashtags": [
+        "medicina_interna",
+        "oxigenação",
+        "conceito",
+        "valores_normais",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "A compensação esperada para a acidose metabólica crónica é:",
+      "options": [
+        "Diminuição da PCO2",
+        "Aumento da PCO2",
+        "Aumento de HCO3",
+        "Diminuição do pH"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Na acidose metabólica, o pulmão hiperventila para eliminar CO2 e assim compensar a acidez. A PCO2 diminui de acordo com a fórmula esperada: PCO2 = 1,5 × HCO3 + 8 ± 2.",
+      "hashtags": [
+        "medicina_interna",
+        "equilíbrio_base_ácido",
+        "fisiopatologia",
+        "compensação_respiratória",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "O que uma relação delta maior que 2 indica na acidose metabólica?",
+      "options": [
+        "Acidose láctica grave",
+        "Acidose tubular renal distal",
+        "Acidose hiperclorêmica isolada",
+        "Alcalose metabólica concomitante"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Uma relação delta >2 sugere que a diminuição do bicarbonato é menor que a esperada para o aumento do anion gap, que ocorre quando coexiste uma alcalose metabólica que aumenta o bicarbonato, ou uma acidose hiperclorêmica que o reduz menos.",
+      "hashtags": [
+        "medicina_interna",
+        "acidose_metabólica",
+        "diagnóstico",
+        "proporção_delta",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Na acidose metabólica com hiato aniônico alto, qual fórmula calcula a razão delta?",
+      "options": [
+        "(AG - 12) / (24 - HCO3)",
+        "(HCO3 - 24) / (AG - 12)",
+        "(AG + HCO3) / 12",
+        "(24 - HCO3) / (AG + 12)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A razão delta é calculada como a mudança no hiato aniônico dividida pela mudança no bicarbonato: (AG atual - 12) / (24 - HCO3 atual). Um valor normal é 1-2, indicando acidose por hiato aniônico puro.",
+      "hashtags": [
+        "medicina_interna",
+        "acidose_metabólica",
+        "conceito",
+        "fórmula_delta_ratio",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Paciente com relação delta de 0,8. Qual é o distúrbio ácido-base mais provável?",
+      "options": [
+        "Alcalose respiratória crônica",
+        "Acidose metabólica e alcalose",
+        "Acidose mista de anion gap",
+        "Acidosis hiperclorémica pura"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Un delta ratio <1 indica que el aumento del anión gap es menor que la caída del bicarbonato, lo que sugiere una acidosis hiperclorémica concurrente (anión gap normal) superpuesta a la acidosis de anión gap elevado.",
+      "hashtags": [
+        "medicina_interna",
+        "acidosis_metabolica",
+        "fisiopatologia",
+        "interpretacion_delta_ratio",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "En acidosis láctica, ¿qué valor de delta ratio se espera típicamente?",
+      "options": [
+        "Mayor de 3",
+        "Entre 1 y 2",
+        "Igual a 0",
+        "Menor de 0.5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la acidosis láctica pura, el delta ratio suele estar entre 1 y 2, porque el ácido láctico produce un anión gap que equilibra la caída del bicarbonato, sin trastornos mixtos adicionales.",
+      "hashtags": [
+        "medicina_interna",
+        "acidose_metabólica",
+        "tabela_clínica",
+        "acidosis_lactica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la utilidad principal del delta ratio en la práctica clínica?",
+      "options": [
+        "Avalie a oxigenação",
+        "Detectar distúrbios mistos",
+        "Diagnosticar alcalose respiratória",
+        "Medir a função renal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A relação delta ajuda a identificar a presença de um distúrbio ácido-base misto, como alcalose metabólica ou acidose hiperclorêmica, quando uma acidose metabólica com hiato aniônico elevado já foi estabelecida.",
+      "hashtags": [
+        "medicina_interna",
+        "acidose_metabólica",
+        "conceito",
+        "utilidade_clínica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Com relação delta de 1,5, que distúrbio ácido-base está presente?",
+      "options": [
+        "Acidose respiratória crônica",
+        "Acidose hiperclorêmica isolada",
+        "Acidose metabólica pura",
+        "Alcalose metabólica grave"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Uma relação delta entre 1 e 2 indica uma acidose metabólica pura com um hiato aniônico elevado, sem distúrbios ácido-base adicionais, uma vez que a mudança no hiato aniônico é proporcional à mudança no bicarbonato.",
+      "hashtags": [
+        "medicina_interna",
+        "acidose_metabólica",
+        "diagnóstico",
+        "proporção_delta_normal",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "No envenenamento por metanol, o hiato osmolar elevado é principalmente devido a:",
+      "options": [
+        "Alta concentração de metanol",
+        "Produção de corpos cetônicos",
+        "Presença de etanol no sangue",
+        "Acúmulo de ácido fórmico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O hiato osmolar elevado na intoxicação por metanol é causado diretamente pela alta concentração do álcool no plasma, pois cada molécula contribui para a osmolaridade medida antes de ser completamente metabolizada.",
+      "hashtags": [
+        "toxicologia",
+        "metanol_envenenamento",
+        "tabela_clínica",
+        "osmolar_hiato",
+        "TEMA_MEDICO",
+        "Goldfrank 11ed"
+      ]
+    },
+    {
+      "question": "¿Qué valor del hiato osmolar es más sugestivo de intoxicación por metanol?",
+      "options": [
+        "Entre 5 y 10 mOsm/kg",
+        "Exactamente 0 mOsm/kg",
+        "Menor de 5 mOsm/kg",
+        "Mayor de 10 mOsm/kg"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Un hiato osmolar mayor de 10 mOsm/kg es clásicamente sugestivo de intoxicación por alcoholes tóxicos como metanol o etilenglicol, ya que refleja presencia significativa de solutos osmóticamente activos no medidos.",
+      "hashtags": [
+        "toxicologia",
+        "intoxicacion_por_metanol",
+        "diagnostico",
+        "hiato_osmolar",
+        "TEMA_MEDICO",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal metabolito tóxico responsable del daño en la intoxicación por metanol?",
+      "options": [
+        "Ácido láctico",
+        "Formaldehído",
+        "Acetona",
+        "Ácido fórmico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El metanol se metaboliza primero a formaldehído y luego a ácido fórmico, siendo este último el principal responsable de la acidosis metabólica grave y del daño retiniano y neurológico característico.",
+      "hashtags": [
+        "toxicologia",
+        "intoxicacion_por_metanol",
+        "fisiopatologia",
+        "metabolito_toxico",
+        "TEMA_MEDICO",
+        "Goldfrank 11ed"
+      ]
+    },
+    {
+      "question": "En un paciente con acidosis metabólica de brecha aniónica alta y hiato osmolar elevado, ¿qué prueba confirma la intoxicación por metanol?",
+      "options": [
+        "Osmolaridade da urina",
+        "Nivel sérico de metanol",
+        "Electrolitos séricos",
+        "Gasometria arterial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A confirmação diagnóstica da intoxicação por metanol requer medição direta do nível sérico de metanol, embora o tratamento empírico deva ser iniciado quando houver suspeita clínica devido a acidose e hiato osmolar elevado.",
+      "hashtags": [
+        "toxicologia",
+        "metanol_envenenamento",
+        "diagnóstico",
+        "metanol_serum_level",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual tratamento é indicado como antídoto específico para intoxicação por metanol?",
+      "options": [
+        "N-acetilcisteína",
+        "Etanol ou fomepizol",
+        "bicarbonato de sódio",
+        "Flumazenil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Etanol e fomepizol são antídotos que inibem a álcool desidrogenase, bloqueando a formação de ácido fórmico; O fomepizol é a droga de escolha em muitos centros, enquanto o etanol é utilizado quando não está disponível.",
+      "hashtags": [
+        "toxicologia",
+        "metanol_envenenamento",
+        "tratamento",
+        "antídoto",
+        "MEDICAL_TOPIC",
+        "Goldfrank 11ª edição"
+      ]
+    },
+    {
+      "question": "Qual é o achado clínico clássico que indica envenenamento por metanol?",
+      "options": [
+        "Midríase bilateral",
+        "Distúrbios visuais",
+        "Hipertermia grave",
+        "Bradicardia acentuada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Distúrbios visuais (visão turva, escotomas, fotofobia) são característicos do envenenamento por metanol, devido ao edema da retina e danos ao nervo óptico causados ​​pelo ácido fórmico.",
+      "hashtags": [
+        "toxicologia",
+        "metanol_envenenamento",
+        "cuadro_clinico",
+        "sintomas_visuais",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o principal defeito fisiopatológico da acidose tubular renal distal?",
+      "options": [
+        "Reabsorción disminuida de bicarbonato en el túbulo proximal",
+        "Aumento da síntese de amônia em células tubulares",
+        "Secreção prejudicada de íons de hidrogênio no ducto coletor",
+        "Produção excessiva de aldosterona no córtex adrenal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A acidose tubular renal distal deve-se à incapacidade das células intercaladas do ducto coletor de secretar íons hidrogênio, o que impede a acidificação adequada da urina, apesar da acidose sistêmica.",
+      "hashtags": [
+        "nefrologia",
+        "acidosis_tubular_renal_tipo_distal",
+        "fisiopatologia",
+        "defecto_secrecion_hidrogeniones",
+        "TEMA_MEDICO",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo en la orina es característico de la acidosis tubular renal distal?",
+      "options": [
+        "Densidad urinaria elevada",
+        "pH urinario menor de 4,5",
+        "pH urinário superior a 5,5",
+        "Baixa excreção urinária de sódio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Na acidose tubular renal distal, a incapacidade de acidificar a urina resulta em pH urinário persistentemente superior a 5,5, mesmo após carga ácida, diferenciando-a de outras acidoses tubulares.",
+      "hashtags": [
+        "nefrologia",
+        "renal_acidose_tubular_tipo_distal",
+        "diagnóstico",
+        "ph_urinario",
+        "MEDICAL_TOPIC",
+        "Atualização 2023"
+      ]
+    },
+    {
+      "question": "Qual é a complicação renal mais comum associada à acidose tubular renal distal?",
+      "options": [
+        "Nefritis intersticial aguda",
+        "Glomerulonefrite rapidamente progressiva",
+        "Nefrolitíase por fosfato de cálcio",
+        "Doença renal policística"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A acidose tubular renal distal predispõe à nefrolitíase por fosfato de cálcio, devido à hipocitratúria e hipercalciúria que ocorrem, favorecendo a precipitação de cristais em pH urinário alcalino.",
+      "hashtags": [
+        "nefrologia",
+        "renal_acidose_tubular_tipo_distal",
+        "complicações",
+        "nefrolitíase_fosfato_de_cálcio",
+        "MEDICAL_TOPIC",
+        "Tratado de Nelson sobre Pediatria 21ed"
+      ]
+    },
+    {
+      "question": "Qual distúrbio eletrolítico é observado com mais frequência na acidose tubular renal distal?",
+      "options": [
+        "Hipercalcemia",
+        "Hipocalemia",
+        "Hiponatremia",
+        "Hipercalemia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A acidose tubular renal distal clássica é acompanhada de hipocalemia, porque o defeito na secreção de íons hidrogênio aumenta a secreção de potássio no ducto coletor para manter a eletroneutralidade.",
+      "hashtags": [
+        "nefrologia",
+        "renal_acidose_tubular_tipo_distal",
+        "tabela_clínica",
+        "hipocalemia",
+        "MEDICAL_TOPIC",
+        "Harrison 21 anos"
+      ]
+    },
+    {
+      "question": "Qual é o tratamento de primeira linha para acidose tubular renal distal?",
+      "options": [
+        "acetazolamida oral",
+        "Bicarbonato de sódio oral",
+        "Cloreto de potássio intravenoso",
+        "espironolactona oral"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O tratamento inicial é bicarbonato de sódio oral ou citrato alcalino para corrigir a acidose e prevenir nefrolitíase e osteopenia, ajustando a dose para manter o bicarbonato sérico normal.",
+      "hashtags": [
+        "nefrologia",
+        "renal_acidose_tubular_tipo_distal",
+        "tratamento",
+        "oral_bicarbonato_de_sódio",
+        "MEDICAL_TOPIC",
+        "KDIGO 2022"
+      ]
+    },
+    {
+      "question": "Em um paciente com acidose tubular renal distal, que achado adicional apoia o diagnóstico?",
+      "options": [
+        "Diminuição da excreção fracionada de bicarbonato",
+        "Presença de glicosúria e aminoacidúria",
+        "Nefrocalcinose na ultrassonografia renal",
+        "Aumento da excreção urinária de amônio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A nefrocalcinose é uma manifestação típica de acidose tubular renal distal, secundária à hipercalciúria e hipocitratúria crônicas, e sua presença na ultrassonografia renal reforça o diagnóstico.",
+      "hashtags": [
+        "nefrologia",
+        "renal_acidose_tubular_tipo_distal",
+        "diagnóstico",
+        "nefrocalcinose",
+        "MEDICAL_TOPIC",
+        "Tratado de Nelson sobre Pediatria 21ed"
+      ]
+    },
+    {
+      "question": "Qual é o distúrbio ácido-base primário na hiperventilação aguda?",
+      "options": [
+        "Alcalose respiratória",
+        "acidose metabólica",
+        "Acidosis respiratoria",
+        "Alcalosis metabólica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hiperventilación aguda produce disminución de la PaCO2 por aumento de la ventilación alveolar, generando alcalosis respiratoria. El pH se eleva por la reducción del ácido carbónico, sin alteración primaria del bicarbonato sérico.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalosis_respiratoria",
+        "concepto",
+        "definição_desordem",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué mecanismo fisiopatológico explica la alcalosis respiratoria por hiperventilación?",
+      "options": [
+        "Retenção de dióxido de carbono",
+        "Pérdida excesiva de CO2 alveolar",
+        "Superprodução de ácidos fixos",
+        "Aumento da excreção renal de H+"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A hiperventilação alveolar aumenta a eliminação de CO2, reduzindo a PaCO2 e o ácido carbônico plasmático. Essa diminuição da pressão parcial de CO2 eleva o pH, configurando alcalose respiratória.",
+      "hashtags": [
+        "fisiopatologia",
+        "alcalose_respiratória",
+        "alterações_funcionais",
+        "mecanismo_de hiperventilação",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a resposta compensatória esperada na alcalose respiratória crônica?",
+      "options": [
+        "Diminuição da excreção renal de H+",
+        "Aumento da produção de amônio",
+        "Aumento da ventilação alveolar",
+        "Aumento da reabsorção de bicarbonato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Na alcalose respiratória crônica, o rim compensa excretando mais bicarbonato e retendo H+, o que diminui o bicarbonato plasmático. Essa resposta compensatória renal leva dias para se estabelecer e modera o pH.",
+      "hashtags": [
+        "fisiopatologia",
+        "alcalose_respiratória",
+        "homeostase",
+        "compensação_rim",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é o achado característico da gasometria na alcalose respiratória descompensada?",
+      "options": [
+        "PaCO2 normal e pH normal",
+        "Alto bicarbonato e baixo pH",
+        "Alta PaCO2 e baixo pH",
+        "Baixa PaCO2 e alto pH"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A alcalose respiratória é definida por pH elevado e diminuição da PaCO2 na fase aguda, sem alteração inicial do bicarbonato. A compensação renal subsequente reduz o bicarbonato, mas o padrão inicial é hipocapnia com alcalemia.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalose_respiratória",
+        "diagnóstico",
+        "gasometria_arterial",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é uma causa comum de alcalose respiratória devido à hiperventilação?",
+      "options": [
+        "síndrome de ansiedade",
+        "Obstrução das vias aéreas",
+        "Depressão do centro respiratório",
+        "Pneumonia com hipoxemia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A hiperventilação psicogênica devido à ansiedade é uma causa clássica de alcalose respiratória aguda. Pneumonia e obstrução geralmente se apresentam com hipoxemia ou hipercapnia, enquanto a depressão respiratória produz acidose respiratória.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalose_respiratória",
+        "etiologia",
+        "causas_hiperventilação",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual o tratamento inicial recomendado na alcalose respiratória sintomática por hiperventilação aguda?",
+      "options": [
+        "Use uma máscara com bolsa reservatório",
+        "Indica respiração lenta e tranquiliza",
+        "Ventilação mecânica invasiva",
+        "Administrar bicarbonato intravenoso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la alcalosis respiratoria por hiperventilación psicógena, la medida inicial es tranquilizar al paciente y fomentar una respiración lenta y controlada. No se indica bicarbonato, y la ventilación mecánica o mascarilla reservorio están reservadas para otros contextos.",
+      "hashtags": [
+        "medicina_interna",
+        "alcalosis_respiratoria",
+        "tratamiento",
+        "manejo_inicial",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué indica un exceso de base negativo en un gasometría arterial?",
+      "options": [
+        "Alcalosis metabólica",
+        "Exceso de bicarbonato",
+        "Acidose respiratória",
+        "Déficit de bicarbonato"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El exceso de base negativo (déficit de base) refleja una disminución del bicarbonato plasmático, característico de la acidosis metabólica por pérdida de buffer o acumulación de ácidos.",
+      "hashtags": [
+        "medicina_interna",
+        "equilíbrio_base_ácido",
+        "fisiopatologia",
+        "exceso_de_base",
+        "MEDICAL_TOPIC",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "Em uma acidose metabólica com hiato aniônico normal, a causa mais comum é:",
+      "options": [
+        "Envenenamento por salicilato",
+        "Perda gastrointestinal de bicarbonato",
+        "cetoacidose diabética",
+        "Insuficiência renal aguda"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A acidose metabólica hiperclorêmica com hiato aniônico normal está associada à perda de bicarbonato devido a diarreia ou acidose tubular renal, e não ao acúmulo de ácidos orgânicos.",
+      "hashtags": [
+        "medicina_interna",
+        "equilíbrio_base_ácido",
+        "fisiopatologia",
+        "anion_gap",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual o tratamento imediato na acidose metabólica grave com pH inferior a 7,1?",
+      "options": [
+        "Lactato de Ringer",
+        "Bicarbonato de sódio intravenoso",
+        "Solução salina 0,9%",
+        "cloreto de potássio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Na acidose metabólica grave (pH < 7,1) ou bicarbonato < 10 mEq/L, o bicarbonato de sódio intravenoso está indicado para evitar complicações hemodinâmicas, embora seu uso rotineiro seja controverso.",
+      "hashtags": [
+        "medicina_interna",
+        "equilíbrio_base_ácido",
+        "tratamento",
+        "bicarbonato de sódio",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "A fórmula de Henderson-Hasselbalch relaciona o pH a:",
+      "options": [
+        "Potássio iônico e cálcio",
+        "Lactato e glicose",
+        "Pressão arterial de bicarbonato e CO2",
+        "Sódio e cloreto séricos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A equação pH = 6,1 + log([HCO3-]/(0,03 × PaCO2)) mostra que o pH depende da relação entre bicarbonato e pressão arterial de CO2, integrando os componentes metabólicos e respiratórios.",
+      "hashtags": [
+        "medicina_interna",
+        "equilíbrio_base_ácido",
+        "conceito",
+        "henderson_hasselbalch",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Em um paciente com diarreia grave, espera-se encontrar na gasometria:",
+      "options": [
+        "pH alto, HCO3 alto, PaCO2 alto",
+        "pH baixo, baixo HCO3, baixo PaCO2",
+        "pH baixo, HCO3 alto, PaCO2 baixo",
+        "pH alto, baixo HCO3, alto PaCO2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A diarreia provoca perda de bicarbonato, gerando acidose metabólica com diminuição do pH e HCO3; A PaCO2 é reduzida pela compensação respiratória (hiperventilação) para aumentar o pH.",
+      "hashtags": [
+        "medicina_interna",
+        "equilíbrio_base_ácido",
+        "tabela_clínica",
+        "diarréia",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Que distúrbio ácido-base ocorre com excesso de base positivo?",
+      "options": [
+        "Alcalose respiratória",
+        "acidose metabólica",
+        "alcalose metabólica",
+        "Acidosis respiratoria"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El exceso de base positivo indica un aumento del bicarbonato, típico de la alcalosis metabólica, que puede deberse a pérdida de ácidos o ganancia de bicarbonato.",
+      "hashtags": [
+        "medicina_interna",
+        "equilibrio_acido_base",
+        "concepto",
+        "alcalosis_metabolica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "En un trastorno mixto, ¿qué combinación sugiere acidosis respiratoria con alcalosis metabólica?",
+      "options": [
+        "pH bajo, PaCO2 bajo, HCO3 bajo",
+        "pH alto, PaCO2 alto, HCO3 alto",
+        "pH alto, PaCO2 bajo, HCO3 bajo",
+        "pH bajo, PaCO2 alto, HCO3 alto"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A acidose respiratória ocorre com PaCO2 elevada e pH baixo; Se houver também alcalose metabólica, o HCO3 estará elevado, de modo que o pH pode ser quase normal ou baixo, mas a combinação característica é pH baixo, PaCO2 alta e HCO3 alto.",
+      "hashtags": [
+        "medicina_interna",
+        "trastorno_mixto_ph_paco2_y_hco3",
+        "fisiopatologia",
+        "acidosis_respiratoria_alcalosis_metabolica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "Numa doença mista, qual padrão indica alcalose respiratória com acidose metabólica?",
+      "options": [
+        "pH baixo, PaCO2 baixo, HCO3 baixo",
+        "pH alto, PaCO2 baixo, HCO3 baixo",
+        "pH baixo, PaCO2 alto, HCO3 alto",
+        "pH alto, PaCO2 alto, HCO3 alto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A alcalose respiratória produz PaCO2 baixa e pH alto, e a acidose metabólica produz HCO3 baixo e pH baixo; A combinação típica apresenta pH alto, PaCO2 baixa e HCO3 baixo, embora o pH final dependa da magnitude de cada distúrbio.",
+      "hashtags": [
+        "medicina_interna",
+        "desordem_mista_ph_paco2_and_hco3",
+        "fisiopatologia",
+        "alcalose_respiratória_acidose_metabólica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual cálculo ajuda a identificar um distúrbio misto quando o HCO3 não muda conforme o esperado?",
+      "options": [
+        "Anion gap sérico",
+        "Lacuna osmolar",
+        "Razão delta",
+        "Gradiente alvéolo-arterial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A razão delta compara a alteração no hiato aniônico com a alteração no bicarbonato e é útil na detecção de acidose metabólica mista ou na presença de um distúrbio ácido-base adicional quando a compensação não é a esperada.",
+      "hashtags": [
+        "medicina_interna",
+        "desordem_mista_ph_paco2_and_hco3",
+        "diagnóstico",
+        "proporção_delta",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Em um paciente com pH 7,36, PaCO2 60 mmHg e HCO3 36 mEq/L, que distúrbio misto está presente?",
+      "options": [
+        "Acidose respiratória crónica compensada",
+        "Alcalose metabólica com acidose respiratória",
+        "Alcalose respiratória com acidose metabólica",
+        "Acidose respiratória aguda não compensada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "PaCO2 de 60 mmHg indica acidose respiratória e HCO3 de 36 mEq/L indica alcalose metabólica; O pH quase normal reflete uma compensação mista, mas a presença simultânea de ambos os distúrbios primários é a chave.",
+      "hashtags": [
+        "medicina_interna",
+        "desordem_mista_ph_paco2_and_hco3",
+        "tabela_clínica",
+        "gasometria_interpretação",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Qual é a causa mais comum de alcalose metabólica em um distúrbio misto com acidose respiratória?",
+      "options": [
+        "Insuficiência renal crônica",
+        "Vômito prolongado",
+        "cetoacidose diabética",
+        "diarreia grave"
+      ],
+      "correctAnswer": 2,
+      "explanation": "O vômito prolongado causa perda de ácido clorídrico e alcalose metabólica, que pode se sobrepor à acidose respiratória crônica decorrente da DPOC, criando um distúrbio misto comum na prática clínica.",
+      "hashtags": [
+        "medicina_interna",
+        "desordem_mista_ph_paco2_and_hco3",
+        "etiologia",
+        "vômito_alcalose_metabólica",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    },
+    {
+      "question": "Numa doença mista, que parâmetro é utilizado para avaliar a compensação respiratória esperada numa acidose metabólica?",
+      "options": [
+        "PaCO2 esperada = 1,5 × HCO3 + 8 ± 2",
+        "PaCO2 esperada = HCO3 + 15",
+        "pH esperado = 7,40 + (HCO3 × 0,01)",
+        "HCO3 esperado = 24 + (PaCO2 × 0,1)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A fórmula de Winter (PaCO2 esperada = 1,5 × HCO3 + 8 ± 2) prediz PaCO2 compensatória na acidose metabólica; Se a PaCO2 medida for diferente da esperada, isso indica um distúrbio respiratório adicional.",
+      "hashtags": [
+        "medicina_interna",
+        "desordem_mista_ph_paco2_and_hco3",
+        "fisiopatologia",
+        "fórmula_de_inverno",
+        "MEDICAL_TOPIC",
+        ""
+      ]
+    }
+  ]
+}

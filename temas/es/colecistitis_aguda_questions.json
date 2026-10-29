@@ -1,952 +1,1370 @@
 {
   "questions": [
     {
-      "question": "¿Qué porcentaje de casos de colecistitis aguda son de tipo calculoso?",
+      "question": "¿Cuál de los siguientes NO es un criterio diagnóstico de colecistitis aguda según Tokio?",
       "options": [
-        "Aproximadamente 90-95%",
-        "Menos del 5%",
-        "Aproximadamente 5-10%",
-        "Alrededor del 70%"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La colecistitis calculosa aguda representa la inmensa mayoría de los casos, específicamente entre el 90% y el 95%, siendo causada por la obstrucción del conducto cístico por un cálculo biliar.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "concepto",
-        "prevalencia_etiologica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la característica distintiva de la colecistitis alitiásica aguda?",
-      "options": [
-        "Presencia de cálculos biliares",
-        "Ausencia de cálculos biliares",
-        "Obstrucción del colédoco",
-        "Inflamación crónica"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La colecistitis alitiásica aguda se caracteriza por la inflamación de la vesícula biliar en ausencia de cálculos biliares que obstruyan el conducto cístico, y es más frecuente en pacientes críticamente enfermos.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "concepto",
-        "tipo_alitasica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el evento clave que inicia la colecistitis calculosa aguda?",
-      "options": [
-        "Inflamación del duodeno",
-        "Disminución de la bilis",
-        "Obstrucción del conducto cístico",
-        "Perforación intestinal"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La obstrucción del conducto cístico, generalmente por un cálculo biliar impactado, es el evento clave que inicia la cascada inflamatoria y distingue la colecistitis aguda de un cólico biliar simple.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "fisiopatologia",
-        "obstruccion_cistica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuáles de los siguientes NO es un factor de riesgo para colelitiasis?",
-      "options": [
-        "Sexo femenino",
-        "Edad avanzada",
-        "Pérdida rápida de peso",
-        "Consumo de fibra"
-      ],
-      "correctAnswer": 4,
-      "explanation": "El consumo de fibra es generalmente protector para la salud digestiva y no se asocia con un mayor riesgo de colelitiasis, a diferencia del sexo femenino, la edad avanzada y la pérdida rápida de peso.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "etiologia",
-        "factores_riesgo_litiasis",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es una de las '4 F' que describe los factores de riesgo de colelitiasis?",
-      "options": [
-        "Fecunda (Fertile)",
-        "Fina (Thin)",
-        "Fuerte (Strong)",
-        "Frágil (Fragile)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Las '4 F' son un mnemotécnico para los factores de riesgo de colelitiasis: Female (femenino), Fat (obeso), Forty (cuarenta años), y Fertile (fecunda/paridad).",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "etiologia",
-        "mnemotecnia_4f",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué condición no se asocia típicamente a colecistitis alitiásica aguda?",
-      "options": [
-        "Trauma severo",
-        "Ejercicio regular",
-        "Postoperatorio mayor",
-        "Nutrición parenteral total"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La colecistitis alitiásica aguda se asocia a pacientes críticamente enfermos o con estrés sistémico severo, como trauma, NPT o postoperatorio mayor. El ejercicio regular no es un factor de riesgo.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "etiologia",
-        "factores_riesgo_alitasica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el proceso inicial tras la obstrucción cística en colecistitis aguda?",
-      "options": [
-        "Perforación inmediata",
-        "Disminución de presión",
-        "Distensión e isquemia",
-        "Formación de bilis extra"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La oclusión del conducto cístico provoca un aumento de la presión intraluminal, distensión de la vesícula biliar y compromiso del flujo sanguíneo, resultando en isquemia de la pared.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "fisiopatologia",
-        "consecuencias_obstruccion",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué enzima convierte la lecitina biliar en lisolecitina durante la inflamación?",
-      "options": [
-        "Amilasa",
-        "Lipasa",
-        "Peptidasa",
-        "Fosfolipasa A"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La fosfolipasa A, liberada por las enzimas mucosales dañadas, convierte la lecitina biliar en lisolecitina, un potente agente citotóxico que contribuye a la inflamación química.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "fisiopatologia",
-        "inflamacion_quimica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la bacteria Gram-negativa más común en la infección secundaria?",
-      "options": [
-        "Escherichia coli",
-        "Staphylococcus aureus",
-        "Streptococcus pyogenes",
-        "Pseudomonas aeruginosa"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Aproximadamente el 50-70% de los casos de colecistitis aguda desarrollan infección bacteriana secundaria, siendo las bacterias Gram-negativas entéricas como Escherichia coli las más frecuentes.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "fisiopatologia",
-        "infeccion_bacteriana",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué complicación se describe como necrosis de la pared vesicular?",
-      "options": [
-        "Empiema",
-        "Gangrena vesicular",
-        "Fístula colecistoentérica",
-        "Síndrome de Mirizzi"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La gangrena vesicular es la necrosis de la pared de la vesícula biliar, causada por isquemia severa e infección, y es una complicación grave que puede llevar a la perforación.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "complicaciones",
-        "gangrena_vesicular",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué complicación puede causar íleo biliar por migración de un cálculo?",
-      "options": [
-        "Absceso perivesicular",
-        "Empiema vesicular",
-        "Fístula colecistoentérica",
-        "Síndrome de Mirizzi"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La fístula colecistoentérica es una comunicación anormal entre la vesícula biliar y el tracto gastrointestinal, que puede permitir la migración de cálculos y, si obstruye el intestino delgado, causar íleo biliar.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "complicaciones",
-        "ileo_biliar",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué condición puede simular la obstrucción cística por compresión extrínseca?",
-      "options": [
-        "Colelitiasis asintomática",
-        "Colangitis aguda",
-        "Pancreatitis aguda",
-        "Síndrome de Mirizzi"
-      ],
-      "correctAnswer": 4,
-      "explanation": "El Síndrome de Mirizzi ocurre cuando un cálculo impactado en el conducto cístico o la bolsa de Hartmann comprime extrínsecamente el conducto hepático común, causando obstrucción biliar.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "complicaciones",
-        "sindrome_mirizzi",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la incidencia anual de colecistitis aguda en Estados Unidos?",
-      "options": [
-        "20 por 100,000",
-        "10 por 100,000",
-        "5 por 100,000",
-        "50 por 100,000"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La incidencia anual de colecistitis aguda en Estados Unidos es de aproximadamente 20 casos por cada 100,000 habitantes, lo que la convierte en una causa frecuente de ingreso hospitalario.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "epidemiologia",
-        "incidencia_anual",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué factor de riesgo hormonal se asocia con mayor incidencia en mujeres?",
-      "options": [
-        "Testosterona",
-        "Estrógenos",
-        "Progesterona",
-        "Insulina"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Las mujeres tienen una mayor incidencia de colecistitis que los hombres, con una proporción de 2:1 a 3:1, influenciada por factores hormonales como los estrógenos, que aumentan la saturación de colesterol en la bilis.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "epidemiologia",
-        "genero_hormonas",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué grupo de edad presenta un pico en la incidencia de colecistitis aguda?",
-      "options": [
-        "Adolescentes",
-        "Veintenas",
-        "Sexta y séptima décadas",
-        "Novena década"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La incidencia de colecistitis aguda aumenta con la edad, alcanzando un pico en la sexta y séptima décadas de la vida, debido a una mayor prevalencia de cálculos biliares en personas mayores.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "epidemiologia",
-        "edad_incidencia",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la mortalidad de la colecistitis alitiásica aguda en comparación con la calculosa?",
-      "options": [
-        "Similar",
-        "Menor",
-        "Negligible",
-        "Mayor"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La colecistitis alitiásica aguda tiene una mortalidad significativamente mayor (10-50%) que la calculosa (1-4%), debido a que afecta a pacientes más gravemente enfermos y con múltiples comorbilidades.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "epidemiologia",
-        "mortalidad_alitasica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el síntoma cardinal de la colecistitis aguda?",
-      "options": [
-        "Dolor en cuadrante superior derecho",
-        "Ictericia",
-        "Diarrea",
-        "Cefalea"
-      ],
-      "correctAnswer": 1,
-      "explanation": "El síntoma cardinal de la colecistitis aguda es el dolor abdominal constante y severo en el cuadrante superior derecho (CSD) o en el epigastrio.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "cuadro_clinico",
-        "dolor_abdominal",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿A qué zona se irradia frecuentemente el dolor de la colecistitis aguda?",
-      "options": [
-        "Ingle izquierda",
-        "Espalda (escápula derecha)",
-        "Hombro izquierdo",
-        "Región periumbilical"
-      ],
-      "correctAnswer": 2,
-      "explanation": "El dolor de la colecistitis aguda frecuentemente se irradia a la espalda, especialmente a la escápula derecha o al hombro derecho, conocido como dolor referido a través del nervio frénico.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "cuadro_clinico",
-        "irradiacion_dolor",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la duración típica del dolor en la colecistitis aguda?",
-      "options": [
-        "Menos de 30 minutos",
-        "Entre 1 y 6 horas",
-        "Más de 6 horas",
-        "Intermitente por semanas"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El dolor en la colecistitis aguda suele ser continuo y persistente, con una duración típica de más de 6 horas, a menudo superando las 24 horas, a diferencia del cólico biliar.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "cuadro_clinico",
-        "duracion_dolor",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué sugiere la presencia de ictericia en colecistitis aguda?",
-      "options": [
-        "Apéndice retrocecal",
-        "Gastritis",
-        "Pielonefritis",
-        "Coledocolitiasis concurrente"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La ictericia es poco común en colecistitis aguda no complicada. Si está presente, sugiere la coexistencia de coledocolitiasis (cálculo en el conducto colédoco), colangitis aguda o síndrome de Mirizzi.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "cuadro_clinico",
-        "ictericia_asociada",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué signo es menos fiable en ancianos o inmunocomprometidos?",
-      "options": [
+        "Fiebre mayor 38°C",
         "Signo de Murphy",
-        "Fiebre",
-        "Dolor abdominal",
-        "Náuseas"
-      ],
-      "correctAnswer": 1,
-      "explanation": "El signo de Murphy es el signo físico clásico, pero puede ser menos fiable en pacientes ancianos o inmunocomprometidos, quienes a menudo presentan una respuesta inflamatoria atenuada.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "diagnostico",
-        "signo_murphy_fiabilidad",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo en el examen físico indica irritación peritoneal severa?",
-      "options": [
-        "Ruidos intestinales aumentados",
-        "Dolor de rebote",
-        "Guarding voluntario",
-        "Vesícula palpable no dolorosa"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La presencia de dolor de rebote (dolor que empeora al retirar la mano rápidamente después de la palpación profunda) sugiere peritonitis localizada o generalizada, indicando inflamación más avanzada.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "diagnostico",
-        "dolor_rebote",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál de los siguientes no es un criterio diagnóstico de Tokio (TG18)?",
-      "options": [
-        "Signos locales de inflamación",
-        "Signos sistémicos de inflamación",
-        "Historia de cólico biliar",
-        "Hallazgos radiológicos"
+        "Aumento de amilasa sérica",
+        "Leucocitosis"
       ],
       "correctAnswer": 3,
-      "explanation": "Los criterios diagnósticos de Tokio (TG18) requieren signos locales de inflamación, signos sistémicos de inflamación y hallazgos radiológicos característicos. Una historia de cólico biliar es un factor de riesgo, no un criterio diagnóstico.",
+      "explanation": "Los criterios de Tokio incluyen signos inflamatorios locales (Murphy, masa, dolor), sistémicos (fiebre, PCR elevada, leucocitosis) y de imagen. La amilasa elevada sugiere pancreatitis, no colecistitis aguda.",
       "hashtags": [
-        "gastroenterologia",
+        "medicina_interna",
         "colecistitis_aguda",
-        "diagnostico",
-        "criterios_tokio_tg18",
-        "PATOLOGIA",
-        ""
+        "cuadro_clinico",
+        "criterios_tokio",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
       ]
     },
     {
-      "question": "¿Cuál es el estudio de imagen de primera línea para colecistitis aguda?",
+      "question": "En los criterios de Tokio 2018, la colecistitis aguda se clasifica como Grado III cuando existe:",
       "options": [
-        "Gammagrafía hepatobiliar (HIDA)",
-        "Tomografía computarizada (TC)",
-        "Colangiopancreatografía por RM",
-        "Ecografía abdominal (US)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La ecografía abdominal es el estudio de imagen de primera línea debido a su disponibilidad, bajo costo y ausencia de radiación, con hallazgos clave como cálculos biliares y engrosamiento de la pared vesicular.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "diagnostico",
-        "estudio_imagen_inicial",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué hallazgo ecográfico NO es característico de colecistitis aguda?",
-      "options": [
-        "Dilatación conducto colédoco",
-        "Engrosamiento de pared >3 mm",
-        "Cálculos biliares",
-        "Líquido perivesicular"
+        "Disfunción cardiovascular",
+        "Leucocitosis moderada",
+        "Signo de Murphy positivo",
+        "Engrosamiento mural vesicular"
       ],
       "correctAnswer": 1,
-      "explanation": "La dilatación del conducto colédoco sugiere coledocolitiasis o colangitis, no es un hallazgo característico primario de la colecistitis aguda per se, aunque pueden coexistir.",
+      "explanation": "El Grado III (grave) implica disfunción orgánica: cardiovascular, neurológica, respiratoria, renal, hepática o hematológica. Leucocitosis, Murphy y engrosamiento son hallazgos de grados I o II.",
       "hashtags": [
-        "gastroenterologia",
+        "medicina_interna",
+        "colecistitis_aguda",
+        "cuadro_clinico",
+        "grados_gravedad",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo imagenológico es diagnóstico de colecistitis aguda según Tokio?",
+      "options": [
+        "Aire en la vía biliar",
+        "Dilatación del conducto hepático común",
+        "Distensión gaseosa del colon",
+        "Engrosamiento parietal vesicular"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Los criterios de imagen para colecistitis aguda incluyen engrosamiento parietal (>4 mm), distensión vesicular, signo de doble pared o absceso perivesicular. Aire biliar sugiere enfisema, dilatación colédoco sugiere coledocolitiasis.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "diagnostico",
+        "hallazgos_imagen",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "En la colecistitis aguda Grado II (moderada), la colecistectomía temprana está indicada si:",
+      "options": [
+        "Existe perforación vesicular",
+        "La cirugía es de bajo riesgo",
+        "El paciente tiene comorbilidad grave",
+        "Hay shock séptico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Grado II se define por inflamación local marcada sin disfunción orgánica. Si el paciente no tiene contraindicaciones quirúrgicas, la colecistectomía temprana es el tratamiento de elección. Perforación o shock indican Grado III o complicaciones.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "tratamiento",
+        "manejo_grado_ii",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento inicial recomendado en colecistitis aguda Grado I?",
+      "options": [
+        "Observación sin cirugía",
+        "Colecistectomía laparoscópica temprana",
+        "Antibióticos por 6 semanas",
+        "Drenaje percutáneo de la vesícula"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En Grado I, la colecistectomía laparoscópica temprana es el estándar de oro. El drenaje se reserva para pacientes de alto riesgo quirúrgico; los antibióticos prolongados o la observación no son la primera línea.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "tratamiento",
+        "manejo_grado_i",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Qué combinación de criterios confirma el diagnóstico de colecistitis aguda según Tokio?",
+      "options": [
+        "Fiebre y dolor en hipocondrio derecho",
+        "Imagen positiva sin clínica",
+        "Signos locales + sistémicos + imagen",
+        "Solo signos sistémicos y leucocitosis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El diagnóstico requiere al menos un signo inflamatorio local (Murphy, masa, dolor), un signo sistémico (fiebre, PCR, leucocitosis) y una prueba de imagen característica. La combinación aislada de fiebre o dolor no es suficiente.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "diagnostico",
+        "criterios_tokio",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Cuál es el signo clínico más específico de colecistitis aguda?",
+      "options": [
+        "Signo de Grey Turner",
+        "Signo de Rovsing",
+        "Signo de Murphy",
+        "Signo de Blumberg"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El signo de Murphy, caracterizado por interrupción de la inspiración durante la palpación profunda del hipocondrio derecho, es el hallazgo más específico de colecistitis aguda, con una especificidad reportada superior al 80%.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "cuadro_clinico",
+        "signo_murphy",
+        "TEMA_MEDICO",
+        "Harrison 21ed---Schwartz 11ed"
+      ]
+    },
+    {
+      "question": "En la colecistitis aguda, la fiebre típica suele ser:",
+      "options": [
+        "Intermitente con escalofríos",
+        "Alta, mayor de 39°C",
+        "Baja, inferior a 38°C",
+        "Ausente en ancianos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La fiebre en colecistitis aguda generalmente es baja o moderada, inferior a 38°C, aunque puede estar ausente en ancianos o inmunocomprometidos, y fiebre alta con escalofríos sugiere complicaciones como colangitis o absceso.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "cuadro_clinico",
+        "fiebre",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo de laboratorio apoya el diagnóstico de colecistitis aguda?",
+      "options": [
+        "Leucocitosis con desviación izquierda",
+        "Trombocitopenia severa",
+        "Anemia hemolítica",
+        "Eosinofilia marcada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La leucocitosis con desviación izquierda es un marcador inflamatorio clásico en colecistitis aguda, reflejando la respuesta neutrofílica a la inflamación vesicular; los otros hallazgos no son característicos de esta patología.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "diagnostico",
+        "leucocitosis",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el estudio de imagen inicial de elección en sospecha de colecistitis aguda?",
+      "options": [
+        "Resonancia magnética de vías biliares",
+        "Tomografía computarizada abdominal",
+        "Ultrasonido abdominal",
+        "Colangiopancreatografía retrógrada endoscópica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La ecografía abdominal es la modalidad inicial preferida por su alta sensibilidad para detectar litos, engrosamiento parietal y signo de Murphy ecográfico, además de ser accesible y sin radiación; la tomografía es complementaria y la CPRE es terapéutica.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "diagnostico",
+        "ultrasonido",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "El tratamiento definitivo de la colecistitis aguda es:",
+      "options": [
+        "Colecistectomía laparoscópica",
+        "Dieta baja en grasas",
+        "Antibióticos por 14 días",
+        "Litotricia extracorpórea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La colecistectomía laparoscópica temprana es el estándar de oro para colecistitis aguda, ya que elimina la fuente de infección y evita recurrencias; los antibióticos son adyuvantes y la litotricia no está indicada en colecistitis aguda.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "tratamiento",
+        "colecistectomia",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018---SAGES"
+      ]
+    },
+    {
+      "question": "¿Cuál es una complicación grave de colecistitis aguda no tratada?",
+      "options": [
+        "Insuficiencia renal aguda",
+        "Pancreatitis crónica",
+        "Perforación vesicular",
+        "Neumonía aspirativa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La perforación vesicular es una complicación temida de colecistitis aguda, pudiendo causar peritonitis biliar o absceso; el retraso terapéutico aumenta su incidencia, por lo que la cirugía temprana reduce morbimortalidad.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "complicaciones",
+        "perforacion_vesicular",
+        "TEMA_MEDICO",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "En la colecistitis aguda, el signo de Murphy ecográfico se define como:",
+      "options": [
+        "Dolor con el transductor en hipocondrio derecho",
+        "Dolor a la palpación de epigastrio",
+        "Dolor referido al hombro derecho",
+        "Dolor en cuadrante inferior izquierdo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El signo de Murphy ecográfico es la reproducción del dolor máximo en el hipocondrio derecho al presionar con el transductor durante la inspiración profunda del paciente, indicando inflamación vesicular.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "cuadro_clinico",
+        "signo_murphy_ecografico",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo ecográfico acompaña típicamente al signo de Murphy positivo?",
+      "options": [
+        "Presencia de gas en el árbol biliar",
+        "Engrosamiento de la pared vesicular",
+        "Dilatación de la vía biliar intrahepática",
+        "Aumento del diámetro de la porta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la colecistitis aguda, el signo de Murphy ecográfico suele asociarse a engrosamiento parietal (>3 mm), líquido perivesicular y litos, siendo el engrosamiento un hallazgo característico.",
+      "hashtags": [
+        "medicina_interna",
         "colecistitis_aguda",
         "diagnostico",
         "hallazgos_ecograficos",
-        "PATOLOGIA",
+        "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Cuál es el estándar de oro si la ecografía no es concluyente?",
+      "question": "En un paciente con dolor biliar y signo de Murphy ecográfico positivo, la conducta inicial es:",
       "options": [
-        "Radiografía simple de abdomen",
-        "Gammagrafía hepatobiliar (HIDA)",
-        "Endoscopia digestiva alta",
-        "Resonancia magnética"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La gammagrafía hepatobiliar (HIDA scan) es considerada el estándar de oro si la ecografía no es concluyente, ya que la no visualización de la vesícula biliar indica obstrucción del conducto cístico.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "diagnostico",
-        "estandar_oro_imagen",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué nivel de leucocitosis es un criterio para colecistitis Grado II según TG18?",
-      "options": [
-        "<10,000/mm³",
-        "10,000-14,000/mm³",
-        ">18,000/mm³",
-        "Cualquier leucocitosis"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La colecistitis Grado II (moderada) se asocia con un recuento elevado de glóbulos blancos (>18,000/mm³), lo que indica una respuesta inflamatoria sistémica más intensa.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "diagnostico",
-        "clasificacion_tg18_grado2",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué condición no clasifica la colecistitis como Grado II (moderada)?",
-      "options": [
-        "Masa palpable en CSD",
-        "Síntomas >72 horas",
-        "Inflamación local marcada",
-        "Leucocitosis <10,000/mm³"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Una leucocitosis <10,000/mm³ no es un criterio para colecistitis Grado II. El recuento de glóbulos blancos elevado (>18,000/mm³) es un criterio para Grado II.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "diagnostico",
-        "criterios_grado_ii",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el criterio de disfunción hepática para colecistitis Grado III?",
-      "options": [
-        "INR > 1.5",
-        "ALT > 70 U/L",
-        "AST > 50 U/L",
-        "Bilirrubina total > 1 mg/dL"
+        "Cirugía laparoscópica de urgencia",
+        "Colangiopancreatografía retrógrada endoscópica",
+        "Antibioticoterapia ambulatoria",
+        "Manejo expectante con analgésicos"
       ],
       "correctAnswer": 1,
-      "explanation": "La disfunción hepática, manifestada por coagulopatía con INR > 1.5, es uno de los criterios de disfunción orgánica que clasifican la colecistitis como Grado III (severa).",
+      "explanation": "Ante colecistitis aguda con signo de Murphy positivo, la colecistectomía laparoscópica precoz es el tratamiento de elección, especialmente en pacientes sin alto riesgo quirúrgico.",
       "hashtags": [
-        "gastroenterologia",
+        "medicina_interna",
         "colecistitis_aguda",
-        "diagnostico",
-        "criterios_grado_iii",
-        "PATOLOGIA",
+        "tratamiento",
+        "colecistectomia_precoz",
+        "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Qué patología NO es un diagnóstico diferencial de colecistitis aguda?",
+      "question": "El signo de Murphy ecográfico pierde utilidad diagnóstica en pacientes con:",
+      "options": [
+        "Colelitiasis asintomática",
+        "Pancreatitis aguda leve",
+        "Colecistitis alitiásica",
+        "Perforación vesicular o peritonitis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En caso de perforación o peritonitis, la respuesta inflamatoria difusa y el dolor generalizado pueden enmascarar la focalización del signo de Murphy, reduciendo su especificidad diagnóstica.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "diagnostico",
+        "limitaciones_signo",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "En la colecistitis aguda, el signo de Murphy ecográfico tiene una sensibilidad aproximada de:",
+      "options": [
+        "50-60%",
+        "95-99%",
+        "65-75%",
+        "80-90%"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El signo de Murphy ecográfico presenta una sensibilidad del 80-90% para colecistitis aguda, con especificidad variable; es uno de los criterios diagnósticos de Tokio.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "diagnostico",
+        "sensibilidad_signo",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes hallazgos ecográficos apoya el diagnóstico de colecistitis aguda junto al signo de Murphy?",
+      "options": [
+        "Líquido perivesicular",
+        "Tumoración en cabeza de páncreas",
+        "Aire en la vena porta",
+        "Ascitis de gran volumen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La presencia de líquido perivesicular, junto con engrosamiento parietal y signo de Murphy positivo, constituye una tríada ecográfica clásica que respalda el diagnóstico de colecistitis aguda.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "diagnostico",
+        "criterios_ecograficos",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el valor ecográfico mínimo de engrosamiento mural vesicular para sugerir colecistitis aguda?",
+      "options": [
+        "2 mm",
+        "4 mm",
+        "5 mm",
+        "3 mm"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El engrosamiento de la pared vesicular mayor de 4 mm es un criterio ecográfico mayor para el diagnóstico de colecistitis aguda, junto con distensión y presencia de líquido perivesicular.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "diagnostico",
+        "engrosamiento_mural",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo ecográfico adicional apoya el diagnóstico de colecistitis aguda cuando hay engrosamiento mural >4 mm?",
+      "options": [
+        "Aire en la pared vesicular",
+        "Cálculo en el cístico",
+        "Dilatación de vía biliar",
+        "Signo de Murphy ecográfico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El signo de Murphy ecográfico (dolor a la compresión del transductor sobre la vesícula) es un criterio mayor junto al engrosamiento mural >4 mm para el diagnóstico de colecistitis aguda.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "diagnostico",
+        "signo_murphy",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué condición puede causar engrosamiento mural vesicular sin colecistitis aguda?",
+      "options": [
+        "Pancreatitis crónica",
+        "Hepatitis aguda",
+        "Insuficiencia renal",
+        "Ascitis"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La hepatitis aguda puede producir edema de la pared vesicular, simulando engrosamiento mural >4 mm, pero sin los signos inflamatorios locales propios de colecistitis aguda.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "diagnostico",
+        "diagnostico_diferencial",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "En el contexto de colecistitis aguda, ¿qué técnica de imagen tiene mayor sensibilidad para detectar engrosamiento mural >4 mm?",
+      "options": [
+        "Radiografía de abdomen",
+        "Ultrasonografía abdominal",
+        "Colangiopancreatografía retrógrada",
+        "Tomografía computarizada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La ultrasonografía abdominal es la modalidad inicial de elección por su alta sensibilidad para detectar engrosamiento parietal, litiasis y signo de Murphy, siendo el estándar en la práctica clínica.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "diagnostico",
+        "ultrasonido",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el manejo definitivo recomendado en colecistitis aguda con engrosamiento mural >4 mm y criterios de gravedad?",
+      "options": [
+        "Antibióticos ambulatorios",
+        "Drenaje percutáneo electivo",
+        "Observación y control ecográfico",
+        "Colecistectomía laparoscópica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La colecistectomía laparoscópica temprana es el tratamiento de elección en colecistitis aguda, incluso con engrosamiento mural, cuando el paciente es candidato quirúrgico, reduciendo complicaciones.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "tratamiento",
+        "colecistectomia",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué complicación se asocia más frecuentemente a colecistitis aguda con engrosamiento mural marcado y necrosis?",
+      "options": [
+        "Íleo biliar",
+        "Colangitis ascendente",
+        "Perforación vesicular",
+        "Fístula colecistoentérica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La colecistitis aguda grave con necrosis transmural puede progresar a perforación vesicular, complicación que se presenta con mayor frecuencia en pacientes con engrosamiento parietal severo y signos de isquemia.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "complicaciones",
+        "perforacion_vesicular",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la causa más frecuente de colecistitis aguda?",
+      "options": [
+        "Colecistolitiasis",
+        "Neoplasia vesicular",
+        "Isquemia arterial",
+        "Infección bacteriana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La colecistitis aguda se asocia a colelitiasis en aproximadamente el 90% de los casos, donde un cálculo obstruye el conducto cístico, desencadenando inflamación.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "etiologia",
+        "colecistolitiasis",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué porcentaje de colecistitis aguda se relaciona con cálculos biliares?",
+      "options": [
+        "90%",
+        "30%",
+        "50%",
+        "70%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La litiasis vesicular está presente en aproximadamente el 90% de los pacientes con colecistitis aguda, siendo la causa predominante de esta entidad.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "epidemiologia",
+        "prevalencia_litiasica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué mecanismo fisiopatológico inicia la colecistitis aguda litiásica?",
+      "options": [
+        "Aumento de sales biliares",
+        "Perforación espontánea vesicular",
+        "Reflujo de jugo pancreático",
+        "Obstrucción del conducto cístico"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La obstrucción del conducto cístico por un cálculo produce estasis biliar, aumento de presión intravesicular e isquemia de la mucosa, desencadenando inflamación aguda.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "fisiopatologia",
+        "obstruccion_cistica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el síntoma cardinal de la colecistitis aguda litiásica?",
+      "options": [
+        "Dolor retroesternal opresivo",
+        "Dolor en fosa ilíaca izquierda",
+        "Dolor lumbar irradiado",
+        "Dolor en hipocondrio derecho"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El dolor en hipocondrio derecho, frecuentemente irradiado a escápula, es el síntoma principal de la colecistitis aguda, exacerbado por la inflamación vesicular.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "cuadro_clinico",
+        "dolor_hipocondrio_derecho",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo ecográfico es más sugestivo de colecistitis aguda litiásica?",
+      "options": [
+        "Engrosamiento de pared vesicular",
+        "Dilatación de vía biliar intrahepática",
+        "Imagen quística en páncreas",
+        "Presencia de gas en la vesícula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El engrosamiento parietal vesicular (>4 mm) junto con litos y signo de Murphy ecográfico son los hallazgos clave que confirman colecistitis aguda litiásica.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "diagnostico",
+        "ultrasonido_vesicular",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento definitivo de la colecistitis aguda litiásica?",
+      "options": [
+        "Antibioticoterapia ambulatoria",
+        "Litotricia extracorpórea",
+        "Colecistectomía laparoscópica",
+        "Colangiopancreatografía retrógrada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La colecistectomía laparoscópica temprana es el estándar de oro para colecistitis aguda litiásica, eliminando la fuente de inflamación y previniendo recurrencias.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "tratamiento",
+        "colecistectomia_laparoscopica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la causa más frecuente de obstrucción del conducto cístico en colecistitis aguda?",
+      "options": [
+        "Cálculo impactado",
+        "Parásito ascáride",
+        "Estenosis biliar",
+        "Tumor de vesícula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La colecistitis aguda se produce casi siempre por obstrucción del conducto cístico por un cálculo impactado, lo que genera inflamación y distensión vesicular. Otras causas son menos frecuentes y no representan el mecanismo típico.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "etiologia",
+        "obstruccion_cistica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "En la colecistitis aguda, la elevación de fosfatasa alcalina y bilirrubina sugiere:",
+      "options": [
+        "Hepatitis viral aguda",
+        "Perforación vesicular",
+        "Coledocolitiasis asociada",
+        "Pancreatitis aguda"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La elevación de fosfatasa alcalina y bilirrubina en colecistitis aguda indica obstrucción de la vía biliar común, generalmente por un colédocolito. Esto se asocia a colangitis o ictericia obstructiva, diferenciándose de otras complicaciones.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "cuadro_clinico",
+        "colestasis_extrahepatica",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo de laboratorio es más característico de colecistitis aguda?",
+      "options": [
+        "Leucocitosis con desviación",
+        "Trombocitopenia severa",
+        "Hipoglucemia marcada",
+        "Hipercalcemia grave"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La colecistitis aguda cursa con leucocitosis y neutrofilia como respuesta inflamatoria. Los otros parámetros no se alteran típicamente en esta patología y no forman parte de los criterios diagnósticos habituales.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "diagnostico",
+        "laboratorio",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento definitivo de la colecistitis aguda?",
+      "options": [
+        "Drenaje percutáneo",
+        "Antibióticos orales",
+        "Colecistectomía laparoscópica",
+        "Laparotomía exploradora"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La colecistectomía laparoscópica es el tratamiento definitivo de la colecistitis aguda, ya que elimina la vesícula enferma y la causa de la obstrucción. Los antibióticos son coadyuvantes y el drenaje se reserva para pacientes de alto riesgo.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "tratamiento",
+        "colecistectomia",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué signo clínico es clásico de colecistitis aguda?",
+      "options": [
+        "Signo de McBurney",
+        "Signo de Murphy",
+        "Signo de Grey Turner",
+        "Signo de Cullen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El signo de Murphy, que es la interrupción de la inspiración por dolor a la palpación en hipocondrio derecho, es clásico de colecistitis aguda. Los otros signos se asocian a pancreatitis o apendicitis.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "cuadro_clinico",
+        "signo_murphy",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "En colecistitis aguda, ¿qué criterio de gravedad indica probable colangitis?",
+      "options": [
+        "Dolor irradiado",
+        "Vómitos intensos",
+        "Distensión abdominal",
+        "Fiebre y coluria"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La presencia de fiebre, ictericia y coluria en el contexto de colecistitis sugiere colangitis ascendente, pues la obstrucción e infección de la vía biliar produce esos síntomas. Los otros datos son inespecíficos.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "complicaciones",
+        "colangitis",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el factor de riesgo más importante para colecistitis alitiásica postquirúrgica?",
+      "options": [
+        "Nutrición parenteral total",
+        "Edad avanzada del paciente",
+        "Historia de litiasis biliar",
+        "Cirugía abdominal previa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La nutrición parenteral total es un factor de riesgo crítico porque induce estasis biliar y formación de barro biliar, favoreciendo la colecistitis alitiásica en pacientes postquirúrgicos.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_alitiásica_postquirúrgica",
+        "etiologia",
+        "factores_riesgo",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo imagenológico es más sugestivo de colecistitis alitiásica?",
+      "options": [
+        "Presencia de gas intramural",
+        "Dilatación de vía biliar",
+        "Murphy ecográfico positivo",
+        "Engrosamiento mural difuso"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El engrosamiento mural difuso sin litos, junto con otros signos como distensión y barro biliar, es característico de colecistitis alitiásica; el Murphy positivo es inespecífico y el gas intramural indica enfisematosa.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_alitiásica_postquirúrgica",
+        "diagnostico",
+        "ultrasonido",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento de primera línea en colecistitis alitiásica postquirúrgica?",
+      "options": [
+        "Colecistostomía percutánea",
+        "Colecistectomía laparoscópica",
+        "Antibioticoterapia intravenosa",
+        "Colangiopancreatografía retrógrada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La colecistostomía percutánea es el tratamiento inicial preferido en pacientes postquirúrgicos críticos, ya que permite drenaje de la vesícula con menor morbilidad que la cirugía en un paciente inestable.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_alitiásica_postquirúrgica",
+        "tratamiento",
+        "drenaje_percutaneo",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué complicación es más frecuente en colecistitis alitiásica no tratada?",
       "options": [
         "Pancreatitis aguda",
-        "Hernia inguinal",
-        "Pielonefritis aguda",
-        "Colangitis aguda"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La hernia inguinal es una patología de la pared abdominal, sus síntomas y localización (generalmente ingle) la diferencian de la colecistitis aguda. Las otras son causas de dolor abdominal superior.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "diagnostico",
-        "diagnostico_diferencial_general",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué síntoma es clave en la Tríada de Charcot para colangitis aguda?",
-      "options": [
-        "Hipotensión",
-        "Leucocitosis",
-        "Fiebre",
-        "Diarrea"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La Tríada de Charcot para colangitis aguda incluye fiebre, dolor en cuadrante superior derecho e ictericia. La hipotensión es parte de la Péntada de Reynolds.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "diagnostico",
-        "triada_charcot",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es el manejo inicial recomendado para el paciente con colecistitis aguda?",
-      "options": [
-        "Dieta libre",
-        "Intervención quirúrgica inmediata",
-        "Antibióticos orales",
-        "Fluidoterapia y analgesia"
+        "Ictericia obstructiva",
+        "Colangitis ascendente",
+        "Perforación vesicular"
       ],
       "correctAnswer": 4,
-      "explanation": "El manejo médico inicial incluye reposo intestinal (NPO), fluidoterapia intravenosa para corregir la deshidratación y analgesia para controlar el dolor, antes de la intervención definitiva.",
+      "explanation": "La colecistitis alitiásica progresa rápidamente a gangrena y perforación vesicular debido a isquemia de la pared, con alta mortalidad si no se interviene a tiempo.",
       "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "tratamiento",
-        "manejo_medico_inicial",
-        "PATOLOGIA",
+        "medicina_interna",
+        "colecistitis_alitiásica_postquirúrgica",
+        "complicaciones",
+        "perforacion_vesicular",
+        "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Qué analgésico AINE es comúnmente usado en colecistitis aguda?",
+      "question": "¿Qué mecanismo fisiopatológico predomina en la colecistitis alitiásica?",
       "options": [
-        "Ketorolaco",
-        "Paracetamol",
-        "Ibuprofeno",
-        "Naproxeno"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Ketorolaco 30 mg IV cada 6 horas es un AINE efectivo para el dolor moderado en colecistitis aguda, siempre que no haya contraindicaciones, y se ha demostrado que reduce la inflamación.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "tratamiento",
-        "analgesia_aines",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué combinación de antibióticos se recomienda para colecistitis leve/moderada?",
-      "options": [
-        "Vancomicina y Gentamicina",
-        "Ceftriaxona y Metronidazol",
-        "Azitromicina y Doxiciclina",
-        "Amoxicilina y Ácido Clavulánico"
+        "Reflujo de jugo pancreático",
+        "Isquemia de la pared vesicular",
+        "Obstrucción por cálculo impactado",
+        "Hiperplasia de la mucosa"
       ],
       "correctAnswer": 2,
-      "explanation": "Para colecistitis leve a moderada (Grado I-II), se recomiendan cefalosporinas de segunda o tercera generación como Ceftriaxona, combinadas con Metronidazol para cubrir anaerobios.",
+      "explanation": "La isquemia de la pared vesicular por hipoperfusión, estasis biliar y activación de mediadores inflamatorios es el mecanismo central, a diferencia de la colecistitis litiásica donde la obstrucción por cálculo es clave.",
       "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "tratamiento",
-        "antibioticos_grado_i_ii",
-        "PATOLOGIA",
+        "medicina_interna",
+        "colecistitis_alitiásica_postquirúrgica",
+        "fisiopatologia",
+        "isquemia_mural",
+        "TEMA_MEDICO",
         ""
       ]
     },
     {
-      "question": "¿Cuál es el momento ideal para la colecistectomía laparoscópica temprana?",
+      "question": "¿Qué germen se aísla con mayor frecuencia en colecistitis alitiásica postoperatoria?",
       "options": [
-        "Después de 1 semana",
-        "Solo si no hay mejoría",
-        "Dentro de 24-72 horas",
-        "Cuando ceda la fiebre"
+        "Enterococcus faecalis",
+        "Escherichia coli",
+        "Pseudomonas aeruginosa",
+        "Klebsiella pneumoniae"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Escherichia coli es el microorganismo más común en infecciones biliares, incluyendo la colecistitis alitiásica, debido a su origen entérico y capacidad de ascenso por la vía biliar.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_alitiásica_postquirúrgica",
+        "microbiologia",
+        "agentes_etiológicos",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el antibiótico de amplio espectro inicial más recomendado en colecistitis aguda grave?",
+      "options": [
+        "Ciprofloxacino",
+        "Piperacilina-tazobactam",
+        "Ceftriaxona",
+        "Metronidazol"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En colecistitis aguda grave, la terapia empírica inicial debe cubrir enterobacterias, anaerobios y posible Enterococcus; piperacilina-tazobactam ofrece esa cobertura de amplio espectro. La ceftriaxona carece de actividad anaerobia, el ciprofloxacino no cubre anaerobios y el metronidazol solo cubre anaerobios.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "tratamiento",
+        "antibiotico_inicial",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018---IDSA 2017"
+      ]
+    },
+    {
+      "question": "¿Qué agente etiológico obliga a añadir cobertura antifúngica empírica en colecistitis aguda grave?",
+      "options": [
+        "Candida spp.",
+        "Enterococcus faecalis",
+        "Escherichia coli",
+        "Klebsiella pneumoniae"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Candida spp. se aísla en colecistitis complicadas, sobre todo en pacientes postquirúrgicos o con estancias prolongadas; por ello, en casos graves se recomienda antifúngico empírico. Las otras bacterias son cubiertas por antibióticos habituales y no requieren antifúngico.",
+      "hashtags": [
+        "microbiologia",
+        "colecistitis_aguda",
+        "patogenia",
+        "candida_empirica",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Cuál es la duración recomendada de antibióticos en colecistitis aguda tras colecistectomía sin complicaciones?",
+      "options": [
+        "5 días",
+        "7 días",
+        "24 horas",
+        "72 horas"
       ],
       "correctAnswer": 3,
-      "explanation": "La colecistectomía laparoscópica temprana es el estándar de oro para colecistitis aguda Grado I y II, realizada idealmente dentro de las 24-72 horas del inicio de los síntomas.",
+      "explanation": "Tras colecistectomía por colecistitis aguda no complicada, la antibioticoterapia se suspende a las 24 horas si se logró control del foco. Solo en casos complicados (perforación, absceso) se extiende a 4-7 días.",
       "hashtags": [
-        "gastroenterologia",
+        "medicina_interna",
+        "colecistitis_aguda",
+        "tratamiento",
+        "duracion_antibiotico",
+        "TEMA_MEDICO",
+        "IDSA 2017---SIS 2017"
+      ]
+    },
+    {
+      "question": "¿Qué factor NO indica necesidad de antibiótico de amplio espectro inicial en colecistitis aguda?",
+      "options": [
+        "Signos de peritonitis",
+        "Elevación de amilasa",
+        "Comorbilidad inmunosupresora",
+        "Edad mayor de 70 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La elevación de amilasa sugiere pancreatitis biliar, pero no es criterio de gravedad para ampliar espectro antibiótico; los otros factores (edad, peritonitis, inmunosupresión) sí indican terapia empírica amplia.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "cuadro_clinico",
+        "criterios_gravedad",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento antibiótico empírico inicial en colecistitis aguda leve en paciente alérgico a penicilina?",
+      "options": [
+        "Ampicilina-sulbactam",
+        "Ceftriaxona + metronidazol",
+        "Ertapenem",
+        "Ciprofloxacino + metronidazol"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En alergia a penicilina, se emplea ceftriaxona (cefalosporina) más metronidazol para cubrir anaerobios; la ampicilina-sulbactam y el ertapenem están contraindicados por alergia a betalactámicos, y ciprofloxacino+metronidazol es alternativa pero menos eficaz.",
+      "hashtags": [
+        "farmacologia",
+        "colecistitis_aguda",
+        "indicaciones",
+        "alergia_penicilina",
+        "TEMA_MEDICO",
+        "IDSA 2017---Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Qué antibiótico de amplio espectro inicial se prefiere en colecistitis aguda con riesgo de bacterias productoras de BLEE?",
+      "options": [
+        "Ertapenem",
+        "Ceftazidima",
+        "Amikacina",
+        "Cefepime"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ante sospecha de BLEE, los carbapenémicos como ertapenem son la opción de elección por su estabilidad frente a betalactamasas. Ceftazidima, cefepime y amikacina no ofrecen cobertura confiable contra BLEE.",
+      "hashtags": [
+        "medicina_interna",
+        "colecistitis_aguda",
+        "tratamiento",
+        "blee_carbapenem",
+        "TEMA_MEDICO",
+        "IDSA 2017---Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Cuál es el beneficio principal de la colecistectomía laparoscópica temprana en colecistitis aguda?",
+      "options": [
+        "Menor tasa de complicaciones",
+        "Disminuye la conversión a abierta",
+        "Evita la colangiopancreatografía",
+        "Reduce la estancia hospitalaria"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La colecistectomía laparoscópica temprana dentro de las 72 horas reduce la estancia hospitalaria total y los costos, sin aumentar la morbilidad ni la conversión, comparada con el manejo diferido.",
+      "hashtags": [
+        "cirugia_general",
         "colecistitis_aguda",
         "tratamiento",
         "colecistectomia_temprana",
-        "PATOLOGIA",
-        ""
+        "TEMA_MEDICO",
+        "SAGES 2020---Tokyo Guidelines 2018"
       ]
     },
     {
-      "question": "¿Para qué tipo de paciente se indica la colecistostomía percutánea?",
+      "question": "¿Qué hallazgo contraindica la colecistectomía laparoscópica temprana en colecistitis aguda?",
       "options": [
-        "Colecistitis leve (Grado I)",
-        "Pacientes jóvenes y sanos",
-        "Solo colecistitis alitiásica",
-        "Colecistitis severa (Grado III)"
-      ],
-      "correctAnswer": 4,
-      "explanation": "La colecistostomía percutánea se indica para pacientes con colecistitis aguda Grado III (severa) o aquellos con alto riesgo quirúrgico, para descompresión y control de la infección.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "tratamiento",
-        "colecistostomia_indicaciones",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué orden médica se da para prevenir náuseas y vómitos?",
-      "options": [
-        "Ondansetrón IV",
-        "Metronidazol IV",
-        "Omeprazol IV",
-        "Ketorolaco IV"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Ondansetrón 4-8 mg IV cada 8 horas PRN es un anti-emético comúnmente utilizado para controlar las náuseas y vómitos en pacientes con colecistitis aguda.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "tratamiento",
-        "ordenes_antiemeticos",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué laboratorio se solicita para descartar pancreatitis aguda?",
-      "options": [
-        "Pruebas de función hepática",
-        "Amilasa y Lipasa",
-        "Hemograma completo",
-        "Proteína C Reactiva"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Se solicitan amilasa y lipasa al ingreso para descartar pancreatitis aguda, ya que puede presentarse con síntomas similares a la colecistitis aguda.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "diagnostico",
-        "laboratorios_diferencial",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué tipo de dieta se recomienda inicialmente para colecistitis aguda?",
-      "options": [
-        "Dieta baja en grasas",
-        "Dieta blanda",
-        "Nada por vía oral (NPO)",
-        "Dieta rica en fibra"
+        "Colelitiasis múltiple",
+        "Sospecha de gangrena",
+        "Peritonitis biliar",
+        "Índice de masa corporal alto"
       ],
       "correctAnswer": 3,
-      "explanation": "El paciente debe permanecer en ayunas (nada por vía oral, NPO) inicialmente para reducir la estimulación de la vesícula biliar y prevenir náuseas y vómitos.",
+      "explanation": "La peritonitis biliar sugiere perforación o absceso, lo que obliga a diferir la cirugía y manejar inicialmente con drenaje y antibióticos, siendo una contraindicación relativa para el abordaje laparoscópico temprano.",
       "hashtags": [
-        "gastroenterologia",
+        "cirugia_general",
         "colecistitis_aguda",
-        "tratamiento",
-        "dieta_inicial",
-        "PATOLOGIA",
-        ""
+        "contraindicaciones",
+        "peritonitis_biliar",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
       ]
     },
     {
-      "question": "¿Qué antibiótico se usa para colecistitis Grado III o alto riesgo?",
+      "question": "¿Cuál es el tiempo máximo recomendado para realizar la colecistectomía temprana?",
       "options": [
-        "Cefalexina oral",
-        "Doxiciclina IV",
-        "Eritromicina oral",
-        "Piperacilina/Tazobactam IV"
-      ],
-      "correctAnswer": 4,
-      "explanation": "Para colecistitis severa (Grado III) o de alto riesgo, se requieren antibióticos de amplio espectro como Piperacilina/Tazobactam, o Carbapenems, si se sospecha resistencia o sepsis.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "tratamiento",
-        "antibioticos_grado_iii",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué factor NO está asociado con la fisiopatología de la colecistitis alitiásica?",
-      "options": [
-        "Cálculos impactados",
-        "Isquemia de la pared",
-        "Disfunción motora biliar",
-        "Estasis biliar prolongada"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La colecistitis alitiásica se produce sin cálculos biliares, por lo que los cálculos impactados no forman parte de su fisiopatología, que se centra en la estasis biliar, isquemia y disfunción motora.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "fisiopatologia",
-        "fisiopatologia_alitasica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué porcentaje de la población adulta occidental tiene colelitiasis?",
-      "options": [
-        "1-3%",
-        "10-15%",
-        "5-10%",
-        "20-25%"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La colelitiasis afecta aproximadamente al 10-15% de la población adulta en países occidentales, siendo un precursor común de la colecistitis aguda.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "epidemiologia",
-        "prevalencia_colelitiasis",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué ocurre con los ruidos intestinales en el examen físico de colecistitis?",
-      "options": [
-        "Aumentados",
-        "Normales",
-        "Disminuidos o ausentes",
-        "Borborigmos intensos"
+        "12 horas desde el ingreso",
+        "24 horas desde el ingreso",
+        "72 horas desde el inicio",
+        "7 días desde el inicio"
       ],
       "correctAnswer": 3,
-      "explanation": "En el examen físico, los ruidos intestinales suelen estar disminuidos o ausentes, lo cual es consistente con la irritación peritoneal y la respuesta inflamatoria sistémica en la colecistitis aguda.",
+      "explanation": "La colecistectomía laparoscópica temprana se define como la realizada dentro de las 72 horas desde el inicio de los síntomas o el ingreso, ya que después aumenta la dificultad quirúrgica por la inflamación y fibrosis local.",
       "hashtags": [
-        "gastroenterologia",
+        "cirugia_general",
         "colecistitis_aguda",
-        "diagnostico",
-        "examen_fisico_ruidos",
-        "PATOLOGIA",
-        ""
+        "tratamiento",
+        "ventana_terapeutica",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018---SAGES 2020"
       ]
     },
     {
-      "question": "¿Qué nivel de bilirrubina sugiere coledocolitiasis concurrente?",
+      "question": "¿Qué complicación se asocia con retrasar la colecistectomía en colecistitis aguda?",
       "options": [
-        "Elevaciones leves",
-        "Bilirrubina normal",
-        "Cualquier elevación",
-        "Más de 2-3 mg/dL"
+        "Aumento de fístula biliar",
+        "Mayor riesgo de coledocolitiasis",
+        "Incremento de hemorragia",
+        "Mayor tasa de conversión a abierta"
       ],
       "correctAnswer": 4,
-      "explanation": "Una elevación significativa de la bilirrubina (>2-3 mg/dL) o ALP puede sugerir coledocolitiasis concurrente o colangitis, requiriendo una evaluación adicional de los conductos biliares.",
+      "explanation": "El retraso de la cirugía más allá de 72 horas aumenta la inflamación y la fibrosis, elevando la tasa de conversión a cirugía abierta y las complicaciones intraoperatorias, por lo que se prefiere la intervención temprana.",
       "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "diagnostico",
-        "laboratorios_bilirrubina",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué signo puede ser la única pista en colecistitis alitiásica en críticos?",
-      "options": [
-        "Fiebre inexplicable",
-        "Dolor intenso",
-        "Ictericia marcada",
-        "Masa palpable evidente"
-      ],
-      "correctAnswer": 1,
-      "explanation": "En pacientes críticamente enfermos con colecistitis alitiásica, la fiebre inexplicable y el deterioro de la condición general del paciente pueden ser las únicas pistas debido a síntomas atenuados.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "cuadro_clinico",
-        "presentacion_alitasica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué condición no se considera en la clasificación de Grado III según TG18?",
-      "options": [
-        "Hipotensión severa",
-        "Duración de síntomas >72h",
-        "Alteración de conciencia",
-        "Creatinina >2.0 mg/dL"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La duración de los síntomas >72 horas es un criterio para colecistitis Grado II (moderada), mientras que el Grado III se define por disfunción de órganos, como hipotensión, alteración de conciencia o insuficiencia renal.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "diagnostico",
-        "clasificacion_tg18_grado3",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Cuál es la fisiopatología central de la colecistitis alitiásica?",
-      "options": [
-        "Impacto de cálculos",
-        "Infección viral",
-        "Estasis biliar y isquemia",
-        "Reacción autoinmune"
-      ],
-      "correctAnswer": 3,
-      "explanation": "En la colecistitis alitiásica, la estasis biliar prolongada (por NPT, ayuno), la isquemia de la pared vesicular (por shock, sepsis) y la disfunción motora biliar juegan un papel central en la fisiopatología.",
-      "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "fisiopatologia",
-        "mecanismos_alitasica",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué complicación se describe como acumulación de pus dentro de la vesícula biliar?",
-      "options": [
-        "Hidrops vesicular",
-        "Colelitiasis",
-        "Mucocele",
-        "Empiema vesicular"
-      ],
-      "correctAnswer": 4,
-      "explanation": "El empiema vesicular es la acumulación de pus dentro de la vesícula biliar, indicando una infección severa y es una complicación potencial de la colecistitis aguda.",
-      "hashtags": [
-        "gastroenterologia",
+        "cirugia_general",
         "colecistitis_aguda",
         "complicaciones",
-        "empiema_vesicular",
-        "PATOLOGIA",
-        ""
+        "conversion_abierta",
+        "TEMA_MEDICO",
+        "Cochrane 2013---Tokyo Guidelines 2018"
       ]
     },
     {
-      "question": "¿Qué mediadores inflamatorios son liberados durante la colecistitis aguda?",
+      "question": "¿Cuál es el estándar de oro diagnóstico para colecistitis aguda antes de la cirugía temprana?",
       "options": [
-        "Prostaglandinas y Citocinas",
-        "Histamina y Bradicinina",
-        "Serotonina y Dopamina",
-        "Acetilcolina y GABA"
+        "Tomografía computarizada",
+        "Colangiopancreatografía",
+        "Ultrasonido abdominal",
+        "Colangiorresonancia"
       ],
-      "correctAnswer": 1,
-      "explanation": "Durante la inflamación química, se liberan mediadores inflamatorios como las prostaglandinas (PGE2, PGF2) y citocinas (interleucinas, TNF-alfa), que promueven la inflamación.",
+      "correctAnswer": 3,
+      "explanation": "El ultrasonido abdominal es la primera línea diagnóstica por su alta sensibilidad para detectar litos, engrosamiento de pared vesicular >4 mm y signo de Murphy ecográfico, esencial para decidir la colecistectomía temprana.",
       "hashtags": [
-        "gastroenterologia",
-        "colecistitis_aguda",
-        "fisiopatologia",
-        "mediadores_inflamatorios",
-        "PATOLOGIA",
-        ""
-      ]
-    },
-    {
-      "question": "¿Qué enfermedad se caracteriza por dolor pleurítico en CSD con tos y fiebre?",
-      "options": [
-        "Hepatitis aguda",
-        "Neumonía del lóbulo inferior derecho",
-        "Pielonefritis derecha",
-        "Gastritis aguda"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La neumonía del lóbulo inferior derecho o pleuritis puede causar dolor pleurítico en el cuadrante superior derecho que empeora con la inspiración, junto con tos y fiebre, simulando colecistitis.",
-      "hashtags": [
-        "gastroenterologia",
+        "cirugia_general",
         "colecistitis_aguda",
         "diagnostico",
-        "diagnostico_diferencial_pulmonar",
-        "PATOLOGIA",
+        "ultrasonido",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Qué criterio de gravedad impide la colecistectomía temprana?",
+      "options": [
+        "Vesícula hidrópica",
+        "Fiebre de 38.5°C",
+        "Leucocitosis de 15,000",
+        "Disfunción orgánica"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La disfunción orgánica define colecistitis aguda grave (grado III) según Tokio, donde la cirugía inmediata se contraindica; se prefiere estabilización y drenaje percutáneo antes de la colecistectomía diferida.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "clasificacion_gravedad",
+        "grado_iii",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Cuál es el criterio principal para clasificar colecistitis aguda como grado I en la escala de Tokio?",
+      "options": [
+        "Ausencia de disfunción orgánica",
+        "Presencia de absceso perivesicular",
+        "Fallo multiorgánico establecido",
+        "Disfunción orgánica leve"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La colecistitis aguda grado I se define como leve, en pacientes sin disfunción orgánica y con cambios inflamatorios localizados en la vesícula biliar, lo que permite tratamiento conservador inicial.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "cuadro_clinico",
+        "escala_tokio_grado_i",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo clínico caracteriza el grado II (moderado) de colecistitis aguda según Tokio?",
+      "options": [
+        "Fiebre mayor de 39°C",
+        "Ictericia obstructiva",
+        "Disfunción orgánica",
+        "Signo de Murphy negativo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El grado II implica colecistitis aguda asociada a signos inflamatorios locales marcados como tumor doloroso palpable, masa, absceso o gangrena, sin disfunción orgánica; la fiebre no es criterio distintivo.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "cuadro_clinico",
+        "escala_tokio_grado_ii",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Cuál es el criterio diagnóstico de colecistitis aguda grado III según la escala de Tokio?",
+      "options": [
+        "Colangitis ascendente",
+        "Perforación vesicular",
+        "Disfunción orgánica",
+        "Disfunción cardiovascular"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El grado III se define por la presencia de disfunción orgánica, que puede ser cardiovascular, neurológica, respiratoria, renal, hepática o hematológica; esto indica colecistitis grave que requiere soporte intensivo.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "complicaciones",
+        "escala_tokio_grado_iii",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "En la escala de Tokio, ¿qué hallazgo local indica colecistitis grado II?",
+      "options": [
+        "Pancreatitis aguda",
+        "Absceso perivesicular",
+        "Murphy ecográfico",
+        "Dilatación colédoco"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La presencia de absceso perivesicular, gangrena o perforación local son signos inflamatorios locales que elevan la colecistitis a grado II; el signo de Murphy es parte del diagnóstico inicial, no de gravedad.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "diagnostico",
+        "hallazgos_locales",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Qué disfunción orgánica se considera criterio de colecistitis grado III?",
+      "options": [
+        "Todas las anteriores",
+        "Disfunción respiratoria",
+        "Disfunción renal",
+        "Disfunción hepática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El grado III de Tokio incluye disfunción orgánica en cualquier sistema: cardiovascular, neurológico, respiratorio, renal, hepático o hematológico; por lo tanto, todas las opciones son correctas.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "complicaciones",
+        "disfuncion_organica",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Cuál es el manejo inicial recomendado para colecistitis aguda grado I?",
+      "options": [
+        "Colecistectomía laparoscópica urgente",
+        "Observación sin antibióticos",
+        "Antibióticos y cirugía diferida",
+        "Drenaje percutáneo inmediato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En colecistitis leve (grado I), la colecistectomía laparoscópica temprana es el tratamiento estándar; la cirugía diferida se reserva cuando hay demora o alto riesgo quirúrgico, pero no es primera línea.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "tratamiento",
+        "manejo_grado_i",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Cuál es la indicación principal del drenaje percutáneo en colecistitis aguda?",
+      "options": [
+        "Paciente con alto riesgo quirúrgico",
+        "Paciente con colecistitis leve",
+        "Paciente con ictericia obstructiva",
+        "Paciente con bajo riesgo anestésico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El drenaje percutáneo se reserva para pacientes con colecistitis aguda que son candidatos de alto riesgo para colecistectomía, como aquellos con comorbilidades graves o ASA III-IV, permitiendo diferir la cirugía.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "tratamiento",
+        "drenaje_percutaneo",
+        "TEMA_MEDICO",
+        "SAGES 2022---Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo de imagen contraindica el drenaje percutáneo como primera opción?",
+      "options": [
+        "Colelitiasis múltiple asintomática",
+        "Perforación de la vesícula biliar",
+        "Absceso perihepático drenable",
+        "Engrosamiento difuso de la pared"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La presencia de un absceso perihepático drenable puede requerir drenaje percutáneo del absceso, pero no contraindica el procedimiento; la perforación con peritonitis difusa es indicación de cirugía de urgencia.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "diagnostico",
+        "imagen_vesicular",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018"
+      ]
+    },
+    {
+      "question": "¿Cuál es la vía de acceso más común para el drenaje percutáneo de la vesícula?",
+      "options": [
+        "Transgástrico endoscópico",
+        "Transperitoneal directo",
+        "Transhepático transperitoneal",
+        "Transvaginal guiado por eco"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El acceso transhepático transperitoneal es el más utilizado porque fija la vesícula al lecho hepático, reduciendo el riesgo de fuga biliar y permitiendo un trayecto seguro guiado por ultrasonido o tomografía.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "tratamiento",
+        "tecnica_procedimiento",
+        "TEMA_MEDICO",
+        "SIR Guidelines 2019"
+      ]
+    },
+    {
+      "question": "¿Qué complicación se asocia con mayor frecuencia al drenaje percutáneo?",
+      "options": [
+        "Fuga biliar intraperitoneal",
+        "Infección del sitio de inserción",
+        "Perforación intestinal",
+        "Hemorragia digestiva alta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La fuga biliar intraperitoneal es una complicación reconocida del drenaje percutáneo, especialmente si el catéter se desplaza o si hay obstrucción distal; otras complicaciones incluyen hemorragia, pero la fuga es la más característica.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "complicaciones",
+        "fuga_biliar",
+        "TEMA_MEDICO",
+        "Radiographics 2016---SIR 2019"
+      ]
+    },
+    {
+      "question": "¿Cuál es el manejo inicial recomendado en un paciente de alto riesgo con colecistitis aguda y sepsis?",
+      "options": [
+        "Antibióticos y drenaje percutáneo",
+        "Litotricia extracorpórea por ondas",
+        "Solo analgesia y observación",
+        "Colecistectomía laparoscópica urgente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En pacientes de alto riesgo con sepsis por colecistitis aguda, el manejo inicial combina antibióticos de amplio espectro y drenaje percutáneo de la vesícula para controlar el foco séptico, difiriendo la colecistectomía hasta que el paciente mejore.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "tratamiento",
+        "manejo_sepsis",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018---SIS Guidelines"
+      ]
+    },
+    {
+      "question": "¿Qué paciente es candidato óptimo para drenaje percutáneo como puente a cirugía?",
+      "options": [
+        "Mujer embarazada en primer trimestre",
+        "Paciente con coagulopatía no corregida",
+        "Anciano con insuficiencia cardiaca grave",
+        "Joven con colecistitis no complicada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El drenaje percutáneo está indicado como puente en pacientes añosos con comorbilidades graves como insuficiencia cardiaca, que no toleran anestesia general; la coagulopatía no corregida es contraindicación relativa, y los otros casos suelen resolverse con cirugía.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "indicaciones",
+        "paciente_quirurgico",
+        "TEMA_MEDICO",
+        "Tokyo Guidelines 2018---SAGES 2022"
+      ]
+    },
+    {
+      "question": "¿Cuál es la complicación más grave de la colecistitis aguda que requiere cirugía urgente?",
+      "options": [
+        "Cólico biliar",
+        "Perforación vesicular",
+        "Pancreatitis aguda",
+        "Ictericia obstructiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La perforación vesicular es la complicación más grave de la colecistitis aguda, ya que puede provocar peritonitis biliar y absceso perivesicular, requiriendo colecistectomía de urgencia.",
+      "hashtags": [
+        "cirugia_general",
+        "colecistitis_aguda",
+        "complicaciones",
+        "perforacion_vesicular",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo tomográfico es más sugestivo de absceso perivesicular?",
+      "options": [
+        "Colección líquida adyacente",
+        "Engrosamiento mural difuso",
+        "Aire en la vesícula",
+        "Dilatación de vía biliar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una colección líquida adyacente a la vesícula biliar en la tomografía es característica de absceso perivesicular, complicación de la colecistitis aguda perforada.",
+      "hashtags": [
+        "imagenologia",
+        "colecistitis_aguda",
+        "diagnostico",
+        "tomografia_abdominal",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el manejo inicial de un absceso perivesicular pequeño?",
+      "options": [
+        "Colangiopancreatografía retrógrada",
+        "Colecistectomía laparoscópica inmediata",
+        "Antibióticos y drenaje percutáneo",
+        "Observación y analgesia oral"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En abscesos perivesiculares pequeños, el tratamiento inicial incluye antibióticos de amplio espectro y drenaje percutáneo guiado por imagen, difiriendo la cirugía hasta resolver la infección.",
+      "hashtags": [
+        "cirugia_general",
+        "absceso_perivesicular",
+        "tratamiento",
+        "drenaje_percutaneo",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué bacteria se aísla con mayor frecuencia en abscesos perivesiculares?",
+      "options": [
+        "Escherichia coli",
+        "Streptococcus pyogenes",
+        "Staphylococcus aureus",
+        "Pseudomonas aeruginosa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Escherichia coli es el microorganismo más común en infecciones biliares y abscesos perivesiculares, debido a la flora entérica ascendente que coloniza la vesícula inflamada.",
+      "hashtags": [
+        "microbiologia",
+        "absceso_perivesicular",
+        "etiologia",
+        "flora_biliar",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué signo clínico sugiere perforación vesicular en colecistitis aguda?",
+      "options": [
+        "Dolor abdominal generalizado",
+        "Dolor en hipocondrio derecho",
+        "Fiebre de bajo grado",
+        "Ictericia leve"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La perforación vesicular produce peritonitis biliar, manifestándose como dolor abdominal generalizado con signos de irritación peritoneal, a diferencia del dolor localizado inicial de la colecistitis.",
+      "hashtags": [
+        "cirugia_general",
+        "perforacion_vesicular",
+        "cuadro_clinico",
+        "peritonitis_biliar",
+        "TEMA_MEDICO",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el estudio de imagen de elección para confirmar absceso perivesicular?",
+      "options": [
+        "Colangiografía peroperatoria",
+        "Radiografía de abdomen",
+        "Tomografía computarizada",
+        "Ultrasonido endoscópico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La tomografía computarizada es el estudio más sensible y específico para detectar abscesos perivesiculares, mostrando colecciones líquidas con realce periférico adyacentes a la vesícula.",
+      "hashtags": [
+        "imagenologia",
+        "absceso_perivesicular",
+        "diagnostico",
+        "tomografia_computarizada",
+        "TEMA_MEDICO",
         ""
       ]
     }

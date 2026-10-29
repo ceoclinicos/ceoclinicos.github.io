@@ -1,0 +1,1372 @@
+{
+  "questions": [
+    {
+      "question": "¿Qué recuento de linfocitos CD4 define el estadio SIDA según los CDC?",
+      "options": [
+        "Menos de 100 células/µL",
+        "Menos de 350 células/µL",
+        "Menos de 500 células/µL",
+        "Menos de 200 células/µL"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El estadio SIDA se define por un recuento de CD4 inferior a 200 células/µL o por la presencia de una enfermedad indicadora de SIDA, independientemente de la carga viral. Los valores de 500, 350 y 100 no establecen el umbral diagnóstico de SIDA.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "diagnostico",
+        "criterios_cdc",
+        "PATOLOGIA",
+        "CDC 2021---Guía GESIDA"
+      ]
+    },
+    {
+      "question": "¿Qué parámetro indica mejor la progresión inmunológica en un paciente con VIH?",
+      "options": [
+        "Carga viral plasmática",
+        "Recuento de linfocitos CD4",
+        "Velocidad de sedimentación globular",
+        "Nivel de anticuerpos anti-VIH"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El recuento de linfocitos CD4 es el principal marcador de progresión inmunológica y del riesgo de infecciones oportunistas. La carga viral refleja replicación viral pero no el estado inmunitario actual; los anticuerpos y la VSG no son indicadores específicos de progresión.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "diagnostico",
+        "recuento_cd4",
+        "PATOLOGIA",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de monitorizar la carga viral en el VIH?",
+      "options": [
+        "Predecir el riesgo de transmisión sexual",
+        "Determinar el estadio clínico de la infección",
+        "Establecer el recuento de CD4 esperado",
+        "Evaluar la respuesta al tratamiento antirretroviral"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La carga viral se utiliza fundamentalmente para valorar la eficacia del tratamiento antirretroviral y detectar fracaso virológico. El estadio clínico se basa en CD4 y enfermedades indicadoras; la carga viral no predice directamente el riesgo de transmisión ni el recuento de CD4.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "diagnostico",
+        "monitorizacion_carga_viral",
+        "PATOLOGIA",
+        "Guía GESIDA 2023"
+      ]
+    },
+    {
+      "question": "¿Qué valor de carga viral se considera indetectable en la práctica clínica?",
+      "options": [
+        "Menos de 50 copias/mL",
+        "Menos de 200 copias/mL",
+        "Menos de 1000 copias/mL",
+        "Menos de 20 copias/mL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El umbral de indetectabilidad más utilizado es menos de 20 copias/mL, aunque algunos ensayos usan <50 copias/mL. Valores de 200 o 1000 copias/mL no se consideran indetectables y reflejan replicación viral residual o fracaso terapéutico.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "diagnostico",
+        "carga_viral_indetectable",
+        "PATOLOGIA",
+        "Guía GESIDA 2023"
+      ]
+    },
+    {
+      "question": "¿Cada cuánto se recomienda monitorizar CD4 y carga viral en paciente estable con TAR?",
+      "options": [
+        "Cada 12-24 meses",
+        "Cada 3-6 meses",
+        "Cada 1-2 meses",
+        "Cada 6-12 meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En pacientes con TAR estable y supresión virológica, se recomienda monitorizar CD4 y carga viral cada 6-12 meses. Intervalos más cortos se reservan para inicio de tratamiento, fracaso virológico o cambios clínicos; intervalos mayores pueden retrasar la detección de fallo.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "diagnostico",
+        "frecuencia_monitorizacion",
+        "PATOLOGIA",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Qué combinación de CD4 y carga viral indica fracaso virológico?",
+      "options": [
+        "CD4 en descenso y carga viral indetectable",
+        "CD4 estable y carga viral indetectable",
+        "CD4 en ascenso y carga viral detectable",
+        "CD4 en descenso y carga viral detectable"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El fracaso virológico se define por carga viral detectable persistente, frecuentemente acompañada de descenso de CD4. La combinación de CD4 estable con carga viral indetectable indica buen control; CD4 en ascenso con carga viral detectable sugiere respuesta inmune parcial pero no fracaso; CD4 en descenso con carga viral indetectable es infrecuente y no define fracaso virológico.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "diagnostico",
+        "fracaso_virologico",
+        "PATOLOGIA",
+        "Guía GESIDA 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál es el umbral de CD4 que indica iniciar profilaxis con TMP-SMX en un adulto con VIH?",
+      "options": [
+        "CD4 menor de 350 células/mm3",
+        "CD4 menor de 200 células/mm3",
+        "CD4 menor de 100 células/mm3",
+        "CD4 menor de 500 células/mm3"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La profilaxis con trimetoprim-sulfametoxazol (TMP-SMX) está indicada en pacientes con infección por VIH y recuento de CD4 inferior a 200 células/mm3, para prevenir la neumonía por Pneumocystis jirovecii, entre otras infecciones oportunistas.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "tratamiento",
+        "profilaxis_tmp_smx",
+        "PATOLOGIA",
+        "Guía DHHS 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la infección oportunista que principalmente previene la profilaxis con TMP-SMX en pacientes con VIH y CD4 <200?",
+      "options": [
+        "Citomegalovirus diseminado",
+        "Neumonía por Pneumocystis jirovecii",
+        "Toxoplasmosis cerebral",
+        "Criptococosis meníngea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La profilaxis con TMP-SMX en pacientes con VIH y CD4 menor de 200 células/mm3 está dirigida fundamentalmente a la prevención de la neumonía por Pneumocystis jirovecii, aunque también cubre otros patógenos como Toxoplasma gondii en ciertos contextos.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "tratamiento",
+        "pneumocystis_jirovecii",
+        "PATOLOGIA",
+        "Guía DHHS 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Qué esquema de profilaxis con TMP-SMX se recomienda habitualmente en un adulto con VIH y CD4 <200 sin otra indicación especial?",
+      "options": [
+        "TMP-SMX 160/800 mg tres veces por semana",
+        "TMP-SMX 80/400 mg una vez al día",
+        "TMP-SMX 160/800 mg una vez al día",
+        "TMP-SMX 320/1600 mg una vez al día"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El esquema estándar de profilaxis primaria para Pneumocystis jirovecii en adultos con VIH y CD4 menor de 200 es trimetoprim-sulfametoxazol (TMP-SMX) a dosis de 160/800 mg (una tableta de doble concentración) una vez al día, vía oral.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "tratamiento",
+        "dosis_profilaxis_tmp_smx",
+        "PATOLOGIA",
+        "Guía DHHS 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Hasta cuándo debe mantenerse la profilaxis con TMP-SMX en un paciente con VIH que inició con CD4 <200?",
+      "options": [
+        "Hasta que la carga viral sea indetectable durante 1 año",
+        "Hasta que el CD4 supere 200 durante al menos 3 meses",
+        "De forma indefinida en todos los pacientes",
+        "Hasta que el CD4 supere 350 durante al menos 6 meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La profilaxis con TMP-SMX puede suspenderse cuando el recuento de CD4 supera las 200 células/mm3 de forma sostenida durante al menos 3 meses, en pacientes que mantienen supresión virológica adecuada con terapia antirretroviral.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "tratamiento",
+        "duracion_profilaxis",
+        "PATOLOGIA",
+        "Guía DHHS 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es una alternativa de profilaxis para Pneumocystis jirovecii en un paciente con VIH y CD4 <200 que no tolera TMP-SMX?",
+      "options": [
+        "Azitromicina 500 mg una vez al día",
+        "Valganciclovir 900 mg una vez al día",
+        "Dapsona 100 mg una vez al día",
+        "Fluconazol 200 mg una vez al día"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En pacientes con VIH y CD4 menor de 200 que no toleran TMP-SMX, las alternativas para profilaxis contra Pneumocystis jirovecii incluyen dapsona (100 mg/día), atovacuona o pentamidina inhalada, según el perfil clínico del paciente.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "tratamiento",
+        "alternativas_profilaxis",
+        "PATOLOGIA",
+        "Guía DHHS 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Qué otra infección oportunista, además de Pneumocystis jirovecii, previene la profilaxis con TMP-SMX cuando el CD4 es <200?",
+      "options": [
+        "Toxoplasmosis cerebral",
+        "Criptosporidiosis intestinal",
+        "Candidiasis esofágica",
+        "Herpes simple recurrente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La profilaxis con TMP-SMX en pacientes con VIH y CD4 menor de 200 también proporciona protección contra la toxoplasmosis cerebral (causada por Toxoplasma gondii), especialmente en pacientes seropositivos para Toxoplasma, además de cubrir Pneumocystis jirovecii.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "tratamiento",
+        "toxoplasmosis_profilaxis",
+        "PATOLOGIA",
+        "Guía DHHS 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el mecanismo por el cual la serología convencional puede ser negativa en la infección aguda por VIH?",
+      "options": [
+        "Fijación del complemento alterada",
+        "Ausencia de viremia detectable",
+        "Neutralización por anticuerpos maternos",
+        "Ventana inmunológica precoz"
+      ],
+      "correctAnswer": 4,
+      "explanation": "En la infección aguda por VIH existe un periodo de ventana en el que los anticuerpos aún no son detectables por las pruebas convencionales, mientras la carga viral ya es elevada. Esto explica la serología negativa inicial.",
+      "hashtags": [
+        "infectologia",
+        "infeccion_aguda_por_vih",
+        "fisiopatologia",
+        "ventana_inmunologica",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué prueba diagnóstica es más útil para confirmar la infección aguda por VIH cuando la serología es negativa?",
+      "options": [
+        "Cultivo viral en linfocitos",
+        "Carga viral de VIH por PCR",
+        "Inmunoensayo de cuarta generación",
+        "Western blot en suero"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La determinación de ARN viral por PCR es el método de elección para detectar la infección aguda cuando los anticuerpos aún no son detectables. Las pruebas serológicas pueden permanecer negativas en esta fase.",
+      "hashtags": [
+        "infectologia",
+        "infeccion_aguda_por_vih",
+        "diagnostico",
+        "carga_viral_pcr",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes hallazgos clínicos es más característico del síndrome mononucleósico por VIH agudo?",
+      "options": [
+        "Faringitis exudativa con adenopatías",
+        "Artritis simétrica de pequeñas articulaciones",
+        "Meningismo con rigidez de nuca",
+        "Ictericia con coluria intensa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El síndrome mononucleósico por VIH agudo se caracteriza por fiebre, faringitis, adenopatías, artralgias y exantema, imitando una mononucleosis infecciosa. La faringitis exudativa con adenopatías es un hallazgo típico.",
+      "hashtags": [
+        "infectologia",
+        "infeccion_aguda_por_vih",
+        "cuadro_clinico",
+        "sindrome_mononucleosico",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo de laboratorio es más sugestivo de infección aguda por VIH en un paciente con síndrome mononucleósico y serología negativa?",
+      "options": [
+        "Neutrofilia con desviación izquierda",
+        "Elevación de transaminasas hepáticas",
+        "Linfocitosis CD8+ marcada",
+        "Trombocitopenia leve y anemia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la infección aguda por VIH se produce una expansión notable de linfocitos T CD8+ citotóxicos, lo que se refleja en linfocitosis CD8+ marcada. Este hallazgo apoya el diagnóstico cuando la serología es negativa.",
+      "hashtags": [
+        "infectologia",
+        "infeccion_aguda_por_vih",
+        "diagnostico",
+        "linfocitosis_cd8",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la conducta más adecuada ante la sospecha de infección aguda por VIH con serología negativa?",
+      "options": [
+        "Solicitar carga viral de VIH",
+        "Realizar punción lumbar diagnóstica",
+        "Iniciar tratamiento antirretroviral empírico",
+        "Repetir serología en 48 horas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ante la sospecha de infección aguda por VIH y serología negativa, está indicada la determinación de carga viral por PCR para confirmar el diagnóstico. Repetir serología de inmediato no aporta y el tratamiento empírico no se inicia sin confirmación.",
+      "hashtags": [
+        "infectologia",
+        "infeccion_aguda_por_vih",
+        "diagnostico",
+        "carga_viral",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal diagnóstico diferencial del síndrome mononucleósico por VIH agudo?",
+      "options": [
+        "Infección por virus Epstein-Barr",
+        "Pielonefritis aguda complicada",
+        "Neumonía neumocócica bacteriémica",
+        "Endocarditis infecciosa subaguda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El síndrome mononucleósico por VIH agudo comparte manifestaciones con la mononucleosis infecciosa por virus Epstein-Barr, como fiebre, faringitis y adenopatías. Por ello, la infección por VEB es el principal diagnóstico diferencial.",
+      "hashtags": [
+        "infectologia",
+        "infeccion_aguda_por_vih",
+        "diagnostico",
+        "diagnostico_diferencial",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el antígeno viral que detecta de forma más específica la prueba ELISA de cuarta generación para el diagnóstico de infección por VIH?",
+      "options": [
+        "Proteína p17 del VIH",
+        "Glucoproteína gp120 del VIH",
+        "Transcriptasa inversa del VIH",
+        "Proteína p24 del VIH"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La prueba ELISA de cuarta generación combina la detección de anticuerpos contra el VIH con la detección del antígeno p24, lo que permite identificar infecciones recientes antes de la seroconversión. La gp120, la transcriptasa inversa y la p17 no son los antígenos diana principales de esta prueba.",
+      "hashtags": [
+        "diagnostico",
+        "infeccion_por_vih",
+        "diagnostico",
+        "elisa_cuarta_generacion",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "En el algoritmo diagnóstico de la infección por VIH, ¿cuál es la utilidad principal de la prueba de Western blot?",
+      "options": [
+        "Detectar resistencia a antirretrovirales",
+        "Cuantificar la carga viral plasmática",
+        "Identificar el subtipo viral circulante",
+        "Confirmar la positividad de ELISA"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El Western blot es una prueba confirmatoria que detecta anticuerpos contra proteínas virales específicas y se utiliza para confirmar los resultados positivos o indeterminados de la prueba ELISA. La carga viral se mide con PCR, la resistencia con genotipificación y el subtipo con secuenciación.",
+      "hashtags": [
+        "diagnostico",
+        "infeccion_por_vih",
+        "diagnostico",
+        "western_blot_confirmacion",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué patrón de bandas en el Western blot se considera confirmatorio de infección por VIH?",
+      "options": [
+        "Bandas p17 y p55 aisladas",
+        "Presencia de banda p24 aislada",
+        "Banda gp120 sin otras bandas",
+        "Bandas gp120, gp41 y p24"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El criterio de positividad del Western blot para VIH requiere la presencia de bandas correspondientes a al menos dos de las tres proteínas principales: gp120, gp41 y p24. Una banda aislada, como p24 o gp120, se considera indeterminada y requiere pruebas adicionales.",
+      "hashtags": [
+        "diagnostico",
+        "infeccion_por_vih",
+        "diagnostico",
+        "criterios_western_blot",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "Un paciente presenta un ELISA de cuarta generación reactivo y un Western blot indeterminado. ¿Cuál es la conducta más adecuada?",
+      "options": [
+        "Iniciar tratamiento antirretroviral empírico",
+        "Repetir ELISA en dos semanas",
+        "Solicitar Western blot de control anual",
+        "Realizar carga viral de VIH"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Ante un Western blot indeterminado, la prueba de carga viral mediante PCR es la herramienta recomendada para resolver el diagnóstico, ya que permite detectar ARN viral incluso en fases tempranas. Repetir ELISA o esperar un año retrasa el diagnóstico y el inicio del tratamiento.",
+      "hashtags": [
+        "diagnostico",
+        "infeccion_por_vih",
+        "diagnostico",
+        "western_blot_indeterminado",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal ventaja del ELISA de cuarta generación frente al de tercera generación en el diagnóstico de VIH?",
+      "options": [
+        "Resultado cuantitativo de carga viral",
+        "Mayor especificidad para subtipos virales",
+        "Detección simultánea de antígeno p24",
+        "Menor costo por prueba realizada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El ELISA de cuarta generación detecta simultáneamente anticuerpos anti-VIH y el antígeno p24, lo que acorta el periodo de ventana y permite diagnosticar infecciones agudas antes de la seroconversión. No cuantifica carga viral ni es más específico para subtipos.",
+      "hashtags": [
+        "diagnostico",
+        "infeccion_por_vih",
+        "diagnostico",
+        "elisa_cuarta_generacion_ventaja",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué tipo de muestra se utiliza habitualmente para la prueba de Western blot en el diagnóstico de infección por VIH?",
+      "options": [
+        "Orina de primera micción",
+        "Suero o plasma sanguíneo",
+        "Líquido cefalorraquídeo",
+        "Saliva sin conservantes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Western blot para VIH se realiza típicamente en suero o plasma, donde se detectan los anticuerpos contra proteínas virales. Aunque existen pruebas rápidas en saliva, el Western blot convencional requiere muestra sanguínea por su mayor sensibilidad y estandarización.",
+      "hashtags": [
+        "diagnostico",
+        "infeccion_por_vih",
+        "diagnostico",
+        "muestra_suero_plasma",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del cribado universal de VIH en toda gestante?",
+      "options": [
+        "Detectar infección materna precozmente",
+        "Determinar el estado inmunitario fetal",
+        "Identificar factores de riesgo obstétrico",
+        "Evaluar la carga viral neonatal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cribado universal busca detectar la infección por VIH en la embarazada de forma temprana para iniciar tratamiento antirretroviral y prevenir la transmisión vertical.",
+      "hashtags": [
+        "ginecologia_obstetricia",
+        "vih_embarazo",
+        "diagnostico",
+        "cribado_universal",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué prueba se recomienda como primer paso en el cribado de VIH en embarazo?",
+      "options": [
+        "Prueba rápida combinada de anticuerpos",
+        "Carga viral plasmática por PCR",
+        "Cultivo viral de linfocitos",
+        "Western blot confirmatorio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La prueba rápida combinada de anticuerpos es el método inicial recomendado por su alta sensibilidad, rapidez y facilidad de uso en el cribado universal del embarazo.",
+      "hashtags": [
+        "ginecologia_obstetricia",
+        "vih_embarazo",
+        "diagnostico",
+        "prueba_rapida",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "Ante una prueba rápida de VIH reactiva en gestante, ¿cuál es la conducta inmediata?",
+      "options": [
+        "Iniciar tratamiento antirretroviral empírico",
+        "Solicitar carga viral inmediata",
+        "Confirmar con prueba de laboratorio",
+        "Repetir prueba rápida en 72 horas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Toda prueba rápida reactiva requiere confirmación con una prueba de laboratorio (ELISA o inmunoensayo) antes de establecer el diagnóstico definitivo de infección por VIH.",
+      "hashtags": [
+        "ginecologia_obstetricia",
+        "vih_embarazo",
+        "diagnostico",
+        "confirmacion_serologica",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal beneficio de la prueba rápida de VIH en el embarazo?",
+      "options": [
+        "Detecta resistencia a antirretrovirales",
+        "Sustituye a la carga viral",
+        "Reduce la necesidad de confirmación",
+        "Permite resultado en la misma consulta"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La prueba rápida ofrece resultados en minutos, lo que facilita la toma de decisiones inmediatas y el inicio temprano de profilaxis antirretroviral en la gestante.",
+      "hashtags": [
+        "ginecologia_obstetricia",
+        "vih_embarazo",
+        "diagnostico",
+        "prueba_rapida",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿En qué momento del embarazo se recomienda realizar el cribado de VIH?",
+      "options": [
+        "Solo en el tercer trimestre",
+        "Únicamente si hay factores de riesgo",
+        "Al momento del parto",
+        "En el primer control prenatal"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El cribado universal debe realizarse en la primera consulta prenatal para detectar la infección lo antes posible e iniciar tratamiento oportuno y prevenir la transmisión vertical.",
+      "hashtags": [
+        "ginecologia_obstetricia",
+        "vih_embarazo",
+        "diagnostico",
+        "momento_cribado",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué resultado de la prueba rápida indica la necesidad de iniciar profilaxis antirretroviral?",
+      "options": [
+        "Prueba rápida no concluyente",
+        "Prueba rápida indeterminada",
+        "Prueba rápida reactiva",
+        "Prueba rápida negativa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ante una prueba rápida reactiva se debe iniciar profilaxis antirretroviral mientras se confirma el diagnóstico, para reducir el riesgo de transmisión vertical.",
+      "hashtags": [
+        "ginecologia_obstetricia",
+        "vih_embarazo",
+        "tratamiento",
+        "profilaxis_antirretroviral",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el factor materno que mejor predice el riesgo de transmisión vertical del VIH?",
+      "options": [
+        "Presencia de coinfecciones genitales",
+        "Estado nutricional materno deficiente",
+        "Recuento de linfocitos CD4 bajo",
+        "Carga viral plasmática elevada"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La carga viral plasmática materna es el principal determinante del riesgo de transmisión vertical; a mayor carga viral, mayor probabilidad de transmisión. Aunque el recuento de CD4 y las coinfecciones influyen, la carga viral es el predictor más fuerte y guía la profilaxis.",
+      "hashtags": [
+        "patologia",
+        "transmision_vertical_y_profilaxis_antirretroviral_perinatal",
+        "etiologia",
+        "carga_viral_materna",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿En qué momento del embarazo se recomienda iniciar la profilaxis antirretroviral para reducir la transmisión vertical?",
+      "options": [
+        "Tercer trimestre",
+        "Antes de la concepción",
+        "Segundo trimestre",
+        "Primer trimestre"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El inicio de la profilaxis antirretroviral en el primer trimestre del embarazo es lo recomendado para lograr la supresión viral lo antes posible y reducir el riesgo de transmisión vertical. Iniciar antes de la concepción es ideal pero no siempre posible; el segundo y tercer trimestre son tardíos.",
+      "hashtags": [
+        "patologia",
+        "transmision_vertical_y_profilaxis_antirretroviral_perinatal",
+        "tratamiento",
+        "inicio_primer_trimestre",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el esquema de profilaxis antirretroviral perinatal de primera línea recomendado?",
+      "options": [
+        "Lopinavir/ritonavir + zidovudina",
+        "Zidovudina en monoterapia",
+        "Tenofovir/emtricitabina + dolutegravir",
+        "Abacavir/lamivudina + efavirenz"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El esquema de primera línea para profilaxis perinatal es tenofovir/emtricitabina asociado a dolutegravir, por su alta eficacia y seguridad. La monoterapia con zidovudina ya no se recomienda por riesgo de resistencia; las otras combinaciones son alternativas pero no de primera línea.",
+      "hashtags": [
+        "patologia",
+        "transmision_vertical_y_profilaxis_antirretroviral_perinatal",
+        "tratamiento",
+        "tenofovir_emtricitabina_dolutegravir",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal vía de transmisión vertical del VIH durante el parto?",
+      "options": [
+        "Ascenso por canal vaginal",
+        "Lactancia materna",
+        "Transplacentaria",
+        "Contacto con sangre materna"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Durante el parto, la principal vía de transmisión vertical es el contacto del neonato con sangre y secreciones maternas infectadas. La vía transplacentaria es más relevante en el embarazo; la lactancia es una vía posnatal importante pero no durante el parto.",
+      "hashtags": [
+        "patologia",
+        "transmision_vertical_y_profilaxis_antirretroviral_perinatal",
+        "fisiopatologia",
+        "contacto_sangre_materna",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué medida se recomienda para reducir la transmisión vertical durante el parto en una gestante con VIH?",
+      "options": [
+        "Parto vaginal instrumentado",
+        "Lavado vaginal con clorhexidina",
+        "Administración de inmunoglobulina al neonato",
+        "Cesárea electiva antes de trabajo de parto"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La cesárea electiva antes del inicio del trabajo de parto y de la rotura de membranas reduce el riesgo de transmisión vertical en gestantes con VIH, especialmente con carga viral elevada. El parto vaginal instrumentado y el lavado vaginal no han demostrado beneficio; la inmunoglobulina no es la medida principal.",
+      "hashtags": [
+        "patologia",
+        "transmision_vertical_y_profilaxis_antirretroviral_perinatal",
+        "tratamiento",
+        "cesarea_electiva",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es la recomendación sobre la lactancia materna en madres con VIH en países de altos ingresos?",
+      "options": [
+        "Lactancia materna exclusiva",
+        "Evitar la lactancia materna",
+        "Lactancia mixta con fórmula",
+        "Suplementación con hierro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En países de altos ingresos se recomienda evitar la lactancia materna en madres con VIH para eliminar el riesgo de transmisión posnatal, ya que existen alternativas seguras de alimentación. La lactancia exclusiva o mixta se considera en contextos de recursos limitados; la suplementación con hierro no previene la transmisión.",
+      "hashtags": [
+        "patologia",
+        "transmision_vertical_y_profilaxis_antirretroviral_perinatal",
+        "tratamiento",
+        "evitar_lactancia_materna",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el tiempo máximo recomendado para iniciar la profilaxis postexposición al VIH tras una exposición sexual de riesgo?",
+      "options": [
+        "12 horas",
+        "72 horas",
+        "48 horas",
+        "24 horas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La profilaxis postexposición al VIH debe iniciarse lo antes posible, idealmente dentro de las primeras horas, y se recomienda no más allá de las 72 horas tras la exposición. Cuanto antes se inicie, mayor es la eficacia.",
+      "hashtags": [
+        "infectologia",
+        "vih",
+        "tratamiento",
+        "profilaxis_postexposicion",
+        "PATOLOGIA",
+        "Guía CDC 2021---Guía EACS 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál es el régimen de primera línea recomendado para la profilaxis postexposición al VIH en adultos?",
+      "options": [
+        "Tenofovir/emtricitabina + dolutegravir",
+        "Abacavir/lamivudina + atazanavir",
+        "Tenofovir/emtricitabina + nevirapina",
+        "Zidovudina/lamivudina + efavirenz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El régimen preferido para profilaxis postexposición en adultos es tenofovir/emtricitabina asociado a dolutegravir, por su alta eficacia, buena tolerancia y posología cómoda. Otras combinaciones pueden usarse en situaciones específicas.",
+      "hashtags": [
+        "infectologia",
+        "vih",
+        "tratamiento",
+        "regimen_primera_linea",
+        "PATOLOGIA",
+        "Guía CDC 2021---Guía EACS 2023"
+      ]
+    },
+    {
+      "question": "En una exposición sexual con riesgo de transmisión del VIH, ¿cuál es la conducta inicial más adecuada antes de iniciar la profilaxis?",
+      "options": [
+        "Administrar inmunoglobulina hiperinmune",
+        "Iniciar profilaxis sin ninguna prueba",
+        "Solicitar carga viral plasmática urgente",
+        "Realizar prueba rápida de VIH al paciente"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Antes de iniciar la profilaxis postexposición se debe documentar el estado serológico del paciente mediante prueba rápida de VIH, para no administrar profilaxis a quien ya está infectado y para establecer la línea base. La profilaxis se inicia sin esperar resultados si la prueba no está disponible de inmediato, pero la prueba es parte de la evaluación inicial.",
+      "hashtags": [
+        "infectologia",
+        "vih",
+        "diagnostico",
+        "prueba_serologica",
+        "PATOLOGIA",
+        "Guía CDC 2021"
+      ]
+    },
+    {
+      "question": "¿Cuál es la duración estándar de la profilaxis postexposición al VIH cuando se indica?",
+      "options": [
+        "28 días",
+        "7 días",
+        "21 días",
+        "14 días"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La profilaxis postexposición al VIH se administra durante 28 días. Estudios y guías internacionales establecen esta duración para maximizar la supresión viral y reducir el riesgo de infección establecida.",
+      "hashtags": [
+        "infectologia",
+        "vih",
+        "tratamiento",
+        "duracion_profilaxis",
+        "PATOLOGIA",
+        "Guía CDC 2021---Guía EACS 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál de las siguientes situaciones se considera una exposición sexual de alto riesgo para transmisión del VIH?",
+      "options": [
+        "Besos profundos con intercambio salival",
+        "Coito anal receptivo sin preservativo",
+        "Relación sexual oral receptiva sin eyaculación",
+        "Masturbación mutua sin fluidos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El coito anal receptivo sin preservativo es una de las prácticas sexuales de mayor riesgo para la transmisión del VIH, debido a la fragilidad de la mucosa rectal y la alta concentración viral en el semen. Otras prácticas como la oral receptiva sin eyaculación tienen menor riesgo, y los besos o la masturbación mutua se consideran de riesgo nulo o despreciable.",
+      "hashtags": [
+        "infectologia",
+        "vih",
+        "epidemiologia",
+        "factores_riesgo_sexual",
+        "PATOLOGIA",
+        "Guía CDC 2021"
+      ]
+    },
+    {
+      "question": "¿Qué medida adicional se recomienda junto con la profilaxis antirretroviral tras una exposición sexual de riesgo?",
+      "options": [
+        "Realizar pruebas de VIH seriadas",
+        "Repetir prueba de VIH a las 4 semanas",
+        "Iniciar profilaxis para tuberculosis",
+        "Administrar vacuna contra hepatitis B"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Junto con la profilaxis antirretroviral, se recomienda realizar pruebas seriadas de VIH (por ejemplo, al inicio, a las 4-6 semanas, a los 3 meses y a los 6 meses) para detectar una posible seroconversión. La vacunación contra hepatitis B puede indicarse según el estado vacunal, pero no es una medida universal asociada a la profilaxis del VIH.",
+      "hashtags": [
+        "infectologia",
+        "vih",
+        "diagnostico",
+        "seguimiento_serologico",
+        "PATOLOGIA",
+        "Guía CDC 2021---Guía EACS 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál es el umbral de CD4 por debajo del cual se recomienda profilaxis primaria contra Pneumocystis jirovecii en pacientes con VIH?",
+      "options": [
+        "CD4 menor de 500 células/µL",
+        "CD4 menor de 100 células/µL",
+        "CD4 menor de 50 células/µL",
+        "CD4 menor de 200 células/µL"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La profilaxis primaria contra PCP se indica cuando el recuento de CD4 desciende por debajo de 200 células/µL o si hay candidiasis orofaríngea, independientemente del CD4. El umbral de 200 es el punto de corte clásico para esta infección oportunista.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "diagnostico",
+        "profilaxis_pcp_cd4",
+        "PATOLOGIA",
+        "Guías CDC VIH"
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento de primera línea para la neumonía por Pneumocystis jirovecii en un paciente con VIH?",
+      "options": [
+        "Clindamicina más primaquina oral",
+        "Atovacuona oral en monoterapia",
+        "Pentamidina inhalada en dosis única",
+        "Trimetoprim-sulfametoxazol oral o intravenoso"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El trimetoprim-sulfametoxazol es el fármaco de elección para la PCP, administrado por vía oral o intravenosa según la gravedad. Las otras opciones son alternativas en casos de intolerancia o alergia, no de primera línea.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "tratamiento",
+        "pcp_primera_linea",
+        "PATOLOGIA",
+        "Guías CDC VIH"
+      ]
+    },
+    {
+      "question": "¿Qué hallazgo de laboratorio es más característico de la neumonía por Pneumocystis jirovecii?",
+      "options": [
+        "Leucocitosis con neutrofilia marcada",
+        "Hipopotasemia severa",
+        "Elevación de LDH sérica",
+        "Trombocitosis reactiva"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La elevación de la lactato deshidrogenasa (LDH) es un hallazgo frecuente e inespecífico en la PCP, reflejando daño pulmonar. No es diagnóstica, pero apoya el cuadro en el contexto clínico adecuado.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "diagnostico",
+        "ldh_pcp",
+        "PATOLOGIA",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la profilaxis de elección contra toxoplasmosis cerebral en pacientes con VIH y CD4 menor de 100 células/µL?",
+      "options": [
+        "Trimetoprim-sulfametoxazol a dosis alta",
+        "Dapsona más pirimetamina",
+        "Pirimetamina más sulfadiazina y ácido folínico",
+        "Trimetoprim-sulfametoxazol a dosis profiláctica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La profilaxis primaria contra Toxoplasma gondii se realiza con pirimetamina más sulfadiazina y ácido folínico cuando el CD4 es menor de 100 células/µL y hay serología positiva para Toxoplasma. El trimetoprim-sulfametoxazol a dosis profiláctica para PCP también cubre toxoplasmosis en algunos casos, pero la combinación con pirimetamina es la pauta específica.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "tratamiento",
+        "profilaxis_toxoplasmosis",
+        "PATOLOGIA",
+        "Guías CDC VIH"
+      ]
+    },
+    {
+      "question": "¿Cuál es el fármaco de elección para el tratamiento de la infección diseminada por Mycobacterium avium complex (MAC) en pacientes con VIH?",
+      "options": [
+        "Ciprofloxacino más doxiciclina",
+        "Azitromicina en monoterapia",
+        "Rifampicina más isoniazida",
+        "Claritromicina más etambutol"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El tratamiento de elección para MAC diseminado incluye claritromicina o azitromicina asociada a etambutol, con o sin rifabutina. La monoterapia con azitromicina no es adecuada por riesgo de resistencia.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "tratamiento",
+        "mac_primera_linea",
+        "PATOLOGIA",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Por debajo de qué recuento de CD4 se recomienda iniciar profilaxis primaria contra Mycobacterium avium complex en pacientes con VIH?",
+      "options": [
+        "CD4 menor de 50 células/µL",
+        "CD4 menor de 20 células/µL",
+        "CD4 menor de 200 células/µL",
+        "CD4 menor de 100 células/µL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La profilaxis primaria contra MAC se indica cuando el recuento de CD4 es inferior a 50 células/µL. En pacientes que inician terapia antirretroviral y alcanzan CD4 superiores a 100 durante más de 3 meses, puede suspenderse.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "diagnostico",
+        "profilaxis_mac_cd4",
+        "PATOLOGIA",
+        "Guías CDC VIH"
+      ]
+    },
+    {
+      "question": "En un paciente con VIH y recuento de CD4 de 120 células/μL, ¿cuál es el cribado inicial recomendado para tuberculosis latente?",
+      "options": [
+        "IGRA o PPD, según disponibilidad",
+        "Prueba de tuberculina (PPD) únicamente",
+        "Radiografía de tórax exclusivamente",
+        "Cultivo de esputo seriado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En personas con VIH y CD4 <200, se recomienda cribado de tuberculosis latente mediante IGRA o PPD. La radiografía y el cultivo no detectan infección latente. La elección depende de la disponibilidad y circunstancias del paciente.",
+      "hashtags": [
+        "infectologia",
+        "tuberculosis_en_vih",
+        "diagnostico",
+        "cribado_tuberculosis_latente",
+        "PATOLOGIA",
+        "Guía OMS 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el tratamiento de primera línea para tuberculosis activa sensible en un paciente con VIH?",
+      "options": [
+        "Rifampicina, etambutol y levofloxacino",
+        "Isoniazida y rifampicina durante 6 meses",
+        "Estreptomicina, isoniazida y pirazinamida",
+        "Isoniazida, rifampicina, pirazinamida y etambutol"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El esquema estándar para tuberculosis activa sensible en VIH incluye isoniazida, rifampicina, pirazinamida y etambutol durante 2 meses, seguido de isoniazida y rifampicina 4 meses. Las otras opciones son incompletas o de segunda línea.",
+      "hashtags": [
+        "infectologia",
+        "tuberculosis_en_vih",
+        "tratamiento",
+        "esquema_primera_linea",
+        "PATOLOGIA",
+        "Guía OMS 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuándo se debe iniciar la terapia antirretroviral (TAR) en un paciente con VIH y tuberculosis activa?",
+      "options": [
+        "Después de completar los 6 meses de tratamiento antituberculoso",
+        "Dentro de las primeras 2 semanas de tratamiento antituberculoso",
+        "Solo si el recuento de CD4 es menor de 50 células/μL",
+        "Inmediatamente al diagnóstico de tuberculosis, sin esperar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la mayoría de los pacientes con VIH y tuberculosis, se recomienda iniciar TAR dentro de las primeras 2 semanas de tratamiento antituberculoso, especialmente si CD4 <50. Iniciar antes reduce mortalidad pero aumenta riesgo de síndrome inflamatorio de reconstitución inmune.",
+      "hashtags": [
+        "infectologia",
+        "tuberculosis_en_vih",
+        "tratamiento",
+        "inicio_tar",
+        "PATOLOGIA",
+        "Guía OMS 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal interacción farmacológica a considerar al usar rifampicina con terapia antirretroviral?",
+      "options": [
+        "Rifampicina aumenta niveles de tenofovir",
+        "Rifampicina reduce la absorción de zidovudina",
+        "Rifampicina induce el metabolismo de inhibidores de proteasa",
+        "Rifampicina inhibe el CYP3A4 aumentando niveles de efavirenz"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La rifampicina es un potente inductor del CYP3A4 y reduce los niveles de inhibidores de proteasa y nevirapina. Se recomienda ajustar dosis o usar regímenes alternativos como efavirenz o integrase inhibitors. Las otras opciones son interacciones menores o incorrectas.",
+      "hashtags": [
+        "infectologia",
+        "tuberculosis_en_vih",
+        "tratamiento",
+        "interacciones_farmacologicas",
+        "PATOLOGIA",
+        "Guía OMS 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Qué síndrome debe sospecharse si un paciente con VIH y tuberculosis empeora clínicamente tras iniciar TAR?",
+      "options": [
+        "Toxicidad hepática por isoniazida",
+        "Infección oportunista por Pneumocystis jirovecii",
+        "Resistencia a fármacos antituberculosos",
+        "Síndrome de reconstitución inmune (IRIS)"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El síndrome de reconstitución inmune (IRIS) se caracteriza por empeoramiento paradójico de síntomas tuberculosos tras iniciar TAR, debido a recuperación inmunológica. Ocurre típicamente en las primeras semanas. Las otras opciones son diagnósticos diferenciales pero menos específicos del contexto.",
+      "hashtags": [
+        "infectologia",
+        "tuberculosis_en_vih",
+        "complicaciones",
+        "iris",
+        "PATOLOGIA",
+        "Guía OMS 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "En un paciente con VIH y tuberculosis latente, ¿cuál es el esquema de tratamiento recomendado para prevenir tuberculosis activa?",
+      "options": [
+        "Isoniazida 300 mg diarios durante 6-9 meses",
+        "Isoniazida y rifampicina semanal durante 3 meses",
+        "Etambutol 15 mg/kg diarios durante 6 meses",
+        "Rifampicina 600 mg diarios durante 4 meses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La isoniazida durante 6-9 meses es el esquema clásico para tuberculosis latente en VIH, aunque también se usan rifampicina 4 meses o isoniazida+rifapentina semanal 3 meses. Etambutol no se usa para latente. La opción de isoniazida es la más estándar y eficaz.",
+      "hashtags": [
+        "infectologia",
+        "tuberculosis_en_vih",
+        "tratamiento",
+        "tuberculosis_latente",
+        "PATOLOGIA",
+        "Guía OMS 2023---Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el mecanismo fisiopatológico central del síndrome de reconstitución inmune tras inicio de TARV?",
+      "options": [
+        "Progresión acelerada de la inmunodeficiencia",
+        "Recuperación de respuesta inmune contra antígenos oportunistas",
+        "Fallo directo del TARV por resistencia viral",
+        "Reacción de hipersensibilidad al fármaco antirretroviral"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El síndrome de reconstitución inmune ocurre por la recuperación rápida de la inmunidad celular tras iniciar TARV, lo que desencadena una respuesta inflamatoria exagerada contra antígenos de infecciones oportunistas preexistentes o latentes.",
+      "hashtags": [
+        "infectologia",
+        "sindrome_de_reconstruccion_inmune",
+        "fisiopatologia",
+        "recuperacion_inmune",
+        "PATOLOGIA",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿En qué momento típico tras el inicio de TARV suele aparecer el síndrome de reconstitución inmune?",
+      "options": [
+        "Después de 2 años",
+        "Primeras 2 semanas",
+        "Entre 6 y 12 meses",
+        "Entre 4 y 8 semanas"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El síndrome de reconstitución inmune se presenta habitualmente entre 4 y 8 semanas después de iniciar la terapia antirretroviral, coincidiendo con la recuperación de los linfocitos CD4 y la respuesta inflamatoria contra patógenos oportunistas.",
+      "hashtags": [
+        "infectologia",
+        "sindrome_de_reconstruccion_inmune",
+        "cuadro_clinico",
+        "cronologia",
+        "PATOLOGIA",
+        "Guía DHHS 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál de los siguientes es un factor de riesgo para desarrollar síndrome de reconstitución inmune?",
+      "options": [
+        "Carga viral indetectable al inicio",
+        "Infección oportunista tratada recientemente",
+        "Uso de TARV por más de 5 años",
+        "Recuento de CD4 mayor de 500 células/µL"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La presencia de una infección oportunista reciente o activa al momento de iniciar TARV es un factor de riesgo bien establecido para el síndrome de reconstitución inmune, especialmente con recuentos bajos de CD4.",
+      "hashtags": [
+        "infectologia",
+        "sindrome_de_reconstruccion_inmune",
+        "etiologia",
+        "factores_riesgo",
+        "PATOLOGIA",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el manejo inicial más apropiado ante un síndrome de reconstrucción inmune moderado?",
+      "options": [
+        "Continuar TARV y tratar la infección oportunista",
+        "Añadir un segundo régimen de TARV",
+        "Suspender TARV definitivamente",
+        "Iniciar profilaxis con cotrimoxazol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el síndrome de reconstitución inmune moderado se recomienda mantener la TARV y tratar la infección oportunista subyacente, ya que la suspensión de TARV no ha demostrado beneficio y puede empeorar el pronóstico.",
+      "hashtags": [
+        "infectologia",
+        "sindrome_de_reconstruccion_inmune",
+        "tratamiento",
+        "manejo_inicial",
+        "PATOLOGIA",
+        "Guía DHHS 2023"
+      ]
+    },
+    {
+      "question": "¿Qué infección oportunista se asocia más frecuentemente con el síndrome de reconstitución inmune en pacientes con VIH?",
+      "options": [
+        "Tuberculosis",
+        "Candidiasis oral",
+        "Neumonía por Pneumocystis jirovecii",
+        "Herpes simple"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La tuberculosis es una de las infecciones oportunistas más frecuentemente implicadas en el síndrome de reconstitución inmune, especialmente en regiones endémicas, y puede manifestarse con empeoramiento paradójico de lesiones.",
+      "hashtags": [
+        "infectologia",
+        "sindrome_de_reconstruccion_inmune",
+        "complicaciones",
+        "tuberculosis",
+        "PATOLOGIA",
+        "Harrison 21ed"
+      ]
+    },
+    {
+      "question": "¿Cuál es el principal diagnóstico diferencial del síndrome de reconstitución inmune?",
+      "options": [
+        "Toxicidad farmacológica por TARV",
+        "Linfoma asociado a VIH",
+        "Fracaso virológico por resistencia",
+        "Infección oportunista de novo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El diagnóstico diferencial principal incluye el fracaso virológico, la progresión de la infección oportunista, las reacciones adversas a fármacos y procesos neoplásicos como el linfoma, por lo que es crucial evaluar la carga viral y el cuadro clínico.",
+      "hashtags": [
+        "infectologia",
+        "sindrome_de_reconstruccion_inmune",
+        "diagnostico",
+        "diagnostico_diferencial",
+        "PATOLOGIA",
+        "Guía DHHS 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál es el esquema de TARV de primera línea recomendado para la mayoría de los pacientes con VIH según las guías actuales?",
+      "options": [
+        "TAF/FTC más rilpivirina",
+        "ABC/3TC más efavirenz",
+        "TDF/FTC más dolutegravir",
+        "ZDV/3TC más nevirapina"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El esquema de primera línea recomendado por las guías actuales es TDF/FTC más dolutegravir, por su alta eficacia, buena tolerabilidad y alta barrera genética. Las otras opciones son esquemas alternativos o en desuso.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "tratamiento",
+        "tarv_primera_linea",
+        "PATOLOGIA",
+        "Guía DHHS 2023---Guía EACS 2023"
+      ]
+    },
+    {
+      "question": "¿Qué característica farmacológica hace al dolutegravir especialmente adecuado como parte del esquema de primera línea?",
+      "options": [
+        "Alta barrera genética a resistencia",
+        "Bajo costo y amplia disponibilidad",
+        "Administración una vez por semana",
+        "Ausencia de interacciones medicamentosas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El dolutegravir es un inhibidor de la integrasa con alta barrera genética, lo que significa que se requieren múltiples mutaciones para desarrollar resistencia, lo que lo hace ideal para primera línea. Las otras opciones no son correctas: su costo no es bajo, se administra diariamente y tiene algunas interacciones.",
+      "hashtags": [
+        "farmacologia",
+        "dolutegravir",
+        "concepto",
+        "barrera_genetica",
+        "PATOLOGIA",
+        "Guía DHHS 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál es la principal ventaja de la combinación TDF/FTC en el esquema de primera línea con dolutegravir?",
+      "options": [
+        "Administración en monoterapia",
+        "Mayor potencia contra VIH-2",
+        "Menor riesgo de toxicidad renal",
+        "Protección contra hepatitis B"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La combinación TDF/FTC incluye tenofovir, que tiene actividad contra el virus de la hepatitis B, proporcionando protección dual en pacientes coinfectados. Las otras opciones no son ventajas de esta combinación: TDF puede causar toxicidad renal, no es más potente contra VIH-2 y no se usa en monoterapia.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "tratamiento",
+        "tdf_ftc",
+        "PATOLOGIA",
+        "Guía DHHS 2023"
+      ]
+    },
+    {
+      "question": "¿Qué efecto adverso se debe monitorizar específicamente en pacientes que inician TDF/FTC más dolutegravir?",
+      "options": [
+        "Anemia hemolítica",
+        "Hiperglucemia severa",
+        "Aumento de creatinina sérica",
+        "Pancreatitis aguda"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El dolutegravir puede aumentar los niveles de creatinina sérica al inhibir la secreción tubular de creatinina, sin afectar la tasa de filtración glomerular. Es importante monitorizar la función renal. Las otras opciones no son efectos adversos típicos de este esquema.",
+      "hashtags": [
+        "infectologia",
+        "vih_sida",
+        "concepto",
+        "creatinina",
+        "PATOLOGIA",
+        "Guía DHHS 2023"
+      ]
+    },
+    {
+      "question": "¿Cuál es la posología habitual del dolutegravir en el esquema de primera línea para adultos?",
+      "options": [
+        "200 mg cada 24 horas",
+        "50 mg cada 24 horas",
+        "50 mg cada 12 horas",
+        "100 mg cada 24 horas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La dosis estándar de dolutegravir en adultos es de 50 mg una vez al día, con o sin alimentos. En situaciones especiales, como resistencia a integrase, puede requerir 50 mg cada 12 horas, pero no es la pauta habitual de primera línea.",
+      "hashtags": [
+        "farmacologia",
+        "dolutegravir",
+        "concepto",
+        "dosis_estandar",
+        "PATOLOGIA",
+        "Guía DHHS 2023"
+      ]
+    },
+    {
+      "question": "¿Qué interacción medicamentosa importante debe considerarse al usar dolutegravir?",
+      "options": [
+        "Con antibióticos macrólidos",
+        "Con estatinas de alta potencia",
+        "Con inhibidores de la bomba de protones",
+        "Con cationes polivalentes como aluminio"
+      ],
+      "correctAnswer": 4,
+      "explanation": "El dolutegravir se une a cationes polivalentes como aluminio, magnesio, hierro o calcio, lo que reduce su absorción. Se recomienda separar la administración de antiácidos o suplementos minerales al menos 2 horas. Las otras opciones no son interacciones significativas típicas.",
+      "hashtags": [
+        "farmacologia",
+        "dolutegravir",
+        "concepto",
+        "cationes_polivalentes",
+        "PATOLOGIA",
+        "Guía DHHS 2023"
+      ]
+    },
+    {
+      "question": "En un paciente con VIH y úlcera genital, ¿qué prueba treponémica confirma sífilis tras un tamizaje no treponémico reactivo?",
+      "options": [
+        "Microscopía en campo oscuro",
+        "RPR cuantitativo",
+        "VDRL en suero",
+        "FTA-ABS"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Las pruebas treponémicas como FTA-ABS o TPHA confirman la infección por Treponema pallidum cuando el tamizaje con pruebas no treponémicas (VDRL o RPR) es reactivo, ya que detectan anticuerpos específicos frente al treponema.",
+      "hashtags": [
+        "vih_y_sifilis",
+        "coinfeccion_vih_sifilis",
+        "diagnostico",
+        "pruebas_treponemicas",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Cuál es el efecto de la infección por VIH sobre la historia natural de la sífilis?",
+      "options": [
+        "Acelera la progresión a neurosífilis",
+        "Limita la diseminación hematógena",
+        "Impide la seroconversión treponémica",
+        "Reduce la probabilidad de úlcera genital"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La coinfección por VIH se asocia con una progresión más rápida de la sífilis, mayor riesgo de neurosífilis y presentaciones atípicas, aunque la úlcera genital sigue siendo frecuente y la seroconversión suele ocurrir.",
+      "hashtags": [
+        "vih_y_sifilis",
+        "coinfeccion_vih_sifilis",
+        "fisiopatologia",
+        "progresion_neurosifilis",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "En un paciente con VIH y sospecha de neurosífilis, ¿qué prueba en LCR es más específica?",
+      "options": [
+        "Recuento celular en LCR",
+        "PCR para Treponema pallidum",
+        "FTA-ABS en LCR",
+        "VDRL en LCR"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La prueba de VDRL en LCR es altamente específica para neurosífilis, aunque su sensibilidad es baja; las pruebas treponémicas en LCR pueden dar falsos positivos por paso de anticuerpos séricos.",
+      "hashtags": [
+        "vih_y_sifilis",
+        "neurosifilis",
+        "diagnostico",
+        "vdrl_lcr",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué fenómeno serológico puede observarse en la coinfección VIH-sífilis que dificulta el diagnóstico?",
+      "options": [
+        "Fenómeno de Koch",
+        "Efecto de gancho",
+        "Fenómeno de prozona",
+        "Reacción de Jarisch-Herxheimer"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El fenómeno de prozona ocurre cuando hay títulos muy altos de anticuerpos que saturan el reactivo, dando resultados falsamente negativos en pruebas no treponémicas como VDRL o RPR, situación más frecuente en coinfección por VIH.",
+      "hashtags": [
+        "vih_y_sifilis",
+        "coinfeccion_vih_sifilis",
+        "diagnostico",
+        "fenomeno_prozona",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "En un paciente con VIH y sífilis temprana, ¿cuál es el tratamiento de elección?",
+      "options": [
+        "Doxiciclina 100 mg VO por 14 días",
+        "Azitromicina 2 g VO dosis única",
+        "Ceftriaxona 1 g IV por 10 días",
+        "Penicilina G benzatínica 2.4 millones UI IM"
+      ],
+      "correctAnswer": 4,
+      "explanation": "La penicilina G benzatínica es el tratamiento de primera línea para sífilis temprana en pacientes con VIH, con la misma dosis que en no infectados, aunque se recomienda un seguimiento serológico más estrecho.",
+      "hashtags": [
+        "vih_y_sifilis",
+        "sifilis_temprana",
+        "tratamiento",
+        "penicilina_benzatina",
+        "PATOLOGIA",
+        ""
+      ]
+    },
+    {
+      "question": "¿Qué prueba treponémica se recomienda para el tamizaje inicial de sífilis en pacientes con VIH?",
+      "options": [
+        "VDRL",
+        "Microscopía de campo oscuro",
+        "EIA treponémico",
+        "RPR"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las pruebas treponémicas automatizadas como EIA o quimioluminiscencia se recomiendan como tamizaje inicial en poblaciones de alta prevalencia como los pacientes con VIH, dado que las pruebas no treponémicas pueden ser falsamente negativas.",
+      "hashtags": [
+        "vih_y_sifilis",
+        "tamizaje_sifilis",
+        "diagnostico",
+        "eia_treponemico",
+        "PATOLOGIA",
+        ""
+      ]
+    }
+  ]
+}

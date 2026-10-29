@@ -1,0 +1,77 @@
+{
+  "id": "sepsis_y_choque_séptico",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Definición Sepsis-3: disfunción orgánica por SOFA ≥2",
+      "title": "Definición Sepsis-3",
+      "contentHtml": "<h2>Definición Sepsis-3</h2><ul><li><b>Sepsis</b>: disfunción orgánica potencialmente mortal causada por una respuesta desregulada del huésped a la infección.</li><li>Criterio operativo: aumento agudo del <b>SOFA</b> (Sequential Organ Failure Assessment) &gt;= 2 puntos respecto al basal en un paciente con infección sospechada o confirmada.</li><li>El <b>SOFA</b> evalúa 6 sistemas: respiratorio (PaO2/FiO2), coagulación (plaquetas), hepático (bilirrubina), cardiovascular (PAM o vasopresores), sistema nervioso central (escala de Glasgow) y renal (creatinina o diuresis).</li><li>Sepsis-3 eliminó el concepto de <b>sepsis grave</b>; la distinción actual es sepsis vs choque séptico.</li><li>Trampa de examen: no confundir con <b>bacteriemia</b>; la sepsis es una disfunción orgánica, no la presencia de microorganismos en sangre.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Choque séptico: vasopresores para PAM ≥65",
+      "title": "Choque séptico: objetivo de PAM",
+      "contentHtml": "<h2>Choque séptico: objetivo de presión arterial media</h2><ul><li><b>Choque séptico</b>: sepsis con necesidad de vasopresores para mantener <b>PAM &gt;= 65 mmHg</b> (presión arterial media) y lactato sérico &gt; 2 mmol/L pese a reanimación con cristaloides adecuada.</li><li>Objetivo inicial de <b>PAM &gt;= 65 mmHg</b>; no se recomienda rutinariamente un objetivo más alto (&gt;= 80-85 mmHg) salvo hipertensión crónica o fracaso de la estrategia inicial.</li><li>La <b>PAM</b> se calcula: PAM = (PAS + 2 x PAD)/3; se puede monitorizar con catéter arterial en choque refractario.</li><li>Trampa: un objetivo de PAM más alto no mejora mortalidad y aumenta arritmias; el objetivo es <b>PAM &gt;= 65 mmHg</b>.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Lactato inicial y depuración como pronóstico",
+      "title": "Lactato: valor inicial y depuración",
+      "contentHtml": "<h2>Lactato inicial y depuración</h2><ul><li><b>Lactato</b> inicial &gt; 2 mmol/L es criterio de choque séptico y marcador de hipoperfusión tisular; &gt;= 4 mmol/L indica alto riesgo y reanimación agresiva.</li><li>La <b>depuración de lactato</b> (aclaramiento &gt;= 10-20% en 2-6 horas o normalización en 24 horas) se asocia a mejor pronóstico; su ausencia de descenso predice mayor mortalidad.</li><li>Guía reanimación con <b>lactato</b> como objetivo dinámico; no se recomienda un valor único aislado como meta absoluta.</li><li>Trampa: el <b>lactato</b> no es exclusivo de sepsis (convulsiones, isquemia mesentérica, metformina, insuficiencia hepática); interpretar en contexto clínico.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Hemocultivos antes de antibióticos sin retrasar",
+      "title": "Hemocultivos previos al antibiótico",
+      "contentHtml": "<h2>Hemocultivos antes de antibióticos</h2><ul><li>Obtener <b>hemocultivos</b> (2 sets de 2 frascos: aerobio y anaerobio, de sitios distintos) antes de iniciar antibióticos, siempre que no retrase su administración &gt; 45 minutos.</li><li>En sepsis o choque séptico, el <b>antibiótico empírico</b> no debe retrasarse por la toma de cultivos; si es imposible obtenerlos rápido, priorizar el antibiótico.</li><li>Cultivar también el foco sospechoso (orina, esputo, líquido pleural, LCR, herida) antes del antibiótico si es factible sin demora.</li><li>Trampa: retrasar el antibiótico para cultivos aumenta mortalidad; el orden correcto es <b>hemocultivos</b> inmediatos seguidos de antibiótico en la primera hora.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Antibiótico empírico en primera hora",
+      "title": "Antibiótico empírico en la primera hora",
+      "contentHtml": "<h2>Antibiótico empírico en la primera hora</h2><ul><li>En <b>sepsis</b> y <b>choque séptico</b>, iniciar <b>antibiótico empírico</b> de amplio espectro por vía intravenosa dentro de la <b>primera hora</b> tras el reconocimiento.</li><li>Elección según foco sospechado, epidemiología local, factores de riesgo de microorganismos multirresistentes y alergias; cubrir bacterias gramnegativas y grampositivas habituales.</li><li>En choque séptico con riesgo de multirresistencia, usar terapia combinada empírica; desescalar según cultivos y evolución en 48-72 horas.</li><li>Trampa: cada hora de retraso del <b>antibiótico empírico</b> en choque séptico aumenta la mortalidad; no esperar confirmación microbiológica.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Cristaloides balanceados primera línea 30 mL/kg",
+      "title": "Cristaloides balanceados 30 mL/kg",
+      "contentHtml": "<h2>Cristaloides balanceados como primera línea</h2><ul><li>Reanimación inicial con <b>cristaloides balanceados</b> (Ringer lactato o Plasma-Lyte) a <b>30 mL/kg</b> de peso ideal en las primeras 3 horas en sepsis con hipoperfusión o choque séptico.</li><li>Preferir <b>cristaloides balanceados</b> sobre solución salina fisiológica al 0.9% para reducir acidosis hiperclorémica y lesión renal.</li><li>Evitar almidones (hidroxietilalmidón) y gelatinas; no usar albúmina de forma rutinaria salvo situaciones específicas (cirrosis, grandes volúmenes).</li><li>Reevaluar con parámetros dinámicos (variación de presión de pulso, ecografía, lactato, diuresis) para evitar sobrecarga hídrica.</li><li>Trampa: los <b>30 mL/kg</b> son un punto de partida, no un objetivo fijo; individualizar según comorbilidades (insuficiencia cardíaca, renal).</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Noradrenalina vasopresor de primera elección",
+      "title": "Noradrenalina: vasopresor de primera elección",
+      "contentHtml": "<h2>Noradrenalina como vasopresor de primera elección</h2><ul><li><b>Noradrenalina</b> (norepinefrina) es el vasopresor de primera línea en choque séptico; iniciar cuando la PAM (presión arterial media) permanece &lt; 65 mmHg pese a cristaloides.</li><li>Administrar por catéter central preferentemente; dosis inicial habitual 0.05-0.1 microgramos/kg/min titulando a <b>PAM &gt;= 65 mmHg</b>.</li><li>Puede iniciarse por vía periférica de forma temporal si no hay acceso central, con vigilancia estrecha de extravasación.</li><li>Trampa: la dopamina ya no es primera línea por mayor riesgo de arritmias; la adrenalina se reserva para choque refractario o paro.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Vasopresina como ahorradora de noradrenalina",
+      "title": "Vasopresina ahorradora de noradrenalina",
+      "contentHtml": "<h2>Vasopresina como ahorradora de noradrenalina</h2><ul><li><b>Vasopresina</b> (arginina-vasopresina) se añade a la noradrenalina cuando la dosis de esta alcanza 0.25-0.5 microgramos/kg/min, para reducir la dosis del vasopresor catecolaminérgico.</li><li>Dosis fija habitual de <b>vasopresina</b> 0.03 unidades/min; no se titula, actúa por receptores V1 con efecto vasoconstrictor independiente de catecolaminas.</li><li>Beneficio: reduce taquiarritmias y dosis de noradrenalina; no ha demostrado reducir mortalidad de forma consistente.</li><li>Trampa: no confundir con terlipresina; la <b>vasopresina</b> en choque séptico es un adyuvante, no reemplaza a la noradrenalina como primera línea.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Hidrocortisona en choque refractario a vasopresores",
+      "title": "Hidrocortisona en choque refractario",
+      "contentHtml": "<h2>Hidrocortisona en choque séptico refractario</h2><ul><li><b>Hidrocortisona</b> intravenosa 200 mg/día (50 mg cada 6 horas o infusión continua) se considera en choque séptico con requerimiento persistente de vasopresores (noradrenalina &gt;= 0.25 microgramos/kg/min durante &gt;= 4 horas) pese a reanimación adecuada.</li><li>Objetivo: acortar la duración del choque y del uso de vasopresores; no se recomienda rutinariamente en sepsis sin choque.</li><li>No requiere prueba de estimulación con corticotropina para iniciar; se puede suspender al retirar vasopresores.</li><li>Trampa: dosis de estrés, no dosis inmunosupresora; vigilar hiperglucemia, hipernatremia e infección secundaria.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "qSOFA: FR≥22, alteración mental, PAS≤100",
+      "title": "qSOFA: criterios y utilidad",
+      "contentHtml": "<h2>qSOFA (quick Sequential Organ Failure Assessment)</h2><ul><li><b>qSOFA</b>: escala de cribado rápida junto a la cama; un punto por cada criterio presente:</li><li><ul><li>Frecuencia respiratoria &gt;= 22 respiraciones/min.</li><li>Alteración del estado mental (escala de Glasgow &lt; 15).</li><li>Presión arterial sistólica &lt;= 100 mmHg.</li></ul></li><li>Puntuación &gt;= 2 identifica mayor riesgo de mala evolución en pacientes con infección sospechada fuera de la unidad de cuidados intensivos.</li><li>Trampa: <b>qSOFA</b> no define sepsis ni descarta sepsis con puntuación baja; la definición operativa sigue siendo el SOFA &gt;= 2. No sustituye la valoración clínica.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Procalcitonina para guiar duración antibiótica",
+      "title": "Procalcitonina para duración antibiótica",
+      "contentHtml": "<h2>Procalcitonina para guiar la duración del antibiótico</h2><ul><li><b>Procalcitonina</b> sérica es un biomarcador que puede apoyar la decisión de suspender antibióticos en sepsis cuando desciende y el paciente está clínicamente estable.</li><li>No se recomienda para decidir el inicio del antibiótico en sepsis o choque séptico; el inicio es urgente y empírico.</li><li>Útil para desescalar o acortar duración en infecciones respiratorias y sepsis; interpretar junto a clínica, cultivos y evolución.</li><li>Trampa: la <b>procalcitonina</b> puede elevarse en cirugía, trauma, quemaduras, shock cardiogénico y carcinoma medular de tiroides; no es específica de infección bacteriana.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Control del foco: drenaje quirúrgico precoz",
+      "title": "Control del foco infeccioso",
+      "contentHtml": "<h2>Control del foco: drenaje quirúrgico precoz</h2><ul><li>El <b>control del foco</b> consiste en eliminar la fuente de infección y restaurar la anatomía: drenaje de abscesos, desbridamiento de tejidos necróticos, retiro de dispositivos infectados, descompresión de obstrucciones.</li><li>Debe realizarse lo antes posible tras el diagnóstico, idealmente en las primeras 6-12 horas, sin retrasar la reanimación ni el antibiótico.</li><li>Ejemplos: colecistitis con colección, peritonitis secundaria, piélonefrosis obstructiva, fascitis necrotizante, infección de catéter o prótesis.</li><li>Trampa: el <b>control del foco</b> es imprescindible; sin él, el antibiótico y los vasopresores fracasan. No sustituye al antibiótico empírico precoz.</li></ul>"
+    }
+  ]
+}
