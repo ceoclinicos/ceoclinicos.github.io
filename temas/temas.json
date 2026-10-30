@@ -5887,7 +5887,213 @@
         "#dermatologia",
         "#heridas_cronicas"
       ],
-      "tieneGuia": false
+      "tieneGuia": true
+    },
+    {
+      "id": "pie_diabético",
+      "titulo": "Pie diabético",
+      "descripcion": "Complicación crónica de la diabetes mellitus caracterizada por ulceración, infección y/o destrucción de tejidos profundos del pie, asociada a neuropatía y enfermedad arterial periférica.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#endocrinologia",
+        "#diabetes",
+        "#pie_diabetico",
+        "#medicina_interna",
+        "#cirugia_vascular"
+      ],
+      "tieneGuia": true
+    },
+    {
+      "id": "hemorragia_subaracnoidea",
+      "titulo": "Hemorragia subaracnoidea",
+      "descripcion": "Patología caracterizada por el sangrado en el espacio subaracnoideo, generalmente por rotura de un aneurisma. Incluye su diagnóstico, clínica y manejo inicial.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 66,
+      "etiquetas": [
+        "#neurologia",
+        "#hemorragia_subaracnoidea",
+        "#neurocirugia",
+        "#urgencias",
+        "#aneurisma"
+      ],
+      "tieneGuia": true
+    },
+    {
+      "id": "hidrocefalia_normotensiva",
+      "titulo": "Hidrocefalia normotensiva",
+      "descripcion": "Trastorno neurológico caracterizado por ventriculomegalia y presión del LCR normal, con la tríada clásica de demencia, alteración de la marcha e incontinencia urinaria.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#neurologia",
+        "#hidrocefalia_normotensiva",
+        "#demencia",
+        "#neurocirugia"
+      ],
+      "tieneGuia": true
+    },
+    {
+      "id": "muerte_encefálica",
+      "titulo": "Muerte encefálica",
+      "descripcion": "Concepto, criterios diagnósticos y protocolo de certificación de muerte encefálica, incluyendo pruebas de confirmación y aspectos éticos y legales.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 66,
+      "etiquetas": [
+        "#neurologia",
+        "#muerte_encefalica",
+        "#medicina_critica",
+        "#neurologia_critica",
+        "#trasplantes"
+      ],
+      "tieneGuia": true
+    },
+    {
+      "id": "gota_aguda_y_tofácea",
+      "titulo": "Gota aguda y tofácea",
+      "descripcion": "Revisa el diagnóstico y manejo de la crisis aguda de gota y la gota tofácea crónica, incluyendo artrocentesis, tratamiento antiinflamatorio y terapia hipouricemiante.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#reumatologia",
+        "#gota",
+        "#artritis",
+        "#hiperuricemia",
+        "#medicina_interna"
+      ],
+      "tieneGuia": true
+    },
+    {
+      "id": "pseudogota_o_condrocalcinosis",
+      "titulo": "Pseudogota o condrocalcinosis",
+      "descripcion": "Patología por depósito de cristales de pirofosfato cálcico en el cartílago articular, que simula una crisis de gota y afecta principalmente a rodillas y otras articulaciones en adultos mayores.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#reumatologia",
+        "#pseudogota",
+        "#condrocalcinosis",
+        "#pirofosfato_calcico",
+        "#artropatia_por_cristales"
+      ],
+      "tieneGuia": true
+    },
+    {
+      "id": "hemofilia_a_y_b",
+      "titulo": "Hemofilia A y B",
+      "descripcion": "Trastornos hemorrágicos hereditarios por déficit de factor VIII (hemofilia A) o factor IX (hemofilia B), con manifestaciones clínicas, diagnóstico y manejo.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#hematologia",
+        "#hemofilia",
+        "#trastornos_hemorragicos",
+        "#coagulacion",
+        "#medicina_interna"
+      ],
+      "tieneGuia": true
+    },
+    {
+      "id": "insuficiencia_suprarrenal_crónica",
+      "titulo": "Insuficiencia suprarrenal crónica",
+      "descripcion": "Trastorno endocrino caracterizado por déficit crónico de cortisol y/o aldosterona, con manifestaciones clínicas variables y necesidad de tratamiento sustitutivo de por vida.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#endocrinologia",
+        "#insuficiencia_suprarrenal",
+        "#medicina_interna",
+        "#cortisol",
+        "#adrenal"
+      ],
+      "tieneGuia": true
+    },
+    {
+      "id": "crisis_adrenal_aguda",
+      "titulo": "Crisis adrenal aguda",
+      "descripcion": "Emergencia endocrina por déficit brusco de glucocorticoides y mineralocorticoides. Aprende a reconocerla, diagnosticarla y tratarla de forma oportuna.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#endocrinologia",
+        "#crisis_adrenal",
+        "#insuficiencia_suprarrenal",
+        "#urgencias",
+        "#medicina_interna"
+      ],
+      "tieneGuia": true
+    },
+    {
+      "id": "síndrome_de_secreción_inadecuada_de_adh",
+      "titulo": "Síndrome de secreción inadecuada de ADH",
+      "descripcion": "Trastorno caracterizado por hiponatremia dilucional debido a una secreción excesiva de hormona antidiurética, con diagnóstico y manejo del equilibrio hidroelectrolítico.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#endocrinologia",
+        "#hiponatremia",
+        "#siadh",
+        "#medicina_interna",
+        "#electrolitos"
+      ],
+      "tieneGuia": true
+    },
+    {
+      "id": "hipertensión_pulmonar_primaria",
+      "titulo": "Hipertensión pulmonar primaria",
+      "descripcion": "Enfermedad vascular pulmonar rara caracterizada por elevación de la presión arterial pulmonar sin causa identificable. Repasa su fisiopatología, diagnóstico y manejo.",
+      "pdfUrl": "",
+      "precioPildoras": "caro",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#neumologia",
+        "#cardiologia",
+        "#hipertension_pulmonar",
+        "#medicina_interna"
+      ],
+      "tieneGuia": true
+    },
+    {
+      "id": "endocarditis_de_válvulas_protésicas",
+      "titulo": "Endocarditis de válvulas protésicas",
+      "descripcion": "Infección del endocardio que afecta a prótesis valvulares cardíacas, incluyendo su clasificación precoz y tardía, diagnóstico microbiológico, criterios de Duke y manejo antimicrobiano y quirúrgico.",
+      "pdfUrl": "",
+      "precioPildoras": "caro",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#cardiologia",
+        "#endocarditis",
+        "#valvulas_protesicas",
+        "#medicina_interna",
+        "#infectologia"
+      ],
+      "tieneGuia": true
+    },
+    {
+      "id": "miocardiopatía_hipertrófica_obstructiva",
+      "titulo": "Miocardiopatía hipertrófica obstructiva",
+      "descripcion": "Repasa la fisiopatología, el diagnóstico y el manejo de la miocardiopatía hipertrófica obstructiva, incluyendo la obstrucción dinámica del tracto de salida y el riesgo de muerte súbita.",
+      "pdfUrl": "",
+      "precioPildoras": "medio",
+      "numPreguntas": 72,
+      "etiquetas": [
+        "#cardiologia",
+        "#miocardiopatia_hipertrofica",
+        "#obstruccion_tracto_salida",
+        "#muerte_subita",
+        "#medicina_interna"
+      ],
+      "tieneGuia": true
     }
   ]
 }
