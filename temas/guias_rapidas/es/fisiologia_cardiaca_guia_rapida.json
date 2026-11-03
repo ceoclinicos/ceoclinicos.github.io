@@ -1,0 +1,65 @@
+{
+  "id": "fisiologia_cardiaca",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Gasto cardíaco = frecuencia por volumen sistólico",
+      "title": "Gasto cardíaco y sus determinantes",
+      "contentHtml": "<h2>Gasto cardíaco</h2><ul><li><b>Gasto cardíaco = frecuencia cardíaca × volumen sistólico</b>; en reposo ≈ <b>5 L/min</b> (índice cardíaco ≈ <b>3 L/min/m²</b>).</li><li>Volumen sistólico depende de <b>precarga</b>, <b>contractilidad</b> y <b>poscarga</b>.</li><li>Frecuencia cardíaca extrema (&lt;40 lpm o &gt;160 lpm) reduce el gasto cardíaco por llenado o tiempo de eyección inadecuados.</li><li>Trampa: en la insuficiencia cardíaca con fracción de eyección preservada, el gasto cardíaco puede ser normal en reposo y caer solo con el esfuerzo.</li><li><b>Hallazgo clave:</b> gasto cardíaco &lt;2.2 L/min/m² define bajo gasto en el shock cardiogénico.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Ley de Frank-Starling: precarga aumenta contractilidad",
+      "title": "Ley de Frank-Starling",
+      "contentHtml": "<h2>Ley de Frank-Starling</h2><ul><li>La <b>Ley de Frank-Starling</b> establece que un mayor estiramiento de las fibras miocárdicas (precarga) aumenta la fuerza de contracción y el volumen sistólico hasta un óptimo.</li><li>Mecanismo: mayor afinidad de la troponina C por el calcio y mayor sensibilidad al calcio.</li><li>En la curva de función ventricular, la precarga se refleja como presión de llenado (presión auricular derecha o presión de oclusión de la arteria pulmonar).</li><li>Trampa: en la insuficiencia cardíaca avanzada la curva se aplana y la precarga excesiva produce congestión sin aumentar el gasto.</li><li><b>Hallazgo clave:</b> la <b>Ley de Frank-Starling</b> explica por qué la sobrecarga de volumen aumenta el gasto en el corazón sano pero no en el fallido.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Curva de presión-volumen ventricular normal",
+      "title": "Curva presión-volumen ventricular",
+      "contentHtml": "<h2>Curva de presión-volumen ventricular</h2><ul><li>La <b>curva de presión-volumen ventricular</b> normal tiene forma de asa: llenado (relajación), contracción isovolumétrica, eyección y relajación isovolumétrica.</li><li>Puntos clave: volumen telediastólico ≈ <b>120 mL</b>, volumen telesistólico ≈ <b>50 mL</b>, volumen sistólico ≈ <b>70 mL</b>, fracción de eyección ≈ <b>55-70%</b>.</li><li>El área del asa representa el trabajo sistólico; la pendiente de la relación presión-volumen telesistólico refleja la contractilidad.</li><li>Trampa: un aumento de poscarga desplaza el asa a mayor presión y menor volumen sistólico; un aumento de contractilidad desplaza la relación telesistólica hacia arriba y a la izquierda.</li><li><b>Hallazgo clave:</b> en la insuficiencia cardíaca sistólica el asa se desplaza a la derecha y la fracción de eyección cae.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Efecto inotrópico positivo por catecolaminas beta-1",
+      "title": "Efecto inotrópico beta-1",
+      "contentHtml": "<h2>Efecto inotrópico positivo por catecolaminas beta-1</h2><ul><li>Las catecolaminas (noradrenalina, adrenalina, dopamina) estimulan receptores <b>beta-1</b> cardíacos y aumentan la contractilidad (efecto inotrópico positivo) y la frecuencia cardíaca (cronotrópico positivo).</li><li>Vía: proteína Gs → adenilato ciclasa → AMP cíclico → proteína quinasa A → fosforilación de canales de calcio tipo L y fosfolambán → mayor entrada de calcio y mayor liberación de calcio del retículo sarcoplásmico.</li><li>Fármacos: <b>dobutamina</b> (agonista beta-1) y <b>adrenalina</b> en infusión; la <b>dopamina</b> en dosis bajas (&lt;5 µg/kg/min) actúa sobre receptores dopaminérgicos y en dosis intermedias (5-10 µg/kg/min) sobre beta-1.</li><li>Trampa: los betabloqueantes antagonizan este efecto y pueden precipitar descompensación en la insuficiencia cardíaca.</li><li><b>Hallazgo clave:</b> el efecto inotrópico positivo por catecolaminas beta-1 aumenta el volumen sistólico y el consumo miocárdico de oxígeno.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Reflejo barorreceptor ante cambios de presión",
+      "title": "Reflejo barorreceptor",
+      "contentHtml": "<h2>Reflejo barorreceptor</h2><ul><li>Los <b>barorreceptores</b> de seno carotídeo y arco aórtico detectan cambios de presión arterial y modulan la frecuencia cardíaca y la resistencia vascular periférica.</li><li>Ante hipotensión: disminuye la descarga del nervio vago y aumenta la descarga simpática → taquicardia, vasoconstricción y aumento del gasto cardíaco.</li><li>Ante hipertensión: aumenta la descarga vagal y se inhibe la simpática → bradicardia y vasodilatación.</li><li>El <b>reflejo barorreceptor</b> se adapta en 1-2 días y es la base del <b>síncope vasovagal</b> y de la bradicardia en la hipertensión aguda.</li><li>Trampa: en la disautonomía diabética el reflejo está alterado y la hipotensión ortostática es frecuente.</li><li><b>Hallazgo clave:</b> el masaje del seno carotídeo produce bradicardia por activación del <b>reflejo barorreceptor</b>.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Automatismo del nodo sinusal y potencial de acción",
+      "title": "Automatismo del nodo sinusal",
+      "contentHtml": "<h2>Automatismo del nodo sinusal y potencial de acción</h2><ul><li>El <b>nodo sinusal</b> es el marcapasos fisiológico (60-100 lpm) por su automatismo: despolarización diastólica espontánea por corriente <b>If</b> (canales HCN) y entrada de calcio tipo T y L.</li><li>Potencial de acción del nodo sinusal: fase 0 por calcio tipo L (lenta), sin fase 1 ni 2, repolarización por potasio; el potencial de membrana en reposo es ≈ -60 mV.</li><li>El potencial de acción de las células ventriculares tiene fase 0 por sodio rápido, fase 2 por calcio tipo L y fase 3 por potasio.</li><li>Trampa: la <b>adenosina</b> hiperpolariza el nodo sinusal y es útil en taquicardias supraventriculares; la atropina bloquea el vago y aumenta la frecuencia.</li><li><b>Hallazgo clave:</b> la corriente <b>If</b> es la diana de la ivabradina para reducir la frecuencia sinusal en la insuficiencia cardíaca.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Conducción AV y retraso fisiológico del impulso",
+      "title": "Conducción auriculoventricular",
+      "contentHtml": "<h2>Conducción auriculoventricular y retraso fisiológico</h2><ul><li>El <b>nodo auriculoventricular</b> retrasa el impulso ≈ <b>0.1 s</b> para permitir el llenado ventricular; su velocidad de conducción es lenta (≈ 0.05 m/s) por baja densidad de conexinas y canales de calcio tipo L.</li><li>El retraso fisiológico del impulso se refleja en el intervalo <b>PR</b> del electrocardiograma (normal 0.12-0.20 s).</li><li>El nodo auriculoventricular tiene automatismo de escape (40-60 lpm) y es modulado por el vago (inhibe) y el simpático (facilita).</li><li>Trampa: un <b>PR &gt;0.20 s</b> define bloqueo auriculoventricular de primer grado; la <b>manipulación vagal</b> prolonga el PR.</li><li><b>Hallazgo clave:</b> el retraso fisiológico del impulso en el nodo auriculoventricular evita la contracción simultánea de aurículas y ventrículos.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Fases del ciclo cardíaco y ruidos",
+      "title": "Ciclo cardíaco y ruidos",
+      "contentHtml": "<h2>Fases del ciclo cardíaco y ruidos</h2><ul><li>Fases: llenado ventricular (diástole), contracción isovolumétrica, eyección (sístole) y relajación isovolumétrica.</li><li><b>Primer ruido cardíaco</b> (R1): cierre de válvulas auriculoventriculares (mitral y tricúspide) al inicio de la sístole.</li><li><b>Segundo ruido cardíaco</b> (R2): cierre de válvulas semilunares (aórtica y pulmonar) al final de la sístole; se desdobla fisiológicamente con la inspiración.</li><li><b>Tercer ruido cardíaco</b> (R3): llenado ventricular rápido (fisiológico en jóvenes); <b>cuarto ruido cardíaco</b> (R4): contracción auricular (patológico si es audible).</li><li>Trampa: el <b>R3</b> en el adulto mayor sugiere insuficiencia cardíaca; el <b>R4</b> indica hipertrofia ventricular o isquemia.</li><li><b>Hallazgo clave:</b> el <b>primer ruido cardíaco</b> coincide con el pulso carotídeo y el <b>segundo ruido cardíaco</b> con el final del pulso.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Determinantes de la poscarga y resistencia vascular",
+      "title": "Poscarga y resistencia vascular",
+      "contentHtml": "<h2>Determinantes de la poscarga y resistencia vascular</h2><ul><li>La <b>poscarga</b> es la fuerza que se opone a la eyección ventricular; depende de la <b>resistencia vascular periférica</b>, la impedancia aórtica y la viscosidad sanguínea.</li><li>La <b>resistencia vascular periférica</b> se calcula como (presión arterial media - presión venosa central) / gasto cardíaco; valor normal ≈ <b>800-1200 dinas·s/cm⁵</b>.</li><li>La resistencia vascular periférica está determinada principalmente por el radio de las arteriolas (ley de Poiseuille: R ∝ 1/r⁴).</li><li>Trampa: un aumento de poscarga reduce el volumen sistólico y aumenta el consumo miocárdico de oxígeno; los vasodilatadores (inhibidores de la enzima convertidora de angiotensina, bloqueantes de canales de calcio) reducen la poscarga.</li><li><b>Hallazgo clave:</b> en la hipertensión arterial la poscarga elevada produce hipertrofia ventricular izquierda.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Regulación del retorno venoso y precarga",
+      "title": "Retorno venoso y precarga",
+      "contentHtml": "<h2>Regulación del retorno venoso y precarga</h2><ul><li>La <b>precarga</b> es el volumen telediastólico ventricular y depende del <b>retorno venoso</b>, la presión venosa central y la distensibilidad ventricular.</li><li>El <b>retorno venoso</b> se regula por: presión venosa sistémica (tono venoso), bomba muscular esquelética, bomba respiratoria (presión intratorácica negativa), válvulas venosas y volumen sanguíneo.</li><li>La <b>presión venosa central</b> normal es <b>2-8 mmHg</b>; su aumento refleja congestión derecha (ingurgitación yugular, edema).</li><li>Trampa: la ventilación mecánica con presión positiva reduce el retorno venoso y puede causar hipotensión; la espiración forzada contra glotis cerrada (maniobra de Valsalva) reduce la precarga y el gasto cardíaco.</li><li><b>Hallazgo clave:</b> la elevación de la presión venosa central &gt;12 mmHg sugiere congestión venosa sistémica.</li></ul>"
+    }
+  ]
+}

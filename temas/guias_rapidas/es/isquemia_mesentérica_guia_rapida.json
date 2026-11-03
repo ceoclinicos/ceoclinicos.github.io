@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Clasificación en aguda y crónica",
-      "title": "Clasificación aguda vs crónica",
-      "contentHtml": "<h2>Clasificación aguda y crónica</h2><ul><li><b>Isquemia mesentérica aguda</b>: inicio brusco, <b>dolor abdominal desproporcionado a la exploración</b>, requiere revascularización urgente; mortalidad >50%.</li><li><b>Isquemia mesentérica crónica</b>: insuficiencia arterial progresiva, dolor postprandial, miedo a comer, pérdida de peso; típicamente por aterosclerosis de al menos dos de los tres troncos viscerales.</li><li><b>Angina abdominal</b> es el equivalente clínico de la isquemia crónica; el soplo abdominal es un hallazgo inespecífico.</li><li>Trampa: la ausencia de signos peritoneales no descarta isquemia aguda en fases iniciales.</li></ul>"
+      "foco": "Dolor desproporcionado al examen abdominal",
+      "title": "Dolor desproporcionado: signo cardinal",
+      "contentHtml": "<h2>Dolor desproporcionado al examen abdominal</h2><ul><li><b>Dolor desproporcionado al examen abdominal</b>: dolor intenso referido por el paciente con abdomen blando y escasamente doloroso a la palpación; refleja isquemia visceral antes de la necrosis transmural.</li><li>Fisiopatología: oclusión arterial esplácnica &rarr; isquemia mucosa &rarr; dolor visceral aferente intenso sin irritación peritoneal inicial.</li><li>Evolución: al progresar a necrosis transmural aparecen defensa, rebote y rigidez (signos peritoneales), indicación de <b>laparotomía urgente</b>.</li><li>Trampa de examen: la ausencia de signos peritoneales no descarta isquemia; no retrasar la angio-TC por exploración benigna.</li><li>Diagnóstico diferencial: cólico biliar, pancreatitis aguda, obstrucción intestinal, cólico renal; ninguno cursa con dolor tan desproporcionado de forma característica.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Causa más frecuente: embolia auricular",
-      "title": "Embolia auricular como causa principal",
-      "contentHtml": "<h2>Causa más frecuente: embolia auricular</h2><ul><li>La <b>embolia auricular</b> (fibrilación auricular, valvulopatía mitral, infarto agudo de miocardio previo) es la causa más frecuente de isquemia mesentérica aguda, representando ~50% de los casos.</li><li>El émbolo suele alojarse en la <b>arteria mesentérica superior</b> (AMS), a 3-10 cm del origen, respetando el ostium.</li><li>El inicio es súbito, con <b>dolor abdominal desproporcionado a la exploración</b> y vaciamiento intestinal rápido (náuseas, diarrea).</li><li>Trampa: en pacientes sin fibrilación auricular, sospechar <b>trombosis in situ</b> sobre placa aterosclerótica.</li></ul>"
+      "foco": "Isquemia mesentérica aguda por embolia de AMS",
+      "title": "Embolia de arteria mesentérica superior",
+      "contentHtml": "<h2>Isquemia mesentérica aguda por embolia de arteria mesentérica superior</h2><ul><li>Mecanismo: émbolo impacta típicamente en la <b>arteria mesentérica superior</b> distal a la salida de la arteria cólica media, por su anatomía y estrechamiento progresivo.</li><li>Clínica: inicio súbito de dolor abdominal periumbilical intenso en paciente con cardiopatía embolígena; el <b>dolor desproporcionado al examen abdominal</b> es el sello.</li><li>Distribución: afecta yeyuno e íleon, con respeto relativo del duodeno y colon proximal; puede haber íleo paralítico y hemorragia digestiva.</li><li>Diagnóstico: <b>angio-TC abdominal</b> con defecto de repleción en la arteria mesentérica superior.</li><li>Trampa: la embolia suele ser distal a la primera rama yeyunal, por lo que el intestino proximal puede estar viable.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Dolor abdominal desproporcionado a la exploración",
-      "title": "Dolor desproporcionado",
-      "contentHtml": "<h2>Dolor abdominal desproporcionado a la exploración</h2><ul><li>Es el <b>signo clínico cardinal</b> de la isquemia mesentérica aguda: dolor intenso, de inicio brusco, con abdomen blando y sin signos peritoneales en las primeras horas.</li><li>La discrepancia entre el dolor y la exploración se debe a que el intestino aún no ha sufrido necrosis transmural.</li><li>Cuando aparecen signos peritoneales (rigidez, rebote), la viabilidad intestinal ya está comprometida y la mortalidad se eleva.</li><li>En <b>isquemia mesentérica no oclusiva</b> el dolor puede ser más insidioso, pero la desproporción persiste como guía diagnóstica.</li></ul>"
+      "foco": "Arteria mesentérica superior: obstrucción más frecuente",
+      "title": "Arteria mesentérica superior: vaso más afectado",
+      "contentHtml": "<h2>Arteria mesentérica superior: obstrucción más frecuente</h2><ul><li>La <b>arteria mesentérica superior</b> es el vaso esplácnico obstruido con mayor frecuencia en la isquemia mesentérica aguda.</li><li>Irriga desde la tercera porción duodenal hasta el colon transverso; su oclusión compromete gran extensión de intestino delgado.</li><li>Causas: embolia (corazón), trombosis sobre placa aterosclerótica (ostium/proximal) y <b>isquemia mesentérica no oclusiva</b> por hipoperfusión.</li><li>Trombosis: dolor más insidioso en paciente aterosclerótico con angina intestinal previa; la embolia es súbita sin pródromos.</li><li>Trampa: la arteria mesentérica inferior rara vez causa isquemia aguda grave por su circulación colateral; no confundir con la superior.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Signo de la huella dactilar en tomografía computarizada",
-      "title": "Signo de la huella dactilar",
-      "contentHtml": "<h2>Signo de la huella dactilar en tomografía computarizada</h2><ul><li>El <b>signo de la huella dactilar</b> (o <b>thumbprinting</b>) es un hallazgo en tomografía computarizada con contraste que corresponde a edema de la pared intestinal, con engrosamiento y pliegues prominentes.</li><li>Es característico de <b>isquemia mesentérica aguda</b> en fases tempranas, aunque también se ve en colitis inflamatoria o infecciosa (diagnóstico diferencial clave).</li><li>En la isquemia, el engrosamiento suele ser <b>hipodenso</b> (edema) y puede asociarse a <b>neumatosis intestinal</b> (gas en la pared) en fases avanzadas.</li><li>Trampa: la ausencia de <b>signo de la huella dactilar</b> no descarta isquemia; la atenuación mural disminuida o el defecto de perfusión son más específicos.</li></ul>"
+      "foco": "Fibrilación auricular como causa embólica clásica",
+      "title": "Fibrilación auricular: fuente embólica clásica",
+      "contentHtml": "<h2>Fibrilación auricular como causa embólica clásica</h2><ul><li>La <b>fibrilación auricular</b> es la causa embólica clásica de isquemia mesentérica aguda; el trombo se forma en la aurícula izquierda, sobre todo en la orejuela.</li><li>Otras fuentes: infarto agudo de miocardio con trombo mural, valvulopatía mitral, prótesis valvulares, endocarditis y mixoma auricular.</li><li>Clínica: dolor abdominal súbito y severo en paciente con <b>fibrilación auricular</b> o cardiopatía embolígena; buscar siempre el antecedente cardíaco.</li><li>Prevención: anticoagulación adecuada según escala de riesgo tromboembólico (CHA2DS2-VASc) reduce el riesgo embólico.</li><li>Trampa: la fibrilación auricular paroxística también emboliza; la ausencia de fibrilación auricular en el electrocardiograma actual no descarta embolia previa.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Gas venoso portal como hallazgo tardío",
-      "title": "Gas venoso portal",
-      "contentHtml": "<h2>Gas venoso portal como hallazgo tardío</h2><ul><li>El <b>gas venoso portal</b> es un hallazgo tardío en tomografía computarizada que indica <b>necrosis intestinal transmural</b> y mal pronóstico.</li><li>Se origina por paso de gas desde la luz intestinal a la circulación portal a través de la pared necrótica.</li><li>Es un <b>signo de gravedad</b> que obliga a laparotomía urgente; su presencia se asocia a mortalidad >70%.</li><li>Diagnóstico diferencial: <b>gas venoso portal</b> también puede verse en colitis isquémica severa, sepsis intraabdominal o tras procedimientos endoscópicos, pero en el contexto de dolor agudo es casi patognomónico de isquemia avanzada.</li></ul>"
+      "foco": "Angina intestinal: dolor posprandial y pérdida de peso",
+      "title": "Angina intestinal: isquemia crónica",
+      "contentHtml": "<h2>Angina intestinal: dolor posprandial y pérdida de peso</h2><ul><li><b>Angina intestinal</b>: dolor abdominal cólico posprandial (10–30 minutos tras comer) por demanda metabólica que supera el flujo arterial estenosado; el paciente evita comer (sitofobia).</li><li>Consecuencia: <b>pérdida de peso</b> progresiva por ingesta reducida; puede evolucionar a isquemia mesentérica aguda por trombosis.</li><li>Causa: aterosclerosis de la <b>arteria mesentérica superior</b>, a menudo con afectación de al menos dos de los tres troncos esplácnicos (celíaco, superior e inferior).</li><li>Diagnóstico: angio-TC o angiografía por resonancia; el tratamiento es revascularización (cirugía o endovascular).</li><li>Trampa: el dolor posprandial imita úlcera péptica o colelitiasis; la tríada dolor posprandial, sitofobia y pérdida de peso debe hacer sospechar angina intestinal.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Elevación de lactato y acidosis metabólica",
-      "title": "Lactato y acidosis metabólica",
-      "contentHtml": "<h2>Elevación de lactato y acidosis metabólica</h2><ul><li>El <b>lactato sérico</b> >2 mmol/L y la <b>acidosis metabólica</b> (pH <7.35, HCO3 <22) son marcadores de isquemia intestinal avanzada, pero tienen baja sensibilidad en fases iniciales.</li><li>La elevación de lactato se debe a hipoperfusión tisular y metabolismo anaerobio; un lactato normal no descarta isquemia aguda.</li><li>La <b>acidosis metabólica</b> con anión GAP elevado indica necrosis extensa y es un factor pronóstico adverso.</li><li>Trampa: otros procesos (shock, sepsis, cetoacidosis) elevan el lactato; la correlación clínico-radiológica es obligada.</li></ul>"
+      "foco": "Trombosis venosa mesentérica en hipercoagulabilidad",
+      "title": "Trombosis venosa mesentérica",
+      "contentHtml": "<h2>Trombosis venosa mesentérica en hipercoagulabilidad</h2><ul><li><b>Trombosis venosa mesentérica</b>: oclusión del drenaje venoso esplácnico; se asocia a estados de hipercoagulabilidad (déficit de proteína C o S, antitrombina III, factor V Leiden, mutación del gen de la protrombina, anticuerpos antifosfolípidos, neoplasia, anticonceptivos).</li><li>Clínica: dolor abdominal difuso o localizado, más insidioso que la embolia arterial; puede haber diarrea, náuseas y distensión.</li><li>Imagen: <b>angio-TC abdominal</b> en fase portal muestra defecto de repleción en la vena mesentérica superior con edema de la pared intestinal.</li><li>Tratamiento: anticoagulación; cirugía si hay necrosis intestinal o signos peritoneales.</li><li>Trampa: la trombosis venosa mesentérica puede ocurrir en pacientes jóvenes sin aterosclerosis; buscar trombofilia.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Angiografía mesentérica como gold standard",
-      "title": "Angiografía mesentérica",
-      "contentHtml": "<h2>Angiografía mesentérica como gold standard</h2><ul><li>La <b>angiografía mesentérica</b> sigue siendo el <b>gold standard</b> diagnóstico, aunque la angio-tomografía computarizada la ha desplazado como primera línea por su rapidez y menor invasividad.</li><li>Permite visualizar el émbolo o trombo, valorar flujo colateral y, en el mismo procedimiento, realizar <b>tratamiento endovascular</b> (trombectomía, angioplastia, infusión de vasodilatadores).</li><li>Indicación principal: sospecha de <b>isquemia mesentérica no oclusiva</b> o cuando la angio-tomografía computarizada no es concluyente.</li><li>Trampa: en <b>trombosis in situ</b> la angiografía muestra oclusión proximal en el ostium de la AMS, a diferencia de la embolia que respeta el origen.</li></ul>"
+      "foco": "Ácido láctico elevado y leucocitosis inespecíficos",
+      "title": "Laboratorio inespecífico",
+      "contentHtml": "<h2>Ácido láctico elevado y leucocitosis inespecíficos</h2><ul><li><b>Ácido láctico elevado</b> y <b>leucocitosis</b> son marcadores de isquemia y necrosis, pero inespecíficos; pueden faltar en fases iniciales.</li><li>Otros hallazgos: hemoconcentración, elevación de amilasa, creatina fosfocinasa, deshidrogenasa láctica y fosfatasa alcalina; ninguno es diagnóstico.</li><li>Utilidad: un <b>ácido láctico elevado</b> en contexto de dolor desproporcionado apoya isquemia avanzada, pero un valor normal no la descarta.</li><li>Trampa de examen: no retrasar la <b>angio-TC abdominal</b> esperando resultados de laboratorio; el diagnóstico es imagenológico.</li><li>Pronóstico: acidosis metabólica con <b>ácido láctico elevado</b> persistente indica necrosis extensa y mayor mortalidad.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Tromboembolia vs trombosis in situ",
-      "title": "Tromboembolia vs trombosis in situ",
-      "contentHtml": "<h2>Tromboembolia vs trombosis in situ</h2><ul><li><b>Tromboembolia</b>: origen cardíaco (fibrilación auricular, valvulopatía), oclusión súbita a 3-10 cm del origen de la AMS, respetando el ostium; colaterales preservadas.</li><li><b>Trombosis in situ</b>: sobre placa aterosclerótica, oclusión proximal en el ostium de la AMS, con antecedente de <b>isquemia mesentérica crónica</b> (angina abdominal).</li><li>La <b>trombosis in situ</b> suele asociarse a enfermedad aterosclerótica difusa (coronaria, carotídea, periférica).</li><li>Diagnóstico diferencial angiográfico: en la embolia el contraste se detiene abruptamente en un vaso distal; en la trombosis hay oclusión en el origen con escaso flujo colateral.</li></ul>"
+      "foco": "Angio-TC abdominal: estudio de elección inicial",
+      "title": "Angio-TC abdominal: estudio de elección",
+      "contentHtml": "<h2>Angio-TC abdominal: estudio de elección inicial</h2><ul><li><b>Angio-TC abdominal</b>: estudio de elección inicial en sospecha de isquemia mesentérica aguda; alta sensibilidad y especificidad, disponible y rápida.</li><li>Técnica: adquisición con contraste intravenoso en fase arterial y portal; reconstrucciones multiplanares para evaluar troncos esplácnicos y venas mesentéricas.</li><li>Hallazgos: defecto de repleción en la <b>arteria mesentérica superior</b> (embolia/trombosis), edema o neumatosis intestinal, gas en vena porta, pneumoperitoneo en necrosis avanzada.</li><li>Alternativas: angiografía convencional (terapéutica), resonancia magnética; la ecografía es limitada por gas intestinal.</li><li>Trampa: la radiografía simple de abdomen es inespecífica y puede ser normal; no descarta isquemia.</li></ul>"
     },
     {
       "order": 9,
       "foco": "Isquemia mesentérica no oclusiva por bajo gasto",
       "title": "Isquemia mesentérica no oclusiva",
-      "contentHtml": "<h2>Isquemia mesentérica no oclusiva por bajo gasto</h2><ul><li>La <b>isquemia mesentérica no oclusiva</b> (NOMI) es causada por <b>bajo gasto cardíaco</b> (shock, sepsis, infarto agudo de miocardio, hemorragia) sin oclusión arterial visible.</li><li>Fisiopatología: vasoconstricción esplácnica mantenida, que reduce el flujo mesentéricos; predomina en territorios de <b>arteria mesentérica superior</b> y <b>arteria mesentérica inferior</b>.</li><li>Clínica: dolor abdominal insidioso, distensión, íleo; el diagnóstico requiere <b>angiografía mesentérica</b> que muestra vasos finos, irregulares y espasmo.</li><li>Tratamiento: corregir la causa (volumen, inotrópicos) e infusión intraarterial de <b>papaverina</b> (vasodilatador de primera línea).</li></ul>"
+      "contentHtml": "<h2>Isquemia mesentérica no oclusiva por bajo gasto</h2><ul><li><b>Isquemia mesentérica no oclusiva</b>: hipoperfusión esplácnica por vasoconstricción y bajo gasto cardíaco, sin obstrucción arterial o venosa demostrable.</li><li>Causas: shock cardiogénico, séptico o hipovolémico, insuficiencia cardíaca, fármacos vasoconstrictores (vasopresores, digoxina, cocaína), diálisis, cirugía cardíaca.</li><li>Clínica: dolor abdominal difuso en paciente crítico con hipoperfusión; el <b>ácido láctico elevado</b> es frecuente.</li><li>Diagnóstico: <b>angio-TC abdominal</b> que descarta oclusión y muestra vasoconstricción difusa o edema intestinal.</li><li>Tratamiento: optimizar perfusión (fluidos, inotrópicos), retirar vasoconstrictores; cirugía si hay necrosis.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Síndrome de la arteria mesentérica superior",
-      "title": "Síndrome de la arteria mesentérica superior",
-      "contentHtml": "<h2>Síndrome de la arteria mesentérica superior</h2><ul><li>El <b>síndrome de la arteria mesentérica superior</b> (SAMS) es una compresión extrínseca de la tercera porción del duodeno por el ángulo aorto-mesentérico estrecho (<25°).</li><li>No es una isquemia, sino una obstrucción duodenal mecánica; se manifiesta con vómitos postprandiales, dolor epigástrico y pérdida de peso.</li><li>Factores predisponentes: pérdida rápida de peso, escoliosis, cirugía de columna, <b>ángulo aorto-mesentérico</b> reducido en tomografía computarizada.</li><li>Tratamiento inicial: soporte nutricional y medidas posturales; si fracasa, <b>duodeno-yeyunostomía</b> laparoscópica o abierta.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Tratamiento quirúrgico urgente con resección",
-      "title": "Tratamiento quirúrgico urgente",
-      "contentHtml": "<h2>Tratamiento quirúrgico urgente con resección</h2><ul><li>Ante signos peritoneales o necrosis confirmada, la <b>laparotomía urgente</b> es mandatoria: se realiza <b>resección intestinal</b> de segmentos no viables y <b>revascularización</b> (embolectomía, bypass).</li><li>La viabilidad intestinal se evalúa con <b>fluoresceína intravenosa</b> y luz de Wood, o con <b>Doppler intraoperatorio</b>.</li><li>Estrategia de <b>second-look</b>: reexploración a las 24-48 h para valorar nueva necrosis y evitar resecciones masivas iniciales.</li><li>La <b>mortalidad elevada mayor al 50%</b> se reduce si la revascularización se realiza antes de la necrosis transmural (primeras 6-12 h desde el inicio).</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Mortalidad elevada mayor al 50%",
-      "title": "Mortalidad elevada",
-      "contentHtml": "<h2>Mortalidad elevada mayor al 50%</h2><ul><li>La <b>mortalidad elevada mayor al 50%</b> en la isquemia mesentérica aguda se debe al retraso diagnóstico y a la necrosis intestinal extensa.</li><li>Factores asociados: edad >70 años, <b>acidosis metabólica</b> severa, <b>gas venoso portal</b>, necesidad de resección masiva, shock al ingreso.</li><li>La <b>mortalidad elevada mayor al 50%</b> puede reducirse al 20-30% si se realiza angio-tomografía computarizada precoz y revascularización dentro de las primeras 6 horas.</li><li>Trampa: la <b>isquemia mesentérica no oclusiva</b> tiene mortalidad similar (>50%) porque suele presentarse en pacientes críticos con comorbilidades graves.</li></ul>"
+      "foco": "Laparotomía urgente si hay signos peritoneales",
+      "title": "Laparotomía urgente: signos peritoneales",
+      "contentHtml": "<h2>Laparotomía urgente si hay signos peritoneales</h2><ul><li><b>Laparotomía urgente</b>: indicada ante signos peritoneales (defensa, rebote, rigidez) en isquemia mesentérica, que sugieren necrosis transmural o perforación.</li><li>Objetivo: resecar intestino necrosado y valorar viabilidad; a menudo se requiere segunda revisión a las 24–48 horas.</li><li>Alternativa: revascularización endovascular o quirúrgica antes o durante la cirugía si la oclusión es proximal y el intestino aún es viable.</li><li>Pronóstico: la demora quirúrgica aumenta la mortalidad; el <b>dolor desproporcionado al examen abdominal</b> sin signos peritoneales no obliga a laparotomía inmediata, pero exige angio-TC urgente.</li><li>Trampa: la ausencia de signos peritoneales no excluye isquemia; la decisión quirúrgica se basa en necrosis o perforación.</li></ul>"
     }
   ]
 }

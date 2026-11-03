@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Ciclo exoeritrocítico hepático por esporozoítos",
-      "title": "Ciclo hepático de esporozoítos",
-      "contentHtml": "<h2>Ciclo exoeritrocítico hepático</h2><ul><li>Los <b>esporozoítos</b> inoculados por el mosquito <i>Anopheles</i> migran al hígado en minutos e invaden hepatocitos.</li><li>En el hepatocito maduran a <b>esquizonte hepático</b> en 5–16 días, liberando miles de <b>merozoítos</b> al torrente sanguíneo.</li><li><b>P. vivax</b> y <b>P. ovale</b> forman <b>hipnozoítos</b> (formas latentes hepáticas) que causan recaídas meses o años después.</li><li>La fase hepática es asintomática y no produce parasitemia detectable en sangre periférica.</li><li>La <b>primaquina</b> es el único fármaco capaz de eliminar hipnozoítos, requiriendo cribado de <b>deficiencia de G6PD</b> previo a su uso.</li></ul>"
+      "foco": "Plasmodium falciparum: malaria grave y complicada",
+      "title": "Malaria grave por Plasmodium falciparum",
+      "contentHtml": "<h2>Malaria grave por <b>Plasmodium falciparum</b></h2><ul><li><b>Definición:</b> parasitemia &gt;5% o disfunción orgánica (conciencia alterada, acidosis, hipoglucemia, insuficiencia renal, edema pulmonar, sangrado, ictericia, hemoglobinuria).</li><li><b>Fisiopatología:</b> citoadherencia de eritrocitos infectados al endotelio y secuestro microvascular; obstrucción capilar y acidosis láctica.</li><li><b>Primera línea:</b> <b>artesunato intravenoso</b> (2.4 mg/kg a las 0, 12 y 24 h, luego cada 24 h) o <b>arteméter intramuscular</b>; nunca cloroquina en resistencia.</li><li><b>Trampa:</b> <b>Plasmodium falciparum</b> no forma hipnozoítos; no requiere primaquina para cura radical.</li><li><b>Diferencial:</b> dengue grave, leptospirosis, sepsis bacteriana, fiebre tifoidea.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Plasmodium falciparum causa malaria cerebral",
-      "title": "Malaria cerebral por P. falciparum",
-      "contentHtml": "<h2>Malaria cerebral</h2><ul><li>Producida por <b>P. falciparum</b> por citoadherencia de eritrocitos parasitados al endotelio cerebral, mediada por <b>PfEMP1</b>.</li><li>Criterio diagnóstico: <b>Glasgow &lt;11</b> o <b>Blantyre &lt;3</b> en niños, con <b>P. falciparum</b> en sangre y exclusión de otras causas de encefalopatía.</li><li>Mortalidad del 15–20% incluso con tratamiento; secuelas neurológicas (epilepsia, déficit motor) en 10–20% de sobrevivientes.</li><li>Tratamiento de primera línea: <b>artesunato intravenoso</b> (2,4 mg/kg a las 0, 12 y 24 h, luego diario).</li><li>No usar corticoides ni heparina; la <b>hipoglucemia</b> es complicación frecuente y debe monitorizarse.</li></ul>"
+      "foco": "Ciclo exoeritrocítico hepático y hipnozoítos en vivax/ovale",
+      "title": "Hipnozoítos y recaídas en vivax/ovale",
+      "contentHtml": "<h2>Ciclo exoeritrocítico hepático e hipnozoítos</h2><ul><li><b>Hipnozoítos:</b> formas latentes hepáticas exclusivas de <b>Plasmodium vivax</b> y <b>Plasmodium ovale</b>; responsables de recaídas semanas o meses tras el tratamiento.</li><li><b>Plasmodium falciparum</b> y <b>Plasmodium malariae</b> carecen de hipnozoítos; <b>Plasmodium malariae</b> puede recrudecer por persistencia eritrocítica, no hepática.</li><li><b>Cura radical:</b> <b>primaquina</b> 0.25-0.5 mg/kg/día durante 14 días tras confirmar actividad de glucosa-6-fosfato deshidrogenasa; previene recaídas.</li><li><b>Trampa:</b> la primaquina no actúa sobre formas eritrocíticas; se asocia a cloroquina o artemisinina para la fase sanguínea.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Fiebre terciana por P. vivax y P. ovale",
-      "title": "Fiebre terciana benigna",
-      "contentHtml": "<h2>Fiebre terciana</h2><ul><li>Patrón febril clásico: picos de fiebre cada <b>48 horas</b> (terciana), correspondiente a la ruptura sincrónica de esquizontes eritrocíticos.</li><li>Producida por <b>P. vivax</b> y <b>P. ovale</b>; la fiebre cuartana (cada 72 h) es típica de <b>P. malariae</b>.</li><li>La fiebre no es continua; entre accesos el paciente puede sentirse relativamente bien.</li><li>El diagnóstico diferencial incluye dengue, leptospirosis y fiebre tifoidea; la gota gruesa confirma el parásito.</li><li>El tratamiento radical requiere <b>cloroquina</b> (si sensible) más <b>primaquina</b> para eliminar hipnozoítos y prevenir recaídas.</li></ul>"
+      "foco": "Fiebre periódica con escalofríos y sudoración en paroxismos",
+      "title": "Paroxismos febriles periódicos",
+      "contentHtml": "<h2>Fiebre periódica en paroxismos</h2><ul><li><b>Paroxismo:</b> escalofríos intensos, fiebre alta y sudoración profusa en ciclos; corresponde a la ruptura sincrónica de esquizontes eritrocíticos.</li><li><b>Periodicidad:</b> <b>Plasmodium vivax</b> y <b>Plasmodium ovale</b> cada 48 h (terciana); <b>Plasmodium malariae</b> cada 72 h (cuartana); <b>Plasmodium falciparum</b> irregular o continua.</li><li><b>Fiebre terciana:</b> patrón clásico de <b>Plasmodium vivax</b>; no es criterio diagnóstico.</li><li><b>Trampa:</b> la periodicidad no aparece en infecciones iniciales ni en <b>Plasmodium falciparum</b>; la fiebre irregular es lo habitual.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Anemia hemolítica por ruptura de eritrocitos",
-      "title": "Anemia hemolítica en malaria",
-      "contentHtml": "<h2>Anemia hemolítica</h2><ul><li>Mecanismo: ruptura directa de eritrocitos por esquizontes maduros (hemólisis intravascular) más eritropoyesis ineficaz y secuestro esplénico.</li><li>La anemia es normocítica normocrómica; en malaria crónica puede haber <b>esplenomegalia hiperreactiva</b>.</li><li>En <b>P. falciparum</b> la anemia es más severa por mayor parasitemia y destrucción de eritrocitos no parasitados por mecanismos inmunes.</li><li>La <b>hemoglobina &lt;7 g/dL</b> en malaria severa es criterio de transfusión sanguínea.</li><li>La <b>hemólisis masiva</b> puede causar hemoglobinuria (<b>fiebre de aguas negras</b>), asociada a deficiencia de G6PD y uso de quinina.</li></ul>"
+      "foco": "Gota gruesa y frotis: diagnóstico de elección",
+      "title": "Gota gruesa y frotis",
+      "contentHtml": "<h2>Diagnóstico de elección: gota gruesa y frotis</h2><ul><li><b>Gota gruesa:</b> prueba de elección para detectar parasitemia y cuantificarla; mayor sensibilidad que el frotis.</li><li><b>Frotis de sangre periférica:</b> identifica especie y estadio parasitario; permite calcular porcentaje de eritrocitos infectados.</li><li><b>Técnica:</b> muestras cada 8-12 h durante 48-72 h si la primera es negativa; una sola muestra negativa no descarta malaria.</li><li><b>Hallazgo clave:</b> trofozoítos en anillo con doble cromatina y eritrocitos normales sugieren <b>Plasmodium falciparum</b>; eritrocitos aumentados de tamaño con puntos de Schüffner sugieren <b>Plasmodium vivax</b>.</li><li><b>Trampa:</b> pruebas rápidas de antígeno negativas no excluyen infección por <b>Plasmodium ovale</b> ni <b>Plasmodium malariae</b>.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Hipoglucemia como complicación del tratamiento",
-      "title": "Hipoglucemia inducida por quinina/artesunato",
-      "contentHtml": "<h2>Hipoglucemia en malaria</h2><ul><li>Complicación frecuente en malaria severa por <b>P. falciparum</b>, especialmente en niños y embarazadas.</li><li>Mecanismo: hiperinsulinemia inducida por <b>quinina</b> (estimula liberación de insulina) y consumo de glucosa por parásitos.</li><li>La <b>hipoglucemia</b> (&lt;40 mg/dL) puede ser asintomática o manifestarse con convulsiones, coma o deterioro neurológico.</li><li>El <b>artesunato</b> tiene menor riesgo de hipoglucemia que la quinina, pero igual requiere monitoreo de glicemia cada 4–6 h.</li><li>Tratamiento: dextrosa al 50% intravenosa (1 mL/kg) o glucagón intramuscular; si persiste, infusión continua de glucosa al 10%.</li></ul>"
+      "foco": "Plasmodium vivax: recaídas por hipnozoítos, requiere primaquina",
+      "title": "Plasmodium vivax y primaquina",
+      "contentHtml": "<h2><b>Plasmodium vivax</b>: recaídas y cura radical</h2><ul><li><b>Recaída:</b> reactivación de hipnozoítos hepáticos; ocurre semanas o meses después del episodio inicial.</li><li><b>Tratamiento:</b> cloroquina (25 mg/kg en 3 días) o artemisinina combinada para fase sanguínea más <b>primaquina</b> 0.25-0.5 mg/kg/día durante 14 días para eliminar hipnozoítos.</li><li><b>Contraindicación:</b> <b>primaquina</b> en deficiencia de glucosa-6-fosfato deshidrogenasa por riesgo de hemólisis; en embarazo y lactancia evitar.</li><li><b>Trampa:</b> sin primaquina hay recaídas; la cloroquina sola no cura la infección latente hepática.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Artemisinina combinada con lumefantrina",
-      "title": "Terapia combinada con artemisinina (ACT)",
-      "contentHtml": "<h2>Artemisinina-lumefantrina</h2><ul><li>Primera línea para malaria no complicada por <b>P. falciparum</b> en zonas de resistencia a cloroquina.</li><li>Presentación: comprimidos de <b>20 mg de artemeter + 120 mg de lumefantrina</b>; dosis según peso (1 comprimido/5 kg, dos veces al día por 3 días).</li><li>La <b>artemisinina</b> reduce rápidamente la parasitemia (acción sobre estadios anulares y trofozoítos); la <b>lumefantrina</b> elimina parásitos residuales.</li><li>Debe administrarse con alimentos grasos para mejorar absorción de lumefantrina.</li><li>Contraindicada en embarazo primer trimestre (categoría C); usar <b>quinina + clindamicina</b> como alternativa.</li></ul>"
+      "foco": "Malaria grave: parasitemia mayor al 5% y disfunción orgánica",
+      "title": "Criterios de malaria grave",
+      "contentHtml": "<h2>Criterios de malaria grave</h2><ul><li><b>Parasitemia &gt;5%</b> en pacientes no inmunes es criterio de gravedad y de tratamiento parenteral urgente.</li><li><b>Disfunción orgánica:</b> alteración del estado de conciencia, convulsiones, acidosis metabólica (bicarbonato &lt;15 mmol/L), hipoglucemia (&lt;40 mg/dL), insuficiencia renal (creatinina &gt;3 mg/dL), edema pulmonar, ictericia (bilirrubina &gt;3 mg/dL), sangrado o hemoglobinuria.</li><li><b>Tratamiento:</b> <b>artesunato intravenoso</b> es primera línea; el arteméter intramuscular es alternativa.</li><li><b>Trampa:</b> la gravedad no depende solo de la parasitemia; cualquier disfunción orgánica define malaria complicada.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Diagnóstico por gota gruesa y frotis sanguíneo",
-      "title": "Gota gruesa y frotis en malaria",
-      "contentHtml": "<h2>Diagnóstico microscópico</h2><ul><li><b>Gota gruesa</b>: concentra parásitos (10–20 veces más sensible que frotis), permite cuantificar parasitemia (parásitos/μL). Umbral de detección: ~5–10 parásitos/μL.</li><li><b>Frotis sanguíneo</b> (extendido fino): identifica especie y estadio (anillo, trofozoíto, esquizonte, gametocito); esencial para diferenciar <b>P. falciparum</b> de otras especies.</li><li>En <b>P. falciparum</b> solo se ven anillos y gametocitos en sangre periférica; los esquizontes son secuestrados en órganos profundos.</li><li>La parasitemia &gt;5% en <b>P. falciparum</b> define malaria severa.</li><li>Pruebas rápidas de antígeno (RDT) detectan <b>HRP2</b> y <b>pLDH</b>, útiles en campo.</li></ul>"
+      "foco": "Anemia hemolítica y esplenomegalia en malaria crónica",
+      "title": "Anemia hemolítica y esplenomegalia",
+      "contentHtml": "<h2>Anemia hemolítica y esplenomegalia en malaria crónica</h2><ul><li><b>Mecanismo:</b> destrucción de eritrocitos parasitados y no parasitados, secuestro esplénico y diseritropoyesis; anemia hemolítica con reticulocitosis.</li><li><b>Esplenomegalia:</b> hiperplasia del sistema reticuloendotelial por eliminación de eritrocitos infectados; en malaria crónica puede ser masiva.</li><li><b>Esplenomegalia tropical:</b> síndrome de esplenomegalia masiva con IgM elevada en residentes de zonas endémicas, asociado a <b>Plasmodium malariae</b>.</li><li><b>Trampa:</b> la anemia por <b>Plasmodium falciparum</b> puede ser grave sin parasitemia alta; la hemoglobinuria (fiebre de aguas negras) indica hemólisis masiva.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Quimioprofilaxis con mefloquina o doxiciclina",
-      "title": "Quimioprofilaxis antimalárica",
-      "contentHtml": "<h2>Profilaxis farmacológica</h2><ul><li>Indicada para viajeros a zonas endémicas con resistencia a cloroquina.</li><li><b>Mefloquina</b>: 250 mg/semana, iniciar 2–3 semanas antes, continuar 4 semanas tras salida. Contraindicada en trastornos psiquiátricos o epilepsia.</li><li><b>Doxiciclina</b>: 100 mg/día, iniciar 1–2 días antes, continuar 4 semanas tras salida. Evitar en niños &lt;8 años y embarazadas.</li><li><b>Atovacuona-proguanil</b> (Malarone): 1 comprimido/día, iniciar 1–2 días antes, continuar 7 días tras salida. Mejor tolerado pero más caro.</li><li>Ninguna profilaxis es 100% efectiva; debe complementarse con medidas de barrera (repelente, mosquitero).</li></ul>"
+      "foco": "Mosquito Anopheles: vector transmisor nocturno",
+      "title": "Vector Anopheles",
+      "contentHtml": "<h2>Mosquito <b>Anopheles</b>: vector transmisor</h2><ul><li><b>Vector:</b> hembra del mosquito <b>Anopheles</b>; hábitos nocturnos, pico de actividad entre el anochecer y el amanecer.</li><li><b>Transmisión:</b> picadura del mosquito infectado inocula esporozoítos; también transmisión vertical, transfusional y por agujas.</li><li><b>Prevención:</b> mosquiteros tratados con insecticida, repelentes, ropa de manga larga y control de criaderos.</li><li><b>Trampa:</b> el mosquito <b>Anopheles</b> no transmite dengue ni fiebre amarilla; esos son <b>Aedes aegypti</b>.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Esplenomegalia hiperreactiva en malaria crónica",
-      "title": "Esplenomegalia hiperreactiva",
-      "contentHtml": "<h2>Esplenomegalia hiperreactiva (Síndrome de esplenomegalia tropical)</h2><ul><li>Asociada a infección crónica por <b>P. malariae</b> o <b>P. vivax</b>, con hiperproducción de IgM y formación de inmunocomplejos.</li><li>Clínica: <b>esplenomegalia masiva</b> (&gt;10 cm bajo reborde costal), dolor abdominal, anemia, leucopenia y trombocitopenia.</li><li>Criterio diagnóstico: esplenomegalia palpable, títulos elevados de anticuerpos antimaláricos, mejoría con profilaxis antimalárica prolongada.</li><li>Tratamiento: <b>profilaxis con cloroquina</b> o <b>sulfadoxina-pirimetamina</b> por 6–12 meses; si no hay respuesta, considerar esplenectomía.</li><li>Riesgo de ruptura esplénica espontánea y de infecciones por gérmenes encapsulados.</li></ul>"
+      "foco": "Quimioprofilaxis según destino y resistencia a cloroquina",
+      "title": "Quimioprofilaxis antimalárica",
+      "contentHtml": "<h2>Quimioprofilaxis según destino</h2><ul><li><b>Zonas sin resistencia a cloroquina:</b> cloroquina semanal (5 mg/kg) en áreas de <b>Plasmodium vivax</b> sensible.</li><li><b>Zonas con resistencia a cloroquina:</b> <b>atovacuona-proguanil</b>, <b>doxiciclina</b> o <b>mefloquina</b> según destino y tolerancia.</li><li><b>Duración:</b> iniciar 1-2 días antes del viaje, mantener durante la estancia y 4 semanas después (atovacuona-proguanil solo 7 días después).</li><li><b>Trampa:</b> la quimioprofilaxis no elimina hipnozoítos; no previene recaídas por <b>Plasmodium vivax</b>.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Resistencia a cloroquina en P. falciparum",
-      "title": "Resistencia a cloroquina",
-      "contentHtml": "<h2>Resistencia a cloroquina</h2><ul><li>Extendida globalmente en <b>P. falciparum</b>, mediada por mutaciones en el gen <b>pfcrt</b> (transportador de resistencia a cloroquina).</li><li>La <b>cloroquina</b> ya no se usa como primera línea para <b>P. falciparum</b> en la mayoría de regiones; excepto en Centroamérica y Caribe.</li><li>En <b>P. vivax</b> la resistencia a cloroquina es emergente (reportada en Indonesia, Papúa Nueva Guinea).</li><li>Prueba de sensibilidad: monitorización de parasitemia a las 48–72 h; si no disminuye &gt;90%, sospechar resistencia.</li><li>Alternativas: <b>artemisinina-lumefantrina</b>, <b>quinina</b> + <b>doxiciclina</b> o <b>atovacuona-proguanil</b>.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Primaquina elimina hipnozoítos en P. vivax",
-      "title": "Primaquina para radical de P. vivax",
-      "contentHtml": "<h2>Primaquina e hipnozoítos</h2><ul><li>Único fármaco activo contra <b>hipnozoítos</b> hepáticos de <b>P. vivax</b> y <b>P. ovale</b>, previniendo recaídas.</li><li>Dosis: <b>0,5 mg/kg/día</b> (base) por 14 días; en zonas de resistencia se usa <b>0,5 mg/kg/día</b> por 14 días o dosis total de 3,5 mg/kg.</li><li>Contraindicada en deficiencia de <b>G6PD</b> (riesgo de hemólisis severa); debe realizarse cribado previo.</li><li>En deficiencia de G6PD leve, se puede usar <b>primaquina</b> semanal (0,75 mg/kg/semana por 8 semanas) con monitorización.</li><li>No debe administrarse en embarazo ni lactancia; en esos casos usar <b>cloroquina</b> semanal como supresora hasta el parto.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Transfusión de sangre puede transmitir malaria",
-      "title": "Malaria transmitida por transfusión",
-      "contentHtml": "<h2>Malaria postransfusional</h2><ul><li>Transmisión por donante asintomático con parasitemia baja; <b>P. malariae</b> puede persistir años en sangre sin síntomas.</li><li>El parásito sobrevive en sangre almacenada hasta 1–2 semanas (depende de especie y anticoagulante).</li><li>Clínica: fiebre, anemia, esplenomegalia días a semanas tras transfusión; no hay fase hepática (ausencia de esporozoítos).</li><li>Prevención: diferir donantes con antecedente de malaria (1 año desde regreso de zona endémica, 3 años si tuvo malaria).</li><li>En zonas endémicas, se realiza <b>cribado de donantes</b> con gota gruesa o pruebas rápidas; no hay prueba de tamizaje universal aprobada.</li></ul>"
+      "foco": "Trombocitopenia y fiebre en viajero procedente de zona endémica",
+      "title": "Trombocitopenia y fiebre en viajero",
+      "contentHtml": "<h2>Trombocitopenia y fiebre en viajero</h2><ul><li><b>Hallazgo:</b> trombocitopenia leve a moderada es frecuente en malaria aguda por <b>Plasmodium falciparum</b> y <b>Plasmodium vivax</b>; no implica gravedad por sí sola.</li><li><b>Diagnóstico diferencial:</b> dengue, fiebre tifoidea, leptospirosis, infección por virus de la inmunodeficiencia humana aguda.</li><li><b>Abordaje:</b> gota gruesa y frotis urgente en todo viajero con fiebre y antecedente de zona endémica; repetir si negativa.</li><li><b>Trampa:</b> la trombocitopenia no descarta malaria ni la confirma; la clave es el antecedente epidemiológico y la gota gruesa.</li></ul>"
     }
   ]
 }

@@ -1,0 +1,65 @@
+{
+  "id": "hipertensión_arterial",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Diagnóstico con dos tomas ≥140/90 mmHg",
+      "title": "Diagnóstico de hipertensión arterial",
+      "contentHtml": "<h2>Diagnóstico de hipertensión arterial</h2><ul><li><b>Diagnóstico clínico:</b> dos tomas separadas en consulta con presión arterial &gt;=140/90 mmHg en cada una, técnica estandarizada (sentado 5 min, brazo apoyado, manguito adecuado, 2 mediciones separadas 1-2 min).</li><li><b>Confirmación ambulatoria:</b> monitorización ambulatoria de presión arterial de 24 h o automedición domiciliaria para descartar efecto bata blanca; umbral domiciliario &gt;=135/85 mmHg y promedio diurno &gt;=135/85 mmHg.</li><li><b>Trampa de examen:</b> una sola toma elevada no diagnostica; se exige confirmación en al menos 2 ocasiones.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Meta general <130/80 mmHg según guías",
+      "title": "Meta terapéutica general",
+      "contentHtml": "<h2>Meta terapéutica general</h2><ul><li><b>Meta general:</b> presión arterial &lt;130/80 mmHg en la mayoría de adultos con hipertensión arterial, incluyendo diabéticos y enfermedad renal crónica, si se tolera.</li><li><b>Ancianos frágiles:</b> individualizar; evitar &lt;120/70 mmHg por riesgo de hipotensión ortostática y caídas.</li><li><b>Reevaluación:</b> ajustar tratamiento cada 2-4 semanas hasta alcanzar la meta; si no se logra con 3 fármacos a dosis óptimas (uno diurético), se considera hipertensión resistente.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Primera línea: IECA/ARA II, calcioantagonista o tiazida",
+      "title": "Fármacos de primera línea",
+      "contentHtml": "<h2>Fármacos de primera línea</h2><ul><li><b>Grupos de primera línea:</b> inhibidor de la enzima convertidora de angiotensina, antagonista del receptor de angiotensina II, calcioantagonista dihidropiridínico o tiazida/tiazida-like.</li><li><b>Elección según comorbilidad:</b> inhibidor de la enzima convertidora de angiotensina o antagonista del receptor de angiotensina II en diabetes con albuminuria y enfermedad renal crónica; calcioantagonista en anciano con hipertensión sistólica aislada; tiazida en osteoporosis o litiasis cálcica.</li><li><b>Combinación inicial:</b> en hipertensión arterial grado 2 o alto riesgo, iniciar con 2 fármacos en un solo comprimido (inhibidor de la enzima convertidora de angiotensina o antagonista del receptor de angiotensina II + calcioantagonista o tiazida).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Hipertensión resistente: triple terapia con diurético",
+      "title": "Hipertensión resistente",
+      "contentHtml": "<h2>Hipertensión resistente</h2><ul><li><b>Definición:</b> presión arterial &gt;=140/90 mmHg pese a 3 fármacos a dosis óptimas, uno de ellos diurético tiazídico, o presión controlada solo con &gt;=4 fármacos.</li><li><b>Paso obligatorio:</b> verificar adherencia, técnica de medición y efecto bata blanca con monitorización ambulatoria de presión arterial de 24 h.</li><li><b>Cuarta línea:</b> añadir espironolactona (25-50 mg/día) si potasio y función renal lo permiten; valorar causas secundarias como apnea obstructiva del sueño, hiperaldosteronismo primario y estenosis de arteria renal.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Efecto bata blanca vs hipertensión enmascarada",
+      "title": "Bata blanca vs enmascarada",
+      "contentHtml": "<h2>Efecto bata blanca vs hipertensión enmascarada</h2><ul><li><b>Efecto bata blanca:</b> presión arterial elevada en consulta (&gt;=140/90 mmHg) pero normal fuera de ella (domicilio &lt;135/85 mmHg o promedio diurno &lt;135/85 mmHg); menor riesgo que hipertensión sostenida, pero requiere seguimiento.</li><li><b>Hipertensión enmascarada:</b> presión arterial normal en consulta (&lt;140/90 mmHg) pero elevada fuera (domicilio &gt;=135/85 mmHg o promedio diurno &gt;=135/85 mmHg); mayor riesgo cardiovascular, frecuente en jóvenes, diabéticos y enfermedad renal crónica.</li><li><b>Herramienta clave:</b> monitorización ambulatoria de presión arterial de 24 h o automedición domiciliaria para diferenciarlas.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "IECA contraindicado en embarazo y estenosis bilateral",
+      "title": "Contraindicaciones de IECA/ARA II",
+      "contentHtml": "<h2>Contraindicaciones de IECA/ARA II</h2><ul><li><b>Embarazo:</b> inhibidor de la enzima convertidora de angiotensina y antagonista del receptor de angiotensina II contraindicados en todos los trimestres (fetotoxicidad, oligohidramnios, insuficiencia renal fetal); sustituir por labetalol, nifedipino o metildopa.</li><li><b>Estenosis bilateral de arteria renal:</b> contraindicados por riesgo de insuficiencia renal aguda; también evitar en estenosis unilateral de riñón único.</li><li><b>Otras precauciones:</b> hiperpotasemia &gt;5.5 mEq/L, insuficiencia renal avanzada y antecedente de angioedema; no combinar inhibidor de la enzima convertidora de angiotensina con antagonista del receptor de angiotensina II.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Hipertensión secundaria: sospechar en jóvenes o resistente",
+      "title": "Sospecha de hipertensión secundaria",
+      "contentHtml": "<h2>Sospecha de hipertensión secundaria</h2><ul><li><b>Cuándo sospechar:</b> hipertensión arterial en &lt;30 años, inicio abrupto, hipertensión resistente, hipopotasemia espontánea, deterioro renal progresivo o crisis hipertensiva recurrente.</li><li><b>Causas frecuentes:</b> hiperaldosteronismo primario (relación aldosterona/renina elevada), enfermedad renal parenquimatosa, estenosis de arteria renal (soplo abdominal), feocromocitoma (crisis paroxísticas, cefalea, sudoración, palpitaciones) y apnea obstructiva del sueño.</li><li><b>Estudio inicial:</b> creatinina, potasio, sedimento urinario, ecografía renal y relación aldosterona/renina.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Crisis hipertensiva: distinguir urgencia vs emergencia",
+      "title": "Urgencia vs emergencia hipertensiva",
+      "contentHtml": "<h2>Urgencia vs emergencia hipertensiva</h2><ul><li><b>Emergencia hipertensiva:</b> presión arterial &gt;=180/120 mmHg con lesión aguda de órgano diana (encefalopatía, infarto cerebral, síndrome coronario agudo, edema agudo de pulmón, disección aórtica, insuficiencia renal aguda); ingreso y descenso controlado con fármacos intravenosos.</li><li><b>Urgencia hipertensiva:</b> cifras &gt;=180/120 mmHg sin lesión aguda de órgano diana; descenso ambulatorio gradual con fármacos orales, sin reducir más del 25% en las primeras 24 h.</li><li><b>Trampa:</b> la cifra aislada no define emergencia; la clave es la lesión de órgano diana.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Tiazidas primera elección en hipertensión del anciano",
+      "title": "Tiazidas en el anciano",
+      "contentHtml": "<h2>Tiazidas en el anciano</h2><ul><li><b>Primera elección:</b> tiazida (clortalidona o indapamida) o calcioantagonista dihidropiridínico en hipertensión sistólica aislada del anciano; las tiazidas reducen eventos cerebrovasculares y fracturas por osteoporosis.</li><li><b>Precauciones:</b> vigilar sodio, potasio, ácido úrico y función renal; evitar en gota e hiponatremia.</li><li><b>Meta:</b> presión arterial &lt;130/80 mmHg si tolera; evitar &lt;120/70 mmHg por hipotensión ortostática.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Lesión de órgano diana: HVI, retinopatía, nefropatía",
+      "title": "Lesión de órgano diana",
+      "contentHtml": "<h2>Lesión de órgano diana</h2><ul><li><b>Corazón:</b> hipertrofia ventricular izquierda en electrocardiograma (criterios de Sokolow-Lyon: S en V1 + R en V5/V6 &gt;=35 mm) o ecocardiograma; es factor de riesgo independiente.</li><li><b>Riñón:</b> albuminuria &gt;=30 mg/g, elevación de creatinina o descenso del filtrado glomerular estimado.</li><li><b>Retina:</b> retinopatía hipertensiva (estrechamiento arteriolar, cruces arteriovenosos, hemorragias, exudados, papiledema en grado IV).</li><li><b>Vasos:</b> enfermedad arterial periférica y rigidez arterial; la lesión de órgano diana define el riesgo y guía el tratamiento.</li></ul>"
+    }
+  ]
+}

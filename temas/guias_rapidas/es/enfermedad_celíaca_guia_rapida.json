@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Marsh-Oberhuber clasificación histológica",
-      "title": "Clasificación de Marsh-Oberhuber",
-      "contentHtml": "<h2>Clasificación de Marsh-Oberhuber</h2><ul><li><b>Marsh 0:</b> mucosa normal.</li><li><b>Marsh 1:</b> aumento de linfocitos intraepiteliales (>40/100 enterocitos) sin atrofia.</li><li><b>Marsh 2:</b> hiperplasia de criptas + linfocitosis intraepitelial.</li><li><b>Marsh 3</b> (subdividida en a, b, c): atrofia vellositaria parcial (3a), subtotal (3b) o total (3c).</li><li><b>Marsh 4:</b> hipoplasia vellositaria total (rara, asociada a linfoma refractario).</li><li>La clasificación es <b>diagnóstica</b> en pacientes con serología positiva y dieta con gluten; <b>Marsh 3</b> es el hallazgo clásico.</li></ul>"
+      "foco": "Enfermedad celíaca: enteropatía autoinmune por gluten",
+      "title": "Definición y fisiopatología",
+      "contentHtml": "<h2>Enfermedad celíaca: enteropatía autoinmune por gluten</h2><ul><li><b>Definición:</b> enteropatía crónica inmunomediada desencadenada por la ingesta de gluten en individuos genéticamente predispuestos, con lesión de la mucosa del intestino delgado y manifestaciones sistémicas.</li><li><b>Fisiopatología:</b> la gliadina atraviesa el epitelio, es desamidada por la transglutaminasa tisular y presentada por HLA-DQ2/DQ8 a linfocitos T CD4+, que desencadenan una respuesta Th1/Th17 con citotoxicidad sobre enterocitos y atrofia vellositaria.</li><li><b>Autoinmunidad:</b> se generan autoanticuerpos contra la transglutaminasa tisular (anti-transglutaminasa IgA) y contra el endomisio.</li><li><b>Epidemiología:</b> prevalencia global ~1%; mayor en mujeres y en familiares de primer grado (10-15%).</li><li><b>Formas clínicas:</b> clásica (diarrea, pérdida de peso, malabsorción), no clásica (extraintestinal), silente (serología positiva, mucosa normal) y latente (serología negativa con mucosa normal que se positiviza).</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Anti-transglutaminasa IgA como screening",
-      "title": "Anti-transglutaminasa IgA (tTG-IgA)",
-      "contentHtml": "<h2>Anti-transglutaminasa IgA como screening</h2><ul><li>Primera línea de screening: <b>anticuerpos anti-transglutaminasa tisular IgA (tTG-IgA)</b>.</li><li>Sensibilidad >95% y especificidad ~98% en enfermedad celíaca activa.</li><li>Confirmación con <b>antiendomisio IgA (EMA)</b> si tTG-IgA es dudoso (especificidad ~100%).</li><li>En niños sintomáticos con tTG-IgA >10 veces el límite superior normal y EMA positivo, se puede obviar biopsia (criterios ESPGHAN).</li><li>Falsos positivos: cirrosis, insuficiencia cardíaca, psoriasis.</li></ul>"
+      "foco": "Triggers: gliadina, trigo, cebada, centeno",
+      "title": "Desencadenantes: gluten y cereales",
+      "contentHtml": "<h2>Triggers: gliadina, trigo, cebada, centeno</h2><ul><li><b>Fracción tóxica:</b> la gliadina (prolamina del trigo) es el principal desencadenante; también las prolaminas de cebada (hordeína) y centeno (secalina).</li><li><b>Cereales permitidos:</b> arroz, maíz, mijo, sorgo, quinoa, amaranto y trigo sarraceno (no contienen prolaminas tóxicas).</li><li><b>Avena:</b> controvertida por contaminación cruzada; solo se acepta avena certificada sin gluten y en cantidades limitadas.</li><li><b>Contaminación cruzada:</b> es la causa más frecuente de persistencia de síntomas o de lesión mucosa en pacientes aparentemente adherentes a la dieta.</li><li><b>Trampa de examen:</b> la <b>gliadina</b> es la fracción que se desamida y se une a HLA-DQ2/DQ8; no confundir con glutenina, que es menos inmunogénica.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Asociación con HLA DQ2/DQ8",
-      "title": "HLA DQ2 y DQ8",
-      "contentHtml": "<h2>Asociación con HLA DQ2/DQ8</h2><ul><li>El 90-95% de los pacientes expresan <b>HLA-DQ2</b> (DQA1*05:01/DQB1*02:01); el resto expresa <b>HLA-DQ8</b> (DQA1*03/DQB1*03:02).</li><li>La ausencia de ambos alelos tiene un <b>valor predictivo negativo >99%</b> para descartar enfermedad celíaca.</li><li>No es diagnóstico por sí solo: ~30% de la población general porta DQ2/DQ8 sin desarrollar la enfermedad.</li><li>Útil en casos dudosos (serología negativa con sospecha clínica) y para descartar enfermedad en familiares de primer grado.</li></ul>"
+      "foco": "Anticuerpos anti-transglutaminasa IgA (anti-tTG)",
+      "title": "Anti-transglutaminasa IgA",
+      "contentHtml": "<h2>Anticuerpos anti-transglutaminasa IgA (anti-tTG)</h2><ul><li><b>Primera línea serológica:</b> anti-transglutaminasa IgA es el test de elección por su alta sensibilidad (~95%) y especificidad (~95%) en adultos; en niños &lt;2 años puede rendir menos.</li><li><b>Condición obligada:</b> debe realizarse con ingesta de gluten activa; la dieta sin gluten previa produce falsos negativos.</li><li><b>Confirmación:</b> títulos &gt;10 veces el límite superior de la normalidad en niños con síntomas y HLA-DQ2/DQ8 positivos pueden permitir diagnóstico sin biopsia según criterios de la ESPGHAN (European Society for Paediatric Gastroenterology, Hepatology and Nutrition).</li><li><b>Utilidad en seguimiento:</b> la normalización de anti-transglutaminasa IgA refleja adherencia y respuesta mucosa.</li><li><b>Trampa:</b> en déficit de IgA los anti-transglutaminasa IgA pueden ser falsamente negativos; solicitar anti-transglutaminasa IgG o anti-endomisio IgG.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Dermatitis herpetiforme manifestación cutánea",
-      "title": "Dermatitis herpetiforme (DH)",
-      "contentHtml": "<h2>Dermatitis herpetiforme</h2><ul><li>Manifestación cutánea patognomónica de <b>enfermedad celíaca</b>.</li><li>Vesículas pruriginosas agrupadas en <b>codos, rodillas, nalgas y cuero cabelludo</b>.</li><li>Depósitos de <b>IgA granular</b> en dermis papilar (inmunofluorescencia directa) = gold standard diagnóstico.</li><li>Afecta duodeno en >80% de pacientes, aunque la mayoría no presenta síntomas digestivos.</li><li>Responde a <b>dieta libre de gluten</b>; puede requerir dapsona para control rápido del prurito.</li></ul>"
+      "foco": "Anti-endomisio y anti-gliadina desamidada",
+      "title": "Anti-endomisio y anti-gliadina desamidada",
+      "contentHtml": "<h2>Anti-endomisio y anti-gliadina desamidada</h2><ul><li><b>Anti-endomisio IgA:</b> alta especificidad (~98-100%) pero menor sensibilidad y técnica de inmunofluorescencia indirecta sobre esófago de mono o cordón umbilical; útil como confirmación.</li><li><b>Anti-gliadina desamidada IgG/IgA:</b> menor especificidad que anti-transglutaminasa IgA; útil en niños pequeños (&lt;2 años) y en déficit de IgA, donde los anti-gliadina desamidada IgG pueden ser la mejor opción.</li><li><b>Anti-gliadina nativa:</b> baja especificidad, no recomendada para diagnóstico; se asocia a otras enteropatías y a sensibilidad al gluten no celíaca.</li><li><b>Combinación práctica:</b> anti-transglutaminasa IgA + IgA total; si IgA baja, añadir anti-transglutaminasa IgG o anti-gliadina desamidada IgG.</li><li><b>Trampa:</b> los anticuerpos anti-endomisio y anti-gliadina desamidada también pueden negativizarse con dieta sin gluten, por lo que deben tomarse antes de iniciarla.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Deficiencia de IgA causa falsos negativos",
-      "title": "Deficiencia de IgA y falsos negativos",
-      "contentHtml": "<h2>Deficiencia de IgA</h2><ul><li>La <b>deficiencia selectiva de IgA</b> (1:500) causa falsos negativos en tTG-IgA y EMA-IgA.</li><li>Precaución: medir <b>IgA total</b> simultáneamente al screening.</li><li>Si IgA total baja (<0.07 g/L en adultos), solicitar <b>tTG-IgG</b> o <b>DGP-IgG</b> (péptidos deaminados de gliadina IgG) como alternativa.</li><li>La deficiencia de IgA es más frecuente en celíacos que en población general.</li></ul>"
+      "foco": "Déficit de IgA: falsos negativos serológicos",
+      "title": "Déficit de IgA y falsos negativos",
+      "contentHtml": "<h2>Déficit de IgA: falsos negativos serológicos</h2><ul><li><b>Problema:</b> el déficit selectivo de IgA (IgA sérica &lt;7 mg/dL en adultos) produce falsos negativos de los anticuerpos anti-transglutaminasa IgA y anti-endomisio IgA.</li><li><b>Prevalencia:</b> el déficit de IgA es 10-20 veces más frecuente en pacientes celíacos que en la población general.</li><li><b>Conducta:</b> solicitar siempre IgA total junto con anti-transglutaminasa IgA; si IgA baja, pedir anti-transglutaminasa IgG o anti-gliadina desamidada IgG.</li><li><b>Confirmación:</b> la biopsia duodenal sigue siendo el patrón de referencia cuando la serología es negativa pero la sospecha clínica es alta.</li><li><b>Trampa de examen:</b> un anti-transglutaminasa IgA negativo no descarta enfermedad celíaca si no se ha medido la IgA total; el déficit de IgA es la causa clásica de falso negativo.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Ataxia por gluten como neurológico",
-      "title": "Ataxia por gluten",
-      "contentHtml": "<h2>Ataxia por gluten</h2><ul><li>Trastorno neurológico inmunomediado asociado a <b>enfermedad celíaca</b>.</li><li>Clínica: <b>ataxia cerebelosa de inicio insidioso</b>, disartria, nistagmo, sin síntomas digestivos en >50%.</li><li>Diagnóstico: anticuerpos <b>anti-transglutaminasa 6 (TG6)</b> y/o anti-gliadina IgG; atrofia cerebelosa en resonancia magnética.</li><li>Respuesta parcial a <b>dieta libre de gluten</b>; el daño puede ser irreversible si se instaura tarde.</li></ul>"
+      "foco": "Biopsia duodenal: atrofia vellositaria e hiperplasia críptica",
+      "title": "Biopsia duodenal: hallazgos",
+      "contentHtml": "<h2>Biopsia duodenal: atrofia vellositaria e hiperplasia críptica</h2><ul><li><b>Hallazgo clave:</b> atrofia vellositaria con hiperplasia de las criptas y aumento de linfocitos intraepiteliales (&gt;25 por 100 enterocitos) en la lámina propia.</li><li><b>Técnica:</b> endoscopia digestiva alta con al menos 4 biopsias del duodeno distal (segunda/tercera porción) y 1 del bulbo; la lesión es parcheada y puede faltar en el bulbo.</li><li><b>Condición:</b> debe realizarse con ingesta de gluten activa; la dieta sin gluten previa puede normalizar la mucosa y producir falsos negativos.</li><li><b>Diagnóstico diferencial histológico:</b> enteritis por virus, giardiasis, sobrecrecimiento bacteriano, enfermedad de Crohn, intolerancia a proteína de leche de vaca, linfoma intestinal y déficit de IgA.</li><li><b>Trampa:</b> la atrofia vellositaria no es patognomónica; el diagnóstico requiere correlación serológica, clínica y respuesta a la dieta sin gluten.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Síndrome de malabsorción clásico",
-      "title": "Síndrome de malabsorción clásico",
-      "contentHtml": "<h2>Síndrome de malabsorción clásico</h2><ul><li>Triada: <b>diarrea crónica</b> (esteatorrea), <b>pérdida de peso</b> y <b>distensión abdominal</b>.</li><li>Estudios: <b>esteatorrea</b> en heces de 72 h (>7 g/día), <b>D-xilosa</b> baja (afecta mucosa proximal), <b>test de Schilling</b> alterado (malabsorción de B12 si afecta íleon).</li><li>Anemia por deficiencia de <b>hierro</b>, <b>folato</b> y <b>vitamina B12</b> (en orden de frecuencia).</li><li>Hipocalcemia, hipoalbuminemia, déficit de vitaminas liposolubles (A, D, E, K).</li></ul>"
+      "foco": "Marsh 0-3 clasificación histológica",
+      "title": "Clasificación de Marsh",
+      "contentHtml": "<h2>Marsh 0-3 clasificación histológica</h2><ul><li><b>Marsh 0:</b> mucosa normal; linfocitos intraepiteliales &lt;25 por 100 enterocitos.</li><li><b>Marsh 1:</b> aumento de linfocitos intraepiteliales (&gt;25 por 100 enterocitos) con arquitectura vellositaria normal.</li><li><b>Marsh 2:</b> hiperplasia de criptas con arquitectura vellositaria conservada.</li><li><b>Marsh 3:</b> atrofia vellositaria; se subdivide en 3a (atrofia parcial), 3b (atrofia subtotal) y 3c (atrofia total).</li><li><b>Marsh 4:</b> atrofia total con hipoplasia de criptas (fase tardía/irreversible).</li><li><b>Uso clínico:</b> Marsh 3 es el hallazgo típico de enfermedad celíaca activa; Marsh 1-2 son inespecíficos y obligan a correlacionar con serología y HLA-DQ2/DQ8.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Dieta libre de gluten de por vida",
-      "title": "Dieta libre de gluten (DLG)",
-      "contentHtml": "<h2>Dieta libre de gluten de por vida</h2><ul><li>Único tratamiento efectivo: <b>dieta libre de gluten</b> estricta y de por vida.</li><li>Excluir <b>trigo, cebada, centeno</b> (y derivados); la avena pura no contaminada es tolerada por la mayoría.</li><li>Mejoría clínica en semanas; normalización serológica en 6-12 meses; recuperación histológica en 1-2 años.</li><li>No iniciar dieta antes de completar biopsia (riesgo de falsos negativos).</li><li>Suplementar: <b>hierro</b>, <b>calcio</b>, <b>vitamina D</b>, <b>ácido fólico</b> hasta corrección.</li></ul>"
+      "foco": "Dermatitis herpetiforme: manifestación cutánea patognomónica",
+      "title": "Dermatitis herpetiforme",
+      "contentHtml": "<h2>Dermatitis herpetiforme: manifestación cutánea patognomónica</h2><ul><li><b>Definición:</b> manifestación cutánea de la enfermedad celíaca, considerada patognomónica; se presenta en ~10-15% de los pacientes celíacos.</li><li><b>Clínica:</b> lesiones papulovesiculosas intensamente pruriginosas, simétricas, en superficies extensoras (codos, rodillas, nalgas, cuero cabelludo y región sacra).</li><li><b>Hallazgo clave:</b> depósito granular de IgA en la membrana basal en la inmunofluorescencia directa de piel perilesional; es el patrón diagnóstico.</li><li><b>Tratamiento:</b> dieta sin gluten de por vida; la dapsona (100-200 mg/día) controla el prurito pero no sustituye la dieta.</li><li><b>Trampa:</b> la biopsia cutánea convencional puede ser inespecífica; la prueba de elección es la inmunofluorescencia directa perilesional, no la biopsia de la lesión.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Linfoma intestinal complicación tardía",
-      "title": "Linfoma intestinal y complicaciones",
-      "contentHtml": "<h2>Linfoma intestinal complicación tardía</h2><ul><li>Principal complicación neoplásica: <b>linfoma de células T asociado a enteropatía (EATL)</b>.</li><li>Riesgo relativo aumentado 10-50 veces en celíacos no tratados o refractarios.</li><li>Presentación: dolor abdominal, obstrucción, perforación, masa en <b>yeyuno/íleon</b>.</li><li>Otras complicaciones: <b>enfermedad celíaca refractaria</b> (tipo I y II), <b>yeyunitis ulcerativa</b>, adenocarcinoma intestinal.</li><li>La <b>dieta libre de gluten</b> reduce significativamente el riesgo.</li></ul>"
+      "foco": "Asociación HLA-DQ2/DQ8",
+      "title": "HLA-DQ2/DQ8",
+      "contentHtml": "<h2>Asociación HLA-DQ2/DQ8</h2><ul><li><b>Asociación:</b> HLA-DQ2 (alelo DQ2.5) está presente en ~90-95% de los pacientes celíacos; HLA-DQ8 en la mayoría del resto.</li><li><b>Valor predictivo negativo:</b> la ausencia de HLA-DQ2 y HLA-DQ8 tiene un valor predictivo negativo &gt;99%; descarta prácticamente la enfermedad celíaca.</li><li><b>Limitación:</b> HLA-DQ2/DQ8 es frecuente en la población general (~30-40%), por lo que su presencia no confirma el diagnóstico.</li><li><b>Indicación:</b> útil en casos dudosos, en pacientes con serología negativa y biopsia inespecífica, y en familiares de primer grado.</li><li><b>Trampa de examen:</b> HLA-DQ2/DQ8 positivo no es diagnóstico; HLA-DQ2/DQ8 negativo es la mejor prueba para excluir la enfermedad celíaca.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Afecta duodeno biopsia clave",
-      "title": "Biopsia duodenal",
-      "contentHtml": "<h2>Afecta duodeno biopsia clave</h2><ul><li>La lesión es <b>parcheada</b> y más severa en <b>duodeno distal</b> (bulbo duodenal incluido).</li><li>Se requieren al menos <b>4-6 biopsias</b> de duodeno distal y <b>1-2 del bulbo</b> para evitar falsos negativos.</li><li>Técnica: endoscopía alta con biopsia; la cápsula endoscópica es alternativa en casos dudosos.</li><li>La biopsia se realiza con el paciente consumiendo gluten (mínimo 10 g/día durante 6 semanas previas).</li><li>Hallazgo clave: <b>atrofia vellositaria</b> con hiperplasia de criptas y linfocitosis intraepitelial.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Anemia ferropénica refractaria",
-      "title": "Anemia ferropénica refractaria",
-      "contentHtml": "<h2>Anemia ferropénica refractaria</h2><ul><li>La <b>anemia ferropénica</b> es la manifestación hematológica más frecuente en enfermedad celíaca (hasta 50% de adultos).</li><li>Refractaria a tratamiento oral con hierro si no se instaura <b>dieta libre de gluten</b>.</li><li>Fisiopatología: malabsorción de hierro en duodeno por atrofia vellositaria.</li><li>Diagnóstico diferencial: sangrado gastrointestinal oculto, gastritis autoinmune, deficiencia de B12/folato.</li><li>En <b>anemia ferropénica sin causa aparente</b>, se recomienda screening con tTG-IgA.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Osteoporosis por malabsorción calcio",
-      "title": "Osteoporosis en enfermedad celíaca",
-      "contentHtml": "<h2>Osteoporosis por malabsorción calcio</h2><ul><li>Malabsorción de <b>calcio</b> y <b>vitamina D</b> secundaria a atrofia vellositaria y esteatorrea.</li><li>Hiperparatiroidismo secundario compensador que acelera pérdida ósea.</li><li>Densidad mineral ósea reducida en >50% de pacientes al diagnóstico.</li><li>Indicación: <b>densitometría ósea (DXA)</b> en todo celíaco adulto al diagnóstico.</li><li>Tratamiento: <b>dieta libre de gluten</b> + suplementos de <b>calcio</b> (1000-1200 mg/día) y <b>vitamina D</b> (800-2000 UI/día).</li></ul>"
+      "foco": "Dieta sin gluten de por vida: tratamiento definitivo",
+      "title": "Dieta sin gluten de por vida",
+      "contentHtml": "<h2>Dieta sin gluten de por vida: tratamiento definitivo</h2><ul><li><b>Tratamiento:</b> dieta sin gluten estricta y de por vida; es el único tratamiento definitivo y debe iniciarse tras completar el estudio diagnóstico.</li><li><b>Adherencia:</b> se monitoriza con anti-transglutaminasa IgA, hemograma, ferritina, folato, vitamina B12, calcio, vitamina D y densidad mineral ósea; la normalización serológica suele ocurrir en 6-12 meses.</li><li><b>Complicaciones de la falta de adherencia:</b> osteopenia/osteoporosis, anemia ferropénica, infertilidad, linfoma intestinal de células T asociado a enteropatía y adenocarcinoma de intestino delgado.</li><li><b>Contaminación cruzada:</b> principal causa de persistencia de síntomas; revisar etiquetado, utensilios y restaurantes.</li><li><b>Trampa:</b> no iniciar dieta sin gluten antes de completar serología y biopsia; la dieta previa enmascara el diagnóstico y produce falsos negativos.</li></ul>"
     }
   ]
 }

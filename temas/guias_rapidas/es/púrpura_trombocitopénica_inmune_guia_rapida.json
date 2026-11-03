@@ -5,73 +5,61 @@
       "order": 1,
       "foco": "PTI es diagnóstico de exclusión",
       "title": "PTI: diagnóstico de exclusión",
-      "contentHtml": "<h2>PTI: diagnóstico de exclusión</h2><ul><li><b>Púrpura trombocitopénica inmune</b> se define por trombocitopenia &lt;100000/µL aislada, sin causa secundaria identificable.</li><li>Es un <b>diagnóstico de exclusión</b>: requiere descartar seudotrombocitopenia (agregados plaquetarios en EDTA), trombocitopenia inducida por fármacos, infecciones (VIH, virus de la hepatitis C), enfermedad hepática, esplenomegalia, síndrome de HELLP, coagulación intravascular diseminada y neoplasias hematológicas.</li><li>No existe prueba diagnóstica confirmatoria; la respuesta a tratamiento apoya el diagnóstico.</li><li>En adultos, la <b>Púrpura trombocitopénica inmune</b> es crónica en la mayoría; en niños suele ser aguda y autolimitada.</li></ul>"
+      "contentHtml": "<h2>PTI es diagnóstico de exclusión</h2><ul><li>La púrpura trombocitopénica inmune (PTI) se define por <b>trombocitopenia aislada</b> (&lt;100 × 10⁹/L) sin anemia ni leucopenia, en ausencia de causas secundarias.</li><li>No existe prueba diagnóstica confirmatoria: el diagnóstico es clínico y por exclusión de otras trombocitopenias (fármacos, infecciones, autoinmunidad, neoplasias).</li><li>El <b>frotis de sangre periférica</b> es obligatorio para descartar seudotrombocitopenia por agregados plaquetarios (EDTA) y para valorar morfología plaquetaria.</li><li>Trampa de examen: no solicitar <b>aspiración de médula ósea</b> de rutina en adultos jóvenes con presentación típica; reservarla para casos atípicos, &gt;60 años o antes de esplenectomía.</li></ul>"
     },
     {
       "order": 2,
       "foco": "Trombocitopenia aislada sin anemia ni leucopenia",
       "title": "Trombocitopenia aislada",
-      "contentHtml": "<h2>Trombocitopenia aislada</h2><ul><li>La <b>púrpura trombocitopénica inmune</b> cursa con <b>trombocitopenia aislada</b>: plaquetas bajas con hemoglobina y leucocitos normales.</li><li>Si hay anemia o leucopenia, sospechar otra causa: síndrome mielodisplásico, leucemia, linfoma, lupus eritematoso sistémico, infección por VIH o fármacos.</li><li>La anemia ferropénica por sangrado crónico puede coexistir, pero no es parte del cuadro primario.</li><li>El hemograma con recuento plaquetario &lt;100000/µL sin otras citopenias es el hallazgo inicial típico.</li></ul>"
+      "contentHtml": "<h2>Trombocitopenia aislada sin anemia ni leucopenia</h2><ul><li>La PTI cursa con <b>trombocitopenia aislada</b>: plaquetas &lt;100 × 10⁹/L con serie roja y blanca normales.</li><li>Si hay anemia o leucopenia, sospechar causa central (infiltración medular, síndrome mielodisplásico, leucemia) o periférica no inmune (púrpura trombótica trombocitopénica, coagulación intravascular diseminada).</li><li>La anemia ferropénica por sangrado puede coexistir y no descarta PTI, pero obliga a descartar otras causas.</li><li>Recuento plaquetario &lt;20 × 10⁹/L define riesgo alto de sangrado espontáneo; &lt;10 × 10⁹/L es riesgo crítico de hemorragia intracraneal.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Frotis: plaquetas grandes, sin esquistocitos",
-      "title": "Frotis periférico en PTI",
-      "contentHtml": "<h2>Frotis periférico en PTI</h2><ul><li><b>Hallazgo clave:</b> plaquetas grandes (macrotrombocitos) por aumento de trombopoyesis medular; ausencia de esquistocitos.</li><li>La presencia de esquistocitos orienta a púrpura trombocitopénica trombótica, síndrome hemolítico urémico o coagulación intravascular diseminada.</li><li>Descartar agregados plaquetarios (seudotrombocitopenia) revisando el frotis en zona de monocapa.</li><li>No se observan blastos ni células displásicas en la <b>púrpura trombocitopénica inmune</b> primaria.</li></ul>"
+      "foco": "Frotis: plaquetas grandes, descartar seudotrombocitopenia",
+      "title": "Frotis y seudotrombocitopenia",
+      "contentHtml": "<h2>Frotis: plaquetas grandes, descartar seudotrombocitopenia</h2><ul><li><b>Hallazgo clave:</b> en el frotis de sangre periférica de la PTI se observan <b>plaquetas grandes</b> (macrotrombocitos) por hiperproducción medular compensadora, sin esquistocitos.</li><li>La <b>seudotrombocitopenia</b> por agregación plaquetaria inducida por EDTA ocurre en ~0,1% de la población; se confirma repitiendo el hemograma en citrato o heparinato y revisando el frotis.</li><li>Descartar <b>esquistocitos</b> (púrpura trombótica trombocitopénica, síndrome hemolítico urémico) y <b>blastos</b> (leucemia).</li><li>Trampa: no transfundir plaquetas por cifra aislada; el frotis es la prueba que evita el error de tratar una seudotrombocitopenia.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Médula ósea: megacariocitos aumentados o normales",
-      "title": "Médula ósea en PTI",
-      "contentHtml": "<h2>Médula ósea en PTI</h2><ul><li><b>Hallazgo clave:</b> megacariocitos aumentados o normales, sin dismorfia; series eritroide y mieloide normales.</li><li>El aspirado medular no es necesario en presentación típica en niños ni en adultos jóvenes con clínica característica.</li><li>Se indica en &gt;60 años, esplenomegalia, citopenias adicionales, sospecha de síndrome mielodisplásico o antes de esplenectomía.</li><li>Megacariocitos disminuidos sugieren aplasia medular o amegacariocitosis; aumentados con displasia orientan a síndrome mielodisplásico.</li></ul>"
+      "foco": "Descartar causas secundarias: fármacos, VIH, VHC, LES",
+      "title": "Causas secundarias de trombocitopenia",
+      "contentHtml": "<h2>Descartar causas secundarias: fármacos, VIH, VHC, LES</h2><ul><li>Solicitar <b>serología de VIH</b> y <b>virus de la hepatitis C</b> en todo paciente con sospecha de PTI; ambas son causas frecuentes de trombocitopenia inmune secundaria.</li><li>Descartar <b>lupus eritematoso sistémico</b> con anticuerpos antinucleares y anti-DNA; la trombocitopenia puede ser la manifestación inicial.</li><li>Revisar fármacos: <b>heparina</b> (trombocitopenia inducida por heparina), <b>quinina</b>, <b>sulfamidas</b>, <b>ácido valproico</b>, <b>linezolid</b>.</li><li>Otras causas: <b>Helicobacter pylori</b> (su erradicación puede mejorar plaquetas), vacunas, infección por citomegalovirus y esplenomegalia por hipertensión portal.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "No indicar transfusión plaquetaria de rutina",
-      "title": "Transfusión plaquetaria: no rutinaria",
-      "contentHtml": "<h2>Transfusión plaquetaria: no rutinaria</h2><ul><li>No indicar <b>transfusión plaquetaria de rutina</b> en <b>púrpura trombocitopénica inmune</b>: las plaquetas transfundidas se destruyen rápidamente por autoanticuerpos.</li><li>La transfusión solo se reserva para sangrado grave o riesgo vital, no para cifras bajas aisladas.</li><li>El objetivo es tratar la causa (inmunosupresión) y no corregir el recuento de forma profiláctica.</li><li>En procedimientos invasivos, valorar individualmente; no hay umbral universal en <b>púrpura trombocitopénica inmune</b>.</li></ul>"
+      "foco": "Niños: PTI aguda posviral autolimitada",
+      "title": "PTI aguda en niños",
+      "contentHtml": "<h2>Niños: PTI aguda posviral autolimitada</h2><ul><li>En niños de 2-6 años, la PTI suele ser <b>aguda posviral</b> y <b>autolimitada</b>: resuelve en &lt;6 meses en 70-80% de los casos.</li><li>Presentación típica: petequias, equimosis y plaquetas &lt;20 × 10⁹/L tras una infección viral 1-4 semanas antes.</li><li>Manejo: observación si no hay sangrado mucocutáneo grave; <b>inmunoglobulina intravenosa</b> o <b>corticoides</b> si sangrado o plaquetas &lt;20 × 10⁹/L con riesgo.</li><li>Trampa: la <b>esplenectomía</b> se reserva para casos crónicos refractarios &gt;12 meses y se retrasa hasta los 5 años por riesgo de sepsis por encapsulados.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Indicada transfusión solo con sangrado grave",
-      "title": "Transfusión en sangrado grave",
-      "contentHtml": "<h2>Transfusión en sangrado grave</h2><ul><li><b>Transfusión plaquetaria indicada solo con sangrado grave</b>: hemorragia digestiva, intracraneal, pulmonar o cirugía urgente.</li><li>Asociar <b>inmunoglobulina intravenosa</b> para aumentar la vida media de las plaquetas transfundidas.</li><li>No usar transfusión profiláctica por plaquetas &lt;20000/µL sin sangrado.</li><li>El sangrado mucocutáneo leve no justifica transfusión; el tratamiento de primera línea son corticoides o <b>inmunoglobulina intravenosa</b>.</li></ul>"
+      "foco": "Adultos: curso crónico, más frecuente en mujeres",
+      "title": "PTI crónica en adultos",
+      "contentHtml": "<h2>Adultos: curso crónico, más frecuente en mujeres</h2><ul><li>En adultos, la PTI es <b>crónica</b> (&gt;12 meses) en ~80% y predomina en <b>mujeres</b> de 20-50 años (relación 2-3:1).</li><li>Fisiopatología: autoanticuerpos <b>IgG anti-GPIIb/IIIa</b> y anti-GPIb/IX que opsonizan plaquetas para destrucción esplénica y suprimen trombopoyesis.</li><li>El riesgo de hemorragia intracraneal es ~1% en adultos, mayor que en niños.</li><li>Trampa: en adultos &gt;60 años con trombocitopenia aislada, descartar síndrome mielodisplásico antes de etiquetar de PTI; considerar médula ósea.</li></ul>"
     },
     {
       "order": 7,
       "foco": "Primera línea: corticoides o inmunoglobulina IV",
-      "title": "Tratamiento de primera línea",
-      "contentHtml": "<h2>Tratamiento de primera línea</h2><ul><li><b>Primera línea: corticoides o inmunoglobulina intravenosa</b>.</li><li>Corticoides: prednisona 1 mg/kg/día o dexametasona 40 mg/día por 4 días; respuesta en 1-2 semanas.</li><li><b>Inmunoglobulina intravenosa</b>: 1 g/kg/día por 1-2 días o 400 mg/kg/día por 5 días; respuesta más rápida (24-48 h), útil en sangrado activo.</li><li>No combinar de rutina; reservar combinación para casos graves.</li><li>La respuesta inicial no predice cronicidad.</li></ul>"
+      "title": "Primera línea de tratamiento",
+      "contentHtml": "<h2>Primera línea: corticoides o inmunoglobulina IV</h2><ul><li>Primera línea en PTI con sangrado o plaquetas &lt;30 × 10⁹/L: <b>corticoides</b> (prednisona 1 mg/kg/día o dexametasona 40 mg/día × 4 días) o <b>inmunoglobulina intravenosa</b> (1 g/kg/día × 1-2 días).</li><li>La <b>inmunoglobulina intravenosa</b> actúa en 24-48 h y es de elección en sangrado activo, embarazo y antes de cirugía.</li><li>Los corticoides tardan 3-7 días; respuesta inicial ~70-80% pero recaída frecuente al suspender.</li><li>Trampa: no usar <b>transfusión de plaquetas</b> de rutina; se destruyen rápidamente por los autoanticuerpos.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Inmunoglobulina IV de elección en sangrado grave",
-      "title": "Inmunoglobulina IV en sangrado grave",
-      "contentHtml": "<h2>Inmunoglobulina intravenosa en sangrado grave</h2><ul><li><b>Inmunoglobulina intravenosa de elección en sangrado grave</b> por su rapidez de acción (24-48 h).</li><li>Dosis: 1 g/kg/día por 1-2 días o 400 mg/kg/día por 5 días.</li><li>Mecanismo: bloqueo de receptores Fc, modulación de autoanticuerpos y aumento de vida media plaquetaria.</li><li>Puede asociarse a corticoides en hemorragia con riesgo vital.</li><li>Efectos adversos: cefalea, reacción infusional, trombosis, nefrotoxicidad.</li></ul>"
+      "foco": "Urgencia con sangrado grave: IgIV más corticoide",
+      "title": "Urgencia hemorrágica",
+      "contentHtml": "<h2>Urgencia con sangrado grave: IgIV más corticoide</h2><ul><li>En hemorragia grave (intracraneal, digestiva, pulmonar) o plaquetas &lt;10 × 10⁹/L con sangrado: <b>inmunoglobulina intravenosa</b> (1 g/kg/día × 2 días) <b>más</b> <b>metilprednisolona</b> 1 g/día × 3 días.</li><li>Asociar <b>transfusión de plaquetas</b> solo en sangrado crítico o antes de procedimiento invasivo, con dosis repetidas por consumo rápido.</li><li>Considerar <b>agentes trombopoyéticos</b> (eltrombopag, romiplostim) si refractario; actúan en 1-2 semanas.</li><li>Trampa: la <b>esplenectomía</b> de urgencia no es primera línea; el tratamiento médico es prioritario.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Esplenectomía segunda línea en adultos",
-      "title": "Esplenectomía en adultos",
-      "contentHtml": "<h2>Esplenectomía en adultos</h2><ul><li><b>Esplenectomía segunda línea en adultos</b> con <b>púrpura trombocitopénica inmune</b> crónica refractaria a corticoides e <b>inmunoglobulina intravenosa</b>.</li><li>Respuesta completa en ~60-70%; recaída en 15-25%.</li><li>Vacunar antes contra neumococo, Haemophilus influenzae tipo b y meningococo; profilaxis antibiótica en algunos casos.</li><li>No es primera línea por morbimortalidad quirúrgica y riesgo de sepsis.</li></ul>"
+      "foco": "Esplenectomía en casos refractarios",
+      "title": "Esplenectomía refractaria",
+      "contentHtml": "<h2>Esplenectomía en casos refractarios</h2><ul><li>Indicación: PTI <b>refractaria</b> (&gt;12 meses) con sangrado o plaquetas &lt;30 × 10⁹/L tras corticoides, inmunoglobulina intravenosa y agonistas del receptor de trombopoyetina.</li><li>Respuesta completa (~60-70%) definida como plaquetas &gt;100 × 10⁹/L; recaída en 15-25%.</li><li>Antes de cirugía: vacunar contra <b>neumococo</b>, <b>Haemophilus influenzae tipo b</b> y <b>meningococo</b> al menos 2 semanas antes.</li><li>Trampa: la esplenectomía no se realiza en niños &lt;5 años por riesgo de sepsis fulminante por encapsulados.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Agonistas del receptor de trombopoyetina en crónica",
-      "title": "Agonistas del receptor de trombopoyetina",
-      "contentHtml": "<h2>Agonistas del receptor de trombopoyetina</h2><ul><li><b>Agonistas del receptor de trombopoyetina en crónica</b>: romiplostim (subcutáneo semanal) y eltrombopag (oral diario).</li><li>Indicados en <b>púrpura trombocitopénica inmune</b> crónica refractaria a primera línea y esplenectomía o cuando esta está contraindicada.</li><li>Aumentan producción plaquetaria; respuesta en 1-2 semanas.</li><li>Riesgos: trombosis, fibrosis medular, rebote de trombocitopenia al suspender.</li><li>No usar de primera línea salvo casos seleccionados.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "PTI secundaria: descartar VIH, VHC, LES, fármacos",
-      "title": "PTI secundaria: causas a descartar",
-      "contentHtml": "<h2>PTI secundaria: causas a descartar</h2><ul><li><b>PTI secundaria: descartar VIH, VHC, LES, fármacos</b>.</li><li>Solicitar serología de VIH y virus de la hepatitis C, anticuerpos antinucleares, función hepática y revisión de fármacos.</li><li>Fármacos implicados: heparina, quinina, sulfamidas, vancomicina, ácido valproico.</li><li>Otras causas: infección por Helicobacter pylori, vacunas, enfermedades autoinmunes.</li><li>El tratamiento de la causa subyacente puede resolver la trombocitopenia.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Riesgo de sangrado grave si plaquetas <20000",
-      "title": "Riesgo de sangrado grave",
-      "contentHtml": "<h2>Riesgo de sangrado grave</h2><ul><li><b>Riesgo de sangrado grave si plaquetas &lt;20000/µL</b>; el riesgo aumenta con &lt;10000/µL.</li><li>El sangrado intracraneal es raro pero grave; considerar en cefalea intensa o déficit neurológico.</li><li>No hay correlación perfecta entre cifra y sangrado; valorar clínica.</li><li>Plaquetas &gt;30000/µL suelen ser seguras para procedimientos menores; &gt;50000/µL para cirugía mayor.</li></ul>"
+      "foco": "Evitar transfusión plaquetaria salvo sangrado crítico",
+      "title": "Transfusión plaquetaria restringida",
+      "contentHtml": "<h2>Evitar transfusión plaquetaria salvo sangrado crítico</h2><ul><li>La <b>transfusión de plaquetas</b> está contraindicada de rutina en PTI: los autoanticuerpos destruyen las plaquetas donadas en minutos.</li><li>Indicación excepcional: <b>sangrado crítico</b> (intracraneal, digestivo masivo) o cirugía mayor inminente, siempre junto a inmunoglobulina intravenosa y corticoides.</li><li>Dosis: 1 unidad de aféresis por cada 10 kg o 1 pool de 4-6 unidades; repetir según respuesta clínica.</li><li>Trampa de examen: transfundir solo por cifra de plaquetas sin sangrado es error; la decisión es clínica, no numérica.</li></ul>"
     }
   ]
 }

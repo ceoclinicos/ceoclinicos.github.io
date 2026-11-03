@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Signo de Trousseau y Chvostek en hipocalcemia",
-      "title": "Signos de Trousseau y Chvostek",
-      "contentHtml": "<h2>Signos de Trousseau y Chvostek</h2><ul><li><b>Signo de Trousseau</b>: espasmo carpopedal inducido por isquemia; se infla el manguito del esfigmomanómetro &gt;20 mmHg por encima de la presión arterial sistólica durante 3 minutos; sensibilidad ~94%, especificidad ~99% para hipocalcemia.</li><li><b>Signo de Chvostek</b>: contracción facial ipsilateral al percutir el nervio facial delante del trago; presente en ~10% de normocalcémicos (falsos positivos), menor especificidad que <b>Signo de Trousseau</b>.</li><li>Ambos reflejan hiperexcitabilidad neuromuscular por descenso del calcio iónico; su ausencia no descarta hipocalcemia severa.</li><li>Trampa de examen: <b>Signo de Trousseau</b> también positivo en hipomagnesemia e alcalosis; correlacionar con calcio iónico.</li></ul>"
+      "foco": "Signo de Chvostek y Trousseau en hipocalcemia",
+      "title": "Signos de Chvostek y Trousseau",
+      "contentHtml": "<h2>Signos de Chvostek y Trousseau</h2><ul><li><b>Signo de Chvostek:</b> percusión del nervio facial a nivel del ángulo mandibular; contracción ipsilateral de músculos faciales (labio, nariz, orbicular). Sensibilidad baja, especificidad variable; puede ser positivo en normocalcémicos.</li><li><b>Signo de Trousseau:</b> oclusión del flujo braquial con manguito &gt;20 mmHg sobre presión sistólica durante 3 minutos; provoca espasmo carpopedal (muñeca en flexión, dedos en extensión, pulgar aducido). Más específico que Chvostek.</li><li>Ambos indican irritabilidad neuromuscular por hipocalcemia; Trousseau es el más fiable en examen.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "QT prolongado y riesgo de torsades de pointes",
-      "title": "QT prolongado y torsades de pointes",
-      "contentHtml": "<h2>QT prolongado y torsades de pointes</h2><ul><li>La hipocalcemia prolonga la fase 2 del potencial de acción → <b>QT prolongado</b> (QT corregido &gt;440 ms en hombres, &gt;460 ms en mujeres).</li><li><b>Torsades de pointes</b>: taquicardia ventricular polimórfica con eje que gira alrededor de la línea de base; riesgo aumenta con QT corregido &gt;500 ms.</li><li>Manejo: <b>sulfato de magnesio</b> intravenoso 1-2 g en bolo si torsades; corregir calcio y magnesio; evitar fármacos que prolongan el QT (macrólidos, fluoroquinolonas, ondansetrón, antipsicóticos).</li><li>Trampa: el QT prolongado persiste hasta normalizar el calcio iónico; no basta el calcio total.</li></ul>"
+      "foco": "QT prolongado y riesgo de arritmias",
+      "title": "QT prolongado y arritmias",
+      "contentHtml": "<h2>QT prolongado y riesgo de arritmias</h2><ul><li>La hipocalcemia prolonga el segmento ST y el intervalo QT (QT corregido &gt;440 ms en hombres, &gt;460 ms en mujeres).</li><li>Riesgo de <b>torsades de pointes</b> y fibrilación ventricular; mayor si coexiste hipopotasemia o hipomagnesemia.</li><li>Monitorizar electrocardiograma en hipocalcemia severa sintomática; la corrección del calcio acorta el QT.</li><li>Trampa: QT prolongado también por hipomagnesemia, hipopotasemia y fármacos; descartar causas coexistentes.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Calcio iónico corrige por albumina baja",
-      "title": "Calcio iónico y corrección por albúmina",
-      "contentHtml": "<h2>Calcio iónico y corrección por albúmina</h2><ul><li>El calcio total incluye fracción unida a albúmina (~40%), complejada (~10%) e ionizada (~50%, fisiológicamente activa).</li><li>Fórmula de corrección: <b>calcio corregido = calcio total + 0.8 × (4.0 − albúmina en g/dL)</b>; alternativa: +0.8 mg/dL por cada 1 g/dL de albúmina &lt;4.</li><li>En hipoalbuminemia el calcio total subestima el calcio iónico; en alcalosis o hiperproteinemia el calcio iónico baja sin reflejarse en el total.</li><li>El <b>calcio iónico</b> es el estándar para diagnosticar y monitorizar hipocalcemia severa; valores de referencia ~1.10-1.30 mmol/L (4.4-5.2 mg/dL).</li></ul>"
+      "foco": "Corrección de calcio por albúmina sérica",
+      "title": "Calcio corregido por albúmina",
+      "contentHtml": "<h2>Calcio corregido por albúmina</h2><ul><li>Fórmula: <b>calcio corregido (mg/dL) = calcio medido (mg/dL) + 0.8 × (4.0 − albúmina sérica [g/dL])</b>.</li><li>Alternativa: calcio corregido = calcio medido + 0.8 × (albúmina normal − albúmina del paciente).</li><li>Hipocalcemia verdadera: calcio corregido &lt;8.5 mg/dL; severa &lt;7.5 mg/dL o sintomática.</li><li>Trampa: en hipoalbuminemia el calcio total subestima el calcio iónico; usar calcio iónico si disponible.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Parestesias peribucales y espasmo carpopedal",
-      "title": "Parestesias peribucales y espasmo carpopedal",
-      "contentHtml": "<h2>Parestesias peribucales y espasmo carpopedal</h2><ul><li>Manifestaciones tempranas de hipocalcemia: <b>parestesias peribucales</b> y acrales (manos, pies), calambres musculares, hiperreflexia.</li><li><b>Espasmo carpopedal</b>: flexión de muñeca y metacarpofalángicas con extensión de interfalángicas y aducción del pulgar; equivalente al <b>Signo de Trousseau</b> espontáneo.</li><li>Puede preceder a convulsiones, laringoespasmo y arritmias; su presencia con calcio iónico &lt;0.8 mmol/L define hipocalcemia severa.</li><li>Diagnóstico diferencial: tetania por hipomagnesemia, alcalosis respiratoria, hipocalcemia por hipoparatiroidismo; siempre medir magnesio.</li></ul>"
+      "foco": "Hipocalcemia postiroidectomía: cuándo medir calcio",
+      "title": "Hipocalcemia postiroidectomía",
+      "contentHtml": "<h2>Hipocalcemia postiroidectomía</h2><ul><li>Medir calcio sérico a las <b>6-12 horas</b> postoperatorio y luego cada 6-12 horas hasta 48-72 horas; el nadir suele ocurrir a las 24-48 horas.</li><li>Factores de riesgo: tiroidectomía total, resección amplia, reintervención, autotrasplante de paratiroides, cirujano con baja experiencia.</li><li>Hipocalcemia sintomática o calcio &lt;7.5 mg/dL: tratar con calcio intravenoso.</li><li>Trampa: hipocalcemia puede manifestarse tardíamente; no dar el alta sin control de calcio.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Hipocalcemia postiroidectomía por hipoparatiroidismo",
-      "title": "Hipocalcemia postiroidectomía",
-      "contentHtml": "<h2>Hipocalcemia postiroidectomía</h2><ul><li>Causa más frecuente de hipocalcemia hospitalaria: lesión o resección de las glándulas paratiroides durante tiroidectomía total; incidencia transitoria 20-30%, permanente &lt;2% en centros expertos.</li><li>Fisiopatología: descenso de <b>hormona paratiroidea</b> → menor reabsorción tubular de calcio y menor activación de vitamina D → hipocalcemia.</li><li>Aparece a las 24-72 horas; monitorizar calcio iónico cada 6-12 horas las primeras 48 horas en postoperatorio.</li><li>Trampa: la hipocalcemia puede ser transitoria por edema paratiroideo; no etiquetar de permanente hasta &gt;6 meses.</li></ul>"
+      "foco": "Tetania, parestesias periorales y espasmo carpopedal",
+      "title": "Tetania y espasmo carpopedal",
+      "contentHtml": "<h2>Tetania y espasmo carpopedal</h2><ul><li>Manifestaciones de hipocalcemia: parestesias periorales y distales, espasmo carpopedal, laringoespasmo, convulsiones.</li><li><b>Espasmo carpopedal:</b> flexión de muñeca, extensión de dedos, aducción del pulgar; puede ser espontáneo o provocado (Trousseau).</li><li>Tetania grave: riesgo de laringoespasmo y broncoespasmo; requiere calcio intravenoso urgente.</li><li>Trampa: tetania también por hipomagnesemia, alcalosis y hipopotasemia; confirmar con calcio iónico.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Gluconato cálcico IV en hipocalcemia severa",
-      "title": "Gluconato cálcico intravenoso",
-      "contentHtml": "<h2>Gluconato cálcico intravenoso</h2><ul><li>Primera línea en hipocalcemia severa sintomática: <b>gluconato cálcico al 10%</b> 10-20 mL (1-2 g) diluido en 50-100 mL de solución glucosada al 5% o solución salina, infundido en 10-20 minutos.</li><li>Preferir <b>gluconato cálcico</b> sobre cloruro cálcico por vía periférica: menor riesgo de necrosis tisular y esclerosis venosa.</li><li>Luego infusión continua: 10-15 mg/kg/hora de calcio elemental (p. ej., 100 mL de gluconato cálcico al 10% en 1 L de solución glucosada al 5% a 50-100 mL/hora).</li><li>Monitorizar calcio iónico cada 4-6 horas; objetivo ~1.0-1.2 mmol/L; vigilar extravasación y arritmias.</li></ul>"
+      "foco": "Calcio IV: gluconato vs cloruro cálcico",
+      "title": "Gluconato vs cloruro cálcico",
+      "contentHtml": "<h2>Gluconato vs cloruro cálcico</h2><ul><li><b>Gluconato cálcico 10%:</b> 10-20 mL en 50-100 mL de dextrosa al 5% en 10-20 minutos; menos irritante venoso, preferido en urgencias.</li><li><b>Cloruro cálcico 10%:</b> 10 mL en 10 minutos; más irritante, solo vía central, mayor riesgo de necrosis tisular si extravasación.</li><li>Ambos aportan calcio elemental: gluconato 10% ≈ 90 mg por 10 mL; cloruro 10% ≈ 273 mg por 10 mL.</li><li>Trampa: no administrar cloruro cálcico por vía periférica ni en pacientes con digoxina sin precaución.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Evitar bicarbonato en hipocalcemia severa",
-      "title": "Evitar bicarbonato en hipocalcemia severa",
-      "contentHtml": "<h2>Evitar bicarbonato en hipocalcemia severa</h2><ul><li>El <b>bicarbonato de sodio</b> induce alcalosis metabólica; la alcalosis aumenta la unión del calcio a la albúmina y reduce el <b>calcio iónico</b>, agravando la tetania y las arritmias.</li><li>También precipita calcio si se administra en la misma vía que el gluconato cálcico; lavar la vía entre ambos fármacos.</li><li>En acidosis con hipocalcemia, corregir primero el calcio iónico antes de buffer; la corrección rápida del pH puede desenmascarar hipocalcemia severa.</li><li>Trampa de examen: nunca mezclar <b>bicarbonato de sodio</b> con calcio en la misma línea intravenosa.</li></ul>"
+      "foco": "Precaución con digoxina al administrar calcio IV",
+      "title": "Calcio IV y digoxina",
+      "contentHtml": "<h2>Calcio IV y digoxina</h2><ul><li>El calcio intravenoso puede potenciar la toxicidad digitálica y precipitar arritmias (fibrilación ventricular).</li><li>En pacientes con digoxina, administrar calcio lentamente, con monitorización electrocardiográfica continua y a dosis mínima eficaz.</li><li>Considerar primero corregir hipomagnesemia e hipopotasemia; usar gluconato cálcico en lugar de cloruro cálcico.</li><li>Trampa: la precaución no contraindica el tratamiento en hipocalcemia severa sintomática; individualizar.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Convulsiones y laringoespasmo como urgencia",
-      "title": "Convulsiones y laringoespasmo",
-      "contentHtml": "<h2>Convulsiones y laringoespasmo</h2><ul><li><b>Convulsiones</b> y <b>laringoespasmo</b> son manifestaciones de hipocalcemia severa que amenazan la vía aérea y la vida; indican calcio intravenoso inmediato.</li><li>Laringoespasmo: estridor inspiratorio, disfonía y dificultad respiratoria por espasmo de cuerdas vocales; preparar vía aérea y administrar <b>gluconato cálcico al 10%</b> 10-20 mL intravenoso.</li><li>Convulsiones: descartar hipomagnesemia concomitante; el magnesio es cofactor para la secreción de hormona paratiroidea y su déficit perpetúa la hipocalcemia.</li><li>Monitorizar electrocardiograma por riesgo de <b>QT prolongado</b> y torsades de pointes durante la crisis.</li></ul>"
+      "foco": "Síndrome de lisis tumoral como causa",
+      "title": "Síndrome de lisis tumoral",
+      "contentHtml": "<h2>Síndrome de lisis tumoral</h2><ul><li>Causa hipocalcemia por precipitación de fosfato cálcico tras liberación masiva de fosfato intracelular (linfomas, leucemias agudas, tumores sólidos de rápido crecimiento).</li><li>Triada: hiperpotasemia, hiperfosfatemia e hipocalcemia; riesgo de insuficiencia renal aguda.</li><li>Tratamiento: hidratación, control de fosfato, corrección de calcio solo si sintomático.</li><li>Trampa: no corregir calcio agresivamente si el fosfato está muy elevado; riesgo de precipitación tisular.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Déficit de vitamina D causa hipocalcemia",
-      "title": "Déficit de vitamina D",
-      "contentHtml": "<h2>Déficit de vitamina D</h2><ul><li>La <b>vitamina D</b> (calcidiol 25-OH) es necesaria para la absorción intestinal de calcio; su déficit reduce el calcio sérico y estimula la hormona paratiroidea (hiperparatiroidismo secundario).</li><li>Causas: malabsorción, dieta insuficiente, escasa exposición solar, insuficiencia renal (menor 1-alfa-hidroxilación), obesidad, fármacos anticonvulsivantes.</li><li>Tratamiento: <b>colecalciferol</b> (vitamina D3) 50,000 UI semanales por 8 semanas o 6,000 UI diarias; en insuficiencia renal usar <b>calcitriol</b> 0.25-0.5 mcg/día.</li><li>Trampa: corregir primero el magnesio; sin magnesio la vitamina D y el calcio no corrigen la hipocalcemia.</li></ul>"
+      "foco": "Hipomagnesemia refractaria a corrección de calcio",
+      "title": "Hipomagnesemia refractaria",
+      "contentHtml": "<h2>Hipomagnesemia refractaria</h2><ul><li>La hipomagnesemia causa hipocalcemia refractaria porque el magnesio es necesario para la secreción de parathormona y su acción periférica.</li><li>Sin corregir magnesio, el calcio no se normaliza; administrar <b>sulfato de magnesio</b> (1-2 g intravenoso en 15-30 minutos) en hipocalcemia refractaria.</li><li>Buscar hipomagnesemia en alcohólicos, diuréticos, diarrea crónica, pancreatitis y fármacos (inhibidores de bomba de protones).</li><li>Trampa: siempre medir magnesio en hipocalcemia que no responde al tratamiento.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Hipomagnesemia refractaria a corrección de calcio",
-      "title": "Hipomagnesemia refractaria",
-      "contentHtml": "<h2>Hipomagnesemia refractaria</h2><ul><li>El <b>magnesio</b> es cofactor de la adenilato ciclasa necesaria para la secreción de hormona paratiroidea y para la acción periférica de la hormona paratiroidea; su déficit causa hipocalcemia refractaria.</li><li>Sin corregir el magnesio, la hipocalcemia no responde al calcio ni a la vitamina D; sospechar en alcohólicos, diuréticos de asa, aminoglucósidos, cisplatino, diarrea crónica.</li><li>Tratamiento: <b>sulfato de magnesio</b> 1-2 g intravenoso en 15-30 minutos; luego infusión 4-8 g/24 horas; en hipomagnesemia leve, óxido de magnesio oral.</li><li>Monitorizar reflejos rotulianos y frecuencia respiratoria durante la reposición; el exceso de magnesio deprime el sistema nervioso central.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "PTH baja vs alta orienta la causa",
-      "title": "Hormona paratiroidea baja vs alta",
-      "contentHtml": "<h2>Hormona paratiroidea baja vs alta</h2><ul><li><b>Hormona paratiroidea baja</b> (hipoparatiroidismo): postiroidectomía, autoinmune, hipomagnesemia severa, infiltración, síndrome de DiGeorge; calcio bajo, fósforo alto.</li><li><b>Hormona paratiroidea alta</b> (secundario): déficit de vitamina D, insuficiencia renal, malabsorción, fármacos; calcio bajo, fósforo variable.</li><li>Medir <b>hormona paratiroidea</b> intacta, calcio iónico, fósforo, magnesio, 25-OH vitamina D y creatinina para orientar la causa.</li><li>Trampa: en hipocalcemia severa con hormona paratiroidea inapropiadamente normal o baja, el diagnóstico es hipoparatiroidismo, no déficit de vitamina D.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Monitorizar calcio y magnesio en transfusión masiva",
-      "title": "Transfusión masiva y calcio",
-      "contentHtml": "<h2>Transfusión masiva y calcio</h2><ul><li>La <b>transfusión masiva</b> (&gt;10 unidades de concentrado de hematíes en 24 horas) aporta citrato como anticoagulante; el citrato quelata el calcio iónico → hipocalcemia.</li><li>Monitorizar <b>calcio iónico</b> y <b>magnesio</b> cada 30-60 minutos o tras cada 4-6 unidades; riesgo mayor en hepatopatía (menor metabolismo del citrato) e hipotermia.</li><li>Tratamiento: <b>gluconato cálcico al 10%</b> 10-20 mL intravenoso según calcio iónico; evitar cloruro cálcico en vía periférica.</li><li>Trampa: la hipocalcemia por citrato puede coexistir con hipercaliemia e hipomagnesemia; corregir magnesio para que el calcio responda.</li></ul>"
+      "foco": "Pancreatitis aguda causa hipocalcemia por saponificación",
+      "title": "Pancreatitis aguda e hipocalcemia",
+      "contentHtml": "<h2>Pancreatitis aguda e hipocalcemia</h2><ul><li>La pancreatitis aguda causa hipocalcemia por <b>saponificación</b>: el calcio se une a ácidos grasos liberados por necrosis grasa peripancreática.</li><li>Hipocalcemia &lt;8 mg/dL en pancreatitis sugiere gravedad (criterio de Ranson modificado).</li><li>También contribuye la hipoalbuminemia y la deficiencia de vitamina D.</li><li>Trampa: la hipocalcemia en pancreatitis puede ser tardía; monitorizar calcio en las primeras 48-72 horas.</li></ul>"
     }
   ]
 }

@@ -1,0 +1,65 @@
+{
+  "id": "anestesicos_inhalados",
+  "items": [
+    {
+      "order": 1,
+      "foco": "CAM y MAC definen potencia anestésica",
+      "title": "CAM y MAC: potencia anestésica",
+      "contentHtml": "<h2>CAM y MAC: potencia anestésica</h2><ul><li><b>Concentración alveolar mínima (CAM)</b> es la concentración alveolar a 1 atmósfera que produce inmovilidad en el 50% de los pacientes ante estímulo doloroso estandarizado (pinzamiento de cola en ratas; en humanos, incisión quirúrgica).</li><li><b>MAC</b> es un índice de potencia: a menor <b>MAC</b>, mayor potencia del anestésico inhalado.</li><li>Valores de <b>MAC</b> a 40 años: <b>óxido nitroso 105%</b>, <b>desflurano 6%</b>, <b>sevoflurano 2%</b>, <b>isoflurano 1.2%</b>, <b>halotano 0.75%</b>.</li><li>Trampa: <b>MAC</b> no es dosis letal ni índice de seguridad; solo compara potencia entre agentes.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "MAC se reduce con edad, hipotermia y opioides",
+      "title": "Factores que reducen la MAC",
+      "contentHtml": "<h2>Factores que reducen la CAM/MAC</h2><ul><li>La <b>MAC</b> disminuye con: <b>edad avanzada</b> (≈6% por década &gt;40 años), <b>hipotermia</b>, <b>opioides</b>, <b>hipotensión</b>, <b>embarazo</b>, <b>alcohol agudo</b>, <b>sedantes</b> y <b>bloqueadores neuromusculares</b> (efecto indirecto).</li><li>La <b>MAC</b> aumenta con: <b>fiebre</b>, <b>hipertermia</b>, <b>consumo crónico de alcohol</b>, <b>cocaína</b>, <b>anfetaminas</b> y <b>edad pediátrica</b> (lactantes &gt; adultos).</li><li>Trampa de examen: los <b>opioides</b> reducen la <b>MAC</b> de forma dosis-dependiente pero no la llevan a cero; el <b>óxido nitroso</b> tiene <b>MAC</b> &gt;100%, por lo que no produce anestesia quirúrgica sola a 1 atmósfera.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Óxido nitroso: MAC alta y efecto segundo gas",
+      "title": "Óxido nitroso: MAC alta y segundo gas",
+      "contentHtml": "<h2>Óxido nitroso</h2><ul><li><b>MAC</b> ≈ <b>105%</b>: no alcanza anestesia quirúrgica a 1 atmósfera; se usa como coadyuvante (reduce <b>MAC</b> de otros agentes).</li><li><b>Efecto segundo gas</b>: por su baja solubilidad sanguínea, difunde más rápido que el nitrógeno hacia cavidades aéreas cerradas, aumentando volumen/presión (neumotórax, bullas, oído medio, globo ocular, balón endotraqueal).</li><li>Contraindicado en <b>neumotórax</b>, <b>obstrucción intestinal</b>, <b>cirugía oftalmológica con gas intraocular</b> y <b>embarazo</b> (abortivo).</li><li>Produce <b>analgesia</b> y <b>amnesia</b>; no relaja músculo ni produce hipnosis profunda.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Halotano hepatotóxico y sensibilizante",
+      "title": "Halotano: hepatotoxicidad",
+      "contentHtml": "<h2>Halotano</h2><ul><li><b>Hepatotoxicidad</b> por metabolitos trifluoroacetilados que forman haptenos → <b>hepatitis por halotano</b> (necrosis centrolobulillar), mediada por <b>hipersensibilidad</b>; riesgo mayor en exposiciones repetidas, obesos y adultos.</li><li>Fiebre, ictericia y eosinofilia postoperatorias: sospechar <b>hepatitis por halotano</b>.</li><li>También produce <b>hipertermia maligna</b> (sensibilizante) y <b>bradicardia</b>; no es irritante de vía aérea (útil en inducción pediátrica).</li><li>Trampa: el <b>halotano</b> ya no se usa en muchos países por su hepatotoxicidad y cardiotoxicidad.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Isoflurano causa robo coronario",
+      "title": "Isoflurano: robo coronario",
+      "contentHtml": "<h2>Isoflurano</h2><ul><li><b>Robo coronario</b>: vasodilatación arteriolar coronaria que desvía flujo hacia zonas sanas, produciendo isquemia en territorios estenóticos (robo coronario).</li><li>Puede causar <b>taquicardia</b> e <b>hipertensión</b> relativa; es irritante de vía aérea (no ideal para inducción inhalada).</li><li>Útil en neurocirugía por reducir consumo metabólico cerebral y presión intracraneal (con ventilación adecuada).</li><li>Trampa: el <b>robo coronario</b> es clásico del <b>isoflurano</b>, no del <b>sevoflurano</b>.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Sevoflurano broncodilatador y convulsiones en altas dosis",
+      "title": "Sevoflurano: broncodilatador y convulsiones",
+      "contentHtml": "<h2>Sevoflurano</h2><ul><li><b>Broncodilatador</b>: útil en asma y en inducción inhalada pediátrica por su baja irritabilidad de vía aérea.</li><li>En <b>altas dosis</b> (&gt;2 <b>MAC</b>) puede producir <b>convulsiones</b> y actividad epileptiforme en electroencefalograma; precaución en epilepsia.</li><li>Puede causar <b>hipotensión</b> dosis-dependiente y <b>depresión respiratoria</b>.</li><li>Trampa: el <b>sevoflurano</b> no es hepatotóxico ni produce <b>robo coronario</b>; su metabolismo es mínimo (2-5%).</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Desflurano irritante de vía aérea",
+      "title": "Desflurano: irritante de vía aérea",
+      "contentHtml": "<h2>Desflurano</h2><ul><li><b>Irritante de vía aérea</b>: produce tos, laringoespasmo y sialorrea; no se recomienda para inducción inhalada, especialmente en niños.</li><li>Baja solubilidad sanguínea → recuperación rápida; útil en cirugía ambulatoria y obesos.</li><li>Puede causar <b>taquicardia</b> e <b>hipertensión</b> transitorias; requiere vaporizador calibrado especial.</li><li>Trampa: el <b>desflurano</b> es el más irritante de los halogenados modernos; el <b>sevoflurano</b> es el menos irritante.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Metabolismo halotano por citocromo P450",
+      "title": "Metabolismo del halotano",
+      "contentHtml": "<h2>Metabolismo del halotano</h2><ul><li>El <b>halotano</b> se metaboliza ≈20% por el <b>citocromo P450</b> (CYP2E1) → metabolitos trifluoroacetilados reactivos que causan <b>hepatitis por halotano</b>.</li><li>El <b>isoflurano</b> y el <b>sevoflurano</b> se metabolizan &lt;5%; el <b>desflurano</b> casi no se metaboliza (0.02%).</li><li>Mayor metabolismo → mayor riesgo de toxicidad orgánica y de <b>hipertermia maligna</b>.</li><li>Trampa: el <b>halotano</b> es el halogenado con mayor metabolismo hepático; el <b>desflurano</b>, el menor.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Óxido nitroso inhibe metionina sintetasa",
+      "title": "Óxido nitroso: inhibición de metionina sintetasa",
+      "contentHtml": "<h2>Óxido nitroso: metionina sintetasa</h2><ul><li>Inhibe la <b>metionina sintetasa</b> (dependiente de vitamina B12) → bloqueo de conversión de homocisteína a metionina y de timidilato a ADN; produce <b>anemia megaloblástica</b> y <b>neuropatía</b> en exposiciones prolongadas o repetidas.</li><li>Riesgo mayor en déficit de <b>vitamina B12</b>, embarazo y uso crónico (abuso recreativo).</li><li>También puede causar <b>depresión medular</b> y <b>leucopenia</b>.</li><li>Trampa: el <b>óxido nitroso</b> no es hepatotóxico ni produce <b>robo coronario</b>; su toxicidad es hematológica y neurológica.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Anestésicos inhalados potencian bloqueadores neuromusculares",
+      "title": "Potenciación de bloqueadores neuromusculares",
+      "contentHtml": "<h2>Potenciación de bloqueadores neuromusculares</h2><ul><li>Los <b>anestésicos inhalados</b> potencian el efecto de los <b>bloqueadores neuromusculares</b> no despolarizantes (rocuronio, vecuronio, atracurio) al disminuir la liberación de acetilcolina y la sensibilidad postsináptica.</li><li>El efecto es mayor con <b>halotano</b> e <b>isoflurano</b> que con <b>sevoflurano</b> y <b>desflurano</b>; el <b>óxido nitroso</b> apenas potencia.</li><li>Implica reducir la dosis del bloqueador y monitorizar con <b>estimulación nerviosa periférica</b> (tren de cuatro).</li><li>Trampa: la potenciación es clínicamente significativa; no se debe infravalorar al ajustar dosis.</li></ul>"
+    }
+  ]
+}

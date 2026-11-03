@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Clasificación según isotónica, hipertónica, hipotónica",
-      "title": "Tipos de deshidratación según tonicidad",
-      "contentHtml": "<h2>Clasificación según tonicidad</h2><ul><li><b>Deshidratación isotónica</b> (pérdida proporcional de agua y sodio): la más frecuente (70-80% de los casos); sodio sérico 135-145 mEq/L.</li><li><b>Deshidratación hipertónica</b> (pérdida de agua &gt; sodio): sodio sérico &gt;145 mEq/L; ocurre en diarrea osmótica o fiebre alta; riesgo de convulsiones al rehidratar rápido.</li><li><b>Deshidratación hipotónica</b> (pérdida de sodio &gt; agua): sodio sérico &lt;135 mEq/L; empeora el estado hemodinámico; peligro de edema cerebral.</li><li>Trampa: en clínica, la tonicidad se calcula con sodio sérico; no confundir con osmolaridad medida.</li></ul>"
+      "foco": "Diarrea osmótica: gap fecal mayor de 100",
+      "title": "Diarrea osmótica y gap fecal",
+      "contentHtml": "<h2>Diarrea osmótica</h2><ul><li><b>Gap fecal mayor de 100</b> orienta a diarrea osmótica; se calcula como <b>gap fecal = 290 − 2 × (sodio fecal + potasio fecal)</b>.</li><li>Fisiopatología: solutos no absorbibles retienen agua en la luz intestinal; el ayuno reduce la diarrea.</li><li>Diferencial: diarrea secretora tiene <b>gap fecal menor de 50</b> y no cede con ayuno.</li><li>Trampa de examen: el gap fecal &lt;50 no descarta osmótica si hay ingesta reciente de solutos; repetir tras ayuno.</li><li>pH fecal ácido y sustancias reductoras positivas sugieren malabsorción de carbohidratos.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Causas de diarrea secretora vs. osmótica",
-      "title": "Diarrea secretora y osmótica",
-      "contentHtml": "<h2>Diarrea secretora vs. osmótica</h2><ul><li><b>Diarrea secretora</b>: causada por toxinas bacterianas (Vibrio cholerae, Escherichia coli enterotoxigénica), hormonas (VIPoma) o ácidos biliares; persiste en ayuno; volumen fecal &gt;1 L/día; sin brecha osmótica.</li><li><b>Diarrea osmótica</b>: por solutos no absorbidos (lactosa en déficit de lactasa, laxantes, sorbitol); cesa con el ayuno; brecha osmótica fecal &gt;100 mOsm/kg.</li><li>Dato clave: medir <b>osmolaridad fecal</b> y electrolitos fecales para diferenciar: secretora (Na+K &times;2 ≈ osmolaridad fecal); osmótica (Na+K &times;2 &lt; osmolaridad fecal).</li></ul>"
+      "foco": "Diarrea secretora: gap fecal menor de 50",
+      "title": "Diarrea secretora y gap fecal",
+      "contentHtml": "<h2>Diarrea secretora</h2><ul><li><b>Gap fecal menor de 50</b> es típico de diarrea secretora; el cálculo usa <b>gap fecal = 290 − 2 × (sodio fecal + potasio fecal)</b>.</li><li>Fisiopatología: secreción activa de electrolitos y agua; persiste en ayuno y suele ser voluminosa.</li><li>Causas: toxinas bacterianas (cólera), hormonas (gastrina, péptido intestinal vasoactivo), laxantes estimulantes.</li><li>Diferencial: diarrea osmótica tiene <b>gap fecal mayor de 100</b> y mejora con ayuno.</li><li>Trampa: el gap fecal &lt;50 también puede verse en diarrea inflamatoria; correlacionar con sangre y leucocitos fecales.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Brecha osmótica fecal en diarrea osmótica",
-      "title": "Brecha osmótica fecal",
-      "contentHtml": "<h2>Brecha osmótica fecal</h2><ul><li><b>Brecha osmótica fecal</b> = osmolaridad fecal medida – [2 &times; (Na fecal + K fecal)].</li><li>Valor normal: &lt;50 mOsm/kg. En <b>diarrea osmótica</b>: &gt;100 mOsm/kg, por presencia de solutos no medidos (carbohidratos, magnesio).</li><li>En <b>diarrea secretora</b>: brecha &lt;50 mOsm/kg, porque la osmolaridad fecal se explica casi totalmente por electrolitos.</li><li>Trampa: si la osmolaridad fecal se calcula (no se mide), asumir 290 mOsm/kg; pero la medición directa es más precisa.</li></ul>"
+      "foco": "Criterios de deshidratación leve, moderada y grave",
+      "title": "Clasificación clínica de deshidratación",
+      "contentHtml": "<h2>Criterios de deshidratación</h2><ul><li><b>Leve</b>: sed, mucosa oral algo seca, sin alteración hemodinámica; pérdida &lt;5% del peso en niños.</li><li><b>Moderada</b>: sed intensa, ojos hundidos, pliegue cutáneo lento, taquicardia; pérdida 5–10%.</li><li><b>Grave</b>: letargo, pulso débil, llenado capilar &gt;3 segundos, hipotensión, pliegue cutáneo muy lento; pérdida &gt;10%.</li><li>En adultos, usar sed, presión arterial, frecuencia cardíaca y diuresis; en lactantes, fontanela hundida y llanto sin lágrimas.</li><li>Trampa: la gravedad se define por signos clínicos, no solo por electrolitos.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Rehidratación oral con SRO de baja osmolaridad",
-      "title": "SRO de baja osmolaridad",
-      "contentHtml": "<h2>Rehidratación oral con SRO de baja osmolaridad</h2><ul><li>La <b>solución de rehidratación oral de baja osmolaridad</b> (OMS 2002) tiene: glucosa 75 mmol/L, sodio 75 mEq/L, osmolaridad total 245 mOsm/L.</li><li>Ventaja: reduce la necesidad de líquidos intravenosos y la incidencia de íleo paralítico frente a SRO estándar (311 mOsm/L).</li><li>Indicada en deshidratación leve-moderada por diarrea aguda de cualquier causa, incluido cólera.</li><li>Dosis: 50-100 mL/kg en 4 horas para deshidratación moderada; administrar en pequeñas tomas frecuentes.</li></ul>"
+      "foco": "Plan A, B y C de la OMS según deshidratación",
+      "title": "Planes A, B y C de la Organización Mundial de la Salud",
+      "contentHtml": "<h2>Planes de hidratación de la Organización Mundial de la Salud</h2><ul><li><b>Plan A</b>: sin deshidratación; sales de rehidratación oral en casa tras cada deposición y alimentación continua.</li><li><b>Plan B</b>: deshidratación leve-moderada; sales de rehidratación oral supervisadas 50–100 mL/kg en 4 horas y reevaluación.</li><li><b>Plan C</b>: deshidratación grave; líquidos intravenosos inmediatos (solución salina isotónica o Ringer lactato) y reevaluación frecuente.</li><li>Trampa: el Plan B no usa líquidos intravenosos de rutina; el Plan C exige vía intravenosa y monitorización.</li><li>Clasificar antes de elegir plan; reevaluar tras cada fase.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Plan A, B y C de la OMS para deshidratación",
-      "title": "Planes OMS de rehidratación",
-      "contentHtml": "<h2>Plan A, B y C de la OMS</h2><ul><li><b>Plan A</b> (sin deshidratación): en casa, SRO de baja osmolaridad a demanda, continuar alimentación, zinc 20 mg/día (10 mg en &lt;6 meses) por 10-14 días.</li><li><b>Plan B</b> (deshidratación moderada): SRO de baja osmolaridad 75 mL/kg en 4 horas, en centro de salud; reevaluar cada 1-2 horas.</li><li><b>Plan C</b> (deshidratación grave): líquidos intravenosos inmediatos (Ringer lactato o solución salina 0.9%), 100 mL/kg en 3 horas (30 mL/kg en primera hora, 70 mL/kg en 2.5 horas restantes).</li></ul>"
+      "foco": "Signo del pliegue cutáneo en deshidratación grave",
+      "title": "Pliegue cutáneo y gravedad",
+      "contentHtml": "<h2>Signo del pliegue cutáneo</h2><ul><li><b>Pliegue cutáneo muy lento</b> (retracción &gt;2 segundos) es signo de deshidratación grave en lactantes y ancianos.</li><li>Técnica: pellizcar piel abdominal o en cara interna del muslo y soltar; medir tiempo de retorno.</li><li>En deshidratación moderada el pliegue es lento pero no tan prolongado; en leve suele ser normal.</li><li>Confusores: desnutrición, edema y elasticidad cutánea reducida por edad pueden alterar el signo.</li><li>Trampa: no usar el pliegue aislado; integrarlo con pulso, llenado capilar y estado mental.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Signos de deshidratación grave en niños",
-      "title": "Signos de gravedad en niños",
-      "contentHtml": "<h2>Signos de deshidratación grave en niños</h2><ul><li>Según la OMS: dos de los siguientes signos = deshidratación grave: <b>letargo o inconsciencia</b>, <b>ojos hundidos</b>, <b>pliegue cutáneo que vuelve muy lentamente (&gt;2 segundos)</b>, <b>no puede beber o bebe mal</b>.</li><li>Adicional: taquicardia, relleno capilar &gt;3 segundos, respiración acidótica (Kussmaul), extremidades frías.</li><li><b>Signo del pliegue</b>: en niños &lt;1 año, la pérdida de turgencia es tardía; usar otros signos combinados.</li></ul>"
+      "foco": "Reposición con SRO: sodio 75 mEq/L",
+      "title": "Sales de rehidratación oral",
+      "contentHtml": "<h2>Sales de rehidratación oral</h2><ul><li><b>Sodio 75 mEq/L</b> es la concentración de la fórmula estándar de sales de rehidratación oral de la Organización Mundial de la Salud para diarrea aguda.</li><li>Composición típica: glucosa 75 mmol/L, potasio 20 mEq/L, cloro 65 mEq/L y citrato 10 mmol/L.</li><li>Mecanismo: cotransporte sodio-glucosa acoplado conserva agua y electrolitos.</li><li>Indicación: deshidratación leve-moderada (Plan B) y prevención en Plan A.</li><li>Trampa: soluciones caseras con sodio &lt;75 mEq/L no rehidratan igual; evitar bebidas deportivas como sustituto.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Pérdida de peso como criterio de severidad",
-      "title": "Pérdida de peso y severidad",
-      "contentHtml": "<h2>Pérdida de peso como criterio de severidad</h2><ul><li>La <b>pérdida de peso</b> es el estándar de oro para clasificar deshidratación: leve (&lt;3-5%), moderada (5-9%), grave (&gt;9-10%).</li><li>En niños, pérdida de peso aguda &gt;10% indica deshidratación grave con riesgo de shock.</li><li>Trampa: la pérdida de peso debe ser sobre el peso previo conocido; si no hay registro, usar signos clínicos combinados (escala de <b>Gorelick</b> o <b>WHO Integrated Management of Childhood Illness</b>).</li></ul>"
+      "foco": "Diarrea invasiva: leucocitos fecales y sangre",
+      "title": "Diarrea invasiva",
+      "contentHtml": "<h2>Diarrea invasiva</h2><ul><li><b>Leucocitos fecales</b> y <b>sangre</b> en heces orientan a invasión de la mucosa por bacterias enteroinvasivas.</li><li>Causas: Shigella, Salmonella, Campylobacter, Escherichia coli enteroinvasiva y amebiasis.</li><li>Diferencial: diarrea secretora suele tener heces sin sangre ni leucocitos.</li><li>Estudio: coprocultivo y pruebas moleculares según epidemiología; lactoferrina fecal como marcador de inflamación.</li><li>Trampa: la presencia de sangre no siempre implica bacteria; considerar amebiasis y enfermedad inflamatoria intestinal.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Zinc en diarrea aguda reduce duración y severidad",
-      "title": "Zinc en diarrea aguda",
-      "contentHtml": "<h2>Zinc en diarrea aguda</h2><ul><li>La <b>suplementación con zinc</b> (20 mg/día en niños &gt;6 meses; 10 mg/día en &lt;6 meses, por 10-14 días) reduce la duración de la diarrea en ~25% y la gravedad (menor frecuencia de deposiciones).</li><li>Mecanismo: mejora la absorción intestinal de agua y electrolitos, y acorta la fase de recuperación del enterocito.</li><li>Recomendado por OMS y UNICEF como parte del <b>Plan A</b> en toda diarrea aguda, independientemente de la causa.</li><li>Trampa: no iniciar en menores de 2 meses sin evidencia de deficiencia; no reemplaza la rehidratación oral.</li></ul>"
+      "foco": "Shigella: disentería y convulsiones",
+      "title": "Shigella",
+      "contentHtml": "<h2>Shigella</h2><ul><li><b>Disentería</b> con fiebre, dolor abdominal y tenesmo es el cuadro típico; puede complicarse con <b>convulsiones</b> por neurotoxicidad.</li><li>Fisiopatología: invasión y destrucción de colon; toxina Shiga en Shigella dysenteriae tipo 1.</li><li>Tratamiento: ciprofloxacino o azitromicina según resistencia; evitar antidiarreicos que enlentecen el tránsito.</li><li>Complicaciones: síndrome hemolítico urémico, megacolon tóxico y deshidratación grave.</li><li>Trampa: las convulsiones pueden preceder a la diarrea; no confundir con epilepsia.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Indicaciones de líquidos intravenosos en deshidratación",
-      "title": "Líquidos intravenosos: cuándo",
-      "contentHtml": "<h2>Indicaciones de líquidos intravenosos en deshidratación</h2><ul><li><b>Indicaciones absolutas</b>: deshidratación grave (Plan C), shock hipovolémico, fracaso de rehidratación oral (vómitos incoercibles, distensión abdominal), íleo paralítico, alteración del estado de conciencia.</li><li>Primera elección: <b>Ringer lactato</b> o solución salina 0.9%; en cólera, preferir Ringer lactato por su composición electrolítica más cercana a las pérdidas.</li><li>Velocidad: en shock, bolo de 20 mL/kg en 15-30 minutos, repetir si es necesario hasta restaurar perfusión.</li></ul>"
+      "foco": "Cólera: diarrea en agua de arroz",
+      "title": "Cólera",
+      "contentHtml": "<h2>Cólera</h2><ul><li><b>Diarrea en agua de arroz</b> es el signo clásico; heces líquidas, incoloras, sin sangre ni leucocitos.</li><li>Fisiopatología: toxina del cólera activa adenilato ciclasa y aumenta secreción de cloro y agua.</li><li>Riesgo: deshidratación grave e hipovolemia en horas; tratar con Plan C y sales de rehidratación oral complementarias.</li><li>Diagnóstico: cultivo en medio TCBS o pruebas rápidas; notificación epidemiológica obligatoria.</li><li>Trampa: el cólera no suele dar fiebre alta ni disentería; la clave es el volumen y la rapidez de la pérdida.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Algoritmo de rehidratación en cólera",
-      "title": "Rehidratación en cólera",
-      "contentHtml": "<h2>Algoritmo de rehidratación en cólera</h2><ul><li>Evaluar deshidratación: si grave, <b>Plan C</b>: Ringer lactato IV 100 mL/kg en 3 horas (niños) o 100 mL/kg en 2-4 horas (adultos).</li><li>Si moderada, <b>Plan B</b> con SRO de baja osmolaridad: 75 mL/kg en 4 horas; monitorizar gasto fecal.</li><li>Una vez hidratado, pasar a <b>Plan A</b> (mantenimiento con SRO según pérdidas continuas).</li><li>Antibiótico en <b>cólera grave</b>: doxiciclina 300 mg dosis única (adultos) o azitromicina 1 g dosis única (embarazadas, niños).</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Hipoglucemia como complicación en diarrea severa",
-      "title": "Hipoglucemia en diarrea severa",
-      "contentHtml": "<h2>Hipoglucemia como complicación</h2><ul><li>La <b>hipoglucemia</b> (glucosa &lt;54 mg/dL) es una complicación grave en diarrea severa, especialmente en niños desnutridos o con ayuno prolongado.</li><li>Mecanismo: depleción de glucógeno hepático por disminución de ingesta y aumento del consumo metabólico.</li><li>Manejo: si el niño está consciente, administrar <b>solución glucosada al 10%</b> 2 mL/kg IV o vía oral (si puede tragar); si hay convulsiones o coma, 1 mL/kg de glucosa al 25% IV.</li><li>Trampa: siempre medir glucosa capilar en todo niño con deshidratación grave o letargo.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Antibióticos solo en diarrea disentérica o cólera grave",
-      "title": "Antibióticos en diarrea: indicaciones",
-      "contentHtml": "<h2>Antibióticos solo en diarrea disentérica o cólera grave</h2><ul><li>En diarrea aguda acuosa, los antibióticos NO están indicados (la mayoría es viral o autolimitada); solo en <b>cólera grave</b> (reducción de volumen y duración) y <b>disentería</b> (sangre en heces, fiebre, tenesmo).</li><li>En disentería por Shigella: <b>ciprofloxacino</b> 15 mg/kg/día cada 12 horas por 3-5 días o azitromicina si resistencia.</li><li>En cólera grave: doxiciclina 300 mg dosis única (adultos) o azitromicina 1 g dosis única.</li><li>Trampa: en diarrea por <i>Escherichia coli</i> enterohemorrágica (O157:H7) los antibióticos aumentan riesgo de síndrome urémico hemolítico; contraindicados.</li></ul>"
+      "foco": "Rotavirus: diarrea acuosa en lactantes",
+      "title": "Rotavirus",
+      "contentHtml": "<h2>Rotavirus</h2><ul><li><b>Diarrea acuosa en lactantes</b> con vómitos y fiebre baja es el patrón típico; afecta principalmente a menores de 2 años.</li><li>Fisiopatología: daño de enterocitos maduros y malabsorción; puede haber intolerancia transitoria a la lactosa.</li><li>Diagnóstico: clínico; pruebas de antígeno en heces si se requiere confirmación.</li><li>Prevención: vacunación oral en lactantes; hidratación con sales de rehidratación oral.</li><li>Trampa: no usar antidiarreicos en lactantes; vigilar deshidratación y signos de alarma.</li></ul>"
     }
   ]
 }

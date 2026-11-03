@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Toxina TSST-1 y síndrome de shock tóxico",
-      "title": "TSST-1 y SST estafilocócico",
-      "contentHtml": "<h2>TSST-1 y SST estafilocócico</h2><p>La <b>toxina TSST-1</b> (superantígeno) activa policlonalmente linfocitos T CD4+ liberando torrentes de citocinas (IL-2, TNF-α). Criterios diagnósticos de <b>síndrome de shock tóxico estafilocócico</b>: fiebre ≥38.9°C, rash difuso eritrodérmico, hipotensión (presión arterial sistólica ≤90 mmHg), descamación tardía (1-2 semanas), y afectación ≥3 órganos (mucosas, gastrointestinal, muscular, renal, hepático, hematológico, SNC). Trampa: hemocultivos positivos solo en ~5% (<b>TSST-1</b> actúa localmente). Tratamiento: drenaje del foco, clindamicina (bloquea síntesis de toxina) + vancomicina. Glosario: <b>Superantígeno:</b> toxina que activa hasta 20% de linfocitos T sin procesamiento antigénico.</p>"
+      "foco": "Cocos grampositivos en racimos, catalasa positivos",
+      "title": "Identificación microbiológica básica",
+      "contentHtml": "<h2>Cocos grampositivos en racimos, catalasa positivos</h2><ul><li><b>Morfología:</b> cocos grampositivos en racimos (agrupaciones tipo uva), no formadores de esporas, inmóviles.</li><li><b>Catalasa positiva:</b> diferencia <i>Staphylococcus</i> de <i>Streptococcus</i> (catalasa negativa). Prueba con peróxido de hidrógeno al 3%: burbujeo = positivo.</li><li><b>Medio selectivo:</b> agar sal manitol (crecimiento en 7.5% NaCl); <i>S. aureus</i> fermenta manitol (colonias amarillas).</li><li><b>Trampa de examen:</b> racimos en racimo de uvas + catalasa positiva = <i>Staphylococcus</i>; la especie se confirma con coagulasa.</li><li><b>Hallazgo clave:</b> tinción de Gram de muestra clínica con cocos grampositivos en racimos orienta a estafilococo antes del cultivo.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Enterotoxinas estafilocócicas y intoxicación alimentaria",
-      "title": "Enterotoxinas e intoxicación alimentaria",
-      "contentHtml": "<h2>Enterotoxinas e intoxicación alimentaria</h2><p>Las <b>enterotoxinas estafilocócicas</b> (SEA-SEE) son termoestables (resisten ebullición) y actúan como superantígenos eméticos. Periodo de incubación corto: 1-6 horas tras ingesta. Clínica: náuseas, vómitos explosivos, diarrea acuosa, sin fiebre. Trampa: el alimento contaminado suele ser mayonesa, cremas, carnes frías; el manipulador portador nasal (<b>S. aureus</b>) es la fuente. Diagnóstico: clínico, confirmación con cultivo de alimento o vómito (>10⁵ UFC/g). Tratamiento: soporte con rehidratación; no usar antibióticos (autolimitado). Glosario: <b>Termoestable:</b> toxina que no se inactiva por calor de cocción.</p>"
+      "foco": "Coagulasa positiva: diferencia S. aureus de estafilococos coagulasa negativos",
+      "title": "Coagulasa: prueba clave de especie",
+      "contentHtml": "<h2>Coagulasa positiva</h2><ul><li><b>Prueba de coagulasa:</b> <i>S. aureus</i> es coagulasa positiva; los estafilococos coagulasa negativos (p. ej. <i>S. epidermidis</i>, <i>S. saprophyticus</i>) son negativos.</li><li><b>Tipos:</b> coagulasa ligada (clumping factor, en pared) y coagulasa libre (tubo). El test en tubo con plasma de conejo: coagulación en 4 horas = positivo.</li><li><b>Relevancia clínica:</b> coagulasa positiva se asocia a mayor virulencia (evasión de fagocitosis, formación de abscesos).</li><li><b>Diferencial:</b> <i>S. saprophyticus</i> coagulasa negativo, novobiocina resistente, causa infección urinaria en mujeres jóvenes.</li><li><b>Trampa:</b> no confundir coagulasa con catalasa; ambas positivas en <i>S. aureus</i>, pero solo coagulasa distingue especie.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Exfoliatinas A y B en síndrome de piel escaldada",
-      "title": "Exfoliatinas en SSSS",
-      "contentHtml": "<h2>Exfoliatinas en SSSS</h2><p>Las <b>exfoliatinas A y B</b> (ETA, ETB) son serina-proteasas que rompen la desmogleína-1 (cadherina del estrato granuloso), causando ampollas intraepidérmicas. Afecta a neonatos y niños &lt;5 años (inmadurez renal para eliminar toxina). Clínica: eritema perioral, flictenas con signo de Nikolsky positivo, descamación laminar. Trampa: el cultivo de la ampolla es estéril (toxina hematógena); el foco primario suele ser nasofaríngeo. Diagnóstico diferencial con síndrome de Stevens-Johnson (necrosis full-thickness). Tratamiento: cloxacilina intravenosa + soporte hidroelectrolítico. Glosario: <b>Signo de Nikolsky:</b> desprendimiento epidérmico al frotar la piel.</p>"
+      "foco": "Colonización nasal: principal reservorio y fuente de infección",
+      "title": "Reservorio nasal y transmisión",
+      "contentHtml": "<h2>Colonización nasal</h2><ul><li><b>Reservorio principal:</b> fosas nasales anteriores; colonización en ~20-30% de población general (portadores persistentes).</li><li><b>Otras localizaciones:</b> axilas, perineo, garganta, manos; la colonización cutánea suele derivar de la nasal.</li><li><b>Fuente de infección:</b> la cepa colonizante suele ser la misma que causa infección posterior (autoinoculación).</li><li><b>Factores de riesgo:</b> hospitalización, hemodiálisis, dispositivos intravasculares, diabetes mellitus, uso previo de antibióticos.</li><li><b>Descolonización:</b> mupirocina nasal + baños con clorhexidina en portadores seleccionados (cirugía protésica, unidades de cuidados intensivos).</li><li><b>Trampa:</b> el reservorio nasal explica bacteriemias por <i>S. aureus</i> sin foco aparente.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Leucocidina Panton-Valentine y neumonía necrosante",
-      "title": "PVL y neumonía necrosante",
-      "contentHtml": "<h2>PVL y neumonía necrosante</h2><p>La <b>leucocidina Panton-Valentine</b> (PVL) es una toxina bicomponente (LukS-PV y LukF-PV) que forma poros en neutrófilos, macrófagos y monocitos, causando lisis celular y necrosis. Asociada a neumonía necrosante grave en jóvenes inmunocompetentes post-gripe. Clínica: hemoptisis, leucopenia, shock, cavitación rápida en TAC. Trampa: <b>PVL</b> es marcador de <b>Staphylococcus aureus resistente a meticilina comunitario</b> (Staphylococcus aureus resistente a meticilina-C) pero no es el único factor de virulencia. Tratamiento: linezolid (inhibe síntesis de toxina) + clindamicina; evitar β-lactámicos si cepa resistente. Glosario: <b>Bicomponente:</b> toxina que requiere dos subunidades (S y F) para formar el poro.</p>"
+      "foco": "Toxina exfoliativa: síndrome de piel escaldada estafilocócica",
+      "title": "Síndrome de piel escaldada",
+      "contentHtml": "<h2>Toxina exfoliativa</h2><ul><li><b>Mecanismo:</b> toxinas exfoliativas A y B (serotipos fágicos II) actúan sobre desmogleína 1 en <i>stratum granulosum</i>, causando separación intraepidérmica.</li><li><b>Clínica:</b> lactantes y niños pequeños; fiebre, eritema difuso, ampollas flácidas, desprendimiento en grandes láminas; signo de Nikolsky positivo.</li><li><b>Diferencial:</b> síndrome de shock tóxico (toxina TSST-1, afectación multisistémica), impétigo ampolloso (toxina exfoliativa localizada).</li><li><b>Mucosas:</b> respetadas (a diferencia del síndrome de Stevens-Johnson).</li><li><b>Tratamiento:</b> antibiótico antiestafilocócico (p. ej. cloxacilina o cefalosporina de primera generación) + soporte hidroelectrolítico y cuidados de piel.</li><li><b>Trampa:</b> el foco cutáneo puede no ser evidente; buscar colonización nasal o conjuntival.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Mecanismo de resistencia: gen mecA y PBP2a",
-      "title": "Gen mecA y PBP2a",
-      "contentHtml": "<h2>Gen mecA y PBP2a</h2><p>El <b>gen mecA</b> (cromosómico, en cassette SCCmec) codifica la <b>PBP2a</b> (proteína de unión a penicilina 2a), una transpeptidasa con baja afinidad por β-lactámicos. Esto confiere resistencia a todas las penicilinas, cefalosporinas (incluyendo cefoxitina) y carbapenémicos. Detección: cefoxitina disco (≤21 mm = Staphylococcus aureus resistente a meticilina) o PCR para <b>mecA</b>. Trampa: <b>S. aureus</b> resistente a meticilina (Staphylococcus aureus resistente a meticilina) es sinónimo de <b>mecA</b> positivo; existen cepas borderline (BORSA) con hiperproducción de β-lactamasa, pero no portan <b>mecA</b>. Glosario: <b>SCCmec:</b> elemento genético móvil que contiene <b>mecA</b> y genes de resistencia adicionales.</p>"
+      "foco": "TSST-1: síndrome de shock tóxico estafilocócico",
+      "title": "Shock tóxico por TSST-1",
+      "contentHtml": "<h2>TSST-1</h2><ul><li><b>Mecanismo:</b> toxina del síndrome de shock tóxico tipo 1 (TSST-1) actúa como superantígeno: activación policlonal de linfocitos T y liberación masiva de citocinas.</li><li><b>Clínica:</b> fiebre &gt;38.9 °C, hipotensión, eritrodermia difusa, afectación multisistémica (gastrointestinal, muscular, renal, hepática, hematológica, sistema nervioso central).</li><li><b>Diferencial:</b> shock tóxico estreptocócico (toxina similar, foco cutáneo y mayor mortalidad), sepsis por otras causas.</li><li><b>Foco:</b> frecuente en tampones vaginales, heridas quirúrgicas, abscesos; retirar el foco (tampón, drenaje).</li><li><b>Tratamiento:</b> soporte hemodinámico, antibiótico antiestafilocócico (cloxacilina o vancomicina si resistencia) y drenaje del foco.</li><li><b>Trampa:</b> los cultivos pueden ser negativos en el foco; el diagnóstico es clínico-epidemiológico.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Staphylococcus aureus resistente a meticilina comunitario vs. nosocomial (diferencias clave)",
-      "title": "Staphylococcus aureus resistente a meticilina-C vs. Staphylococcus aureus resistente a meticilina-H",
-      "contentHtml": "<h2>Staphylococcus aureus resistente a meticilina-C vs. Staphylococcus aureus resistente a meticilina-H</h2><p><b>Staphylococcus aureus resistente a meticilina comunitario</b> (Staphylococcus aureus resistente a meticilina-C): gen <b>SCCmec tipo IV o V</b>, portador de <b>PVL</b> y exotoxinas; sensible a clindamicina, trimetoprim-sulfametoxazol y tetraciclinas; infecciones en piel y partes blandas (forúnculos, abscesos) y neumonía necrosante. <b>Staphylococcus aureus resistente a meticilina nosocomial</b> (Staphylococcus aureus resistente a meticilina-H): <b>SCCmec tipo I-III</b>, multirresistente (aminoglucósidos, macrólidos, fluoroquinolonas); asociado a infecciones de herida quirúrgica, catéter y neumonía asociada a ventilador. Trampa: Staphylococcus aureus resistente a meticilina-C puede causar infecciones intrahospitalarias; se distingue por perfil de resistencia y genotipo. Tratamiento Staphylococcus aureus resistente a meticilina-C: TMP-SMX o clindamicina oral; Staphylococcus aureus resistente a meticilina-H: vancomicina o linezolid.</p>"
+      "foco": "Enterotoxinas termoestables: intoxicación alimentaria rápida",
+      "title": "Intoxicación alimentaria estafilocócica",
+      "contentHtml": "<h2>Enterotoxinas termoestables</h2><ul><li><b>Mecanismo:</b> enterotoxinas A-E (superantígenos) preformadas en el alimento; resisten ebullición 30 minutos y pH gástrico.</li><li><b>Clínica:</b> inicio rápido (1-6 horas tras ingesta), náuseas, vómitos intensos, dolor abdominal, diarrea; sin fiebre.</li><li><b>Duración:</b> autolimitada en 24-48 horas; el tratamiento es sintomático (hidratación).</li><li><b>Alimentos implicados:</b> mayonesa, cremas, jamón, productos lácteos manipulados y mantenidos a temperatura ambiente.</li><li><b>Diferencial:</b> intoxicación por <i>Bacillus cereus</i> (vómitos en 1-6 horas), <i>Clostridium perfringens</i> (diarrea en 8-16 horas).</li><li><b>Trampa:</b> no requiere antibiótico; los cultivos del paciente suelen ser negativos.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Factores de virulencia: coagulasa y proteína A",
-      "title": "Coagulasa y proteína A",
-      "contentHtml": "<h2>Coagulasa y proteína A</h2><p>La <b>coagulasa</b> (enzima libre y unida a superficie) convierte fibrinógeno en fibrina, formando un coágulo que protege al estafilococo de fagocitosis. Es el marcador clásico para identificar <b>S. aureus</b> (coagulasa-positivo). La <b>proteína A</b> (SpA) se une al fragmento Fc de IgG, bloqueando opsonización y fagocitosis. Trampa: la prueba de coagulasa en tubo (libre) es más sensible que la de portaobjetos (unida). Además, <b>proteína A</b> interfiere con aglutinación en pruebas de identificación rápida. Glosario: <b>Opsonización:</b> recubrimiento bacteriano con anticuerpos o complemento para facilitar fagocitosis.</p>"
+      "foco": "Hemolisina alfa y leucocidina Panton-Valentine: virulencia",
+      "title": "Factores de virulencia",
+      "contentHtml": "<h2>Hemolisina alfa y leucocidina Panton-Valentine</h2><ul><li><b>Hemolisina alfa:</b> toxina formadora de poros en membranas; lisa eritrocitos, plaquetas y monocitos; contribuye a daño tisular y necrosis.</li><li><b>Leucocidina Panton-Valentine:</b> toxina bicomponente que lisa leucocitos (neutrófilos y macrófagos); asociada a infecciones cutáneas graves, neumonía necrotizante y abscesos recurrentes.</li><li><b>Genética:</b> la leucocidina Panton-Valentine se codifica en genes lukS-PV y lukF-PV, frecuentes en cepas de <i>S. aureus</i> resistente a meticilina adquirido en la comunidad.</li><li><b>Clínica:</b> infecciones de piel y tejidos blandos, neumonía postgripal grave, osteomielitis.</li><li><b>Trampa:</b> la presencia de leucocidina Panton-Valentine no confiere resistencia antibiótica; es un marcador de virulencia.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Tratamiento de Staphylococcus aureus resistente a meticilina: vancomicina o linezolid",
-      "title": "Vancomicina vs. linezolid en Staphylococcus aureus resistente a meticilina",
-      "contentHtml": "<h2>Vancomicina vs. linezolid en Staphylococcus aureus resistente a meticilina</h2><p><b>Vancomicina</b>: glicopéptido, dosis 15-20 mg/kg/dosis intravenosa cada 8-12h (monitorizar valle 15-20 µg/mL). Indicada en bacteriemia, endocarditis, neumonía grave. Trampa: CIM creciente (VISA, VRSA) y pobre penetración pulmonar. <b>Linezolid</b>: oxazolidinona, 600 mg por vía intravenosa/PO cada 12h; 100% biodisponible oral, activo contra Staphylococcus aureus resistente a meticilina y excelente penetración en pulmón y SNC. Indicado en neumonía nosocomial y infecciones de piel. Efecto adverso: trombocitopenia reversible (&gt;2 semanas). Glosario: <b>CIM:</b> concentración inhibitoria mínima; VISA: <b>S. aureus</b> con sensibilidad intermedia a vancomicina (CIM 4-8 µg/mL).</p>"
+      "foco": "SARM: resistencia a meticilina por gen mecA (PBP2a)",
+      "title": "Resistencia a meticilina",
+      "contentHtml": "<h2>SARM: gen mecA y PBP2a</h2><ul><li><b>Mecanismo:</b> gen <i>mecA</i> codifica la proteína fijadora de penicilina 2a (PBP2a), con baja afinidad por betalactámicos.</li><li><b>Consecuencia:</b> resistencia a meticilina, oxacilina, cloxacilina y cefalosporinas; el antibiótico de elección es vancomicina (o linezolid/daptomicina según foco).</li><li><b>Detección:</b> difusión en disco con cefoxitina, prueba de PBP2a o reacción en cadena de la polimerasa para <i>mecA</i>.</li><li><b>Epidemiología:</b> <i>S. aureus</i> resistente a meticilina adquirido en hospital versus adquirido en la comunidad (este último suele ser susceptible a otros grupos).</li><li><b>Trampa:</b> la resistencia a meticilina no implica resistencia a vancomicina; vigilar concentración inhibitoria mínima.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Portación nasal y descolonización con mupirocina",
-      "title": "Portación nasal y mupirocina",
-      "contentHtml": "<h2>Portación nasal y mupirocina</h2><p>La portación nasal de <b>S. aureus</b> (30-50% de la población) es el principal reservorio para infecciones endógenas. La descolonización con <b>mupirocina</b> (pomada nasal 2% cada 12h por 5 días) reduce el riesgo de infección en hemodiálisis, cirugía cardiaca y ortopédica. Trampa: resistencia a <b>mupirocina</b> (gen mupA) en uso prolongado; alternativa: retapamulina o clorhexidina tópica. Indicación ENARM: descolonizar en pacientes con infecciones recurrentes por Staphylococcus aureus resistente a meticilina o antes de cirugía de alto riesgo. Glosario: <b>Descolonización:</b> erradicación del estado de portador para prevenir infecciones autólogas.</p>"
+      "foco": "Endocarditis derecha en usuarios de drogas IV",
+      "title": "Endocarditis derecha",
+      "contentHtml": "<h2>Endocarditis derecha en usuarios de drogas intravenosas</h2><ul><li><b>Localización:</b> válvula tricúspide; <i>S. aureus</i> es la causa más frecuente en usuarios de drogas intravenosas.</li><li><b>Clínica:</b> fiebre, bacteriemia persistente, embolias pulmonares sépticas (infiltrados, abscesos, derrame pleural).</li><li><b>Ecocardiograma:</b> vegetación tricuspídea; el ecocardiograma transesofágico es más sensible que el transtorácico.</li><li><b>Criterios:</b> Duke modificados (hemocultivos positivos, evidencia de afectación endocárdica).</li><li><b>Tratamiento:</b> antibiótico intravenoso prolongado (p. ej. cloxacilina o vancomicina 4-6 semanas); cirugía si vegetación grande o fallo de tratamiento.</li><li><b>Trampa:</b> la endocarditis derecha puede no producir soplos; buscar embolias pulmonares.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Síndrome de shock tóxico estafilocócico (fiebre, rash, hipotensión)",
-      "title": "SST estafilocócico: criterios",
-      "contentHtml": "<h2>SST estafilocócico: criterios</h2><p>El <b>síndrome de shock tóxico estafilocócico</b> (SST) se define por: fiebre ≥38.9°C, rash eritrodérmico difuso, hipotensión (presión arterial sistólica ≤90 mmHg o caída ≥15 mmHg ortostática), descamación tardía (1-2 semanas) y afectación ≥3 órganos: mucosas (hiperemia vaginal/oral), gastrointestinal (vómitos/diarrea), muscular (CPK &gt;2×), renal (Cr &gt;2×), hepático (BT/transaminasas &gt;2×), hematológico (plaquetas &lt;100.000), SNC (confusión). Trampa: descartar shock séptico por Gram negativos; hemocultivos negativos no excluyen. Tratamiento: clindamicina 600 mg por vía intravenosa cada 8h + vancomicina + drenaje del foco.</p>"
-    },
-    {
-      "order": 11,
-      "foco": "Endocarditis aguda por S. aureus en válvulas nativas",
-      "title": "Endocarditis aguda por S. aureus",
-      "contentHtml": "<h2>Endocarditis aguda por S. aureus</h2><p><b>S. aureus</b> causa endocarditis aguda destructiva en válvulas nativas (especialmente tricúspide en UDIV) con vegetaciones grandes y abscesos perivalvulares. Criterios de Duke modificados: 2 mayores o 1 mayor+3 menores o 5 menores. Mayor: hemocultivo positivo para <b>S. aureus</b> (típico), ecocardiograma con vegetación, absceso o dehiscencia valvular. Trampa: <b>S. aureus</b> es la causa más frecuente de endocarditis aguda con embolización séptica. Tratamiento: cloxacilina 2 g intravenosa cada 4h (si sensible) o vancomicina (si Staphylococcus aureus resistente a meticilina) + gentamicina 3 mg/kg/día (sinergia). Duración: 4-6 semanas. Glosario: <b>Vegetación:</b> masa adherida a válvula compuesta por fibrina, plaquetas y bacterias.</p>"
-    },
-    {
-      "order": 12,
-      "foco": "Infecciones osteoarticulares: osteomielitis y artritis séptica",
-      "title": "Osteomielitis y artritis séptica",
-      "contentHtml": "<h2>Osteomielitis y artritis séptica</h2><p><b>S. aureus</b> es el principal agente de osteomielitis hematógena en niños (metáfisis de huesos largos) y de artritis séptica en todas las edades. Clínica: dolor, fiebre, impotencia funcional. Diagnóstico: cultivo óseo o articular (gold standard); RNM con realce de médula ósea. Artritis séptica: líquido sinovial con leucocitos &gt;50.000/mm³ (predominio PMN), glucosa &lt;40 mg/dL. Trampa: <b>S. aureus</b> productor de biofilm dificulta erradicación. Tratamiento empírico: cloxacilina 2 g intravenosa cada 4h (o cefazolina) + clindamicina si sospecha Staphylococcus aureus resistente a meticilina; artritis séptica requiere drenaje urgente. Glosario: <b>Biofilm:</b> comunidad bacteriana encapsulada en matriz polimérica, resistente a antibióticos.</p>"
+      "foco": "Bacteriemia por S. aureus: siempre descartar endocarditis",
+      "title": "Bacteriemia y endocarditis",
+      "contentHtml": "<h2>Bacteriemia por <i>S. aureus</i></h2><ul><li><b>Regla:</b> toda bacteriemia por <i>S. aureus</i> exige descartar endocarditis, incluso sin soplos ni factores de riesgo evidentes.</li><li><b>Estudio:</b> ecocardiograma (transesofágico si alto riesgo o transtorácico no concluyente), hemocultivos de control y búsqueda de foco (catéter, piel, absceso).</li><li><b>Duración:</b> bacteriemia complicada (endocarditis, foco profundo) requiere 4-6 semanas de antibiótico intravenoso; no complicada, 2 semanas en casos seleccionados.</li><li><b>Factores de riesgo:</b> dispositivos intravasculares, hemodiálisis, inmunosupresión, usuarios de drogas intravenosas.</li><li><b>Trampa:</b> no atribuir la bacteriemia a contaminación; <i>S. aureus</i> es patógeno verdadero hasta demostrar lo contrario.</li></ul>"
     }
   ]
 }

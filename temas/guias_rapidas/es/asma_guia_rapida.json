@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Clasificación GINA de severidad",
-      "title": "Clasificación GINA de severidad",
-      "contentHtml": "<h2>Clasificación GINA de severidad</h2><ul><li>La <b>Iniciativa Global para el Asma (GINA)</b> clasifica la severidad en <b>intermitente</b>, <b>leve persistente</b>, <b>moderada persistente</b> y <b>grave persistente</b> según frecuencia de síntomas, despertares nocturnos, uso de agonistas beta2 de acción corta y limitación de actividad.</li><li>Asma <b>intermitente</b>: síntomas &lt;2 días/semana, despertares &lt;2/mes, volumen espiratorio forzado en el primer segundo (VEF1) ≥80% del predicho.</li><li>Asma <b>leve persistente</b>: síntomas &gt;2 pero &lt;diario, despertares 3-4/mes, VEF1 ≥80%.</li><li>Asma <b>moderada persistente</b>: síntomas diarios, despertares &gt;1/semana (no diarios), VEF1 60-80%.</li><li>Asma <b>grave persistente</b>: síntomas diarios, despertares nocturnos frecuentes, VEF1 &lt;60%.</li></ul>"
+      "foco": "Diagnóstico: espirometría con reversibilidad FEV1 ≥12% y 200 mL",
+      "title": "Diagnóstico espirométrico y reversibilidad",
+      "contentHtml": "<h2>Diagnóstico: espirometría con reversibilidad</h2><ul><li><b>Espirometría</b> obligatoria para confirmar: obstrucción si <b>FEV1/FVC &lt;0,70</b> posbroncodilatador.</li><li>Reversibilidad significativa: aumento del <b>FEV1 ≥12% y 200 mL</b> tras 400 µg de salbutamol (15-20 min).</li><li>Un <b>FEV1 ≥12% y 200 mL</b> apoya asma, pero su ausencia no la excluye (asma no reversible en el momento).</li><li>Trampa de examen: la reversibilidad se calcula sobre el valor basal, no sobre el predicho.</li><li>Prueba de broncoprovocación (metacolina) si espirometría normal y sospecha alta.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Triada de síntomas típicos",
-      "title": "Triada de síntomas típicos",
-      "contentHtml": "<h2>Triada de síntomas típicos</h2><ul><li>La tríada clásica del asma incluye <b>disnea</b>, <b>tos</b> (a veces como único síntoma, sobre todo nocturna) y <b>sibilancias</b>.</li><li>La <b>opresión torácica</b> es un síntoma frecuente pero no forma parte de la tríada clásica; puede acompañar a la disnea.</li><li>La tos suele ser <b>no productiva</b> o con escaso esputo mucoide; en exacerbaciones puede haber esputo purulento si hay infección.</li><li>Los síntomas son <b>variables</b> en el tiempo, empeoran con el ejercicio, alérgenos, aire frío o emociones.</li><li>En la exploración, las <b>sibilancias espiratorias</b> son el hallazgo más característico; su ausencia no descarta asma (p. ej., crisis muy grave con tórax silente).</li></ul>"
+      "foco": "Asma: inflamación crónica eosinofílica de vía aérea",
+      "title": "Fisiopatología: inflamación eosinofílica",
+      "contentHtml": "<h2>Asma: inflamación crónica eosinofílica</h2><ul><li>Inflamación crónica de la vía aérea con <b>eosinófilos</b>, linfocitos T helper 2, mastocitos y células epiteliales.</li><li>Consecuencias: broncoconstricción, edema, hipersecreción de moco y remodelado (engrosamiento de membrana basal, hipertrofia muscular lisa).</li><li>Hiperrespuesta bronquial a estímulos (alérgenos, ejercicio, frío, irritantes).</li><li>Clínica variable: sibilancias, disnea, opresión torácica y tos, típicamente nocturnas/ matutinas.</li><li>Trampa: el asma no es solo broncoespasmo; el componente inflamatorio justifica el corticoide inhalado.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Diagnóstico diferencial con EPOC",
-      "title": "Diagnóstico diferencial con EPOC",
-      "contentHtml": "<h2>Diagnóstico diferencial con EPOC</h2><ul><li>El asma suele iniciar en la <b>infancia/adolescencia</b>, mientras que la enfermedad pulmonar obstructiva crónica (EPOC) aparece en &gt;40 años con tabaquismo.</li><li>La <b>reversibilidad</b> es característica del asma (prueba broncodilatadora positiva con aumento del volumen espiratorio forzado en el primer segundo (VEF1) ≥12% y ≥200 ml); en EPOC la reversibilidad es menor.</li><li>En asma, la <b>variabilidad del pico flujo espiratorio</b> es &gt;20% en el día; en EPOC la variabilidad diurna es &lt;10%.</li><li>La <b>respuesta a corticoides inhalados</b> es excelente en asma; en EPOC, aunque útil, la respuesta es menos marcada.</li><li>La <b>difusión de monóxido de carbono (DLCO)</b> es normal o aumentada en asma, mientras que en EPOC suele estar reducida.</li></ul>"
+      "foco": "Controlador de elección: corticoide inhalado",
+      "title": "Controlador de primera línea",
+      "contentHtml": "<h2>Controlador de elección: corticoide inhalado</h2><ul><li>El <b>corticoide inhalado</b> es el controlador de elección en asma persistente (todos los escalones).</li><li>Reduce exacerbaciones, síntomas y mortalidad; no es rescate.</li><li>Rescate: agonista beta-2 de acción corta a demanda (salbutamol) o corticoide inhalado/formoterol según estrategia.</li><li>Dosis baja inicial: budesonida 200-400 µg/día o equivalente; ajustar por control.</li><li>Trampa: monoterapia con beta-2 de acción larga está contraindicada en asma (riesgo de muerte).</li><li>Lavar boca tras inhalar para prevenir candidiasis oral.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Prueba broncodilatadora positiva",
-      "title": "Prueba broncodilatadora positiva",
-      "contentHtml": "<h2>Prueba broncodilatadora positiva</h2><ul><li>Se realiza con <b>salbutamol</b> (400 mcg en inhalador de dosis medida o 2.5 mg nebulizado) midiendo el volumen espiratorio forzado en el primer segundo (VEF1) antes y 15-20 minutos después.</li><li>Se considera <b>prueba broncodilatadora positiva</b> cuando hay un incremento del VEF1 ≥<b>12%</b> y ≥<b>200 ml</b> respecto al valor basal.</li><li>Una respuesta positiva indica <b>reversibilidad</b> de la obstrucción y apoya el diagnóstico de asma.</li><li>La ausencia de respuesta no descarta asma, especialmente si el paciente está asintomático o con tratamiento de base.</li><li>En pacientes con volumen espiratorio forzado en el primer segundo (VEF1) muy bajo, la prueba puede ser poco fiable; se recomienda repetirla en otra ocasión.</li></ul>"
+      "foco": "Crisis grave: salbutamol + ipratropio + corticoide sistémico",
+      "title": "Tratamiento de crisis grave",
+      "contentHtml": "<h2>Crisis grave: salbutamol + ipratropio + corticoide sistémico</h2><ul><li>Primera línea: <b>salbutamol</b> inhalado (4-10 puff o nebulizado) repetido; añadir <b>ipratropio</b> en crisis grave.</li><li><b>Corticoide sistémico</b> precoz: prednisona 40-50 mg/día oral o metilprednisolona intravenosa 1 mg/kg.</li><li>Oxígeno para saturación 93-95%; considerar sulfato de magnesio intravenoso en crisis refractaria.</li><li>No sedantes; valorar intubación si agotamiento o alteración de conciencia.</li><li>Trampa: los antibióticos no son rutinarios salvo infección bacteriana demostrada.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Pico flujo espiratorio y variabilidad",
-      "title": "Pico flujo espiratorio y variabilidad",
-      "contentHtml": "<h2>Pico flujo espiratorio y variabilidad</h2><ul><li>El <b>pico flujo espiratorio (PFE)</b> mide la velocidad máxima de espiración forzada; se usa para monitorizar la variabilidad diurna.</li><li>Se mide con un <b>peak flow meter</b> por la mañana al despertar y por la noche; la variabilidad se calcula como (valor máximo - valor mínimo) / valor máximo × 100.</li><li>Una <b>variabilidad diurna &gt;20%</b> (en adultos) es indicativa de asma no controlada; valores &gt;30% sugieren exacerbación inminente.</li><li>En niños, una variabilidad &gt;13% se considera positiva.</li><li>El pico flujo espiratorio (PFE) personal (mejor valor del paciente) se usa como referencia; caídas &gt;20% del mejor valor indican empeoramiento.</li></ul>"
+      "foco": "Signos de gravedad: silencio auscultatorio y cianosis",
+      "title": "Signos de gravedad en crisis",
+      "contentHtml": "<h2>Signos de gravedad: silencio auscultatorio y cianosis</h2><ul><li><b>Silencio auscultatorio</b>: ausencia de sibilancias por flujo aéreo mínimo, signo de gravedad extrema.</li><li><b>Cianosis</b>: hipoxemia grave; indica crisis potencialmente mortal.</li><li>Otros: uso de músculos accesorios, tiraje, frecuencia respiratoria &gt;30/min, frecuencia cardíaca &gt;120/min, saturación &lt;90%, incapacidad para hablar, somnolencia, bradicardia o hipotensión.</li><li>El <b>silencio auscultatorio</b> y la <b>cianosis</b> son respuestas tipo examen de gravedad.</li><li>Trampa: la mejoría del sibilancio no siempre indica mejoría; puede empeorar el flujo.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Tratamiento escalonado por pasos",
-      "title": "Tratamiento escalonado por pasos",
-      "contentHtml": "<h2>Tratamiento escalonado por pasos</h2><ul><li>El <b>tratamiento escalonado</b> de la Iniciativa Global para el Asma (GINA) se basa en síntomas y riesgo de exacerbaciones; incluye 5 pasos.</li><li><b>Paso 1:</b> agonistas beta2 de acción corta a demanda (solo si síntomas &lt;2/semana, sin despertares nocturnos).</li><li><b>Paso 2:</b> corticoides inhalados en dosis baja + agonistas beta2 de acción corta a demanda.</li><li><b>Paso 3:</b> corticoides inhalados en dosis baja + agonistas beta2 de acción prolongada (LABA) de inicio rápido (p. ej., formoterol) como terapia de mantenimiento y alivio.</li><li><b>Paso 4:</b> corticoides inhalados en dosis media/alta + agonistas beta2 de acción prolongada (LABA).</li><li><b>Paso 5:</b> añadir anticolinérgicos de acción larga (tiotropio), biológicos (omalizumab, mepolizumab) o corticoides sistémicos en dosis baja.</li></ul>"
+      "foco": "Asma ocupacional: mejoría fuera del trabajo",
+      "title": "Asma ocupacional",
+      "contentHtml": "<h2>Asma ocupacional: mejoría fuera del trabajo</h2><ul><li>Sospecha: síntomas que mejoran los fines de semana, vacaciones o al cesar la exposición.</li><li>Diagnóstico: espirometría seriada en el trabajo y fuera de él; monitorización del flujo espiratorio máximo.</li><li>Agentes: isocianatos, harinas, látex, maderas, productos químicos.</li><li>Tratamiento: cesar la exposición; corticoide inhalado; declaración obligatoria según normativa.</li><li>Trampa: la mejoría fuera del trabajo es el dato clave, no la positividad de pruebas cutáneas aisladas.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Uso de corticoides inhalados",
-      "title": "Uso de corticoides inhalados",
-      "contentHtml": "<h2>Uso de corticoides inhalados</h2><ul><li>Los <b>corticoides inhalados</b> son la base del tratamiento de mantenimiento en asma persistente; reducen la inflamación eosinofílica.</li><li>Dosis bajas: <b>budesonida 200-400 mcg/día</b>, <b>fluticasona 100-250 mcg/día</b>, <b>beclometasona 200-400 mcg/día</b>.</li><li>Dosis medias: budesonida 400-800 mcg/día; fluticasona 250-500 mcg/día; beclometasona 400-800 mcg/día.</li><li>Dosis altas: budesonida &gt;800 mcg/día; fluticasona &gt;500 mcg/día; beclometasona &gt;800 mcg/día.</li><li>Los efectos adversos locales (candidiasis orofaríngea, disfonía) se previenen con enjuague bucal tras la inhalación.</li><li>No se recomiendan como monoterapia en crisis aguda; su inicio de acción es lento (días-semanas).</li></ul>"
+      "foco": "Evitar betabloqueadores no selectivos en asma",
+      "title": "Betabloqueadores no selectivos",
+      "contentHtml": "<h2>Evitar betabloqueadores no selectivos en asma</h2><ul><li>Los <b>betabloqueadores no selectivos</b> (propranolol, carvedilol, timolol) pueden precipitar broncoespasmo grave.</li><li>Contraindicados en asma; si son imprescindibles (cardiopatía), usar cardios electivos con vigilancia.</li><li>También evitar aspirina y antiinflamatorios no esteroideos en asma aspirínica.</li><li>Trampa: los betabloqueadores selectivos a dosis altas pierden selectividad.</li><li>Revisar medicación en cada exacerbación; incluir betabloqueadores oftálmicos.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Agonistas beta2 de acción corta",
-      "title": "Agonistas beta2 de acción corta",
-      "contentHtml": "<h2>Agonistas beta2 de acción corta</h2><ul><li>Los <b>agonistas beta2 de acción corta (SABA)</b> son el tratamiento de rescate de elección en crisis asmática; el más usado es <b>salbutamol</b> (100-200 mcg por inhalación).</li><li>En crisis aguda: <b>4-8 puff cada 20 minutos</b> durante la primera hora, luego según respuesta.</li><li>La <b>nebulización</b> con salbutamol 2.5-5 mg cada 20 minutos es alternativa en crisis graves.</li><li>El uso excesivo (&gt;2 inhaladores/año o &gt;8 puff/día) se asocia a mayor riesgo de exacerbaciones y mortalidad.</li><li>Los efectos adversos incluyen taquicardia, temblor, hipokalemia; precaución en cardiopatía isquémica.</li><li>No deben usarse como monoterapia de mantenimiento; indican control insuficiente si se requieren &gt;2 veces/semana.</li></ul>"
+      "foco": "Asma aspirínica: rinitis, pólipos y eosinofilia",
+      "title": "Asma aspirínica (tríada de Samter)",
+      "contentHtml": "<h2>Asma aspirínica: rinitis, pólipos y eosinofilia</h2><ul><li>Tríada de Samter: <b>rinitis</b>, <b>pólipos nasales</b> y <b>eosinofilia</b> con asma.</li><li>Intolerancia a aspirina y antiinflamatorios no esteroideos por desviación de la vía de la ciclooxigenasa hacia leucotrienos.</li><li>Evitar aspirina y antiinflamatorios no esteroideos; usar paracetamol con cautela.</li><li>Tratamiento: corticoide inhalado, antileucotrienos (montelukast); desensibilización en casos seleccionados.</li><li>Trampa: la tríada de Samter no incluye urticaria como criterio obligatorio.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Indicaciones de corticoides sistémicos",
-      "title": "Indicaciones de corticoides sistémicos",
-      "contentHtml": "<h2>Indicaciones de corticoides sistémicos</h2><ul><li>Los <b>corticoides sistémicos</b> están indicados en <b>crisis asmática moderada-grave</b> que no responde a broncodilatadores, y en asma persistente grave del paso 5.</li><li>Vía oral: <b>prednisona 40-60 mg/día</b> (o equivalente) durante 5-7 días en adultos; no requiere descenso gradual si el tratamiento es corto.</li><li>Vía intravenosa: <b>hidrocortisona 200 mg</b> o <b>metilprednisolona 60-125 mg</b> cada 6-8 horas en crisis muy graves o si el paciente no tolera vía oral.</li><li>En niños: prednisona 1-2 mg/kg/día (máximo 40 mg/día) por 3-5 días.</li><li>Los corticoides sistémicos de mantenimiento se reservan para asma refractaria a otras terapias; usar la dosis mínima eficaz y monitorizar efectos adversos (osteoporosis, diabetes, supresión suprarrenal).</li></ul>"
+      "foco": "FEV1/FVC <0,70 posbroncodilatador sugiere obstrucción",
+      "title": "Criterio obstructivo espirométrico",
+      "contentHtml": "<h2>FEV1/FVC &lt;0,70 posbroncodilatador sugiere obstrucción</h2><ul><li>Relación <b>FEV1/FVC &lt;0,70</b> posbroncodilatador define obstrucción (criterio de la Global Initiative for Asthma y Global Initiative for Chronic Obstructive Lung Disease).</li><li>En asma, la obstrucción suele ser reversible; en enfermedad pulmonar obstructiva crónica, persistente.</li><li>El <b>FEV1/FVC &lt;0,70</b> es el primer paso diagnóstico; luego valorar reversibilidad y gravedad por FEV1.</li><li>Trampa: en jóvenes puede infravalorar obstrucción; usar límite inferior de la normalidad si disponible.</li><li>La espirometría debe ser posbroncodilatador para el diagnóstico.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Crisis asmática: clasificación",
-      "title": "Crisis asmática: clasificación",
-      "contentHtml": "<h2>Crisis asmática: clasificación</h2><ul><li>La <b>crisis asmática</b> se clasifica en <b>leve</b>, <b>moderada</b>, <b>grave</b> y <b>paro inminente</b> según disnea, frecuencia respiratoria, uso de músculos accesorios, saturación de oxígeno (SpO2) y volumen espiratorio forzado en el primer segundo (VEF1)/pico flujo espiratorio (PFE).</li><li><b>Leve:</b> disnea al caminar, habla completa, frecuencia respiratoria &lt;20, SpO2 ≥95%, PFE &gt;70% del mejor.</li><li><b>Moderada:</b> disnea al hablar, frases entrecortadas, frecuencia respiratoria 20-30, SpO2 91-95%, PFE 50-70%.</li><li><b>Grave:</b> disnea en reposo, habla entrecortada, frecuencia respiratoria &gt;30, SpO2 &lt;91%, PFE &lt;50%.</li><li><b>Paro inminente:</b> tórax silente, cianosis, bradicardia, hipotensión, SpO2 &lt;90% a pesar de oxígeno.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Signos de gravedad en crisis",
-      "title": "Signos de gravedad en crisis",
-      "contentHtml": "<h2>Signos de gravedad en crisis</h2><ul><li>Los <b>signos de gravedad</b> en la crisis asmática incluyen: uso de músculos accesorios (esternocleidomastoideo, intercostales), <b>tiraje supraesternal</b> y <b>retracción intercostal</b>.</li><li><b>Tórax silente</b>: ausencia de sibilancias por hipoventilación severa, indica obstrucción crítica y riesgo de paro respiratorio.</li><li><b>Alteración del estado de conciencia</b> (somnolencia, agitación extrema) por hipoxia o hipercapnia.</li><li><b>Frecuencia cardíaca &gt;120 lpm</b> (adultos) o &gt;130 lpm (niños), <b>pulso paradójico</b> &gt;25 mmHg (caída de presión sistólica en inspiración).</li><li><b>Cianosis</b> central, <b>saturación de oxígeno (SpO2) &lt;90%</b> y <b>presión parcial de oxígeno (PaO2) &lt;60 mmHg</b> con aire ambiente.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Manejo agudo con oxígeno y broncodilatadores",
-      "title": "Manejo agudo con oxígeno y broncodilatadores",
-      "contentHtml": "<h2>Manejo agudo con oxígeno y broncodilatadores</h2><ul><li>Iniciar <b>oxígeno suplementario</b> para mantener saturación de oxígeno (SpO2) ≥<b>92-95%</b> (adultos) o ≥94-98% (niños); usar mascarilla con reservorio a 10-15 L/min si es necesario.</li><li>Administrar <b>salbutamol nebulizado</b> (2.5-5 mg) o <b>4-8 puff</b> con cámara espaciadora cada 20 minutos durante la primera hora; luego espaciar según respuesta.</li><li>Añadir <b>bromuro de ipratropio</b> (0.5 mg nebulizado o 4-8 puff) en crisis moderada-grave; reduce hospitalización.</li><li>En crisis grave o sin respuesta, considerar <b>sulfato de magnesio intravenoso</b> (2 g en 20 minutos) como broncodilatador adicional.</li><li>Los <b>corticoides sistémicos</b> (prednisona 40-60 mg oral o hidrocortisona 200 mg intravenoso) deben administrarse precozmente en crisis moderada-grave.</li><li>Si hay signos de paro inminente, preparar para <b>intubación orotraqueal</b> y ventilación mecánica.</li></ul>"
+      "foco": "Educación: técnica de inhalador y plan de acción escrito",
+      "title": "Educación y plan de acción",
+      "contentHtml": "<h2>Educación: técnica de inhalador y plan de acción escrito</h2><ul><li>Verificar <b>técnica de inhalador</b> en cada visita: agitación, espiración, coordinación, apnea y enjuague.</li><li>Usar cámara espaciadora con inhalador de dosis medida, especialmente en niños y crisis.</li><li><b>Plan de acción escrito</b>: síntomas, valores de flujo espiratorio máximo, ajuste de rescate y cuándo consultar.</li><li>Educación en adherencia, evitación de desencadenantes y vacunación antigripal.</li><li>Trampa: la mala técnica es causa frecuente de \"asma refractaria\"; corregirla antes de escalar tratamiento.</li></ul>"
     }
   ]
 }

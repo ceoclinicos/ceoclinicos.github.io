@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Anticuerpos anti-receptor de acetilcolina",
-      "title": "Anti-AChR",
-      "contentHtml": "<h2>Anti-AChR</h2><ul><li>Presentes en <b>80-90%</b> de miastenia generalizada y <b>50-60%</b> ocular.</li><li>Son IgG1 e IgG3, activan complemento y destruyen la placa neuromuscular.</li><li>El título no se correlaciona estrictamente con gravedad clínica, pero títulos altos sugieren timoma.</li><li><b>Falso positivo:</b> hasta 5% en timoma sin miastenia, lupus, artritis reumatoide.</li><li><b>Diagnóstico diferencial:</b> Síndrome de Lambert-Eaton (anti-canales de calcio voltaje-dependientes).</li></ul>"
+      "foco": "Autoanticuerpos contra receptor de acetilcolina",
+      "title": "Autoanticuerpos contra el receptor de acetilcolina",
+      "contentHtml": "<h2>Autoanticuerpos contra el receptor de acetilcolina</h2><ul><li><b>Autoanticuerpos contra el receptor de acetilcolina</b> (AChR) son positivos en ~85% de la miastenia generalizada y en ~50% de la ocular pura.</li><li>Son IgG dirigidos contra la subunidad alfa del receptor postsináptico; producen internalización y destrucción del receptor con bloqueo de la transmisión neuromuscular.</li><li>En seronegativos buscar anticuerpos contra <b>tirosina quinasa específica de músculo</b> (MuSK) (~40% de seronegativos generalizados) o contra <b>proteína relacionada con el receptor de lipoproteína de baja densidad 4</b> (LRP4).</li><li>La positividad de MuSK se asocia a afectación bulbar y respiratoria con menos ocular; no hay timoma típicamente.</li><li>Trampa de examen: anticuerpos negativos no excluyen miastenia; el diagnóstico es clínico-electrofisiológico.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Anticuerpos anti-MuSK en seronegativos",
-      "title": "Anti-MuSK",
-      "contentHtml": "<h2>Anti-MuSK</h2><ul><li>Positivos en <b>40-70%</b> de pacientes seronegativos para anti-AChR.</li><li>Asociados a fenotipo más grave con afectación bulbar prominente (disartria, disfagia, debilidad facial).</li><li><b>Respuesta pobre a anticolinesterásicos:</b> pueden empeorar con <b>piridostigmina</b>.</li><li><b>Timectomía no está indicada</b> de rutina (no asociado a timoma).</li><li>Tratamiento de elección: corticoides e inmunosupresores (micofenolato, rituximab).</li></ul>"
+      "foco": "Fatiga muscular fluctuante que empeora con el uso",
+      "title": "Fatiga muscular fluctuante que empeora con el uso",
+      "contentHtml": "<h2>Fatiga muscular fluctuante que empeora con el uso</h2><ul><li>Debilidad que <b>empeora con el uso</b> y mejora con el reposo; fluctuación diurna con nadir vespertino.</li><li>Distribución típica: músculos oculares, bulbares, faciales, cervicales y proximales de extremidades; respeta sensibilidad y esfínteres.</li><li>Diagnóstico diferencial: síndrome de Eaton-Lambert (debilidad que mejora con el ejercicio, anticuerpos contra canales de calcio voltaje-dependientes, asociado a carcinoma pulmonar de células pequeñas), botulismo, miositis, enfermedad de motoneurona.</li><li>Escala de gravedad: <b>clasificación de Osserman</b> (I ocular, IIA/IIB generalizada leve/moderada, III aguda fulminante, IV tardía grave) y <b>MG-ADL</b> para monitorizar.</li><li>Trampa: la fatiga no es cansancio subjetivo; es debilidad objetiva reproducible con esfuerzo sostenido.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Ptosis y diplopía como presentación inicial",
-      "title": "Presentación ocular",
-      "contentHtml": "<h2>Ptosis y diplopía inicial</h2><ul><li>Primer síntoma en <b>50-70%</b> de casos; la <b>ptosis</b> suele ser asimétrica y fluctuante.</li><li><b>Signo del párpado en cayendo</b> (Cogan): tras mirar abajo y subir, el párpado se eleva brevemente y luego desciende.</li><li><b>Diplopía binocular</b> por fatiga de músculos extraoculares, empeora con mirada sostenida.</li><li><b>Diagnóstico diferencial:</b> parálisis del III par (pupila fija), oftalmopatía tiroidea (retracción palpebral, proptosis).</li><li>El <b>80%</b> de los pacientes oculares puros generalizan en 2 años si no reciben inmunosupresión.</li></ul>"
+      "foco": "Afectación ocular: ptosis y diplopía",
+      "title": "Afectación ocular: ptosis y diplopía",
+      "contentHtml": "<h2>Afectación ocular: ptosis y diplopía</h2><ul><li>Presentación inicial en ~50-60% de pacientes; hasta 90% desarrollará afectación ocular en algún momento.</li><li><b>Ptosis</b> fluctuante y <b>diplopía</b> binocular por paresia de músculos extraoculares; pupila siempre normal (diferencia clave con síndrome de Horner o lesión del tercer par).</li><li><b>Signo de Cogan</b>: sacudida hacia arriba del párpado al recuperarse de la mirada descendente mantenida.</li><li><b>Prueba de hielo</b>: mejoría de la ptosis tras 2 minutos de frío local, sensible y específica, útil en urgencias.</li><li>Diagnóstico diferencial: miastenia ocular, oftalmoplejía internuclear, parálisis del tercer par, apoplejía hipofisaria, síndrome de Miller Fisher.</li><li>Trampa: miastenia ocular pura sin anticuerpos positivos requiere electromiografía de fibra única o seguimiento.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Fatigabilidad muscular fluctuante y empeora al atardecer",
-      "title": "Fatigabilidad fluctuante",
-      "contentHtml": "<h2>Fatigabilidad y empeoramiento vespertino</h2><ul><li>Debilidad muscular que aumenta con la actividad y mejora con el reposo (fatigabilidad verdadera).</li><li>Empeora típicamente al atardecer (<b>fenómeno diurno</b>) y mejora por la mañana.</li><li><b>Prueba del hielo:</b> aplicar hielo en párpado 2 min mejora ptosis en miastenia (sensibilidad 80%, especificidad 97%).</li><li><b>Prueba de reposo:</b> mejora de la fuerza tras 10-30 min de descanso.</li><li><b>Diagnóstico diferencial:</b> síndrome de fatiga crónica (no objetivable), miopatías metabólicas (no mejora con reposo).</li></ul>"
+      "foco": "Reflejos osteotendinosos conservados",
+      "title": "Reflejos osteotendinosos conservados",
+      "contentHtml": "<h2>Reflejos osteotendinosos conservados</h2><ul><li>Los <b>reflejos osteotendinosos</b> están conservados o incluso vivos; su preservación orienta a placa neuromuscular y aleja enfermedad de motoneurona o polineuropatía.</li><li>No hay signos de neurona motora superior (Babinski negativo), ni atrofia marcada temprana, ni fasciculaciones.</li><li>Sensibilidad conservada; esfínteres normales; coordinación y propiocepción intactas.</li><li>Diagnóstico diferencial con esclerosis lateral amiotrófica (reflejos vivos con Babinski y fasciculaciones), síndrome de Guillain-Barré (arreflexia), mielopatía cervical (hiperreflexia y Babinski).</li><li>Trampa de examen: la presencia de reflejos conservados en un paciente con debilidad fluctuante es un dato a favor de miastenia, no un hallazgo normal intrascendente.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Prueba de Tensilon (edrofonio) diagnóstica",
-      "title": "Prueba de Tensilon",
-      "contentHtml": "<h2>Prueba de Tensilon (edrofonio)</h2><ul><li>Administrar <b>2 mg por vía intravenosa</b> en bolo; si no hay reacción en 30-45 seg, dar <b>8 mg adicionales</b>.</li><li>Respuesta positiva: mejoría evidente de la debilidad en 30-60 seg, dura 5-10 min.</li><li><b>Riesgo de crisis colinérgica y bradicardia:</b> tener <b>atropina 0.5-1 mg por vía intravenosa</b> preparada.</li><li><b>Falsos positivos:</b> esclerosis lateral amiotrófica, síndrome de Guillain-Barré, botulismo.</li><li><b>Falsos negativos:</b> anti-MuSK positivos, uso reciente de anticolinesterásicos.</li></ul>"
+      "foco": "Timoma asociado en 10-15% de casos",
+      "title": "Timoma asociado en 10-15% de casos",
+      "contentHtml": "<h2>Timoma asociado en 10-15% de casos</h2><ul><li><b>Timoma</b> en 10-15% de pacientes con miastenia; a la inversa, 30-50% de portadores de timoma tienen miastenia.</li><li>Obligatorio <b>tomografía computarizada de tórax</b> con contraste al diagnóstico para descartar masa mediastínica anterior.</li><li>La hiperplasia tímica es más frecuente en mujeres jóvenes; el timoma predomina en mayores de 40 años.</li><li>Indicación de <b>timectomía</b>: todo timoma (por riesgo oncológico) y miastenia generalizada seropositiva contra receptor de acetilcolina en adultos jóvenes (beneficio inmunológico).</li><li>Trampa: la timectomía no está indicada de rutina en miastenia ocular pura ni en seronegativos sin timoma.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Electromiografía con estimulación repetitiva decremental",
-      "title": "Electromiografía con estimulación repetitiva",
-      "contentHtml": "<h2>Electromiografía con estimulación repetitiva</h2><ul><li>Estimulación a <b>2-3 Hz</b> muestra decremento &gt;10% en la amplitud del potencial de acción muscular compuesto.</li><li>El <b>decremento</b> es máximo entre el 4º y 5º estímulo.</li><li><b>Electromiografía de fibra única</b> (jitter) es más sensible (>95%), pero menos específica.</li><li>Realizar tras suspender <b>piridostigmina</b> 12-24 h para evitar falsos negativos.</li><li><b>Diagnóstico diferencial:</b> síndrome de Lambert-Eaton muestra incremento &gt;100% tras estimulación tetánica o ejercicio.</li></ul>"
+      "foco": "Prueba de edrofonio para diagnóstico",
+      "title": "Prueba de edrofonio para diagnóstico",
+      "contentHtml": "<h2>Prueba de edrofonio para diagnóstico</h2><ul><li><b>Prueba de edrofonio</b> (cloruro de edrofonio): inhibidor reversible de acetilcolinesterasa de acción ultracorta (1-2 minutos).</li><li>Técnica: administrar <b>2 mg intravenosos</b>; si no hay reacción adversa, completar hasta <b>10 mg</b>; evaluar ptosis/diplopía a los 30-60 segundos.</li><li>Positiva si mejoría objetiva de la debilidad; sensibilidad ~80-90% en miastenia generalizada, menor en ocular.</li><li>Contraindicaciones: arritmias cardíacas, asma, bradicardia; tener <b>atropina</b> disponible por riesgo de bradicardia y síncope.</li><li>Trampa: la prueba de edrofonio es de apoyo; el diagnóstico definitivo integra clínica, anticuerpos y electromiografía.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Timoma asociado en 10-15% de casos",
-      "title": "Timoma",
-      "contentHtml": "<h2>Timoma asociado</h2><ul><li>Presente en <b>10-15%</b> de miastenia generalizada; hasta <b>30%</b> si anti-AChR positivos.</li><li>Edad típica: 40-60 años; más frecuente en hombres.</li><li><b>tomografía computarizada de tórax con contraste</b> es el estudio de elección (sensibilidad >95%).</li><li><b>Clasificación de Masaoka:</b> estadio I (encapsulado) a IV (metástasis).</li><li>Todo paciente con miastenia debe tener <b>tomografía computarizada de tórax</b> al diagnóstico para descartar timoma.</li></ul>"
+      "foco": "Electromiografía con decremento en estimulación repetitiva",
+      "title": "Electromiografía con decremento en estimulación repetitiva",
+      "contentHtml": "<h2>Electromiografía con decremento en estimulación repetitiva</h2><ul><li><b>Estimulación nerviosa repetitiva</b> a 2-3 Hz muestra <b>decremento &gt;10%</b> del potencial de acción muscular compuesto entre el primer y cuarto estímulo.</li><li>Mayor rendimiento en músculos proximales y faciales; sensibilidad ~75% en generalizada y ~50% en ocular.</li><li><b>Electromiografía de fibra única</b>: patrón de referencia con <b>jitter</b> aumentado y bloqueo de transmisión; alta sensibilidad (&gt;95%) en miastenia ocular.</li><li>Debe suspenderse piridostigmina 12 horas antes para evitar falsos negativos.</li><li>Diagnóstico diferencial: en síndrome de Eaton-Lambert el decremento aparece a alta frecuencia (20-50 Hz) o tras ejercicio máximo (facilitación &gt;100%).</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Crisis miasténica por infección o estrés",
-      "title": "Crisis miasténica",
-      "contentHtml": "<h2>Crisis miasténica</h2><ul><li>Definición: exacerbación aguda que requiere soporte ventilatorio (intubación o ventilación no invasiva).</li><li><b>Desencadenantes:</b> infección (30-50%), cirugía, embarazo, reducción de inmunosupresores, estrés.</li><li><b>Manejo:</b> ingreso en unidad de cuidados intensivos, <b>piridostigmina</b> intravenosa (1/30 de dosis oral), plasmaféresis o inmunoglobulina intravenosa (2 g/kg).</li><li><b>Escala de clasificación de la Fundación Miastenia Gravis</b> para clasificar gravedad; clase V = crisis.</li><li><b>Diagnóstico diferencial con crisis colinérgica:</b> fasciculaciones, miosis, bradicardia, hipersalivación (respuesta a atropina).</li></ul>"
+      "foco": "Crisis miasténica: insuficiencia respiratoria por debilidad",
+      "title": "Crisis miasténica: insuficiencia respiratoria por debilidad",
+      "contentHtml": "<h2>Crisis miasténica: insuficiencia respiratoria por debilidad</h2><ul><li><b>Crisis miasténica</b>: debilidad de músculos respiratorios y bulbares que causa insuficiencia respiratoria; mortalidad histórica 30-40% sin soporte.</li><li>Criterios de ingreso a unidad de cuidados intensivos: <b>capacidad vital forzada &lt;20 ml/kg</b>, <b>presión inspiratoria máxima &lt;-25 cmH2O</b>, <b>presión espiratoria máxima &lt;40 cmH2O</b> o necesidad de intubación.</li><li>Diferenciar de <b>crisis colinérgica</b> por sobredosis de anticolinesterásicos: miosis, sialorrea, diarrea, bradicardia, fasciculaciones.</li><li>Manejo: soporte ventilatorio, suspender piridostigmina, <b>inmunoglobulina intravenosa 2 g/kg en 2-5 días</b> o <b>plasmaféresis</b>, y tratar desencadenante (infección, cirugía, fármacos).</li><li>Trampa: los corticoides a dosis altas pueden precipitar empeoramiento inicial; monitorizar.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Tratamiento con piridostigmina (anticolinesterásico)",
-      "title": "Piridostigmina",
-      "contentHtml": "<h2>Piridostigmina (Mestinon)</h2><ul><li>Primera línea sintomático: dosis inicial <b>30-60 mg VO cada 4-6 h</b>; máxima 120 mg cada 3-4 h.</li><li>Inhibidor reversible de acetilcolinesterasa, aumenta disponibilidad de ACh en la hendidura sináptica.</li><li><b>Efectos adversos:</b> diarrea, calambres, hipersalivación, bradicardia (manejo con anticolinérgicos como <b>atropina</b> o <b>glicopirrolato</b>).</li><li><b>Forma de liberación prolongada</b> (180 mg) para síntomas nocturnos, no en crisis.</li><li>No usar en <b>anti-MuSK</b> (puede empeorar).</li></ul>"
+      "foco": "Contraindicados aminoglucósidos y betabloqueadores",
+      "title": "Contraindicados aminoglucósidos y betabloqueadores",
+      "contentHtml": "<h2>Contraindicados aminoglucósidos y betabloqueadores</h2><ul><li><b>Aminoglucósidos</b> (gentamicina, amikacina, tobramicina) bloquean la liberación presináptica de acetilcolina y pueden precipitar crisis miasténica.</li><li><b>Betabloqueadores</b> (propranolol, atenolol, metoprolol) agravan la debilidad por efecto estabilizador de membrana; evitar especialmente por vía intravenosa.</li><li>Otros fármacos a evitar: <b>magnesio intravenoso</b>, <b>bloqueadores neuromusculares no despolarizantes</b>, <b>quinolona</b> (ciprofloxacino), <b>penicilamina</b>, <b>interferón alfa</b>, <b>inhibidores de puntos de control inmunitario</b>.</li><li>Precaución con <b>estatinas</b> (pueden exacerbar), <b>litio</b>, <b>fenitoína</b> y <b>contrastes yodados</b>.</li><li>Trampa de examen: si un paciente miasténico requiere antibiótico, preferir betalactámicos o vancomicina según sensibilidad; evitar aminoglucósidos salvo necesidad absoluta con monitorización.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Crisis colinérgica por sobredosis de anticolinesterásicos",
-      "title": "Crisis colinérgica",
-      "contentHtml": "<h2>Crisis colinérgica</h2><ul><li>Por exceso de <b>piridostigmina</b> u otros anticolinesterásicos.</li><li><b>Síntomas muscarínicos:</b> miosis, bradicardia, hipersalivación, lagrimeo, diarrea, broncorrea.</li><li><b>Síntomas nicotínicos:</b> fasciculaciones, debilidad muscular (incluye músculos respiratorios).</li><li><b>Diagnóstico diferencial con crisis miasténica:</b> prueba con <b>edrofonio</b> (empeora la crisis colinérgica) o respuesta a <b>atropina</b> (mejora síntomas muscarínicos).</li><li>Manejo: suspender anticolinesterásicos, soporte ventilatorio, atropina intravenosa.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Evitar fármacos que empeoran miastenia (aminoglucósidos, betabloqueantes)",
-      "title": "Fármacos contraindicados",
-      "contentHtml": "<h2>Fármacos que empeoran miastenia</h2><ul><li><b>Aminoglucósidos:</b> gentamicina, amikacina, tobramicina (bloqueo neuromuscular).</li><li><b>Betabloqueantes:</b> propranolol, atenolol (pueden aumentar debilidad).</li><li><b>Bloqueantes neuromusculares:</b> succinilcolina, vecuronio (riesgo de parálisis prolongada).</li><li><b>Otros:</b> magnesio por vía intravenosa, penicilamina, quinina, procainamida, verapamilo.</li><li>Precaución con <b>fluoroquinolonas</b> y <b>macrólidos</b> (pueden exacerbar).</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Timectomía indicada en timoma o pacientes jóvenes",
-      "title": "Timectomía",
-      "contentHtml": "<h2>Timectomía</h2><ul><li>Indicada en todo paciente con <b>timoma</b> (independientemente de edad o gravedad).</li><li>En miastenia sin timoma, indicada en <b>pacientes 18-65 años</b> con anti-AChR positivos y miastenia generalizada (estudio MGTX).</li><li><b>Beneficio:</b> mejora clínica a largo plazo, reduce necesidad de inmunosupresores.</li><li><b>Abordaje:</b> esternotomía media o cirugía torácica videoasistida (toracoscopia).</li><li><b>No indicada</b> en anti-MuSK, miastenia ocular pura ni >65 años con comorbilidades.</li></ul>"
+      "foco": "Tratamiento con piridostigmina e inmunosupresores",
+      "title": "Tratamiento con piridostigmina e inmunosupresores",
+      "contentHtml": "<h2>Tratamiento con piridostigmina e inmunosupresores</h2><ul><li><b>Piridostigmina</b>: inhibidor de acetilcolinesterasa de primera línea sintomática; dosis inicial <b>30-60 mg cada 6-8 horas</b>, ajustar hasta <b>120 mg cada 3-4 horas</b> (máximo ~600 mg/día).</li><li>Efectos adversos muscarínicos: sialorrea, diarrea, cólico abdominal, miosis, bradicardia; antídoto <b>atropina</b>.</li><li><b>Inmunosupresores</b>: <b>prednisona</b> 10-20 mg/día en dosis ascendente (o 1 mg/kg/día) como primera línea inmunomoduladora; ahorradores: <b>azatioprina</b> 2-3 mg/kg/día, <b>micofenolato de mofetilo</b> 1-1.5 g cada 12 horas, <b>metotrexato</b>, <b>tacrolimus</b>, <b>rituximab</b> (especialmente en MuSK).</li><li><b>Timectomía</b> en timoma y en miastenia generalizada seropositiva contra receptor de acetilcolina en adultos jóvenes.</li><li>Terapias de rescate en crisis: <b>inmunoglobulina intravenosa</b> o <b>plasmaféresis</b>; <b>eculizumab</b> o <b>ravulizumab</b> (inhibidores del complemento) en miastenia generalizada refractaria seropositiva contra receptor de acetilcolina.</li></ul>"
     }
   ]
 }

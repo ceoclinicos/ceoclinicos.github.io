@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Agente causal: Fasciola hepatica",
-      "title": "Agente causal",
-      "contentHtml": "<h2>Fasciola hepatica</h2><ul><li><b>Fasciola hepatica</b> es un trematodo digeneo, hermafrodita, de ciclo heteroxeno que requiere hospedador intermediario (caracol del género <i>Lymnaea</i>).</li><li>Su forma adulta mide 2-3 cm, con forma de hoja y ventosa ventral; habita en conductos biliares de mamíferos.</li><li>Los huevos son operculados, grandes (130-150 µm) y se eliminan con las heces del hospedador definitivo.</li><li>No confundir con <i>Fasciolopsis buski</i>: este es intestinal, no biliar, y sus huevos son indistinguibles morfológicamente, pero el contexto clínico y epidemiológico orienta.</li></ul>"
+      "foco": "Fasciola hepatica, trematodo hepático transmitido por caracoles",
+      "title": "Agente y ciclo",
+      "contentHtml": "<h2>Fasciola hepatica: trematodo hepático</h2><ul><li><b>Fasciola hepatica</b> es un trematodo (duela) hepático de la clase Trematoda, familia Fasciolidae.</li><li>Hospedero definitivo: rumiantes y el ser humano (huésped accidental). Hospedero intermediario obligado: caracol de agua dulce del género <b>Lymnaea</b> (principalmente <b>Lymnaea truncatula</b>).</li><li>Ciclo: huevo en heces → miracidio → caracol → esporocisto → redia → cercaria → metacercaria en plantas acuáticas o agua.</li><li>La forma infectante para el humano es la <b>metacercaria</b> enquistada en berro u otras plantas acuáticas o en agua contaminada.</li><li>Tras ingestión, la metacercaria se desenquista en intestino delgado, atraviesa pared intestinal y cápsula de Glisson, migra por peritoneo y parénquima hepático hasta los conductos biliares, donde madura a adulto.</li><li>Zoonosis de distribución mundial, con focos en Altiplano andino (Perú, Bolivia), Europa occidental (Francia, Portugal, España), Egipto y Oriente Medio.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Hábitat del parásito: conductos biliares",
-      "title": "Hábitat biliar",
-      "contentHtml": "<h2>Hábitat en conductos biliares</h2><ul><li>El adulto de <b>Fasciola hepatica</b> reside en los conductos biliares mayores y vesícula biliar, donde se alimenta de sangre y epitelio.</li><li>La migración larval a través del parénquima hepático (fase aguda) causa necrosis, hemorragia y eosinofilia tisular.</li><li>En fase crónica, la presencia del parásito induce hiperplasia del epitelio biliar, engrosamiento de la pared y fibrosis periductal (colangitis esclerosante secundaria).</li><li><b>Dato clave:</b> la obstrucción biliar puede generar colangitis bacteriana y litiasis pigmentaria por depósito de huevos.</li></ul>"
+      "foco": "Ingestión de metacercarias en berro o agua contaminada",
+      "title": "Mecanismo de infección",
+      "contentHtml": "<h2>Ingestión de metacercarias</h2><ul><li>La infección humana ocurre por ingestión de <b>metacercarias</b> viables adheridas a berro (<b>Nasturtium officinale</b>) u otras plantas acuáticas crudas, o por beber agua no potable contaminada.</li><li>No hay transmisión interhumana ni por carne de rumiante infectado.</li><li>Factores de riesgo: consumo de berro crudo en ensaladas, consumo de emolientes o jugos verdes con berro, agua de acequias o canales de riego sin tratar.</li><li>El jugo de berro y las ensaladas son la vía más frecuentemente reportada en brotes; la cocción de la planta destruye la metacercaria.</li><li>Trampa de examen: el caracol <b>no</b> es la fuente directa de infección humana; el humano se infecta por la forma enquistada en vegetales o agua, no por ingerir caracoles.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Reservorio principal: ganado ovino y bovino",
-      "title": "Reservorio animal",
-      "contentHtml": "<h2>Reservorio principal</h2><ul><li>El principal reservorio son ovinos y bovinos; también caprinos, búfalos y otros herbívoros.</li><li>Los humanos son hospedadores accidentales (zoonosis). La transmisión ocurre en zonas donde el ganado pasta en humedales con caracoles infectados.</li><li>La prevalencia en animales puede superar el 50% en regiones endémicas (Altiplano andino, norte de África, Medio Oriente).</li><li>En exámenes: preguntan que el control del reservorio (desparasitación del ganado) es medida de salud pública para reducir incidencia humana.</li></ul>"
+      "foco": "Fase aguda: fiebre, eosinofilia marcada y dolor abdominal",
+      "title": "Fase aguda (migratoria)",
+      "contentHtml": "<h2>Fase aguda o migratoria</h2><ul><li>Ocurre 1-3 meses tras la ingestión, durante la migración del parásito por peritoneo y parénquima hepático.</li><li>Clínica: <b>fiebre</b> (a menudo alta y prolongada), <b>dolor abdominal</b> en hipocondrio derecho, hepatomegalia dolorosa, náuseas, malestar general, urticaria y síntomas respiratorios por migración errática.</li><li>Laboratorio: <b>eosinofilia marcada</b> (frecuentemente &gt;1000/µL y a veces &gt;5000/µL), leucocitosis, elevación de transaminasas y velocidad de sedimentación globular elevada.</li><li>Diagnóstico diferencial: síndrome de Löeffler por Ascaris, toxocariasis visceral, triquinelosis, síndrome hipereosinofílico, colangitis bacteriana.</li><li>Trampa: en fase aguda los huevos en heces suelen ser negativos porque el parásito aún no alcanzó la luz biliar.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Forma infectante para humanos: metacercaria",
-      "title": "Forma infectante",
-      "contentHtml": "<h2>Metacercaria</h2><ul><li>La <b>metacercaria</b> es la forma infectante para el humano y el ganado; es ingerida al consumir plantas acuáticas crudas (berros, alfalfa, menta).</li><li>Se enquista en hojas y tallos; es resistente a la acidez gástrica y se desenquista en duodeno.</li><li>La metacercaria libera una larva que atraviesa la pared intestinal, migra al peritoneo, penetra la cápsula hepática y llega al parénquima.</li><li><b>Trampa:</b> no confundir con huevo embrionado (no es infectante para humanos); el huevo en agua da origen a miracidio que infecta al caracol.</li></ul>"
+      "foco": "Fase crónica: colangitis, obstrucción biliar y colangiocarcinoma",
+      "title": "Fase crónica (biliar)",
+      "contentHtml": "<h2>Fase crónica o biliar</h2><ul><li>Aparece meses o años después, cuando el adulto se aloja en los conductos biliares intrahepáticos y extrahepáticos.</li><li>Clínica: cólico biliar, ictericia obstructiva, colangitis recurrente (fiebre, dolor en hipocondrio derecho, ictericia), pancreatitis por obstrucción del colédoco, colelitiasis y fibrosis periportal.</li><li>Complicación tardía grave: <b>colangiocarcinoma</b> (adenocarcinoma de vía biliar), asociado a infección crónica prolongada, especialmente en zonas hiperendémicas.</li><li>Hallazgos: engrosamiento de pared de conductos biliares, dilatación biliar, abscesos hepáticos y fibrosis.</li><li>Diagnóstico diferencial: coledocolitiasis, colangiocarcinoma esporádico, colangitis esclerosante primaria, estenosis biliar benigna.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Vía de infección: ingesta de berros contaminados",
-      "title": "Vía de infección",
-      "contentHtml": "<h2>Ingesta de berros contaminados</h2><ul><li>La vía de infección es la <b>ingesta de berros contaminados</b> u otras plantas acuáticas crudas (ej. alfalfa, lechuga de agua) que portan <b>metacercarias</b> adheridas.</li><li>El berro (<i>Nasturtium officinale</i>) es el vehículo clásico en áreas endémicas; la contaminación ocurre por heces de ganado o caracoles infectados en el agua de cultivo.</li><li>No hay transmisión persona a persona, ni por agua filtrada o hervida (las metacercarias se inactivan con calor >60°C).</li><li>En prep: si preguntan por fuente, la respuesta es berros crudos; no carne ni pescado.</li></ul>"
+      "foco": "Diagnóstico de elección: huevos en heces o bilis",
+      "title": "Diagnóstico parasitológico",
+      "contentHtml": "<h2>Diagnóstico de elección</h2><ul><li>El diagnóstico de certeza es la visualización de <b>huevos en heces o bilis</b> (o aspirado duodenal).</li><li>Técnica: examen directo y técnicas de concentración (sedimentación o formol-éter); la sensibilidad aumenta con múltiples muestras seriadas.</li><li>En bilis o aspirado duodenal la sensibilidad puede ser mayor en fase crónica temprana.</li><li>Limitación: en fase aguda precoz y en infecciones con baja carga parasitaria los huevos pueden no detectarse; repetir muestras.</li><li>Trampa: no confundir con huevos de <b>Fasciolopsis buski</b> (parásito intestinal) ni con <b>Dicrocoelium dendriticum</b> (huevos más pequeños).</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Fase aguda: hepatitis invasiva o fascioliasis aguda",
-      "title": "Fase aguda",
-      "contentHtml": "<h2>Fascioliasis aguda</h2><ul><li>La fase aguda corresponde a la migración de larvas por el parénquima hepático, produciendo <b>hepatitis invasiva</b> con necrosis, eosinofilia marcada (>50%) y dolor en hipocondrio derecho.</li><li>Clínica: fiebre, hepatomegalia dolorosa, urticaria, eosinofilia severa (<b>eosinofilia >5.000 células/μL</b>).</li><li>Puede simular absceso hepático amebiano o piógeno; pero la eosinofilia extrema es clave diferencial.</li><li>Diagnóstico serológico (ELISA) es positivo en fase aguda antes de que aparezcan huevos en heces (periodo prepatente de 8-12 semanas).</li></ul>"
+      "foco": "Huevos grandes, ovalados y operculados en heces",
+      "title": "Morfología del huevo",
+      "contentHtml": "<h2>Morfología del huevo de Fasciola hepatica</h2><ul><li>Huevo <b>grande</b> (aproximadamente 130-150 µm de largo por 60-90 µm de ancho), <b>ovalado</b>, de color amarillo-parduzco, con cubierta delgada y lisa.</li><li>Presenta un <b>opérculo</b> en uno de los polos, a menudo poco visible; en el polo opuesto puede haber un pequeño engrosamiento (botón).</li><li>Es uno de los huevos de mayor tamaño entre los trematodos que afectan al humano; el de <b>Fasciolopsis buski</b> es similar pero el parásito es intestinal.</li><li>El huevo de <b>Dicrocoelium dendriticum</b> es mucho más pequeño (aproximadamente 40 µm) y de color marrón oscuro.</li><li>Hallazgo clave: <b>huevo grande, ovalado y operculado en heces</b> en paciente con eosinofilia y dolor en hipocondrio derecho orienta a fascioliasis.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Fase crónica: colangitis y fibrosis biliar",
-      "title": "Fase crónica",
-      "contentHtml": "<h2>Fase crónica biliar</h2><ul><li>La fase crónica se instala cuando los parásitos adultos alcanzan los conductos biliares, causando <b>colangitis</b> y <b>fibrosis biliar</b>.</li><li>Clínica: dolor biliar recurrente, colestasis, ictericia intermitente, colangitis bacteriana sobreañadida.</li><li>Hallazgo imagenológico: engrosamiento de la pared de los conductos biliares, dilatación de la vía biliar intrahepática, y a veces imagen de “hoja” en colangiografía.</li><li>La fibrosis periductal puede evolucionar a cirrosis biliar secundaria (raro). Los huevos en heces aparecen en esta fase (desde 3-4 meses postinfección).</li></ul>"
+      "foco": "Serología y ELISA útiles en fase aguda precoz",
+      "title": "Serología en fase aguda",
+      "contentHtml": "<h2>Serología y ELISA</h2><ul><li>En fase aguda precoz, cuando los huevos aún no aparecen en heces, la <b>serología</b> (ELISA, hemaglutinación, inmunoelectrotransferencia) es la herramienta de elección.</li><li>El <b>ELISA</b> con antígenos de excreción-secreción o de tegumento tiene alta sensibilidad y buena especificidad; útil para diagnóstico temprano y seguimiento postratamiento.</li><li>La seroconversión ocurre semanas después de la infección; los títulos descienden tras tratamiento eficaz, por lo que sirven de control.</li><li>Reactividad cruzada posible con otros trematodos (esquistosomas, <b>Fasciolopsis buski</b>, <b>Dicrocoelium dendriticum</b>) y con <b>Echinococcus</b>.</li><li>Trampa: una serología positiva no distingue infección activa de pasada; correlacionar con clínica y epidemiología.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Diagnóstico: huevos en heces o bilis",
-      "title": "Diagnóstico parasitológico",
-      "contentHtml": "<h2>Huevos en heces o bilis</h2><ul><li>El diagnóstico de certeza es la identificación de <b>huevos en heces</b> (técnica de sedimentación o Kato-Katz) o en bilis obtenida por drenaje duodenal o colangiografía.</li><li>Los huevos son grandes (130-150 μm), operculados, con forma oval y contenido amarillento; se diferencian de <i>Fasciolopsis buski</i> solo por contexto clínico.</li><li>Se requieren múltiples muestras seriadas por eliminación intermitente. La sensibilidad aumenta con técnicas de concentración (sedimentación de Ritchie).</li><li>En fase aguda (sin huevos), el diagnóstico es serológico: ELISA para antígeno excretor/secretor (sensibilidad >90%).</li></ul>"
+      "foco": "Imagen: lesiones migratorias hepáticas y engrosamiento biliar",
+      "title": "Imagenología",
+      "contentHtml": "<h2>Estudios de imagen</h2><ul><li>Tomografía computarizada o resonancia magnética: en fase aguda se observan <b>lesiones migratorias hepáticas</b> subcapsulares, hipodensas, mal definidas, que cambian de posición en estudios seriados (tractos de migración).</li><li>En fase crónica: <b>engrosamiento biliar</b> de la pared de los conductos intrahepáticos y extrahepáticos, dilatación biliar y, en casos graves, abscesos o fibrosis periportal.</li><li>La colangiopancreatografía retrógrada endoscópica puede mostrar imágenes de defecto de repleción por parásitos adultos en la vía biliar, útil también para fines terapéuticos.</li><li>La ecografía es menos sensible pero puede detectar hepatomegalia, dilatación biliar y lesiones focales.</li><li>Hallazgo clave: <b>lesiones migratorias hepáticas y engrosamiento biliar</b> en paciente con eosinofilia y consumo de berro.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Prueba de imagen: colangiografía o ecografía",
-      "title": "Prueba de imagen",
-      "contentHtml": "<h2>Colangiografía o ecografía</h2><ul><li><b>Ecografía abdominal:</b> puede mostrar dilatación de vía biliar intrahepática, engrosamiento de la pared de los conductos y, ocasionalmente, imágenes ecogénicas móviles compatibles con parásitos adultos.</li><li><b>Colangiografía (colangiopancreatografía retrógrada endoscópica o colangio-resonancia magnética):</b> evidencia defectos de llenado alargados en conductos biliares, a veces con aspecto de “hoja” o “espina de pescado”.</li><li>La colangiografía también permite extracción del parásito con fines diagnósticos y terapéuticos.</li><li>La tomografía computarizada muestra áreas hipodensas en parénquima hepático en fase aguda (trayectos de migración) y dilatación biliar en crónica.</li></ul>"
+      "foco": "Tratamiento de elección: triclabendazol",
+      "title": "Tratamiento",
+      "contentHtml": "<h2>Tratamiento de elección</h2><ul><li><b>Triclabendazol</b> es el fármaco de elección: cubre tanto formas juveniles como adultas.</li><li>Dosis habitual en adultos: <b>10 mg/kg</b> en dosis única por vía oral; en infecciones graves o persistentes se recomienda repetir a las 12-24 horas o a los 7-14 días según protocolo.</li><li>Alternativas: <b>nitazoxanida</b> (en algunos países) y, con menor eficacia, <b>bitiniol</b> o <b>praziquantel</b> (este último poco eficaz frente a Fasciola).</li><li>En fase crónica con obstrucción biliar puede requerirse extracción endoscópica de parásitos y soporte.</li><li>Trampa: el <b>praziquantel</b> es eficaz para muchos trematodos pero <b>no</b> es de elección para fascioliasis.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Tratamiento de elección: triclabendazol",
-      "title": "Tratamiento de elección",
-      "contentHtml": "<h2>Triclabendazol</h2><ul><li>El <b>triclabendazol</b> es el fármaco de elección para la fascioliasis, activo contra formas adultas y juveniles (a diferencia del praziquantel, que es ineficaz).</li><li>Dosis: <b>10 mg/kg</b> oral, en dosis única o dos dosis con 12-24 h de intervalo según guías (OMS recomienda repetir a las 12 h en casos graves).</li><li>Eficacia >90% en fase crónica; en fase aguda puede requerir una segunda dosis a los 7 días.</li><li>No usar bitionol (retirado) ni dehidroemetina (toxicidad). El praziquantel no es efectivo para <b>Fasciola hepatica</b>.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Dosis de triclabendazol: 10 mg/kg oral",
-      "title": "Dosis de triclabendazol",
-      "contentHtml": "<h2>Dosis de triclabendazol</h2><ul><li>La dosis estándar es <b>10 mg/kg</b> por vía oral, administrada con alimentos para mejorar absorción.</li><li>En infección aguda severa o en zonas de resistencia, la OMS recomienda dos dosis de <b>10 mg/kg</b> con 12 horas de intervalo (total 20 mg/kg).</li><li>En niños, ajustar por peso; no requiere ajuste en insuficiencia hepática o renal.</li><li>Efectos adversos: dolor abdominal, náuseas, mareos; rara vez colestasis transitoria por muerte masiva de parásitos.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Prevención: evitar berros crudos en zonas endémicas",
+      "foco": "Profilaxis: evitar berro crudo y agua no potable",
       "title": "Prevención",
-      "contentHtml": "<h2>Prevención</h2><ul><li>La medida principal es <b>evitar berros crudos</b> y otras plantas acuáticas crudas en zonas endémicas (Altiplano andino, cuenca mediterránea, Asia).</li><li>Cocción de las plantas (>60°C) o desinfección con yodo (no con cloro) inactiva las <b>metacercarias</b>.</li><li>Control de caracoles (molusquicidas) y desparasitación periódica del ganado reduce la contaminación ambiental.</li><li>No beber agua no tratada de arroyos o canales donde pasta el ganado. La educación sanitaria es clave en comunidades rurales.</li></ul>"
+      "contentHtml": "<h2>Profilaxis</h2><ul><li>Medida principal: <b>evitar berro crudo</b> y otras plantas acuáticas sin cocción adecuada; el lavado con agua corriente no elimina la metacercaria.</li><li>Consumir <b>agua no potable</b> solo si ha sido hervida, filtrada con filtros adecuados o tratada; el cloro a dosis habituales no es fiable frente a metacercarias.</li><li>Cocinar los vegetales acuáticos a temperatura suficiente destruye la metacercaria.</li><li>Control veterinario del ganado y tratamiento de animales infectados reduce la contaminación ambiental; control de caracoles en zonas endémicas.</li><li>Educación sanitaria en zonas hiperendémicas (Altiplano andino, Europa occidental, Egipto) y vigilancia de brotes por berro.</li></ul>"
     }
   ]
 }

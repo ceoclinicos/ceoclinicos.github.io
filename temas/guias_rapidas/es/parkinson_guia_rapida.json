@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Triada clásica: temblor, rigidez, bradicinesia",
-      "title": "Triada parkinsoniana clásica",
-      "contentHtml": "<h2>Triada clásica</h2><ul><li>La tríada clásica incluye <b>temblor</b>, <b>rigidez</b> y <b>bradicinesia</b>; la <b>bradicinesia</b> es el síntoma más incapacitante y el que mejor responde a <b>levodopa</b>.</li><li>La <b>rigidez</b> se manifiesta como aumento del tono en toda la amplitud del movimiento, a diferencia del espasticidad (depende de velocidad).</li><li>El <b>temblor</b> de reposo es de 4-6 Hz y desaparece con la acción voluntaria; la <b>bradicinesia</b> se evalúa con movimientos repetitivos (ej. toque de dedos).</li><li><b>Dato clave:</b> la asimetría de inicio es típica de enfermedad de Parkinson idiopática vs parkinsonismo atípico.</li></ul>"
+      "foco": "Triada cardinal: bradicinesia, rigidez y temblor de reposo",
+      "title": "Triada cardinal",
+      "contentHtml": "<h2>Triada cardinal de la enfermedad de Parkinson</h2><ul><li><b>Bradicinesia</b>: enlentecimiento con reducción progresiva de amplitud y velocidad al repetir movimientos (p. ej. abrir/cerrar manos, golpear dedos).</li><li><b>Rigidez</b>: aumento del tono a la movilización pasiva, independiente de la velocidad, tanto en flexión como en extensión.</li><li><b>Temblor de reposo</b>: oscilación involuntaria de 4–6 Hz, típicamente \"en contar monedas\", que desaparece con el movimiento voluntario.</li><li>La <b>bradicinesia</b> es obligatoria para el diagnóstico; el temblor de reposo puede faltar hasta en 30% al inicio.</li><li>Trampa de examen: la triada completa no siempre está presente; la ausencia de temblor no descarta Parkinson.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Temblor de reposo en ‘rodar píldoras’",
-      "title": "Temblor en rodar píldoras",
-      "contentHtml": "<h2>Temblor de reposo en 'rodar píldoras'</h2><ul><li>El <b>temblor de reposo en 'rodar píldoras'</b> es un temblor de 4-6 Hz que afecta típicamente el pulgar y el índice, simulando el gesto de enrollar una píldora.</li><li>Es asimétrico al inicio y desaparece con la acción voluntaria o durante el sueño; reaparece con estrés mental o distracción.</li><li><b>Trampa examen:</b> el temblor esencial es de acción/postural y suele ser bilateral y simétrico, sin <b>temblor de reposo en 'rodar píldoras'</b>.</li><li>La presencia de temblor de reposo puro tiene alta especificidad (>90%) para enfermedad de Parkinson idiopática.</li></ul>"
+      "foco": "Temblor de reposo asimétrico que mejora con el movimiento",
+      "title": "Temblor de reposo",
+      "contentHtml": "<h2>Temblor de reposo parkinsoniano</h2><ul><li>Frecuencia <b>4–6 Hz</b>, distal (manos), con patrón de \"contar monedas\" o \"rodar píldoras\".</li><li>Predomina en reposo, <b>mejora con el movimiento</b> y se exacerba con el estrés o la marcha.</li><li>Inicio <b>asimétrico</b>: afecta primero una mano o hemicuerpo; la asimetría persistente apoya el diagnóstico.</li><li>Diagnóstico diferencial: temblor esencial (postural/acción, 6–12 Hz, simétrico, mejora con alcohol); temblor cerebeloso (intencional, dismetría).</li><li>Trampa: el temblor cefálico o de voz es raro en Parkinson; orienta a temblor esencial o distonía.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Rigidez en rueda dentada",
-      "title": "Rigidez en rueda dentada",
-      "contentHtml": "<h2>Rigidez en rueda dentada</h2><ul><li>La <b>rigidez en rueda dentada</b> es un aumento del tono muscular con patrón de “clic” o sacudidas, típicamente detectado en flexoextensión pasiva del antebrazo.</li><li>Se diferencia de la rigidez en tubo de plomo (resistencia continua) por la presencia de movimientos entrecortados; ambos son formas de hipertonía extrapiramidal.</li><li><b>Fisiopatología:</b> la <b>rigidez en rueda dentada</b> se debe a la sobreactividad de los reflejos de estiramiento por falta de inhibición dopaminérgica.</li><li><b>Dato clave:</b> la maniobra de activación contralateral (pedir al paciente que mueva el otro brazo) exacerba la <b>rigidez en rueda dentada</b>.</li></ul>"
+      "foco": "Bradicinesia como criterio obligatorio para el diagnóstico",
+      "title": "Bradicinesia obligatoria",
+      "contentHtml": "<h2>Bradicinesia como criterio obligatorio</h2><ul><li>Según los criterios del <b>Banco de Cerebros de la Sociedad de Parkinson del Reino Unido</b>, la <b>bradicinesia</b> es imprescindible para el diagnóstico clínico.</li><li>Se define por enlentecimiento y <b>reducción progresiva de la amplitud</b> en movimientos repetitivos (dedos, manos, pronosupinación).</li><li>Se acompaña de micrografía, hipofonía, hipomimia y reducción del braceo al caminar.</li><li>Sin bradicinesia no se cumple el criterio cardinal; considerar parkinsonismo atípico o secundario.</li><li>Trampa: confundir bradicinesia con debilidad o apraxia; explorar con tareas repetitivas y comparar hemicuerpos.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Causa: pérdida neuronas dopaminérgicas en sustancia negra",
-      "title": "Pérdida neuronal en sustancia negra",
-      "contentHtml": "<h2>Pérdida de neuronas dopaminérgicas en sustancia negra</h2><ul><li>La causa principal es la <b>pérdida neuronas dopaminérgicas en sustancia negra</b> pars compacta, con disminución de dopamina en el estriado (putamen y caudado).</li><li>Se requiere una pérdida del 50-60% de neuronas para que aparezcan síntomas motores; el déficit de dopamina en el putamen es más relevante para la bradicinesia.</li><li><b>Fisiopatología:</b> la <b>pérdida neuronas dopaminérgicas en sustancia negra</b> provoca desinhibición de la vía indirecta de los ganglios basales, aumentando la inhibición talámica.</li><li><b>Trampa:</b> en parkinsonismo atípico (ej. parálisis supranuclear progresiva) la pérdida neuronal es más extensa e incluye otros núcleos.</li></ul>"
+      "foco": "Rigidez en rueda dentada y signo de la rueda dentada",
+      "title": "Rigidez en rueda dentada",
+      "contentHtml": "<h2>Rigidez en rueda dentada</h2><ul><li>Resistencia al movimiento pasivo con <b>sacudidas intermitentes</b> superpuestas (fenómeno de la rueda dentada), por temblor subyacente.</li><li>Se explora movilizando la muñeca o el codo de forma pasiva; puede ser más evidente con maniobra de activación contralateral (p. ej. abrir/cerrar la otra mano).</li><li>Predomina en músculos flexores, genera postura encorvada y <b>rigidez en tubo de plomo</b> cuando no hay sacudidas.</li><li>Diagnóstico diferencial: espasticidad (velocidad-dependiente, con navaja) y rigidez paratónica (lesión extrapiramidal no parkinsoniana).</li><li>Trampa: la rigidez puede ser simétrica y predominar en axial al inicio; no confundir con contractura dolorosa.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Cuerpos de Lewy como hallazgo patológico",
-      "title": "Cuerpos de Lewy",
-      "contentHtml": "<h2>Cuerpos de Lewy</h2><ul><li>Los <b>cuerpos de Lewy</b> son inclusiones intracitoplasmáticas eosinófilas compuestas por alfa-sinucleína y ubiquitina, hallazgo patológico distintivo.</li><li>Se localizan en neuronas supervivientes de la sustancia negra, locus coeruleus y núcleo dorsal del vago; su distribución sigue la clasificación de Braak (estadios 1-6).</li><li><b>Dato clave:</b> los <b>cuerpos de Lewy</b> no son patognomónicos de enfermedad de Parkinson; también se ven en demencia con cuerpos de Lewy y atrofia multisistémica.</li><li>La ausencia de <b>cuerpos de Lewy</b> en una necropsia sugiere parkinsonismo atípico o secundario.</li></ul>"
+      "foco": "Respuesta excelente a levodopa apoya el diagnóstico",
+      "title": "Respuesta a levodopa",
+      "contentHtml": "<h2>Respuesta a levodopa como apoyo diagnóstico</h2><ul><li>Una respuesta <b>excelente y sostenida</b> a <b>levodopa</b> (mejoría marcada de bradicinesia y rigidez) apoya el diagnóstico de enfermedad de Parkinson.</li><li>Se considera respuesta positiva una mejoría &gt;30% en escalas motoras (p. ej. Unified Parkinson's Disease Rating Scale, parte III) tras prueba con dosis crecientes.</li><li>La falta de respuesta o respuesta transitoria sugiere parkinsonismo atípico (atrofia multisistémica, parálisis supranuclear progresiva).</li><li>Trampa: la respuesta a levodopa no es patognomónica; algunos parkinsonismos atípicos responden parcialmente al inicio.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Respuesta a levodopa como criterio diagnóstico",
-      "title": "Respuesta a levodopa",
-      "contentHtml": "<h2>Respuesta a levodopa</h2><ul><li>La <b>respuesta a levodopa como criterio diagnóstico</b> es fundamental: mejoría significativa (≥30% en UPDRS) tras dosis de 200-300 mg/día, especialmente en bradicinesia y rigidez.</li><li>La <b>respuesta a levodopa como criterio diagnóstico</b> tiene alta sensibilidad (>90%) para enfermedad de Parkinson idiopática; la falta de respuesta sugiere parkinsonismo atípico.</li><li><b>Trampa examen:</b> en etapas tempranas la respuesta puede ser parcial, pero la persistencia de buena respuesta por &gt;5 años apoya el diagnóstico.</li><li>La respuesta se evalúa con la escala <b>UPDRS</b> (Unified Parkinson's Disease Rating Scale) parte III, antes y después de la dosis.</li></ul>"
+      "foco": "Inicio asimétrico y progresión lenta sugestivos",
+      "title": "Inicio asimétrico",
+      "contentHtml": "<h2>Inicio asimétrico y progresión lenta</h2><ul><li>La enfermedad de Parkinson típica comienza de forma <b>asimétrica</b> (una mano, un hemicuerpo) y la asimetría persiste en la evolución.</li><li>Progresión <b>lenta</b> (años), con respuesta sostenida a levodopa y sin signos piramidales, cerebelosos ni disautonomía grave al inicio.</li><li>Signos de apoyo: hiposmia, estreñimiento, trastorno de conducta del sueño REM y depresión como pródromos.</li><li>Diagnóstico diferencial: parkinsonismos atípicos suelen ser simétricos, de progresión rápida y con signos de alarma.</li><li>Trampa: un inicio simétrico y rápido obliga a descartar causas secundarias o atípicas.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Fluctuaciones motoras y discinesias por levodopa",
-      "title": "Fluctuaciones y discinesias",
-      "contentHtml": "<h2>Fluctuaciones motoras y discinesias por levodopa</h2><ul><li>Las <b>fluctuaciones motoras y discinesias por levodopa</b> aparecen tras 3-5 años de tratamiento: fenómeno de desgaste (wearing-off), on-off y discinesias pico de dosis.</li><li>Las discinesias son movimientos coreiformes involuntarios, más frecuentes en cara, cuello y extremidades; se relacionan con la dosis y la duración del tratamiento.</li><li><b>Manejo:</b> para el <b>wearing-off</b> se fracciona la dosis de levodopa, se añade entacapona (inhibidor de COMT) o se usa levodopa de liberación prolongada.</li><li><b>Dato clave:</b> las discinesias pico de dosis mejoran reduciendo la dosis de <b>levodopa</b> o añadiendo amantadina.</li></ul>"
+      "foco": "Signos de alarma: caídas precoces, demencia temprana, disautonomía",
+      "title": "Signos de alarma",
+      "contentHtml": "<h2>Signos de alarma (banderas rojas)</h2><ul><li><b>Caídas precoces</b> (&lt;1 año de evolución) sugieren parálisis supranuclear progresiva o atrofia multisistémica.</li><li><b>Demencia temprana</b> (&lt;1 año) orienta a demencia con cuerpos de Lewy o enfermedad de Parkinson con demencia de inicio precoz.</li><li><b>Disautonomía</b> marcada (hipotensión ortostática, incontinencia urinaria, disfunción eréctil) sugiere atrofia multisistémica.</li><li>Otros: parálisis de la mirada vertical, apraxia de miembros, signos piramidales, deterioro cognitivo rápido, falta de respuesta a levodopa.</li><li>Trampa: estos signos excluyen el diagnóstico de enfermedad de Parkinson idiopática y obligan a estudiar parkinsonismo atípico.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Síntomas no motores: hiposmia, depresión, estreñimiento",
-      "title": "Síntomas no motores",
-      "contentHtml": "<h2>Síntomas no motores</h2><ul><li>Los <b>síntomas no motores: hiposmia, depresión, estreñimiento</b> suelen preceder a los síntomas motores por años (fase prodrómica).</li><li>La <b>hiposmia</b> es un marcador temprano (sensibilidad ~80%), evaluada con el test de Sniffin' Sticks; la <b>depresión</b> afecta al 40-50% de pacientes.</li><li>El <b>estreñimiento</b> se debe a disfunción autonómica y se correlaciona con la presencia de cuerpos de Lewy en el plexo mientérico.</li><li><b>Trampa:</b> la demencia aparece tardíamente (en &gt;80% tras 10-15 años), pero si es precoz (&lt;1 año) sugiere demencia con cuerpos de Lewy.</li></ul>"
+      "foco": "Levodopa es el tratamiento más eficaz y de elección",
+      "title": "Levodopa de elección",
+      "contentHtml": "<h2>Levodopa: tratamiento de elección</h2><ul><li><b>Levodopa</b> es el fármaco más eficaz para los síntomas motores y el de elección en la mayoría de pacientes.</li><li>Se administra combinada con <b>carbidopa</b> (inhibidor de la descarboxilasa periférica) para reducir náuseas y aumentar la disponibilidad central.</li><li>Dosis inicial típica: <b>100 mg de levodopa/25 mg de carbidopa</b> tres veces al día, ajustando según respuesta.</li><li>Efectos adversos: náuseas, hipotensión ortostática, alucinaciones (más en mayores) y, a largo plazo, fluctuaciones y discinesias.</li><li>Trampa: no retrasar levodopa por miedo a complicaciones motoras; el beneficio funcional supera el riesgo.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Diagnóstico diferencial: con parkinsonismo atípico",
-      "title": "Diagnóstico diferencial",
-      "contentHtml": "<h2>Diagnóstico diferencial con parkinsonismo atípico</h2><ul><li>El <b>Diagnóstico diferencial con parkinsonismo atípico</b> incluye parálisis supranuclear progresiva (PSP), atrofia multisistémica (MSA), degeneración corticobasal y demencia con cuerpos de Lewy.</li><li><b>PSP:</b> caídas tempranas, parálisis de la mirada vertical supranuclear, rigidez axial &gt; apendicular, pobre respuesta a levodopa.</li><li><b>MSA:</b> fallo autonómico severo (hipotensión ortostática, disfunción eréctil), ataxia cerebelosa, signos piramidales.</li><li><b>Dato clave:</b> la ausencia de <b>temblor de reposo en 'rodar píldoras'</b> y la respuesta pobre a levodopa orientan a parkinsonismo atípico.</li></ul>"
+      "foco": "Complicaciones motoras: fluctuaciones y discinesias",
+      "title": "Complicaciones motoras",
+      "contentHtml": "<h2>Complicaciones motoras del tratamiento</h2><ul><li><b>Fluctuaciones motoras</b>: deterioro del efecto antes de la siguiente dosis (<b>wearing-off</b>) y períodos \"off\" impredecibles; se manejan fraccionando dosis, añadiendo inhibidores de la catecol-O-metiltransferasa o agonistas dopaminérgicos.</li><li><b>Discinesias</b>: movimientos involuntarios coreicos o distónicos, típicamente en pico de dosis; se reducen ajustando dosis o con amantadina.</li><li>Fenómeno <b>on-off</b>: oscilaciones bruscas entre movilidad y bloqueo, relacionadas con la vida media corta de levodopa.</li><li>La estimulación cerebral profunda del núcleo subtalámico es opción en complicaciones refractarias.</li><li>Trampa: las discinesias no siempre indican sobredosis; pueden aparecer con niveles plasmáticos variables.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Tratamiento inicial: levodopa/carbidopa o agonistas dopaminérgicos",
-      "title": "Tratamiento inicial",
-      "contentHtml": "<h2>Tratamiento inicial</h2><ul><li>El <b>tratamiento inicial: levodopa/carbidopa o agonistas dopaminérgicos</b> se elige según edad y comorbilidades; en pacientes &lt;60-70 años se prefieren agonistas (pramipexol, ropinirol) para retrasar discinesias.</li><li>En pacientes &gt;70 años o con deterioro cognitivo, <b>levodopa/carbidopa</b> es primera línea por mejor eficacia y menor riesgo de efectos psiquiátricos.</li><li><b>Dosis típica:</b> <b>levodopa/carbidopa</b> 100/25 mg tres veces al día; los agonistas se titulan lentamente (ej. pramipexol 0.125 mg tres veces al día, aumentar cada 5-7 días).</li><li><b>Trampa:</b> los agonistas dopaminérgicos pueden causar trastornos del control de impulsos (juego, hipersexualidad); la <b>levodopa/carbidopa</b> no.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Evitar antagonistas dopaminérgicos (neurolépticos)",
-      "title": "Evitar antagonistas dopaminérgicos",
-      "contentHtml": "<h2>Evitar antagonistas dopaminérgicos</h2><ul><li>Es crítico <b>evitar antagonistas dopaminérgicos (neurolépticos)</b> en pacientes con enfermedad de Parkinson, ya que bloquean los receptores D2 y exacerban el parkinsonismo.</li><li>Los neurolépticos típicos (haloperidol, clorpromazina) tienen alto riesgo; los atípicos (risperidona, olanzapina) también pueden empeorar los síntomas motores.</li><li><b>Excepción:</b> la clozapina y la quetiapina son los únicos antipsicóticos que pueden usarse con relativa seguridad (bajo bloqueo D2).</li><li><b>Trampa examen:</b> la metoclopramida y la proclorperazina también son antagonistas D2 y deben evitarse; alternativas como domperidona (no cruza BHE) son seguras.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Escala de Hoehn y Yahr para estadificación",
-      "title": "Escala de Hoehn y Yahr",
-      "contentHtml": "<h2>Escala de Hoehn y Yahr</h2><ul><li>La <b>Escala de Hoehn y Yahr para estadificación</b> clasifica la enfermedad de Parkinson en 5 estadios: 1 (unilateral), 2 (bilateral sin alteración del equilibrio), 3 (inestabilidad postural leve), 4 (discapacidad severa pero puede caminar), 5 (en silla de ruedas o encamado).</li><li>Se usa para evaluar progresión global, pero tiene baja sensibilidad a cambios sutiles; la <b>UPDRS</b> es más detallada para seguimiento.</li><li><b>Dato clave:</b> el paso de estadio 2 a 3 (aparición de inestabilidad postural) marca un hito funcional importante y suele ocurrir tras 5-7 años de enfermedad.</li><li><b>Trampa:</b> la <b>Escala de Hoehn y Yahr para estadificación</b> no evalúa síntomas no motores ni discinesias.</li></ul>"
+      "foco": "Parkinsonismo por fármacos: suspender neurolépticos",
+      "title": "Parkinsonismo farmacológico",
+      "contentHtml": "<h2>Parkinsonismo por fármacos</h2><ul><li>Causado por bloqueo dopaminérgico, sobre todo <b>neurolépticos</b> (haloperidol, risperidona, metoclopramida, antagonistas de la dopamina).</li><li>Clínica: parkinsonismo simétrico, sin temblor de reposo típico, con frecuencia acompañado de acatisia o distonía.</li><li>Manejo: <b>suspender el neuroléptico</b> o cambiarlo por uno con menor efecto extrapiramidal (p. ej. quetiapina, clozapina); la mejoría puede tardar semanas o meses.</li><li>La levodopa no suele ser eficaz en el parkinsonismo farmacológico; evitar antipsicóticos típicos.</li><li>Trampa: no confundir con enfermedad de Parkinson; la historia farmacológica y la simetría son clave.</li></ul>"
     }
   ]
 }

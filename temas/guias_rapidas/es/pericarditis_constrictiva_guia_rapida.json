@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Fisiopatología: fibrosis pericárdica impide diástole",
-      "title": "Fisiopatología de la pericarditis constrictiva",
-      "contentHtml": "<h2>Fisiopatología</h2><ul><li>La <b>fibrosis pericárdica</b> y el engrosamiento visceral-parietal impiden la relajación diastólica ventricular, generando una <b>restricción al llenado diastólico</b> con presiones de llenado elevadas.</li><li>El volumen sistólico se vuelve <b>fijo</b> y depende de la frecuencia cardíaca; la taquicardia compensa el bajo gasto.</li><li>La fibrosis auricular favorece <b>fibrilación auricular</b> en fases avanzadas.</li><li>Consecuencia: <b>congestión venosa sistémica</b> con ascitis, hepatomegalia y edema periférico.</li><li>Trampa: la fracción de eyección suele estar preservada; el problema es diastólico, no sistólico.</li></ul>"
+      "foco": "Fisiología de la constricción pericárdica",
+      "title": "Fisiología de la constricción pericárdica",
+      "contentHtml": "<h2>Fisiología de la constricción pericárdica</h2><ul><li>El pericardio engrosado y fibrótico impide la expansión diastólica; el llenado ventricular ocurre solo en protodiástole y depende de la eyección auricular.</li><li>Presiones diastólicas elevadas e igualadas en las cuatro cámaras; la presión venosa yugular aumenta con la inspiración (signo de Kussmaul).</li><li>La contracción sistólica ventricular genera un aumento brusco de presión que se transmite a las aurículas (signo de Friedreich).</li><li>El volumen sistólico es fijo; cualquier aumento de demanda no se compensa con mayor llenado, lo que produce intolerancia al esfuerzo.</li><li>La interdependencia ventricular es exagerada: la inspiración reduce el llenado izquierdo y aumenta el derecho, con desplazamiento del tabique interventricular.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Síntoma cardinal: disnea de esfuerzo progresiva",
-      "title": "Disnea de esfuerzo",
-      "contentHtml": "<h2>Síntoma cardinal</h2><ul><li>La <b>disnea de esfuerzo progresiva</b> es el síntoma más frecuente, por elevación de presiones de llenado y congestión pulmonar.</li><li>Puede acompañarse de <b>fatiga</b> y <b>intolerancia al ejercicio</b> por gasto cardíaco fijo.</li><li>Diferencial: en la <b>miocardiopatía restrictiva</b> la disnea también predomina, pero sin engrosamiento pericárdico.</li><li>La <b>congestión venosa sistémica</b> (edema, ascitis) suele preceder a la disnea franca.</li><li>Trampa: la disnea puede ser desproporcionada respecto a la fracción de eyección conservada.</li></ul>"
+      "foco": "Diferencia con taponamiento cardíaco",
+      "title": "Constricción vs. taponamiento cardíaco",
+      "contentHtml": "<h2>Constricción vs. taponamiento cardíaco</h2><ul><li><b>Taponamiento cardíaco:</b> líquido pericárdico a presión que comprime cámaras; la constricción es fibrosis que limita la relajación.</li><li>En taponamiento hay pulso paradójico marcado y presión venosa yugular elevada sin signo de Kussmaul; en constricción el pulso paradójico es ausente o mínimo y el signo de Kussmaul es frecuente.</li><li>El taponamiento muestra colapso diastólico de aurícula derecha y ventrículo derecho en ecocardiograma; la constricción muestra engrosamiento pericárdico y variación respiratoria del flujo mitral.</li><li>La pericardiocentesis alivia el taponamiento; en constricción no mejora y el tratamiento es pericardiectomía.</li><li>Diferencial clave en examen: taponamiento = emergencia con hipotensión y pulso paradójico; constricción = insuficiencia cardíaca derecha crónica.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Signo de Kussmaul: ingurgitación yugular inspiratoria",
+      "foco": "Signo de Kussmaul en la exploración",
       "title": "Signo de Kussmaul",
-      "contentHtml": "<h2>Signo de Kussmaul</h2><ul><li>El <b>signo de Kussmaul</b> es la <b>ingurgitación yugular inspiratoria</b> paradójica: la presión venosa yugular aumenta con la inspiración en lugar de descender.</li><li>Fisiopatología: el ventrículo derecho no puede acomodar el aumento del retorno venoso inspiratorio por la restricción pericárdica.</li><li>Es un signo clásico de <b>pericarditis constrictiva</b>, aunque también aparece en miocardiopatía restrictiva y taponamiento.</li><li>Técnica: observar la vena yugular interna con el paciente a 45 grados durante la inspiración.</li><li>Trampa: no confundir con el descenso inspiratorio normal de la presión venosa yugular.</li></ul>"
+      "contentHtml": "<h2>Signo de Kussmaul</h2><ul><li><b>Signo de Kussmaul:</b> aumento paradójico de la presión venosa yugular con la inspiración, en lugar de descenso fisiológico.</li><li>Se explora con el paciente a 45 grados, observando la columna yugular durante inspiración profunda; es positivo si la presión venosa yugular aumenta &gt;1 cm.</li><li>Fisiopatología: el ventrículo derecho no puede acomodar el aumento de retorno venoso inspiratorio por la constricción pericárdica, y la presión se transmite a las venas yugulares.</li><li>También aparece en pericarditis constrictiva, miocardiopatía restrictiva, infarto del ventrículo derecho y cor pulmonale.</li><li>Trampa de examen: no es patognomónico de constricción; su ausencia no la descarta.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Signo de Friedreich: pulso yugular con descenso rápido",
-      "title": "Signo de Friedreich",
-      "contentHtml": "<h2>Signo de Friedreich</h2><ul><li>El <b>signo de Friedreich</b> es un <b>pulso yugular con descenso rápido</b> y profundo durante la diástole, con colapso yugular abrupto.</li><li>Refleja el llenado ventricular rápido y precoz limitado por el pericardio rígido, seguido de meseta de presión.</li><li>Se asocia a un <b>chasquido pericárdico</b> proto-diastólico audible.</li><li>Diferencial: en la <b>miocardiopatía restrictiva</b> el pulso yugular puede ser similar, pero el contexto clínico difiere.</li><li>Trampa: el descenso rápido no implica taponamiento; es un signo de constricción.</li></ul>"
+      "foco": "Pulso paradójico ausente o mínimo",
+      "title": "Pulso paradójico en constricción",
+      "contentHtml": "<h2>Pulso paradójico en constricción</h2><ul><li><b>Pulso paradójico:</b> descenso de la presión arterial sistólica &gt;10 mmHg durante la inspiración; en la constricción pericárdica suele ser ausente o mínimo (&lt;10 mmHg).</li><li>En taponamiento cardíaco el pulso paradójico es marcado porque el líquido pericárdico exagera la interdependencia ventricular.</li><li>En constricción, el pericardio rígido limita el desplazamiento del tabique y atenúa la variación respiratoria del volumen sistólico.</li><li>Se mide con esfigmomanómetro durante respiración cíclica; es un signo de examen físico, no de imagen.</li><li>Diferencial: pulso paradójico ausente orienta a constricción o miocardiopatía restrictiva; pulso paradójico marcado orienta a taponamiento.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Frote pericárdico frecuente en fase inicial",
-      "title": "Frote pericárdico",
-      "contentHtml": "<h2>Frote pericárdico</h2><ul><li>El <b>frote pericárdico</b> es frecuente en la <b>fase inicial</b> de la pericarditis, antes de que la fibrosis y calcificación se establezcan.</li><li>Es un ruido áspero, de tres componentes (sístole auricular, sístole ventricular y diástole precoz), audible en el borde esternal izquierdo.</li><li>Puede desaparecer cuando se desarrolla derrame pericárdico o constricción franca.</li><li>Su ausencia no descarta constricción; en fases avanzadas suele estar ausente.</li><li>Trampa: el frote no es patognomónico de constricción; también aparece en pericarditis aguda.</li></ul>"
+      "foco": "Knock pericárdico diastólico precoz",
+      "title": "Knock pericárdico",
+      "contentHtml": "<h2>Knock pericárdico</h2><ul><li><b>Knock pericárdico:</b> ruido diastólico precoz, agudo y de alta frecuencia, audible en foco tricuspídeo o ápex, que ocurre tras la apertura de la válvula auriculoventricular.</li><li>Se produce por el cese brusco del llenado ventricular rápido contra un pericardio rígido; es un equivalente del tercer ruido en la constricción.</li><li>Es un hallazgo clásico de pericarditis constrictiva y se ausenta en la miocardiopatía restrictiva.</li><li>Se diferencia del chasquido de apertura mitral por su tonalidad aguda y su relación con la fase diastólica precoz.</li><li>Trampa de examen: no confundir con tercer ruido fisiológico; el knock pericárdico es un signo de constricción.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Calcificación pericárdica en radiografía de tórax",
-      "title": "Calcificación pericárdica",
-      "contentHtml": "<h2>Calcificación pericárdica</h2><ul><li>La <b>calcificación pericárdica</b> en la radiografía de tórax es un hallazgo clásico de pericarditis constrictiva crónica, visible como densidad lineal o en placas en el contorno cardíaco.</li><li>Es más frecuente tras pericarditis tuberculosa o urémica.</li><li>Su ausencia no excluye el diagnóstico; solo está presente en una minoría de casos.</li><li>La radiografía puede mostrar <b>cardiomegalia</b> leve o normal, y congestión pulmonar.</li><li>Trampa: la calcificación también puede verse en pericarditis constrictiva sin síntomas graves; correlacionar con clínica.</li></ul>"
+      "foco": "Signo de pericardio calcificado en radiografía",
+      "title": "Pericardio calcificado en radiografía",
+      "contentHtml": "<h2>Pericardio calcificado en radiografía</h2><ul><li><b>Pericardio calcificado:</b> hallazgo radiográfico de densidad lineal o en placas que rodea el corazón, visible en la proyección lateral y en la posteroanterior.</li><li>Es sugestivo de pericarditis constrictiva crónica, especialmente tras tuberculosis o cirugía cardíaca.</li><li>La radiografía de tórax puede mostrar además cardiomegalia leve o normal y derrame pleural asociado.</li><li>La tomografía computarizada es más sensible para detectar calcificación y engrosamiento pericárdico &gt;3 mm.</li><li>Trampa de examen: la ausencia de calcificación no descarta constricción; hasta un 20-30% de casos no la presentan.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Ecocardiograma: septo rebota en inspiración",
-      "title": "Ecocardiograma: rebote septal",
-      "contentHtml": "<h2>Ecocardiograma</h2><ul><li>El <b>septo rebota en inspiración</b>: el tabique interventricular se desplaza hacia el ventrículo izquierdo durante la inspiración por aumento del retorno venoso derecho y restricción pericárdica.</li><li>Se conoce como <b>movimiento septal paradójico</b> o <b>rebote septal inspiratorio</b>.</li><li>Otros hallazgos: engrosamiento pericárdico, dilatación auricular y venas cavas dilatadas sin colapso.</li><li>Técnica: modo M o bidimensional en apnea inspiratoria.</li><li>Trampa: el rebote septal también puede verse en sobrecarga derecha; interpretar en contexto.</li></ul>"
+      "foco": "Ecocardiograma: variación respiratoria del flujo mitral",
+      "title": "Ecocardiograma en constricción",
+      "contentHtml": "<h2>Ecocardiograma en constricción</h2><ul><li><b>Variación respiratoria del flujo mitral:</b> descenso &gt;25% de la velocidad de la onda E mitral durante la inspiración, por reducción del llenado izquierdo.</li><li>Se mide con Doppler pulsado en ápex de cuatro cámaras; también se evalúa la variación del flujo tricuspídeo (&gt;40% con la inspiración).</li><li>Otros hallazgos: engrosamiento pericárdico, dilatación biauricular, movimiento anómalo del tabique interventricular (bamboleo) y reversión de la onda e' en Doppler tisular.</li><li>La ecocardiografía diferencia constricción de miocardiopatía restrictiva: en restrictiva no hay variación respiratoria significativa del flujo mitral.</li><li>Trampa de examen: la variación respiratoria del flujo mitral es un criterio diagnóstico, no un hallazgo incidental.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Doppler: variación respiratoria del flujo mitral",
-      "title": "Doppler: variación respiratoria mitral",
-      "contentHtml": "<h2>Doppler</h2><ul><li>La <b>variación respiratoria del flujo mitral</b> es un criterio Doppler clave: la velocidad de la onda E mitral disminuye &gt;25% con la inspiración.</li><li>También se evalúa la variación del flujo tricuspídeo, que aumenta &gt;40% con la inspiración.</li><li>Refleja la interdependencia ventricular por restricción pericárdica.</li><li>Se mide con Doppler pulsado en apical de cuatro cámaras durante ciclos respiratorios.</li><li>Trampa: la variación también aparece en taponamiento; la constricción muestra patrones distintos en tejido Doppler.</li></ul>"
+      "foco": "Cateterismo: igualdad de presiones diastólicas",
+      "title": "Cateterismo cardíaco en constricción",
+      "contentHtml": "<h2>Cateterismo cardíaco en constricción</h2><ul><li><b>Igualdad de presiones diastólicas:</b> presiones telediastólicas iguales en ventrículo derecho e izquierdo, con diferencia &lt;5 mmHg.</li><li>Se observa el signo de la raíz cuadrada o dip-plateau en la curva de presión ventricular: descenso brusco protodiastólico seguido de meseta elevada.</li><li>La presión auricular derecha muestra un descenso y posterior ascenso rápido (signo de Kussmaul) y pérdida del descenso y.</li><li>El cateterismo diferencia constricción de miocardiopatía restrictiva: en restrictiva las presiones diastólicas no se igualan tan uniformemente.</li><li>Trampa de examen: la igualdad de presiones diastólicas es un criterio hemodinámico clásico de constricción.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Cateterismo: equalización de presiones diastólicas",
-      "title": "Cateterismo: equalización de presiones",
-      "contentHtml": "<h2>Cateterismo cardíaco</h2><ul><li>La <b>equalización de presiones diastólicas</b> es un hallazgo hemodinámico clásico: presiones diastólicas de ventrículo derecho, ventrículo izquierdo, aurícula derecha y presión capilar pulmonar se igualan (diferencia &lt;5 mmHg).</li><li>Se observa en pericarditis constrictiva y en taponamiento; en constricción la presión auricular derecha muestra un descenso y meseta prominentes.</li><li>Técnica: cateterismo derecho con registro simultáneo de presiones.</li><li>La <b>equalización de presiones diastólicas</b> no es exclusiva de constricción; correlacionar con imagen.</li><li>Trampa: en la miocardiopatía restrictiva la equalización es menos completa.</li></ul>"
+      "foco": "Patrón restrictivo en el Doppler tisular",
+      "title": "Doppler tisular en constricción",
+      "contentHtml": "<h2>Doppler tisular en constricción</h2><ul><li><b>Patrón restrictivo en el Doppler tisular:</b> velocidad de la onda e' del anillo mitral &gt;8 cm/s, con relación E/e' normal o baja, a diferencia de la miocardiopatía restrictiva donde e' es &lt;8 cm/s.</li><li>La constricción pericárdica limita el llenado pero el miocardio es intrínsecamente normal, por lo que la relajación tisular se preserva.</li><li>En miocardiopatía restrictiva hay disfunción miocárdica con e' reducida y E/e' elevada.</li><li>El Doppler tisular es clave para el diagnóstico diferencial no invasivo entre constricción y restricción.</li><li>Trampa de examen: un e' &gt;8 cm/s orienta a constricción; un e' &lt;8 cm/s orienta a restricción miocárdica.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Patrón en dip meseta en curva de presión ventricular",
-      "title": "Patrón en dip meseta",
-      "contentHtml": "<h2>Patrón en dip meseta</h2><ul><li>El <b>patrón en dip meseta</b> (signo de la raíz cuadrada) en la curva de presión ventricular muestra un descenso diastólico precoz abrupto seguido de una meseta de presión elevada.</li><li>Refleja el llenado ventricular rápido inicial limitado por el pericardio rígido.</li><li>Es característico de la <b>pericarditis constrictiva</b> y se registra en el cateterismo ventricular.</li><li>Diferencial: en la miocardiopatía restrictiva el patrón puede ser similar, pero la fisiopatología es miocárdica.</li><li>Trampa: el patrón en dip meseta también puede aparecer en sobrecarga derecha; interpretar con el resto de hallazgos.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Diferenciar de miocardiopatía restrictiva",
-      "title": "Diferencial con miocardiopatía restrictiva",
-      "contentHtml": "<h2>Diagnóstico diferencial</h2><ul><li>La <b>miocardiopatía restrictiva</b> comparte síntomas de insuficiencia cardíaca con fracción de eyección preservada y patrones de llenado restrictivo.</li><li>Claves para diferenciar: en constricción hay engrosamiento pericárdico, calcificación, <b>signo de Kussmaul</b> y <b>patrón en dip meseta</b>; en restrictiva predominan alteraciones miocárdicas (p. ej., amiloidosis) y el tejido Doppler muestra velocidades anulares reducidas.</li><li>La <b>variación respiratoria del flujo mitral</b> es más marcada en constricción.</li><li>La resonancia magnética cardíaca ayuda a caracterizar el pericardio y el miocardio.</li><li>Trampa: ambas pueden tener aurículas dilatadas y presión venosa elevada; la imagen es decisiva.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Tratamiento definitivo: pericardiectomía quirúrgica",
+      "foco": "Pericardiectomía como tratamiento definitivo",
       "title": "Pericardiectomía",
-      "contentHtml": "<h2>Tratamiento definitivo</h2><ul><li>La <b>pericardiectomía quirúrgica</b> es el tratamiento definitivo de la pericarditis constrictiva sintomática; consiste en la resección amplia del pericardio visceral y parietal.</li><li>Indicación: síntomas refractarios o clase funcional avanzada; la mortalidad quirúrgica es significativa en centros no expertos.</li><li>El tratamiento médico (diuréticos, restricción de sodio) es puente sintomático, no curativo.</li><li>La pericardiectomía parcial o incompleta se asocia a recidiva.</li><li>Trampa: la calcificación extensa no contraindica la cirugía, pero aumenta la complejidad técnica.</li></ul>"
+      "contentHtml": "<h2>Pericardiectomía</h2><ul><li><b>Pericardiectomía:</b> extirpación quirúrgica del pericardio engrosado, tratamiento definitivo de la pericarditis constrictiva sintomática.</li><li>Indicada en pacientes con síntomas persistentes (clase funcional III-IV de la New York Heart Association) y constricción hemodinámica documentada.</li><li>Se realiza por esternotomía media; se extirpa el pericardio desde el diafragma hasta los grandes vasos, preservando los nervios frénicos.</li><li>La mortalidad quirúrgica es del 5-15%; la mejoría hemodinámica puede ser inmediata pero la recuperación ventricular puede tardar semanas.</li><li>Trampa de examen: la pericardiectomía no está indicada en constricción asintomática o en miocardiopatía restrictiva.</li></ul>"
     }
   ]
 }

@@ -1,0 +1,65 @@
+{
+  "id": "mecanismos_de_resistencia_bacteriana",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Betalactamasas de espectro extendido (BLEE)",
+      "title": "Betalactamasas de espectro extendido",
+      "contentHtml": "<h2>Betalactamasas de espectro extendido (BLEE)</h2><ul><li>Enzimas que hidrolizan penicilinas, cefalosporinas de 1.ª a 3.ª generación y aztreonam; inhibidas por ácido clavulánico, tazobactam y sulbactam (no por avibactam en todas).</li><li>Principales familias: TEM, SHV y CTX-M (esta última la más frecuente en <i>Escherichia coli</i> y <i>Klebsiella pneumoniae</i> comunitarias).</li><li>Fenotipo de confirmación: sinergia entre cefotaxima/ceftriaxona y amoxicilina-clavulánico (método de doble disco) o CMI reducida con inhibidor; test de Hodge positivo.</li><li>Carbapenémicos son de elección para infecciones graves por BLEE; trampa: no usar cefalosporinas de 3.ª generación aunque el antibiograma las reporte sensibles in vitro.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Carbapenemasas KPC y NDM",
+      "title": "Carbapenemasas KPC y NDM",
+      "contentHtml": "<h2>Carbapenemasas KPC y NDM</h2><ul><li><b>KPC</b> (<i>Klebsiella pneumoniae</i> carbapenemase) es una serina-carbapenemasa de clase A; hidroliza todos los betalactámicos incluidos carbapenémicos; inhibida por avibactam, vaborbactam y relebactam.</li><li><b>NDM</b> (New Delhi metallo-betalactamasa) es una metalo-betalactamasa de clase B dependiente de zinc; hidroliza carbapenémicos pero no aztreonam; no inhibida por avibactam, vaborbactam ni relebactam; inhibida por EDTA in vitro.</li><li>Detección: test de Hodge modificado, Carba NP, PCR para <i>bla</i><sub>KPC</sub> y <i>bla</i><sub>NDM</sub>.</li><li>Tratamiento dirigido: <b>ceftazidima-avibactam</b> para KPC; <b>ceftazidima-avibactam + aztreonam</b> o <b>ceftazidima-avibactam + aztreonam-avibactam</b> para NDM; cefiderocol alternativa.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "MRSA por gen mecA (PBP2a)",
+      "title": "Staphylococcus aureus resistente a meticilina por gen mecA",
+      "contentHtml": "<h2><i>Staphylococcus aureus</i> resistente a meticilina (MRSA) por gen mecA (PBP2a)</h2><ul><li>El gen <b>mecA</b> codifica la proteína fijadora de penicilina 2a (PBP2a), con baja afinidad por betalactámicos; confiere resistencia a todas las penicilinas, cefalosporinas y carbapenémicos.</li><li>Detección fenotípica: disco de cefoxitina 30 µg (halo &lt;22 mm) o CMI de oxacilina &gt;2 µg/mL; confirmación con aglutinación de PBP2a o PCR de <b>mecA</b>.</li><li>Tratamiento de elección para infecciones graves: <b>vancomicina</b> con objetivo de valle 15-20 µg/mL o AUC/MIC &gt;400; alternativas: daptomicina, linezolid.</li><li>Trampa: resistencia a meticilina implica resistencia a todas las cefalosporinas antiestafilocócicas, no reportar como sensibles aunque el antibiograma lo sugiera.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "VRE por alteración de ligando D-Ala-D-Ala",
+      "title": "Enterococo resistente a vancomicina",
+      "contentHtml": "<h2>Enterococo resistente a vancomicina (VRE) por alteración del ligando D-Ala-D-Ala</h2><ul><li>Mecanismo: genes <i>vanA</i> (resistencia a vancomicina y teicoplanina) o <i>vanB</i> (resistencia solo a vancomicina) modifican el precursor peptidoglicano de <b>D-Ala-D-Ala</b> a <b>D-Ala-D-Lactato</b> o <b>D-Ala-D-Serina</b>, impidiendo la unión del antibiótico.</li><li>Detección: CMI de vancomicina &gt;4 µg/mL (E-test o microdilución); <i>Enterococcus faecium</i> es el más frecuente.</li><li>Tratamiento de elección: <b>linezolid</b> 600 mg cada 12 h o <b>daptomicina</b> 8-12 mg/kg/día; alternativa: tigeciclina.</li><li>Trampa: VRE no es resistente a linezolid ni a daptomicina por este mecanismo; no usar vancomicina empírica si prevalencia de VRE es alta.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Bombas de eflujo en Pseudomonas",
+      "title": "Bombas de eflujo en Pseudomonas aeruginosa",
+      "contentHtml": "<h2>Bombas de eflujo en <i>Pseudomonas aeruginosa</i></h2><ul><li>Sistemas de expulsión activa dependientes de protón: <b>MexAB-OprM</b> (betalactámicos, quinolonas, macrólidos, tetraciclinas), <b>MexXY-OprM</b> (aminoglucósidos) y <b>MexCD-OprJ</b>.</li><li>Confieren resistencia de bajo nivel pero multiplicativa cuando se combinan con porinas reducidas y betalactamasas.</li><li>Fenotipo: resistencia a múltiples familias no relacionadas estructuralmente; CMI elevada a meropenem, ciprofloxacino y gentamicina simultáneamente.</li><li>Trampa: los inhibidores de bomba (reserpina, fenil-arginina-beta-naftilamida) no se usan clínicamente; el tratamiento requiere combinación de antibióticos activos.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Porinas OprD y resistencia a carbapenémicos",
+      "title": "Porinas OprD y resistencia a carbapenémicos",
+      "contentHtml": "<h2>Porinas OprD y resistencia a carbapenémicos</h2><ul><li>OprD es una porina de la membrana externa de <i>Pseudomonas aeruginosa</i> que permite la entrada de <b>imipenem</b> y <b>meropenem</b>; su pérdida o reducción genera resistencia de bajo nivel a carbapenémicos.</li><li>Mecanismo frecuente en aislamientos de fibrosis quística y en cepas con betalactamasas (AmpC) asociadas.</li><li>Fenotipo: CMI elevada a imipenem &gt;4 µg/mL con sensibilidad conservada a ceftazidima y cefepime; no hay prueba fenotípica específica, se infiere del patrón.</li><li>Trampa: pérdida de OprD no afecta a ceftazidima ni a cefepime; el tratamiento puede basarse en estos betalactámicos si son sensibles.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Resistencia a aminoglucósidos por enzimas modificadoras",
+      "title": "Resistencia a aminoglucósidos por enzimas modificadoras",
+      "contentHtml": "<h2>Resistencia a aminoglucósidos por enzimas modificadoras</h2><ul><li>Mecanismo principal: enzimas que modifican grupos amino o hidroxilo del aminoglucósido (acetiltransferasas, fosfotransferasas, nucleotidiltransferasas) e impiden la unión al ribosoma 30S.</li><li>Genes frecuentes: <i>aac(6')-Ib</i>, <i>aph(3')-Ia</i>, <i>ant(2'')-Ia</i>; confieren resistencia a gentamicina, tobramicina o amikacina según el perfil.</li><li>Fenotipo: resistencia cruzada dentro de la familia; amikacina suele conservar actividad si la enzima no la modifica.</li><li>Trampa: la resistencia a aminoglucósidos no se revierte con inhibidores de betalactamasas; en enterobacterias productoras de BLEE, amikacina puede seguir siendo activa.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Mutación de ADN girasa y topoisomerasa (quinolonas)",
+      "title": "Mutación de ADN girasa y topoisomerasa IV",
+      "contentHtml": "<h2>Mutación de ADN girasa y topoisomerasa IV (quinolonas)</h2><ul><li>Las quinolonas inhiben la ADN girasa (subunidades GyrA/GyrB) y la topoisomerasa IV (ParC/ParE); mutaciones en la región determinante de resistencia a quinolonas (QRDR) reducen la afinidad.</li><li>En gramnegativos, la primera mutación suele ser en <b>gyrA</b> (Ser83→Leu o Asp87→Asn); en grampositivos, en <b>parC</b>.</li><li>Dos mutaciones acumuladas elevan la CMI por encima del punto de corte y confieren resistencia clínica; una sola mutación puede bastar si coexiste con bombas de eflujo.</li><li>Trampa: resistencia a ciprofloxacino puede coexistir con sensibilidad a levofloxacino o moxifloxacino si la segunda mutación aún no se ha producido; no asumir clase completa.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Resistencia a vancomicina en S. aureus (VRSA)",
+      "title": "Resistencia a vancomicina en Staphylococcus aureus",
+      "contentHtml": "<h2>Resistencia a vancomicina en <i>Staphylococcus aureus</i> (VRSA)</h2><ul><li>Mecanismo: adquisición del operón <i>vanA</i> desde <i>Enterococcus</i> (plásmido conjugativo) que modifica el precursor de peptidoglicano a <b>D-Ala-D-Lactato</b>, impidiendo la unión de vancomicina.</li><li>Criterios: CMI de vancomicina &gt;16 µg/mL para VRSA; CMI 4-8 µg/mL corresponde a <i>S. aureus</i> con sensibilidad intermedia a vancomicina (VISA), mecanismo de engrosamiento de pared.</li><li>Detección: microdilución en caldo o E-test; cribado con agar de vancomicina 6 µg/mL.</li><li>Tratamiento: <b>linezolid</b> 600 mg cada 12 h o <b>daptomicina</b> 8-10 mg/kg/día; trampa: vancomicina no debe usarse en VRSA ni en VISA.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Biofilm como mecanismo de resistencia antimicrobiana",
+      "title": "Biofilm como mecanismo de resistencia",
+      "contentHtml": "<h2>Biofilm como mecanismo de resistencia antimicrobiana</h2><ul><li>Comunidad bacteriana adherida a superficie y embebida en matriz de exopolisacárido (alginato en <i>Pseudomonas</i>, polisacárido intercelular en estafilococos) que limita la difusión del antibiótico.</li><li>Mecanismos: menor tasa metabólica de bacterias persistentes, expresión de bombas de eflujo y betalactamasas, y transferencia horizontal de genes de resistencia.</li><li>Asociado a infecciones por dispositivos (catéteres, prótesis, válvulas), heridas crónicas y fibrosis quística; CMI en biofilm puede ser 10-1000 veces mayor que en planctónico.</li><li>Manejo: retirar el dispositivo, asociar antibióticos con actividad anti-biofilm (daptomicina, rifampicina en estafilococos) y considerar combinaciones; trampa: el antibiograma estándar no refleja la resistencia en biofilm.</li></ul>"
+    }
+  ]
+}

@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Fracción de eyección preservada vs reducida",
-      "title": "FE preservada vs reducida: clasificación y implicaciones",
-      "contentHtml": "<h2>Fracción de eyección preservada vs reducida</h2><ul><li><b>Insuficiencia cardíaca con fracción de eyección reducida</b>: fracción de eyección del ventrículo izquierdo &lt;40%; beneficio demostrado con cuádruple terapia.</li><li><b>Insuficiencia cardíaca con fracción de eyección preservada</b>: fracción de eyección del ventrículo izquierdo ≥50%; predominio de disfunción diastólica, hipertrofia y fibrosis; tratamiento sintomático y de comorbilidades.</li><li>Zona gris <b>fracción de eyección del ventrículo izquierdo 40-49%</b>: insuficiencia cardíaca con rango medio; tratar como reducida si hay síntomas.</li><li>Trampa de examen: la fracción de eyección preservada no excluye insuficiencia cardíaca; exige criterios clínicos y péptidos natriuréticos elevados.</li></ul>"
+      "foco": "Criterios de Framingham para diagnóstico clínico",
+      "title": "Criterios de Framingham",
+      "contentHtml": "<h2>Criterios de Framingham para diagnóstico clínico</h2><p>El diagnóstico clínico de insuficiencia cardíaca requiere <b>2 criterios mayores</b> o <b>1 mayor + 2 menores</b>.</p><ul><li><b>Mayores:</b> disnea paroxística nocturna, ingurgitación yugular, crepitantes pulmonares, cardiomegalia, edema pulmonar agudo, galope por tercer ruido, reflujo hepato-yugular, pérdida de peso &gt;4.5 kg en 5 días con tratamiento.</li><li><b>Menores:</b> edema bilateral de miembros inferiores, tos nocturna, disnea de esfuerzo, hepatomegalia, derrame pleural, taquicardia &gt;120 lpm, capacidad vital disminuida en un tercio.</li></ul><p>Trampa: los criterios menores solos no diagnostican; la obesidad y la enfermedad pulmonar crónica generan falsos positivos.</p>"
     },
     {
       "order": 2,
-      "foco": "Criterios de Framingham para diagnóstico clínico",
-      "title": "Criterios de Framingham: diagnóstico clínico de insuficiencia cardíaca",
-      "contentHtml": "<h2>Criterios de Framingham</h2><ul><li>Diagnóstico clínico: <b>2 criterios mayores</b> o <b>1 mayor + 2 menores</b>.</li><li>Mayores: <b>disnea paroxística nocturna</b>, <b>ingurgitación yugular</b>, crepitantes pulmonares, cardiomegalia, <b>edema agudo de pulmón</b>, galope por tercer ruido, reflujo hepatoyugular, pérdida de peso &gt;4.5 kg en 5 días con tratamiento.</li><li>Menores: edema bilateral de miembros inferiores, tos nocturna, disnea de esfuerzo, hepatomegalia, derrame pleural, taquicardia &gt;120 lpm.</li><li>Trampa: los criterios de Framingham orientan pero no sustituyen ecocardiograma ni péptidos natriuréticos.</li></ul>"
+      "foco": "BNP y NT-proBNP para descartar IC",
+      "title": "BNP y NT-proBNP",
+      "contentHtml": "<h2>BNP y NT-proBNP para descartar insuficiencia cardíaca</h2><p>Los péptidos natriuréticos tienen alto valor predictivo negativo; se usan para <b>descartar</b>, no para confirmar.</p><ul><li><b>BNP &lt;100 pg/mL</b> y <b>NT-proBNP &lt;300 pg/mL</b>: insuficiencia cardíaca aguda poco probable.</li><li>En insuficiencia cardíaca crónica ambulatoria: <b>NT-proBNP &lt;125 pg/mL</b> descarta.</li><li>Umbrales ajustados: obesidad reduce niveles (dividir NT-proBNP por 2 si índice de masa corporal &gt;35); edad avanzada y enfermedad renal crónica los elevan.</li></ul><p>Trampa: fibrilación auricular, sepsis y embolia pulmonar elevan péptidos sin insuficiencia cardíaca; no sustituyen la ecocardiografía.</p>"
     },
     {
       "order": 3,
-      "foco": "BNP y NT-proBNP para diagnóstico y pronóstico",
-      "title": "Péptidos natriuréticos: BNP y NT-proBNP",
-      "contentHtml": "<h2>BNP y NT-proBNP</h2><ul><li><b>Péptido natriurético tipo B</b> (BNP) &lt;100 pg/mL y <b>NT-proBNP</b> &lt;300 pg/mL hacen improbable insuficiencia cardíaca aguda.</li><li>Umbrales de probabilidad alta: BNP &gt;400 pg/mL; NT-proBNP &gt;450 pg/mL en &lt;50 años, &gt;900 pg/mL en 50-75 años, &gt;1800 pg/mL en &gt;75 años.</li><li>Valores elevados se asocian a mayor mortalidad y reingreso; útiles para pronóstico y monitorización.</li><li>Trampas: obesidad reduce niveles; insuficiencia renal, edad avanzada y fibrilación auricular los elevan.</li></ul>"
+      "foco": "FEVI reducida vs preservada y tratamiento",
+      "title": "FEVI reducida vs preservada",
+      "contentHtml": "<h2>Fracción de eyección reducida vs preservada y tratamiento</h2><ul><li><b>Fracción de eyección reducida:</b> &lt;40%; beneficio de cuádruple terapia que reduce mortalidad.</li><li><b>Fracción de eyección preservada:</b> ≥50%; el tratamiento se centra en diuréticos para congestión y control de comorbilidades (hipertensión arterial, fibrilación auricular, diabetes mellitus, obesidad, apnea del sueño). Los inhibidores del cotransportador sodio-glucosa tipo 2 y los antagonistas del receptor mineralocorticoide reducen hospitalizaciones.</li><li><b>Fracción de eyección ligeramente reducida:</b> 41-49%; se comporta como reducida para decisiones farmacológicas.</li></ul><p>Trampa: en preservada no se ha demostrado mortalidad con inhibidores de la enzima convertidora de angiotensina ni con betabloqueadores de forma universal.</p>"
     },
     {
       "order": 4,
-      "foco": "Disnea paroxística nocturna y ortopnea",
-      "title": "Disnea paroxística nocturna y ortopnea",
-      "contentHtml": "<h2>Disnea paroxística nocturna y ortopnea</h2><ul><li><b>Ortopnea</b>: disnea al decúbito que mejora al incorporarse; refleja congestión pulmonar y aumento de presión capilar.</li><li><b>Disnea paroxística nocturna</b>: crisis de disnea que despierta al paciente 1-3 horas tras acostarse; criterio mayor de Framingham.</li><li>Fisiopatología: redistribución de volumen y reabsorción de edema intersticial al adoptar el decúbito.</li><li>Diferencial: enfermedad pulmonar obstructiva crónica (broncorrea y sibilancias), reflujo gastroesofágico, apnea del sueño.</li><li>Trampa: la disnea paroxística nocturna no es sinónimo de asma cardíaca; esta última cursa con broncoespasmo y esputo rosado.</li></ul>"
+      "foco": "Cuádruple terapia en IC-FEr",
+      "title": "Cuádruple terapia en IC-FEr",
+      "contentHtml": "<h2>Cuádruple terapia en insuficiencia cardíaca con fracción de eyección reducida</h2><p>Los cuatro pilares que reducen mortalidad en insuficiencia cardíaca con fracción de eyección reducida son:</p><ul><li><b>ARNI</b> (inhibidor del receptor de angiotensina-neprilisina) o inhibidor de la enzima convertidora de angiotensina.</li><li><b>Betabloqueador</b> con evidencia: carvedilol, bisoprolol, metoprolol succinato o nebivolol.</li><li><b>MRA</b> (antagonista del receptor mineralocorticoide): espironolactona o eplerenona.</li><li><b>iSGLT2</b> (inhibidor del cotransportador sodio-glucosa tipo 2): dapagliflozina o empagliflozina.</li></ul><p>Iniciar los cuatro de forma temprana y escalar dosis cada 1-2 semanas. Trampa: no esperar a optimizar uno para iniciar el siguiente; la titulación es paralela.</p>"
     },
     {
       "order": 5,
-      "foco": "Ingurgitación yugular y reflujo hepatoyugular",
-      "title": "Ingurgitación yugular y reflujo hepatoyugular",
-      "contentHtml": "<h2>Ingurgitación yugular y reflujo hepatoyugular</h2><ul><li><b>Ingurgitación yugular</b>: presión venosa yugular &gt;3 cm por encima del ángulo esternal con cabecera a 45°; estima presión auricular derecha.</li><li><b>Reflujo hepatoyugular</b>: aumento sostenido &gt;1 cm de la presión venosa yugular tras compresión abdominal 10-30 segundos; criterio mayor de Framingham.</li><li>Indican congestión derecha y elevación de presiones de llenado; se asocian a peor pronóstico.</li><li>Trampa: la ingurgitación yugular puede faltar en hipovolemia o en insuficiencia cardíaca izquierda aislada.</li></ul>"
+      "foco": "ARNI, betabloqueador, MRA e iSGLT2",
+      "title": "Fármacos de la cuádruple terapia",
+      "contentHtml": "<h2>ARNI, betabloqueador, MRA e iSGLT2</h2><ul><li><b>ARNI</b> (sacubitrilo/valsartán): sustituye al inhibidor de la enzima convertidora de angiotensina; requiere <b>36 horas</b> de lavado desde el inhibidor de la enzima convertidora de angiotensina por riesgo de angioedema. Dosis inicial 24/26 mg cada 12 horas.</li><li><b>Betabloqueador</b>: iniciar solo con paciente euvolémico; contraindicado en asma grave y bloqueo auriculoventricular avanzado.</li><li><b>MRA</b>: vigilar potasio y creatinina; contraindicado si potasio &gt;5.0 mEq/L o filtrado glomerular &lt;30 mL/min/1.73 m².</li><li><b>iSGLT2</b>: beneficio independiente de diabetes; vigilar infecciones genitales y cetoacidosis euglucémica.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Edema agudo de pulmón: manejo inicial",
-      "title": "Edema agudo de pulmón: manejo inicial",
-      "contentHtml": "<h2>Edema agudo de pulmón: manejo inicial</h2><ul><li>Posición semisentada, oxígeno para saturación &gt;90%, ventilación no invasiva si insuficiencia respiratoria.</li><li><b>Furosemida</b> intravenosa 20-40 mg (o 1-2 veces la dosis oral previa) si congestión; vasodilatadores (nitroglicerina) si presión arterial sistólica &gt;110 mmHg.</li><li>Morfina no recomendada de rutina; considerar solo en ansiedad refractaria.</li><li>Buscar desencadenante: síndrome coronario agudo, crisis hipertensiva, fibrilación auricular, infección.</li><li>Trampa: los betabloqueadores se suspenden en la descompensación aguda.</li></ul>"
+      "foco": "Furosemida en congestión aguda",
+      "title": "Furosemida en congestión aguda",
+      "contentHtml": "<h2>Furosemida en congestión aguda</h2><p>La furosemida es un diurético de asa que alivia congestión; <b>no reduce mortalidad</b>.</p><ul><li>Dosis intravenosa inicial: <b>20-40 mg</b> si no usaba diurético; si ya tomaba furosemida oral, administrar <b>1-2.5 veces la dosis oral previa</b> por vía intravenosa.</li><li>Objetivo: diuresis &gt;100-150 mL/hora y balance negativo de 1-2 litros/día.</li><li>Si respuesta insuficiente, duplicar dosis o asociar <b>tiazida</b> (bloqueo secuencial de la nefrona).</li></ul><p>Trampa: vigilar hipopotasemia, hipomagnesemia, hipotensión y deterioro renal; no usar como monoterapia crónica sin optimizar tratamiento modificador de la enfermedad.</p>"
     },
     {
       "order": 7,
-      "foco": "Cuádruple terapia en HFrEF: IECA/ARA2/ARNI, betabloqueador, MRA, iSGLT2",
-      "title": "Cuádruple terapia en insuficiencia cardíaca con fracción de eyección reducida",
-      "contentHtml": "<h2>Cuádruple terapia en HFrEF</h2><ul><li>Pilares: <b>inhibidor de la enzima convertidora de angiotensina</b> (IECA) o antagonista del receptor de angiotensina II (ARA2) o <b>sacubitrilo-valsartán</b>; <b>betabloqueador</b> (carvedilol, bisoprolol, metoprolol succinato, nebivolol); <b>antagonista del receptor mineralocorticoide</b> (espironolactona o eplerenona); <b>inhibidor del cotransportador sodio-glucosa tipo 2</b> (dapagliflozina o empagliflozina).</li><li>Iniciar precozmente y titular; reducen mortalidad y hospitalización.</li><li>Trampa: no iniciar betabloqueador en paciente congestivo o hipotenso; estabilizar primero.</li></ul>"
+      "foco": "Espironolactona mejora mortalidad en IC-FEr",
+      "title": "Espironolactona en IC-FEr",
+      "contentHtml": "<h2>Espironolactona mejora mortalidad en insuficiencia cardíaca con fracción de eyección reducida</h2><p>El estudio <b>RALES</b> demostró que la espironolactona reduce mortalidad en insuficiencia cardíaca con fracción de eyección reducida sintomática (clase III-IV de la New York Heart Association).</p><ul><li>Dosis: <b>25 mg/día</b>; puede aumentarse a 50 mg/día.</li><li>Mecanismo: antagonismo del receptor mineralocorticoide, reduce fibrosis miocárdica y remodelado.</li><li>Contraindicaciones: potasio &gt;5.0 mEq/L, filtrado glomerular &lt;30 mL/min/1.73 m², insuficiencia renal aguda.</li></ul><p>Trampa: vigilar potasio y creatinina a las 1-2 semanas del inicio y tras cada ajuste; la eplerenona es alternativa si aparece ginecomastia.</p>"
     },
     {
       "order": 8,
-      "foco": "ARNI sacubitrilo-valsartán reduce mortalidad",
-      "title": "Sacubitrilo-valsartán: beneficio en mortalidad",
-      "contentHtml": "<h2>Sacubitrilo-valsartán</h2><ul><li><b>Sacubitrilo-valsartán</b> reduce mortalidad cardiovascular y hospitalización por insuficiencia cardíaca frente a enalapril en fracción de eyección reducida (estudio PARADIGM-HF).</li><li>Dosis inicial 24/26 mg cada 12 horas; titular hasta 97/103 mg cada 12 horas según tolerancia.</li><li>Requiere periodo de lavado de 36 horas si se cambia desde IECA para evitar angioedema.</li><li>Contraindicado con IECA, antecedente de angioedema e insuficiencia renal grave.</li><li>Trampa: no combinar con IECA ni iniciar en hipotensión sintomática.</li></ul>"
+      "foco": "Signos de congestión: ingurgitación yugular y RHY",
+      "title": "Signos de congestión",
+      "contentHtml": "<h2>Signos de congestión: ingurgitación yugular y reflujo hepato-yugular</h2><ul><li><b>Ingurgitación yugular:</b> presión venosa yugular &gt;3 cm por encima del ángulo esternal con cabecera a 45°; refleja presión auricular derecha elevada. Sensibilidad alta para congestión.</li><li><b>Reflujo hepato-yugular:</b> presión abdominal sostenida 30 segundos produce aumento mantenido de la presión venosa yugular &gt;1 cm; es criterio mayor de Framingham.</li><li>Otros: crepitantes pulmonares, tercer ruido, edema con fóvea, derrame pleural bilateral.</li></ul><p>Trampa: la ingurgitación yugular puede faltar en hipovolemia o ser falsamente negativa en obesidad; el reflujo hepato-yugular es más específico que la ingurgitación aislada.</p>"
     },
     {
       "order": 9,
-      "foco": "Espironolactona en HFrEF y riesgo de hipercalemia",
-      "title": "Espironolactona: beneficio y riesgo de hipercalemia",
-      "contentHtml": "<h2>Espironolactona en HFrEF</h2><ul><li><b>Espironolactona</b> 25 mg/día (hasta 50 mg) reduce mortalidad en fracción de eyección reducida sintomática.</li><li>Monitorizar potasio y creatinina a las 1-2 semanas y tras cada ajuste; suspender si potasio &gt;5.5 mEq/L o insuficiencia renal progresiva.</li><li>Riesgo de hipercalemia aumenta con IECA/ARA2, insuficiencia renal y suplementos de potasio.</li><li>Trampa: no iniciar si potasio &gt;5.0 mEq/L o tasa de filtrado glomerular &lt;30 mL/min/1.73 m².</li></ul>"
+      "foco": "IC con FEVI preservada: diuréticos y comorbilidades",
+      "title": "IC con FEVI preservada",
+      "contentHtml": "<h2>Insuficiencia cardíaca con fracción de eyección preservada: diuréticos y comorbilidades</h2><p>El tratamiento sintomático se basa en <b>diuréticos de asa</b> para la congestión y en el control estricto de comorbilidades.</p><ul><li><b>iSGLT2</b> (inhibidor del cotransportador sodio-glucosa tipo 2): dapagliflozina o empagliflozina reducen hospitalizaciones por insuficiencia cardíaca.</li><li><b>MRA</b> (antagonista del receptor mineralocorticoide): espironolactona reduce hospitalizaciones en esta población.</li><li>Controlar hipertensión arterial, fibrilación auricular, diabetes mellitus, obesidad y apnea obstructiva del sueño.</li></ul><p>Trampa: los inhibidores de la enzima convertidora de angiotensina y los betabloqueadores no han demostrado reducción de mortalidad en preservada; no son primera línea universal.</p>"
     },
     {
       "order": 10,
-      "foco": "Furosemida en congestión: dosis y resistencia diurética",
-      "title": "Furosemida: dosis y resistencia diurética",
-      "contentHtml": "<h2>Furosemida en congestión</h2><ul><li><b>Furosemida</b> intravenosa en descompensación: 20-40 mg en naive o 1-2 veces la dosis oral previa; infusión continua si resistencia.</li><li><b>Resistencia diurética</b>: respuesta insuficiente a dosis altas; estrategias: aumentar dosis, infusión continua, asociar tiazida o antagonista del receptor mineralocorticoide.</li><li>Monitorizar peso, diuresis, función renal, potasio y sodio.</li><li>Trampa: la furosemida no mejora mortalidad; trata congestión, no la enfermedad de base.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Betabloqueadores contraindicados en descompensación aguda",
-      "title": "Betabloqueadores en descompensación aguda",
-      "contentHtml": "<h2>Betabloqueadores en descompensación aguda</h2><ul><li>Contraindicados en insuficiencia cardíaca aguda descompensada con congestión, hipotensión o bajo gasto.</li><li>No iniciar durante hospitalización por descompensación; si ya los tomaba, reducir o suspender según tolerancia.</li><li>Reiniciar tras estabilización y descongestión, a dosis baja, con titulación lenta.</li><li>Trampa: no confundir con su beneficio en insuficiencia cardíaca crónica estable con fracción de eyección reducida.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "FEVI como clasificación pronóstica y terapéutica",
-      "title": "Fracción de eyección del ventrículo izquierdo: pronóstico y terapia",
-      "contentHtml": "<h2>Fracción de eyección del ventrículo izquierdo como clasificación</h2><ul><li><b>Fracción de eyección del ventrículo izquierdo</b> clasifica insuficiencia cardíaca: reducida &lt;40%, rango medio 40-49%, preservada ≥50%.</li><li>Guía la terapia: cuádruple terapia en reducida; inhibidor del cotransportador sodio-glucosa tipo 2 también en preservada.</li><li>Valores más bajos se asocian a mayor mortalidad y peor pronóstico.</li><li>Trampa: la fracción de eyección puede ser normal en insuficiencia cardíaca preservada; no descarta el diagnóstico.</li></ul>"
+      "foco": "Contraindicar AINE y tiazolidinedionas en IC",
+      "title": "Fármacos contraindicados en IC",
+      "contentHtml": "<h2>Contraindicar AINE y tiazolidinedionas en insuficiencia cardíaca</h2><ul><li><b>AINE</b> (antiinflamatorios no esteroideos): retienen sodio y agua, antagonizan diuréticos, elevan presión arterial y precipitan descompensación; contraindicados en insuficiencia cardíaca sintomática.</li><li><b>Tiazolidinedionas</b> (pioglitazona, rosiglitazona): causan retención hídrica y edema; contraindicadas en clase III-IV de la New York Heart Association.</li><li>Otros a evitar: verapamilo y diltiazem en fracción de eyección reducida, cimetidina, corticoides a dosis altas.</li></ul><p>Trampa: los inhibidores de la ciclooxigenasa-2 también retienen sodio y agua; no son alternativa segura. Revisar siempre la medicación ambulatoria al ingreso por descompensación.</p>"
     }
   ]
 }

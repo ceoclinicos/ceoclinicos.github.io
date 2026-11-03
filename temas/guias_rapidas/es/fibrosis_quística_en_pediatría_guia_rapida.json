@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Diagnóstico por tamiz neonatal",
-      "title": "Tamiz neonatal para fibrosis quística",
-      "contentHtml": "<h2>Diagnóstico por tamiz neonatal</h2><ul><li>El tamiz neonatal mide <b>tripsinógeno inmunorreactivo</b> en sangre seca; un valor &gt; percentil 99 obliga a repetir la prueba.</li><li>Si persiste elevado, se realiza estudio genético (panel de mutaciones) y prueba de <b>cloruro en sudor</b> como confirmación.</li><li>Falsos positivos: prematuridad, estrés perinatal, falla renal; falsos negativos: mutaciones leves con función residual del regulador de conductancia transmembrana de fibrosis quística (CFTR).</li><li>En recién nacidos con <b>ileus meconial</b>, el tamiz puede ser normal; se debe hacer prueba de sudor y genética directa.</li></ul>"
+      "foco": "Tamizaje neonatal con tripsina inmunorreactiva elevada",
+      "title": "Tamizaje neonatal: tripsina inmunorreactiva",
+      "contentHtml": "<h2>Tamizaje neonatal con tripsina inmunorreactiva elevada</h2><ul><li><b>Tripsina inmunorreactiva</b> elevada en sangre seca del talón a las <b>24-72 horas</b> de vida es el primer paso del tamizaje neonatal de fibrosis quística.</li><li>Es un marcador indirecto de obstrucción pancreática fetal; su elevación también ocurre en <b>portadores</b>, prematurez, asfixia perinatal e infección.</li><li>Un resultado positivo obliga a <b>segunda muestra</b> (repetir tripsina inmunorreactiva) y/o <b>estudio genético</b> del gen <b>CFTR</b>; nunca diagnostica por sí solo.</li><li>El diagnóstico definitivo requiere <b>prueba del sudor</b> con cloro &gt;60 mmol/L o identificación de <b>dos mutaciones patogénicas</b> en <b>CFTR</b>.</li><li>Trampa de examen: tamizaje negativo no descarta fibrosis quística si hay íleo meconial o clínica compatible.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Mutación F508del más frecuente",
-      "title": "Mutación F508del en fibrosis quística",
-      "contentHtml": "<h2>Mutación F508del más frecuente</h2><ul><li>La mutación <b>F508del</b> (deleción de fenilalanina en codón 508) es la más prevalente (≈70% de alelos en población caucásica).</li><li>Produce una proteína CFTR mal plegada que no llega a la membrana apical; se degrada en el retículo endoplásmico.</li><li>Clínica: fenotipo clásico con <b>insuficiencia pancreática exocrina</b> desde el nacimiento y enfermedad pulmonar progresiva.</li><li>Homocigotos F508del tienen peor pronóstico; los heterocigotos compuestos con mutaciones de función residual pueden tener enfermedad más leve.</li></ul>"
+      "foco": "Prueba del sudor: cloro >60 mmol/L diagnóstica",
+      "title": "Prueba del sudor",
+      "contentHtml": "<h2>Prueba del sudor: cloro &gt;60 mmol/L diagnóstica</h2><ul><li>Estándar de referencia: <b>iontoforesis cuantitativa con pilocarpina</b> según <b>Gibson y Cooke</b>; se estimula sudoración y se mide cloro en &gt;75 mg de sudor.</li><li>Interpretación: <b>cloro &gt;60 mmol/L</b> en dos ocasiones = diagnóstico; <b>30-59 mmol/L</b> = limítrofe (repetir, estudio genético, potencial nasal); <b>&lt;30 mmol/L</b> = normal en &gt;6 meses.</li><li>En lactantes &lt;6 meses el límite superior normal es <b>&lt;30 mmol/L</b>; valores <b>30-59 mmol/L</b> son limítrofes.</li><li>Causas de falso positivo: desnutrición, edema, hipoproteinemia, insuficiencia suprarrenal, hipotiroidismo, enfermedad celíaca, displasia ectodérmica.</li><li>Trampa: no realizar durante deshidratación aguda ni sobre piel con dermatitis; puede elevar falsamente el cloro.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Cloruro en sudor prueba diagnóstica",
-      "title": "Prueba de cloruro en sudor",
-      "contentHtml": "<h2>Cloruro en sudor prueba diagnóstica</h2><ul><li>Gold standard: <b>iontoforesis con pilocarpina</b> (estimula sudoración); se recolecta ≥15 µL de sudor.</li><li>Umbral diagnóstico: <b>cloruro ≥60 mmol/L</b> en dos muestras separadas confirma fibrosis quística.</li><li>Valores intermedios (30–59 mmol/L) requieren estudio genético y evaluación clínica; &lt;30 mmol/L es normal.</li><li>Falsos positivos: edema, desnutrición, dermatitis atópica; falsos negativos: sudor insuficiente, mutaciones atípicas.</li></ul>"
+      "foco": "Mutación F508del en gen CFTR",
+      "title": "Mutación F508del en CFTR",
+      "contentHtml": "<h2>Mutación F508del en gen CFTR</h2><ul><li><b>F508del</b> es la mutación más frecuente de fibrosis quística: deleción de fenilalanina en posición 508 de la proteína <b>CFTR</b> (regulador de conductancia transmembrana de la fibrosis quística).</li><li>Clase II: proteína mal plegada que se degrada en retículo endoplásmico; produce defecto de transporte de cloro y agua.</li><li>Frecuencia: ~<b>70%</b> de los alelos en población caucásica; los homocigotos <b>F508del/F508del</b> suelen tener insuficiencia pancreática exocrina e inicio temprano.</li><li>Moduladores dirigidos a <b>F508del</b>: <b>lumacaftor/ivacaftor</b>, <b>tezacaftor/ivacaftor</b>, <b>elexacaftor/tezacaftor/ivacaftor</b>; solo en &gt;6 años según ficha.</li><li>Trampa: la ausencia de <b>F508del</b> no excluye fibrosis quística; existen &gt;2000 variantes, muchas privadas.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Insuficiencia pancreática exocrina",
-      "title": "Insuficiencia pancreática exocrina en fibrosis quística",
-      "contentHtml": "<h2>Insuficiencia pancreática exocrina</h2><ul><li>Presente en ≈85% de pacientes; causada por obstrucción de ductos pancreáticos por secreciones espesas.</li><li>Clínica: esteatorrea (heces voluminosas, malolientes, grasas), retraso ponderal, déficit de <b>vitaminas liposolubles</b> (A, D, E, K).</li><li>Diagnóstico: <b>elastasa fecal</b> &lt;200 µg/g (normal &gt;200); también prueba de grasa fecal en 72 h.</li><li>Tratamiento: <b>enzimas pancreáticas</b> (lipasa 500–4000 U/g de grasa ingerida) con cada comida; ajustar según control de esteatorrea y crecimiento.</li></ul>"
+      "foco": "Herencia autosómica recesiva",
+      "title": "Herencia autosómica recesiva",
+      "contentHtml": "<h2>Herencia autosómica recesiva</h2><ul><li>Fibrosis quística se hereda de forma <b>autosómica recesiva</b>: ambos progenitores portadores sanos (heterocigotos) tienen <b>25%</b> de hijo afectado, <b>50%</b> portador y <b>25%</b> sano no portador en cada embarazo.</li><li>Gen <b>CFTR</b> en cromosoma <b>7q31.2</b>; codifica canal de cloro y bicarbonato en membranas apicales epiteliales.</li><li>El consejo genético incluye estudio de <b>portadores</b> en familiares de primer grado y <b>diagnóstico prenatal</b> (villi coriales o amniocentesis) si ambos progenitores son portadores.</li><li>Trampa: no hay portadores afectados; la enfermedad solo aparece con <b>dos alelos patogénicos</b> (homocigoto o heterocigoto compuesto).</li><li>Diferencia con <b>déficit de alfa-1-antitripsina</b>: también autosómica recesiva, pero afecta principalmente pulmón e hígado, sin prueba del sudor alterada.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Ileus meconial en recién nacido",
-      "title": "Ileus meconial",
-      "contentHtml": "<h2>Ileus meconial en recién nacido</h2><ul><li>Es la presentación neonatal más temprana (≈10–15% de casos); obstrucción intestinal por <b>meconio espeso</b> en íleon distal.</li><li>Clínica: distensión abdominal, vómitos biliosos, ausencia de emisión de meconio en primeras 24–48 h.</li><li>Radiografía: asas dilatadas, niveles hidroaéreos, ausencia de aire en recto; puede haber <b>neumatosis intestinal</b> si complicado.</li><li>Tratamiento: enema con <b>N-acetilcisteína</b> (mucolítico) o contraste hidrosoluble; si falla, cirugía (enterotomía con lavado).</li></ul>"
+      "foco": "Íleo meconial en recién nacido",
+      "title": "Íleo meconial",
+      "contentHtml": "<h2>Íleo meconial en recién nacido</h2><ul><li><b>Íleo meconial</b>: obstrucción intestinal distal por meconio espeso y viscoso; presenta vómitos biliosos, distensión abdominal y ausencia de meconio en <b>&gt;48 horas</b>.</li><li>Es la manifestación neonatal más frecuente de fibrosis quística; hasta <b>20%</b> de los pacientes lo presentan; obliga a descartar fibrosis quística con <b>prueba del sudor</b> y estudio de <b>CFTR</b>.</li><li>Radiografía: asas dilatadas con niveles hidroaéreos y <b>signo de la burbuja de jabón</b> (microcolon por meconio impactado en íleon terminal).</li><li>Tratamiento inicial: <b>enema de contraste hidrosoluble</b> (gastrografín) bajo fluoroscopia; si falla, cirugía.</li><li>Trampa: no confundir con <b>enfermedad de Hirschsprung</b> (aganglionosis), que también da retraso de meconio pero con prueba del sudor normal.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Infección por Pseudomonas aeruginosa",
-      "title": "Infección por Pseudomonas aeruginosa en fibrosis quística",
-      "contentHtml": "<h2>Infección por Pseudomonas aeruginosa</h2><ul><li>Principal patógeno en enfermedad pulmonar crónica; forma <b>biopelícula</b> en vía aérea, resistente a antibióticos.</li><li>Adquisición temprana empeora pronóstico; se clasifica en: <b>infección inicial</b> (erradicable) y <b>colonización crónica</b> (mucoid phenotype).</li><li>Tratamiento de primera infección: <b>ciprofloxacino oral</b> + <b>tobramicina inhalada</b> (300 mg cada 12 h) durante 28 días.</li><li>En exacerbación aguda: <b>ceftazidima</b> o <b>piperacilina-tazobactam</b> intravenosos, asociados a aminoglucósido.</li></ul>"
+      "foco": "Insuficiencia pancreática exocrina y esteatorrea",
+      "title": "Insuficiencia pancreática exocrina",
+      "contentHtml": "<h2>Insuficiencia pancreática exocrina y esteatorrea</h2><ul><li>La obstrucción de conductos pancreáticos por secreciones viscosas produce <b>insuficiencia pancreática exocrina</b> en <b>85-90%</b> de los pacientes con fibrosis quística.</li><li>Clínica: <b>esteatorrea</b> (heces voluminosas, grasosas, flotantes), desnutrición, déficit de vitaminas liposolubles <b>A, D, E, K</b>, hipoproteinemia y edema.</li><li>Diagnóstico: <b>elastasa-1 fecal</b> &lt;200 µg/g (insuficiencia exocrina); &lt;100 µg/g insuficiencia grave; no se modifica con la ingesta ni con enzimas.</li><li>Tratamiento: <b>enzimas pancreáticas</b> con cada comida (lipasa 500-2500 UI/kg/comida), <b>inhibidor de bomba de protones</b> para optimizar pH duodenal, dieta hipercalórica y vitaminas liposolubles.</li><li>Trampa: la esteatorrea también aparece en <b>enfermedad celíaca</b>, <b>déficit de alfa-1-antitripsina</b> y <b>síndrome de intestino corto</b>; la prueba del sudor y elastasa fecal diferencian.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Hipercapnia e hipoxemia crónica",
-      "title": "Hipercapnia e hipoxemia crónica en fibrosis quística",
-      "contentHtml": "<h2>Hipercapnia e hipoxemia crónica</h2><ul><li>Progresan con el daño pulmonar obstructivo y restrictivo; la retención de CO2 (presión arterial de dióxido de carbono &gt;45 mmHg) indica enfermedad avanzada.</li><li>Hipoxemia (saturación de oxígeno &lt;90%) en reposo o durante el sueño es criterio para <b>oxigenoterapia domiciliaria</b>.</li><li>La <b>hipercapnia</b> crónica puede llevar a <b>cor pulmonale</b> (hipertrofia ventricular derecha) por vasoconstricción pulmonar hipóxica.</li><li>Evaluación: gasometría arterial, oximetría nocturna, ecocardiograma para descartar hipertensión pulmonar.</li></ul>"
+      "foco": "Bronquiectasias e infección por Pseudomonas aeruginosa",
+      "title": "Bronquiectasias y Pseudomonas",
+      "contentHtml": "<h2>Bronquiectasias e infección por Pseudomonas aeruginosa</h2><ul><li>El defecto de <b>CFTR</b> produce moco espeso, depuración mucociliar alterada e inflamación crónica que lleva a <b>bronquiectasias</b> (dilatación irreversible de bronquios).</li><li><b>Pseudomonas aeruginosa</b> es el patógeno clave: colonización inicial intermitente, luego <b>infección crónica</b> con biopelícula; se asocia a deterioro de la función pulmonar (volumen espiratorio forzado en el primer segundo, VEF1).</li><li>Primer aislamiento de <b>Pseudomonas aeruginosa</b>: erradicación con <b>tobramicina inhalada</b> o <b>colistina</b> ± ciprofloxacino oral durante 4-6 semanas.</li><li>Exacerbación pulmonar: antibiótico intravenoso con cobertura de <b>Pseudomonas aeruginosa</b> (β-lactámico antipseudomónico + aminoglucósido), fisioterapia respiratoria y <b>azitromicina</b> como antiinflamatorio en &gt;6 años.</li><li>Trampa: <b>Staphylococcus aureus</b> y <b>Haemophilus influenzae</b> predominan en edades tempranas; <b>Burkholderia cepacia</b> contraindica trasplante por alta mortalidad.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Neumatosis intestinal y obstrucción distal",
-      "title": "Neumatosis intestinal y síndrome de obstrucción intestinal distal",
-      "contentHtml": "<h2>Neumatosis intestinal y obstrucción distal</h2><ul><li>El <b>síndrome de obstrucción intestinal distal (DIOS)</b> es obstrucción del íleon terminal por heces espesas; no confundir con íleo meconial (neonatal).</li><li>Clínica: dolor abdominal, masa palpable en fosa ilíaca derecha, vómitos; radiografía muestra niveles y <b>neumatosis intestinal</b> (gas en pared intestinal) en casos graves.</li><li>Factores de riesgo: <b>insuficiencia pancreática exocrina</b> no tratada, deshidratación, uso de opioides.</li><li>Tratamiento: hidratación, enema con <b>N-acetilcisteína</b> o contraste hidrosoluble; si no resuelve, <b>polietilenglicol</b> oral o lavado intestinal.</li></ul>"
+      "foco": "Síndrome de deshidratación salina en lactante",
+      "title": "Síndrome de deshidratación salina",
+      "contentHtml": "<h2>Síndrome de deshidratación salina en lactante</h2><ul><li><b>Síndrome de deshidratación salina</b> (alcalosis metabólica hipoclorémica): pérdida excesiva de sal por sudor en climas calurosos; típico en lactantes con fibrosis quística no diagnosticada.</li><li>Clínica: deshidratación hipotónica, <b>hiponatremia</b>, <b>hipocloremia</b>, alcalosis metabólica, vómitos, letargo e incluso shock hipovolémico.</li><li>Fisiopatología: el sudor en fibrosis quística tiene <b>cloro &gt;60 mmol/L</b> (normal &lt;30 mmol/L); la pérdida de sal supera la capacidad de compensación renal.</li><li>Tratamiento: rehidratación intravenosa con <b>solución salina isotónica</b> (cloruro de sodio al 0.9%) y corrección de electrolitos; evitar soluciones hipotónicas.</li><li>Trampa: no confundir con <b>síndrome de secreción inadecuada de hormona antidiurética</b> (hiponatremia euvolémica) ni con <b>acidosis tubular renal</b>; en fibrosis quística la alcalosis y el cloro urinario bajo orientan.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Azoospermia obstructiva en varones",
-      "title": "Azoospermia obstructiva en fibrosis quística",
-      "contentHtml": "<h2>Azoospermia obstructiva en varones</h2><ul><li>Presente en &gt;95% de varones con fibrosis quística; causa infertilidad por <b>ausencia bilateral congénita de conductos deferentes</b>.</li><li>Los conductos deferentes se atrofian durante el desarrollo embrionario por disfunción del CFTR en el mesonefros.</li><li>Diagnóstico: azoospermia en semen, volumen seminal bajo (pH ácido), ausencia de conductos deferentes en ecografía transrectal.</li><li>No confundir con azoospermia secretora (fallo testicular); aquí la espermatogénesis es normal, por lo que es posible fertilidad asistida (extracción espermática testicular).</li></ul>"
+      "foco": "Diagnóstico diferencial: déficit de alfa-1-antitripsina",
+      "title": "Diferencial: déficit de alfa-1-antitripsina",
+      "contentHtml": "<h2>Diagnóstico diferencial: déficit de alfa-1-antitripsina</h2><ul><li><b>Déficit de alfa-1-antitripsina</b>: enfermedad autosómica recesiva (alelos <b>PiZZ</b>) que causa <b>enfisema panacinar</b> precoz y <b>hepatopatía</b> (colestasis neonatal, cirrosis).</li><li>Diferencia clave con fibrosis quística: <b>prueba del sudor normal</b>, <b>elastasa-1 fecal normal</b>, sin íleo meconial ni bronquiectasias por Pseudomonas aeruginosa.</li><li>Diagnóstico: <b>niveles séricos de alfa-1-antitripsina</b> bajos (&lt;11 µmol/L) y fenotipo <b>PiZZ</b> por isoelectroenfoque.</li><li>Otras causas de bronquiectasias pediátricas: <b>inmunodeficiencias</b> (déficit de inmunoglobulina A, enfermedad granulomatosa crónica), <b>síndrome de Kartagener</b> (discinesia ciliar), <b>secuelas postinfecciosas</b> (adenovirus, tuberculosis).</li><li>Trampa: el déficit de alfa-1-antitripsina no da esteatorrea ni alteración del cloro en sudor; la fibrosis quística no da enfisema panacinar típico en la infancia.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Déficit de vitaminas liposolubles",
-      "title": "Déficit de vitaminas liposolubles en fibrosis quística",
-      "contentHtml": "<h2>Déficit de vitaminas liposolubles</h2><ul><li>Consecuencia de la <b>insuficiencia pancreática exocrina</b> y mala absorción de grasas; afecta vitaminas A, D, E, K.</li><li>Vitamina A: xeroftalmía, ceguera nocturna; vitamina D: raquitismo, osteoporosis; vitamina E: neuropatía periférica, anemia hemolítica; vitamina K: coagulopatía (tiempo de protrombina prolongado).</li><li>Monitorización anual: niveles séricos de retinol, 25-hidroxivitamina D, alfa-tocoferol y tiempo de protrombina.</li><li>Suplementación: <b>vitamina A</b> 5000–10000 UI/día, <b>vitamina D</b> 800–2000 UI/día, <b>vitamina E</b> 100–400 UI/día, <b>vitamina K</b> 1–5 mg/día (oral).</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Poliposis nasal y sinusitis crónica",
-      "title": "Poliposis nasal y sinusitis crónica en fibrosis quística",
-      "contentHtml": "<h2>Poliposis nasal y sinusitis crónica</h2><ul><li>Manifestación otorrinolaringológica frecuente (≈30–50%); los pólipos nasales son inflamatorios, no alérgicos, y tienden a recurrir tras cirugía.</li><li>La <b>sinusitis crónica</b> es casi universal en fibrosis quística; las secreciones espesas obstruyen los ostium sinusales.</li><li>Microbiología: cultivo de senos paranasales suele aislar <b>Pseudomonas aeruginosa</b> o <b>Staphylococcus aureus</b>.</li><li>Tratamiento: lavados nasales con solución salina hipertónica, corticoides intranasales, antibióticos (orales o tópicos) según cultivo; cirugía endoscópica si obstrucción severa.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Tratamiento con moduladores CFTR",
-      "title": "Moduladores del CFTR en fibrosis quística",
-      "contentHtml": "<h2>Tratamiento con moduladores CFTR</h2><ul><li>Fármacos que corrigen el defecto de la proteína CFTR: <b>ivacaftor</b> (potenciador), <b>lumacaftor</b>, <b>tezacaftor</b> y <b>elexacaftor</b> (correctores).</li><li>Indicación principal: pacientes con al menos una copia de mutación <b>F508del</b> (elexacaftor/tezacaftor/ivacaftor es el régimen más eficaz).</li><li>Beneficios: mejora del volumen espiratorio forzado en el primer segundo (VEF1), reducción de exacerbaciones pulmonares, aumento de peso y descenso del cloruro en sudor.</li><li>Efectos adversos: elevación de transaminasas, catarata (en niños), interacción con inductores del citocromo P450 (evitar rifampicina, carbamazepina).</li></ul>"
+      "foco": "Fibrosis quística atípica con sudor normal o limítrofe",
+      "title": "Fibrosis quística atípica",
+      "contentHtml": "<h2>Fibrosis quística atípica con sudor normal o limítrofe</h2><ul><li><b>Fibrosis quística atípica</b> (no clásica): clínica leve o monosintomática, <b>prueba del sudor normal (&lt;30 mmol/L)</b> o <b>limítrofe (30-59 mmol/L)</b>, y una o ninguna mutación identificable.</li><li>Presentaciones: bronquiectasias de lóbulos superiores, pancreatitis recurrente, infertilidad masculina por <b>ausencia congénita bilateral de conductos deferentes</b>, sinusitis crónica.</li><li>Diagnóstico: <b>diferencia de potencial nasal</b> (prueba de referencia funcional), <b>estudio genético completo de CFTR</b> (secuenciación) y <b>elastasa-1 fecal</b>.</li><li>Criterios diagnósticos: al menos <b>una manifestación clínica</b> + evidencia de disfunción de CFTR (sudor &gt;30 mmol/L en dos ocasiones, dos mutaciones patogénicas, o diferencia de potencial nasal alterada).</li><li>Trampa: un sudor limítrofe no descarta fibrosis quística; repetir prueba, ampliar genética y valorar diferencia de potencial nasal antes de excluir.</li></ul>"
     }
   ]
 }

@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Definición y criterios diagnósticos de SIBO",
-      "title": "Definición y criterios diagnósticos",
-      "contentHtml": "<h2>Definición y criterios diagnósticos de SIBO</h2><ul><li><b>SIBO</b> se define como un aumento anormal (>10³ UFC/mL) de bacterias colónicas en el intestino delgado.</li><li>El estándar de referencia es el <b>cultivo cuantitativo de aspirado yeyunal</b>, con punto de corte ≥10³ UFC/mL para bacterias aerobias/anaerobias.</li><li>La <b>prueba de hidrógeno espirado con lactulosa</b> es la alternativa no invasiva más usada; un aumento ≥20 ppm de H₂ sobre basal dentro de los primeros 90 minutos sugiere SIBO.</li><li>Se requieren al menos dos muestras de aspirado con <b>≥10³ UFC/mL</b> para diagnóstico definitivo en investigación.</li></ul>"
+      "foco": "Criterio diagnóstico: >10^5 UFC/mL en aspirado yeyunal",
+      "title": "Criterio diagnóstico de sobrecrecimiento bacteriano intestinal",
+      "contentHtml": "<h2>Criterio diagnóstico de sobrecrecimiento bacteriano intestinal</h2><ul><li><b>Estándar de referencia:</b> cultivo cuantitativo de aspirado yeyunal con <b>&gt;10^5 UFC/mL</b>; muestra obtenida por endoscopia digestiva alta con catéter estéril, evitando contaminación orofaríngea.</li><li><b>Limitaciones:</b> invasivo, costoso, falsos negativos por bacterias no cultivables y falsos positivos por contaminación; por ello en la práctica se prefiere la prueba de aliento.</li><li><b>Umbral alternativo:</b> algunos laboratorios usan &gt;10^3 UFC/mL para sobrecrecimiento bacteriano intestinal del intestino delgado proximal, pero el criterio clásico de examen es <b>&gt;10^5 UFC/mL</b>.</li><li><b>Trampa de examen:</b> no confundir con &gt;10^5 UFC/mL en orina (infección urinaria); el aspirado yeyunal es el sitio correcto.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Prueba de hidrógeno espirado con lactulosa",
-      "title": "Prueba de hidrógeno espirado con lactulosa",
-      "contentHtml": "<h2>Prueba de hidrógeno espirado con lactulosa</h2><ul><li>Se administran <b>10-15 g de lactulosa</b> en 250 mL de agua; se miden H₂ y CH₄ cada 20 minutos por 3 horas.</li><li>Un pico de <b>≥20 ppm de H₂</b> por encima del basal dentro de los primeros 90 minutos indica SIBO (no confundir con pico colónico tardío).</li><li>La producción de metano (CH₄ ≥10 ppm) sugiere sobrecrecimiento de <i>Methanobrevibacter smithii</i> asociado a estreñimiento.</li><li>Falsos positivos: tránsito rápido (gastroparesia), hipoclorhidria, dieta alta en fibra el día previo.</li></ul>"
+      "foco": "SIBO por hipoclorhidria y uso de IBP",
+      "title": "Sobrecrecimiento bacteriano intestinal por hipoclorhidria e inhibidores de bomba de protones",
+      "contentHtml": "<h2>Sobrecrecimiento bacteriano intestinal por hipoclorhidria e inhibidores de bomba de protones</h2><ul><li><b>Fisiopatología:</b> el ácido gástrico es barrera bactericida; la hipoclorhidria (gastritis atrófica autoinmune, gastrectomía, infección por <i>Helicobacter pylori</i> avanzada) permite colonización del intestino delgado proximal.</li><li><b>Fármaco implicado:</b> el uso crónico de <b>inhibidores de bomba de protones</b> eleva el pH gástrico y se asocia a sobrecrecimiento bacteriano intestinal, especialmente con dosis altas y &gt;1 año.</li><li><b>Pregunta típica:</b> paciente con reflujo en tratamiento prolongado con <b>inhibidores de bomba de protones</b> que desarrolla distensión y diarrea; la conducta es revisar indicación y suspender si es posible.</li><li><b>Diferencial:</b> la hipoclorhidria también favorece infección por <i>Clostridioides difficile</i> y déficit de vitamina B12.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Factores de riesgo: hipoclorhidria y motilidad",
-      "title": "Hipoclorhidria y motilidad",
-      "contentHtml": "<h2>Factores de riesgo: hipoclorhidria y motilidad</h2><ul><li>La <b>hipoclorhidria</b> (pH gástrico >4) por IBP, gastritis atrófica o vagotomía elimina la barrera ácida, permitiendo colonización ascendente.</li><li>La <b>motilidad intestinal alterada</b> (complejo motor migratorio ineficaz) es el factor más importante en esclerodermia, diabetes y pseudoobstrucción.</li><li>El uso crónico de <b>IBP</b> aumenta el riesgo de SIBO hasta 2-3 veces en estudios observacionales.</li><li>Cirugías que alteran la motilidad (bypass gástrico, resecciones) favorecen estasis y sobrecrecimiento.</li></ul>"
+      "foco": "Prueba de aliento con glucosa o lactulosa",
+      "title": "Pruebas de aliento con glucosa o lactulosa",
+      "contentHtml": "<h2>Pruebas de aliento con glucosa o lactulosa</h2><ul><li><b>Prueba de aliento con glucosa:</b> se administran <b>75 g</b> de glucosa oral y se mide hidrógeno espirado cada 15-20 minutos durante 2 horas; positivo si incremento de hidrógeno &gt;20 ppm sobre el basal. Alta especificidad, menor sensibilidad; detecta sobrecrecimiento bacteriano intestinal proximal.</li><li><b>Prueba de aliento con lactulosa:</b> se administran <b>10 g</b> de lactulosa y se mide hidrógeno espirado durante 2 horas; positivo si ascenso &gt;20 ppm antes de los 90 minutos (patrón bifásico). Mayor sensibilidad, menor especificidad; puede dar falsos positivos por tránsito rápido.</li><li><b>Limitación:</b> requieren suspender antibióticos 4 semanas y evitar fibra la noche previa; el metano también puede medirse.</li><li><b>Trampa:</b> la prueba de aliento con glucosa no detecta sobrecrecimiento bacteriano intestinal distal; la lactulosa sí, pero con más falsos positivos.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Síntomas clásicos: distensión y diarrea",
-      "title": "Síntomas clásicos",
-      "contentHtml": "<h2>Síntomas clásicos: distensión y diarrea</h2><ul><li>La tríada clásica es <b>distensión abdominal, diarrea acuosa y flatulencia</b>, a menudo posprandial.</li><li>La diarrea es por <b>ácidos grasos de cadena corta</b> no absorbidos (efecto osmótico) y sales biliares desconjugadas (efecto secretor).</li><li>El dolor abdominal tipo cólico es frecuente, pero no específico; la pérdida de peso y esteatorrea indican formas graves.</li><li>SIBO con predominio de metano se asocia a <b>estreñimiento</b> y distensión, no a diarrea.</li></ul>"
+      "foco": "Síntomas: distensión, diarrea y flatulencia",
+      "title": "Síntomas clínicos del sobrecrecimiento bacteriano intestinal",
+      "contentHtml": "<h2>Síntomas clínicos del sobrecrecimiento bacteriano intestinal</h2><ul><li><b>Tríada clásica:</b> <b>distensión abdominal</b>, <b>diarrea</b> y <b>flatulencia</b>; la diarrea suele ser acuosa, no sanguinolenta, y empeora tras comidas ricas en carbohidratos.</li><li><b>Síntomas asociados:</b> dolor abdominal cólico, borborigmos, náuseas, esteatorrea en casos avanzados por desconjugación de sales biliares.</li><li><b>Diferencial:</b> síndrome de intestino irritable (dolor + distensión sin diarrea crónica), intolerancia a la lactosa (síntomas solo con lácteos), enfermedad celíaca (diarrea + pérdida de peso + anemia).</li><li><b>Pista de examen:</b> la <b>distensión abdominal</b> que mejora con antibióticos y empeora con fibra fermentable orienta a sobrecrecimiento bacteriano intestinal.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Tratamiento con rifaximina como primera línea",
-      "title": "Rifaximina primera línea",
-      "contentHtml": "<h2>Tratamiento con rifaximina como primera línea</h2><ul><li><b>Rifaximina</b> es el fármaco de primera línea: 550 mg tres veces al día por 14 días (dosis para SIBO).</li><li>Es un antibiótico no absorbible (<0.4% biodisponibilidad) que actúa en la luz intestinal contra gram+, gram- y anaerobios.</li><li>Tasa de erradicación inicial ~60-70%; en fracaso se puede repetir ciclo o asociar <b>metronidazol</b> (250 mg TID) o <b>ciprofloxacino</b> (500 mg BID) por 7-14 días.</li><li>En SIBO productor de metano, se añade <b>neomicina</b> (500 mg BID) o <b>metronidazol</b> a la rifaximina.</li></ul>"
+      "foco": "Fisiopatología: estasis intestinal y malabsorción",
+      "title": "Fisiopatología: estasis intestinal y malabsorción",
+      "contentHtml": "<h2>Fisiopatología: estasis intestinal y malabsorción</h2><ul><li><b>Mecanismo central:</b> la <b>estasis intestinal</b> (dismotilidad, obstrucción parcial, divertículos, asas ciegas) permite proliferación bacteriana en intestino delgado proximal, donde normalmente hay &lt;10^3 UFC/mL.</li><li><b>Malabsorción:</b> las bacterias desconjugan sales biliares y producen ácidos grasos de cadena corta, lo que genera esteatorrea, déficit de vitaminas liposolubles y diarrea osmótica.</li><li><b>Consecuencia inflamatoria:</b> lesión de borde en cepillo y atrofia vellositaria leve, que agrava la malabsorción.</li><li><b>Pregunta típica:</b> paciente con cirugía abdominal previa (asa ciega) que presenta diarrea crónica y pérdida de peso; el mecanismo es <b>estasis intestinal</b> con malabsorción.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Diferencia entre SIBO y síndrome de intestino irritable",
-      "title": "SIBO vs SII",
-      "contentHtml": "<h2>Diferencia entre SIBO y síndrome de intestino irritable</h2><ul><li><b>SIBO</b> cursa con malabsorción (déficit de B12, esteatorrea) y responde a antibióticos; el <b>SII</b> es un trastorno funcional sin marcador objetivo.</li><li>Hasta un 30-50% de pacientes con SII tienen <b>SIBO</b> asociado (especialmente subtipo diarrea), pero no todos los SIBO son SII.</li><li>La <b>prueba de hidrógeno espirado</b> positiva diferencia SIBO de SII puro; sin embargo, el SII puede cursar con falsos positivos por tránsito rápido.</li><li>El tratamiento con rifaximina mejora síntomas en SII-D (estudio TARGET), pero no erradica la causa funcional subyacente.</li></ul>"
+      "foco": "Asociación con esclerodermia y diabetes",
+      "title": "Asociación con esclerodermia y diabetes mellitus",
+      "contentHtml": "<h2>Asociación con esclerodermia y diabetes mellitus</h2><ul><li><b>Esclerodermia:</b> la fibrosis y la dismotilidad del intestino delgado producen estasis intestinal, principal factor de riesgo de sobrecrecimiento bacteriano intestinal; sospechar en esclerodermia con distensión y diarrea.</li><li><b>Diabetes mellitus:</b> la neuropatía autonómica visceral causa enlentecimiento del tránsito intestinal y estasis; también se asocia a gastroparesia.</li><li><b>Otras condiciones:</b> amiloidosis, hipotiroidismo, seudobstrucción intestinal crónica, enfermedad de Parkinson.</li><li><b>Trampa de examen:</b> en esclerodermia, la diarrea crónica no siempre es por sobrecrecimiento bacteriano intestinal; también por malabsorción o colitis microscópica, pero el sobrecrecimiento bacteriano intestinal es la causa más frecuente.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "SIBO asociado a cirugía bariátrica",
-      "title": "SIBO y cirugía bariátrica",
-      "contentHtml": "<h2>SIBO asociado a cirugía bariátrica</h2><ul><li>El <b>bypass gástrico en Y de Roux</b> es el procedimiento con mayor riesgo de SIBO por exclusión duodenal, estasis y cambio de pH.</li><li>La prevalencia de SIBO post-bypass puede alcanzar <b>40-50%</b> a los 2 años, manifestándose con distensión, diarrea y deficiencia de B12.</li><li>La <b>gastrectomía vertical</b> (manga gástrica) tiene menor incidencia, pero también se asocia a hipoclorhidria por resección de células parietales.</li><li>El tratamiento es similar al de SIBO primario; la recurrencia es frecuente y puede requerir procinéticos.</li></ul>"
+      "foco": "Déficit de B12 por consumo bacteriano",
+      "title": "Déficit de vitamina B12 por consumo bacteriano",
+      "contentHtml": "<h2>Déficit de vitamina B12 por consumo bacteriano</h2><ul><li><b>Mecanismo:</b> las bacterias del sobrecrecimiento bacteriano intestinal consumen la <b>vitamina B12</b> (cobalamina) antes de que se absorba en el íleon terminal, generando déficit.</li><li><b>Hallazgo de laboratorio:</b> anemia macrocítica con <b>vitamina B12</b> baja, ácido metilmalónico elevado; el ácido fólico suele estar normal o elevado (síntesis bacteriana).</li><li><b>Diferencial:</b> anemia perniciosa (déficit de factor intrínseco, anticuerpos anti-célula parietal), resección ileal, enfermedad de Crohn ileal.</li><li><b>Pregunta típica:</b> paciente con sobrecrecimiento bacteriano intestinal y anemia macrocítica; el déficit de <b>vitamina B12</b> es por consumo bacteriano, no por malabsorción ileal primaria.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Uso de procinéticos en SIBO recurrente",
-      "title": "Procinéticos en SIBO recurrente",
-      "contentHtml": "<h2>Uso de procinéticos en SIBO recurrente</h2><ul><li>En SIBO recurrente (>3 episodios/año) se consideran procinéticos como <b>prucaloprida</b> (1-4 mg/día) o <b>metoclopramida</b> (10 mg TID) para restaurar el complejo motor migratorio.</li><li>La <b>prucaloprida</b> (agonista 5-HT4) mejora la motilidad intestinal sin efectos extrapiramidales, con evidencia en esclerodermia y pseudoobstrucción.</li><li>La <b>eritromicina</b> en dosis subantibiótica (50-100 mg/día) actúa como agonista de motilina, pero su eficacia a largo plazo es limitada por taquifilaxia.</li><li>Los procinéticos no son primera línea; se reservan para casos con <b>trastorno de motilidad</b> documentado (manometría o gammagrafía).</li></ul>"
+      "foco": "Tratamiento de elección: rifaximina",
+      "title": "Tratamiento de elección: rifaximina",
+      "contentHtml": "<h2>Tratamiento de elección: rifaximina</h2><ul><li><b>Primera línea:</b> <b>rifaximina</b> 550 mg cada 8 horas durante 14 días (o 400 mg cada 8 horas); antibiótico no absorbible, actúa en luz intestinal, baja resistencia sistémica.</li><li><b>Ventajas:</b> escasa absorción sistémica, pocas interacciones, eficaz frente a bacterias grampositivas y gramnegativas; se puede repetir ciclos o usar dosis baja continua en casos recurrentes.</li><li><b>Trampa de examen:</b> no confundir con rifampicina (absorbible, para tuberculosis); la <b>rifaximina</b> es la opción para sobrecrecimiento bacteriano intestinal y encefalopatía hepática.</li><li><b>Medida adjunta:</b> corregir la causa (suspender inhibidores de bomba de protones, tratar estasis, revisar cirugía) para evitar recidivas.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Deficiencia de vitamina B12 por SIBO",
-      "title": "Déficit de B12 por SIBO",
-      "contentHtml": "<h2>Deficiencia de vitamina B12 por SIBO</h2><ul><li>Las bacterias anaerobias en SIBO consumen <b>vitamina B12</b> en el íleon, compitiendo con el factor intrínseco, causando déficit.</li><li>La deficiencia de B12 produce <b>anemia megaloblástica</b> y neuropatía periférica; los niveles séricos de B12 suelen estar bajos con folato normal o elevado.</li><li>A diferencia del déficit por anemia perniciosa, en SIBO la <b>prueba de Schilling</b> puede ser normal (si se corrige con antibióticos).</li><li>El tratamiento incluye <b>reposición parenteral de B12</b> (1000 µg intramuscular/semana) junto con antibióticos para erradicar SIBO.</li></ul>"
+      "foco": "Alternativa: metronidazol o ciprofloxacino",
+      "title": "Alternativas: metronidazol o ciprofloxacino",
+      "contentHtml": "<h2>Alternativas: metronidazol o ciprofloxacino</h2><ul><li><b>Metronidazol:</b> 250-500 mg cada 8 horas durante 7-14 días; útil frente a anaerobios, pero mayor tasa de efectos adversos (neuropatía periférica, efecto disulfiram).</li><li><b>Ciprofloxacino:</b> 500 mg cada 12 horas durante 7-14 días; buena cobertura gramnegativa, pero riesgo de tendinopatía y resistencia.</li><li><b>Otros:</b> tetraciclina, amoxicilina-clavulanato, doxiciclina; elegir según cultivo si está disponible.</li><li><b>Trampa de examen:</b> si la pregunta pide primera línea, la respuesta es <b>rifaximina</b>; <b>metronidazol</b> y <b>ciprofloxacino</b> son alternativas cuando no hay acceso o hay contraindicación.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "SIBO en enfermedades como esclerodermia",
-      "title": "SIBO en esclerodermia",
-      "contentHtml": "<h2>SIBO en enfermedades como esclerodermia</h2><ul><li>La <b>esclerodermia</b> (esclerosis sistémica) causa fibrosis y atrofia de la muscularis propia, alterando el complejo motor migratorio.</li><li>La prevalencia de SIBO en esclerodermia es <b>>50%</b>, especialmente en formas difusas y con anticuerpos anti-Scl-70.</li><li>La clínica incluye <b>seudoobstrucción intestinal</b>, distensión severa y malabsorción; el diagnóstico se confirma con prueba de hidrógeno espirado.</li><li>El tratamiento combina <b>rifaximina</b> cíclica y procinéticos (prucaloprida) de forma crónica, con soporte nutricional.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Papel de la dieta baja en FODMAP",
-      "title": "Dieta baja en FODMAP",
-      "contentHtml": "<h2>Papel de la dieta baja en FODMAP</h2><ul><li>La <b>dieta baja en FODMAP</b> reduce la fermentación de carbohidratos de cadena corta por bacterias intestinales, aliviando distensión y flatulencia.</li><li>No erradica SIBO, pero es coadyuvante sintomático; se recomienda durante 4-6 semanas como parte del manejo global.</li><li>Los alimentos ricos en FODMAP (lactosa, fructosa, sorbitol, fructanos) son sustratos para las bacterias del sobrecrecimiento.</li><li>Tras la fase de restricción, se realiza <b>reintroducción progresiva</b> para identificar tolerancias individuales; no es una dieta de por vida.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Prueba de yodo-absorbente como alternativa",
-      "title": "Prueba de yodo-absorbente",
-      "contentHtml": "<h2>Prueba de yodo-absorbente como alternativa</h2><ul><li>La <b>prueba de yodo-absorbente</b> (test de D-xilosa o de ácido ursodesoxicólico marcado) evalúa la absorción intestinal; no es específica para SIBO.</li><li>El <b>test de D-xilosa</b> (25 g oral, medición en sangre/orina a 1-2 h) es anormal en SIBO por malabsorción, pero su sensibilidad es baja (~50%).</li><li>La <b>prueba de 14C-D-xilosa</b> (con CO₂ espirado) tiene mejor rendimiento, pero no está disponible en la mayoría de centros.</li><li>En la práctica, la <b>prueba de hidrógeno espirado</b> sigue siendo la alternativa no invasiva preferida; la prueba de yodo-absorbente queda relegada a contextos de investigación.</li></ul>"
+      "foco": "Falso positivo del aliento en tránsito rápido",
+      "title": "Falso positivo del aliento en tránsito rápido",
+      "contentHtml": "<h2>Falso positivo del aliento en tránsito rápido</h2><ul><li><b>Mecanismo:</b> en el tránsito rápido, la lactulosa llega precozmente al colon y las bacterias colónicas fermentan, generando hidrógeno espirado antes de 90 minutos, simulando sobrecrecimiento bacteriano intestinal.</li><li><b>Prueba afectada:</b> principalmente la prueba de aliento con lactulosa; la prueba de aliento con glucosa es menos susceptible porque la glucosa se absorbe en intestino delgado proximal.</li><li><b>Cómo diferenciar:</b> un ascenso único y temprano &lt;90 minutos sugiere tránsito rápido; el patrón bifásico (ascenso temprano y segundo ascenso) sugiere sobrecrecimiento bacteriano intestinal.</li><li><b>Pregunta típica:</b> paciente con diarrea y prueba de aliento con lactulosa positiva precoz; considerar <b>tránsito rápido</b> como causa de falso positivo antes de tratar sobrecrecimiento bacteriano intestinal.</li></ul>"
     }
   ]
 }

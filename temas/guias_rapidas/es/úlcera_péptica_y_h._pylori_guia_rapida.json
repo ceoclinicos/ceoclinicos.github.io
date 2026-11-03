@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Triada clásica de úlcera duodenal",
-      "title": "Triada clásica de úlcera duodenal",
-      "contentHtml": "<h2>Triada clásica de úlcera duodenal</h2><ul><li><b>Dolor epigástrico que mejora con alimentos</b>, <b>despierta al paciente 2-3 h después de dormir</b> y <b>se alivia con antiácidos</b>.</li><li>El dolor es <b>quemante o urente</b>, localizado en epigastrio, y típicamente aparece <b>90-180 min después de las comidas</b>.</li><li>La triada tiene <b>sensibilidad ~70%</b> pero <b>baja especificidad</b>; su ausencia no descarta úlcera.</li><li>El <b>síndrome de Zollinger-Ellison</b> (gastrinoma) debe sospecharse si hay úlceras múltiples, refractarias o en localizaciones atípicas.</li></ul>"
+      "foco": "Úlcera péptica: principal causa H. pylori",
+      "title": "H. pylori como causa principal de úlcera péptica",
+      "contentHtml": "<h2>Úlcera péptica y Helicobacter pylori</h2><ul><li><b>Helicobacter pylori</b> es la causa más frecuente de úlcera péptica (gástrica y duodenal), presente en &gt;70-80% de úlceras duodenales y &gt;50-60% de gástricas.</li><li>La úlcera duodenal predomina en antro y bulbo; la gástrica en curvatura menor.</li><li>Fisiopatología: colonización del antro → gastritis crónica activa → hipergastrinemia → hipersecreción ácida → lesión mucosal.</li><li>Diagnóstico diferencial: úlcera por antiinflamatorios no esteroideos (AINE), síndrome de Zollinger-Ellison (gastrinoma), úlcera por estrés, infección por citomegalovirus o herpes simple en inmunosuprimidos.</li><li>Trampa de examen: atribuir úlcera a estrés o dieta sin descartar <b>Helicobacter pylori</b>; siempre buscar la infección.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Dolor epigástrico que mejora con alimentos",
-      "title": "Dolor epigástrico que mejora con alimentos",
-      "contentHtml": "<h2>Dolor epigástrico que mejora con alimentos</h2><ul><li>Es el <b>dato clínico más distintivo de úlcera duodenal</b> (vs. úlcera gástrica donde el dolor suele empeorar con la ingesta).</li><li>Mecanismo: los alimentos <b>amortiguan el ácido</b> y diluyen la secreción gástrica, aliviando el dolor temporalmente.</li><li>El dolor reaparece <b>2-3 horas después</b> cuando el ácido rebrota y el estómago está vacío.</li><li>En <b>úlcera gástrica</b>, el dolor puede aparecer <b>inmediatamente después de comer</b> y no mejora con alimentos; esto orienta a <b>biopsia obligatoria</b> por riesgo de malignidad.</li></ul>"
+      "foco": "H. pylori bacilo gramnegativo curvado microaerófilo",
+      "title": "Microbiología de Helicobacter pylori",
+      "contentHtml": "<h2>Características microbiológicas</h2><ul><li><b>Helicobacter pylori</b> es un bacilo gramnegativo curvado (forma de espiral), microaerófilo, oxidasa y ureasa positivo, móvil por flagelos polares.</li><li>Coloniza la mucosa gástrica (antro principalmente) y sobrevive en pH ácido gracias a la ureasa que genera amonio y neutraliza el medio.</li><li>Cultivo: medio selectivo (Skirrow o Columbia con sangre), incubación microaerófila a 37 °C, 48-72 h; es fastidioso y poco usado en clínica.</li><li>Tinción de Giemsa o Warthin-Starry en biopsia gástrica.</li><li>Trampa: no confundir con Campylobacter jejuni (que es microaerófilo pero no ureasa positivo y causa enteritis).</li></ul>"
     },
     {
       "order": 3,
-      "foco": "H. pylori: ureasa y factores de virulencia",
-      "title": "H. pylori: ureasa y factores de virulencia",
-      "contentHtml": "<h2>H. pylori: ureasa y factores de virulencia</h2><ul><li><b>Ureasa</b>: enzima clave que hidroliza urea en amoníaco, generando un microambiente alcalino que permite la supervivencia en pH gástrico.</li><li><b>Factores de virulencia principales</b>: <b>CagA</b> (asociado a mayor riesgo de cáncer gástrico y úlcera péptica) y <b>VacA</b> (vacuolización de células epiteliales).</li><li><b>Adhesinas</b> (BabA, SabA) facilitan la colonización de la mucosa.</li><li>La <b>prueba rápida de ureasa</b> en biopsia gástrica detecta actividad de ureasa en <1 hora; sensibilidad >90% si hay colonización activa.</li></ul>"
+      "foco": "Prueba de urea en aliento para erradicación",
+      "title": "Prueba de urea en aliento",
+      "contentHtml": "<h2>Prueba de urea en aliento</h2><ul><li>Prueba de elección no invasiva para confirmar erradicación de <b>Helicobacter pylori</b>: detecta ureasa bacteriana mediante urea marcada con carbono-13 o carbono-14.</li><li>Realizar al menos <b>4 semanas</b> después de terminar antibióticos y <b>2 semanas</b> después de suspender inhibidores de bomba de protones para evitar falsos negativos.</li><li>Sensibilidad y especificidad &gt;90%.</li><li>Alternativa no invasiva: antígeno fecal (también útil para erradicación).</li><li>Trampa: la prueba de urea en aliento no distingue infección activa de pasada; es la prueba de control postratamiento.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Prueba de aliento con urea marcada",
-      "title": "Prueba de aliento con urea marcada",
-      "contentHtml": "<h2>Prueba de aliento con urea marcada</h2><ul><li>Utiliza <b>urea marcada con <sup>13</sup>C o <sup>14</sup>C</b>; si <b>H. pylori</b> está presente, la ureasa hidroliza la urea y se detecta <b>CO<sub>2</sub> marcado en el aliento</b>.</li><li><b>Sensibilidad y especificidad >95%</b>; es la prueba no invasiva de elección para diagnóstico y para confirmar <b>erradicación post-tratamiento</b> (esperar ≥4 semanas tras finalizar antibióticos).</li><li>Requiere ayuno de <b>4-6 horas</b> y suspender <b>IBP</b> (al menos 2 semanas) y antibióticos (4 semanas) previo a la prueba.</li><li>No debe usarse en pacientes con <b>gastrectomía</b> (falsos negativos por alteración anatómica).</li></ul>"
+      "foco": "Serología no útil para confirmar erradicación",
+      "title": "Limitaciones de la serología",
+      "contentHtml": "<h2>Serología en Helicobacter pylori</h2><ul><li>La serología (inmunoglobulina G anti-<b>Helicobacter pylori</b>) no distingue infección activa de pasada y permanece positiva meses o años tras la erradicación.</li><li>Por ello <b>no es útil para confirmar erradicación</b>; solo sirve para cribado inicial en dispepsia no investigada en algunas guías.</li><li>Falsos negativos en inmunosuprimidos; falsos positivos por reacción cruzada con otras bacterias.</li><li>Para confirmar erradicación usar prueba de urea en aliento o antígeno fecal.</li><li>Trampa de examen: elegir serología como control postratamiento; es incorrecto.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Antígeno fecal para diagnóstico de H. pylori",
-      "title": "Antígeno fecal para diagnóstico de H. pylori",
-      "contentHtml": "<h2>Antígeno fecal para diagnóstico de H. pylori</h2><ul><li>Detecta <b>antígenos de H. pylori</b> en heces mediante <b>ELISA o inmunocromatografía</b>.</li><li><b>Sensibilidad y especificidad ~90-95%</b>, comparable a la prueba de aliento.</li><li>Útil para <b>diagnóstico inicial</b> y <b>control de erradicación</b> (al igual que la prueba de aliento, esperar ≥4 semanas post-tratamiento).</li><li>Ventaja: no requiere ayuno ni equipos especializados; desventaja: menor precisión en <b>hemorragia digestiva activa</b> (falsos negativos).</li><li>No debe usarse si el paciente ha tomado <b>IBP</b> en las últimas 2 semanas o antibióticos en las últimas 4 semanas.</li></ul>"
+      "foco": "Úlcera gástrica requiere biopsia por riesgo maligno",
+      "title": "Úlcera gástrica y biopsia",
+      "contentHtml": "<h2>Úlcera gástrica: riesgo de malignidad</h2><ul><li>Toda <b>úlcera gástrica</b> requiere biopsia endoscópica (múltiples tomas de bordes y base) para descartar adenocarcinoma gástrico, y repetir endoscopia con biopsia tras 6-8 semanas de tratamiento para confirmar cicatrización.</li><li>La úlcera duodenal no requiere biopsia rutinaria por su baja tasa de malignidad.</li><li>Signos endoscópicos de alarma: bordes irregulares, nodulares, fondo necrótico, tamaño &gt;2 cm.</li><li>La úlcera gástrica maligna puede simular úlcera benigna; la biopsia es obligatoria.</li><li>Trampa: no repetir endoscopia en úlcera gástrica tratada; siempre controlar cicatrización y biopsia.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Triple terapia: IBP, amoxicilina, claritromicina",
-      "title": "Triple terapia: IBP, amoxicilina, claritromicina",
-      "contentHtml": "<h2>Triple terapia: IBP, amoxicilina, claritromicina</h2><ul><li>Esquema de <b>primera línea</b> para erradicación de <b>H. pylori</b> en zonas con <b>resistencia a claritromicina <15%</b>.</li><li>Dosis estándar: <b>IBP (dosis estándar c/12h)</b> + <b>amoxicilina 1 g c/12h</b> + <b>claritromicina 500 mg c/12h</b> durante <b>14 días</b>.</li><li>Si el paciente es alérgico a penicilina, sustituir amoxicilina por <b>metronidazol 500 mg c/12h</b> (cuádruple terapia con bismuto o terapia secuencial).</li><li>Tasa de erradicación con triple terapia clásica: ~80-90% si resistencia <15%; si resistencia >15%, usar <b>terapia cuádruple con bismuto</b> (IBP + bismuto + metronidazol + tetraciclina).</li></ul>"
+      "foco": "Erradicación reduce recidiva ulcerosa",
+      "title": "Erradicación y recidiva",
+      "contentHtml": "<h2>Beneficio de la erradicación</h2><ul><li>La erradicación de <b>Helicobacter pylori</b> reduce la recidiva de úlcera péptica de &gt;60-80% a &lt;5-10% anual.</li><li>También disminuye complicaciones (hemorragia, perforación) y la incidencia de carcinoma gástrico.</li><li>En úlcera duodenal, la erradicación cura la enfermedad en la mayoría de pacientes sin necesidad de mantenimiento con inhibidores de bomba de protones.</li><li>En úlcera gástrica, tras erradicación y cicatrización, el seguimiento endoscópico es obligatorio.</li><li>Trampa: mantener inhibidores de bomba de protones indefinidamente sin erradicar; la erradicación es prioritaria.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Úlcera gástrica: riesgo de malignidad",
-      "title": "Úlcera gástrica: riesgo de malignidad",
-      "contentHtml": "<h2>Úlcera gástrica: riesgo de malignidad</h2><ul><li>Toda <b>úlcera gástrica</b> debe ser biopsiada durante la <b>esofagogastroduodenoscopia</b> (mínimo 6-8 biopsias de bordes y fondo) para descartar <b>adenocarcinoma gástrico</b> o <b>linfoma MALT</b>.</li><li>El riesgo de malignidad en úlcera gástrica es <b>~2-5%</b>; en úlcera duodenal es <b><1%</b> (no requiere biopsia de rutina).</li><li>Características de alarma: <b>pérdida de peso</b>, <b>anemia ferropénica</b>, <b>disfagia</b>, <b>vómitos persistentes</b>, <b>masa epigástrica</b>.</li><li>Si la úlcera no cicatriza tras <b>8-12 semanas de tratamiento</b> con IBP, repetir endoscopia con biopsias.</li></ul>"
+      "foco": "Triple terapia con IBP más dos antibióticos",
+      "title": "Triple terapia erradicadora",
+      "contentHtml": "<h2>Triple terapia con inhibidor de bomba de protones</h2><ul><li>Pauta clásica: <b>inhibidor de bomba de protones</b> (omeprazol 20 mg, lansoprazol 30 mg o esomeprazol 40 mg cada 12 h) + <b>amoxicilina 1 g cada 12 h</b> + <b>claritromicina 500 mg cada 12 h</b> durante <b>14 días</b> (antes 7-10 días; actualmente 14 días por resistencias).</li><li>Alternativa con metronidazol 500 mg cada 12 h en alérgicos a penicilina.</li><li>La resistencia a claritromicina reduce eficacia; considerar terapia cuádruple con bismuto en áreas de alta resistencia.</li><li>Confirmar erradicación con prueba de urea en aliento o antígeno fecal a las 4-6 semanas.</li><li>Trampa: usar triple terapia 7 días; hoy se recomienda 14 días.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Hemoglobina y sangrado de úlcera péptica",
-      "title": "Hemoglobina y sangrado de úlcera péptica",
-      "contentHtml": "<h2>Hemoglobina y sangrado de úlcera péptica</h2><ul><li>La <b>hemoglobina</b> inicial no refleja la magnitud de la pérdida aguda; la <b>hemodilución</b> ocurre después de 24-72 h.</li><li>La <b>relación BUN/creatinina >30:1</b> sugiere sangrado digestivo alto (degradación de proteínas sanguíneas en intestino).</li><li>En <b>hemorragia activa</b>, la <b>endoscopia urgente</b> (dentro de 12-24 h) es el estándar; la <b>escala de Rockall</b> y <b>Blatchford</b> estratifican riesgo de resangrado y mortalidad.</li><li>La <b>transfusión</b> debe ser restrictiva (Hb <7 g/dL) en pacientes estables, y <9 g/dL en aquellos con enfermedad cardiovascular.</li></ul>"
+      "foco": "Contraindicado AINE y tabaco en úlcera",
+      "title": "Factores agravantes: AINE y tabaco",
+      "contentHtml": "<h2>AINE y tabaco en úlcera péptica</h2><ul><li>Los <b>antiinflamatorios no esteroideos (AINE)</b> están contraindicados en úlcera péptica activa o con antecedente de hemorragia; si son imprescindibles, usar el menor tiempo posible junto con inhibidor de bomba de protones.</li><li>El <b>tabaco</b> retrasa la cicatrización, aumenta la recidiva y disminuye la eficacia de la erradicación; debe suspenderse.</li><li>Otros agravantes: alcohol, corticosteroides, anticoagulantes.</li><li>En pacientes con úlcera que requieren AINE, profilaxis con inhibidor de bomba de protones.</li><li>Trampa: indicar AINE en úlcera activa; es contraindicación relativa/absoluta según contexto.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Perforación: neumoperitoneo en radiografía",
-      "title": "Perforación: neumoperitoneo en radiografía",
-      "contentHtml": "<h2>Perforación: neumoperitoneo en radiografía</h2><ul><li><b>Neumoperitoneo</b> (aire libre subdiafragmático) es el hallazgo radiológico clásico de perforación de úlcera péptica.</li><li>Se detecta en <b>radiografía de tórax en bipedestación</b> o <b>abdomen en decúbito lateral izquierdo</b>; sensibilidad ~70-80%.</li><li>Si la radiografía es negativa pero hay alta sospecha, solicitar <b>tomografía computarizada abdominal</b> con contraste oral (mayor sensibilidad).</li><li>La <b>perforación de úlcera duodenal</b> es más frecuente en cara anterior; la <b>perforación gástrica</b> puede presentar neumoperitoneo o <b>neumoperitoneo encapsulado</b>.</li></ul>"
+      "foco": "Dispepsia de alarma: pérdida de peso y anemia",
+      "title": "Dispepsia con signos de alarma",
+      "contentHtml": "<h2>Dispepsia de alarma</h2><ul><li>Signos de alarma en dispepsia: <b>pérdida de peso no intencionada</b>, <b>anemia</b> (ferropénica), disfagia, odinofagia, vómitos persistentes, hematemesis, melena, masa abdominal, edad &gt;55 años con síntomas nuevos.</li><li>Ante signos de alarma: endoscopia digestiva alta inmediata, no prueba empírica de <b>Helicobacter pylori</b> ni inhibidor de bomba de protones.</li><li>La anemia ferropénica en dispepsia obliga a descartar cáncer gástrico y úlcera sangrante.</li><li>Sin signos de alarma: estrategia test-and-treat para <b>Helicobacter pylori</b> o inhibidor de bomba de protones empírico.</li><li>Trampa: tratar empíricamente dispepsia con pérdida de peso; requiere endoscopia.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Reflujo gastroesofágico y úlcera péptica",
-      "title": "Reflujo gastroesofágico y úlcera péptica",
-      "contentHtml": "<h2>Reflujo gastroesofágico y úlcera péptica</h2><ul><li>Son <b>entidades distintas</b>; la <b>úlcera péptica</b> se localiza en estómago o duodeno, mientras que el <b>reflujo gastroesofágico (enfermedad por reflujo gastroesofágico)</b> afecta esófago distal.</li><li>El <b>dolor por enfermedad por reflujo gastroesofágico</b> es retroesternal, con regurgitación ácida y empeora al acostarse; el <b>dolor ulceroso</b> es epigástrico y se relaciona con comidas.</li><li>La <b>infección por H. pylori</b> no causa enfermedad por reflujo gastroesofágico; de hecho, la erradicación puede empeorar el reflujo en algunos pacientes (disminución de gastritis corporal).</li><li>La <b>terapia con IBP</b> es común para ambas, pero la duración y la necesidad de pruebas diagnósticas (endoscopia) difieren.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "AINEs como causa de úlcera gástrica",
-      "title": "AINEs como causa de úlcera gástrica",
-      "contentHtml": "<h2>AINEs como causa de úlcera gástrica</h2><ul><li>Los <b>AINEs</b> inhiben <b>COX-1</b> y <b>COX-2</b>, reduciendo la síntesis de <b>prostaglandinas</b> protectoras de la mucosa gástrica.</li><li>El riesgo de úlcera gástrica es <b>3-5 veces mayor</b> en usuarios crónicos; el riesgo de complicaciones (sangrado, perforación) es dosis-dependiente.</li><li>Factores de riesgo: <b>edad >65 años</b>, <b>antecedente de úlcera</b>, <b>uso concomitante de anticoagulantes/antiagregantes</b>, <b>dosis altas</b> y <b>uso de múltiples AINEs</b>.</li><li>Profilaxis: <b>IBP</b> o <b>misoprostol</b> en pacientes de alto riesgo; los <b>COXIB</b> reducen riesgo de úlcera pero no lo eliminan.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Esofagogastroduodenoscopia con biopsia",
-      "title": "Esofagogastroduodenoscopia con biopsia",
-      "contentHtml": "<h2>Esofagogastroduodenoscopia con biopsia</h2><ul><li>Es el <b>gold standard</b> para diagnóstico de úlcera péptica y detección de <b>H. pylori</b>.</li><li>Se toman <b>biopsias de antro y cuerpo gástrico</b> para <b>prueba rápida de ureasa</b>, <b>histología</b> y <b>cultivo</b> (si hay resistencia antibiótica).</li><li>En <b>úlcera gástrica</b>, biopsiar bordes y fondo (mínimo 6-8) para descartar malignidad; en <b>úlcera duodenal</b>, la biopsia no es rutinaria.</li><li>La endoscopia está indicada en: <b>disfagia</b>, <b>anemia ferropénica</b>, <b>pérdida de peso</b>, <b>vómitos persistentes</b>, <b>hemorragia digestiva</b> o <b>fallo de tratamiento</b>.</li></ul>"
+      "foco": "H. pylori asociado a linfoma MALT gástrico",
+      "title": "Helicobacter pylori y linfoma MALT",
+      "contentHtml": "<h2>Linfoma MALT gástrico</h2><ul><li><b>Helicobacter pylori</b> se asocia a linfoma de tejido linfoide asociado a mucosas (MALT) gástrico, de bajo grado, derivado de linfocitos B.</li><li>La erradicación de <b>Helicobacter pylori</b> induce regresión del linfoma MALT localizado en estadios tempranos en &gt;60-80% de casos.</li><li>Diagnóstico: endoscopia con biopsias múltiples, estudio histológico e inmunohistoquímico; estadificación con tomografía y ecoendoscopia.</li><li>Seguimiento endoscópico obligatorio tras erradicación; si no hay regresión, quimioterapia o radioterapia.</li><li>Trampa: pensar que el linfoma MALT siempre requiere quimioterapia inicial; la erradicación es primera línea en enfermedad localizada.</li></ul>"
     }
   ]
 }

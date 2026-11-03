@@ -1,0 +1,65 @@
+{
+  "id": "fisiologia_circulacion",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Ley de Poiseuille y resistencia vascular",
+      "title": "Ley de Poiseuille y resistencia vascular",
+      "contentHtml": "<h2>Ley de Poiseuille y resistencia vascular</h2><ul><li><b>Ley de Poiseuille</b>: resistencia vascular = (8 × viscosidad × longitud) / (π × radio⁴). El radio es el determinante dominante: duplicar el radio reduce la resistencia a la mitad elevada a la cuarta, es decir, <b>16 veces</b>.</li><li>La resistencia total de vasos en serie es la suma; en paralelo, la inversa de la suma de inversas. La circulación sistémica es principalmente en paralelo, lo que permite autorregulación regional independiente.</li><li>El sitio de mayor resistencia son las <b>arteriolas</b>; su tono regula la presión arterial media y la distribución del gasto cardíaco.</li><li>Trampa de examen: la ley de Poiseuille solo aplica a flujo laminar, newtoniano y tubo rígido; en la práctica la relación radio-resistencia es cualitativamente cierta, pero la sangre no es newtoniana a bajas velocidades.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Ecuación de continuidad y velocidad del flujo",
+      "title": "Ecuación de continuidad y velocidad del flujo",
+      "contentHtml": "<h2>Ecuación de continuidad y velocidad del flujo</h2><ul><li><b>Ecuación de continuidad</b>: gasto cardíaco = área × velocidad. Si el área total aumenta, la velocidad disminuye para mantener el mismo flujo.</li><li>La velocidad es máxima en la <b>aorta</b> (aproximadamente <b>40 cm/s</b>) y mínima en los capilares (aproximadamente <b>0.03 cm/s</b>), porque el área de sección total capilar es enorme.</li><li>Esa baja velocidad capilar favorece el intercambio por difusión; la velocidad alta en grandes arterias mantiene flujo laminar y baja resistencia.</li><li>Trampa: confundir velocidad con flujo. El flujo (volumen/tiempo) es constante en serie; la velocidad cambia con el área.</li><li><b>Hallazgo clave:</b> en estenosis aórtica, la velocidad del jet aumenta (&gt;4 m/s en estenosis severa) y la presión cae distalmente según Bernoulli.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Presión arterial media: gasto cardíaco por resistencia periférica",
+      "title": "Presión arterial media: gasto cardíaco por resistencia periférica",
+      "contentHtml": "<h2>Presión arterial media: gasto cardíaco por resistencia periférica</h2><ul><li><b>Presión arterial media</b> ≈ gasto cardíaco × resistencia vascular periférica total. Es la presión de perfusión de los órganos.</li><li>Fórmula práctica: presión arterial media ≈ presión diastólica + (presión sistólica − presión diastólica)/3.</li><li>Valor normal en reposo: <b>70–100 mmHg</b>. Por debajo de <b>60 mmHg</b> se compromete la perfusión renal y cerebral.</li><li>El gasto cardíaco = frecuencia cardíaca × volumen sistólico; la resistencia vascular periférica depende del radio arteriolar y de la viscosidad.</li><li>Trampa: en shock distributivo (séptico) la resistencia vascular periférica cae y el gasto cardíaco compensa; la presión arterial media puede ser normal pese a hipoperfusión.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Efecto de la viscosidad y hematocrito en la resistencia",
+      "title": "Viscosidad y hematocrito",
+      "contentHtml": "<h2>Efecto de la viscosidad y hematocrito en la resistencia</h2><ul><li>La viscosidad sanguínea depende del <b>hematocrito</b> y de las proteínas plasmáticas. A mayor hematocrito, mayor viscosidad y mayor resistencia vascular.</li><li>Hematocrito normal: hombre <b>40–50%</b>, mujer <b>36–44%</b>. La viscosidad aumenta de forma no lineal con el hematocrito.</li><li>En <b>policitemia</b> (hematocrito &gt;55%) la resistencia vascular aumenta, eleva la presión arterial media y favorece trombosis.</li><li>En anemia severa (hematocrito &lt;25%) la viscosidad baja y la resistencia disminuye; el gasto cardíaco puede aumentar como compensación.</li><li>Trampa: la viscosidad es el único factor de la ley de Poiseuille modificable por la composición sanguínea; el radio sigue siendo el determinante principal.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Distensibilidad arterial y complacencia venosa",
+      "title": "Distensibilidad arterial y complacencia venosa",
+      "contentHtml": "<h2>Distensibilidad arterial y complacencia venosa</h2><ul><li><b>Distensibilidad</b> = cambio de volumen / cambio de presión. Las arterias son poco distensibles (elásticas) y las venas muy distensibles (compliantes).</li><li>Las venas contienen aproximadamente <b>60–70%</b> del volumen sanguíneo total; actúan como reservorio y regulan el retorno venoso.</li><li>La complacencia venosa permite grandes cambios de volumen con mínimos cambios de presión; por eso la presión venosa central normal es baja (<b>2–6 mmHg</b>).</li><li>La rigidez arterial (pérdida de distensibilidad) eleva la presión sistólica y la presión de pulso, típico de la <b>hipertensión sistólica aislada</b> del anciano.</li><li>Trampa: confundir distensibilidad con elasticidad; la elastancia es el inverso de la complacencia.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Retorno venoso: bomba muscular y válvulas",
+      "title": "Retorno venoso: bomba muscular y válvulas",
+      "contentHtml": "<h2>Retorno venoso: bomba muscular y válvulas</h2><ul><li><b>Retorno venoso</b> = (presión venosa periférica − presión auricular derecha) / resistencia venosa. Depende de la bomba muscular, válvulas venosas, bomba respiratoria y tono venoso.</li><li>La <b>bomba muscular</b> comprime las venas y las <b>válvulas venosas</b> impiden el reflujo; su falla produce insuficiencia venosa crónica y edema.</li><li>La bomba respiratoria: la presión intratorácica negativa en inspiración aspira sangre a la aurícula derecha y aumenta el retorno venoso.</li><li>La presión auricular derecha normal es <b>0–6 mmHg</b>; si aumenta (insuficiencia cardíaca derecha, taponamiento), el retorno venoso cae.</li><li>Trampa: el retorno venoso es máximo en decúbito y mínimo en bipedestación inmóvil; la contracción muscular lo restaura.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Presión hidrostática y oncótica en capilares de Starling",
+      "title": "Fuerzas de Starling capilares",
+      "contentHtml": "<h2>Presión hidrostática y oncótica en capilares de Starling</h2><ul><li><b>Ecuación de Starling</b>: flujo neto = Kf × [(presión hidrostática capilar − presión hidrostática intersticial) − (presión oncótica capilar − presión oncótica intersticial)].</li><li>La <b>presión hidrostática capilar</b> favorece la filtración (extremo arterial ≈ <b>30–35 mmHg</b>); la <b>presión oncótica</b> del plasma (≈ <b>25 mmHg</b>, por albúmina) favorece la reabsorción.</li><li>En el extremo venoso la presión hidrostática cae (≈ <b>10–15 mmHg</b>) y predomina la reabsorción; el exceso drena por linfáticos.</li><li>El <b>coeficiente de filtración</b> (Kf) es alto en glomérulo renal y bajo en músculo.</li><li>Trampa: en la hipoalbuminemia cae la presión oncótica y aparece edema; en la insuficiencia cardíaca sube la presión hidrostática venosa y también edema.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Autorregulación del flujo sanguíneo cerebral y renal",
+      "title": "Autorregulación cerebral y renal",
+      "contentHtml": "<h2>Autorregulación del flujo sanguíneo cerebral y renal</h2><ul><li><b>Autorregulación cerebral</b>: flujo constante entre presiones arteriales medias de <b>60 y 150 mmHg</b>; fuera de ese rango el flujo cae o sube pasivamente.</li><li>Mecanismos: miogénico (respuesta del músculo liso al estiramiento), metabólico (dióxido de carbono, adenosina, potasio) y endotelial (óxido nítrico).</li><li>El flujo cerebral normal es <b>50 mL/100 g/min</b>; por debajo de <b>20 mL/100 g/min</b> hay isquemia y por debajo de <b>10 mL/100 g/min</b> infarto.</li><li><b>Autorregulación renal</b>: flujo constante entre presiones arteriales medias de <b>80 y 180 mmHg</b> por mecanismo miogénico de la arteriola aferente y retroalimentación tubuloglomerular.</li><li>Trampa: en la hipertensión crónica la curva de autorregulación se desplaza a la derecha; reducir la presión bruscamente puede causar isquemia cerebral o renal.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Circulación pulmonar: baja presión y resistencia",
+      "title": "Circulación pulmonar: baja presión y resistencia",
+      "contentHtml": "<h2>Circulación pulmonar: baja presión y resistencia</h2><ul><li>La circulación pulmonar es un sistema de <b>baja presión y baja resistencia</b>: presión arterial pulmonar media normal <b>12–16 mmHg</b>, resistencia vascular pulmonar ≈ <b>1–2 unidades Wood</b>.</li><li>Recibe todo el gasto cardíaco (≈ <b>5 L/min</b>) con presiones mucho menores que la circulación sistémica porque las arteriolas pulmonares son más finas y numerosas.</li><li>La hipoxia alveolar produce <b>vasoconstricción pulmonar hipóxica</b>, mecanismo único que desvía sangre de zonas mal ventiladas (mejora la relación ventilación/perfusión).</li><li>La presión capilar pulmonar normal es <b>7–10 mmHg</b>; si supera <b>25 mmHg</b> aparece edema pulmonar.</li><li>Trampa: la hipoxia sistémica causa vasodilatación, pero en el pulmón causa vasoconstricción; en la hipertensión pulmonar la resistencia aumenta y lleva a cor pulmonale.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Reflejos barorreceptores y quimiorreceptores carotídeos",
+      "title": "Barorreceptores y quimiorreceptores carotídeos",
+      "contentHtml": "<h2>Reflejos barorreceptores y quimiorreceptores carotídeos</h2><ul><li>Los <b>barorreceptores carotídeos</b> (seno carotídeo, nervio glosofaríngeo) y <b>aórticos</b> (nervio vago) detectan estiramiento por presión; su activación inhibe el centro vasomotor y aumenta el tono vagal.</li><li>Ante hipotensión: disminuye la descarga barorreceptora, aumenta la actividad simpática, se eleva la frecuencia cardíaca y la resistencia vascular periférica, y se libera renina.</li><li>Los <b>quimiorreceptores carotídeos</b> (cuerpo carotídeo) responden a hipoxia (presión parcial de oxígeno &lt;60 mmHg), hipercapnia y acidosis, y activan el centro respiratorio y simpático.</li><li>El reflejo barorreceptor se adapta en minutos; es clave en el control minuto a minuto de la presión arterial.</li><li>Trampa: en la hipertensión crónica los barorreceptores se reajustan a presiones mayores; masajear el seno carotídeo puede causar bradicardia e hipotensión (síncope del seno carotídeo).</li></ul>"
+    }
+  ]
+}

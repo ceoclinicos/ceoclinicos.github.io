@@ -1,0 +1,65 @@
+{
+  "id": "fisiologia_respiratoria",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Volumen corriente y capacidades pulmonares",
+      "title": "Volumen corriente y capacidades pulmonares",
+      "contentHtml": "<h2>Volumen corriente y capacidades pulmonares</h2><ul><li><b>Volumen corriente</b>: aire movilizado en respiración tranquila, ~500 ml (6-8 ml/kg).</li><li><b>Capacidad vital</b>: máximo aire espirado tras inspiración máxima; ~4.800 ml en adulto sano (hombre joven).</li><li><b>Capacidad residual funcional</b>: volumen de reposo al final de espiración tranquila (volumen de reserva espiratorio + volumen residual); ~2.300 ml.</li><li><b>Capacidad pulmonar total</b>: ~6.000 ml; <b>volumen residual</b> ~1.200 ml no se mide por espirometría simple (requiere dilución de helio o pletismografía).</li><li>Trampa: la <b>capacidad vital forzada</b> puede ser normal en enfisema por atrapamiento aéreo; el <b>volumen residual</b> elevado delata hiperinsuflación.</li><li>El <b>volumen corriente</b> no equivale a ventilación alveolar: parte se pierde en el espacio muerto anatómico.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Espacio muerto anatómico y fisiológico",
+      "title": "Espacio muerto anatómico y fisiológico",
+      "contentHtml": "<h2>Espacio muerto anatómico y fisiológico</h2><ul><li><b>Espacio muerto anatómico</b>: volumen de vías aéreas conductoras que no participa en intercambio gaseoso; ~150 ml (2 ml/kg).</li><li><b>Espacio muerto fisiológico</b>: suma del anatómico más el alveolar no perfundido (relación ventilación-perfusión = infinito); se estima con la <b>ecuación de Bohr</b>: Vd/Vt = (PaCO2 - PECO2)/PaCO2.</li><li>En pulmón sano, espacio muerto fisiológico ≈ anatómico; en <b>tromboembolismo pulmonar</b> o hipoperfusión, el fisiológico aumenta y eleva la diferencia alveolo-arterial de CO2.</li><li>Trampa: la ventilación minuto útil es <b>ventilación alveolar</b> = (volumen corriente - espacio muerto) × frecuencia respiratoria; taquipnea superficial aumenta el espacio muerto relativo y puede causar hipercapnia.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Ley de Boyle y mecánica ventilatoria",
+      "title": "Ley de Boyle y mecánica ventilatoria",
+      "contentHtml": "<h2>Ley de Boyle y mecánica ventilatoria</h2><ul><li><b>Ley de Boyle</b>: a temperatura constante, presión × volumen = constante; la contracción del diafragma aumenta el volumen torácico y genera presión intrapleural más negativa (de -5 a -8 cmH2O en inspiración tranquila).</li><li><b>Presión transpulmonar</b> = presión alveolar - presión intrapleural; gradiente que distiende el pulmón.</li><li>La inspiración es activa (diafragma, intercostales externos); la espiración tranquila es pasiva por retroceso elástico.</li><li>Trampa: en respiración forzada, la presión intrapleural puede volverse positiva y colapsar vías aéreas pequeñas en EPOC (limitación al flujo espiratorio).</li><li>El <b>neumotórax a tensión</b> eleva la presión intrapleural &gt; presión atmosférica y compromete el retorno venoso (taponamiento respiratorio).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Distensibilidad pulmonar y compliance",
+      "title": "Distensibilidad pulmonar y compliance",
+      "contentHtml": "<h2>Distensibilidad pulmonar y compliance</h2><ul><li><b>Distensibilidad pulmonar</b> (compliance) = cambio de volumen / cambio de presión transpulmonar; normal ~200 ml/cmH2O (pulmón aislado) y ~100 ml/cmH2O en el sistema respiratorio total.</li><li>Disminuye en <b>fibrosis pulmonar</b>, edema pulmonar y síndrome de distrés respiratorio agudo (pulmón rígido, presiones altas).</li><li>Aumenta en <b>enfisema</b> (pérdida de retroceso elástico, hiperinsuflación).</li><li>La <b>curva presión-volumen</b> tiene histéresis por surfactante; la distensibilidad estática se mide en pausa inspiratoria.</li><li>Trampa: en ventilación mecánica, la distensibilidad efectiva baja obliga a vigilar <b>presión meseta</b> &gt;30 cmH2O (riesgo de barotrauma).</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Surfactante y ley de Laplace",
+      "title": "Surfactante y ley de Laplace",
+      "contentHtml": "<h2>Surfactante y ley de Laplace</h2><ul><li><b>Ley de Laplace</b>: presión = 2 × tensión superficial / radio; alvéolos pequeños generarían mayor presión y colapsarían sin surfactante.</li><li><b>Surfactante</b>: fosfolípidos (dipalmitoilfosfatidilcolina) y proteínas A-D, producido por neumocitos tipo II desde semana 24-28; reduce la tensión superficial y estabiliza alvéolos de distinto tamaño.</li><li>Déficit → <b>enfermedad de membrana hialina</b> del prematuro; también se inactiva en edema y distrés respiratorio agudo.</li><li>El <b>índice de lecitina/esfingomielina</b> &gt;2 en líquido amniótico sugiere madurez pulmonar.</li><li>Trampa: el surfactante exógeno es tratamiento de rescate, no profilaxis universal; la <b>presión positiva continua</b> en la vía aérea es primera línea en prematuro con distrés.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Relación ventilación-perfusión V/Q",
+      "title": "Relación ventilación-perfusión",
+      "contentHtml": "<h2>Relación ventilación-perfusión</h2><ul><li><b>Relación ventilación-perfusión</b> global normal ~0,8; el pulmón tiene gradiente vertical: vértice con relación alta (&gt;1) y base con relación baja (&lt;1).</li><li><b>Espacio muerto</b>: ventilación sin perfusión (relación infinito), típico de <b>tromboembolismo pulmonar</b>.</li><li><b>Efecto shunt</b>: perfusión sin ventilación (relación 0), típico de atelectasia, neumonía y edema; la hipoxemia no corrige con oxígeno al 100%.</li><li>La <b>vasoconstricción pulmonar hipóxica</b> desvía flujo de alvéolos mal ventilados, pero es limitada y puede empeorar la hipertensión pulmonar.</li><li>Trampa: la diferencia alveolo-arterial de oxígeno permite distinguir hipoxemia por hipoventilación (normal) de shunt o alteración de la relación ventilación-perfusión (elevada).</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Efecto Bohr y transporte de CO2",
+      "title": "Efecto Bohr y transporte de CO2",
+      "contentHtml": "<h2>Efecto Bohr y transporte de CO2</h2><ul><li><b>Efecto Bohr</b>: el aumento de CO2 y de hidrogeniones (pH bajo) desplaza la curva de disociación de la hemoglobina a la derecha y reduce la afinidad por oxígeno, favoreciendo la entrega tisular.</li><li>El CO2 se transporta: ~70% como <b>bicarbonato</b> (anhidrasa carbónica), ~23% unido a hemoglobina (carbaminohemoglobina) y ~7% disuelto.</li><li>La <b>anhidrasa carbónica</b> eritrocitaria convierte CO2 + agua en ácido carbónico, que disocia en bicarbonato e hidrogenión; el hidrogenión se tampona por hemoglobina (efecto Haldane).</li><li>Trampa: la alcalosis metabólica desplaza la curva a la izquierda y dificulta la liberación de oxígeno; la acidosis la desplaza a la derecha.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Curva de disociación de hemoglobina",
+      "title": "Curva de disociación de hemoglobina",
+      "contentHtml": "<h2>Curva de disociación de hemoglobina</h2><ul><li>La <b>curva de disociación de hemoglobina</b> es sigmoidea por cooperatividad; la <b>P50</b> normal ~27 mmHg (presión parcial de oxígeno al 50% de saturación).</li><li>Desplazamiento a la derecha (menor afinidad, mayor entrega): aumento de CO2, acidosis, temperatura elevada, <b>2,3-difosfoglicerato</b> alto (altitud, anemia crónica).</li><li>Desplazamiento a la izquierda (mayor afinidad): alcalosis, hipotermia, descenso de 2,3-difosfoglicerato (sangre almacenada), <b>hemoglobina fetal</b> y <b>metahemoglobina</b>.</li><li>Trampa: la <b>intoxicación por monóxido de carbono</b> desplaza la curva a la izquierda y la pulseoximetría puede ser falsamente normal; se confirma con carboxihemoglobina.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Centro respiratorio y quimiorreceptores",
+      "title": "Centro respiratorio y quimiorreceptores",
+      "contentHtml": "<h2>Centro respiratorio y quimiorreceptores</h2><ul><li><b>Centro respiratorio</b> bulbar: grupo respiratorio dorsal (ritmo, inspiración) y ventral (espiración activa); modulado por centro neumotáxico y apnéustico protuberancial.</li><li><b>Quimiorreceptores centrales</b> bulbares responden al pH del líquido cefalorraquídeo (reflejo del CO2 arterial) y son el principal estímulo ventilatorio.</li><li><b>Quimiorreceptores periféricos</b> (cuerpos carotídeos y aórticos) responden a hipoxemia (&lt;60 mmHg), hipercapnia y acidosis; la hipoxia estimula de forma tardía y limitada.</li><li>Trampa: en <b>enfermedad pulmonar obstructiva crónica</b> con retención crónica de CO2, el estímulo hipóxico periférico puede ser el principal; administrar oxígeno con cautela y controlar la gasometría.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Reflejo de Hering-Breuer y control vagal",
+      "title": "Reflejo de Hering-Breuer y control vagal",
+      "contentHtml": "<h2>Reflejo de Hering-Breuer y control vagal</h2><ul><li><b>Reflejo de Hering-Breuer</b>: los receptores de estiramiento pulmonar en el músculo liso de las vías aéreas, por vía vagal aferente, inhiben la inspiración cuando el volumen pulmonar es excesivo (reflejo de inflación).</li><li>En adultos solo se activa con volúmenes corrientes &gt;1,5 litros; en neonatos es más sensible y regula la frecuencia.</li><li>La <b>vía vagal eferente</b> produce broncoconstricción (predominio parasimpático); el sistema simpático (beta-2) broncodilata.</li><li>Los receptores J yuxtacapilares y de irritación (tos) también viajan por el vago y responden a edema y sustancias irritantes.</li><li>Trampa: la atropina bloquea el tono vagal y produce broncodilatación; en anestesia, la estimulación vagal puede causar broncoespasmo o bradicardia.</li></ul>"
+    }
+  ]
+}

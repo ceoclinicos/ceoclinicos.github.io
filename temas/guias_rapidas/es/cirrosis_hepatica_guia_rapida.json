@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Clasificación de Child-Pugh",
-      "title": "Child-Pugh: criterios y puntuación",
-      "contentHtml": "<h2>Clasificación de Child-Pugh</h2><ul><li>Evalúa <b>bilirrubina</b>, <b>albúmina</b>, <b>tiempo de protrombina (INR)</b>, <b>ascitis</b> y <b>encefalopatía hepática</b>; cada parámetro puntúa 1-3.</li><li>Puntuación total: <b>Child A (5-6 puntos)</b>, <b>Child B (7-9 puntos)</b>, <b>Child C (10-15 puntos)</b>.</li><li>Utilidad pronóstica y quirúrgica: <b>Child A</b> buen riesgo quirúrgico; <b>Child C</b> contraindicación relativa para resección hepática.</li><li><b>Trampa:</b> ascitis y encefalopatía se gradúan clínicamente (ausente/leve/moderada o grado 1-2 vs 3-4).</li></ul>"
+      "foco": "Cirrosis: causa más común de hipertensión portal",
+      "title": "Cirrosis como causa principal de hipertensión portal",
+      "contentHtml": "<h2>Cirrosis: causa más común de hipertensión portal</h2><ul><li>La <b>cirrosis hepática</b> es la causa más frecuente de <b>hipertensión portal</b> en el adulto (prevalencia &gt;90% de los casos de hipertensión portal).</li><li>Fisiopatología: fibrosis y nódulos de regeneración → aumento de resistencia intrahepática → hipertensión portal → formación de varices y ascitis.</li><li>Otras causas de hipertensión portal: trombosis portal, esquistosomiasis, enfermedad venooclusiva; pero la cirrosis es la más común.</li><li>Diferencial: hipertensión portal no cirrótica (prehepática, intrahepática no cirrótica, posthepática).</li><li>Trampa de examen: no confundir con hipertensión portal idiopática no cirrótica (rara).</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Hipertensión portal y varices esofágicas",
-      "title": "Hipertensión portal: manejo de varices",
-      "contentHtml": "<h2>Hipertensión portal y varices esofágicas</h2><ul><li><b>Hipertensión portal</b> definida por gradiente de presión venosa hepática (HVPG) &gt;5 mmHg; clínicamente significativa cuando HVPG &gt;10 mmHg.</li><li><b>Varices esofágicas</b>: cribado por endoscopia al diagnóstico de cirrosis; si Child B/C o descompensación, repetir cada 1-2 años.</li><li>Profilaxis primaria: <b>propranolol</b> o <b>carvedilol</b> (dosis ajustada a FC 55-60 lpm) o ligadura endoscópica si contraindicación o varices grandes (grado II/III).</li><li>Hemorragia aguda: <b>terlipresina</b> + <b>ceftriaxona</b> 1 g/día + ligadura endoscópica.</li></ul>"
+      "foco": "Ascitis: gradiente albúmina suero-ascitis ≥1.1 g/dL",
+      "title": "Gradiente de albúmina suero-ascitis en ascitis",
+      "contentHtml": "<h2>Ascitis: gradiente albúmina suero-ascitis ≥1.1 g/dL</h2><ul><li>El <b>gradiente de albúmina suero-ascitis</b> (GASA) se calcula: albúmina sérica − albúmina en líquido ascítico.</li><li><b>GASA ≥1.1 g/dL</b> indica hipertensión portal (cirrosis, insuficiencia cardíaca, Budd-Chiari).</li><li><b>GASA &lt;1.1 g/dL</b> sugiere causas no portales: carcinomatosis peritoneal, tuberculosis peritoneal, pancreatitis, síndrome nefrótico.</li><li>Primera línea diagnóstica: paracentesis diagnóstica con recuento de polimorfonucleares, albúmina, proteínas totales, citología y cultivo.</li><li>Trampa: el GASA no diagnostica la causa específica, solo diferencia hipertensión portal de otras causas.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Ascitis: diagnóstico por paracentesis",
-      "title": "Paracentesis diagnóstica: análisis de ascitis",
-      "contentHtml": "<h2>Ascitis: diagnóstico por paracentesis</h2><ul><li>Indicación: ascitis de novo o descompensación aguda. Se mide <b>gradiente de albúmina suero-ascitis (GASA)</b> = albúmina sérica − albúmina ascítica.</li><li><b>GASA &gt;1.1 g/dL</b> indica hipertensión portal (cirrosis, insuficiencia cardíaca); <b>GASA &lt;1.1 g/dL</b> sugiere causa peritoneal (tuberculosis, carcinomatosis).</li><li>Recuento celular: <b>polimorfonucleares (PMN) ≥250 células/μL</b> define peritonitis bacteriana espontánea.</li><li><b>Trampa:</b> en ascitis hemorrágica (hematíes &gt;10,000/μL) restar 1 PMN por cada 250 hematíes para corregir.</li></ul>"
+      "foco": "Peritonitis bacteriana espontánea: PMN ≥250/mm³",
+      "title": "Peritonitis bacteriana espontánea: diagnóstico por PMN",
+      "contentHtml": "<h2>Peritonitis bacteriana espontánea: PMN ≥250/mm³</h2><ul><li>Diagnóstico de <b>peritonitis bacteriana espontánea</b>: recuento de <b>polimorfonucleares ≥250/mm³</b> en líquido ascítico.</li><li>Primera línea de tratamiento empírico: <b>cefotaxima</b> 2 g cada 8 horas intravenosa o <b>ceftriaxona</b> 1 g cada 24 horas intravenosa.</li><li>Profilaxis secundaria: <b>norfloxacino</b> 400 mg cada 12 horas oral o <b>ciprofloxacino</b> 500 mg cada 12 horas oral.</li><li>Complicación: síndrome hepatorrenal; usar albúmina intravenosa 1.5 g/kg al día 1 y 1 g/kg al día 3.</li><li>Trampa: no esperar cultivo para iniciar antibiótico si PMN ≥250/mm³.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Encefalopatía hepática y factores desencadenantes",
-      "title": "Encefalopatía hepática: desencadenantes y manejo",
-      "contentHtml": "<h2>Encefalopatía hepática y factores desencadenantes</h2><ul><li>Factores comunes: <b>infección</b>, <b>hemorragia digestiva</b>, <b>estreñimiento</b>, <b>diuréticos</b> (hipokalemia/alcalosis), <b>sedantes</b> (benzodiazepinas), <b>shunt portosistémico</b>, <b>dieta hiperproteica</b>.</li><li>Tratamiento agudo: <b>lactulosa</b> vía oral o en enema (dosis hasta 3 deposiciones/día) + <b>rifaximina</b> 550 mg cada 12 h como segunda línea o prevención de recurrencia.</li><li>Grado clínico: <b>West Haven</b> (0 a 4); grado 1-2 tratable ambulatorio; grado 3-4 requiere hospitalización.</li><li><b>Trampa:</b> descartar hematoma subdural, meningitis o sepsis antes de atribuir a encefalopatía.</li></ul>"
+      "foco": "Encefalopatía hepática: lactulosa y rifaximina",
+      "title": "Tratamiento de encefalopatía hepática",
+      "contentHtml": "<h2>Encefalopatía hepática: lactulosa y rifaximina</h2><ul><li>Primera línea: <b>lactulosa</b> 30-45 mL cada 8-12 horas oral o en enema, ajustar para 2-3 deposiciones blandas al día.</li><li>Segunda línea o combinación: <b>rifaximina</b> 550 mg cada 12 horas oral (antibiótico no absorbible).</li><li>Mecanismo: lactulosa acidifica colon y atrapa amonio; rifaximina reduce bacterias productoras de amonio.</li><li>Medidas adicionales: corregir factores precipitantes (infección, sangrado digestivo, estreñimiento, hipopotasemia).</li><li>Trampa: no usar lactulosa en íleo paralítico o obstrucción intestinal.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Síndrome hepatorrenal",
+      "foco": "Síndrome hepatorrenal: criterios y vasoconstrictores",
       "title": "Síndrome hepatorrenal: criterios y tratamiento",
-      "contentHtml": "<h2>Síndrome hepatorrenal</h2><ul><li><b>Síndrome hepatorrenal (SHR)</b>: insuficiencia renal funcional en cirrosis avanzada con ascitis; criterios: creatinina sérica &gt;1.5 mg/dL, ausencia de mejoría tras 2 días de suspender diuréticos y expansión con albúmina, sin proteinuria ni sedimento activo.</li><li>Dos tipos: <b>SHR tipo 1</b> (rápido, duplicación de creatinina en &lt;2 semanas) y <b>SHR tipo 2</b> (progresión lenta, refractario a diuréticos).</li><li>Tratamiento de primera línea: <b>terlipresina</b> (0.5-1 mg/4-6 h) + <b>albúmina</b> (20-40 g/día). Alternativa: <b>noradrenalina</b> + albúmina.</li><li>Definitivo: trasplante hepático.</li></ul>"
+      "contentHtml": "<h2>Síndrome hepatorrenal: criterios y vasoconstrictores</h2><ul><li>Criterios: cirrosis con ascitis, creatinina sérica &gt;1.5 mg/dL, ausencia de mejoría tras 2 días de suspender diuréticos y expandir volumen con albúmina (1 g/kg/día), ausencia de shock, ausencia de nefrotóxicos, ausencia de enfermedad renal parenquimatosa (proteinuria &lt;500 mg/día, hematuria &lt;50 hematíes/campo, ecografía renal normal).</li><li>Tratamiento: <b>terlipresina</b> (vasoconstrictor esplácnico) + albúmina; alternativas: <b>noradrenalina</b> + albúmina, <b>midodrina</b> + <b>octreotida</b> + albúmina.</li><li>El síndrome hepatorrenal es una complicación funcional reversible; el trasplante hepático es la solución definitiva.</li><li>Trampa: diferenciar de necrosis tubular aguda (causa parenquimatosa) por sedimento urinario y respuesta a volumen.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Peritonitis bacteriana espontánea",
-      "title": "PBE: diagnóstico y manejo",
-      "contentHtml": "<h2>Peritonitis bacteriana espontánea</h2><ul><li><b>Peritonitis bacteriana espontánea (PBE)</b>: infección del líquido ascítico sin foco intraabdominal; diagnóstico con <b>PMN ≥250 células/μL</b> en paracentesis.</li><li>Gérmenes más frecuentes: <i>E. coli</i>, <i>Klebsiella</i>, neumococo.</li><li>Tratamiento empírico: <b>cefotaxima</b> 2 g/8 h o <b>ceftriaxona</b> 2 g/día; duración 5-7 días.</li><li>Profilaxis primaria: en cirrosis con ascitis y proteínas totales en ascitis &lt;1.5 g/dL + Child B/C o historia de PBE: <b>norfloxacino</b> 400 mg/día o <b>trimetoprim-sulfametoxazol</b>.</li><li><b>Trampa:</b> siempre descartar apendicitis/colecistitis (tomografía computarizada si dudas).</li></ul>"
+      "foco": "Varices esofágicas: profilaxis con betabloqueadores",
+      "title": "Profilaxis de varices esofágicas",
+      "contentHtml": "<h2>Varices esofágicas: profilaxis con betabloqueadores</h2><ul><li>Profilaxis primaria en varices medianas/grandes o con puntos rojos: <b>propranolol</b> 20-40 mg cada 12 horas oral o <b>carvedilol</b> 6.25-12.5 mg cada 24 horas oral (titular a frecuencia cardíaca 55-60 lpm).</li><li>Alternativa: ligadura endoscópica de varices si betabloqueador contraindicado.</li><li>Profilaxis secundaria: betabloqueador + ligadura endoscópica seriada.</li><li>En sangrado agudo: <b>terlipresina</b> o <b>octreotida</b> + antibiótico profiláctico (<b>ceftriaxona</b>) + endoscopia terapéutica en &lt;12 horas.</li><li>Trampa: no usar betabloqueadores en sangrado activo con hipotensión.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Carcinoma hepatocelular y cribado",
-      "title": "CHC: cribado y diagnóstico",
-      "contentHtml": "<h2>Carcinoma hepatocelular y cribado</h2><ul><li>Cribado en cirrosis o hepatitis B crónica (sin cirrosis si varón &gt;40 años o historia familiar): <b>ecografía abdominal</b> cada 6 meses ± <b>alfafetoproteína (AFP)</b>.</li><li>Diagnóstico no invasivo: nódulo &gt;1 cm en ecografía con patrón de realce arterial + lavado venoso en tomografía computarizada/resonancia magnética (criterios LI-RADS).</li><li><b>AFP &gt;200 ng/mL</b> en paciente cirrótico sugiere CHC, pero no es diagnóstica de forma aislada.</li><li>Estadificación: <b>BCLC</b> (Barcelona Clinic Liver Cancer) guía tratamiento: resección/ablación (estadio 0-A), quimioembolización (B), sorafenib/lenvatinib (C).</li></ul>"
+      "foco": "Child-Pugh vs MELD para pronóstico",
+      "title": "Escalas pronósticas: Child-Pugh y MELD",
+      "contentHtml": "<h2>Child-Pugh vs MELD para pronóstico</h2><ul><li><b>Child-Pugh</b>: evalúa 5 parámetros (bilirrubina, albúmina, tiempo de protrombina/INR, ascitis, encefalopatía); clasifica A (5-6), B (7-9), C (10-15).</li><li><b>MELD</b> (Model for End-Stage Liver Disease): usa bilirrubina, creatinina e INR; puntuación 6-40; predictor de mortalidad a 3 meses y priorización para trasplante.</li><li>Child-Pugh es más usado en clínica para pronóstico global; MELD es más objetivo y usado para asignación de trasplante.</li><li>Trampa: MELD no incluye albúmina ni ascitis; Child-Pugh sí incluye variables subjetivas (ascitis, encefalopatía).</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Hepatitis alcohólica aguda y score Maddrey",
-      "title": "Hepatitis alcohólica: score Maddrey",
-      "contentHtml": "<h2>Hepatitis alcohólica aguda y score Maddrey</h2><ul><li><b>Score de Maddrey (DF)</b> = 4.6 × (TP del paciente − TP control) + bilirrubina sérica (mg/dL). <b>DF ≥32</b> indica hepatitis alcohólica grave con alta mortalidad (30-50% a 28 días).</li><li>Tratamiento si DF ≥32 o encefalopatía: <b>prednisolona</b> 40 mg/día oral por 28 días (o <b>pentoxifilina</b> 400 mg/8 h si contraindicación a corticoides, aunque evidencia actual controvertida).</li><li>Evaluar respuesta a los 7 días con <b>score de Lille</b>; &lt;0.45 = respondedor, &gt;0.45 = no respondedor (suspender corticoides).</li><li><b>Trampa:</b> descartar infección activa antes de iniciar corticoides.</li></ul>"
+      "foco": "Hipoalbuminemia y prolongación del TP",
+      "title": "Alteraciones analíticas: hipoalbuminemia y TP prolongado",
+      "contentHtml": "<h2>Hipoalbuminemia y prolongación del TP</h2><ul><li>La <b>hipoalbuminemia</b> en cirrosis refleja disminución de síntesis hepática y se usa en Child-Pugh; valores &lt;3.5 g/dL son frecuentes.</li><li>La <b>prolongación del tiempo de protrombina</b> (TP) o aumento del INR refleja deterioro de la síntesis de factores de coagulación (II, V, VII, IX, X).</li><li>El TP prolongado no siempre implica riesgo hemorrágico; en cirrosis hay reequilibrio hemostático.</li><li>La albúmina sérica y el TP/INR son parámetros clave en Child-Pugh y MELD.</li><li>Trampa: no corregir TP con vitamina K si no hay déficit; la prolongación es por fallo hepatocelular.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Coagulopatía en cirrosis",
-      "title": "Coagulopatía: manejo y pruebas",
-      "contentHtml": "<h2>Coagulopatía en cirrosis</h2><ul><li>Déficit de factores procoagulantes (II, V, VII, IX, X) y anticoagulantes (proteína C, S, antitrombina); el INR no refleja el estado protrombótico real.</li><li>No corregir INR de forma rutinaria antes de procedimientos de bajo riesgo (paracentesis, endoscopia). Para procedimientos mayores, considerar <b>plasma fresco congelado</b> o <b>complejo protrombínico</b> si INR &gt;2.5.</li><li><b>Trampa:</b> la cirrosis es un estado de <b>coagulopatía rebalanceada</b>; el riesgo trombótico (trombosis venosa profunda, embolia pulmonar) es mayor que el hemorrágico en pacientes estables.</li><li>Anticoagulación: heparinas de bajo peso molecular son seguras si plaquetas &gt;50,000/μL.</li></ul>"
+      "foco": "Trombocitopenia por hiperesplenismo",
+      "title": "Trombocitopenia en cirrosis: hiperesplenismo",
+      "contentHtml": "<h2>Trombocitopenia por hiperesplenismo</h2><ul><li>La <b>trombocitopenia</b> en cirrosis se debe principalmente a <b>hiperesplenismo</b> (secuestro esplénico) y a disminución de trombopoyetina hepática.</li><li>Recuento plaquetario &lt;150,000/mm³ es frecuente; puede ser el primer signo de hipertensión portal.</li><li>No requiere tratamiento específico salvo sangrado o procedimientos; en casos seleccionados usar <b>eltrombopag</b> o <b>aviptadil</b>.</li><li>Diferencial: trombocitopenia por fármacos, infección, coagulación intravascular diseminada.</li><li>Trampa: no confundir con púrpura trombocitopénica inmune; en cirrosis el hiperesplenismo es la causa habitual.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Hiperesplenismo y trombocitopenia",
-      "title": "Hiperesplenismo: trombocitopenia y manejo",
-      "contentHtml": "<h2>Hiperesplenismo y trombocitopenia</h2><ul><li><b>Hiperesplenismo</b>: secuestro esplénico de plaquetas y leucocitos por hipertensión portal; causa trombocitopenia (habitualmente &gt;50,000/μL) y leucopenia.</li><li>No requiere tratamiento específico si plaquetas &gt;20,000-30,000/μL y sin sangrado. Para procedimientos: <b>trombopoyetina agonistas</b> (<b>avatrombopag</b> 60 mg/día por 5 días o <b>lusutrombopag</b>) aprobados antes de procedimientos invasivos.</li><li><b>Esplenectomía</b> o <b>shunt portosistémico intrahepático transyugular (TIPS)</b> reservados para casos refractarios.</li><li><b>Trampa:</b> descartar púrpura trombocitopénica inmune (PTI) si plaquetas &lt;20,000/μL o respuesta insuficiente a agonistas.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Causas de descompensación aguda",
-      "title": "Descompensación aguda: causas y manejo",
-      "contentHtml": "<h2>Causas de descompensación aguda</h2><ul><li>Principales: <b>infección</b> (PBE, neumonía, ITU), <b>hemorragia digestiva</b> por varices, <b>trombosis portal</b>, <b>hepatitis alcohólica</b>, <b>fármacos</b> (AINES, sedantes), <b>cirugía</b>, <b>deshidratación</b> (diuréticos excesivos, vómitos).</li><li>Evaluar: paracentesis, hemocultivos, endoscopia, ecografía Doppler (trombosis portal).</li><li>Manejo: tratar causa específica, soporte con albúmina (si paracentesis &gt;5 L), evitar nefrotóxicos.</li><li><b>Falla hepática aguda sobre crónica (ACLF)</b>: descompensación aguda con falla orgánica (renal, respiratoria, circulatoria); define pronóstico según score CLIF-C.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Trasplante hepático: criterios de MELD",
-      "title": "MELD: score y priorización",
-      "contentHtml": "<h2>Trasplante hepático: criterios de MELD</h2><ul><li><b>MELD</b> (Model for End-Stage Liver Disease) = 9.57 × ln(Creatinina mg/dL) + 3.78 × ln(Bilirrubina mg/dL) + 11.2 × ln(INR) + 6.43; puntuación de 6 a 40.</li><li>Utilizado para priorizar trasplante hepático: mayor puntuación = mayor mortalidad a 3 meses sin trasplante.</li><li><b>MELD-Na</b> incorpora sodio sérico (mejora predicción de mortalidad en lista de espera).</li><li>Indicaciones: cirrosis descompensada (ascitis refractaria, PBE recurrente, encefalopatía recurrente, SHR, CHC dentro de criterios de Milán), falla hepática aguda.</li><li><b>Trampa:</b> MELD &gt;15 es umbral típico para considerar trasplante; el trasplante se contraindica en enfermedades activas (infección no controlada, cáncer extrahepático, abuso activo de alcohol).</li></ul>"
+      "foco": "Cribado de hepatocarcinoma con ecografía semestral",
+      "title": "Cribado de hepatocarcinoma en cirrosis",
+      "contentHtml": "<h2>Cribado de hepatocarcinoma con ecografía semestral</h2><ul><li>Todo paciente con cirrosis debe someterse a <b>ecografía abdominal semestral</b> para cribado de hepatocarcinoma.</li><li>Si la ecografía es dudosa o no concluyente, realizar <b>tomografía computarizada trifásica</b> o <b>resonancia magnética</b> con contraste.</li><li>El hepatocarcinoma es la complicación maligna más frecuente de la cirrosis; el cribado mejora la supervivencia.</li><li>No se recomienda cribado con alfafetoproteína sola; puede complementar pero no sustituir la ecografía.</li><li>Trampa: el intervalo es cada 6 meses, no anual; la ecografía es la prueba de primera línea.</li></ul>"
     }
   ]
 }

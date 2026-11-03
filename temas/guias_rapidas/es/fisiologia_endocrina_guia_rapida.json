@@ -1,0 +1,65 @@
+{
+  "id": "fisiologia_endocrina",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Eje hipotálamo-hipófisis-tiroides y retroalimentación negativa",
+      "title": "Eje tiroideo y retroalimentación negativa",
+      "contentHtml": "<h2>Eje hipotálamo-hipófisis-tiroides</h2><ul><li><b>Hormona liberadora de tirotropina</b> hipotalámica estimula <b>tirotropina</b> hipofisaria; esta induce síntesis y liberación de <b>tiroxina</b> y <b>triyodotironina</b>.</li><li>Retroalimentación negativa: <b>tiroxina</b> y <b>triyodotironina</b> inhiben <b>hormona liberadora de tirotropina</b> y <b>tirotropina</b>; la <b>triyodotironina</b> es la principal inhibidora hipofisaria por desyodación local.</li><li>En hipotiroidismo primario: <b>tirotropina</b> elevada y <b>tiroxina</b> baja; en central: <b>tirotropina</b> baja o inapropiadamente normal con <b>tiroxina</b> baja.</li><li>Trampa: <b>tirotropina</b> normal no descarta hipotiroidismo central; usar <b>tiroxina libre</b>.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Insulina vs glucagón en regulación de glucemia",
+      "title": "Insulina y glucagón",
+      "contentHtml": "<h2>Regulación de la glucemia</h2><ul><li><b>Insulina</b>: hormona anabólica de células beta pancreáticas; aumenta captación de glucosa en músculo y tejido adiposo, estimula glucógeno sintasa y lipogénesis, inhibe gluconeogénesis hepática.</li><li><b>Glucagón</b>: células alfa pancreáticas; activa glucogenólisis y gluconeogénesis hepática, lipólisis y cetogénesis; se eleva en ayuno.</li><li>Umbral de secreción de <b>insulina</b>: glucosa &gt; <b>90 mg/dL</b>; el <b>glucagón</b> aumenta cuando glucosa &lt; <b>70 mg/dL</b>.</li><li>Trampa: la <b>insulina</b> inhibe directamente la secreción de <b>glucagón</b> por acción paracrina intraislote.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Mecanismo de acción de hormonas esteroideas vs peptídicas",
+      "title": "Esteroides vs péptidos",
+      "contentHtml": "<h2>Mecanismos de acción hormonal</h2><ul><li>Hormonas esteroideas: lipofílicas, atraviesan membrana y se unen a receptores intracelulares/nucleares; modifican transcripción génica; latencia de horas; ejemplos <b>cortisol</b>, <b>aldosterona</b>, <b>testosterona</b>, <b>tiroxina</b> (aunque tiroideas usan receptor nuclear).</li><li>Hormonas peptídicas: hidrosolubles, receptores de membrana acoplados a proteína G o con actividad tirosina cinasa; segundos mensajeros (AMP cíclico, inositol trifosfato, calcio); latencia de segundos a minutos; ejemplos <b>insulina</b>, <b>glucagón</b>, <b>hormona adrenocorticotropa</b>.</li><li>Trampa: <b>tiroxina</b> y <b>triyodotironina</b> son aminas pero actúan como esteroides (receptor nuclear).</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Regulación del calcio: PTH, calcitonina y vitamina D",
+      "title": "Calcio: PTH, calcitonina y vitamina D",
+      "contentHtml": "<h2>Homeostasis del calcio</h2><ul><li><b>Hormona paratiroidea</b>: eleva calcio sérico; aumenta reabsorción tubular renal de calcio, activa 1-alfa-hidroxilasa renal (forma <b>calcitriol</b>), estimula osteoclastos vía osteoblastos; disminuye fosfato sérico.</li><li><b>Calcitonina</b>: células C tiroideas; inhibe osteoclastos y baja calcio; relevancia farmacológica limitada.</li><li><b>Calcitriol</b> (vitamina D activa): aumenta absorción intestinal de calcio y fosfato, mineralización ósea; retroalimentación negativa sobre <b>hormona paratiroidea</b>.</li><li>Trampa: en insuficiencia renal, falta 1-alfa-hidroxilación → hipocalcemia y hiperparatiroidismo secundario.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Eje hipotálamo-hipófisis-suprarrenal y cortisol",
+      "title": "Eje suprarrenal y cortisol",
+      "contentHtml": "<h2>Eje hipotálamo-hipófisis-suprarrenal</h2><ul><li><b>Hormona liberadora de corticotropina</b> → <b>hormona adrenocorticotropa</b> → <b>cortisol</b> en zona fasciculada; el <b>cortisol</b> inhibe ambas por retroalimentación negativa.</li><li><b>Cortisol</b>: gluconeogénesis, proteólisis, lipólisis, antiinflamatorio, mantiene presión arterial (permisivo para catecolaminas); pico matutino.</li><li>Prueba de supresión con <b>dexametasona</b>: dosis baja nocturna; cortisol &gt; <b>1.8 µg/dL</b> sugiere hipercortisolismo (síndrome de Cushing).</li><li>Trampa: insuficiencia suprarrenal secundaria no da hiperpigmentación (hormona adrenocorticotropa baja).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Hormonas tiroideas: síntesis, transporte y efectos",
+      "title": "Hormonas tiroideas",
+      "contentHtml": "<h2>Síntesis, transporte y efectos de hormonas tiroideas</h2><ul><li>Síntesis: yodación de tirosina en tiroglobulina por <b>tiroperoxidasa</b>; acoplamiento forma <b>tiroxina</b> (T4) y <b>triyodotironina</b> (T3); requiere yodo y bomba de yoduro (simportador sodio-yodo).</li><li>Transporte: unidas a <b>globulina transportadora de tiroxina</b> (~70%), albúmina y prealbúmina; solo fracción libre activa.</li><li>Efectos: aumento de tasa metabólica basal, termogénesis, frecuencia cardiaca y contractilidad, sensibilidad a catecolaminas; desarrollo del sistema nervioso central y crecimiento.</li><li>Trampa: <b>triyodotironina</b> es más potente que <b>tiroxina</b>; la mayor parte de <b>triyodotironina</b> proviene de desyodación periférica de <b>tiroxina</b>.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "ADH y aldosterona en equilibrio hidroelectrolítico",
+      "title": "ADH y aldosterona",
+      "contentHtml": "<h2>Equilibrio hidroelectrolítico</h2><ul><li><b>Hormona antidiurética</b> (vasopresina): síntesis en núcleos supraóptico y paraventricular; liberada por osmorreceptores cuando osmolaridad &gt; <b>280-290 mOsm/kg</b>; actúa en receptor V2 del túbulo colector insertando acuaporina-2 → reabsorción de agua.</li><li><b>Aldosterona</b>: zona glomerulosa; estimulada por angiotensina II, hiperkalemia y hormona adrenocorticotropa; actúa en receptor mineralocorticoide del túbulo distal reabsorbiendo sodio y secretando potasio.</li><li>Trampa: déficit de <b>hormona antidiurética</b> → diabetes insípida central (orina diluida, hipernatremia); exceso → síndrome de secreción inadecuada de hormona antidiurética (hiponatremia).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Eje GH-IGF-1 y efectos del crecimiento",
+      "title": "Eje GH-IGF-1",
+      "contentHtml": "<h2>Eje hormona de crecimiento-factor de crecimiento similar a la insulina tipo 1</h2><ul><li><b>Hormona de crecimiento</b> hipofisaria (células somatotropas) estimulada por <b>hormona liberadora de hormona de crecimiento</b> e inhibida por <b>somatostatina</b>; pulsátil, pico en sueño profundo.</li><li>Efectos: directos (lipólisis, resistencia a insulina) e indirectos vía <b>factor de crecimiento similar a la insulina tipo 1</b> hepático (crecimiento lineal, síntesis proteica).</li><li>Regulación: hipoglucemia, ayuno, ejercicio y aminoácidos estimulan; hiperglucemia e <b>factor de crecimiento similar a la insulina tipo 1</b> inhiben.</li><li>Trampa: exceso antes de fusión epifisaria → gigantismo; después → acromegalia (macroglosia, prognatismo, cardiomegalia).</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Regulación de prolactina y dopamina hipotalámica",
+      "title": "Prolactina y dopamina",
+      "contentHtml": "<h2>Regulación de prolactina</h2><ul><li><b>Prolactina</b>: células lactotropas; control predominantemente inhibitorio por <b>dopamina</b> desde núcleo arcuato (receptor D2).</li><li>Estimuladores: <b>hormona liberadora de tirotropina</b>, estrógenos, succión, estrés, sueño; inhibidores: <b>dopamina</b>.</li><li>Hiperprolactinemia: fármacos antidopaminérgicos (metoclopramida, antipsicóticos), prolactinoma, hipotiroidismo primario (por <b>hormona liberadora de tirotropina</b> alta); clínica: galactorrea, amenorrea, infertilidad.</li><li>Trampa: la <b>dopamina</b> es el principal regulador; lesión del tallo hipofisario eleva prolactina por pérdida de inhibición.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Tipos de receptores hormonales y segundos mensajeros",
+      "title": "Receptores y segundos mensajeros",
+      "contentHtml": "<h2>Receptores hormonales y segundos mensajeros</h2><ul><li>Receptores acoplados a proteína G: <b>glucagón</b>, <b>hormona adrenocorticotropa</b>, <b>hormona antidiurética</b> (V2), <b>hormona liberadora de tirotropina</b>; generan AMP cíclico o inositol trifosfato/calcio según proteína Gs, Gi o Gq.</li><li>Receptores con actividad tirosina cinasa: <b>insulina</b> y <b>factor de crecimiento similar a la insulina tipo 1</b>; vía IRS-fosfatidilinositol 3-cinasa.</li><li>Receptores nucleares: esteroides, <b>tiroxina</b>, <b>calcitriol</b>; actúan como factores de transcripción.</li><li>Trampa: <b>insulina</b> no usa AMP cíclico; el <b>glucagón</b> sí (Gs → AMP cíclico → proteína cinasa A).</li></ul>"
+    }
+  ]
+}

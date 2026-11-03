@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Signo de McBurney",
-      "title": "Signo de McBurney",
-      "contentHtml": "<h2>Signo de McBurney</h2><ul><li><b>Signo de McBurney</b>: dolor máximo a la palpación en el punto de McBurney (unión del tercio externo con los dos tercios internos de la línea que va de la espina ilíaca anterosuperior derecha al ombligo).</li><li>Indica irritación peritoneal localizada por apéndice inflamado en posición típica.</li><li>Sensibilidad limitada (~50-85%), pero alta especificidad si es positivo.</li><li>En apendicitis retrocecal o pélvica, el <b>Signo de McBurney</b> puede estar ausente.</li></ul>"
+      "foco": "Dolor migratorio periumbilical a fosa ilíaca derecha",
+      "title": "Dolor migratorio: clave diagnóstica",
+      "contentHtml": "<h2>Dolor migratorio periumbilical a fosa ilíaca derecha</h2><ul><li><b>Fisiopatología:</b> obstrucción del apéndice → distensión → dolor visceral periumbilical (fibras aferentes T10) → inflamación parietal → dolor somático en fosa ilíaca derecha.</li><li><b>Preguntable:</b> migración del dolor es el síntoma más específico; inicia periumbilical y se desplaza en &lt;24-48 h.</li><li><b>Trampa:</b> ausencia de migración no descarta apendicitis (especialmente en ancianos o retrocecal).</li><li><b>Diferencial:</b> gastroenteritis (dolor difuso, diarrea), adenitis mesentérica (niños, dolor periumbilical sin migración).</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Escala de Alvarado",
-      "title": "Escala de Alvarado (MANTRELS)",
-      "contentHtml": "<h2>Escala de Alvarado</h2><ul><li>Puntúa 10 puntos: migración del dolor (1), anorexia (1), náuseas/vómitos (1), dolor en FID (2), rebote (1), elevación térmica >37,3°C (1), leucocitosis >10.000 (2), desviación izquierda >75% (1).</li><li>Umbral: <b>≥7 puntos</b> indica alta probabilidad de apendicitis; <b>≤4 puntos</b> baja probabilidad.</li><li>No sustituye la clínica ni la imagen; útil para estratificación en urgencias.</li><li>En menores de 12 años o embarazadas, la <b>Escala de Alvarado</b> pierde precisión.</li></ul>"
+      "foco": "Punto de McBurney y signo de Blumberg",
+      "title": "McBurney y Blumberg",
+      "contentHtml": "<h2>Punto de McBurney y signo de Blumberg</h2><ul><li><b>Punto de McBurney:</b> unión del tercio externo con los dos tercios internos de la línea espino-umbilical derecha; dolor a la palpación allí sugiere apendicitis.</li><li><b>Signo de Blumberg:</b> dolor a la descompresión brusca en fosa ilíaca derecha; indica irritación peritoneal.</li><li><b>Preguntable:</b> Blumberg positivo es signo de irritación peritoneal, no exclusivo de apendicitis.</li><li><b>Trampa:</b> punto de McBurney puede no doler en apéndice retrocecal o pélvico.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Apendicitis en niños",
-      "title": "Apendicitis pediátrica",
-      "contentHtml": "<h2>Apendicitis en niños</h2><ul><li>Presentación atípica: vómitos frecuentes, fiebre alta, dolor difuso inicial; diagnóstico más difícil.</li><li>Escala de Alvarado modificada (Pediatric Appendicitis Score) usa signo de la tos en lugar de rebote.</li><li>Primera línea diagnóstica: <b>ecografía abdominal</b> para evitar radiación; si dudosa, <b>TAC</b> con dosis baja.</li><li>Mayor tasa de perforación (30-50%) por demora diagnóstica; apendicectomía urgente y cobertura antibiótica con <b>piperacilina-tazobactam</b> o <b>ceftriaxona + metronidazol</b>.</li></ul>"
+      "foco": "Signo de Rovsing y psoas positivo",
+      "title": "Rovsing y psoas",
+      "contentHtml": "<h2>Signo de Rovsing y psoas positivo</h2><ul><li><b>Signo de Rovsing:</b> palpación profunda en fosa ilíaca izquierda que provoca dolor en fosa ilíaca derecha; indica irritación peritoneal contralateral.</li><li><b>Signo del psoas:</b> dolor en fosa ilíaca derecha al extender la cadera derecha contra resistencia; sugiere apéndice retrocecal irritando el músculo psoas.</li><li><b>Preguntable:</b> psoas positivo orienta a apéndice retrocecal; Rovsing es menos sensible.</li><li><b>Trampa:</b> psoas positivo también en absceso del psoas o hematoma retroperitoneal.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Apendicitis en ancianos",
-      "title": "Apendicitis geriátrica",
-      "contentHtml": "<h2>Apendicitis en ancianos</h2><ul><li>Síntomas sutiles: dolor leve, ausencia de fiebre o leucocitosis en 30-40% de casos.</li><li>Alta sospecha clínica; la <b>TAC</b> es el estudio de elección por su sensibilidad >95%.</li><li>Comorbilidades y polifarmacia aumentan riesgo de complicaciones; perforación hasta 50% al ingreso.</li><li>Manejo: apendicectomía urgente (laparoscópica si es posible) más antibióticos de amplio espectro (ej. <b>ertapenem</b>).</li></ul>"
+      "foco": "Escala de Alvarado para diagnóstico clínico",
+      "title": "Escala de Alvarado",
+      "contentHtml": "<h2>Escala de Alvarado para diagnóstico clínico</h2><ul><li><b>Criterios (8):</b> dolor migratorio a fosa ilíaca derecha (1), anorexia (1), náuseas/vómitos (1), dolor a la palpación en fosa ilíaca derecha (2), rebote (1), temperatura &gt;37.3 °C (1), leucocitosis &gt;10,000/mm³ (2), neutrofilia &gt;75% (1).</li><li><b>Puntaje:</b> 0-10; &lt;4 baja probabilidad, 4-6 probabilidad intermedia, &gt;6 alta probabilidad.</li><li><b>Preguntable:</b> Alvarado &gt;6 justifica evaluación quirúrgica; &lt;4 permite observación.</li><li><b>Trampa:</b> no descarta apendicitis en niños pequeños ni embarazadas.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Diagnóstico por imagen (TAC)",
-      "title": "TAC en apendicitis",
-      "contentHtml": "<h2>Diagnóstico por imagen (TAC)</h2><ul><li><b>TAC</b> con contraste intravenosa es el gold standard: sensibilidad 94-98%, especificidad 95-99%.</li><li>Hallazgos clave: apéndice >7 mm de diámetro, engrosamiento de pared, realce mural, infiltración de la grasa periapendicular, líquido libre o absceso.</li><li>Signo de la “diana” o “doble halo” indica inflamación transmural.</li><li>En niños y embarazadas se prefiere <b>ecografía</b> o <b>resonancia magnética</b> para evitar radiación; si <b>TAC</b> es necesario, usar protocolo de baja dosis.</li></ul>"
+      "foco": "Leucocitosis con neutrofilia en hemograma",
+      "title": "Leucocitosis con neutrofilia",
+      "contentHtml": "<h2>Leucocitosis con neutrofilia en hemograma</h2><ul><li><b>Hallazgo:</b> leucocitosis &gt;10,000/mm³ con neutrofilia &gt;75% apoya apendicitis aguda.</li><li><b>Preguntable:</b> hemograma normal no excluye apendicitis temprana; sensibilidad limitada.</li><li><b>Fisiopatología:</b> inflamación aguda → respuesta medular con liberación de neutrófilos.</li><li><b>Trampa:</b> en ancianos o inmunosuprimidos puede no haber leucocitosis; en embarazo hay leucocitosis fisiológica.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Complicación: perforación",
-      "title": "Perforación apendicular",
-      "contentHtml": "<h2>Complicación: perforación</h2><ul><li>Ocurre en 15-30% de apendicitis, más frecuente en <b>ancianos</b> y <b>niños</b>.</li><li>Clínica: dolor generalizado, fiebre alta, peritonitis, íleo paralítico; <b>signo de Blumberg</b> (dolor de rebote) positivo.</li><li>Imagen: <b>TAC</b> muestra aire extraluminal, absceso periapendicular o plastrón.</li><li>Manejo: apendicectomía urgente más lavado peritoneal; antibióticos por 7-14 días (ej. <b>ceftriaxona + metronidazol</b>).</li></ul>"
+      "foco": "Ecografía como imagen inicial en niños y embarazadas",
+      "title": "Ecografía inicial en niños y embarazadas",
+      "contentHtml": "<h2>Ecografía como imagen inicial en niños y embarazadas</h2><ul><li><b>Indicación:</b> primera línea en niños y embarazadas por ausencia de radiación ionizante.</li><li><b>Hallazgo clave:</b> apéndice no compresible &gt;6 mm, dolor focal, ausencia de peristalsis, apendicolito.</li><li><b>Preguntable:</b> sensibilidad variable (operador-dependiente); ecografía negativa no descarta, requiere observación o resonancia magnética.</li><li><b>Trampa:</b> en embarazada el apéndice se desplaza hacia flanco derecho; ecografía puede ser inconclusa.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Maniobra de Rovsing",
-      "title": "Maniobra de Rovsing",
-      "contentHtml": "<h2>Maniobra de Rovsing</h2><ul><li><b>Maniobra de Rovsing</b>: dolor en fosa ilíaca derecha al palpar la fosa ilíaca izquierda (compresión del colon descendente desplaza gas hacia el ciego, distendiendo el apéndice inflamado).</li><li>Sensibilidad baja (~40-60%), pero muy específica (>90%) cuando es positiva.</li><li>Indica irritación peritoneal localizada; no descarta apendicitis si es negativa.</li><li>En apendicitis retrocecal o pélvica, la <b>Maniobra de Rovsing</b> suele ser negativa.</li></ul>"
+      "foco": "TAC abdomen-pelvis mayor sensibilidad en adultos",
+      "title": "Tomografía en adultos",
+      "contentHtml": "<h2>TAC abdomen-pelvis mayor sensibilidad en adultos</h2><ul><li><b>Hallazgo clave:</b> tomografía computarizada de abdomen y pelvis con contraste: sensibilidad &gt;95%, especificidad &gt;95% para apendicitis.</li><li><b>Criterios:</b> apéndice &gt;6 mm, engrosamiento parietal, grasa periapendicular, apendicolito.</li><li><b>Preguntable:</b> de elección en adultos no embarazadas con duda diagnóstica.</li><li><b>Trampa:</b> radiación; evitar en embarazo y niños salvo indicación precisa.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Psoas y obturador",
-      "title": "Signos del psoas y obturador",
-      "contentHtml": "<h2>Psoas y obturador</h2><ul><li><b>Signo del psoas</b>: dolor a la extensión pasiva de la cadera derecha (paciente en decúbito lateral izquierdo). Indica irritación del músculo psoas por apéndice retrocecal.</li><li><b>Signo del obturador</b>: dolor a la rotación interna pasiva de la cadera derecha flexionada. Sugiere apéndice pélvico cercano al músculo obturador interno.</li><li>Ambos signos tienen especificidad >85% pero sensibilidad limitada (~30-50%).</li><li>Su positividad orienta a la posición anatómica del apéndice y ayuda en la decisión quirúrgica.</li></ul>"
+      "foco": "Apendicectomía laparoscópica es tratamiento de elección",
+      "title": "Apendicectomía laparoscópica",
+      "contentHtml": "<h2>Apendicectomía laparoscópica es tratamiento de elección</h2><ul><li><b>Tratamiento:</b> apendicectomía laparoscópica es de elección en apendicitis aguda no complicada y complicada.</li><li><b>Ventajas:</b> menor dolor postoperatorio, menor infección de herida, recuperación más rápida.</li><li><b>Preguntable:</b> antibióticos solos no son tratamiento estándar; pueden usarse en casos seleccionados.</li><li><b>Trampa:</b> en peritonitis generalizada o inestabilidad, puede requerir laparotomía.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Tratamiento quirúrgico urgente",
-      "title": "Apendicectomía urgente",
-      "contentHtml": "<h2>Tratamiento quirúrgico urgente</h2><ul><li>La apendicectomía (abierta o laparoscópica) es el tratamiento definitivo; debe realizarse dentro de las primeras 24 horas del diagnóstico.</li><li>Retraso >24-48 horas aumenta riesgo de perforación y complicaciones.</li><li>En apendicitis no complicada, la <b>apendicectomía laparoscópica</b> es la técnica de elección por menor dolor postoperatorio y estancia hospitalaria.</li><li>En casos de plastrón o absceso, se puede optar por manejo conservador inicial (antibióticos + drenaje) y apendicectomía diferida a las 6-8 semanas.</li></ul>"
+      "foco": "Paciente pediátrico presenta menor localización del dolor",
+      "title": "Apendicitis en pediatría",
+      "contentHtml": "<h2>Paciente pediátrico presenta menor localización del dolor</h2><ul><li><b>Particularidad:</b> niños pequeños tienen menor localización del dolor; puede ser difuso o periumbilical.</li><li><b>Preguntable:</b> presentación atípica: irritabilidad, vómitos, fiebre sin focalización; riesgo de perforación mayor.</li><li><b>Diagnóstico:</b> ecografía como imagen inicial; Alvarado menos validado en &lt;3 años.</li><li><b>Trampa:</b> no exigir migración típica para diagnosticar; la progresión rápida a peritonitis es frecuente.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Antibiótico preoperatorio",
-      "title": "Profilaxis antibiótica",
-      "contentHtml": "<h2>Antibiótico preoperatorio</h2><ul><li>Administrar <b>30-60 minutos</b> antes de la incisión quirúrgica.</li><li>Régimen de elección: <b>cefazolina 2 g intravenosa</b> (o <b>ceftriaxona 1 g intravenosa</b>) más <b>metronidazol 500 mg por vía intravenosa</b> para cubrir gramnegativos y anaerobios.</li><li>En alérgicos a betalactámicos: <b>clindamicina 600 mg por vía intravenosa</b> + <b>gentamicina 5 mg/kg intravenosa</b> o <b>levofloxacino 500 mg por vía intravenosa</b> + <b>metronidazol</b>.</li><li>Si hay perforación o peritonitis, continuar antibióticos por 3-5 días postoperatorios.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Apendicectomía laparoscópica",
-      "title": "Apendicectomía laparoscópica",
-      "contentHtml": "<h2>Apendicectomía laparoscópica</h2><ul><li>Técnica gold standard en apendicitis no complicada: menor dolor, menor estancia hospitalaria, reincorporación laboral más rápida.</li><li>Contraindicaciones relativas: peritonitis generalizada, embarazo avanzado (tercer trimestre), coagulopatía no corregida.</li><li>Se usan 3 puertos (umbilical, suprapúbico, flanco izquierdo); se secciona el mesoapéndice con bisturí armónico o ligadura vascular.</li><li>En apendicitis complicada (perforación, absceso), la <b>apendicectomía laparoscópica</b> es segura si el cirujano tiene experiencia; requiere conversión a abierta en 5-10% de casos.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Diagnóstico diferencial: en mujeres",
-      "title": "Diagnóstico diferencial: en mujeres",
-      "contentHtml": "<h2>Diagnóstico diferencial en mujeres</h2><ul><li>En mujeres en edad fértil, descartar patología ginecológica: <b>enfermedad inflamatoria pélvica</b> (EPI), <b>quiste ovárico roto</b>, <b>embarazo ectópico</b>, <b>torsión ovárica</b>.</li><li>Realizar <b>ecografía pélvica</b> y <b>prueba de embarazo (β-hCG)</b> antes de la cirugía.</li><li>La <b>EPI</b> cursa con dolor bilateral, flujo vaginal, fiebre y dolor a la movilización cervical.</li><li>La <b>torsión ovárica</b> se presenta con dolor abrupto, náuseas y masa anexial; la <b>ecografía Doppler</b> es diagnóstica.</li></ul>"
+      "foco": "Apendicitis en embarazada: dolor en flanco derecho",
+      "title": "Apendicitis en embarazada",
+      "contentHtml": "<h2>Apendicitis en embarazada: dolor en flanco derecho</h2><ul><li><b>Particularidad:</b> útero grávido desplaza el apéndice hacia flanco derecho; dolor en flanco derecho o punto de McBurney desplazado.</li><li><b>Preguntable:</b> diagnóstico difícil; ecografía inicial, resonancia magnética si es inconclusa; tomografía computarizada solo si es esencial.</li><li><b>Trampa:</b> leucocitosis fisiológica del embarazo; no descartar por hemograma.</li><li><b>Tratamiento:</b> apendicectomía laparoscópica es segura y de elección; retraso aumenta riesgo de perforación y parto prematuro.</li></ul>"
     }
   ]
 }

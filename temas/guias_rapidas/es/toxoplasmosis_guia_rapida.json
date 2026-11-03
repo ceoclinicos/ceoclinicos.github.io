@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Ciclo replicativo de Toxoplasma gondii",
-      "title": "Ciclo replicativo",
-      "contentHtml": "<h2>Ciclo replicativo de <i>Toxoplasma gondii</i></h2><ul><li>El ciclo alterna entre reproducción <b>sexual</b> (en enterocitos del huésped definitivo) y <b>asexual</b> (en tejidos de huéspedes intermediarios).</li><li>La fase sexual produce <b>ooquistes</b> no esporulados eliminados en heces felinas; esporulan en 1-5 días volviéndose infectantes.</li><li>En el huésped intermediario, los <b>taquizoítos</b> se replican rápidamente en vacuolas parasitóforas, lisando células y diseminándose.</li><li>Bajo presión inmune, los taquizoítos se diferencian a <b>bradizoítos</b> dentro de quistes tisulares, principalmente en músculo y SNC.</li></ul>"
+      "foco": "Infección por Toxoplasma gondii, parásito intracelular obligado",
+      "title": "Toxoplasma gondii: parásito intracelular obligado",
+      "contentHtml": "<h2>Toxoplasma gondii</h2><ul><li><b>Parásito intracelular obligado</b> del filo Apicomplexa; infecta cualquier célula nucleada, con tropismo por músculo, retina, sistema nervioso central y placenta.</li><li>Formas: <b>taquizoíto</b> (invasión aguda, replicación rápida), <b>bradizoíto</b> (quiste tisular latente, cistico), <b>ooquiste</b> (forma sexual en el gato, esporogonía en el ambiente).</li><li>Respuesta inmune: <b>inmunidad celular Th1 con interferón gamma</b> mantiene los quistes; la caída de CD4 reactiva bradizoítos a taquizoítos.</li><li>Trampa: no es un hongo ni bacteria; no crece en cultivos bacterianos habituales. Se tiñe con Giemsa, plata y hematoxilina-eosina.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Huésped definitivo: felinos",
-      "title": "Huésped definitivo",
-      "contentHtml": "<h2>Huésped definitivo: felinos</h2><ul><li>Únicos huéspedes donde ocurre el ciclo <b>sexual</b> completo (gametogonia y esporogonia) en enterocitos del íleon.</li><li>Los felinos eliminan <b>ooquistes</b> no esporulados (<b>10-100 millones/día</b>) durante 1-3 semanas post-infección primaria.</li><li>La esporulación requiere <b>oxígeno</b> y temperatura 20-25°C; los ooquistes esporulados son resistentes a desinfectantes y sobreviven meses en tierra húmeda.</li><li>Los gatos se infectan al ingerir quistes tisulares de presas (bradizoítos) o ooquistes; no hay excreción en reinfecciones.</li></ul>"
+      "foco": "Huésped definitivo: el gato; heces con ooquistes infecciosos",
+      "title": "El gato como huésped definitivo",
+      "contentHtml": "<h2>Huésped definitivo: el gato</h2><ul><li><b>Huésped definitivo</b>: felinos domésticos y silvestres; en su intestino delgado ocurre la fase sexual y se eliminan <b>ooquistes</b> en heces.</li><li>Los ooquistes son <b>no infecciosos al emitirse</b>; requieren esporulación en el ambiente (1-5 días) para volverse infectantes.</li><li>Huéspedes intermediarios: mamíferos y aves (incluido el humano), donde se forman quistes tisulares.</li><li>Los gatos eliminan ooquistes solo en la primoinfección, por 1-3 semanas; la mayoría de gatos no son fuente directa relevante comparada con la carne mal cocida.</li><li>Trampa: la limpieza del arenero &gt;24 h reduce riesgo porque los ooquistes aún no esporulan.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Formas: taquizoíto, bradizoíto, ooquiste",
-      "title": "Formas parasitarias",
-      "contentHtml": "<h2>Formas: taquizoíto, bradizoíto, ooquiste</h2><ul><li><b>Taquizoíto:</b> forma replicativa rápida en fase aguda; forma semilunar de ~2-6 μm; invade cualquier célula nucleada.</li><li><b>Bradizoíto:</b> forma latente en quistes tisulares (pared gruesa); replicación lenta; responsable de infección crónica y reactivación.</li><li><b>Ooquiste:</b> forma ambiental; esporulado contiene 2 esporoquistes con 4 esporozoítos cada uno; resiste a ácidos y cloro.</li><li>En inmunocomprometidos, la ruptura de quistes libera <b>bradizoítos</b> que se convierten en <b>taquizoítos</b>, causando reactivación.</li></ul>"
+      "foco": "Transmisión: carne mal cocida, ooquistes, transplacentaria, trasplante",
+      "title": "Vías de transmisión",
+      "contentHtml": "<h2>Transmisión</h2><ul><li><b>Carne mal cocida</b> (cordero, cerdo, caza) con quistes tisulares: vía principal en adultos; cocinar &gt;66 °C en el centro.</li><li><b>Ooquistes</b> de heces felinas esporuladas: agua y vegetales contaminados, manos sucias; resisten cloro habitual.</li><li><b>Transplacentaria</b>: solo en primoinfección materna (o reactivación en inmunosuprimidas), con parasitemia.</li><li><b>Trasplante</b> de órgano sólido (corazón, riñón, hígado) y <b>hemoderivados</b> leucocitarios; riesgo de donante seropositivo a receptor seronegativo.</li><li>Trampa: la leche materna y el contacto directo con gato sano no son vías relevantes.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Transmisión por carne cruda y heces de gato",
-      "title": "Transmisión",
-      "contentHtml": "<h2>Transmisión por carne cruda y heces de gato</h2><ul><li>Ingestión de quistes tisulares (<b>bradizoítos</b>) en carne cruda o mal cocida (cerdo, cordero, venado).</li><li>Ingestión de <b>ooquistes</b> esporulados de heces de gato (jardinería, arena sanitaria).</li><li>Transmisión transplacentaria: taquizoítos atraviesan placenta; riesgo mayor si infección materna aguda en 2°-3° trimestre.</li><li>No hay transmisión directa persona a persona (excepto transfusión/trasplante de órgano infectado).</li><li>Cocción interna a &gt;67°C o congelación a -20°C por 24h inactiva quistes.</li></ul>"
+      "foco": "Primoinfección en embarazo: riesgo de transmisión fetal crece con edad gestacional",
+      "title": "Primoinfección y riesgo fetal",
+      "contentHtml": "<h2>Primoinfección en el embarazo</h2><ul><li>El riesgo de <b>transmisión fetal crece con la edad gestacional</b>: &lt;10 % en primer trimestre, hasta 60-70 % en tercer trimestre.</li><li>La gravedad fetal es inversa: mayor daño en primer trimestre (aborto, malformaciones graves); en tercero suele ser asintomática al nacer.</li><li>Solo la <b>primoinfección</b> (IgM positiva con IgG de baja avidez) transmite; la IgG positiva previa no indica riesgo.</li><li>Tamizaje serológico preconcepcional y en cada trimestre en países con programa; la <b>avidez de IgG</b> &lt;30 % sugiere infección reciente (&lt;4 meses).</li><li>Trampa: IgM puede persistir años; no equivale a infección aguda sin avidez o PCR.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Tríada clásica de toxoplasmosis congénita",
-      "title": "Toxoplasmosis congénita",
-      "contentHtml": "<h2>Tríada clásica de toxoplasmosis congénita</h2><ul><li><b>Coriorretinitis</b> (bilateral en 85%), <b>hidrocefalia</b> (con calcificaciones periventriculares) y <b>calcificaciones intracraneales</b>.</li><li>Otras manifestaciones: <b>convulsiones</b>, microcefalia, retraso psicomotor, hepatoesplenomegalia, ictericia.</li><li>La tríada completa ocurre en &lt;10% de neonatos infectados; la mayoría son asintomáticos al nacer.</li><li>El diagnóstico prenatal se confirma con <b>PCR en líquido amniótico</b> tras 18 semanas de gestación.</li><li>Tratamiento en embarazo: <b>espiramicina</b> si no hay infección fetal; si hay infección fetal: <b>pirimetamina + sulfadiazina + ácido folínico</b>.</li></ul>"
+      "foco": "Tétrada clásica: hidrocefalia, calcificaciones intracraneales, coriorretinitis, convulsiones",
+      "title": "Tétrada clásica de toxoplasmosis congénita",
+      "contentHtml": "<h2>Toxoplasmosis congénita: tétrada clásica</h2><ul><li><b>Hidrocefalia</b> (obstructiva por ependimitis), <b>calcificaciones intracraneales</b> difusas, <b>coriorretinitis</b> y <b>convulsiones</b>.</li><li>Las calcificaciones son <b>difusas y dispersas</b> (a diferencia de las periventriculares del citomegalovirus).</li><li>Otros hallazgos: microcefalia, hepatoesplenomegalia, ictericia, trombocitopenia, sordera, retraso del desarrollo.</li><li>La mayoría de recién nacidos infectados son <b>asintomáticos al nacer</b>; la coriorretinitis puede aparecer años después.</li><li>Trampa: la tétrada completa es infrecuente; su ausencia no descarta infección.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Coriorretinitis por toxoplasmosis ocular",
-      "title": "Coriorretinitis ocular",
-      "contentHtml": "<h2>Coriorretinitis por toxoplasmosis ocular</h2><ul><li>Manifestación más común de infección congénita tardía; también por reactivación en inmunocompetentes.</li><li>Fondo de ojo: <b>lesión retiniana blanco-amarillenta</b> (necrosis focal) con <b>vitritis</b> (\"faro en la niebla\") y células en cámara anterior.</li><li>Localización típica: <b>mácula</b> o cerca de vasos arcadas; puede ser unilateral o bilateral, multifocal.</li><li>Diagnóstico clínico; <b>serología IgG/IgM</b> y <b>PCR de humor acuoso</b> si duda.</li><li>Tratamiento: <b>pirimetamina + sulfadiazina + ácido folínico</b> + corticoides (si amenaza mácula o nervio óptico).</li></ul>"
+      "foco": "Coriorretinitis por toxoplasma: causa frecuente de uveítis posterior",
+      "title": "Coriorretinitis toxoplásmica",
+      "contentHtml": "<h2>Coriorretinitis por Toxoplasma</h2><ul><li><b>Causa frecuente de uveítis posterior</b> infecciosa, sobre todo en inmunocompetentes jóvenes; suele ser reactivación de quistes retinianos.</li><li>Clínica: visión borrosa, escotoma, miodesopsias, ojo rojo leve; dolor escaso.</li><li><b>[Hallazgo clave]:</b> lesión blanco-amarillenta de retina con <b>vitritis</b> (\"faro en la niebla\") y cicatriz coriorretiniana adyacente.</li><li>Diagnóstico clínico por oftalmología; PCR de humor vítreo si duda. Tratamiento: <b>pirimetamina-sulfadiazina</b> con ácido folínico, o trimetoprim-sulfametoxazol en lesiones maculares.</li><li>Trampa: no confundir con retinoblastoma (niño, leucocoria, calcificación tumoral).</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Linfadenitis cervical en inmunocompetentes",
-      "title": "Linfadenitis cervical",
-      "contentHtml": "<h2>Linfadenitis cervical en inmunocompetentes</h2><ul><li>Presentación más frecuente en adultos inmunocompetentes; adenopatías <b>cervicales</b> (a veces occipitales, supraclaviculares) indoloras, móviles, sin supuración.</li><li>Puede acompañarse de fiebre, fatiga, mialgias; cuadro similar a mononucleosis infecciosa pero sin faringitis exudativa.</li><li>Diagnóstico diferencial: <b>EBV</b>, <b>CMV</b>, <b>virus de inmunodeficiencia humana</b>, <b>linfoma</b>, <b>tuberculosis</b>.</li><li>Biopsia ganglionar muestra <b>triada histológica</b>: hiperplasia folicular, agregados de células epitelioides, y distorsión sinusal con células mononucleares.</li><li>En inmunocompetentes suele ser autolimitada; no requiere tratamiento antiparasitario a menos que persista &gt;4 semanas o sea grave.</li></ul>"
+      "foco": "Inmunosuprimidos: reactivación con encefalitis y abscesos en anillo",
+      "title": "Reactivación en inmunosuprimidos",
+      "contentHtml": "<h2>Toxoplasmosis en inmunosuprimidos</h2><ul><li>Reactivación de quistes por caída de <b>linfocitos CD4 &lt;100 células/µL</b>, típica de infección por virus de la inmunodeficiencia humana avanzada.</li><li>Cuadro: <b>encefalitis</b> con fiebre, cefalea, déficit focal, convulsiones y alteración de conciencia.</li><li><b>[Hallazgo clave]:</b> tomografía o resonancia con <b>abscesos en anillo</b> múltiples, de localización en ganglios basales y unión corticomedular.</li><li>Diagnóstico presuntivo: serología IgG positiva + clínica + imagen; PCR en líquido cefalorraquídeo confirma. Biopsia si lesión única o sin respuesta.</li><li>Tratamiento de inducción: <b>pirimetamina + sulfadiazina + ácido folínico</b>; alternativa trimetoprim-sulfametoxazol.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Lesiones cerebrales en anillo en TAC en virus de inmunodeficiencia humana",
-      "title": "Neurotoxoplasmosis en virus de inmunodeficiencia humana",
-      "contentHtml": "<h2>Lesiones cerebrales en anillo en TAC en virus de inmunodeficiencia humana</h2><ul><li>En pacientes virus de inmunodeficiencia humana con recuento de <b>CD4 &lt;100 células/μL</b>, la reactivación de toxoplasmosis cerebral es la causa más común de lesión ocupante de espacio intracraneal.</li><li>TAC con contraste: <b>lesiones hipodensas con realce anular</b> (en anillo), rodeadas de edema vasogénico; típicamente múltiples, localización <b>ganglios basales</b>, <b>tálamo</b>, <b>unión corticosubcortical</b>.</li><li>Diagnóstico presuntivo: respuesta clínica y radiológica a tratamiento empírico en 10-14 días; si no mejora, considerar <b>linfoma primario del SNC</b> o <b>absceso tuberculoso</b>.</li><li>Tratamiento de primera línea: <b>pirimetamina</b> (200 mg carga, luego 50-75 mg/día) + <b>sulfadiazina</b> (4-6 g/día) + <b>ácido folínico</b> (10-20 mg/día).</li></ul>"
+      "foco": "Diagnóstico: IgM/IgG, avidez de IgG, PCR y detección en LCR",
+      "title": "Diagnóstico serológico y molecular",
+      "contentHtml": "<h2>Diagnóstico</h2><ul><li><b>IgM e IgG</b> por enzimoinmunoanálisis: IgM sugiere infección reciente pero puede persistir meses o años; IgG indica contacto previo.</li><li><b>Avidez de IgG</b>: &lt;30 % indica infección &lt;4 meses (baja avidez); &gt;60 % sugiere infección &gt;4 meses y descarta primoinfección reciente.</li><li><b>PCR</b> en líquido amniótico (tras 18 semanas, 4 semanas después de la infección materna) confirma infección fetal.</li><li><b>Detección en líquido cefalorraquídeo</b>: PCR para encefalitis en inmunosuprimidos; también IgM intratecal e índice de anticuerpos.</li><li>Trampa: IgM positiva aislada en embarazo no diagnostica infección aguda; requiere avidez y PCR.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Diagnóstico: serología IgG e IgM",
-      "title": "Diagnóstico serológico",
-      "contentHtml": "<h2>Diagnóstico: serología IgG e IgM</h2><ul><li><b>IgG</b> positiva indica infección pasada; no distingue fase aguda de crónica.</li><li><b>IgM</b> positiva sugiere infección reciente (&lt;4-8 semanas), pero puede persistir &gt;12 meses (falsa persistencia).</li><li>Para fechar infección en embarazo se usa <b>test de avidez de IgG</b>: avidez alta (&gt;60%) descarta infección en las últimas 12-16 semanas; baja (&lt;30%) sugiere infección reciente.</li><li>En inmunocomprometidos, la serología puede ser negativa; se prefiere <b>PCR en líquido cefalorraquídeo</b> o <b>biopsia cerebral</b>.</li><li><b>IgA</b> e <b>IgE</b> específicas se usan en diagnóstico neonatal (IgM/IgA en sangre de cordón).</li></ul>"
+      "foco": "Embarazo: espiramicina para evitar transmisión; pirimetamina-sulfadiazina si infección fetal",
+      "title": "Tratamiento en el embarazo",
+      "contentHtml": "<h2>Tratamiento en el embarazo</h2><ul><li>Infección materna confirmada sin infección fetal: <b>espiramicina</b> 1 g cada 8 h por vía oral; actúa en placenta y <b>evita la transmisión</b> pero no trata al feto.</li><li>Infección fetal confirmada (PCR en líquido amniótico positiva o ecografía compatible): <b>pirimetamina-sulfadiazina</b> con ácido folínico; la pirimetamina es teratogénica, se evita antes de las 14 semanas.</li><li>Esquema: pirimetamina 50 mg cada 12 h + sulfadiazina 1 g cada 8 h + ácido folínico 10-25 mg/día; ajustar por toxicidad hematológica.</li><li>Alternativa si alergia a sulfas: pirimetamina con clindamicina o azitromicina.</li><li>Trampa: la espiramicina no erradica la infección fetal; no retrasar el cambio a pirimetamina-sulfadiazina.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Tratamiento: pirimetamina más sulfadiazina",
-      "title": "Tratamiento específico",
-      "contentHtml": "<h2>Tratamiento: pirimetamina más sulfadiazina</h2><ul><li>Régimen de primera línea para toxoplasmosis activa (ocular, cerebral, congénita, diseminada).</li><li><b>Pirimetamina</b> (inhibidor de dihidrofolato reductasa) + <b>sulfadiazina</b> (inhibidor de dihidropteroato sintetasa) actúan de forma sinérgica en la vía del folato.</li><li>Siempre añadir <b>ácido folínico</b> (leucovorina) 10-20 mg/día para prevenir mielosupresión por pirimetamina.</li><li>Dosis adulto toxoplasmosis cerebral: <b>pirimetamina</b> 200 mg VO carga, luego 50-75 mg/día; <b>sulfadiazina</b> 4-6 g/día VO en 4 dosis divididas.</li><li>Alternativa en alérgicos a sulfa: <b>clindamicina</b> 600 mg por vía intravenosa/6h + pirimetamina; o <b>trimetoprim-sulfametoxazol</b> (15-20 mg/kg/día de TMP) como otra opción.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Profilaxis con trimetoprim-sulfametoxazol en virus de inmunodeficiencia humana",
-      "title": "Profilaxis en virus de inmunodeficiencia humana",
-      "contentHtml": "<h2>Profilaxis con trimetoprim-sulfametoxazol en virus de inmunodeficiencia humana</h2><ul><li>Indicación: pacientes virus de inmunodeficiencia humana con <b>CD4 &lt;100 células/μL</b> y serología IgG positiva para <i>Toxoplasma</i>.</li><li>Régimen de elección: <b>trimetoprim-sulfametoxazol</b> (TMP-SMX) 1 tableta doble fuerte (160/800 mg) cada 24h o 3 veces por semana.</li><li>Alternativa si alergia a sulfa: <b>dapsona</b> 50 mg/día + <b>pirimetamina</b> 50 mg/semana + <b>ácido folínico</b>; o <b>atovacuona</b> 1500 mg/día.</li><li>La profilaxis se suspende cuando CD4 &gt;200 células/μL por &gt;3 meses con TARV estable.</li><li>Primoinfección en virus de inmunodeficiencia humana requiere tratar fase aguda y luego profilaxis secundaria de por vida si CD4 no se recupera.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Evitar contacto con heces de gato en embarazo",
-      "title": "Prevención en embarazo",
-      "contentHtml": "<h2>Evitar contacto con heces de gato en embarazo</h2><ul><li>Gestante seronegativa debe evitar limpiar areneros; si es inevitable, usar guantes y lavarse manos.</li><li>Consumir solo carne bien cocida (&gt;67°C interna); evitar embutidos crudos (jamón serrano, salami).</li><li>Lavar frutas y verduras; evitar jardinería sin guantes (posible contaminación con ooquistes).</li><li>Si se realiza serología de rutina, <b>IgG</b> negativa indica susceptibilidad; repetir cada 8-12 semanas hasta el parto.</li><li>En caso de seroconversión durante embarazo, derivar a medicina materno-fetal para evaluar tratamiento y posible diagnóstico prenatal.</li></ul>"
+      "foco": "Profilaxis en VIH con CD4 <100: trimetoprim-sulfametoxazol",
+      "title": "Profilaxis en VIH avanzado",
+      "contentHtml": "<h2>Profilaxis en infección por VIH</h2><ul><li>Iniciar profilaxis primaria contra toxoplasmosis cuando <b>CD4 &lt;100 células/µL</b> y serología IgG positiva para Toxoplasma.</li><li>Fármaco de elección: <b>trimetoprim-sulfametoxazol</b> 160/800 mg (una tableta) al día o tres veces por semana.</li><li>La profilaxis se suspende al recuperar <b>CD4 &gt;200 células/µL</b> durante más de 3 meses con tratamiento antirretroviral.</li><li>En alérgicos a sulfas: dapsona, pirimetamina con ácido folínico o atovacuona como alternativas.</li><li>Trampa: la profilaxis no se indica en seronegativos; se repite serología si CD4 &lt;100.</li></ul>"
     }
   ]
 }

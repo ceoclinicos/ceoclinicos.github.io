@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Neumotórax a tensión y drenaje inmediato",
+      "foco": "Neumotórax a tensión: descompresión inmediata sin esperar Rx",
       "title": "Neumotórax a tensión",
-      "contentHtml": "<h2>Neumotórax a tensión</h2><ul><li><b>Fisiopatología:</b> mecanismo valvular unidireccional que atrapa aire en espacio pleural, desplazando mediastino contralateral y comprometiendo retorno venoso.</li><li><b>Diagnóstico clínico:</b> hipotensión, distensión yugular, ausencia de murmullo vesicular, timpanismo, desviación traqueal contralateral.</li><li><b>Manejo inmediato:</b> <b>toracostomía con aguja</b> (angiocatéter 14-16G en 2° EIC línea medioclavicular) seguida de <b>tubo pleural</b> en 5° EIC línea axilar media.</li><li><b>Trampa:</b> no esperar confirmación radiológica; el drenaje por aguja es temporal y debe convertirse a tubo definitivo.</li></ul>"
+      "contentHtml": "<h2>Neumotórax a tensión</h2><ul><li><b>Diagnóstico clínico</b>: taquipnea, hipotensión, ingurgitación yugular, abolición del murmullo vesicular y timpanismo ipsilateral; <b>no esperar radiografía</b>.</li><li><b>Descompresión inmediata</b>: aguja 14-16 G en <b>segundo espacio intercostal línea medioclavicular</b> o <b>quinto espacio intercostal línea axilar anterior</b>; seguido de tubo torácico.</li><li><b>Fisiopatología</b>: presión intrapleural &gt; presión atmosférica → colapso pulmonar, desplazamiento mediastínico y obstrucción del retorno venoso.</li><li><b>Trampa</b>: la radiografía puede retrasar el tratamiento; la toracocentesis con aguja es solo puente hasta el drenaje definitivo.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Hemotórax masivo: tubo >20 mL/kg",
-      "title": "Hemotórax masivo",
-      "contentHtml": "<h2>Hemotórax masivo</h2><ul><li><b>Definición:</b> acumulación de sangre en cavidad pleural >1500 mL o >20 mL/kg en adulto, o drenaje inicial por tubo >20 mL/kg.</li><li><b>Criterio quirúrgico:</b> drenaje inicial >1500 mL o débito horario >200 mL/h durante 2-4 horas.</li><li><b>Manejo:</b> tubo pleural de gran calibre (32-36 Fr), reposición de hemoderivados (relación 1:1:1) y toracotomía urgente si cumple criterios.</li><li><b>Trampa:</b> no retirar el tubo si el débito es alto; la toracotomía no se demora por intentar reanimación completa.</li></ul>"
+      "foco": "Neumotórax abierto: parche de tres lados en inspiración",
+      "title": "Neumotórax abierto",
+      "contentHtml": "<h2>Neumotórax abierto</h2><ul><li><b>Definición</b>: herida torácica aspirante con comunicación entre pleura y atmósfera; el aire entra en inspiración y sale en espiración.</li><li><b>Primera línea</b>: <b>parche de tres lados en inspiración</b> (válvula unidireccional) o dispositivo comercial; luego tubo torácico en sitio separado.</li><li><b>Riesgo</b>: evolución a neumotórax a tensión si el parche sella completamente la herida.</li><li><b>Trampa</b>: no retirar cuerpos extraños impactados; no suturar la herida de forma hermética sin drenaje pleural.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Taponamiento cardíaco: tríada de Beck",
-      "title": "Taponamiento cardíaco",
-      "contentHtml": "<h2>Taponamiento cardíaco</h2><ul><li><b>Tríada de Beck:</b> hipotensión, ruidos cardíacos apagados, distensión venosa yugular.</li><li><b>Signo de Kussmaul:</b> aumento paradójico de la presión venosa yugular durante la inspiración.</li><li><b>Diagnóstico:</b> ecocardiografía (FAST) muestra derrame pericárdico con colapso diastólico de cavidades derechas.</li><li><b>Manejo:</b> pericardiocentesis (subxifoidea) guiada por ecografía o ciego; drenaje quirúrgico (ventana pericárdica) si recurrente o hemopericardio.</li><li><b>Trampa:</b> la tríada de Beck está presente solo en 30% de los casos; la ecografía FAST es estándar.</li></ul>"
+      "foco": "Hemotórax masivo: drenaje y toracotomía si >1500 mL",
+      "title": "Hemotórax masivo",
+      "contentHtml": "<h2>Hemotórax masivo</h2><ul><li><b>Definición</b>: &gt;1500 mL de sangre en cavidad pleural o &gt;200 mL/h durante 2-4 horas.</li><li><b>Conducta</b>: drenaje torácico y reposición volumétrica; <b>toracotomía urgente si &gt;1500 mL</b> inmediatos o débito persistente.</li><li><b>Clínica</b>: hipotensión, matidez a la percusión, abolición del murmullo vesicular; puede coexistir con neumotórax (hemoneumotórax).</li><li><b>Trampa</b>: no retrasar la toracotomía por estabilidad transitoria; el sangrado puede ser de vasos intercostales, mamarios internos o parénquima pulmonar.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Fractura esternal y contusión miocárdica",
-      "title": "Fractura esternal y contusión miocárdica",
-      "contentHtml": "<h2>Fractura esternal y contusión miocárdica</h2><ul><li><b>Fractura esternal:</b> asociada a desaceleración (airbag, volante), requiere descartar <b>contusión miocárdica</b>.</li><li><b>Contusión miocárdica:</b> diagnóstico por ECG (elevación ST, BCRI, arritmias) y troponina elevada; ecocardiograma evalúa disfunción segmentaria.</li><li><b>Manejo:</b> monitoreo cardíaco 24-48h, analgesia, evitar anticoagulación si hay hemorragia asociada.</li><li><b>Trampa:</b> la fractura esternal aislada no requiere cirugía; la contusión miocárdica no es equivalente a infarto agudo de miocardio (no usar trombolíticos).</li></ul>"
+      "foco": "Tórax inestable: ventilación con presión positiva",
+      "title": "Tórax inestable",
+      "contentHtml": "<h2>Tórax inestable</h2><ul><li><b>Definición</b>: fractura de &gt;2 arcos costales en &gt;2 puntos con movimiento paradójico de la pared costal.</li><li><b>Tratamiento clave</b>: <b>ventilación con presión positiva</b> (soporte ventilatorio) para estabilizar la pared y mejorar la oxigenación; analgesia adecuada.</li><li><b>Fisiopatología</b>: la presión positiva actúa como férula neumática interna; la fijación quirúrgica se reserva para casos seleccionados.</li><li><b>Trampa</b>: la gravedad no depende solo del segmento móvil, sino de la contusión pulmonar asociada y la insuficiencia respiratoria.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Aortografía en trauma aórtico contuso",
-      "title": "Aortografía en trauma aórtico",
-      "contentHtml": "<h2>Aortografía en trauma aórtico contuso</h2><ul><li><b>Gold standard histórico:</b> <b>aortografía</b>, hoy reemplazada por <b>angio-TAC de tórax</b> (sensibilidad ~100%) para lesión aórtica traumática.</li><li><b>Hallazgo clave:</b> pseudoaneurisma aórtico en istmo (ligamento arterioso) por mecanismo de desaceleración.</li><li><b>Indicación de aortografía:</b> cuando angio-TAC es equívoca o para planificación endovascular (TEVAR).</li><li><b>Trampa:</b> la radiografía de tórax puede mostrar ensanchamiento mediastínico >8 cm, pero no es diagnóstica; no retrasar angio-TAC en paciente inestable.</li></ul>"
+      "foco": "Contusión pulmonar: principal causa de SDRA postraumático",
+      "title": "Contusión pulmonar",
+      "contentHtml": "<h2>Contusión pulmonar</h2><ul><li><b>Definición</b>: daño alveolar y capilar por energía cinética del trauma, sin laceración; principal causa de <b>síndrome de dificultad respiratoria aguda postraumático</b>.</li><li><b>Clínica</b>: hipoxemia progresiva, infiltrados alveolares focales o difusos en la tomografía; puede empeorar en 24-48 horas.</li><li><b>Manejo</b>: soporte ventilatorio con presión positiva, analgesia, fisioterapia respiratoria y evitar sobrecarga hídrica.</li><li><b>Trampa</b>: no confundir con neumonía; la contusión suele ser ipsilateral al impacto y no requiere antibióticos profilácticos.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Ventana pericárdica en herida cardíaca",
-      "title": "Ventana pericárdica",
-      "contentHtml": "<h2>Ventana pericárdica en herida cardíaca</h2><ul><li><b>Indicación:</b> herida cardíaca penetrante con taponamiento recurrente o hemopericardio confirmado por ecografía.</li><li><b>Técnica:</b> abordaje subxifoideo, resección de pericardio para drenaje permanente y exploración de lesión cardíaca.</li><li><b>Alternativa:</b> pericardiocentesis solo como medida temporal en inestabilidad extrema; la ventana es definitiva.</li><li><b>Trampa:</b> en herida cardíaca no estabilizable, indicar <b>toracotomía de emergencia</b> en lugar de ventana; no usar ventana si hay paro cardíaco.</li></ul>"
+      "foco": "Lesión de aorta: ensanchamiento mediastínico en Rx",
+      "title": "Lesión de aorta",
+      "contentHtml": "<h2>Lesión de aorta</h2><ul><li><b>Hallazgo clave</b>: <b>ensanchamiento mediastínico</b> en radiografía de tórax; también borramiento del botón aórtico, desviación traqueal o hemotórax izquierdo.</li><li><b>Localización típica</b>: istmo aórtico (unión aorta descendente y arco).</li><li><b>Confirmación</b>: angiotomografía computarizada de tórax; la ecografía transesofágica es alternativa en inestables.</li><li><b>Trampa</b>: la radiografía normal no descarta lesión; el mecanismo de desaceleración obliga a descartar lesión aórtica.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Toracotomía de emergencia indicaciones",
-      "title": "Toracotomía de emergencia",
-      "contentHtml": "<h2>Toracotomía de emergencia indicaciones</h2><ul><li><b>Indicaciones absolutas:</b> paro cardíaco traumático con RCP <10 min en herida penetrante, <5 min en contuso; hemotórax masivo con drenaje >1500 mL inmediato o >200 mL/h sostenido.</li><li><b>Otras indicaciones:</b> taponamiento cardíaco sin respuesta a pericardiocentesis, lesión traqueobronquial con fuga masiva, embolia aérea.</li><li><b>Técnica:</b> toracotomía anterolateral (4°-5° EIC), extensión transesternal si requiere acceso bilateral.</li><li><b>Trampa:</b> en trauma contuso con paro, la supervivencia es <2%; no indicar si no hay signos vitales en escena.</li></ul>"
+      "foco": "Taponamiento cardíaco: tríada de Beck y pulso paradójico",
+      "title": "Taponamiento cardíaco",
+      "contentHtml": "<h2>Taponamiento cardíaco</h2><ul><li><b>Tríada de Beck</b>: hipotensión, ingurgitación yugular y ruidos cardíacos velados.</li><li><b>Pulso paradójico</b>: caída de la presión arterial sistólica &gt;10 mmHg en inspiración.</li><li><b>Diagnóstico</b>: ecografía rápida (ventana subxifoidea) con derrame pericárdico y colapso de cavidades derechas.</li><li><b>Tratamiento</b>: <b>pericardiocentesis</b> urgente o ventana pericárdica; la intubación puede precipitar colapso hemodinámico.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Lesión traqueobronquial: signo del pulmón caído",
-      "title": "Lesión traqueobronquial",
-      "contentHtml": "<h2>Lesión traqueobronquial: signo del pulmón caído</h2><ul><li><b>Signo del pulmón caído:</b> en radiografía de tórax, el pulmón colapsado se sitúa en la parte inferior del hemitórax, separado del hilio (por rotura bronquial completa).</li><li><b>Clínica:</b> hemoptisis, enfisema subcutáneo, neumotórax persistente a pesar de tubo pleural.</li><li><b>Diagnóstico:</b> broncoscopia (gold standard) para localizar la lesión.</li><li><b>Manejo:</b> quirúrgico (reparación primaria) si lesión >1/3 de circunferencia o fuga aérea masiva; intubación selectiva en bronquio sano si es necesario.</li><li><b>Trampa:</b> el signo del pulmón caído es patognomónico, pero puede estar ausente si la lesión es parcial.</li></ul>"
+      "foco": "Rotura traqueobronquial: neumomediastino y enfisema subcutáneo",
+      "title": "Rotura traqueobronquial",
+      "contentHtml": "<h2>Rotura traqueobronquial</h2><ul><li><b>Hallazgo clave</b>: <b>neumomediastino</b> y <b>enfisema subcutáneo</b>; puede haber neumotórax persistente tras drenaje.</li><li><b>Clínica</b>: disnea, hemoptisis, voz bitonal, enfisema subcutáneo cervical.</li><li><b>Confirmación</b>: broncoscopia; la tomografía computarizada ayuda a localizar la lesión.</li><li><b>Trampa</b>: el drenaje torácico puede no resolver el neumotórax si la lesión es traqueobronquial; requiere cirugía o broncoscopia terapéutica.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Contusión pulmonar: manejo conservador",
-      "title": "Contusión pulmonar",
-      "contentHtml": "<h2>Contusión pulmonar: manejo conservador</h2><ul><li><b>Definición:</b> lesión parenquimatosa por ondas de choque, causa hipoxemia por shunt intrapulmonar.</li><li><b>Manejo conservador:</b> oxigenoterapia para mantener SpO2 >90%, analgesia, fisioterapia respiratoria, restricción de líquidos (evitar sobrecarga).</li><li><b>Indicación de VMI:</b> PaO2/FiO2 <200, hipoventilación o fracaso de medidas no invasivas.</li><li><b>Trampa:</b> la contusión pulmonar empeora en las primeras 24-48h; no usar corticoides ni antibióticos profilácticos (no reducen mortalidad).</li></ul>"
+      "foco": "Fractura de primeros arcos costales: alto riesgo vascular",
+      "title": "Fractura de primeros arcos costales",
+      "contentHtml": "<h2>Fractura de primeros arcos costales</h2><ul><li><b>Significado</b>: traumatismo de alta energía; alto riesgo de lesión vascular (aorta, subclavia) y de plexo braquial.</li><li><b>Estudio</b>: angiotomografía computarizada si sospecha vascular; radiografía de tórax inicial.</li><li><b>Asociaciones</b>: neumotórax, hemotórax, contusión pulmonar y lesión de grandes vasos.</li><li><b>Trampa</b>: no subestimar la fractura aislada del primer arco costal; obliga a descartar lesión vascular oculta.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Fracturas costales y tórax inestable",
-      "title": "Fracturas costales y tórax inestable",
-      "contentHtml": "<h2>Fracturas costales y tórax inestable</h2><ul><li><b>Tórax inestable:</b> tres o más fracturas costales consecutivas en al menos dos sitios, generando movimiento paradójico.</li><li><b>Manejo:</b> analgesia multimodal (AINE, opioides, bloqueo paravertebral), fisioterapia, evitar ventilación mecánica profiláctica.</li><li><b>Indicación de VMI:</b> insuficiencia respiratoria (PaO2 <60 mmHg, PaCO2 >50 mmHg), shock o contusión pulmonar grave asociada.</li><li><b>Trampa:</b> la fijación quirúrgica de costillas está indicada en tórax inestable con fallo de destete de VMI o deformidad severa; no es rutina.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Drenaje pleural: línea axilar media 5° EIC",
-      "title": "Drenaje pleural",
-      "contentHtml": "<h2>Drenaje pleural: línea axilar media 5° EIC</h2><ul><li><b>Sitio de inserción:</b> <b>5° espacio intercostal (EIC)</b>, <b>línea axilar media</b> (zona de seguridad del triángulo de seguridad).</li><li><b>Técnica:</b> incisión paralela a la costilla, disección roma, entrada pleural con dedo, inserción del tubo dirigido posterior y apical (neumotórax) o posterior y basal (hemotórax).</li><li><b>Calibre:</b> 32-36 Fr para hemotórax; 20-24 Fr para neumotórax no complicado.</li><li><b>Trampa:</b> no colocar el tubo en 2° EIC línea medioclavicular como rutina (solo para descompresión con aguja); el punto estándar es el 5° EIC línea axilar media.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Neumotórax abierto: apósito de tres puntos",
-      "title": "Neumotórax abierto",
-      "contentHtml": "<h2>Neumotórax abierto: apósito de tres puntos</h2><ul><li><b>Definición:</b> herida torácica abierta >2/3 del diámetro traqueal que permite entrada de aire, colapsando el pulmón.</li><li><b>Manejo inicial:</b> <b>apósito de tres puntos</b> (oclusivo fijado en tres lados, dejando un lado libre para evitar neumotórax a tensión).</li><li><b>Manejo definitivo:</b> limpieza quirúrgica, cierre de la herida y colocación de <b>tubo pleural</b> alejado de la herida.</li><li><b>Trampa:</b> no usar apósito completamente oclusivo (sin válvula) porque convierte el neumotórax abierto en <b>neumotórax a tensión</b>; el apósito de tres puntos funciona como válvula unidireccional.</li></ul>"
+      "foco": "Tórax flácido: movimiento paradójico de la pared costal",
+      "title": "Tórax flácido",
+      "contentHtml": "<h2>Tórax flácido</h2><ul><li><b>Definición</b>: segmento costal libre que se mueve en sentido opuesto al resto de la pared durante la respiración (<b>movimiento paradójico de la pared costal</b>).</li><li><b>Fisiopatología</b>: fracturas múltiples en &gt;2 puntos; la alteración ventilatoria se debe a contusión pulmonar subyacente más que al defecto mecánico.</li><li><b>Manejo</b>: analgesia, fisioterapia y <b>ventilación con presión positiva</b> si insuficiencia respiratoria; fijación quirúrgica en casos seleccionados.</li><li><b>Trampa</b>: el vendaje externo está contraindicado; empeora la ventilación.</li></ul>"
     }
   ]
 }

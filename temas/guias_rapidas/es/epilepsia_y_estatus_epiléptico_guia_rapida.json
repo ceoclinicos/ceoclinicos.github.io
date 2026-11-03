@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Clasificación de crisis epilépticas",
-      "title": "Clasificación ILAE 2017",
-      "contentHtml": "<h2>Clasificación ILAE 2017</h2><ul><li><b>Crisis focales</b>: inicio en un hemisferio; subclasificar en <b>con conciencia</b> (antes simples) o <b>con alteración de la conciencia</b> (antes complejas).</li><li><b>Crisis generalizadas</b>: compromiso bilateral desde el inicio; incluyen <b>tónico-clónicas</b>, <b>ausencias</b> (típicas vs atípicas), <b>mioclónicas</b>, <b>clónicas</b>, <b>tónicas</b> y <b>atónicas</b>.</li><li><b>Desconocidas</b>: no se puede determinar inicio focal o generalizado.</li><li><b>Crisis focales con evolución a bilateral tónico-clónica</b>: antes llamadas secundariamente generalizadas.</li></ul>"
+      "foco": "Crisis focal con generalización secundaria",
+      "title": "Crisis focal con generalización secundaria",
+      "contentHtml": "<h2>Crisis focal con generalización secundaria</h2><ul><li><b>Definición:</b> crisis que inicia en un foco cortical y se propaga bilateralmente, con fase focal (aura, automatismos, versión cefálica) seguida de fase tónico-clónica bilateral.</li><li><b>Diagnóstico diferencial:</b> crisis tónico-clónica generalizada de inicio bilateral (sin fase focal), síncope convulsivo, crisis psicógena no epiléptica.</li><li><b>Electroencefalograma:</b> descargas focales que se generalizan; interictal con puntas focales.</li><li><b>Imagen:</b> resonancia magnética cerebral para identificar lesión estructural (esclerosis mesial temporal, tumor, malformación).</li><li><b>Primera línea:</b> carbamazepina, oxcarbazepina, lamotrigina o levetiracetam según semiología y comorbilidad.</li><li><b>Trampa:</b> no confundir la fase de generalización con una crisis generalizada primaria; la historia de aura o focalidad inicial es clave.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Diagnóstico diferencial: de síncope vs epilepsia",
-      "title": "Síncope vs epilepsia: claves",
-      "contentHtml": "<h2>Síncope vs epilepsia</h2><ul><li><b>Síncope</b>: pródromo de mareo, náusea, sudoración; recuperación rápida; <b>movimientos mioclónicos</b> breves (<b>&lt;15 seg</b>) pueden ocurrir pero no son epilépticos.</li><li><b>Crisis epiléptica</b>: <b>aura</b> (ej. epigástrica, déjà vu), <b>mordedura lateral de lengua</b>, <b>incontinencia urinaria</b>, <b>confusión postictal</b> prolongada (minutos a horas).</li><li><b>Prolactina sérica</b>: elevada post crisis tónico-clónica (no en síncope), pero no es rutina.</li><li><b>EEG</b>: anormalidades epileptiformes apoyan epilepsia.</li></ul>"
+      "foco": "Ausencia típica: descarga punta-onda 3 Hz",
+      "title": "Ausencia típica y punta-onda 3 Hz",
+      "contentHtml": "<h2>Ausencia típica: descarga punta-onda 3 Hz</h2><ul><li><b>Definición:</b> crisis de ausencia típica: pérdida breve de conciencia (&lt;20 s) con mirada fija, sin caída, de inicio y fin abruptos, amnesia del evento.</li><li><b>Electroencefalograma:</b> descarga generalizada de punta-onda a <b>3 Hz</b>, simétrica y sincrónica, precipitada por hiperventilación.</li><li><b>Diagnóstico diferencial:</b> ausencia atípica (más prolongada, con cambios tonales, punta-onda lenta &lt;2.5 Hz), crisis focal con alteración de conciencia, ensoñación.</li><li><b>Primera línea:</b> etosuximida; alternativas: ácido valproico, lamotrigina.</li><li><b>Trampa:</b> la carbamazepina está contraindicada porque puede agravar las ausencias.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Fármaco de primera línea en crisis focales",
-      "title": "Primera línea crisis focales",
-      "contentHtml": "<h2>Primera línea crisis focales</h2><ul><li><b>Lamotrigina</b> o <b>levetiracetam</b> son opciones de primera línea en adultos con crisis focales (menor perfil de efectos adversos y teratogenicidad).</li><li><b>Carbamazepina</b> y <b>fenitoína</b> son eficaces pero con más interacciones y efectos secundarios; en ancianos evitar carbamazepina por riesgo de hiponatremia.</li><li><b>Ácido valproico</b> es alternativa, pero evitar en mujeres en edad fértil por teratogenicidad y riesgo de síndrome de ovario poliquístico.</li><li>Iniciar monoterapia; si falla, rotar a otro fármaco o añadir segundo.</li></ul>"
+      "foco": "Estatus epiléptico: crisis >5 minutos",
+      "title": "Estatus epiléptico: definición y umbral",
+      "contentHtml": "<h2>Estatus epiléptico: crisis &gt;5 minutos</h2><ul><li><b>Definición operativa:</b> crisis continua o crisis recurrentes sin recuperación de conciencia entre ellas durante <b>&gt;5 minutos</b>; el umbral de 5 minutos define estatus incipiente y justifica tratamiento inmediato.</li><li><b>Fisiopatología:</b> fallo de mecanismos inhibitorios (ácido gamma-aminobutírico) y activación excitatoria (glutamato), con riesgo de lesión neuronal y muerte.</li><li><b>Clasificación:</b> convulsivo (tónico-clónico), no convulsivo, focal, mioclónico, etc.</li><li><b>Primera línea:</b> benzodiacepina intravenosa (lorazepam, diazepam, midazolam).</li><li><b>Trampa:</b> no esperar a los 30 minutos; el daño neuronal comienza antes.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Estatus epiléptico: definición y tiempo crítico",
-      "title": "Definición y tiempo crítico",
-      "contentHtml": "<h2>Estatus epiléptico: definición y tiempo crítico</h2><ul><li><b>Definición operativa</b>: crisis continua &gt;5 min o crisis repetidas sin recuperación de conciencia entre ellas.</li><li><b>Tiempo crítico</b>: a los <b>5 minutos</b> se inicia tratamiento; si no responde a primera línea (benzodiacepinas) a los <b>20-30 min</b> se considera estatus establecido; a los <b>60 min</b> estatus refractario.</li><li><b>Daño neuronal</b>: después de <b>30-60 min</b> de actividad continua hay riesgo de lesión irreversible.</li><li>Clasificación temporal: <b>estatus temprano</b> (0-5 min), <b>establecido</b> (5-30 min), <b>refractario</b> (&gt;60 min).</li></ul>"
+      "foco": "Primera línea estatus: benzodiacepina IV",
+      "title": "Primera línea del estatus: benzodiacepina intravenosa",
+      "contentHtml": "<h2>Primera línea estatus: benzodiacepina intravenosa</h2><ul><li><b>Primera línea:</b> benzodiacepina por vía intravenosa: <b>lorazepam 0.1 mg/kg</b> (máximo 4 mg) o <b>diazepam 0.15-0.2 mg/kg</b> (máximo 10 mg) o <b>midazolam 0.1-0.2 mg/kg</b> intramuscular si no hay acceso venoso.</li><li><b>Mecanismo:</b> potencian el receptor de ácido gamma-aminobutírico tipo A, aumentando la inhibición.</li><li><b>Precaución:</b> depresión respiratoria; monitorizar vía aérea y saturación.</li><li><b>Segunda línea:</b> fenitoína, fosfenitoína, ácido valproico, levetiracetam o fenobarbital.</li><li><b>Trampa:</b> la vía intramuscular no es de elección salvo midazolam; no retrasar por acceso venoso difícil.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Tratamiento inicial del estatus epiléptico",
-      "title": "Tratamiento inicial estatus",
-      "contentHtml": "<h2>Tratamiento inicial del estatus epiléptico</h2><ul><li>Paso 1: <b>Estabilización ABC</b> (vía aérea, respiración, circulación), oxígeno, monitoreo, glucosa capilar.</li><li>Paso 2: <b>Benzodiacepina</b> intravenosa/intramuscular/bucal/rectal: <b>lorazepam 0.1 mg/kg intravenosa</b> (máx 4 mg/dosis) o <b>diazepam 0.2 mg/kg intravenosa</b> (máx 10 mg) o <b>midazolam intramuscular 0.2 mg/kg</b> (máx 10 mg) si no hay acceso intravenosa.</li><li>Paso 3: Si continúa &gt;5 min tras primera dosis, repetir benzodiacepina una vez.</li><li>Paso 4: Si persiste, iniciar <b>fenitoína 20 mg/kg intravenosa</b> o <b>fosfenitoína 20 mg/kg PE</b> (dosis de carga).</li></ul>"
+      "foco": "Estatus no convulsivo: confusión sin motor",
+      "title": "Estatus no convulsivo",
+      "contentHtml": "<h2>Estatus no convulsivo: confusión sin motor</h2><ul><li><b>Definición:</b> estado confusional prolongado sin manifestaciones motoras evidentes, con o sin antecedente de estatus convulsivo; puede presentarse como coma, afasia o alteración conductual.</li><li><b>Electroencefalograma urgente:</b> descargas epileptiformes continuas o recurrentes; es el diagnóstico definitivo.</li><li><b>Diagnóstico diferencial:</b> encefalopatía metabólica, delirium, intoxicación, accidente cerebrovascular.</li><li><b>Primera línea:</b> benzodiacepina intravenosa seguida de fármaco antiepiléptico de segunda línea.</li><li><b>Trampa:</b> sin electroencefalograma no se diagnostica; la confusión sin motor es la presentación típica.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Benzodiacepinas en estatus epiléptico",
-      "title": "Benzodiacepinas: elección y dosis",
-      "contentHtml": "<h2>Benzodiacepinas en estatus epiléptico</h2><ul><li><b>Lorazepam</b> (0.1 mg/kg intravenosa, máx 4 mg/dosis) es preferido sobre diazepam por su <b>vida media más larga</b> en SNC (12-24 h) y menor redistribución.</li><li><b>Diazepam</b> (0.2 mg/kg intravenosa, máx 10 mg) tiene rápida entrada al cerebro pero se redistribuye, con recurrencia en 15-30 min.</li><li><b>Midazolam</b> intramuscular (0.2 mg/kg, máx 10 mg) es alternativa si no hay acceso intravenosa; también intranasal o bucal (0.2-0.3 mg/kg).</li><li>Efectos adversos: <b>depresión respiratoria</b> e hipotensión; monitorizar.</li></ul>"
+      "foco": "Crisis tónico-clónica generalizada bilateral",
+      "title": "Crisis tónico-clónica generalizada bilateral",
+      "contentHtml": "<h2>Crisis tónico-clónica generalizada bilateral</h2><ul><li><b>Definición:</b> crisis de inicio bilateral con fase tónica (rigidez, apnea, cianosis) seguida de fase clónica (sacudidas rítmicas) y fase postictal (somnolencia, confusión).</li><li><b>Diagnóstico diferencial:</b> crisis focal con generalización secundaria (precedida de aura o focalidad), síncope convulsivo, crisis psicógena no epiléptica.</li><li><b>Electroencefalograma:</b> descargas generalizadas de punta-onda o polipunta-onda.</li><li><b>Primera línea:</b> ácido valproico, levetiracetam, lamotrigina o carbamazepina según perfil.</li><li><b>Trampa:</b> la mordedura lateral de lengua y la fase postictal orientan a epilepsia; la mordedura de punta sugiere crisis psicógena.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Fenitoína y fosfenitoína en estatus",
-      "title": "Fenitoína/fosfenitoína: uso",
-      "contentHtml": "<h2>Fenitoína y fosfenitoína en estatus</h2><ul><li><b>Fenitoína</b>: dosis de carga 20 mg/kg intravenosa (máx 50 mg/min) diluida en SF; riesgo de <b>hipotensión</b> y <b>arritmias</b> (prolongación QT).</li><li><b>Fosfenitoína</b>: prodroga, dosis en <b>equivalentes de fenitoína (PE)</b> 20 mg/kg PE intravenosa/intramuscular; administración más rápida (150 mg PE/min) y menor riesgo de flebitis.</li><li>Ambos tienen <b>cinética no lineal</b>; monitorizar niveles (total y libre en hipoalbuminemia).</li><li>Contraindicadas en <b>bloqueo AV</b> de alto grado, bradicardia severa.</li></ul>"
+      "foco": "Ausencia infantil: etosuximida de elección",
+      "title": "Ausencia infantil: etosuximida de elección",
+      "contentHtml": "<h2>Ausencia infantil: etosuximida de elección</h2><ul><li><b>Indicación:</b> epilepsia ausencia infantil (edad escolar) con crisis de ausencia típicas y electroencefalograma con punta-onda a <b>3 Hz</b>.</li><li><b>Primera línea:</b> <b>etosuximida</b>; alternativa: ácido valproico.</li><li><b>Mecanismo:</b> bloquea canales de calcio tipo T talámicos, implicados en la génesis de la punta-onda.</li><li><b>Contraindicación:</b> carbamazepina, fenitoína y oxcarbazepina pueden agravar las ausencias.</li><li><b>Trampa:</b> la etosuximida no cubre crisis tónico-clónicas generalizadas; si coexisten, usar ácido valproico.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Causas de estatus epiléptico refractario",
-      "title": "Causas de estatus refractario",
-      "contentHtml": "<h2>Causas de estatus epiléptico refractario</h2><ul><li><b>Encefalitis</b> (viral, autoinmune), <b>tumor cerebral</b>, <b>accidente cerebrovascular</b> (isquémico o hemorrágico), <b>traumatismo craneoencefálico</b>.</li><li><b>Trastornos metabólicos</b>: hipoglucemia, hiponatremia, hipocalcemia, uremia, encefalopatía hepática.</li><li><b>Abstinencia alcohólica</b> o de benzodiacepinas/barbitúricos.</li><li><b>Infecciones SNC</b>: meningitis, absceso cerebral.</li><li><b>Enfermedades autoinmunes</b>: encefalitis por anticuerpos anti-NMDA, anti-LGI1.</li><li>Si no hay causa aparente, descartar <b>status no convulsivo</b>.</li></ul>"
+      "foco": "Fármacos que bajan umbral convulsivo",
+      "title": "Fármacos que bajan el umbral convulsivo",
+      "contentHtml": "<h2>Fármacos que bajan umbral convulsivo</h2><ul><li><b>Lista:</b> bupropión, tramadol, isoniazida, teofilina, cefalosporinas (cefepima), carbapenémicos (imipenem), fluoroquinolonas, antipsicóticos (clozapina), litio, ciclosporina, lidocaína.</li><li><b>Mecanismo:</b> reducción de la inhibición gabaérgica o aumento de la excitación glutamatérgica.</li><li><b>Riesgo:</b> crisis en pacientes con epilepsia o predisposición; evitar en estatus epiléptico.</li><li><b>Trampa:</b> la isoniazida requiere piridoxina (vitamina B6) para prevenir crisis.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "EEG en estatus epiléptico no convulsivo",
-      "title": "EEG en status no convulsivo",
-      "contentHtml": "<h2>EEG en estatus epiléptico no convulsivo</h2><ul><li><b>Definición</b>: actividad epiléptica continua en EEG (&gt;30 min) sin manifestaciones motoras prominentes, o crisis recurrentes sin recuperación de conciencia.</li><li><b>Hallazgo clave EEG</b>: <b>descargas epileptiformes generalizadas o focales</b> (puntas, ondas agudas, complejos punta-onda) a &gt;2.5 Hz; o patrón de <b>PLEDs</b> (descargas periódicas lateralizadas) con correlación clínica.</li><li>Indicación de EEG urgente: alteración del nivel de conciencia inexplicada tras crisis, o en estatus convulsivo que no despierta tras 30 min de tratamiento.</li><li>Tratamiento: igual que estatus convulsivo, con <b>benzodiacepinas</b> y <b>antiepilépticos intravenosa</b>.</li></ul>"
+      "foco": "Contraindicación de carbamazepina en ausencia",
+      "title": "Contraindicación de carbamazepina en ausencia",
+      "contentHtml": "<h2>Contraindicación de carbamazepina en ausencia</h2><ul><li><b>Contraindicación:</b> la <b>carbamazepina</b> está contraindicada en crisis de ausencia porque puede precipitar o agravar las crisis.</li><li><b>Mecanismo:</b> bloqueo de canales de sodio dependientes de voltaje sin acción sobre canales de calcio tipo T talámicos, que son el sustrato de la ausencia.</li><li><b>Alternativas:</b> etosuximida o ácido valproico.</li><li><b>Trampa:</b> también la fenitoína y la oxcarbazepina pueden agravar ausencias; no usarlas en monoterapia.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Crisis febriles: criterios y manejo",
-      "title": "Crisis febriles: criterios",
-      "contentHtml": "<h2>Crisis febriles: criterios y manejo</h2><ul><li><b>Definición</b>: crisis asociada a fiebre (&gt;38°C) en niños de 6 meses a 5 años, sin infección SNC ni alteración electrolítica aguda.</li><li><b>Crisis febril simple</b>: generalizada, &lt;15 min, única en 24 h, sin recurrencia.</li><li><b>Crisis febril compleja</b>: focal, &gt;15 min, múltiples en 24 h, o con déficit postictal.</li><li><b>Manejo</b>: tratar fiebre (antipiréticos no previenen recurrencia); si crisis activa &gt;5 min: <b>diazepam rectal 0.5 mg/kg</b> o <b>midazolam bucal 0.3 mg/kg</b>.</li><li>No se indica EEG ni neuroimagen de rutina en simples; en complejas considerar.</li><li>No iniciar antiepilépticos profilácticos de rutina.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Epilepsia en el embarazo: fármacos seguros",
-      "title": "Epilepsia y embarazo",
-      "contentHtml": "<h2>Epilepsia en el embarazo: fármacos seguros</h2><ul><li><b>Lamotrigina</b> y <b>levetiracetam</b> son los fármacos de elección por menor teratogenicidad (riesgo de malformaciones &lt;3%).</li><li><b>Ácido valproico</b> está contraindicado por alto riesgo de <b>defectos del tubo neural</b> y <b>trastornos del neurodesarrollo</b> (cociente intelectual bajo).</li><li><b>Fenitoína</b> y <b>carbamazepina</b> asociadas a <b>hendiduras faciales</b> y <b>cardiopatías</b>.</li><li>Monitorizar niveles de lamotrigina (disminuyen en embarazo) y ajustar dosis.</li><li>Suplementar con <b>ácido fólico 5 mg/día</b> desde preconcepción.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Muerte súbita inesperada en epilepsia (SUDEP)",
-      "title": "SUDEP: factores y prevención",
-      "contentHtml": "<h2>Muerte súbita inesperada en epilepsia (SUDEP)</h2><ul><li><b>Definición</b>: muerte no traumática, no por estatus epiléptico, en paciente con epilepsia, sin causa estructural o tóxica identificada.</li><li><b>Factores de riesgo</b>: <b>crisis tónico-clónicas generalizadas</b> frecuentes, <b>incumplimiento terapéutico</b>, <b>policomorbilidad</b>, <b>sexo masculino</b>, <b>inicio temprano de epilepsia</b>.</li><li><b>Mecanismo</b>: probable <b>depresión cardiorrespiratoria</b> postictal (apnea central, bradicardia, hipoxemia).</li><li><b>Prevención</b>: optimizar adherencia a antiepilépticos, evitar alcohol, monitorización nocturna (dispositivos de detección de crisis), cirugía de epilepsia en casos refractarios.</li></ul>"
+      "foco": "EEG urgente en estatus no convulsivo",
+      "title": "Electroencefalograma urgente en estatus no convulsivo",
+      "contentHtml": "<h2>Electroencefalograma urgente en estatus no convulsivo</h2><ul><li><b>Indicación:</b> todo paciente con alteración de conciencia inexplicada, especialmente tras estatus convulsivo o en coma sin causa metabólica clara.</li><li><b>Hallazgo clave:</b> descargas epileptiformes continuas o recurrentes en el electroencefalograma, sin manifestaciones motoras.</li><li><b>Utilidad:</b> confirma el diagnóstico y guía el tratamiento; el estatus no convulsivo puede ser sutil y pasar desapercibido.</li><li><b>Trampa:</b> no retrasar el electroencefalograma por sedación; el tratamiento empírico con benzodiacepina intravenosa está indicado si hay alta sospecha.</li></ul>"
     }
   ]
 }

@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Edad pico 2-6 años",
-      "title": "Edad pico y epidemiología",
-      "contentHtml": "<h2>Edad pico 2-6 años</h2><ul><li>La glomerulonefritis aguda postestreptocócica (GNAPE) es la causa más frecuente de glomerulonefritis aguda en la infancia, con <b>pico de incidencia entre 2 y 6 años</b>.</li><li>Predomina en varones (2:1) y es más común en países en desarrollo o condiciones de hacinamiento.</li><li>El diagnóstico diferencial principal en este rango etario incluye nefropatía por IgA (más común en adultos jóvenes y adolescentes), pero la GNAPE se caracteriza por presentación epidémica o esporádica tras infección estreptocócica.</li><li>En niños menores de 2 años es rara, y si se presenta, considerar otras causas de hematuria, como uropatías o enfermedad de Alport.</li></ul>"
+      "foco": "Latencia 1-3 semanas tras faringitis; 3-6 tras impétigo",
+      "title": "Periodo de latencia",
+      "contentHtml": "<h2>Periodo de latencia</h2><ul><li>Tras <b>faringitis estreptocócica</b>: latencia de <b>1-3 semanas</b>.</li><li>Tras <b>impétigo</b>: latencia de <b>3-6 semanas</b>.</li><li>La latencia refleja el tiempo necesario para la formación de inmunocomplejos y su depósito glomerular.</li><li>Trampa de examen: una hematuria que aparece <b>&lt;1 semana</b> tras faringitis sugiere otra causa (nefropatía por IgA).</li><li>El periodo de latencia es un criterio clínico clave para diferenciar la glomerulonefritis aguda postestreptocócica de la nefropatía por IgA.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Latencia 1-3 semanas",
-      "title": "Período de latencia",
-      "contentHtml": "<h2>Latencia 1-3 semanas</h2><ul><li>La <b>latencia entre la infección y la nefritis es de 1 a 3 semanas</b>; típicamente <b>1-2 semanas tras faringitis</b> y <b>3-6 semanas tras impétigo</b> (aunque el foco clásico dice 1-3 semanas, recuerda la diferencia por sitio).</li><li>Este intervalo es clave para diferenciar de <b>nefropatía por IgA</b>, donde la hematuria aparece <b>dentro de 1-2 días</b> de una infección respiratoria alta (hematuria sincrónica).</li><li>La latencia larga indica que la lesión es mediada por inmunocomplejos, no por invasión bacteriana directa.</li><li>Pregunta de examen: si la hematuria ocurre a los 2 días, no es GNAPE; piensa en nefropatía por IgA.</li></ul>"
+      "foco": "Niños 5-12 años, más frecuente en varones",
+      "title": "Epidemiología",
+      "contentHtml": "<h2>Epidemiología</h2><ul><li>Edad típica: <b>niños de 5-12 años</b>.</li><li>Predominio en <b>varones</b> (aproximadamente 2:1).</li><li>Es la causa más frecuente de glomerulonefritis aguda en la infancia.</li><li>En adultos también ocurre, pero con menor frecuencia y peor pronóstico.</li><li>Trampa: aunque es más frecuente en niños, no debe descartarse en adultos con síndrome nefrítico agudo.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "C3 bajo con C4 normal",
-      "title": "Perfil de complemento",
-      "contentHtml": "<h2>C3 bajo con C4 normal</h2><ul><li>Hallazgo clásico: <b>C3 bajo con C4 normal</b> (vía alterna activada).</li><li>El complemento sérico total (CH50) también está disminuido, pero el C3 es el marcador más sensible.</li><li>El C3 suele normalizarse en <b>6-8 semanas</b>; si persiste bajo más de 8 semanas, considerar otras causas como <b>nefritis lúpica</b> o <b>glomerulonefritis membranoproliferativa</b>.</li><li>En la biopsia, inmunofluorescencia muestra depósitos granulares de C3 e IgG (patrón “en cadena de cuentas”); si solo hay C3, sospechar enfermedad de depósitos densos.</li></ul>"
+      "foco": "Criterios: hematuria, HTA, edema e oliguria",
+      "title": "Tétrada clínica",
+      "contentHtml": "<h2>Tétrada clínica</h2><ul><li><b>Hematuria</b> (microscópica o macroscópica).</li><li><b>HTA</b> (hipertensión arterial) por retención hidrosalina.</li><li><b>Edema</b> (periorbitario y facial matutino).</li><li><b>Oliguria</b> (diuresis &lt;0.5 ml/kg/h en niños o &lt;400 ml/día en adultos).</li><li>La combinación de estos cuatro criterios configura el síndrome nefrítico agudo.</li><li>Trampa: la proteinuria suele ser leve (&lt;1 g/día); proteinuria en rango nefrótico (&gt;3.5 g/día) sugiere otra glomerulopatía.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "ASO elevado tras faringitis",
-      "title": "Antiestreptolisina O (ASO)",
-      "contentHtml": "<h2>ASO elevado tras faringitis</h2><ul><li>La <b>antiestreptolisina O</b> (ASO) se eleva en <b>80-85% de los casos tras faringitis</b>, pero solo en <b>30-50% tras impétigo</b> (porque el colesterol de la piel inhibe la estreptolisina O).</li><li>El título máximo se alcanza a las <b>3-6 semanas</b> y puede tardar meses en normalizarse; un título único elevado no confirma infección reciente, se requiere elevación seriada.</li><li>Si la ASO es negativa y hay sospecha, solicitar otras pruebas: anti-DNasa B, anti-hialuronidasa, anti-estreptocinasa.</li><li>En el contexto de <b>faringitis</b>, la ASO es la primera prueba; si el paciente tuvo <b>impétigo</b>, la anti-DNasa B es más sensible.</li></ul>"
+      "foco": "Hematuria macroscópica con cilindros hemáticos",
+      "title": "Hematuria y cilindros",
+      "contentHtml": "<h2>Hematuria y cilindros</h2><ul><li>La <b>hematuria macroscópica</b> es frecuente y suele ser de color «coca-cola» o marrón.</li><li>El sedimento urinario muestra <b>cilindros hemáticos</b>, que indican origen glomerular.</li><li>También pueden verse <b>cilindros eritrocitarios</b> y <b>cilindros granulosos</b>.</li><li>La presencia de <b>cilindros hemáticos</b> es un hallazgo clave para localizar la hematuria en el glomérulo.</li><li>Trampa: la hematuria aislada sin cilindros ni proteinuria puede ser de origen urológico.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Anti-DNasa B tras impétigo",
-      "title": "Anti-DNasa B",
-      "contentHtml": "<h2>Anti-DNasa B tras impétigo</h2><ul><li>La <b>anti-DNasa B</b> es el marcador de elección cuando la infección cutánea (impétigo) es el antecedente, con sensibilidad &gt;90%.</li><li>Se eleva más lentamente que la ASO (pico a las <b>6-8 semanas</b>) y permanece elevada por más tiempo, útil para diagnóstico tardío.</li><li>Combinar ASO y anti-DNasa B aumenta la sensibilidad para detectar infección estreptocócica reciente hasta <b>95%</b>.</li><li>No usar estos anticuerpos para monitorizar la evolución de la nefritis; solo confirman la etiología.</li></ul>"
+      "foco": "Complemento C3 bajo con C4 normal",
+      "title": "Complemento",
+      "contentHtml": "<h2>Complemento</h2><ul><li><b>C3 bajo</b> con <b>C4 normal</b>.</li><li>Este patrón indica activación de la vía alternativa del complemento.</li><li>El <b>C3 bajo</b> se normaliza en <b>6-8 semanas</b> en la mayoría de los casos.</li><li>Si el <b>C3 bajo</b> persiste &gt;8 semanas, considerar biopsia renal.</li><li>Trampa: un <b>C4 bajo</b> sugiere activación de la vía clásica (p. ej., lupus eritematoso sistémico, endocarditis).</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Hematuria colúrica y dismórfica",
-      "title": "Hematuria",
-      "contentHtml": "<h2>Hematuria colúrica y dismórfica</h2><ul><li>La hematuria es <b>colúrica</b> (orina color “cola” o “té”) y <b>dismórfica</b> (glóbulos rojos deformes en sedimento).</li><li>La hematuria macroscópica ocurre en <b>30-50%</b> de los niños; la microscópica es casi universal.</li><li>En el sedimento urinario se observan <b>células rojas dismórficas</b>, cilindros eritrocitarios y proteinuria (típicamente subnefrótica, &lt;3 g/día).</li><li>La hematuria macroscópica suele resolverse en 1-2 semanas; la microscópica puede persistir durante <b>1-2 años</b>.</li><li>La presencia de cilindros eritrocitarios confirma origen glomerular.</li></ul>"
+      "foco": "ASO elevada en faringitis; anti-DNasa B en impétigo",
+      "title": "Serología estreptocócica",
+      "contentHtml": "<h2>Serología estreptocócica</h2><ul><li><b>ASO</b> (antiestreptolisina O) elevada en infección faríngea.</li><li><b>Anti-DNasa B</b> elevada en infección cutánea (impétigo).</li><li>La <b>ASO</b> puede no elevarse en impétigo porque la infección cutánea no induce buena respuesta antiestreptolisina O.</li><li>El <b>anti-DNasa B</b> es más sensible para infección cutánea.</li><li>Trampa: la serología puede ser negativa si han pasado &gt;2 meses desde la infección.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Hipertensión y edema agudos",
-      "title": "Síndrome nefrítico",
-      "contentHtml": "<h2>Hipertensión y edema agudos</h2><ul><li>La tríada clásica: <b>hipertensión arterial</b>, <b>edema</b> y <b>hematuria</b>; la hipertensión se debe a expansión de volumen por retención de sodio y agua, no a hiperreninemia.</li><li>El edema es periorbitario y de miembros inferiores, a menudo con signos de sobrecarga de volumen (ingurgitación yugular, taquipnea).</li><li>En casos graves puede haber <b>encefalopatía hipertensiva</b> (convulsiones, cefalea) o <b>edema agudo de pulmón</b>.</li><li>El tratamiento de la hipertensión es con <b>diuréticos de asa</b> (furosemida 1-2 mg/kg/dosis) y restricción de sodio; si hay emergencia hipertensiva, usar vasodilatadores como hidralazina intravenosa.</li><li>No usar inhibidores de la enzima convertidora de angiotensina como primera línea en la fase aguda, ya que la hipertensión es volumen-dependiente.</li></ul>"
+      "foco": "Hipertensión por retención hidrosalina",
+      "title": "Hipertensión arterial",
+      "contentHtml": "<h2>Hipertensión arterial</h2><ul><li>La <b>HTA</b> (hipertensión arterial) se debe a <b>retención hidrosalina</b> por disminución de la tasa de filtración glomerular.</li><li>Es típicamente volumen-dependiente, no renina-dependiente.</li><li>Puede acompañarse de <b>edema</b> y <b>oliguria</b>.</li><li>Manejo inicial: restricción de sodio y líquidos; diuréticos de asa si hay sobrecarga.</li><li>Trampa: la <b>HTA</b> grave puede causar encefalopatía hipertensiva; requiere control urgente.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Oliguria con insuficiencia renal",
-      "title": "Oliguria y función renal",
-      "contentHtml": "<h2>Oliguria con insuficiencia renal</h2><ul><li>La <b>oliguria</b> (diuresis &lt;0.5 ml/kg/h) ocurre en la fase aguda y puede acompañarse de <b>insuficiencia renal aguda</b> con elevación de creatinina.</li><li>La insuficiencia renal es generalmente leve y transitoria; la necesidad de diálisis ocurre en &lt;2% de los niños.</li><li>La retención de nitrógenos (azoemia) es desproporcionada a la caída del filtrado glomerular, debido al hipercatabolismo.</li><li>Manejo: restricción de líquidos (solo reponer pérdidas insensibles más diuresis), diuréticos, y control de electrolitos (riesgo de hiperpotasemia).</li><li>La función renal se normaliza en la mayoría en <b>2-4 semanas</b>; si persiste deterioro más de 6-8 semanas, considerar biopsia.</li></ul>"
+      "foco": "Edema periorbitario matutino y facial",
+      "title": "Edema",
+      "contentHtml": "<h2>Edema</h2><ul><li><b>Edema periorbitario matutino</b> y facial es característico.</li><li>Se debe a retención hidrosalina y aumento de la permeabilidad capilar.</li><li>Puede progresar a edema generalizado (anasarca) en casos graves.</li><li>El edema facial matutino es un signo clásico de síndrome nefrítico.</li><li>Trampa: el edema con fóvea en miembros inferiores es más típico de causas cardíacas o hepáticas.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Indicación de biopsia renal",
-      "title": "Indicaciones de biopsia",
-      "contentHtml": "<h2>Indicación de biopsia renal</h2><ul><li>La biopsia NO es rutinaria en niños con presentación típica y evolución esperada.</li><li>Indicaciones: <b>complemento C3 bajo persistente más de 8 semanas</b>, <b>síndrome nefrótico</b> (proteinuria &gt;3.5 g/día) coexistente, <b>insuficiencia renal rápidamente progresiva</b>, <b>anuria prolongada</b> (&gt;1 semana) o <b>ausencia de recuperación de la función renal a las 6-8 semanas</b>.</li><li>También si la presentación es atípica: edad &lt;2 años, sin evidencia de infección estreptocócica, o historia familiar de nefropatía.</li><li>En la biopsia, la microscopía electrónica muestra <b>depósitos subepiteliales en forma de “joroba” (humps)</b>.</li></ul>"
+      "foco": "Indicación de biopsia: complemento bajo >8 semanas",
+      "title": "Indicación de biopsia",
+      "contentHtml": "<h2>Indicación de biopsia</h2><ul><li>Biopsia renal si <b>C3 bajo</b> persiste &gt;8 semanas.</li><li>También si hay proteinuria en rango nefrótico, hematuria persistente &gt;6 meses, o deterioro de la función renal.</li><li>La biopsia está indicada si no hay recuperación clínica esperada.</li><li>Hallazgo histológico típico: <b>glomerulonefritis proliferativa endocapilar difusa</b> con <b>jorobas subepiteliales</b> en la microscopía electrónica.</li><li>Trampa: la biopsia no es necesaria en la presentación típica autolimitada.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Pronóstico excelente en niños",
-      "title": "Pronóstico",
-      "contentHtml": "<h2>Pronóstico excelente en niños</h2><ul><li>El pronóstico es <b>excelente en niños</b>: recuperación completa en &gt;95% de los casos.</li><li>La hematuria microscópica puede persistir hasta <b>1-2 años</b>, pero no indica mal pronóstico.</li><li>Factores de mal pronóstico: edad avanzada (adultos), síndrome nefrótico, insuficiencia renal oligúrica prolongada, y biopsia con proliferación extracapilar extensa (semilunas).</li><li>En adultos, hasta 30-50% pueden tener hipertensión o proteinuria a largo plazo, pero en niños la progresión a enfermedad renal crónica es rara (&lt;1%).</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "No requiere antibiótico profiláctico",
-      "title": "Tratamiento antibiótico",
-      "contentHtml": "<h2>No requiere antibiótico profiláctico</h2><ul><li>Una vez establecida la glomerulonefritis, <b>no requiere antibiótico profiláctico</b>; el daño renal ya está mediado por inmunocomplejos y no por la bacteria viva.</li><li>Si hay infección estreptocócica activa (faringitis o impétigo) al momento del diagnóstico, se trata con antibiótico para erradicar el germen y prevenir diseminación, pero no modifica la evolución renal.</li><li>Tratamiento de elección: <b>penicilina V oral</b> (niños: 50 mg/kg/día dividido cada 8 horas por 10 días) o <b>penicilina G benzatínica intramuscular</b> (600,000 U si peso &lt;27 kg; 1,200,000 U si &gt;27 kg).</li><li>En alérgicos a penicilina, usar <b>eritromicina</b> o <b>clindamicina</b>.</li><li>No se recomienda profilaxis antibiótica a largo plazo para convivientes ni para el paciente, excepto en brotes epidémicos.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Tratamiento sintomático y diuréticos",
-      "title": "Manejo sintomático",
-      "contentHtml": "<h2>Tratamiento sintomático y diuréticos</h2><ul><li>El pilar es el <b>tratamiento sintomático</b>: reposo relativo, restricción de sodio y líquidos, y control de la presión arterial.</li><li>Los <b>diuréticos de asa</b> (furosemida 1-2 mg/kg/dosis oral o intravenoso) están indicados si hay edema significativo, hipertensión o sobrecarga de volumen.</li><li>La hipertensión leve puede manejarse solo con diuréticos y restricción de sodio; si persiste, agregar <b>amlodipino</b> (0.1-0.2 mg/kg/día) o <b>nifedipino</b>.</li><li>En emergencia hipertensiva, usar <b>hidralazina intravenosa</b> (0.1-0.2 mg/kg/dosis) o <b>labetalol intravenoso</b>.</li><li>No usar corticosteroides ni inmunosupresores; la GNAPE es una enfermedad autolimitada.</li><li>Indicación de diálisis: hiperpotasemia severa, acidosis metabólica refractaria, edema agudo de pulmón o uremia sintomática.</li></ul>"
+      "foco": "Pronóstico excelente; no requiere antibiótico en fase aguda",
+      "title": "Pronóstico y tratamiento",
+      "contentHtml": "<h2>Pronóstico y tratamiento</h2><ul><li>Pronóstico excelente en niños: &gt;95% recuperación completa.</li><li>No requiere antibiótico en fase aguda; el tratamiento antibiótico se indica si hay infección activa.</li><li>Manejo: restricción de sodio y líquidos, diuréticos de asa, control de la <b>HTA</b>.</li><li>La mayoría resuelve en <b>1-2 semanas</b> clínicamente y la hematuria microscópica puede persistir meses.</li><li>Trampa: la profilaxis antibiótica no previene la glomerulonefritis aguda postestreptocócica.</li></ul>"
     }
   ]
 }

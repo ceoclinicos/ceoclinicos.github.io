@@ -1,0 +1,77 @@
+{
+  "id": "síndrome_de_bartter",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Alcalosis metabólica hipokalémica con normotensión",
+      "title": "Bartter: alcalosis hipokalémica normotensiva",
+      "contentHtml": "<h2>Alcalosis metabólica hipokalémica con normotensión</h2><ul><li><b>Patrón ácido-base:</b> alcalosis metabólica con potasio sérico bajo, cloro sérico bajo y presión arterial normal o baja.</li><li><b>Mecanismo:</b> pérdida renal de cloro y sodio &rarr; hipovolemia &rarr; hiperaldosteronismo secundario &rarr; retención de sodio y excreción de potasio e hidrógeno.</li><li><b>Dato preguntable:</b> la presión arterial normal o baja descarta hiperaldosteronismo primario, donde la hipertensión es la regla.</li><li><b>Trampa:</b> el cloro urinario elevado (&gt;20 mEq/L) distingue la pérdida renal de la alcalosis por vómitos, donde el cloro urinario es bajo (&lt;20 mEq/L).</li><li><b>Respuesta tipo examen:</b> alcalosis metabólica hipokalémica con normotensión y cloro urinario alto = sospecha de síndrome de Bartter.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Hiperreninemia e hiperaldosteronismo secundario",
+      "title": "Renina y aldosterona elevadas",
+      "contentHtml": "<h2>Hiperreninemia e hiperaldosteronismo secundario</h2><ul><li><b>Perfil hormonal:</b> renina plasmática elevada y aldosterona elevada; el estímulo es la hipovolemia por pérdida salina renal.</li><li><b>Fisiopatología:</b> la hiperplasia yuxtaglomerular secreta renina &rarr; angiotensina II &rarr; aldosterona &rarr; retención de sodio y pérdida de potasio.</li><li><b>Diagnóstico diferencial:</b> en hiperaldosteronismo primario la renina está suprimida y hay hipertensión; en Bartter la renina es alta y la presión arterial es normal o baja.</li><li><b>Dato preguntable:</b> la aldosterona elevada con renina elevada define hiperaldosteronismo secundario, no primario.</li><li><b>Trampa:</b> la presión arterial normal no excluye aldosterona alta; el eje renina-angiotensina-aldosterona está activado.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Hiperplasia yuxtaglomerular en biopsia renal",
+      "title": "Hiperplasia yuxtaglomerular",
+      "contentHtml": "<h2>Hiperplasia yuxtaglomerular en biopsia renal</h2><ul><li><b>Hallazgo clave:</b> hiperplasia de las células yuxtaglomerulares del aparato yuxtaglomerular, con renina inmunorreactiva aumentada.</li><li><b>Correlación:</b> explica la hiperreninemia y el hiperaldosteronismo secundario; es un hallazgo histológico característico, no patognomónico aislado.</li><li><b>Dato preguntable:</b> la biopsia renal no es necesaria para el diagnóstico clínico; se reserva para casos atípicos o sospecha de otra nefropatía.</li><li><b>Trampa:</b> la hiperplasia yuxtaglomerular también aparece en estenosis de arteria renal e hipertensión renovascular; correlacionar con presión arterial y pruebas genéticas.</li><li><b>Respuesta tipo examen:</b> hiperplasia yuxtaglomerular + renina alta + normotensión = síndrome de Bartter.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Bartter tipo 1: mutación SLC12A1, NKCC2 en asa",
+      "title": "Bartter tipo 1: NKCC2",
+      "contentHtml": "<h2>Bartter tipo 1: mutación SLC12A1, NKCC2 en asa</h2><ul><li><b>Gen y proteína:</b> mutación en SLC12A1 que codifica el cotransportador sodio-potasio-2 cloruro (NKCC2) en la rama ascendente gruesa del asa de Henle.</li><li><b>Fisiopatología:</b> pérdida de la reabsorción de sodio, potasio y cloro &rarr; pérdida salina &rarr; hipovolemia &rarr; hiperreninemia &rarr; alcalosis metabólica hipokalémica.</li><li><b>Clínica:</b> presentación neonatal o infantil con poliuria, deshidratación, hipokalemia y retraso del crecimiento; presión arterial normal o baja.</li><li><b>Dato preguntable:</b> es la forma más grave y de inicio más temprano; la sordera no es característica.</li><li><b>Trampa:</b> el fenotipo imita el uso de furosemida, que bloquea NKCC2.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Bartter tipo 2: ROMK/KCNJ1, pérdida salina",
+      "title": "Bartter tipo 2: ROMK",
+      "contentHtml": "<h2>Bartter tipo 2: ROMK/KCNJ1, pérdida salina</h2><ul><li><b>Gen y proteína:</b> mutación en KCNJ1 que codifica el canal de potasio ROMK en la rama ascendente gruesa del asa de Henle.</li><li><b>Fisiopatología:</b> ROMK recicla potasio necesario para NKCC2; su disfunción reduce la reabsorción de sodio y cloro &rarr; pérdida salina y alcalosis hipokalémica.</li><li><b>Clínica:</b> inicio neonatal con poliuria, deshidratación e hipokalemia; puede haber hiperpotasemia transitoria en el periodo neonatal por disfunción del canal en el túbulo colector.</li><li><b>Dato preguntable:</b> la hiperpotasemia neonatal transitoria es un dato distintivo frente al Bartter tipo 1.</li><li><b>Trampa:</b> no confundir con sordera; el Bartter tipo 2 no cursa con sordera.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Bartter tipo 3: CLCNKB, similar a Gitelman",
+      "title": "Bartter tipo 3: CLCNKB",
+      "contentHtml": "<h2>Bartter tipo 3: CLCNKB, similar a Gitelman</h2><ul><li><b>Gen y proteína:</b> mutación en CLCNKB que codifica el canal de cloruro CLC-Kb en la rama ascendente gruesa del asa de Henle y en el túbulo distal.</li><li><b>Fisiopatología:</b> pérdida renal de cloruro &rarr; hipovolemia &rarr; hiperaldosteronismo secundario &rarr; alcalosis metabólica hipokalémica.</li><li><b>Clínica:</b> fenotipo variable; puede parecerse al síndrome de Gitelman con hipomagnesemia y calciuria baja, o al Bartter clásico.</li><li><b>Dato preguntable:</b> la hipomagnesemia y la hipocalciuria orientan a Bartter tipo 3 o Gitelman, no a Bartter tipo 1 o 2.</li><li><b>Trampa:</b> el Bartter tipo 3 puede diagnosticarse erróneamente como Gitelman; la genética diferencia.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Bartter tipo 4: barttina, sordera e hipocalcemia",
+      "title": "Bartter tipo 4: barttina y sordera",
+      "contentHtml": "<h2>Bartter tipo 4: barttina, sordera e hipocalcemia</h2><ul><li><b>Gen y proteína:</b> mutación en BSND que codifica la barttina, subunidad accesoria de los canales de cloruro CLC-Ka y CLC-Kb.</li><li><b>Clínica:</b> síndrome de Bartter con sordera neurosensorial profunda e hipocalcemia; puede haber nefrocalcinosis.</li><li><b>Fisiopatología:</b> la barttina es necesaria para el canal de cloruro en el oído interno y en el riñón; su disfunción causa pérdida salina y sordera.</li><li><b>Dato preguntable:</b> la tríada Bartter + sordera + hipocalcemia es característica del Bartter tipo 4.</li><li><b>Trampa:</b> la sordera no aparece en los tipos 1, 2, 3 ni 5; su presencia orienta al tipo 4.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Bartter tipo 5: CASR activador, hipocalcemia",
+      "title": "Bartter tipo 5: CASR activador",
+      "contentHtml": "<h2>Bartter tipo 5: CASR activador, hipocalcemia</h2><ul><li><b>Gen y proteína:</b> mutación activadora en CASR que codifica el receptor sensor de calcio en la rama ascendente gruesa del asa de Henle.</li><li><b>Fisiopatología:</b> la activación del receptor sensor de calcio inhibe NKCC2 y la reabsorción de sodio y cloro &rarr; pérdida salina &rarr; alcalosis metabólica hipokalémica.</li><li><b>Clínica:</b> síndrome de Bartter con hipocalcemia e hipercalciuria; puede haber nefrocalcinosis.</li><li><b>Dato preguntable:</b> la hipocalcemia con alcalosis hipokalémica y normotensión sugiere Bartter tipo 5.</li><li><b>Trampa:</b> no confundir con hipoparatiroidismo; aquí la calcemia baja por activación del receptor sensor de calcio, no por déficit de paratohormona.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Pérdida urinaria de sodio, cloro y potasio",
+      "title": "Pérdida urinaria de electrolitos",
+      "contentHtml": "<h2>Pérdida urinaria de sodio, cloro y potasio</h2><ul><li><b>Patrón urinario:</b> sodio urinario elevado, cloro urinario elevado (&gt;20 mEq/L) y potasio urinario elevado con potasio sérico bajo.</li><li><b>Mecanismo:</b> el defecto tubular impide reabsorber sodio y cloro en la rama ascendente gruesa del asa de Henle &rarr; pérdida salina &rarr; hipovolemia &rarr; aldosterona alta &rarr; pérdida de potasio.</li><li><b>Dato preguntable:</b> el cloro urinario alto diferencia la pérdida renal de la pérdida digestiva por vómitos, donde el cloro urinario es bajo.</li><li><b>Trampa:</b> la hipokalemia con potasio urinario alto confirma pérdida renal de potasio, no redistribución intracelular.</li><li><b>Respuesta tipo examen:</b> pérdida urinaria de sodio, cloro y potasio con normotensión = síndrome de Bartter.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Presión arterial normal o baja con hipovolemia",
+      "title": "Normotensión con hipovolemia",
+      "contentHtml": "<h2>Presión arterial normal o baja con hipovolemia</h2><ul><li><b>Signo clave:</b> presión arterial normal o baja pese a hiperaldosteronismo secundario; la hipovolemia por pérdida salina renal contrarresta el efecto presor de la aldosterona.</li><li><b>Fisiopatología:</b> pérdida de sodio y agua &rarr; volumen extracelular bajo &rarr; activación del eje renina-angiotensina-aldosterona &rarr; retención de sodio y pérdida de potasio.</li><li><b>Dato preguntable:</b> la normotensión es el dato que separa el síndrome de Bartter del hiperaldosteronismo primario.</li><li><b>Trampa:</b> la presión arterial puede ser normal en reposo y caer con el ortostatismo; buscar hipovolemia clínica.</li><li><b>Respuesta tipo examen:</b> alcalosis hipokalémica + normotensión + renina alta = Bartter, no hiperaldosteronismo primario.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Prostaglandinas E2 elevadas y renina alta",
+      "title": "Prostaglandinas E2 y renina alta",
+      "contentHtml": "<h2>Prostaglandinas E2 elevadas y renina alta</h2><ul><li><b>Perfil bioquímico:</b> prostaglandinas E2 urinarias elevadas y renina plasmática elevada; ambas reflejan la activación del aparato yuxtaglomerular por hipovolemia.</li><li><b>Fisiopatología:</b> la hipovolemia estimula la síntesis de prostaglandinas E2, que aumentan la secreción de renina y mantienen la perfusión renal.</li><li><b>Uso clínico:</b> los inhibidores de la ciclooxigenasa (indometacina) reducen las prostaglandinas E2 y mejoran la pérdida salina y la hipokalemia.</li><li><b>Dato preguntable:</b> prostaglandinas E2 elevadas con renina alta y normotensión apoyan el diagnóstico de síndrome de Bartter.</li><li><b>Trampa:</b> los antiinflamatorios no esteroideos no corrigen el defecto genético; solo atenúan el fenotipo.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Diagnóstico diferencial con vómitos y diuréticos",
+      "title": "Diferencial: vómitos y diuréticos",
+      "contentHtml": "<h2>Diagnóstico diferencial con vómitos y diuréticos</h2><ul><li><b>Vómitos:</b> alcalosis metabólica hipokalémica con cloro urinario bajo (&lt;20 mEq/L) por depleción de volumen y cloro; en Bartter el cloro urinario es alto (&gt;20 mEq/L).</li><li><b>Diuréticos de asa:</b> imitan el Bartter tipo 1 con pérdida de sodio, cloro y potasio; el antecedente farmacológico y la resolución al suspenderlos orientan el diagnóstico.</li><li><b>Diuréticos tiazídicos:</b> imitan el síndrome de Gitelman con hipomagnesemia e hipocalciuria; el Bartter tipo 3 puede confundirse.</li><li><b>Dato preguntable:</b> la presión arterial normal o baja y el cloro urinario alto diferencian Bartter de vómitos y de hiperaldosteronismo primario.</li><li><b>Trampa:</b> descartar diuréticos ocultos y vómitos antes de atribuir el cuadro a una tubulopatía hereditaria.</li></ul>"
+    }
+  ]
+}

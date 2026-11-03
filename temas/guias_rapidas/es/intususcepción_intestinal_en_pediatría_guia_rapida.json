@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Tríada clásica: dolor, vómito, heces en jalea",
-      "title": "Tríada clásica",
-      "contentHtml": "<h2>Tríada clásica</h2><ul><li><b>Dolor abdominal cólico</b> intermitente (el niño encoge las piernas) es el síntoma más precoz (90% de los casos).</li><li><b>Vómito bilioso</b> aparece en fases avanzadas y sugiere obstrucción intestinal proximal.</li><li><b>Heces en jalea de grosella</b> (sangre + moco) son <b>tardías</b> y traducen isquemia de la mucosa invaginada; no son necesarias para el diagnóstico.</li><li>Solo el 15-20% presentan la tríada completa al ingreso; la ausencia no descarta intususcepción.</li><li>El dolor precede al vómito y a la rectorragia; la tríada completa es <b>altamente específica</b> pero poco sensible.</li></ul>"
+      "foco": "Triada: dolor cólico, masa abdominal y heces en jalea de grosella",
+      "title": "Triada clásica de intususcepción",
+      "contentHtml": "<h2>Triada clásica</h2><ul><li><b>Dolor cólico</b> intermitente: llanto paroxístico con flexión de piernas y periodos asintomáticos.</li><li><b>Masa abdominal</b> palpable: habitualmente en hemiabdomen derecho, forma de salchicha.</li><li><b>Heces en jalea de grosella</b>: sangre y moco, signo tardío presente en &lt;50% al diagnóstico.</li><li>La triada completa está en menos de un tercio de los casos; la ausencia de heces en jalea de grosella no descarta el diagnóstico.</li><li>Diagnóstico diferencial: gastroenteritis, cólico del lactante, invaginación ileocólica, malrotación con vólvulo, púrpura de Schönlein-Henoch.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Ecografía: signo de diana o pseudo-riñón",
-      "title": "Ecografía: signos patognomónicos",
-      "contentHtml": "<h2>Ecografía: signos patognomónicos</h2><ul><li><b>Signo de diana</b> (o <b>doughnut sign</b>) en corte transversal: anillo hipoecoico externo (edema de la pared intestinal) y centro hiperecoico (mucosa y mesenterio atrapados).</li><li><b>Signo del pseudo-riñón</b> en corte longitudinal: imagen de riñón ectópico con el mesenterio como “pelvis” ecogénica y las paredes intestinales como “parénquima” hipoecoico.</li><li>La ecografía abdominal con sonda lineal de alta frecuencia (7.5-12 MHz) tiene <b>sensibilidad &gt;95%</b> y <b>especificidad &gt;98%</b>, por lo que es la prueba de primera línea.</li><li>Hallazgos adicionales: <b>líquido libre</b> entre las asas sugiere isquemia avanzada o perforación; <b>ausencia de vascularización al Doppler</b> color indica necrosis y contraindica reducción por enema.</li></ul>"
+      "foco": "Lactante varón de 6-18 meses es el grupo típico",
+      "title": "Epidemiología y grupo etario típico",
+      "contentHtml": "<h2>Grupo etario típico</h2><ul><li>Pico de incidencia: <b>lactante varón de 6-18 meses</b>; relación varón:mujer aproximadamente 3:1.</li><li>Es la causa más frecuente de obstrucción intestinal en menores de 2 años.</li><li>En mayores de 2 años o menores de 3 meses, sospechar causa secundaria: pólipo, divertículo de Meckel, linfoma, duplicación intestinal, púrpura de Schönlein-Henoch.</li><li>Presentación atípica en neonatos y adolescentes obliga a descartar patología guía.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Edad típica: 3 meses a 3 años",
-      "title": "Edad típica",
-      "contentHtml": "<h2>Edad típica</h2><ul><li>El pico de incidencia ocurre entre los <b>3 meses</b> y los <b>3 años</b>, con máximo entre los 6 y 12 meses.</li><li>En menores de 3 meses, la intususcepción suele ser secundaria a <b>divertículo de Meckel</b> o pólipo; en mayores de 3 años se sospecha <b>pólipo juvenil</b>, <b>linfoma</b> o <b>púrpura de Schönlein-Henoch</b>.</li><li>La relación hombre:mujer es de 3:1.</li><li>Fuera del rango etario típico, la probabilidad de una <b>causa orgánica subyacente</b> (punto de referencia patológico) es mayor y obliga a descartar lesiones con estudios de imagen o cirugía.</li></ul>"
+      "foco": "Íleon terminal prolapsa en ciego: íleo-cólica más frecuente",
+      "title": "Fisiopatología y tipo más frecuente",
+      "contentHtml": "<h2>Fisiopatología</h2><ul><li>Tipo más frecuente: <b>íleo-cólica</b> (íleon terminal prolapsa en ciego), ~80-90% de los casos pediátricos.</li><li>El segmento proximal (invaginado) se introduce en el distal (invaginante) por hiperperistalsis.</li><li>Otros tipos: ileoileal, colocólica, cecocólica; en adultos sospechar lesión guía.</li><li>La obstrucción del drenaje venoso y linfático produce edema y sangrado mucoso; la isquemia arterial es tardía.</li><li>La compresión del mesenterio dentro del invaginado explica el dolor cólico y el componente vascular.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Causa más común: idiopática o hiperplasia linfoide",
-      "title": "Causa más común",
-      "contentHtml": "<h2>Causa más común</h2><ul><li>En el 90% de los niños entre 3 meses y 3 años, la intususcepción es <b>idiopática</b> o se asocia a <b>hiperplasia linfoide</b> (hipertrofia de las placas de Peyer) tras infecciones virales (adenovirus, rotavirus).</li><li>La hiperplasia linfoide actúa como un “pliegue” que es arrastrado por el peristaltismo, generando la invaginación.</li><li>La vacuna contra rotavirus (antigua formulación) se asoció a mayor riesgo; las vacunas actuales no han mostrado aumento significativo.</li><li>En niños mayores de 3 años o con recurrencia, la causa suele ser una <b>lesión orgánica</b> (pólipo, divertículo de Meckel, linfoma, duplicación intestinal).</li></ul>"
+      "foco": "Vómitos y dolor intermitente con periodos asintomáticos",
+      "title": "Clínica: dolor intermitente y vómitos",
+      "contentHtml": "<h2>Presentación clínica</h2><ul><li><b>Dolor intermitente</b> con <b>periodos asintomáticos</b>: episodios de llanto cada 15-20 minutos, el paciente juega o duerme entre crisis.</li><li>Vómitos inicialmente no biliosos; vómito bilioso sugiere obstrucción establecida y mayor gravedad.</li><li>Letargo, palidez y sudoración durante las crisis.</li><li>Evolución: distensión abdominal, ausencia de deposiciones y signos de peritonitis si hay perforación.</li><li>La alternancia dolor-calma es un dato pivote para diferenciar de gastroenteritis (dolor continuo).</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Punto de referencia: válvula ileocecal",
-      "title": "Punto de referencia anatómico",
-      "contentHtml": "<h2>Punto de referencia anatómico</h2><ul><li>La mayoría de las intususcepciones (85%) son <b>ileocólicas</b>, donde el íleon terminal se invagina a través de la <b>válvula ileocecal</b> hacia el colon ascendente.</li><li>La válvula ileocecal actúa como punto de fijación; el mesenterio del íleon es arrastrado, comprimiendo vasos y provocando edema y obstrucción venosa.</li><li>Tipos menos frecuentes: <b>ileoileal</b>, <b>cólico-cólica</b> y <b>yeyuno-yeyunal</b> (estas últimas suelen tener un punto de referencia patológico como pólipo o divertículo de Meckel).</li><li>La localización ileocólica explica el <b>signo de Dance</b> (vacío en fosa ilíaca derecha a la palpación).</li></ul>"
+      "foco": "Ecografía abdominal es el estudio de elección inicial",
+      "title": "Ecografía como primera línea",
+      "contentHtml": "<h2>Estudio inicial</h2><ul><li><b>Ecografía abdominal</b> es el estudio de elección inicial: sensibilidad y especificidad &gt;90% en manos expertas.</li><li>No requiere sedación ni contraste ni radiación; permite evaluar reducción hidrostática guiada.</li><li>La radiografía simple solo aporta si se sospecha perforación (neumoperitoneo) o como paso previo al enema.</li><li>Tomografía computarizada reservada a casos atípicos, recidivantes o sospecha de causa guía en mayores.</li><li>Trampa: ecografía normal no excluye intususcepción si la sospecha clínica es alta; repetir o escalar.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Enema de bario como diagnóstico y tratamiento",
-      "title": "Enema de bario: diagnóstico y terapéutico",
-      "contentHtml": "<h2>Enema de bario: diagnóstico y terapéutico</h2><ul><li>El <b>enema de bario</b> (o enema con aire/contraste hidrosoluble) es tanto diagnóstico como terapéutico: al refluir el contraste se observa la imagen de “<b>pila de monedas</b>” o “<b>muelle en espiral</b>” en el punto de obstrucción.</li><li>La presión hidrostática (bario a 1 metro de altura) o neumática (aire a 80-120 mmHg) reduce la invaginación en el 80-95% de los casos.</li><li>Se considera exitosa cuando el contraste refluye libremente al íleon terminal y desaparece la masa.</li><li>La <b>tasa de éxito</b> es mayor si el procedimiento se realiza dentro de las primeras 24 horas de síntomas.</li><li>Se prefiere el <b>enema con aire</b> (neumática) por menor radiación y menor riesgo de perforación con peritonitis química.</li></ul>"
+      "foco": "Signo del donut o diana en ecografía",
+      "title": "Signos ecográficos",
+      "contentHtml": "<h2>Hallazgos ecográficos</h2><ul><li><b>Signo del donut o diana</b>: corte transversal del invaginado, anillo hipoecoico externo (edema) con centro ecogénico (mucosa y gas).</li><li><b>Signo del pseudoriñón</b>: corte longitudinal, aspecto de riñón con médula ecogénica y corteza hipoecoica.</li><li>Diámetro transversal &gt;14 mm es criterio diagnóstico habitual.</li><li>Signo del menisco o de la media luna en el punto de invaginación.</li><li>Valorar líquido libre, pared engrosada o ausencia de flujo Doppler como signos de isquemia.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Contraindicación de enema: signos de perforación",
-      "title": "Contraindicación del enema",
-      "contentHtml": "<h2>Contraindicación del enema</h2><ul><li>La <b>perforación intestinal</b> es contraindicación absoluta para la reducción por enema (bario, aire o contraste hidrosoluble).</li><li>Signos de perforación: <b>neumoperitoneo</b> en radiografía simple de abdomen (de pie o decúbito lateral), <b>líquido libre abundante</b> con neumoperitoneo en ecografía, o signos clínicos de peritonitis (rigidez abdominal, dolor a la descompresión, fiebre alta, leucocitosis extrema).</li><li>Ante la sospecha de perforación, está indicada la <b>laparotomía exploradora urgente</b> con reducción quirúrgica y resección si hay necrosis.</li><li>La <b>inestabilidad hemodinámica</b> y la <b>isquemia irreversible</b> (ausencia de flujo Doppler) también contraindican el enema y requieren cirugía.</li></ul>"
+      "foco": "Enema con contraste es diagnóstico y terapéutico",
+      "title": "Enema: diagnóstico y tratamiento",
+      "contentHtml": "<h2>Enema con contraste</h2><ul><li><b>Enema con contraste</b> (bario o hidrosoluble) es diagnóstico y terapéutico en intususcepción ileocólica estable.</li><li>Preferir contraste hidrosoluble (yodado) por menor riesgo de peritonitis química si perfora.</li><li>Éxito de reducción &gt;80-90% en ileocólica sin contraindicación; presión &lt;120 cm H2O o controlada por fluoroscopia.</li><li>Alternativa: reducción hidrostática o neumática guiada por ecografía.</li><li>Tras reducción exitosa, observar 6-24 horas; recurrencia hasta 10%.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Reducción quirúrgica si falla el enema",
-      "title": "Reducción quirúrgica",
-      "contentHtml": "<h2>Reducción quirúrgica si falla el enema</h2><ul><li>Si la reducción por enema fracasa (no logra desinvaginar tras 3 intentos) o está contraindicada, se procede a <b>laparotomía</b> o <b>laparoscopia</b>.</li><li>En cirugía, se realiza <b>desinvaginación manual</b> mediante presión suave desde el segmento distal hacia proximal; no se debe traccionar del intestino proximal.</li><li>Si el intestino presenta <b>necrosis</b> (color negruzco, ausencia de peristalsis, falta de sangrado al corte), se efectúa <b>resección del segmento</b> con anastomosis primaria.</li><li>La <b>tasa de recurrencia</b> tras reducción quirúrgica es menor (&lt;2%) que tras reducción por enema (5-10%).</li><li>Durante la cirugía se debe explorar la presencia de un <b>punto de referencia patológico</b> (divertículo de Meckel, pólipo, duplicación).</li></ul>"
+      "foco": "Contraindicada reducción si hay peritonitis o perforación",
+      "title": "Contraindicaciones de reducción",
+      "contentHtml": "<h2>Contraindicaciones</h2><ul><li><b>Peritonitis</b> o <b>perforación</b>: contraindicación absoluta de reducción no quirúrgica; cirugía inmediata.</li><li>Shock, sepsis o inestabilidad hemodinámica.</li><li>Neumoperitoneo en radiografía simple.</li><li>Sospecha de causa guía (pólipo, divertículo de Meckel, linfoma) o intususcepción ileoileal: reducir quirúrgicamente.</li><li>Trampa: la presencia de heces en jalea de grosella no contraindica por sí sola; la peritonitis sí.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Posible causa: pólipo o divertículo de Meckel",
-      "title": "Causas orgánicas: pólipo y divertículo de Meckel",
-      "contentHtml": "<h2>Posible causa: pólipo o divertículo de Meckel</h2><ul><li>El <b>divertículo de Meckel</b> es la causa orgánica más frecuente de intususcepción en niños &gt;3 años (y en menores de 3 meses), especialmente cuando se invagina como cabeza del segmento intususceptum.</li><li>Los <b>pólipos juveniles</b> (hamartomatosos) son otra causa; suelen localizarse en el íleon terminal y actuar como punto de referencia.</li><li>Otras causas: <b>linfoma no Hodgkin</b> (especialmente en niños &gt;6 años), <b>púrpura de Schönlein-Henoch</b> (por hematoma mural), <b>duplicación intestinal</b> y <b>quiste de duplicación</b>.</li><li>La presencia de <b>recurrencia</b> o intususcepción en edad atípica obliga a descartar estas lesiones mediante ecografía, tomografía computarizada o laparoscopia.</li></ul>"
+      "foco": "Asociación con adenovirus y hipertrofia linfoide de Peyer",
+      "title": "Etiología: adenovirus y placas de Peyer",
+      "contentHtml": "<h2>Etiología viral y linfática</h2><ul><li>Asociación con <b>adenovirus</b> y otros virus respiratorios/entéricos estacionales.</li><li><b>Hipertrofia linfoide de Peyer</b> en íleon terminal actúa como cabeza de invaginación.</li><li>Las placas de Peyer hiperplásicas son el punto guía en lactantes sin causa anatómica.</li><li>Otros factores: introducción de alimentación complementaria, cambios dietéticos, fibrosis quística, púrpura de Schönlein-Henoch.</li><li>La vacunación frente a rotavirus se ha asociado a ligero aumento del riesgo en la primera semana; el beneficio supera el riesgo.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Signo de Dance: vacío en fosa ilíaca derecha",
-      "title": "Signo de Dance",
-      "contentHtml": "<h2>Signo de Dance</h2><ul><li>El <b>signo de Dance</b> consiste en la sensación de <b>vacío</b> o depresión a la palpación profunda de la fosa ilíaca derecha.</li><li>Se produce porque el íleon terminal y el ciego se han invaginado hacia el colon ascendente, desplazándose fuera de su posición habitual.</li><li>Es un signo clínico <b>poco sensible</b> (presente en &lt;30% de los casos) pero <b>altamente específico</b> cuando se detecta en un niño con sospecha de intususcepción.</li><li>Se asocia clásicamente a la forma <b>ileocólica</b>; no se observa en intususcepciones ileoileales o cólico-cólicas.</li><li>La palpación de una <b>masa alargada</b> en forma de salchicha en el hipocondrio derecho o epigastrio es otro hallazgo clínico (signo de la masa abdominal).</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Líquido libre en ecografía sugiere isquemia",
-      "title": "Líquido libre en ecografía",
-      "contentHtml": "<h2>Líquido libre en ecografía sugiere isquemia</h2><ul><li>La presencia de <b>líquido libre</b> entre las asas intestinales en la ecografía es un marcador de <b>isquemia intestinal</b> avanzada y posible necrosis.</li><li>El líquido es generalmente <b>anecoico</b> (trasudado) en fases iniciales, pero puede volverse ecogénico si hay contenido hemorrágico por infarto.</li><li>Otros signos ecográficos de isquemia: <b>engrosamiento de la pared</b> (&gt;8 mm), <b>ausencia de vascularización al Doppler color</b>, <b>pliegues engrosados</b> y <b>ecogenicidad aumentada del mesenterio</b>.</li><li>La presencia de líquido libre significativo (especialmente con neumoperitoneo) contraindica la reducción por enema y obliga a cirugía urgente.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Recurrencia: 5-10% tras reducción no quirúrgica",
-      "title": "Recurrencia tras reducción no quirúrgica",
-      "contentHtml": "<h2>Recurrencia: 5-10% tras reducción no quirúrgica</h2><ul><li>La <b>tasa de recurrencia</b> tras reducción exitosa por enema (bario o aire) es del <b>5-10%</b>, generalmente dentro de las primeras 72 horas.</li><li>La recurrencia <b>temprana</b> (&lt;24 horas) suele ser por reducción incompleta o edema residual; la <b>tardía</b> (&gt;1 semana) obliga a descartar una lesión orgánica subyacente.</li><li>Si la recurrencia es única y el niño está estable, se puede repetir el enema; si hay &gt;2 recurrencias o edad atípica, se recomienda <b>laparoscopia exploradora</b>.</li><li>La recurrencia tras reducción quirúrgica es &lt;2%.</li><li>No se recomienda la fijación del ciego (cecopexia) de forma rutinaria para prevenir recurrencias.</li></ul>"
+      "foco": "Recurrencia tras reducción ocurre hasta en 10%",
+      "title": "Recurrencia y seguimiento",
+      "contentHtml": "<h2>Recurrencia</h2><ul><li><b>Recurrencia tras reducción ocurre hasta en 10%</b>; la mayoría en las primeras 24-48 horas.</li><li>La recurrencia es más frecuente tras reducción no quirúrgica que tras cirugía.</li><li>Observación hospitalaria mínima 6-24 horas; educación a padres sobre signos de alarma.</li><li>Recurrencias múltiples obligan a descartar causa anatómica guía (pólipo, divertículo de Meckel, linfoma).</li><li>La mortalidad actual es &lt;1% con diagnóstico y tratamiento oportunos.</li></ul>"
     }
   ]
 }

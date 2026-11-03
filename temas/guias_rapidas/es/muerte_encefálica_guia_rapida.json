@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Definición de muerte encefálica y coma irreversible",
-      "title": "Definición y concepto",
-      "contentHtml": "<h2>Definición de muerte encefálica</h2><ul><li><b>Muerte encefálica</b>: cese irreversible de todas las funciones del encéfalo (cerebro y tronco encefálico), con actividad cardíaca mantenida por soporte ventilatorio y hemodinámico.</li><li>No es lo mismo que coma irreversible: el coma irreversible puede conservar funciones del tronco; la muerte encefálica implica su abolición total.</li><li>Diagnóstico clínico; los estudios confirmatorios solo acortan el periodo de observación o resuelven dudas.</li><li>Trampa de examen: <b>muerte encefálica</b> no requiere ausencia de latido cardíaco; el paro cardíaco es la muerte circulatoria.</li></ul>"
+      "foco": "Definición: cese irreversible de funciones encefálicas",
+      "title": "Definición de muerte encefálica",
+      "contentHtml": "<h2>Definición</h2><ul><li><b>Muerte encefálica</b>: cese irreversible de las funciones del encéfalo (corteza cerebral y tronco encefálico), con actividad cardíaca mantenida por soporte vital.</li><li>No es coma ni estado vegetativo: en el estado vegetativo persisten funciones del tronco (reflejos, respiración espontánea) y ciclos sueño-vigilia.</li><li>El diagnóstico es clínico; las pruebas de confirmación son obligatorias solo en ciertos protocolos o cuando no puede completarse el examen clínico.</li><li>Trampa de examen: no confundir con <b>muerte encefálica</b> la ausencia de conciencia aislada; se exige ausencia de reflejos de tronco y de respiración espontánea.</li><li>Condición legalmente equivalente a la muerte en la mayoría de jurisdicciones; permite retiro de soporte vital.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Triple criterio: coma, apnea y ausencia de reflejos",
-      "title": "Triple criterio clínico",
-      "contentHtml": "<h2>Triple criterio</h2><ul><li><b>Coma</b>: ausencia de conciencia y de respuesta a estímulos, sin sedación.</li><li><b>Apnea</b>: ausencia de esfuerzo respiratorio espontáneo con estímulo hipercápnico (prueba de apnea).</li><li><b>Ausencia de reflejos del tronco encefálico</b>: pupilares, oculocefálicos, oculovestibulares, corneales y tusígeno/faríngeo.</li><li>Los tres deben cumplirse simultáneamente y de forma irreversible.</li><li>Trampa: la presencia de cualquier reflejo de tronco encefálico excluye el diagnóstico.</li></ul>"
+      "foco": "Criterios clínicos: coma arreactivo sin reflejos de tronco",
+      "title": "Criterios clínicos de tronco",
+      "contentHtml": "<h2>Criterios clínicos</h2><ul><li><b>Coma arreactivo</b>: ausencia de respuesta motora a estímulos dolorosos en territorios craneales (presión supraorbitaria, lecho ungueal).</li><li>Ausencia de reflejos de tronco encefálico: pupilar, corneal, oculocefálico, oculovestibular y tusígeno/faríngeo.</li><li>No debe haber respuesta a estímulos auditivos ni verbales; sin movimientos espontáneos ni posturas de descerebración o decorticación.</li><li>Debe descartarse que el coma sea por causa reversible (tóxicos, hipoglucemia, hipotermia) antes de atribuirlo a lesión estructural irreversible.</li><li>Trampa: movimientos reflejos espinales (retirada, triple flexión) pueden persistir y no invalidan el diagnóstico.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Causa estructural conocida e irreversible",
-      "title": "Causa estructural",
-      "contentHtml": "<h2>Causa estructural conocida e irreversible</h2><ul><li>Debe existir una <b>causa estructural conocida e irreversible</b> que explique el coma: traumatismo craneoencefálico grave, hemorragia intracraneal, infarto cerebral maligno, tumor, encefalopatía anóxica tras paro cardíaco.</li><li>La causa debe ser compatible con muerte encefálica y no reversible con tratamiento.</li><li>Si la causa es desconocida o potencialmente reversible, no se puede diagnosticar muerte encefálica.</li><li>Trampa: encefalopatía metabólica o tóxica no cumple criterio de causa estructural irreversible.</li></ul>"
+      "foco": "Ausencia de respiración espontánea: prueba de apnea",
+      "title": "Prueba de apnea",
+      "contentHtml": "<h2>Prueba de apnea</h2><ul><li>Prerrequisitos: normotermia, normoglucemia, normovolemia, presión arterial sistólica &gt;90 mmHg y PaCO2 basal 35-45 mmHg.</li><li>Preoxigenar con FiO2 1.0 durante 10 minutos; desconectar del ventilador y administrar O2 por catéter a 6 L/min.</li><li>Observar movimientos respiratorios durante 8-10 minutos; si no hay respiración espontánea, tomar gasometría arterial.</li><li>Criterio positivo: PaCO2 &gt;60 mmHg (o aumento &gt;20 mmHg sobre basal) sin movimientos respiratorios.</li><li>Trampa: si hay desaturación &lt;85% o inestabilidad hemodinámica, reconectar y repetir; no interpretar como apnea si no se alcanzó el umbral de PaCO2.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Exclusión de hipotermia, tóxicos y sedantes",
-      "title": "Exclusiones obligatorias",
-      "contentHtml": "<h2>Exclusión de confusores</h2><ul><li>Excluir <b>hipotermia</b>: temperatura central &lt; 36 °C puede deprimir reflejos y simular muerte encefálica; recalentar antes de explorar.</li><li>Excluir <b>tóxicos y sedantes</b>: benzodiacepinas, barbitúricos, opioides, alcohol, relajantes musculares; considerar niveles séricos si hay duda.</li><li>Excluir alteraciones metabólicas graves: hipoglucemia, hiperglucemia, hiponatremia, hipercalcemia, uremia, encefalopatía hepática.</li><li>Excluir hipotensión profunda y alteraciones electrolíticas que depriman el sistema nervioso central.</li><li>Trampa: no se diagnostica muerte encefálica hasta corregir estos factores.</li></ul>"
+      "foco": "Prerrequisitos: normotermia, normoglucemia, sin tóxicos",
+      "title": "Prerrequisitos metabólicos",
+      "contentHtml": "<h2>Prerrequisitos</h2><ul><li><b>Normotermia</b>: temperatura central &gt;36 °C; la hipotermia deprime el sistema nervioso central y simula muerte encefálica.</li><li><b>Normoglucemia</b>: glucemia &gt;70 mg/dL; la hipoglucemia grave produce coma arreactivo reversible.</li><li>Sin tóxicos: descartar intoxicación por depresores del sistema nervioso central (alcohol, benzodiacepinas, barbitúricos, opioides).</li><li>Corregir alteraciones electrolíticas graves (sodio, calcio, fósforo) y trastornos ácido-base.</li><li>Trampa: no iniciar protocolo de muerte encefálica sin corregir primero estas variables; el examen clínico no es válido si persisten.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Ausencia de reflejos del tronco encefálico",
-      "title": "Reflejos de tronco ausentes",
-      "contentHtml": "<h2>Ausencia de reflejos del tronco encefálico</h2><ul><li>Explorar de forma bilateral y con estímulo adecuado: <b>reflejo pupilar</b>, <b>reflejo oculocefálico</b>, <b>reflejo oculovestibular</b>, <b>reflejo corneal</b> y <b>reflejo tusígeno</b>.</li><li>La ausencia de todos ellos es requisito para el diagnóstico.</li><li>La exploración debe realizarse sin relajantes musculares ni sedantes.</li><li>Trampa: un solo reflejo conservado impide el diagnóstico de muerte encefálica.</li></ul>"
+      "foco": "Descartar sedación y relajantes musculares previos",
+      "title": "Sedación y relajantes",
+      "contentHtml": "<h2>Sedación y relajantes musculares</h2><ul><li>Revisar fármacos administrados: benzodiacepinas, propofol, opioides y bloqueantes neuromusculares alteran el examen neurológico.</li><li>Esperar el tiempo de eliminación según vida media y función renal/hepática; usar reversores si están disponibles (flumazenil, naloxono).</li><li>Los relajantes musculares pueden abolir respiración espontánea y reflejos; verificar con estimulación nerviosa periférica (tren de cuatro) si hay bloqueo residual.</li><li>Trampa: un examen con relajante muscular residual puede simular ausencia de respiración y reflejos; nunca diagnosticar muerte encefálica en ese contexto.</li><li>Documentar fármacos, dosis y hora de última administración en la historia clínica.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Reflejo pupilar y fotomotor ausentes",
-      "title": "Reflejo pupilar",
-      "contentHtml": "<h2>Reflejo pupilar y fotomotor</h2><ul><li><b>Reflejo pupilar y fotomotor ausentes</b>: pupilas fijas, midriáticas o medias, sin respuesta a la luz intensa bilateral.</li><li>Explorar con linterna potente en cada ojo y observar la respuesta directa y consensual.</li><li>La midriasis fija bilateral es el hallazgo típico, pero pupilas medias fijas también son compatibles.</li><li>Trampa: la respuesta pupilar depende de vías del tronco encefálico; su ausencia es obligatoria.</li></ul>"
+      "foco": "Pruebas de confirmación: EEG plano o Doppler transcraneal",
+      "title": "Pruebas de confirmación",
+      "contentHtml": "<h2>Pruebas de confirmación</h2><ul><li><b>Electroencefalograma plano</b>: ausencia de actividad eléctrica cortical &gt;2 µV durante 30 minutos; sensible a sedación y hipotermia.</li><li><b>Doppler transcraneal</b>: patrón de flujo diastólico invertido o ausencia de flujo en arterias cerebrales medias; confirma cese de perfusión cerebral.</li><li>Otras: angiografía cerebral convencional (ausencia de flujo intracraneal), gammagrafía de perfusión, potenciales evocados somatosensoriales.</li><li>Indicadas cuando el examen clínico no es concluyente o el protocolo institucional las exige (p. ej., en algunos países para &lt;1 año).</li><li>Trampa: un electroencefalograma plano aislado no basta si no se cumplen criterios clínicos y prerrequisitos.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Reflejos oculocefálicos y oculovestibulares ausentes",
-      "title": "Reflejos oculares",
-      "contentHtml": "<h2>Reflejos oculocefálicos y oculovestibulares</h2><ul><li><b>Reflejo oculocefálico</b> (ojos de muñeca): ausencia de movimiento ocular al girar la cabeza de forma rápida y horizontal/vertical.</li><li><b>Reflejo oculovestibular</b>: ausencia de movimiento ocular tras instilar agua fría en el conducto auditivo externo (prueba calórica).</li><li>La prueba calórica con agua fría bilateral debe mostrar ausencia de respuesta.</li><li>Trampa: la respuesta oculocefálica y calórica depende de tronco encefálico; su abolición es criterio.</li></ul>"
+      "foco": "Reflejo pupilar, corneal, oculocefálico y tusígeno ausentes",
+      "title": "Reflejos de tronco ausentes",
+      "contentHtml": "<h2>Reflejos de tronco</h2><ul><li><b>Reflejo pupilar</b>: ausencia de contracción a la luz en ambos ojos con linterna; pupilas midriáticas o medias, fijas.</li><li><b>Reflejo corneal</b>: ausencia de parpadeo al tocar la córnea con hisopo; evalúa pares craneales V y VII.</li><li><b>Reflejo oculocefálico</b>: ojos no se mueven al girar la cabeza lateralmente (ojos de muñeca ausentes).</li><li><b>Reflejo tusígeno</b>: ausencia de tos al aspirar la tráquea; evalúa tronco encefálico inferior.</li><li>Trampa: el reflejo oculovestibular con agua fría también debe estar ausente; no confundir con reflejos espinales.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Reflejo corneal y tusígeno abolidos",
-      "title": "Reflejos corneal y tusígeno",
-      "contentHtml": "<h2>Reflejo corneal y tusígeno</h2><ul><li><b>Reflejo corneal</b>: ausencia de parpadeo al estimular la córnea con algodón o gota de suero.</li><li><b>Reflejo tusígeno</b>: ausencia de tos al estimular la carina o la faringe con catéter de aspiración.</li><li>Ambos reflejos dependen de vías del tronco encefálico y deben estar abolidos.</li><li>Trampa: el reflejo tusígeno se explora con estímulo traqueal; no confundir con reflejo nauseoso.</li></ul>"
+      "foco": "Causa estructural conocida e irreversible en neuroimagen",
+      "title": "Causa estructural en neuroimagen",
+      "contentHtml": "<h2>Causa estructural</h2><ul><li>Debe existir lesión estructural demostrada por tomografía computarizada o resonancia magnética cerebral que explique el coma.</li><li>Hallazgos típicos: hemorragia intracraneal masiva, infarto maligno de arteria cerebral media, herniación transtentorial, trauma craneoencefálico grave.</li><li>La neuroimagen no sustituye el examen clínico; su función es documentar la causa irreversible.</li><li>En ausencia de lesión estructural, deben descartarse causas metabólicas, tóxicas o infecciosas antes de continuar.</li><li>Trampa: una tomografía normal no descarta muerte encefálica si el cuadro clínico y las pruebas de confirmación son compatibles (p. ej., encefalopatía anóxica).</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Prueba de apnea con PaCO2 mayor de 60 mmHg",
-      "title": "Prueba de apnea",
-      "contentHtml": "<h2>Prueba de apnea</h2><ul><li>Preoxigenar con oxígeno al 100 % durante 10-15 minutos; desconectar del ventilador y administrar oxígeno por catéter traqueal.</li><li>Observar ausencia de esfuerzo respiratorio durante 8-10 minutos.</li><li>Criterio positivo: <b>presión arterial de dióxido de carbono mayor de 60 mmHg</b> (o aumento &gt; 20 mmHg sobre el valor basal) sin movimientos respiratorios.</li><li>Si hay inestabilidad hemodinámica o desaturación, suspender y repetir.</li><li>Trampa: la prueba de apnea es imprescindible; no se diagnostica muerte encefálica sin ella.</li></ul>"
+      "foco": "Periodo de observación según protocolo institucional",
+      "title": "Periodo de observación",
+      "contentHtml": "<h2>Periodo de observación</h2><ul><li>El periodo de observación varía según protocolo institucional y edad del paciente; en adultos suele ser de 6 a 24 horas.</li><li>En niños, los protocolos exigen periodos más prolongados y pruebas de confirmación obligatorias.</li><li>Durante la observación deben mantenerse las condiciones de normotermia, normoglucemia y soporte hemodinámico.</li><li>Se recomienda repetir el examen clínico al final del periodo para confirmar ausencia de reflejos y de respiración espontánea.</li><li>Trampa: no acortar el periodo por presión familiar; el diagnóstico debe cumplir el protocolo completo.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Periodo de observación según edad y causa",
-      "title": "Periodo de observación",
-      "contentHtml": "<h2>Periodo de observación</h2><ul><li>En adultos: periodo de observación mínimo de <b>6 horas</b> desde el inicio del coma y la causa conocida; puede acortarse con estudios confirmatorios.</li><li>En niños: periodos más prolongados según edad y causa; en neonatos y lactantes se requieren evaluaciones repetidas.</li><li>La causa anóxica-isquémica puede requerir observación más prolongada.</li><li>Trampa: el periodo de observación no sustituye la prueba de apnea ni la exploración de reflejos.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Estudios confirmatorios: EEG, Doppler, angio",
-      "title": "Estudios confirmatorios",
-      "contentHtml": "<h2>Estudios confirmatorios</h2><ul><li><b>Electroencefalograma</b>: actividad eléctrica cerebral ausente (silencio eléctrico) durante 30 minutos.</li><li><b>Doppler transcraneal</b>: flujo diastólico invertido o ausencia de flujo en arterias intracraneales.</li><li><b>Angiografía cerebral</b>: ausencia de flujo sanguíneo cerebral.</li><li>Otros: gammagrafía de perfusión, potenciales evocados.</li><li>Trampa: los estudios confirmatorios no son obligatorios en todos los casos; pueden acortar el periodo de observación.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Diagnóstico por dos médicos ajenos al trasplante",
-      "title": "Certificación por dos médicos",
-      "contentHtml": "<h2>Diagnóstico por dos médicos</h2><ul><li>El diagnóstico de muerte encefálica debe ser certificado por <b>dos médicos</b> con experiencia en neurología o cuidados intensivos.</li><li>Ninguno de los médicos debe participar en el equipo de trasplante ni tener conflicto de interés con el receptor.</li><li>Ambos deben realizar la exploración clínica completa y la prueba de apnea de forma independiente.</li><li>Trampa: un solo médico no es suficiente para certificar la muerte encefálica.</li></ul>"
+      "foco": "Diagnóstico clínico; no requiere consentimiento familiar",
+      "title": "Diagnóstico y consentimiento",
+      "contentHtml": "<h2>Diagnóstico clínico</h2><ul><li>El diagnóstico de <b>muerte encefálica</b> es clínico y se basa en la ausencia de funciones encefálicas y de respiración espontánea.</li><li>No requiere consentimiento de la familia para su determinación; es un acto médico reglado por protocolo.</li><li>La comunicación a la familia debe ser oportuna y empática, pero no condiciona el diagnóstico.</li><li>El certificado de defunción puede emitirse tras completar el protocolo; en algunos países se exige confirmación por dos médicos.</li><li>Trampa: la objeción familiar no impide el diagnóstico ni el retiro de soporte vital si el protocolo está completo.</li></ul>"
     }
   ]
 }

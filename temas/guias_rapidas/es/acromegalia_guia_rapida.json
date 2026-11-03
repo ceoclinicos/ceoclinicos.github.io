@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Sospecha por acral crecimiento y prognatismo",
-      "title": "Sospecha clínica: acral crecimiento y prognatismo",
-      "contentHtml": "<h2>Sospecha clínica</h2><ul><li><b>Acral crecimiento</b>: aumento de manos, pies, nariz, orejas y prognatismo mandibular por exceso crónico de hormona de crecimiento (GH) e factor de crecimiento insulínico tipo 1 (IGF-1).</li><li>Comparar con fotografías antiguas y anillos/calzado: talla de guantes y zapato aumenta.</li><li>Signos asociados: sudoración excesiva, piel gruesa, surcos nasolabiales profundos, macroglosia, diastema dental.</li><li>Diferencial: gigantismo si epífisis abiertas; acromegalia si cerradas. Descartar pseudohipertrofia por hipotiroidismo o uso de hormona de crecimiento exógena.</li><li>Trampa: el crecimiento acral lento se atribuye a edad o artrosis; preguntar por cambio de talla de calzado en últimos años.</li></ul>"
+      "foco": "Sospecha por somatometría: crecimiento acral y prognatismo",
+      "title": "Sospecha clínica por somatometría",
+      "contentHtml": "<h2>Sospecha clínica por somatometría</h2><ul><li><b>Crecimiento acral</b>: aumento de manos y pies (talla de guantes/calzado), ensanchamiento de dedos, signo del anillo.<br></li><li><b>Prognatismo</b>: mandíbula prominente, maloclusión dental, separación de incisivos, macroglosia.<br></li><li>Rasgos faciales: engrosamiento de surcos nasogenianos, frontal prominente, nariz ancha.<br></li><li>Diferencial: acromegalia vs. gigantismo (antes del cierre epifisario), vs. rasgos familiares, vs. hipotiroidismo (mixedema).<br></li><li>Trampa: la talla final es normal si inicia después del cierre de cartílagos de crecimiento; el crecimiento es acral, no longitudinal.<br></li><li>La somatometría (talla, envergadura, segmento inferior) orienta; no confirma.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "IGF-1 elevada confirma bioquímicamente",
-      "title": "IGF-1 elevada: confirmación bioquímica",
-      "contentHtml": "<h2>Confirmación bioquímica</h2><ul><li><b>IGF-1 elevada</b> es el mejor cribado inicial: refleja secreción integrada de hormona de crecimiento (GH) en 24 horas.</li><li>Interpretar según edad y sexo: valores normales altos en pubertad, embarazo y adolescencia; usar rangos del laboratorio.</li><li>Si IGF-1 está elevada en contexto clínico compatible, confirmar con prueba de supresión con glucosa oral.</li><li>Trampa: IGF-1 normal no excluye acromegalia activa en enfermedad hepática, desnutrición, diabetes mellitus mal controlada o uso de estrógenos.</li><li>No usar GH aleatoria como prueba diagnóstica: es pulsátil y puede ser normal en acromegalia.</li></ul>"
+      "foco": "IGF-1 elevada es el mejor cribado inicial",
+      "title": "IGF-1 como cribado inicial",
+      "contentHtml": "<h2>IGF-1 como cribado inicial</h2><ul><li><b>IGF-1 elevada es el mejor cribado inicial</b>: refleja secreción integrada de hormona de crecimiento (GH) en 24 h.<br></li><li>Interpretar según edad y sexo (valores de referencia ajustados); en embarazo y hepatopatía puede alterarse.<br></li><li>Si IGF-1 normal con alta sospecha: repetir o realizar prueba de supresión.<br></li><li>Trampa: IGF-1 puede ser normal en enfermedad activa leve o en ayuno prolongado; no descarta si clínica fuerte.<br></li><li>No usar GH aleatoria como cribado (secreción pulsátil).<br></li><li>Confirmación bioquímica obligatoria antes de imagen.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Prueba de supresión con glucosa oral",
-      "title": "Prueba de supresión con glucosa oral",
-      "contentHtml": "<h2>Prueba de supresión con glucosa oral</h2><ul><li><b>Prueba de supresión con glucosa oral</b>: estándar de confirmación; administrar <b>75 g de glucosa</b> oral y medir hormona de crecimiento (GH) cada 30 minutos durante 2 horas.</li><li>Criterio de acromegalia: GH no suprime por debajo de <b>1 ng/mL</b> (con ensayos modernos ultrasensibles, algunos usan &lt;0,4 ng/mL).</li><li>En sujetos sanos, la hiperglucemia suprime GH &lt;1 ng/mL.</li><li>Contraindicaciones: diabetes mellitus descompensada, glucemia basal &gt;250 mg/dL; interpretar con cautela en embarazo, insuficiencia renal o hepática.</li><li>Trampa: no suspender tratamiento con análogos de somatostatina antes de la prueba si solo se busca diagnóstico inicial; para evaluación postquirúrgica seguir protocolo.</li></ul>"
+      "foco": "OGTT con GH no suprimible confirma diagnóstico",
+      "title": "Confirmación: OGTT con GH no suprimible",
+      "contentHtml": "<h2>Confirmación: OGTT con GH no suprimible</h2><ul><li><b>OGTT con GH no suprimible confirma diagnóstico</b>: sobrecarga oral de 75 g de glucosa; GH se mide cada 30 min hasta 120 min.<br></li><li>Criterio: nadir de GH &gt;1 ng/mL (o &gt;0.4 ng/mL con ensayos ultrasensibles) = no supresión.<br></li><li>En diabetes mellitus mal controlada puede haber falsos positivos; corregir glucemia antes.<br></li><li>Trampa: la IGF-1 elevada ya puede confirmar en contexto típico; la OGTT es la prueba de confirmación estándar.<br></li><li>No confundir con OGTT para diabetes.<br></li><li>Repetir si resultado dudoso.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Adenoma hipofisario productor de GH",
-      "title": "Adenoma hipofisario productor de GH",
-      "contentHtml": "<h2>Etiología</h2><ul><li><b>Adenoma hipofisario productor de GH</b>: causa de &gt;95% de acromegalia; generalmente macroadenoma al diagnóstico.</li><li>Inmunohistoquímica: adenoma somatotropo densamente o escasamente granuloso; puede coexpresar prolactina (adenoma mixto GH/prolactina).</li><li>Mutaciones somáticas: <b>GNAS</b> (proteína G alfa) en adenomas esporádicos; <b>AIP</b> en formas familiares jóvenes.</li><li>Diagnóstico diferencial: adenoma lactotropo con hiperprolactinemia por compresión del tallo (efecto de tallo), hiperplasia somatotropa por tumor carcinoide productor de hormona liberadora de GH (GHRH).</li><li>Trampa: la prolactina elevada no siempre indica prolactinoma; en macroadenoma productor de GH puede ser efecto de tallo.</li></ul>"
+      "foco": "RM hipofisaria: adenoma como causa más frecuente",
+      "title": "RM hipofisaria: adenoma",
+      "contentHtml": "<h2>RM hipofisaria: adenoma</h2><ul><li><b>RM hipofisaria: adenoma como causa más frecuente</b>: adenoma hipofisario productor de GH en &gt;95% de casos.<br></li><li>Secuencias: T1 sin/con contraste, cortes finos selar; microadenoma puede realzar menos que parénquima.<br></li><li>Buscar extensión supraselar, infraselar y a senos cavernosos.<br></li><li>Diferencial: hiperplasia hipofisaria, adenoma ectópico, tumores neuroendocrinos productores de GHRH (raro).<br></li><li>Trampa: adenoma negativo en RM no excluye; repetir o usar muestreo venoso si sospecha.<br></li><li>Evaluar otras hormonas (prolactina, TSH, cortisol, gonadotropinas).</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Macroadenoma con defecto de campos visuales",
-      "title": "Macroadenoma y defecto de campos visuales",
-      "contentHtml": "<h2>Efecto de masa</h2><ul><li><b>Macroadenoma con defecto de campos visuales</b>: tumor &gt;1 cm que comprime quiasma óptico y produce <b>hemianopsia bitemporal</b>.</li><li>Explorar campos visuales por confrontación y campimetría automatizada; la pérdida de visión periférica puede ser inicialmente asintomática.</li><li>Resonancia magnética con gadolinio: lesión selar con extensión supraselar; evaluar invasión de seno cavernoso y desplazamiento del tallo.</li><li>Otros déficits: oftalmoplejía por afectación de pares craneales III, IV o VI; cefalea; hidrocefalia por obstrucción del tercer ventrículo.</li><li>Trampa: no atribuir hemianopsia bitemporal a glaucoma o catarata; la campimetría es obligatoria en todo macroadenoma.</li></ul>"
+      "foco": "Macroadenoma con invasión de seno cavernoso",
+      "title": "Macroadenoma e invasión cavernosa",
+      "contentHtml": "<h2>Macroadenoma e invasión cavernosa</h2><ul><li><b>Macroadenoma con invasión de seno cavernoso</b>: tumor &gt;10 mm; invasión dificulta resección completa.<br></li><li>Clínica: oftalmoplejía (III, IV, VI), ptosis, midriasis, dolor facial (V1-V2), pérdida visual por compresión quiasmática.<br></li><li>Clasificación de Knosp para invasión del seno cavernoso en RM.<br></li><li>Riesgo quirúrgico mayor; considerar análogos de somatostatina preoperatorios para reducir volumen.<br></li><li>Trampa: la hiperprolactinemia por efecto tallo puede confundir; prolactina &lt;200 ng/mL sugiere tallo, &gt;200 adenoma.<br></li><li>Evaluación neurooftalmológica obligatoria.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Hipersecreción de GH paradójica tras TRH",
-      "title": "Respuesta paradójica de GH tras TRH",
-      "contentHtml": "<h2>Pruebas dinámicas históricas</h2><ul><li><b>Hipersecreción de GH paradójica tras TRH</b>: en acromegalia, la administración de hormona liberadora de tirotropina (TRH) puede elevar hormona de crecimiento (GH) en lugar de no modificarla.</li><li>También respuesta paradójica a hormona liberadora de gonadotropina (GnRH), dopamina o agonistas dopaminérgicos.</li><li>Fisiopatología: expresión aberrante de receptores hipotalámicos en células somatotropas tumorales.</li><li>Actualmente no se usan para diagnóstico; interés histórico y fisiopatológico. La confirmación es IGF-1 y prueba de supresión con glucosa oral.</li><li>Trampa: no solicitar TRH para diagnosticar acromegalia; la prueba de supresión con glucosa oral es el estándar.</li></ul>"
+      "foco": "Cefalea, sudoración y artralgias frecuentes",
+      "title": "Síntomas frecuentes: cefalea, sudoración, artralgias",
+      "contentHtml": "<h2>Síntomas frecuentes: cefalea, sudoración, artralgias</h2><ul><li><b>Cefalea</b>: por expansión tumoral o hipertensión intracraneal; frecuente en macroadenoma.<br></li><li><b>Sudoración</b>: hiperhidrosis, piel gruesa y grasa; por exceso de GH/IGF-1.<br></li><li><b>Artralgias</b>: artropatía acromegálica (cartílago engrosado), túnel carpiano, osteoporosis.<br></li><li>Otros: fatiga, intolerancia a la glucosa, hipertensión arterial, visceromegalia.<br></li><li>Trampa: síntomas insidiosos durante años; diagnóstico tardío promedio &gt;5 años.<br></li><li>El dolor articular no siempre revierte tras curación bioquímica.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Diabetes mellitus y cardiomiopatía asociadas",
-      "title": "Diabetes mellitus y cardiomiopatía",
-      "contentHtml": "<h2>Comorbilidades metabólicas y cardíacas</h2><ul><li><b>Diabetes mellitus</b>: presente en 20-50% por resistencia a la insulina inducida por exceso de hormona de crecimiento (GH); puede requerir insulina.</li><li><b>Cardiomiopatía</b> acromegálica: hipertrofia biventricular, disfunción diastólica y luego sistólica; causa de mortalidad principal si no se controla.</li><li>Hipertensión arterial frecuente; dislipidemia; mayor riesgo de eventos cardiovasculares.</li><li>Evaluación: ecocardiograma al diagnóstico y periódico; electrocardiograma; perfil metabólico.</li><li>Trampa: la diabetes mellitus puede preceder al diagnóstico de acromegalia; sospechar en diabetes de difícil control con rasgos acrales.</li></ul>"
+      "foco": "Complicaciones: cardiomiopatía, HTA y diabetes",
+      "title": "Complicaciones cardiometabólicas",
+      "contentHtml": "<h2>Complicaciones cardiometabólicas</h2><ul><li><b>Cardiomiopatía</b>: hipertrofia ventricular izquierda, disfunción diastólica, arritmias; principal causa de mortalidad.<br></li><li><b>HTA</b>: hipertensión arterial por retención de sodio y expansión de volumen.<br></li><li><b>DM</b>: diabetes mellitus por resistencia a la insulina; intolerancia a glucosa en &gt;50%.<br></li><li>Otras: dislipidemia, síndrome metabólico, bocio, pólipos colónicos.<br></li><li>Trampa: la cardiomiopatía puede persistir tras normalizar GH; requiere seguimiento ecocardiográfico.<br></li><li>Control de factores de riesgo cardiovascular desde el diagnóstico.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Síndrome del túnel carpiano frecuente",
-      "title": "Síndrome del túnel carpiano",
-      "contentHtml": "<h2>Neuropatía por compresión</h2><ul><li><b>Síndrome del túnel carpiano</b>: muy frecuente en acromegalia por engrosamiento de tejidos blandos y depósito de mucopolisacáridos en el túnel del carpo.</li><li>Clínica: parestesias nocturnas en territorio del nervio mediano, debilidad de abductor corto del pulgar, signo de Tinel y Phalen positivos.</li><li>Puede ser bilateral y refractario a tratamiento habitual; mejorar el control de hormona de crecimiento (GH) e IGF-1 reduce síntomas.</li><li>Electromiografía: confirmar atrapamiento; diferencial con polineuropatía diabética si diabetes mellitus asociada.</li><li>Trampa: el síndrome del túnel carpiano bilateral en adulto joven obliga a descartar acromegalia.</li></ul>"
+      "foco": "Apnea del sueño y síndrome del túnel carpiano",
+      "title": "Apnea del sueño y túnel carpiano",
+      "contentHtml": "<h2>Apnea del sueño y túnel carpiano</h2><ul><li><b>Apnea del sueño</b>: obstructiva por macroglosia, engrosamiento de tejidos blandos y alteración del control respiratorio; preguntar ronquido y somnolencia.<br></li><li><b>Síndrome del túnel carpiano</b>: compresión del nervio mediano por engrosamiento de tejidos; frecuente y a menudo bilateral.<br></li><li>Otros: síndrome del túnel tarsiano, polineuropatía periférica.<br></li><li>La apnea del sueño contribuye a hipertensión arterial y arritmias.<br></li><li>Trampa: el túnel carpiano puede ser la primera manifestación; sospechar acromegalia en casos bilaterales o recidivantes.<br></li><li>Polisomnografía si síntomas.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Apnea del sueño en acromegalia",
-      "title": "Apnea del sueño",
-      "contentHtml": "<h2>Trastorno respiratorio del sueño</h2><ul><li><b>Apnea del sueño</b>: prevalencia alta en acromegalia por macroglosia, engrosamiento de tejidos faríngeos, colapso de vía aérea superior y alteración del control central.</li><li>Predominio obstructivo; puede ser central. Síntomas: ronquido, somnolencia diurna, cefalea matutina.</li><li>Estudio de sueño (polisomnografía) indicado si sospecha clínica; el control bioquímico de la enfermedad no siempre resuelve la apnea.</li><li>Riesgo anestésico: vía aérea difícil por macroglosia y alteraciones anatómicas; evaluar antes de cirugía.</li><li>Trampa: no atribuir somnolencia solo a la enfermedad; tratar apnea con presión positiva continua en la vía aérea (CPAP) si procede.</li></ul>"
+      "foco": "Análogos de somatostatina de primera línea si no operable",
+      "title": "Análogos de somatostatina",
+      "contentHtml": "<h2>Análogos de somatostatina</h2><ul><li><b>Análogos de somatostatina de primera línea si no operable</b>: octreotida LAR (dosis 20-30 mg intramuscular cada 4 semanas) o lanreotida autogel (60-120 mg subcutáneo cada 4 semanas).<br></li><li>Indicación: cirugía contraindicada, rechazo, tumor no resecable o persistencia tras cirugía.<br></li><li>Efectos adversos: colelitiasis, diarrea, hiperglucemia, bradicardia.<br></li><li>Pueden reducir volumen tumoral y mejorar cefalea.<br></li><li>Trampa: no curan; requieren control de IGF-1 y de imagen.<br></li><li>En macroadenoma con invasión cavernosa pueden usarse preoperatoriamente.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Cirugía transesfenoidal como primera línea",
-      "title": "Cirugía transesfenoidal: primera línea",
-      "contentHtml": "<h2>Tratamiento de primera línea</h2><ul><li><b>Cirugía transesfenoidal</b>: tratamiento de elección en adenomas resecables, especialmente microadenomas; ofrece mayor probabilidad de curación.</li><li>Objetivo bioquímico: normalizar IGF-1 y lograr supresión de hormona de crecimiento (GH) &lt;1 ng/mL tras glucosa oral (o &lt;0,4 ng/mL según ensayo).</li><li>Complicaciones: fístula de líquido cefalorraquídeo, diabetes insípida, hipopituitarismo, lesión de seno cavernoso o carótida.</li><li>Reevaluar a los 3-6 meses poscirugía; si enfermedad residual, considerar segunda cirugía o tratamiento médico.</li><li>Trampa: en macroadenoma con invasión de seno cavernoso la resección completa es difícil; la cirugía sigue siendo primera línea si hay compresión quiasmática.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Análogos de somatostatina si no resecable",
-      "title": "Análogos de somatostatina",
-      "contentHtml": "<h2>Tratamiento médico</h2><ul><li><b>Análogos de somatostatina</b>: primera opción médica si el adenoma no es resecable, hay enfermedad residual o contraindicación quirúrgica.</li><li>Fármacos: octreotida de liberación prolongada (20-30 mg intramuscular cada 4 semanas) y lanreotida (60-120 mg subcutánea cada 4 semanas); pasireotida para casos seleccionados.</li><li>Efectos adversos: colelitiasis, diarrea, dolor abdominal, hiperglucemia; vigilar ecografía abdominal y glucemia.</li><li>Reducen hormona de crecimiento (GH) e IGF-1 y pueden reducir tamaño tumoral; no curan.</li><li>Trampa: no sustituyen la cirugía en tumores resecables con compresión; su indicación principal es no resecable o residual.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Pegvisomant bloquea receptor de GH",
-      "title": "Pegvisomant: antagonista del receptor de GH",
-      "contentHtml": "<h2>Bloqueo periférico</h2><ul><li><b>Pegvisomant</b>: antagonista del receptor de hormona de crecimiento (GH); bloquea la señalización periférica y normaliza IGF-1 sin reducir la secreción de GH.</li><li>Indicación: acromegalia con respuesta insuficiente a cirugía y análogos de somatostatina.</li><li>Dosis: inicio <b>10-15 mg subcutáneos diarios</b>; ajustar según IGF-1 cada 4-6 semanas; dosis máxima 30 mg/día.</li><li>Efectos adversos: elevación de enzimas hepáticas (monitorizar transaminasas), lipohipertrofia en sitio de inyección, cefalea.</li><li>Trampa: como no reduce la hormona de crecimiento (GH), no usar GH para monitorizar respuesta; usar IGF-1. No usar en embarazo.</li></ul>"
+      "foco": "Pegvisomant si persistencia tras cirugía transesfenoidal",
+      "title": "Pegvisomant tras cirugía",
+      "contentHtml": "<h2>Pegvisomant tras cirugía</h2><ul><li><b>Pegvisomant si persistencia tras cirugía transesfenoidal</b>: antagonista del receptor de GH; dosis inicial 10-15 mg subcutáneo diario, ajustar hasta 30 mg.<br></li><li>Normaliza IGF-1 en &gt;90%; no reduce tamaño tumoral.<br></li><li>Efectos adversos: elevación de transaminasas (monitorizar), lipohipertrofia en sitio de inyección.<br></li><li>No usar en embarazo; no requiere control de GH (interfiere en ensayo).<br></li><li>Trampa: si tumor residual con riesgo de crecimiento, preferir análogos de somatostatina o radioterapia.<br></li><li>Alternativas: cabergolina (adenomas mixtos), radioterapia estereotáctica.</li></ul>"
     }
   ]
 }

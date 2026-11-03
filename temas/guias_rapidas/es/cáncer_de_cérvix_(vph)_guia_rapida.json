@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Genotipos VPH de alto riesgo",
-      "title": "Genotipos de alto riesgo",
-      "contentHtml": "<h2>Genotipos de virus del papiloma humano de alto riesgo</h2><ul><li><b>Virus del papiloma humano 16 y 18</b> causan aproximadamente el 70% de los cánceres de cérvix; el <b>virus del papiloma humano 16</b> es el más oncogénico, asociado a carcinomas escamosos y adenocarcinomas.</li><li>Otros genotipos de alto riesgo incluyen <b>virus del papiloma humano 31, 33, 45, 52 y 58</b>, siendo <b>virus del papiloma humano 45</b> relevante en adenocarcinomas.</li><li>La persistencia de la infección por un genotipo de alto riesgo es necesaria para el desarrollo de lesiones intraepiteliales escamosas y cáncer invasor; la integración del genoma viral en el ADN del huésped inactiva <b>E2</b> y sobreexpresa <b>E6 y E7</b>, que degradan p53 y pRb respectivamente.</li></ul>"
+      "foco": "VPH 16 y 18 principales oncogénicos",
+      "title": "VPH 16 y 18: alto riesgo oncogénico",
+      "contentHtml": "<h2>VPH 16 y 18: alto riesgo oncogénico</h2><ul><li>El <b>virus del papiloma humano</b> (VPH) es un papilomavirus no envuelto, ADN bicatenario circular; más de 200 genotipos.</li><li>Los genotipos <b>VPH 16</b> y <b>VPH 18</b> son los principales oncogénicos: causan aproximadamente el <b>70%</b> de los cánceres de cérvix.</li><li><b>VPH 16</b> predomina en carcinoma escamoso; <b>VPH 18</b> se asocia más a adenocarcinoma y carcinoma escamoso.</li><li>Otros de alto riesgo: 31, 33, 35, 45, 52, 58; los de bajo riesgo (6, 11) no se asocian a cáncer.</li><li>Trampa: la presencia de VPH de alto riesgo no equivale a cáncer; la mayoría de infecciones son transitorias y se aclaran en 1-2 años.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Vacuna VPH y serotipos cubiertos",
-      "title": "Vacunas contra VPH",
-      "contentHtml": "<h2>Vacuna contra virus del papiloma humano y serotipos cubiertos</h2><ul><li>Vacuna bivalente (Cervarix): cubre <b>virus del papiloma humano 16 y 18</b>; indicada a partir de los 9 años, esquema de 2 dosis (0 y 6 meses) si &lt;15 años, 3 dosis si ≥15 años.</li><li>Vacuna tetravalente (Gardasil): cubre <b>virus del papiloma humano 6, 11, 16 y 18</b>; previene verrugas genitales y cáncer.</li><li>Vacuna nonavalente (Gardasil 9): cubre <b>virus del papiloma humano 6, 11, 16, 18, 31, 33, 45, 52 y 58</b>; mayor cobertura contra genotipos de alto riesgo.</li><li>Vacunación recomendada idealmente antes del inicio de vida sexual; en mujeres hasta los 45 años en algunos contextos, aunque el beneficio es mayor en nulíparas no expuestas.</li></ul>"
+      "foco": "E6 y E7 inactivan p53 y Rb",
+      "title": "Oncoproteínas E6 y E7",
+      "contentHtml": "<h2>Oncoproteínas E6 y E7</h2><ul><li>En la infección por <b>virus del papiloma humano</b> de alto riesgo, las oncoproteínas virales <b>E6</b> y <b>E7</b> desregulan el ciclo celular.</li><li><b>E6</b> se une a la proteína <b>p53</b> y promueve su degradación proteasómica, bloqueando apoptosis y reparación del ADN.</li><li><b>E7</b> inactiva la proteína <b>Rb</b> (retinoblastoma), liberando el factor de transcripción E2F y forzando la entrada en fase S.</li><li>Resultado: inmortalización celular, inestabilidad genómica y acumulación de mutaciones; la sobreexpresión de <b>p16</b> es un marcador indirecto de <b>E7</b> activo.</li><li>Trampa: en lesiones de bajo grado la expresión de <b>E6</b>/<b>E7</b> suele ser baja; la integración del genoma viral aumenta su expresión.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Citología cervical (Papanicolaou)",
-      "title": "Citología cervical",
-      "contentHtml": "<h2>Citología cervical (Papanicolaou)</h2><ul><li>Tamizaje con citología cervical (Papanicolaou) se inicia a los 25 años, se repite cada 3 años si resultado normal; la sensibilidad es del 50-70% para lesiones intraepiteliales escamosas de alto grado.</li><li>Informe según sistema Bethesda 2014: <b>células escamosas atípicas de significado indeterminado</b> (ASC-US), <b>lesión intraepitelial escamosa de bajo grado</b> (LSIL), <b>lesión intraepitelial escamosa de alto grado</b> (HSIL), <b>células escamosas atípicas que no excluyen lesión de alto grado</b> (ASC-H).</li><li>Manejo de ASC-US: si test de virus del papiloma humano de alto riesgo es positivo, se deriva a colposcopia; si negativo, repetir citología a los 3 años.</li><li>En mujeres &gt;30 años se prefiere co-test (citología + test de virus del papiloma humano) cada 5 años.</li></ul>"
+      "foco": "Vacuna VPH antes de inicio sexual",
+      "title": "Vacunación contra VPH",
+      "contentHtml": "<h2>Vacunación contra VPH</h2><ul><li>La vacuna contra el <b>virus del papiloma humano</b> es profiláctica (partículas similares a virus, no infectiva) y máxima eficacia si se administra <b>antes del inicio sexual</b>.</li><li>Esquema según edad: en &lt;15 años, <b>2 dosis</b> (0 y 6-12 meses); en ≥15 años o inmunodeprimidos, <b>3 dosis</b> (0, 1-2 y 6 meses).</li><li>Vacunas: bivalente (16/18), tetravalente (6/11/16/18) y nonavalente (6/11/16/18/31/33/45/52/58).</li><li>No elimina infecciones existentes ni sustituye el cribado; se recomienda igualmente en mujeres con lesiones previas tratadas.</li><li>Trampa: la vacunación no contraindica el cribado posterior; la edad de inicio varía (9-14 años según país).</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Colposcopia y biopsia dirigida",
-      "title": "Colposcopia y biopsia",
-      "contentHtml": "<h2>Colposcopia y biopsia dirigida</h2><ul><li>Colposcopia es el estudio de elección tras una citología anormal o test de virus del papiloma humano positivo; permite visualizar la zona de transformación con ácido acético al 3-5% y lugol.</li><li>Hallazgos colposcópicos: <b>epitelio acetoblanco</b>, <b>punteado</b>, <b>mosaico</b> y <b>vasos atípicos</b> sugieren lesión intraepitelial escamosa de alto grado o cáncer invasor.</li><li>Se realiza biopsia dirigida de las áreas más sospechosas; si la unión escamocolumnar no es visible completamente, se indica <b>legrado endocervical</b> para descartar enfermedad endocervical.</li><li>La colposcopia tiene sensibilidad del 85-90% para detectar lesiones de alto grado cuando la zona de transformación es visible.</li></ul>"
+      "foco": "Tipos 6 y 11 causan verrugas genitales",
+      "title": "VPH 6 y 11: bajo riesgo",
+      "contentHtml": "<h2>VPH 6 y 11: bajo riesgo</h2><ul><li>Los genotipos <b>VPH 6</b> y <b>VPH 11</b> son de bajo riesgo y causan el <b>90%</b> de las verrugas genitales (condilomas acuminados).</li><li>También se asocian a papilomatosis respiratoria recurrente y lesiones intraepiteliales de bajo grado; no se relacionan con carcinoma invasor.</li><li>Diagnóstico clínico; el condiloma acuminado se presenta como lesión exofítica verrugosa, blanda, en vulva, vagina, cérvix o ano.</li><li>Tratamiento: podofilotoxina, imiquimod, ácido tricloroacético, crioterapia o escisión; no requiere tratamiento del cérvix si citología normal.</li><li>Trampa: la presencia de verrugas no obliga a conización ni a tratamiento sistémico.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Clasificación FIGO del cáncer cérvix",
-      "title": "Clasificación FIGO",
-      "contentHtml": "<h2>Clasificación FIGO del cáncer de cérvix</h2><ul><li>Estadio I: limitado al cérvix; <b>IA1</b> invasión estromal &lt;3 mm de profundidad y &lt;7 mm de extensión horizontal; <b>IA2</b> invasión 3-5 mm (extensión &lt;7 mm).</li><li>Estadio IB: lesión clínicamente visible o invasión &gt;5 mm; <b>IB1</b> ≤4 cm; <b>IB2</b> &gt;4 cm.</li><li>Estadio II: extensión más allá del cérvix pero sin llegar a pared pélvica; <b>IIA</b> sin parametrio (IIA1 ≤4 cm, IIA2 &gt;4 cm); <b>IIB</b> con invasión parametrial.</li><li>Estadio III: extensión a pared pélvica o tercio inferior de vagina o hidronefrosis; <b>IIIA</b> tercio inferior de vagina; <b>IIIB</b> pared pélvica/hidronefrosis; <b>IIIC</b> compromiso ganglionar (IIIC1 pélvico, IIIC2 paraaórtico).</li><li>Estadio IV: <b>IVA</b> invasión a vejiga o recto; <b>IVB</b> metástasis a distancia.</li></ul>"
+      "foco": "Zona de transformación del cérvix",
+      "title": "Zona de transformación cervical",
+      "contentHtml": "<h2>Zona de transformación cervical</h2><ul><li>La <b>zona de transformación</b> es el área del cérvix donde el epitelio cilíndrico endocervical es sustituido por epitelio escamoso metaplásico.</li><li>Se localiza entre el epitelio escamoso original y el cilíndrico; su extensión varía con la edad y el estado hormonal.</li><li>Es el sitio donde se originan casi todas las lesiones por <b>virus del papiloma humano</b> y el carcinoma cervical.</li><li>La unión escamocolumnar es el límite entre ambos epitelios; en la menopausia se retrae hacia el canal endocervical.</li><li>Trampa: la toma de citología debe incluir la <b>zona de transformación</b>; si no se visualiza, puede requerir citología endocervical o colposcopia.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Síntomas: sangrado poscoital y metrorragia",
-      "title": "Síntomas principales",
-      "contentHtml": "<h2>Síntomas: sangrado poscoital y metrorragia</h2><ul><li><b>Sangrado poscoital</b> es el síntoma más frecuente en cáncer de cérvix temprano; ocurre por friabilidad del tumor al contacto.</li><li><b>Metrorragia</b> (sangrado intermenstrual) y <b>menorragia</b> (sangrado menstrual abundante) son signos de enfermedad avanzada o lesión endocervical.</li><li>Otros síntomas tardíos: <b>leucorrea</b> acuosa o fétida, dolor pélvico, disuria, tenesmo rectal y edema de miembros inferiores por obstrucción linfática.</li><li>El diagnóstico diferencial incluye pólipos cervicales, cervicitis infecciosa (Chlamydia, Trichomonas), miomas submucosos y endometritis; ante sangrado poscoital siempre se debe realizar citología cervical y colposcopia.</li></ul>"
+      "foco": "Cribado con citología y VPH",
+      "title": "Cribado: citología y VPH",
+      "contentHtml": "<h2>Cribado: citología y VPH</h2><ul><li>El cribado del cáncer de cérvix se realiza con <b>citología</b> (Papanicolaou) y/o prueba de <b>virus del papiloma humano</b> de alto riesgo.</li><li>Inicio: a los <b>21-25 años</b> según guía; citología cada 3 años o prueba de VPH cada 5 años en mayores de 30 años.</li><li>La prueba de VPH tiene mayor sensibilidad; la citología mayor especificidad; el test de co-testing combina ambas.</li><li>En &lt;30 años no se recomienda prueba de VPH aislada por alta prevalencia de infección transitoria.</li><li>Trampa: un resultado de VPH positivo con citología negativa no es cáncer; se recomienda repetir o genotipificar.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Lesión intraepitelial escamosa (SIL)",
-      "title": "Lesión intraepitelial escamosa",
-      "contentHtml": "<h2>Lesión intraepitelial escamosa</h2><ul><li><b>Lesión intraepitelial escamosa de bajo grado</b> (LSIL) corresponde a cambios por virus del papiloma humano (coilocitos) y displasia leve (NIC 1); alto riesgo de regresión espontánea (&gt;60% en 1 año).</li><li><b>Lesión intraepitelial escamosa de alto grado</b> (HSIL) incluye NIC 2 y NIC 3; riesgo de progresión a cáncer invasor del 30% en 10-20 años si no se trata.</li><li>Manejo: LSIL en mujeres &lt;25 años se observa; HSIL requiere <b>conización</b> (LEEP o asa diatérmica) para diagnóstico y tratamiento.</li><li>En el informe histopatológico se debe especificar si la lesión compromete márgenes quirúrgicos; márgenes positivos aumentan el riesgo de persistencia/recurrencia.</li></ul>"
+      "foco": "NIC I regresión espontánea frecuente",
+      "title": "NIC I: regresión espontánea",
+      "contentHtml": "<h2>NIC I: regresión espontánea</h2><ul><li>La <b>neoplasia intraepitelial cervical grado I</b> (NIC I) corresponde a lesión escamosa intraepitelial de bajo grado; afecta el tercio inferior del epitelio.</li><li>La regresión espontánea es frecuente: ocurre en aproximadamente el <b>60%</b> de los casos en 1-2 años; progresión a carcinoma &lt;1%.</li><li>Manejo: observación con citología y/o prueba de <b>virus del papiloma humano</b> a los 12 meses; no se recomienda tratamiento escisional de entrada.</li><li>En pacientes con NIC I persistente o VPH de alto riesgo positivo, valorar colposcopia.</li><li>Trampa: no realizar conización en NIC I; el sobretratamiento aumenta morbilidad obstétrica.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Tratamiento según estadio (conización, histerectomía)",
-      "title": "Tratamiento por estadio",
-      "contentHtml": "<h2>Tratamiento según estadio</h2><ul><li>Estadio IA1: <b>conización</b> con márgenes libres (LEEP o conización con bisturí frío) si deseo de fertilidad; si no, <b>histerectomía</b> simple.</li><li>Estadio IA2: <b>histerectomía radical</b> (tipo II) con linfadenectomía pélvica; en pacientes con deseo fértil se puede realizar <b>traquelectomía radical</b> más linfadenectomía pélvica.</li><li>Estadio IB1 y IIA1: <b>histerectomía radical</b> (tipo III) con linfadenectomía pélvica; alternativa: radioterapia con quimioterapia concurrente (cisplatino semanal 40 mg/m²).</li><li>Estadios IB2, IIA2, IIB-IVA: tratamiento estándar es <b>radioterapia pélvica</b> más <b>quimioterapia concurrente con cisplatino</b> (40 mg/m² semanal durante 5-6 semanas) y braquiterapia.</li><li>Estadio IVB: quimioterapia paliativa (cisplatino/paclitaxel/bevacizumab).</li></ul>"
+      "foco": "Conización en NIC II-III",
+      "title": "Conización en NIC II-III",
+      "contentHtml": "<h2>Conización en NIC II-III</h2><ul><li>La <b>neoplasia intraepitelial cervical grado II</b> (NIC II) y <b>neoplasia intraepitelial cervical grado III</b> (NIC III) son lesiones de alto grado que requieren tratamiento escisional.</li><li>La <b>conización</b> (bisturí frío, asa diatérmica o láser) es el tratamiento de elección; extirpa la zona de transformación y permite estudio histológico del margen.</li><li>En NIC II en mujeres jóvenes con deseo reproductivo puede considerarse observación, pero en NIC III el tratamiento es obligatorio.</li><li>Complicaciones: hemorragia, infección, estenosis cervical y aumento de parto pretérmino.</li><li>Trampa: la conización no es tratamiento del cáncer invasor; si hay invasión, se estadifica y deriva a oncología.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Radioterapia y quimioterapia concurrente",
-      "title": "Radioquimioterapia concurrente",
-      "contentHtml": "<h2>Radioterapia y quimioterapia concurrente</h2><ul><li>La <b>radioterapia concurrente con quimioterapia</b> (cisplatino 40 mg/m² semanal) es el estándar para estadios IB2-IVA; mejora la supervivencia global en un 6-10% frente a radioterapia sola.</li><li>La radioterapia externa (45-50 Gy en 25-28 fracciones) se combina con <b>braquiterapia intracavitaria</b> (dosis total 80-90 Gy al punto A).</li><li>Efectos adversos agudos: cistitis y proctitis actínicas, diarrea, mielosupresión; tardíos: estenosis vaginal, fístulas, fibrosis pélvica.</li><li>La quimioterapia concurrente está contraindicada en insuficiencia renal (aclaramiento de creatinina &lt;30 ml/min) o neuropatía periférica severa.</li></ul>"
+      "foco": "Cáncer escamoso más frecuente que adenocarcinoma",
+      "title": "Carcinoma escamoso vs adenocarcinoma",
+      "contentHtml": "<h2>Carcinoma escamoso vs adenocarcinoma</h2><ul><li>El <b>carcinoma escamoso</b> es el tipo histológico más frecuente de cáncer de cérvix (&gt;70%), originado en la zona de transformación.</li><li>El <b>adenocarcinoma</b> representa el 15-25% y se origina en el epitelio cilíndrico endocervical; su incidencia relativa ha aumentado.</li><li>El carcinoma escamoso se asocia clásicamente a <b>VPH 16</b>; el adenocarcinoma a <b>VPH 18</b>.</li><li>Otros tipos: carcinoma adenoescamoso, células claras, neuroendocrino (peor pronóstico).</li><li>Trampa: el adenocarcinoma puede tener citología negativa por localización endocervical; requiere estudio del canal endocervical.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Factores de riesgo: inmunosupresión y tabaquismo",
-      "title": "Factores de riesgo",
-      "contentHtml": "<h2>Factores de riesgo: inmunosupresión y tabaquismo</h2><ul><li><b>Tabaquismo</b> duplica el riesgo de cáncer de cérvix; los carcinógenos del humo se concentran en el moco cervical y dañan el ADN celular, facilitando la persistencia del virus del papiloma humano.</li><li><b>Inmunosupresión</b> (virus de inmunodeficiencia humana, trasplante, uso crónico de corticoides) aumenta el riesgo de infección persistente por virus del papiloma humano y progresión a lesión intraepitelial escamosa de alto grado.</li><li>Mujeres con virus de inmunodeficiencia humana deben realizarse citología cervical al diagnóstico y luego cada 6-12 meses si hay inmunosupresión (CD4 &lt;200 células/µl).</li><li>Otros factores: inicio precoz de relaciones sexuales (&lt;16 años), múltiples parejas sexuales, multiparidad y uso prolongado de anticonceptivos orales (&gt;5 años).</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Tamizaje: inicio a los 25 años",
-      "title": "Tamizaje",
-      "contentHtml": "<h2>Tamizaje: inicio a los 25 años</h2><ul><li>El tamizaje con citología cervical (Papanicolaou) se inicia a los <b>25 años</b>; antes de esa edad la incidencia de cáncer es muy baja y el sobretratamiento de lesiones intraepiteliales escamosas es frecuente.</li><li>En mujeres de 25-29 años: citología cervical cada 3 años; en mujeres de 30-65 años: co-test (citología + test de virus del papiloma humano) cada 5 años o citología sola cada 3 años.</li><li>En mujeres &gt;65 años con tamizaje previo adecuado (3 citologías negativas consecutivas o 2 co-test negativos en los últimos 10 años) se puede suspender el tamizaje.</li><li>En mujeres histerectomizadas por causa benigna y sin antecedente de lesión intraepitelial escamosa de alto grado, no se requiere tamizaje.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Prevención: uso de condón y VPH",
-      "title": "Prevención",
-      "contentHtml": "<h2>Prevención: uso de condón y vacuna contra virus del papiloma humano</h2><ul><li><b>Uso de condón</b> reduce la transmisión del virus del papiloma humano, pero no la elimina por completo, ya que el virus puede infectar áreas no cubiertas por el condón (vulva, periné).</li><li><b>Vacuna contra virus del papiloma humano</b> es la principal estrategia de prevención primaria; se recomienda en ambos sexos antes del inicio de vida sexual (9-14 años).</li><li>La vacunación post-exposición no es efectiva para tratar infecciones existentes, pero previene infección por otros genotipos no adquiridos.</li><li>La prevención secundaria incluye tamizaje periódico con citología cervical y test de virus del papiloma humano; la detección temprana reduce la mortalidad en un 60-80%.</li></ul>"
+      "foco": "Estadificación FIGO clínica en cérvix",
+      "title": "Estadificación FIGO clínica",
+      "contentHtml": "<h2>Estadificación FIGO clínica</h2><ul><li>El cáncer de cérvix se estadifica clínicamente según la <b>Federación Internacional de Ginecología y Obstetricia</b> (FIGO), con exploración física, biopsia, imagen y cistoscopia/rectoscopia según estadio.</li><li>Estadio I: confinado al cérvix (IA microscópico, IB clínico); estadio II: invade vagina o parametrios sin llegar a pared pélvica; estadio III: pared pélvica o tercio inferior de vagina o hidronefrosis; estadio IV: vejiga, recto o metástasis.</li><li>La estadificación FIGO es clínica y no se modifica por hallazgos quirúrgicos; la imagen (resonancia magnética, tomografía, PET) complementa.</li><li>Trampa: el estadio FIGO no cambia por hallazgos de linfadenectomía; la clasificación TNM sí incorpora patología.</li></ul>"
     }
   ]
 }

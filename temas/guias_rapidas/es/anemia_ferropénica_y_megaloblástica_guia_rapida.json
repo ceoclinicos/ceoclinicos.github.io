@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Ferropenia: anemia microcítica hipocrómica con ferritina baja",
-      "title": "Ferropenia: perfil microcítico hipocrómico",
-      "contentHtml": "<h2>Ferropenia: anemia microcítica hipocrómica con ferritina baja</h2><ul><li>Anemia microcítica hipocrómica: volumen corpuscular medio &lt;80 fL y hemoglobina corpuscular media &lt;27 pg.</li><li>Ferropenia es la causa más frecuente de anemia microcítica: agota primero los depósitos (ferritina baja), luego desciende el hierro sérico y aumenta la capacidad total de fijación de hierro; saturación de transferrina &lt;20%.</li><li>En inflamación, la ferritina es reactante de fase aguda y puede ser normal pese a ferropenia: usar saturación de transferrina &lt;20% o receptor soluble de transferrina elevado.</li><li>Diferencial: talasemia (RDW normal, ferritina normal, electroforesis alterada) y anemia de enfermedad crónica (ferritina normal-alta, saturación baja).</li></ul>"
+      "foco": "Ferropenia: microcítica hipocrómica con ferritina baja",
+      "title": "Ferropenia: perfil microcítico hipocrómico y ferritina",
+      "contentHtml": "<h2>Ferropenia: microcítica hipocrómica con ferritina baja</h2><ul><li><b>Anemia microcítica hipocrómica</b>: volumen corpuscular medio &lt;80 fL y hemoglobina corpuscular media &lt;27 pg; ferritina sérica &lt;30 ng/mL es el mejor marcador de depósito de hierro agotado (en inflamación, umbral &lt;100 ng/mL con saturación de transferrina &lt;20%).</li><li>Secuencia fisiopatológica: depleción de depósitos (ferritina baja) → eritropoyesis deficiente (saturación de transferrina baja) → anemia microcítica hipocrómica.</li><li><b>Trampa</b>: ferritina normal no descarta ferropenia si hay inflamación; usar saturación de transferrina &lt;20% y receptor soluble de transferrina.</li><li>Primera línea: hierro oral (sulfato ferroso 325 mg cada 8-12 h) y buscar sangrado digestivo en varones y posmenopáusicas.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Ferritina baja es el primer marcador y más específico de ferropenia",
-      "title": "Ferritina: marcador más específico",
-      "contentHtml": "<h2>Ferritina baja es el primer marcador y más específico de ferropenia</h2><ul><li>La ferritina sérica refleja los depósitos de hierro: desciende antes que la hemoglobina y es el marcador más específico de ferropenia.</li><li>Umbral diagnóstico habitual: <b>ferritina &lt;30 ng/mL</b> confirma ferropenia en anemia microcítica; en población con inflamación, &lt;100 ng/mL con saturación &lt;20% apoya ferropenia.</li><li>Ferritina normal no excluye ferropenia si hay inflamación, hepatopatía o neoplasia (reactante de fase aguda).</li><li>Trampa de examen: el primer parámetro que se altera es la ferritina, no el volumen corpuscular medio ni la hemoglobina.</li></ul>"
+      "foco": "Megaloblástica: macrocítica con VCM elevado",
+      "title": "Megaloblástica: macrocitosis y VCM elevado",
+      "contentHtml": "<h2>Megaloblástica: macrocítica con VCM elevado</h2><ul><li><b>Anemia macrocítica</b>: volumen corpuscular medio &gt;100 fL; en déficit de vitamina B12 o folato el frotis muestra macrocitos ovales y neutrófilos hipersegmentados.</li><li>Mecanismo: defecto de síntesis de ADN por bloqueo de la conversión de desoxiuridilato a timidilato, con eritropoyesis ineficaz (deshidrogenasa láctica y bilirrubina indirecta elevadas, haptoglobina baja).</li><li>Diagnóstico diferencial de macrocitosis: alcohol, hepatopatía, hipotiroidismo, fármacos (metotrexato, hidroxiurea, zidovudina) y síndrome mielodisplásico.</li><li><b>Trampa</b>: volumen corpuscular medio elevado no equivale a megaloblástica; confirmar con frotis y dosar vitamina B12 y folato antes de tratar.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Megaloblástica: macrocitosis con neutrófilos hipersegmentados",
-      "title": "Megaloblástica: macrocitosis e hipersegmentación",
-      "contentHtml": "<h2>Megaloblástica: macrocitosis con neutrófilos hipersegmentados</h2><ul><li>Anemia megaloblástica: volumen corpuscular medio &gt;100 fL por defecto de síntesis de ácido desoxirribonucleico (ADN) nuclear; citoplasma madura más que el núcleo (asincronía núcleo-citoplasma).</li><li>Frotis: macrocitos ovales, neutrófilos hipersegmentados (&gt;5 lóbulos), precursores medulares con núcleo inmaduro; leucopenia y trombocitopenia por hematopoyesis ineficaz.</li><li>Diferencial de macrocitosis: alcohol, hepatopatía, hipotiroidismo, fármacos (metotrexato, hidroxiurea), síndrome mielodisplásico; sin hipersegmentación ni anemia megaloblástica medular.</li><li>Confirmación: déficit de vitamina B12 o folato; médula ósea hipercelular con megaloblastos si persiste duda.</li></ul>"
+      "foco": "Ferropenia: RDW alto, útil en anemia de enfermedad crónica",
+      "title": "Ferropenia: amplitud de distribución eritrocitaria alta",
+      "contentHtml": "<h2>Ferropenia: RDW alto, útil en anemia de enfermedad crónica</h2><ul><li><b>Amplitud de distribución eritrocitaria</b> (RDW) &gt;14,5% refleja anisocitosis; en ferropenia está elevada por coexistencia de microcitos y normocitos.</li><li>En anemia de enfermedad crónica el RDW suele ser normal y la ferritina normal o alta con saturación de transferrina baja; la ferropenia pura eleva el RDW y baja la ferritina.</li><li>Uso práctico: RDW alto + volumen corpuscular medio bajo orienta a ferropenia; RDW normal + volumen corpuscular medio bajo orienta a rasgo talasémico o anemia de enfermedad crónica.</li><li><b>Trampa</b>: el RDW no confirma por sí solo; integrar con ferritina, saturación de transferrina y recuento de plaquetas.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Déficit de B12 vs folato: diferenciar por ácido metilmalónico",
-      "title": "B12 vs folato: ácido metilmalónico",
-      "contentHtml": "<h2>Déficit de B12 vs folato: diferenciar por ácido metilmalónico</h2><ul><li>Ambos déficits producen anemia megaloblástica y elevación de homocisteína; solo el déficit de vitamina B12 eleva el <b>ácido metilmalónico</b> (metabolito que requiere B12 para convertirse en succinil-CoA).</li><li>Ácido metilmalónico elevado en suero u orina confirma déficit de vitamina B12 y diferencia de déficit de folato.</li><li>Homocisteína elevada es inespecífica: aparece en ambos déficits y en insuficiencia renal.</li><li>Trampa: no pedir ácido metilmalónico para diagnosticar déficit de folato; en folato es normal.</li></ul>"
+      "foco": "Déficit B12: parestesias y degeneración cordón posterior",
+      "title": "Déficit de vitamina B12: neurología medular",
+      "contentHtml": "<h2>Déficit B12: parestesias y degeneración cordón posterior</h2><ul><li><b>Déficit de vitamina B12</b>: parestesias simétricas en pies, pérdida de sensibilidad vibratoria y propioceptiva, ataxia y signo de Romberg; reflejos osteotendinosos exaltados o abolidos según afectación.</li><li>Patología: degeneración combinada subaguda de la médula espinal con desmielinización de cordones posteriores y laterales; puede preceder a la anemia.</li><li><b>Hallazgo clave</b>: resonancia magnética medular con hiperintensidad en T2 de cordones posteriores (signo de la “V” invertida) en déficit de vitamina B12.</li><li><b>Trampa</b>: tratar con folato sin vitamina B12 puede empeorar la neurología; reponer vitamina B12 primero (intramuscular 1000 microgramos/día una semana, luego semanal un mes y mensual).</li></ul>"
     },
     {
       "order": 5,
-      "foco": "B12 elevado de MMA; folato normal en déficit de B12",
-      "title": "MMA elevado en B12; folato normal",
-      "contentHtml": "<h2>B12 elevado de MMA; folato normal en déficit de B12</h2><ul><li>En déficit de vitamina B12: <b>ácido metilmalónico elevado</b> y folato sérico normal o elevado (no bajo).</li><li>En déficit de folato: ácido metilmalónico normal y folato sérico bajo; homocisteína elevada en ambos.</li><li>El folato sérico refleja ingesta reciente; el folato eritrocitario refleja depósitos y es más fiable.</li><li>Trampa de examen: un folato normal no descarta déficit de vitamina B12; el marcador que lo confirma es el ácido metilmalónico.</li></ul>"
+      "foco": "Folato bajo sin síntomas neurológicos",
+      "title": "Déficit de folato: anemia sin neurología",
+      "contentHtml": "<h2>Folato bajo sin síntomas neurológicos</h2><ul><li><b>Déficit de folato</b>: anemia macrocítica megaloblástica sin parestesias ni degeneración de cordones posteriores; folato sérico &lt;3 ng/mL o folato eritrocitario &lt;140 ng/mL confirma.</li><li>Causas: embarazo, alcoholismo, malabsorción, fármacos (metotrexato, trimetoprim, fenitoína) y dieta deficiente.</li><li>Tratamiento: ácido fólico oral 1 mg/día; en embarazo 400 microgramos/día de forma preventiva.</li><li><b>Trampa</b>: el folato bajo puede enmascarar déficit de vitamina B12; dosar ambas vitaminas y descartar neurología antes de tratar solo con folato.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Anemia perniciosa: anticuerpos anti-factor intrínseco y anti-células parietales",
-      "title": "Anemia perniciosa: autoanticuerpos",
-      "contentHtml": "<h2>Anemia perniciosa: anticuerpos anti-factor intrínseco y anti-células parietales</h2><ul><li>Anemia perniciosa: gastritis atrófica autoinmune con destrucción de células parietales gástricas; déficit de factor intrínseco impide absorber vitamina B12 en íleon terminal.</li><li>Anticuerpos anti-células parietales: sensibilidad alta, especificidad baja (presentes en gastritis atrófica no perniciosa).</li><li>Anticuerpos anti-factor intrínseco: sensibilidad baja, especificidad alta; su positividad confirma anemia perniciosa.</li><li>Asociación a otras enfermedades autoinmunes (tiroiditis de Hashimoto, vitiligo, insuficiencia suprarrenal); endoscopia puede mostrar gastritis atrófica.</li></ul>"
+      "foco": "B12 baja con folato normal: buscar anemia perniciosa",
+      "title": "Vitamina B12 baja con folato normal: anemia perniciosa",
+      "contentHtml": "<h2>B12 baja con folato normal: buscar anemia perniciosa</h2><ul><li><b>Anemia perniciosa</b>: déficit de vitamina B12 por gastritis atrófica autoinmune con anticuerpos contra células parietales y factor intrínseco; folato normal y vitamina B12 baja.</li><li>Datos asociados: aclorhidria, hipergastrinemia, anemia megaloblástica y manifestaciones neurológicas; riesgo de adenocarcinoma gástrico y tumor carcinoide.</li><li>Confirmación: anticuerpos anti-factor intrínseco (alta especificidad) y anti-células parietales (alta sensibilidad); endoscopia con biopsia si sospecha.</li><li><b>Trampa</b>: la prueba de Schilling ya no se usa; no retrasar tratamiento con vitamina B12 intramuscular 1000 microgramos/día una semana.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Déficit de B12 causa síntomas neurológicos; folato no",
-      "title": "B12: síntomas neurológicos; folato no",
-      "contentHtml": "<h2>Déficit de B12 causa síntomas neurológicos; folato no</h2><ul><li>Déficit de vitamina B12: degeneración combinada subaguda de la médula espinal (pérdida de propiocepción y vibración, ataxia, signo de Romberg, hiperreflexia, Babinski) y neuropatía periférica.</li><li>Puede haber síntomas neuropsiquiátricos (déficit cognitivo, irritabilidad) sin anemia.</li><li>Déficit de folato: anemia megaloblástica sin afectación neurológica; no causa degeneración medular.</li><li>Trampa: síntomas neurológicos con macrocitosis orientan a vitamina B12, no a folato.</li></ul>"
+      "foco": "Ácido metilmalónico elevado solo en déficit B12",
+      "title": "Ácido metilmalónico: marcador específico de B12",
+      "contentHtml": "<h2>Ácido metilmalónico elevado solo en déficit B12</h2><ul><li><b>Ácido metilmalónico</b> elevado en suero u orina es marcador metabólico específico de déficit de vitamina B12; en déficit de folato permanece normal.</li><li>Fundamento: la vitamina B12 es cofactor de la metilmalonil-coenzima A mutasa; su déficit acumula ácido metilmalónico, mientras el folato no participa en esa reacción.</li><li>Utilidad: diferenciar déficit de vitamina B12 de déficit de folato cuando ambas vitaminas séricas son limítrofes; también eleva homocisteína en ambos déficits.</li><li><b>Trampa</b>: insuficiencia renal eleva ácido metilmalónico sin déficit de vitamina B12; interpretar con filtrado glomerular.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "No dar folato solo en déficit de B12: enmascara neurológico",
-      "title": "Folato aislado enmascara B12",
-      "contentHtml": "<h2>No dar folato solo en déficit de B12: enmascara neurológico</h2><ul><li>Administrar ácido fólico en déficit de vitamina B12 corrige la anemia megaloblástica pero no la lesión neurológica: enmascara el déficit y permite progresión de la degeneración combinada subaguda.</li><li>Regla: ante anemia megaloblástica, descartar déficit de vitamina B12 antes de suplementar folato; si no es posible, reponer ambos.</li><li>El ácido fólico no tóxico en exceso, pero no sustituye a la vitamina B12 en déficit combinado.</li><li>Trampa de examen: nunca folato aislado si se sospecha déficit de vitamina B12.</li></ul>"
+      "foco": "Ferropenia: plaquetas reactivas elevadas",
+      "title": "Ferropenia: trombocitosis reactiva",
+      "contentHtml": "<h2>Ferropenia: plaquetas reactivas elevadas</h2><ul><li><b>Trombocitosis reactiva</b>: plaquetas &gt;450.000/microlitro en ferropenia por estimulación de trombopoyetina y eritropoyetina; recuento suele normalizarse tras reponer hierro.</li><li>Diferencial: trombocitosis esencial (plaquetas &gt;450.000/microlitro persistente, esplenomegalia, trombosis/hemorragia) y trombocitosis reactiva a inflamación, infección o cirugía.</li><li>En ferropenia el frotis muestra microcitos hipocrómicos y plaquetas morfológicamente normales; la médula ósea no es necesaria si responde al hierro.</li><li><b>Trampa</b>: trombocitosis marcada no descarta ferropenia; repetir hemograma tras 4-6 semanas de hierro oral.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "RDW elevado diferencia ferropenia de talasemia",
-      "title": "RDW: ferropenia vs talasemia",
-      "contentHtml": "<h2>RDW elevado diferencia ferropenia de talasemia</h2><ul><li>Amplitud de distribución eritrocitaria (RDW) elevada (&gt;15%) con anemia microcítica sugiere ferropenia; en talasemia el RDW suele ser normal porque la microcitosis es uniforme.</li><li>Ferropenia: volumen corpuscular medio bajo, RDW alto, ferritina baja, saturación de transferrina baja.</li><li>Talasemia: volumen corpuscular medio bajo, RDW normal, ferritina normal, recuento de hematíes elevado y electroforesis de hemoglobina alterada.</li><li>Trampa: RDW normal en microcitosis orienta a rasgo talasémico, no a ferropenia.</li></ul>"
+      "foco": "Megaloblástica: neutrófilos hipersegmentados",
+      "title": "Megaloblástica: neutrófilos hipersegmentados",
+      "contentHtml": "<h2>Megaloblástica: neutrófilos hipersegmentados</h2><ul><li><b>Neutrófilos hipersegmentados</b>: &gt;5 lóbulos en más del 5% de neutrófilos o presencia de neutrófilos con 6 lóbulos; hallazgo característico de anemia megaloblástica por déficit de vitamina B12 o folato.</li><li>Frotis asociado: macrocitos ovales, cuerpos de Howell-Jolly, punteado basófilo y leucopenia con trombocitopenia por eritropoyesis ineficaz.</li><li>Diagnóstico diferencial: síndrome mielodisplásico, quimioterapia, hidroxiurea y anomalía de Pelger-Huët (bilobulado, no hipersegmentado).</li><li><b>Trampa</b>: neutrófilos hipersegmentados pueden aparecer antes de la anemia; buscar déficit vitamínico en pacientes con macrocitosis incipiente.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Síndrome de piernas inquietas y pica en ferropenia",
-      "title": "Piernas inquietas y pica",
-      "contentHtml": "<h2>Síndrome de piernas inquietas y pica en ferropenia</h2><ul><li>Ferropenia: síntomas por depleción de hierro en tejidos, incluso sin anemia; síndrome de piernas inquietas (necesidad urgente de mover las piernas, empeora en reposo y noche) y pica (ingesta de sustancias no nutritivas como hielo o tierra).</li><li>Otros: fatiga, palidez, glositis, coiloniquia (uñas en cuchara), caída de cabello, disminución de rendimiento cognitivo.</li><li>La pica y el síndrome de piernas inquietas mejoran con la reposición de hierro.</li><li>Trampa: estos síntomas pueden preceder a la anemia; la ferritina baja confirma ferropenia.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Tratamiento ferropenia: hierro oral en ayunas con vitamina C",
-      "title": "Ferropenia: hierro oral con vitamina C",
-      "contentHtml": "<h2>Tratamiento ferropenia: hierro oral en ayunas con vitamina C</h2><ul><li>Primera línea: <b>sulfato ferroso</b> oral (hierro elemental 60-120 mg/día) en ayunas, con vitamina C o zumo cítrico para aumentar la absorción.</li><li>Evitar té, café, lácteos y antiácidos con la toma: reducen la absorción; el hierro puede teñir las heces de negro (efecto esperado).</li><li>Respuesta: reticulocitosis en 7-10 días; normalización de hemoglobina en 4-8 semanas; mantener hierro 3-6 meses tras normalizar para reponer depósitos.</li><li>Hierro intravenoso si malabsorción, intolerancia oral o pérdidas continuas; transfusión solo si inestabilidad hemodinámica.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Déficit de B12: reponer parenteral si malabsorción o anemia perniciosa",
-      "title": "Déficit de B12: reposición parenteral",
-      "contentHtml": "<h2>Déficit de B12: reponer parenteral si malabsorción o anemia perniciosa</h2><ul><li>Anemia perniciosa o malabsorción: <b>cianocobalamina intramuscular</b> (1000 microgramos al día o en días alternos durante 1-2 semanas, luego mantenimiento mensual).</li><li>Déficit por dieta (vegetarianos) sin malabsorción: vitamina B12 oral en dosis altas (1000-2000 microgramos/día) puede ser eficaz por difusión pasiva.</li><li>Reponer también folato si déficit combinado; nunca folato aislado en déficit de vitamina B12.</li><li>Respuesta: reticulocitosis en 3-5 días; controlar potasio si anemia grave (hipopotasemia por consumo medular).</li></ul>"
+      "foco": "Saturación transferrina baja en ferropenia",
+      "title": "Saturación de transferrina baja en ferropenia",
+      "contentHtml": "<h2>Saturación transferrina baja en ferropenia</h2><ul><li><b>Saturación de transferrina</b>: porcentaje de hierro sérico unido a transferrina; &lt;20% orienta a ferropenia o anemia de enfermedad crónica, &gt;50% a sobrecarga férrica.</li><li>Cálculo: hierro sérico dividido entre capacidad total de fijación de hierro, multiplicado por 100; en ferropenia el hierro sérico baja y la capacidad total de fijación de hierro sube.</li><li>Diferencial: en anemia de enfermedad crónica la saturación de transferrina también es baja, pero la ferritina es normal o alta y la capacidad total de fijación de hierro es normal o baja.</li><li><b>Trampa</b>: la saturación de transferrina baja no es específica; integrar con ferritina, amplitud de distribución eritrocitaria y respuesta al hierro oral.</li></ul>"
     }
   ]
 }

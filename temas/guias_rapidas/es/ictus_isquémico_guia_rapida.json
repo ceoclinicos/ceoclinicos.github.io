@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Clasificación TOAST del ictus isquémico",
-      "title": "Clasificación TOAST",
-      "contentHtml": "<h2>Clasificación TOAST del ictus isquémico</h2><ul><li><b>TOAST</b> divide en 5 subtipos: aterotrombótico (LAA), cardioembólico (CE), lacunar (SVD), otra causa determinada (ODE) y causa indeterminada (SUE).</li><li><b>Aterotrombótico:</b> estenosis ≥50% o trombosis de arteria grande; requiere Doppler o angio-tomografía computarizada.</li><li><b>Cardioembólico:</b> presencia de fibrilación auricular, prótesis valvular, infarto agudo de miocardio reciente o trombo VI; alta recurrencia.</li><li><b>Lacunar:</b> infarto pequeño (&lt;15 mm) en territorio perforante, asociado a HTA crónica.</li><li><b>Otra causa:</b> disección, vasculitis, trombofilia; requiere estudios dirigidos.</li><li><b>Indeterminado:</b> dos causas posibles o estudio incompleto; hasta 30% de los casos.</li></ul>"
+      "foco": "Ventana terapéutica trombolisis 4.5 horas",
+      "title": "Ventana de trombolisis intravenosa",
+      "contentHtml": "<h2>Ventana terapéutica de trombolisis intravenosa</h2><ul><li><b>Ventana terapéutica trombolisis 4.5 horas</b> desde el inicio de síntomas o desde el último momento conocido sin déficit (último estado normal); el beneficio es máximo cuanto antes, especialmente en la primera hora.</li><li>Fármaco de elección: <b>alteplasa</b> a <b>0.9 mg/kg</b> (máximo <b>90 mg</b>), <b>10%</b> en bolo en 1 minuto y el resto en infusión de 60 minutos.</li><li>Tenecteplasa en ictus isquémico: <b>0.25 mg/kg</b> en bolo único (máximo <b>25 mg</b>), alternativa en centros con protocolo validado.</li><li>No administrar antiagregantes ni anticoagulantes en las primeras <b>24 horas</b> tras la trombolisis.</li><li>Trampa de examen: la ventana se amplía a <b>4.5 horas</b> solo con criterios de selección; más allá no se tromboliza de forma rutinaria.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Ventana terapéutica para trombólisis intravenosa",
-      "title": "Ventana trombólisis intravenosa",
-      "contentHtml": "<h2>Ventana terapéutica para trombólisis intravenosa</h2><ul><li>La ventana estándar es <b>4,5 horas</b> desde inicio de síntomas o último momento sano.</li><li>Entre 3 y 4,5 horas aplicar <b>criterios ECASS III</b>: edad &gt;80 años, anticoagulantes orales (INR ≤1,7), diabetes + ictus previo son exclusiones relativas.</li><li>En <b>ictus al despertar</b> o tiempo desconocido, usar <b>resonancia magnética de difusión-FLAIR mismatch</b> (DWI positiva, FLAIR negativa) para ventana hasta <b>4,5 horas</b> desde descubrimiento si cumplen criterios WAKE-UP.</li><li>Dosis <b>alteplasa</b>: 0,9 mg/kg (máx 90 mg), 10% en bolo y resto en infusión 1 h.</li><li>No superar ventana ni usar más allá de 4,5 h sin imagen avanzada.</li></ul>"
+      "foco": "TC inicial descarta hemorragia intracraneal",
+      "title": "Tomografía computarizada inicial",
+      "contentHtml": "<h2>Tomografía computarizada inicial sin contraste</h2><ul><li><b>Tomografía computarizada inicial descarta hemorragia intracraneal</b>: es obligatoria antes de trombolisis; la hemorragia se ve hiperdensa de forma inmediata.</li><li>La tomografía computarizada sin contraste es rápida y disponible; detecta hemorragia, efecto de masa y signos de infarto establecido (hipodensidad, pérdida de diferenciación corticosubcortical, signo de la arteria cerebral media hiperdensa).</li><li>El infarto isquémico puede ser normal en las primeras horas; la ausencia de hemorragia es el dato clave para decidir trombolisis.</li><li>Angiotomografía computarizada de vasos de cuello y cerebro: confirma oclusión de gran vaso y selecciona para trombectomía mecánica.</li><li>Trampa: no retrasar la trombolisis por pruebas de coagulación si no hay sospecha de trastorno hemorrágico ni uso de anticoagulantes.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Criterios de exclusión para alteplasa",
-      "title": "Exclusiones alteplasa",
-      "contentHtml": "<h2>Criterios de exclusión para alteplasa</h2><ul><li><b>Absolutos:</b> hemorragia intracraneal en tomografía computarizada, sospecha de HSA, antecedente de HIC, cirugía mayor o trauma craneal en &lt;3 meses, sangrado activo.</li><li><b>Relativos:</b> INR &gt;1,7, TTPa &gt;40 s, plaquetas &lt;100.000, glicemia &lt;50 o &gt;400 mg/dL, infarto agudo de miocardio en &lt;3 meses, cirugía mayor reciente.</li><li><b>TA:</b> presión arterial sistólica &gt;185 mmHg o presión arterial diastólica &gt;110 mmHg mantenida pese a tratamiento es exclusión.</li><li><b>Ictus menor no discapacitante (NIHSS 0-4)</b> y mejoría rápida: no son exclusión absoluta si hay déficit discapacitante.</li><li><b>Embarazo</b> es relativo; riesgo/beneficio individual.</li></ul>"
+      "foco": "Trombectomía mecánica hasta 24 horas",
+      "title": "Trombectomía mecánica",
+      "contentHtml": "<h2>Trombectomía mecánica</h2><ul><li><b>Trombectomía mecánica hasta 24 horas</b> en oclusión de gran vaso anterior (arteria carótida interna, arteria cerebral media segmento M1) con déficit moderado-grave y criterios de imagen de selección.</li><li>Ventana habitual: <b>hasta 6 horas</b> desde el inicio; entre <b>6 y 24 horas</b> solo si se cumplen criterios de <b>criterios de Alberta</b> o de perfusión (penumbra favorable).</li><li>Técnica: cateterismo endovascular con stent retriever o aspiración; objetivo de reperfusión con escala de trombolisis en infarto cerebral modificada <b>2b-3</b>.</li><li>La trombectomía no excluye la trombolisis intravenosa previa si el paciente es elegible y está dentro de la ventana de <b>4.5 horas</b>.</li><li>Trampa: no esperar respuesta a trombolisis para activar trombectomía; son estrategias complementarias.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Escala NIHSS y su interpretación",
-      "title": "NIHSS",
-      "contentHtml": "<h2>Escala NIHSS y su interpretación</h2><ul><li><b>NIHSS</b> (National Institutes of Health Stroke Scale): 15 ítems, puntuación 0-42; &lt;5 leve, 5-15 moderado, 16-20 moderado-severo, &gt;20 severo.</li><li>Ítems clave: nivel de conciencia (1a,1b,1c), mirada conjugada (2), campo visual (3), parálisis facial (4), motor MS (5) y MI (6), ataxia (7), sensibilidad (8), lenguaje (9), disartria (10), extinción (11).</li><li><b>NIHSS ≥6</b> suele indicar oclusión de gran vaso candidato a terapia endovascular.</li><li>Interpretación: cada punto incrementa odds de mal resultado; NIHSS &gt;25 asocia alto riesgo de transformación hemorrágica con trombólisis.</li><li>Se realiza al ingreso, 24 h y al alta para evaluar evolución.</li></ul>"
+      "foco": "Escala NIHSS para gravedad del ictus",
+      "title": "Escala NIHSS",
+      "contentHtml": "<h2>Escala NIHSS (National Institutes of Health Stroke Scale)</h2><ul><li><b>Escala NIHSS para gravedad del ictus</b>: 15 ítems, puntuación de <b>0 a 42</b>; mayor puntuación indica mayor gravedad.</li><li>Interpretación: <b>0-4</b> déficit leve, <b>5-15</b> moderado, <b>16-20</b> moderado-grave, <b>&gt;20</b> grave.</li><li>Umbrales de selección: trombolisis intravenosa en general si <b>NIHSS ≥4</b>; trombectomía mecánica si <b>NIHSS ≥6</b> y oclusión de gran vaso.</li><li>Evalúa nivel de conciencia, mirada conjugada, campos visuales, paresia facial, motor de brazos y piernas, ataxia, sensibilidad, lenguaje, disartria y extinción.</li><li>Trampa: la NIHSS no mide déficit de troncoencefalo ni ictus de circulación posterior de forma sensible; un ictus lacunar puede tener NIHSS bajo.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Terapia endovascular con stent retriever",
-      "title": "Terapia endovascular",
-      "contentHtml": "<h2>Terapia endovascular con stent retriever</h2><ul><li>Indicación: oclusión de <b>circulación anterior proximal</b> (ACI, M1, M2) con <b>NIHSS ≥6</b> y ventana hasta <b>6 horas</b> desde inicio (hasta 24 h con <b>perfusión mismatch</b> en estudios DAWN/DEFUSE-3).</li><li>Procedimiento: <b>stent retriever</b> (ej. Solitaire, Trevo) se despliega en el trombo, se deja 5 min y se retira con aspiración simultánea.</li><li>Eficacia: TICI 2b-3 (reperfusión completa) en &gt;70% de casos; reduce discapacidad (mRS ≤2 a 90 días).</li><li>No requiere prueba de imagen de perfusión si &lt;6 h; si &gt;6 h, usar <b>CTP o resonancia magnética de perfusión</b> para mismatch.</li><li>Contraindicaciones: infarto establecido &gt;1/3 territorio MCA en tomografía computarizada simple, hemorragia, NIHSS &lt;6.</li></ul>"
+      "foco": "Aspirina en las primeras 48 horas",
+      "title": "Aspirina precoz",
+      "contentHtml": "<h2>Aspirina en las primeras 48 horas</h2><ul><li><b>Aspirina en las primeras 48 horas</b> del ictus isquémico: <b>160-300 mg</b> por vía oral o rectal (si disfagia) en las primeras <b>48 horas</b>, luego <b>75-100 mg/día</b>.</li><li>Beneficio: reduce recurrencia y mortalidad; el inicio debe ser tras descartar hemorragia y, si se administró trombolisis, tras <b>24 horas</b> de la trombolisis.</li><li>No usar aspirina junto con trombolisis; no administrar anticoagulación precoz salvo indicación específica (p. ej., trombosis venosa profunda, fibrilación auricular con decisión individualizada).</li><li>En ictus menor (NIHSS ≤3) o accidente isquémico transitorio de alto riesgo, doble antiagregación con aspirina y clopidogrel durante <b>21 días</b>.</li><li>Trampa: la aspirina no es tratamiento de reperfusión; no sustituye trombolisis ni trombectomía.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Manejo de presión arterial en fase aguda",
-      "title": "Manejo de PA aguda",
-      "contentHtml": "<h2>Manejo de presión arterial en fase aguda</h2><ul><li>Si candidato a trombólisis: mantener <b>presión arterial sistólica &lt;185 mmHg</b> y <b>presión arterial diastólica &lt;110 mmHg</b> antes de alteplasa; si supera, usar labetalol 10-20 mg por vía intravenosa o nicardipino 5 mg/h.</li><li>Sin trombólisis: permisividad hasta <b>presión arterial sistólica ≤220 mmHg</b> y <b>presión arterial diastólica ≤120 mmHg</b> en primeras 24 h, salvo comorbilidad (disección aórtica, EAP).</li><li>Si se inicia trombólisis: mantener <b>presión arterial sistólica &lt;180 mmHg</b> y <b>presión arterial diastólica &lt;105 mmHg</b> durante 24 h post-infusión.</li><li>Evitar descenso brusco (&gt;15% en 24 h) por riesgo de penumbra isquémica.</li><li>Usar fármacos intravenosa titulables: labetalol, nicardipino, clevidipino.</li></ul>"
+      "foco": "No trombolizar si TA mayor 185/110",
+      "title": "Presión arterial y trombolisis",
+      "contentHtml": "<h2>Presión arterial antes de trombolisis</h2><ul><li><b>No trombolizar si TA mayor 185/110</b>: presión arterial sistólica <b>&gt;185 mmHg</b> o diastólica <b>&gt;110 mmHg</b> es contraindicación hasta controlarla.</li><li>Control previo: reducir con <b>labetalol</b> <b>10-20 mg</b> intravenoso en 1-2 minutos (repetible) o <b>nicardipino</b> <b>5 mg/h</b> intravenoso, titulando hasta <b>&lt;185/110 mmHg</b>.</li><li>Durante y tras trombolisis: mantener <b>&lt;180/105 mmHg</b> durante <b>24 horas</b>; evitar hipotensión.</li><li>Si no se controla la presión arterial, no administrar trombolisis; la trombectomía mecánica no exige este umbral estricto.</li><li>Trampa: no bajar la presión de forma agresiva en ictus isquémico no trombolizado; la hipoperfusión en penumbra empeora el déficit.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Diagnóstico diferencial: de ictus vs. convulsión",
-      "title": "Diagnóstico diferencial: ictus vs convulsión",
-      "contentHtml": "<h2>Diagnóstico diferencial de ictus vs. convulsión</h2><ul><li><b>Convulsión</b> postictal (parálisis de Todd): déficit focal que resuelve en &lt;24 h, típicamente &lt;1 h; EEG muestra actividad epileptiforme.</li><li><b>Ictus</b>: déficit súbito sin movimientos tónicoclónicos, con signos de lateralización; imagen (tomografía computarizada/resonancia magnética) muestra infarto agudo.</li><li><b>Claves:</b> convulsión al inicio (sugiere epilepsia), mordedura de lengua, cefalea intensa (HSA), movimientos oculares versivos.</li><li><b>resonancia magnética con difusión</b> es gold standard: restricción en ictus agudo; normal en parálisis de Todd.</li><li>Si duda, realizar <b>EEG urgente</b> y no retrasar trombólisis si alta sospecha de ictus.</li></ul>"
+      "foco": "Criterios de Alberta para trombectomía",
+      "title": "Criterios de Alberta",
+      "contentHtml": "<h2>Criterios de Alberta para trombectomía</h2><ul><li><b>Criterios de Alberta para trombectomía</b>: seleccionan pacientes con oclusión de gran vaso anterior entre <b>6 y 24 horas</b> del inicio para trombectomía mecánica.</li><li>Escala de Alberta en tomografía computarizada: puntuación de <b>0 a 10</b>; un valor <b>≥6</b> predice buen pronóstico con trombectomía.</li><li>Puntúa: hipodensidad en territorio de arteria cerebral media, pérdida de la ínsula, pérdida de la cinta cortical, efecto de masa y oclusión de arteria cerebral media.</li><li>Alternativa: criterios de perfusión (volumen de penumbra y núcleo necrótico) con tomografía computarizada de perfusión o resonancia magnética.</li><li>Trampa: no confundir con la escala de Alberta para ictus de circulación posterior; son escalas distintas.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Tratamiento antiagregante en ictus menor",
-      "title": "Antiagregante en ictus menor",
-      "contentHtml": "<h2>Tratamiento antiagregante en ictus menor</h2><ul><li><b>Ictus menor:</b> NIHSS ≤3; manejo agudo con <b>AAS</b> 300 mg/día oral iniciado dentro de las 24-48 h post-ictus si no se administró trombólisis.</li><li>Estudio <b>CHANCE</b> y <b>POINT</b>: terapia dual <b>AAS + clopidogrel</b> (carga 300 mg, luego 75 mg/día) reduce recurrencia a 90 días en ictus menor o ataque isquémico transitorio de alto riesgo (ABCD2 ≥4).</li><li>Duración: <b>21 días</b> en CHANCE; en POINT hasta 90 días pero con mayor sangrado.</li><li>Contraindicación: hemorragia intracraneal, alergia, alto riesgo de sangrado.</li><li>No usar antiagregación si se dio trombólisis; esperar 24 h post-alteplasa.</li></ul>"
+      "foco": "Ictus lacunar sin déficit cortical",
+      "title": "Ictus lacunar",
+      "contentHtml": "<h2>Ictus lacunar</h2><ul><li><b>Ictus lacunar sin déficit cortical</b>: infarto de pequeño vaso (&lt;15 mm) en territorio de arterias perforantes; afecta ganglios basales, tálamo, cápsula interna, protuberancia o corona radiada.</li><li>Clínica: déficit motor o sensitivo puro, síndrome sensitivomotor, disartria-mano torpe o hemiparesia atáxica; nunca hay afasia, hemianopsia, negligencia ni déficit cortical.</li><li>Factores de riesgo: hipertensión arterial y diabetes mellitus; la tomografía computarizada puede ser normal; la resonancia magnética con difusión es más sensible.</li><li>Tratamiento: antiagregación con aspirina; control estricto de presión arterial y glucemia.</li><li>Trampa: un NIHSS bajo no descarta ictus lacunar; la ausencia de síntomas corticales es la clave diagnóstica.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Indicaciones de anticoagulación en cardioembólico",
-      "title": "Anticoagulación cardioembólico",
-      "contentHtml": "<h2>Indicaciones de anticoagulación en cardioembólico</h2><ul><li>Cardioembólico por <b>fibrilación auricular</b> (fibrilación auricular) no valvular: iniciar <b>anticoagulación oral</b> (ACO) con <b>NOAC</b> (apixabán, rivaroxabán, edoxabán, dabigatrán) en lugar de warfarina (INR 2-3).</li><li>Inicio: regla <b>1-3-6-12</b>: ACO a las 24 h si ataque isquémico transitorio, 3 días si infarto pequeño, 6 días si moderado, 12 días si grande (NIHSS &gt;15 o &gt;1/3 MCA).</li><li>Si fibrilación auricular valvular (prótesis mecánica, estenosis mitral moderada-grave): usar <b>warfarina</b> (INR 2,5-3,5).</li><li>No iniciar ACO si transformación hemorrágica o hipertensión no controlada.</li><li>En <b>trombo VI</b> o <b>infarto agudo de miocardio con aneurisma</b>: anticoagulación con warfarina o heparina según guías.</li></ul>"
+      "foco": "Contraindicación anticoagulación en trombolisis",
+      "title": "Contraindicaciones de trombolisis",
+      "contentHtml": "<h2>Contraindicaciones de la trombolisis</h2><ul><li><b>Contraindicación anticoagulación en trombolisis</b>: no administrar trombolisis si el paciente recibe anticoagulantes con <b>índice internacional normalizado &gt;1.7</b> o tiempo de tromboplastina parcial activada elevado, o si usó <b>heparina</b> en las últimas <b>48 horas</b> con tromboplastina parcial activada elevada.</li><li>Contraindicaciones absolutas: hemorragia intracraneal previa, neoplasia intracraneal, malformación vascular, cirugía mayor o traumatismo craneal en <b>3 meses</b>, ictus isquémico en <b>3 meses</b>, hemorragia digestiva reciente, plaquetas <b>&lt;100,000/µL</b>, glucosa <b>&lt;50 mg/dL</b> o <b>&gt;400 mg/dL</b>.</li><li>Anticoagulantes orales directos: no trombolizar si la última dosis fue en las <b>48 horas</b> previas o hay alteración de coagulación.</li><li>Trampa: la anticoagulación no es tratamiento de reperfusión; no se inicia en las primeras <b>24 horas</b> tras trombolisis.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Ictus de la circulación anterior vs. posterior",
-      "title": "Circulación anterior vs posterior",
-      "contentHtml": "<h2>Ictus de la circulación anterior vs. posterior</h2><ul><li><b>Circulación anterior</b> (ACI, ACM, ACA): hemiparesia/hemihipoestesia contralateral, afasia (hemisferio dominante), heminegligencia (no dominante), desviación de mirada.</li><li><b>Circulación posterior</b> (vertebral, basilar, PCA, PICA, AICA): vértigo, diplopía, ataxia, disfagia, síndrome de Horner, hemianopsia homónima, alteración de pares craneales bajos.</li><li><b>Signo de malignidad posterior:</b> oclusión de basilar con tetraparesia, coma, parálisis de mirada vertical; mortalidad &gt;80% sin tratamiento.</li><li>Imagen: angio-tomografía computarizada de troncos supraaórticos para anterior; angio-tomografía computarizada o Aresonancia magnética de circulación posterior para vertebrobasilar.</li><li>Terapia endovascular en basilar: ventana hasta 24 h con <b>perfusión mismatch</b>.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Signos de malignidad en infarto cerebral",
-      "title": "Signos de malignidad",
-      "contentHtml": "<h2>Signos de malignidad en infarto cerebral</h2><ul><li><b>Infarto maligno de ACM</b>: &gt;50% del territorio de ACM en tomografía computarizada o resonancia magnética, con edema cerebral masivo y desplazamiento de línea media &gt;5 mm.</li><li>Criterios clínicos: NIHSS &gt;20 en hemisferio dominante o &gt;15 en no dominante, deterioro del nivel de conciencia en primeras 48 h.</li><li><b>Signo de la cinta insular</b> borrada en tomografía computarizada (hipodensidad de ínsula) es predictor temprano de malignidad.</li><li>Tratamiento: <b>craniectomía descompresiva</b> dentro de las 48 h reduce mortalidad (estudios DECIMAL, DESTINY, HAMLET).</li><li>Edad &lt;60 años y cirugía antes de 48 h mejora pronóstico funcional.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Prevención secundaria: antiagregantes y estatinas",
-      "title": "Prevención secundaria",
-      "contentHtml": "<h2>Prevención secundaria: antiagregantes y estatinas</h2><ul><li>Antiagregación: <b>AAS</b> 75-100 mg/día o <b>clopidogrel</b> 75 mg/día como monoterapia; en ictus menor usar <b>AAS + clopidogrel</b> por 21 días.</li><li>Si cardioembólico: <b>NOAC</b> (dosis ajustada a función renal y peso) o warfarina.</li><li>Estatinas: <b>atorvastatina 80 mg/día</b> (estudio SPARCL) reduce recurrencia independientemente del LDL basal; objetivo LDL &lt;70 mg/dL o reducción ≥50%.</li><li>Manejo de factores de riesgo: HTA (&lt;130/80 mmHg), DM (HbA1c &lt;7%), cesación tabáquica, ejercicio.</li><li>Doble antiagregación prolongada (&gt;90 días) no recomendada por riesgo hemorrágico.</li></ul>"
+      "foco": "Cuidado de la disfagia post-ictus",
+      "title": "Disfagia post-ictus",
+      "contentHtml": "<h2>Cuidado de la disfagia post-ictus</h2><ul><li><b>Cuidado de la disfagia post-ictus</b>: cribado con prueba de deglución con agua antes de la primera ingesta oral; si falla, mantener nada por boca y valorar logopedia.</li><li>Complicaciones: neumonía por aspiración, desnutrición y deshidratación; la disfagia es más frecuente en ictus de troncoencefalo y hemisférico bilateral.</li><li>Medidas: dieta con textura adaptada, espesantes, postura a 90 grados, cabecera elevada 30-45 grados, higiene oral y alimentación supervisada.</li><li>Si la disfagia persiste &gt;72 horas, valorar sonda nasogástrica; si &gt;4 semanas, gastrostomía percutánea.</li><li>Trampa: no iniciar alimentación oral hasta completar el cribado; la aspiración silenciosa es frecuente.</li></ul>"
     }
   ]
 }

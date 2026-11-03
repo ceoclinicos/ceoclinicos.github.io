@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Sífilis primaria: chancro duro indoloro",
-      "title": "Chancro primario",
-      "contentHtml": "<h2>Sífilis primaria</h2><ul><li><b>Chancro duro indoloro</b> aparece tras 9-90 días de incubación; es una úlcera limpia, de bordes indurados y base limpia, no dolorosa.</li><li>Localización más frecuente: genital, pero puede ser oral o anal.</li><li>Diagnóstico diferencial clave: herpes genital (doloroso, vesículas), chancroide (doloroso, bordes irregulares), linfogranuloma venéreo.</li><li>La serología (VDRL) puede ser negativa en las primeras 2-4 semanas; la prueba de campo oscuro del exudado es el estándar diagnóstico inicial.</li><li>El chancro se resuelve espontáneamente en 3-6 semanas, pero la infección persiste sin tratamiento.</li></ul>"
+      "foco": "Treponema pallidum: espiroqueta, no cultivable in vitro",
+      "title": "Treponema pallidum: microbiología",
+      "contentHtml": "<h2>Treponema pallidum: microbiología</h2><ul><li><b>Treponema pallidum</b> es una espiroqueta helicoidal, Gram-negativa, móvil por endoflagelos periplásmicos, microaerófila y muy lábil al ambiente.</li><li><b>No cultivable in vitro</b> en medios artificiales: se replica por fisión binaria lenta (30-33 h) y se propaga en conejos o cultivos celulares; esto condiciona el diagnóstico por microscopía, serología y reacción en cadena de la polimerasa.</li><li>Microscopía de campo oscuro o inmunofluorescencia directa en exudado de lesión primaria: espiroquetas delgadas con espirales regulares.</li><li>Trampa de examen: no se tiñe con Gram convencional y no crece en agar; la prueba de elección inicial no es cultivo.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Sífilis secundaria: rash palmoplantar y condilomas",
-      "title": "Rash y condilomas",
-      "contentHtml": "<h2>Sífilis secundaria</h2><ul><li>Aparece 4-10 semanas tras el chancro; manifestación clásica: <b>rash palmoplantar</b> máculo-papular, no pruriginoso, que afecta palmas y plantas.</li><li>Condilomas planos (o <b>condilomas lata</b>): lesiones papulares húmedas, muy contagiosas, en pliegues y zona perianal.</li><li>Puede acompañarse de fiebre, linfadenopatía generalizada, alopecia en parches y lesiones mucosas (placas mucosas).</li><li>Diagnóstico diferencial: psoriasis palmoplantar, pitiriasis rosada, reacción a fármacos; la serología (VDRL + FTA-ABS) es positiva en casi 100%.</li><li>Sin tratamiento, progresa a latencia o terciaria.</li></ul>"
+      "foco": "Úlcera genital indolora con base limpia y bordes indurados",
+      "title": "Chancro duro: semiología",
+      "contentHtml": "<h2>Chancro duro: semiología</h2><ul><li><b>Úlcera genital indolora con base limpia y bordes indurados</b>: lesión única o múltiple, redondeada, de 1-2 cm, con exudado seroso escaso y adenopatía satélite.</li><li>Diagnóstico diferencial: chancroide por <i>Haemophilus ducreyi</i> (doloroso, blando, sucio, adenopatía fluctuante), herpes genital (vesículas agrupadas dolorosas), linfogranuloma venéreo por <i>Chlamydia trachomatis</i> serovares L1-L3 (pápula que ulcera y adenopatía inguinal fluctuante).</li><li>La induración se debe a infiltrado linfoplasmocitario y endarteritis obliterante; desaparece en 3-6 semanas incluso sin tratamiento.</li><li>Trampa: la úlcera indolora no descarta infección por virus de la inmunodeficiencia humana; siempre ofrecer prueba.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Sífilis terciaria: gomas y neurosífilis",
-      "title": "Manifestaciones tardías",
-      "contentHtml": "<h2>Sífilis terciaria</h2><ul><li>Ocurre años después de la infección inicial (3-30 años).</li><li><b>Gomas</b>: lesiones granulomatosas destructivas en piel, hueso o vísceras; raras hoy por antibióticos.</li><li>Neurosífilis tardía: tabes dorsal (pérdida de propiocepción, signo de Romberg positivo) y parálisis general progresiva (demencia, pupilas de Argyll Robertson).</li><li>Cardiovascular: aortitis sifilítica con insuficiencia aórtica y aneurisma de aorta ascendente.</li><li>La serología (VDRL) puede ser negativa en neurosífilis tardía; FTA-ABS suele ser positiva.</li></ul>"
+      "foco": "Chancro duro aparece 3 semanas tras infección",
+      "title": "Periodo de incubación",
+      "contentHtml": "<h2>Periodo de incubación</h2><ul><li><b>Chancro duro aparece 3 semanas tras infección</b>: rango habitual 10-90 días (promedio 21 días) desde el contacto con lesión mucosa o cutánea.</li><li>La lesión primaria se localiza en el punto de inoculación: genital, anal, oral o extragenital; puede pasar inadvertida en cuello uterino o recto.</li><li>La bacteriemia temprana ocurre antes de la lesión y persiste; por eso la sífilis es sistémica desde el inicio.</li><li>Trampa: una úlcera aparecida &lt;10 días o &gt;90 días hace menos probable sífilis primaria; considerar otras etiologías.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Prueba VDRL: tamizaje y seguimiento de actividad",
-      "title": "VDRL en tamizaje",
-      "contentHtml": "<h2>VDRL</h2><ul><li><b>VDRL</b> (Venereal Disease Research Laboratory) es una prueba no treponémica que detecta anticuerpos anticardiolipina; se usa para <b>tamizaje</b> y <b>seguimiento de actividad</b>.</li><li>Resultados se reportan en títulos (ej. 1:16); un descenso de 4 veces (2 diluciones) a los 6-12 meses post-tratamiento indica respuesta adecuada.</li><li>Falsos positivos: embarazo, lupus, virus de inmunodeficiencia humana, infecciones virales agudas; se confirma con FTA-ABS.</li><li>En sífilis primaria puede ser negativa inicialmente; repetir a las 4 semanas si sospecha alta.</li></ul>"
+      "foco": "Sífilis primaria: adenopatía inguinal bilateral no dolorosa",
+      "title": "Sífilis primaria: adenopatías",
+      "contentHtml": "<h2>Sífilis primaria: adenopatías</h2><ul><li><b>Sífilis primaria: adenopatía inguinal bilateral no dolorosa</b>, firme, móvil, sin fluctuación ni signos inflamatorios; aparece 1-2 semanas después del chancro.</li><li>Puede haber adenopatía epitroclear o cervical según el sitio de inoculación; la linfadenopatía generalizada es más típica de sífilis secundaria.</li><li>Diagnóstico diferencial: chancroide (adenopatía dolorosa y fluctuante), linfogranuloma venéreo (adenopatía inguinal unilateral fluctuante con signo de la ranura), herpes (adenopatía dolorosa).</li><li>Trampa: adenopatía indolora bilateral no excluye otras infecciones de transmisión sexual; el estudio serológico es obligatorio.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "FTA-ABS: confirmación específica de la infección",
-      "title": "FTA-ABS confirmatoria",
-      "contentHtml": "<h2>FTA-ABS</h2><ul><li><b>FTA-ABS</b> (Fluorescent Treponemal Antibody Absorption) es una prueba treponémica específica para <b>confirmación</b> de la infección.</li><li>Detecta anticuerpos contra <i>Treponema pallidum</i>; permanece positiva de por vida, incluso tras tratamiento exitoso.</li><li>No útil para seguimiento de actividad; solo para confirmar si VDRL/RPR es positivo.</li><li>Puede haber falsos positivos en otras treponematosis (pian, bejel) y en enfermedades autoinmunes (raro).</li></ul>"
+      "foco": "Diagnóstico inicial: RPR/VDRL con FTA-ABS o TPHA confirmatorio",
+      "title": "Algoritmo serológico",
+      "contentHtml": "<h2>Algoritmo serológico</h2><ul><li><b>Diagnóstico inicial: RPR/VDRL con FTA-ABS o TPHA confirmatorio</b>: las pruebas no treponémicas (RPR: reagina plasmática rápida; VDRL: laboratorio de investigación de enfermedades venéreas) son cuantitativas y sirven para tamizaje y seguimiento.</li><li>Las pruebas treponémicas (FTA-ABS: absorción de anticuerpos treponémicos fluorescentes; TPHA: aglutinación de partículas de <i>Treponema pallidum</i>; también EIA/CLIA) confirman; permanecen positivas de por vida en la mayoría.</li><li>Secuencia: tamizaje no treponémico positivo → prueba treponémica confirmatoria. Si el tamizaje es negativo y hay alta sospecha, repetir o usar prueba treponémica directa.</li><li>Trampa: RPR/VDRL pueden ser negativos en sífilis muy temprana (prozona) o en sífilis tardía; la prozona se resuelve diluyendo el suero.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Neurosífilis: punción lumbar con VDRL en líquido cefalorraquídeo",
-      "title": "Diagnóstico de neurosífilis",
-      "contentHtml": "<h2>Neurosífilis</h2><ul><li>Indicación de <b>punción lumbar</b> con <b>VDRL en líquido cefalorraquídeo</b>: sífilis latente tardía o sífilis de duración desconocida con síntomas neurológicos, o coinfección virus de inmunodeficiencia humana con títulos séricos ≥1:32.</li><li>Criterio diagnóstico: VDRL positivo en líquido cefalorraquídeo (específico pero no sensible); si es negativo y alta sospecha, realizar FTA-ABS en líquido cefalorraquídeo (alta sensibilidad).</li><li>Pleocitosis linfocitaria y proteinorraquia apoyan el diagnóstico.</li><li>Tratamiento: <b>penicilina G cristalina intravenosa</b> 18-24 millones UI/día por 10-14 días.</li></ul>"
+      "foco": "Falsos positivos de RPR: embarazo, LES, sífilis biológica falsa",
+      "title": "Falsos positivos no treponémicos",
+      "contentHtml": "<h2>Falsos positivos no treponémicos</h2><ul><li><b>Falsos positivos de RPR: embarazo, LES, sífilis biológica falsa</b>: el lupus eritematoso sistémico y otras conectivopatías, embarazo, edad avanzada, infecciones agudas, vacunaciones, hepatopatía y drogas intravenosas pueden dar reactividad inespecífica.</li><li><b>Sífilis biológica falsa</b>: RPR/VDRL positivo persistente &gt;6 meses con prueba treponémica negativa; requiere descartar lupus eritematoso sistémico y otras enfermedades autoinmunes.</li><li>Los falsos positivos suelen ser de título bajo (&lt;1:8); títulos altos orientan a infección verdadera.</li><li>Trampa: nunca tratar solo con RPR positivo sin confirmación treponémica, salvo escenarios especiales (p. ej., pérdida de seguimiento en gestante).</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Sífilis congénita: títulos de RPR en el recién nacido",
-      "title": "Sífilis congénita",
-      "contentHtml": "<h2>Sífilis congénita</h2><ul><li>Evaluar todo recién nacido de madre con sífilis gestacional no tratada o tratada &lt;4 semanas antes del parto.</li><li>Comparar <b>títulos de RPR</b> en sangre del neonato con los maternos; si el título neonatal es ≥4 veces mayor que el materno, hay infección congénita.</li><li>Hallazgos clínicos: rinitis sifilítica (secreción nasal sanguinolenta), lesiones cutáneas vesiculosas (pénfigo sifilítico), osteocondritis, hepatoesplenomegalia.</li><li>Tratamiento: <b>penicilina G cristalina intravenosa</b> 50.000 U/kg cada 12 horas (primera semana) o <b>penicilina G procaínica intramuscular</b> 50.000 U/kg/día por 10 días.</li></ul>"
+      "foco": "Penicilina benzatínica IM es tratamiento de elección",
+      "title": "Tratamiento de elección",
+      "contentHtml": "<h2>Tratamiento de elección</h2><ul><li><b>Penicilina benzatínica IM es tratamiento de elección</b>: sífilis primaria, secundaria y latente temprana → <b>penicilina benzatínica 2.4 millones de unidades IM dosis única</b>.</li><li>Latente tardía o de duración indeterminada y sífilis terciaria (sin neurosífilis): <b>penicilina benzatínica 2.4 millones de unidades IM semanal por 3 semanas</b> (total 7.2 millones).</li><li>Alergia a penicilina en embarazo: desensibilización y penicilina; en no embarazadas, doxiciclina 100 mg VO cada 12 h por 14 días (primaria/secundaria/latente temprana) o 28 días (latente tardía).</li><li>Trampa: la penicilina benzatínica no alcanza concentraciones treponemicidas en líquido cefalorraquídeo; no usar para neurosífilis.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Penicilina G benzatínica: primera línea en sífilis",
-      "title": "Penicilina G benzatínica",
-      "contentHtml": "<h2>Penicilina G benzatínica</h2><ul><li><b>Penicilina G benzatínica</b> es el tratamiento de <b>primera línea</b> para sífilis primaria, secundaria y latente temprana.</li><li>Dosis: 2.4 millones UI intramuscular en dosis única (para sífilis temprana); para latente tardía o duración desconocida: 2.4 millones UI intramuscular cada semana por 3 dosis (total 7.2 millones UI).</li><li>En embarazadas: misma pauta; si alergia a penicilina, desensibilizar y administrar penicilina.</li><li>No usar doxiciclina en embarazo; en no embarazadas con alergia: doxiciclina 100 mg VO cada 12 horas por 14 días.</li></ul>"
+      "foco": "Sífilis secundaria: rash palmo-plantar y condilomas planos",
+      "title": "Sífilis secundaria: clínica",
+      "contentHtml": "<h2>Sífilis secundaria: clínica</h2><ul><li><b>Sífilis secundaria: rash palmo-plantar y condilomas planos</b>: exantema maculopapular generalizado, simétrico, que afecta palmas y plantas, con lesiones mucosas (placas mucosas) y alopecia en claros.</li><li><b>Condilomas planos</b>: lesiones verrugosas húmedas y muy contagiosas en región anogenital, boca o pliegues; contienen gran carga de treponemas.</li><li>Pródromos: fiebre, malestar, cefalea, linfadenopatía generalizada, hepatoesplenomegalia y artralgias.</li><li>Trampa: el rash palmo-plantar es la pista de examen; el diferencial incluye exantema viral, pitiriasis rosada y psoriasis, pero el compromiso palmo-plantar y mucoso orienta a sífilis.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Reacción de Jarisch-Herxheimer: fiebre post-tratamiento",
-      "title": "Reacción de Jarisch-Herxheimer",
-      "contentHtml": "<h2>Reacción de Jarisch-Herxheimer</h2><ul><li><b>Reacción de Jarisch-Herxheimer</b>: fiebre, escalofríos, mialgias y cefalea que ocurre 2-24 horas tras la primera dosis de penicilina.</li><li>Más frecuente en sífilis temprana (primaria y secundaria) y en embarazadas (puede desencadenar contracciones uterinas).</li><li>Mecanismo: liberación masiva de endotoxinas por lisis de espiroquetas.</li><li>No es una reacción alérgica; se maneja con antipiréticos (paracetamol) y no contraindica continuar el tratamiento.</li><li>En neurosífilis, la reacción puede exacerbar síntomas neurológicos; se recomienda premedicar con corticoides (prednisona 60 mg/día por 3 días) en algunos protocolos.</li></ul>"
+      "foco": "Neurosífilis: VDRL en LCR y penicilina cristalina IV",
+      "title": "Neurosífilis: diagnóstico y tratamiento",
+      "contentHtml": "<h2>Neurosífilis: diagnóstico y tratamiento</h2><ul><li><b>Neurosífilis: VDRL en LCR y penicilina cristalina IV</b>: el VDRL en líquido cefalorraquídeo es específico pero poco sensible; un resultado reactivo confirma neurosífilis en contexto clínico compatible.</li><li>Líquido cefalorraquídeo: pleocitosis mononuclear (&gt;5 células/mm³), proteinorraquia elevada (&gt;45 mg/dL) y VDRL reactivo; la prueba treponémica en líquido cefalorraquídeo tiene alta sensibilidad y ayuda a excluir.</li><li>Tratamiento: <b>penicilina cristalina 18-24 millones de unidades IV al día</b> (3-4 millones cada 4 h o infusión continua) por 10-14 días; alternativa: ceftriaxona 2 g IV al día por 10-14 días.</li><li>Trampa: la penicilina benzatínica IM no trata neurosífilis; en alérgicos, desensibilizar y usar penicilina.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Sífilis latente: serología positiva sin síntomas clínicos",
-      "title": "Sífilis latente",
-      "contentHtml": "<h2>Sífilis latente</h2><ul><li>Definición: serología positiva (VDRL/RPR y FTA-ABS) sin signos ni síntomas clínicos de sífilis.</li><li>Clasificación: <b>latente temprana</b> (&lt;1 año de infección) y <b>latente tardía</b> (≥1 año o duración desconocida).</li><li>La diferenciación es clave para el tratamiento: temprana recibe dosis única de <b>penicilina G benzatínica</b> 2.4 millones UI intramuscular; tardía recibe 3 dosis semanales.</li><li>Historia de tratamiento previo, títulos serológicos y contacto sexual ayudan a determinar el estadio.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Coinfección con virus de inmunodeficiencia humana: mayor riesgo de neurosífilis",
-      "title": "virus de inmunodeficiencia humana y sífilis",
-      "contentHtml": "<h2>Coinfección virus de inmunodeficiencia humana</h2><ul><li>Pacientes virus de inmunodeficiencia humana positivos tienen <b>mayor riesgo de neurosífilis</b> y progresión acelerada de la enfermedad.</li><li>Indicaciones de punción lumbar en virus de inmunodeficiencia humana: sífilis latente tardía, títulos séricos ≥1:32, o síntomas neurológicos independientemente del estadio.</li><li>Tratamiento: mismas pautas que en virus de inmunodeficiencia humana negativo; sin embargo, algunos expertos recomiendan 3 dosis de <b>penicilina G benzatínica</b> para sífilis temprana en virus de inmunodeficiencia humana con títulos altos.</li><li>Seguimiento: control serológico a los 3, 6, 9, 12 y 24 meses; si no hay descenso de 4 veces en títulos, considerar retratamiento.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Tratamiento de neurosífilis: penicilina G cristalina intravenosa",
-      "title": "Neurosífilis: tratamiento intravenosa",
-      "contentHtml": "<h2>Tratamiento de neurosífilis</h2><ul><li><b>Penicilina G cristalina intravenosa</b> es el tratamiento de elección: 18-24 millones UI/día en dosis divididas cada 4 horas (o infusión continua) por 10-14 días.</li><li>Alternativa si no se puede acceso intravenosa: <b>penicilina G procaínica intramuscular</b> 2.4 millones UI/día más probenecid 500 mg VO cada 6 horas por 10-14 días.</li><li>Después de completar el esquema intravenosa, algunos recomiendan 3 dosis semanales de <b>penicilina G benzatínica</b> 2.4 millones UI intramuscular para cubrir posible infección sistémica.</li><li>Control: repetir punción lumbar a los 6 meses; se espera descenso de pleocitosis y normalización de VDRL en líquido cefalorraquídeo.</li></ul>"
+      "foco": "Sífilis congénita: dientes de Hutchinson y queratitis intersticial",
+      "title": "Sífilis congénita: estigmas",
+      "contentHtml": "<h2>Sífilis congénita: estigmas</h2><ul><li><b>Sífilis congénita: dientes de Hutchinson y queratitis intersticial</b>: la tríada de Hutchinson incluye <b>dientes de Hutchinson</b> (incisivos centrales superiores en clavija con escotadura), <b>queratitis intersticial</b> y sordera neurosensorial por afectación del VIII par.</li><li>Otros estigmas tardíos: nariz en silla de montar, tibia en sable, molares en mora, surcos de Hutchinson y rágades peribucales.</li><li>Prevención: tamizaje con RPR/VDRL en la primera consulta prenatal y en el tercer trimestre; tratar a la madre con penicilina benzatínica según estadio.</li><li>Trampa: la tríada de Hutchinson aparece en sífilis congénita tardía, no en la forma temprana (que cursa con rinitis sifilítica, lesiones mucocutáneas y hepatoesplenomegalia).</li></ul>"
     }
   ]
 }

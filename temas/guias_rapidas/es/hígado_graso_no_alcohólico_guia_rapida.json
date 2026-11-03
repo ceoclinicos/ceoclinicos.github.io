@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Definición y exclusión de alcohol",
-      "title": "Definición y exclusión de alcohol",
-      "contentHtml": "<h2>Definición y exclusión de alcohol</h2><p>El <b>hígado graso no alcohólico (NAFLD)</b> se define por la presencia de esteatosis hepática (≥5% de hepatocitos) en ausencia de causas secundarias acumulativas de grasa. La exclusión de alcohol requiere <b>&lt;20 g/día</b> en mujeres y <b>&lt;30 g/día</b> en hombres (o <b>&lt;140 g/semana</b> en mujeres y <b>&lt;210 g/semana</b> en hombres). Es obligatorio descartar hepatitis virales, drogas esteatogénicas (amiodarona, metotrexato, tamoxifeno) y enfermedades metabólicas hereditarias. En contexto de ENARM/MIR, la trampa es que un paciente con ingesta de 40 g/día de alcohol no cumple criterio y se clasifica como <b>ALD (enfermedad hepática alcohólica)</b>.</p>"
+      "foco": "Criterios diagnósticos de esteatosis hepática no alcohólica",
+      "title": "Criterios diagnósticos de esteatosis hepática no alcohólica",
+      "contentHtml": "<h2>Criterios diagnósticos de esteatosis hepática no alcohólica</h2><ul><li><b>Esteatosis hepática no alcohólica</b>: presencia de esteatosis hepática (grasa en hepatocitos &gt;5% del parénquima) demostrada por imagen o histología, en ausencia de causas secundarias de esteatosis.</li><li>Excluir consumo significativo de alcohol: &lt;20 g/día en mujeres y &lt;30 g/día en hombres (algunos consensos usan &lt;30 g/día en ambos sexos).</li><li>Excluir otras causas: hepatitis virales (B y C), fármacos (amiodarona, tamoxifeno, corticoides, metotrexato), enfermedad de Wilson, déficit de alfa-1-antitripsina, hemocromatosis, hipotiroidismo, síndrome de Cushing, nutrición parenteral, cirugía bariátrica previa.</li><li>No requiere biopsia para el diagnóstico inicial; la biopsia es el estándar de referencia histológico pero no se usa de rutina.</li><li><b>Trampa de examen</b>: el diagnóstico es de exclusión; no basta con hallar esteatosis en ecografía, hay que descartar alcohol y otras causas.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Espectro: esteatosis a esteatohepatitis",
-      "title": "Espectro: esteatosis a esteatohepatitis",
-      "contentHtml": "<h2>Espectro: esteatosis a esteatohepatitis</h2><p>El NAFLD abarca desde <b>esteatosis simple</b> (grasa sin inflamación ni lesión hepatocitaria) hasta <b>esteatohepatitis no alcohólica (NASH)</b>, que requiere inflamación lobulillar y balonización hepatocelular con o sin fibrosis. La progresión a cirrosis ocurre solo en NASH. En biopsia, el <b>NAS (NAFLD Activity Score)</b> ≥5 define NASH; &lt;3 descarta. La presencia de fibrosis (estadio F2-F4) es el principal predictor de mortalidad. En exámenes: preguntan que la esteatosis simple no eleva transaminasas de forma significativa ni progresa a cirrosis, mientras que NASH sí.</p>"
+      "foco": "Diferenciar NAFLD de NASH y esteatohepatitis",
+      "title": "NAFLD frente a NASH y esteatohepatitis",
+      "contentHtml": "<h2>Diferenciar NAFLD de NASH y esteatohepatitis</h2><ul><li><b>Esteatosis hepática no alcohólica</b> (NAFLD): espectro que incluye esteatosis simple y esteatohepatitis no alcohólica; término paraguas.</li><li><b>Esteatohepatitis no alcohólica</b> (NASH): subtipo histológico con esteatosis, balonización hepatocelular e inflamación lobulillar, con o sin fibrosis.</li><li><b>Esteatosis simple</b>: solo grasa, sin balonización ni inflamación significativa; menor riesgo de progresión.</li><li>La distinción es histológica; las transaminasas no diferencian de forma fiable esteatosis simple de esteatohepatitis no alcohólica.</li><li><b>Trampa de examen</b>: no todo hígado graso es esteatohepatitis no alcohólica; la esteatohepatitis no alcohólica implica inflamación y balonización, y es la que progresa a fibrosis.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Criterios diagnósticos por imagen (ecografía)",
-      "title": "Criterios ecográficos",
-      "contentHtml": "<h2>Criterios diagnósticos por imagen (ecografía)</h2><p>La ecografía abdominal es la primera línea diagnóstica. Criterios: <b>aumento de ecogenicidad hepática</b> respecto a parénquima renal, <b>atenuación del haz ultrasónico</b> profundo y <b>borrosidad de los vasos intrahepáticos</b>. La sensibilidad es &gt;85% si esteatosis &gt;20-30%. No permite diferenciar esteatosis simple de NASH ni detecta fibrosis. La trampa: la ecografía puede ser normal si esteatosis &lt;20%, pero el gold standard sigue siendo biopsia. En ENARM/MIR: la combinación de ecografía + transaminasas elevadas no confirma NASH, solo sugiere.</p>"
+      "foco": "Transaminasas normales no descartan NAFLD",
+      "title": "Transaminasas normales no descartan NAFLD",
+      "contentHtml": "<h2>Transaminasas normales no descartan NAFLD</h2><ul><li>Hasta <b>50-80%</b> de pacientes con esteatosis hepática no alcohólica tienen alanina aminotransferasa (ALT) y aspartato aminotransferasa (AST) normales.</li><li>Las transaminasas normales no excluyen esteatohepatitis no alcohólica ni fibrosis avanzada.</li><li>El rango superior normal de ALT es controvertido; muchos laboratorios usan &lt;40 U/L, pero se propone &lt;30 U/L en hombres y &lt;20 U/L en mujeres.</li><li>La sospecha debe basarse en imagen (ecografía) y factores de riesgo metabólicos, no solo en transaminasas.</li><li><b>Trampa de examen</b>: no descartar hígado graso por transaminasas normales; es un error frecuente en preguntas de casos clínicos.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Biopsia hepática como gold standard",
-      "title": "Biopsia hepática",
-      "contentHtml": "<h2>Biopsia hepática como gold standard</h2><p>La <b>biopsia hepática</b> es el gold standard para diagnosticar NASH y estadificar fibrosis (estadios F0-F4). Indica: sospecha de NASH con fibrosis significativa (F≥2) o dudas diagnósticas. Evalúa <b>esteatosis (&gt;5%)</b>, <b>balonización hepatocelular</b>, <b>inflamación lobulillar</b> y <b>fibrosis</b>. El <b>NAS (NAFLD Activity Score)</b> suma estos tres componentes (0-8). La fibrosis se estadifica según <b>CRN (Clinical Research Network)</b>: F0 sin fibrosis, F1 perisinusoidal, F2 periportal, F3 puentes, F4 cirrosis. Trampa: la biopsia no se indica en todo paciente con esteatosis; solo si hay alto riesgo de NASH/fibrosis.</p>"
+      "foco": "AST/ALT menor de 1 en hígado graso no alcohólico",
+      "title": "Cociente AST/ALT en hígado graso no alcohólico",
+      "contentHtml": "<h2>Cociente AST/ALT en hígado graso no alcohólico</h2><ul><li>En la esteatosis hepática no alcohólica típica, el cociente <b>AST/ALT &lt;1</b> (predominio de ALT).</li><li>Si el cociente <b>AST/ALT &gt;1</b>, sospechar fibrosis avanzada o cirrosis, o consumo de alcohol (la aspartato aminotransferasa predomina en hepatitis alcohólica).</li><li>La relación AST/ALT &gt;1 en un paciente con hígado graso no alcohólico obliga a estadificar fibrosis.</li><li><b>Trampa de examen</b>: AST/ALT &lt;1 es lo esperado en esteatosis hepática no alcohólica; un cociente &gt;1 sugiere complicación o etiología alcohólica.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Índice de fibrosis NAFLD (NFS)",
-      "title": "Índice NFS",
-      "contentHtml": "<h2>Índice de fibrosis NAFLD (NFS)</h2><p>El <b>NAFLD Fibrosis Score (NFS)</b> es una escala no invasiva que calcula fibrosis avanzada (F3-F4). Fórmula: -1.675 + 0.037 × edad (años) + 0.094 × IMC (kg/m²) + 1.13 × alteración glucosa/diabetes (sí=1, no=0) + 0.99 × AST/ALT – 0.013 × plaquetas (×10⁹/L) – 0.66 × albúmina (g/dL). Puntos de corte: <b>&lt;-1.455</b> descarta fibrosis avanzada (VPN &gt;93%); <b>&gt;0.676</b> predice fibrosis avanzada (VPP &gt;82%); valores intermedios requieren elastografía o biopsia. En exámenes: es la herramienta más usada para estratificar riesgo de fibrosis en NAFLD.</p>"
+      "foco": "Ecografía como estudio inicial de esteatosis",
+      "title": "Ecografía como estudio inicial de esteatosis",
+      "contentHtml": "<h2>Ecografía como estudio inicial de esteatosis</h2><ul><li><b>Hallazgo clave:</b> la ecografía abdominal es el estudio de imagen inicial; muestra hígado hiperecogénico (&quot;hígado brillante&quot;) con aumento de ecogenicidad respecto al riñón derecho.</li><li>Sensibilidad del <b>60-94%</b> y especificidad del <b>84-95%</b> para esteatosis moderada a grave; menor sensibilidad si esteatosis &lt;20-30%.</li><li>No cuantifica fibrosis ni distingue esteatosis simple de esteatohepatitis no alcohólica.</li><li>Si hay sospecha de fibrosis o transaminasas elevadas persistentes, complementar con elastografía (FibroScan) o índices no invasivos.</li><li><b>Trampa de examen</b>: la ecografía confirma esteatosis pero no estadifica fibrosis; no sustituye a la elastografía.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Asociación con síndrome metabólico",
-      "title": "Síndrome metabólico",
-      "contentHtml": "<h2>Asociación con síndrome metabólico</h2><p>El NAFLD se considera la <b>manifestación hepática del síndrome metabólico</b>. Más del 80% de pacientes con NAFLD tienen obesidad (IMC &gt;30) y/o diabetes tipo 2. Criterios de síndrome metabólico (ATP III): circunferencia abdominal &gt;102 cm (hombres) o &gt;88 cm (mujeres), triglicéridos ≥150 mg/dL, HDL &lt;40/&lt;50 mg/dL, PA ≥130/85 mmHg, glucosa en ayuno ≥100 mg/dL. Cada componente se asocia independientemente con mayor riesgo de NASH y fibrosis. Trampa: la pérdida de peso mejora todos los componentes y la esteatosis, pero no revierte fibrosis avanzada.</p>"
+      "foco": "FibroScan para estadificar fibrosis hepática",
+      "title": "FibroScan para estadificar fibrosis hepática",
+      "contentHtml": "<h2>FibroScan para estadificar fibrosis hepática</h2><ul><li><b>FibroScan</b> (elastografía transitoria): mide rigidez hepática en kilopascales (kPa); valores orientativos: &lt;7 kPa fibrosis ausente o leve (F0-F1), 7-9.5 kPa F2, 9.5-12.5 kPa F3, &gt;12.5 kPa F4 (cirrosis).</li><li>Requiere ayuno y no es fiable en obesidad mórbida, ascitis o inflamación aguda; usar sonda XL en obesos.</li><li>Alternativas no invasivas: índice de fibrosis-4 (FIB-4), NAFLD Fibrosis Score (NFS), elastografía por resonancia magnética.</li><li><b>FIB-4</b> &lt;1.3 descarta fibrosis avanzada; &gt;2.67 indica alto riesgo y derivar a hepatología.</li><li><b>Trampa de examen</b>: FibroScan estadifica fibrosis, no diagnostica esteatohepatitis no alcohólica; la biopsia sigue siendo el estándar para inflamación y balonización.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Elevación de transaminasas (AST/ALT)",
-      "title": "Elevación de transaminasas",
-      "contentHtml": "<h2>Elevación de transaminasas (AST/ALT)</h2><p>En NAFLD, las transaminasas suelen estar <b>elevadas de forma leve a moderada</b> (1.5-4 veces el límite superior normal). La <b>ALT</b> predomina sobre AST en fases iniciales (esteatosis simple). La elevación no se correlaciona bien con el grado de fibrosis; pacientes con NASH avanzado pueden tener transaminasas normales. En ENARM/MIR: la normalización de transaminasas no implica resolución de NASH. Causas de elevación: estrés oxidativo, lipotoxicidad y liberación de enzimas por hepatocitos dañados. La elevación persistente &gt;6 meses con esteatosis ecográfica sugiere NAFLD/NASH.</p>"
+      "foco": "Factores de riesgo: obesidad, diabetes tipo 2, dislipidemia",
+      "title": "Factores de riesgo metabólicos",
+      "contentHtml": "<h2>Factores de riesgo: obesidad, diabetes tipo 2, dislipidemia</h2><ul><li><b>Obesidad</b> (índice de masa corporal &gt;30 kg/m²) es el principal factor de riesgo; la prevalencia de esteatosis hepática no alcohólica supera el <b>70-90%</b> en obesidad mórbida.</li><li><b>Diabetes tipo 2</b>: prevalencia de esteatosis hepática no alcohólica del <b>50-70%</b>; la resistencia a la insulina es el eje fisiopatológico.</li><li><b>Dislipidemia</b>: hipertrigliceridemia y colesterol unido a lipoproteínas de baja densidad (LDL) bajo/alta densidad (HDL) bajo aumentan el riesgo.</li><li>Otros: síndrome de ovario poliquístico, apnea obstructiva del sueño, hipotiroidismo, antecedente familiar.</li><li><b>Trampa de examen</b>: la esteatosis hepática no alcohólica es la enfermedad hepática crónica más frecuente en países occidentales y se asocia a síndrome metabólico.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Relación AST/ALT <1 en NAFLD",
-      "title": "Relación AST/ALT <1",
-      "contentHtml": "<h2>Relación AST/ALT &lt;1 en NAFLD</h2><p>En NAFLD, la <b>relación AST/ALT &lt;1</b> es característica (ALT mayor que AST), debido a que la ALT es más específica de hepatocito y se libera en mayor proporción. Conforme progresa la fibrosis a cirrosis, la relación puede revertirse (&gt;1). En hepatitis alcohólica, la relación suele ser &gt;1.5-2 (AST &gt; ALT). La trampa: en NASH avanzado con fibrosis F3-F4, la relación AST/ALT puede ser &gt;1, simulando enfermedad alcohólica. Por tanto, una relación &lt;1 apoya NAFLD, pero no descarta fibrosis significativa. En exámenes: preguntan que una relación &gt;2 sugiere hepatopatía alcohólica.</p>"
+      "foco": "Síndrome metabólico como predictor de NASH",
+      "title": "Síndrome metabólico como predictor de NASH",
+      "contentHtml": "<h2>Síndrome metabólico como predictor de NASH</h2><ul><li>El <b>síndrome metabólico</b> (criterios: obesidad abdominal, hipertrigliceridemia, colesterol unido a lipoproteínas de alta densidad bajo, hipertensión arterial, glucemia en ayunas elevada) predice esteatohepatitis no alcohólica y fibrosis avanzada.</li><li>A mayor número de componentes del síndrome metabólico, mayor probabilidad de esteatohepatitis no alcohólica y fibrosis.</li><li>La <b>resistencia a la insulina</b> es el mecanismo central: lipólisis periférica aumentada, lipogénesis hepática de novo y estrés oxidativo.</li><li>La esteatosis hepática no alcohólica se considera la manifestación hepática del síndrome metabólico.</li><li><b>Trampa de examen</b>: no es solo una enfermedad del hígado; es un marcador de riesgo cardiovascular y metabólico.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Tratamiento: pérdida de peso y ejercicio",
-      "title": "Pérdida de peso y ejercicio",
-      "contentHtml": "<h2>Tratamiento: pérdida de peso y ejercicio</h2><p>La <b>pérdida de peso ≥7-10%</b> del peso corporal es el tratamiento de primera línea para NAFLD/NASH. Reduce la esteatosis, la inflamación y, si es ≥10%, puede revertir la fibrosis en algunos casos. La dieta recomendada es <b>hipocalórica</b> (déficit de 500-1000 kcal/día) con restricción de carbohidratos refinados y grasas saturadas. El ejercicio aeróbico (≥150 min/semana) y de resistencia mejora la sensibilidad a insulina independientemente de la pérdida de peso. No hay fármaco aprobado específicamente para NAFLD; la pérdida de peso es la intervención más efectiva. Trampa: pérdidas &lt;5% no mejoran la esteatohepatitis.</p>"
+      "foco": "Pérdida de peso del 7-10% como tratamiento clave",
+      "title": "Pérdida de peso del 7-10% como tratamiento clave",
+      "contentHtml": "<h2>Pérdida de peso del 7-10% como tratamiento clave</h2><ul><li><b>Pérdida de peso del 7-10%</b> del peso corporal es el objetivo terapéutico de primera línea; mejora la esteatosis, la inflamación y la fibrosis.</li><li>Pérdida &gt;10% puede revertir esteatohepatitis no alcohólica; pérdida &gt;5% mejora la esteatosis pero no siempre la inflamación.</li><li>Intervención: dieta hipocalórica mediterránea, ejercicio aeróbico y de resistencia (150-300 min/semana), modificación del estilo de vida.</li><li>Fármacos con beneficio: pioglitazona (agonista del receptor gamma activado por proliferadores peroxisómicos) y agonistas del receptor del péptido similar al glucagón tipo 1 (GLP-1) como semaglutida; vitamina E en esteatohepatitis no alcohólica no diabética (dosis 800 UI/día) con cautela.</li><li><b>Trampa de examen</b>: el tratamiento clave es la pérdida de peso, no un fármaco hepatoprotector específico.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Vitamina E en esteatohepatitis",
-      "title": "Vitamina E en NASH",
-      "contentHtml": "<h2>Vitamina E en esteatohepatitis</h2><p>La <b>vitamina E</b> (tocoferol) en dosis de <b>800 UI/día</b> está indicada en pacientes con NASH comprobada por biopsia y sin diabetes tipo 2 (ensayo PIVENS). Reduce la esteatosis, inflamación y balonización, pero no mejora la fibrosis. Contraindicada en diabetes por aumento de riesgo cardiovascular y en cirrosis descompensada. No se usa en esteatosis simple. En ENARM/MIR: preguntan que la vitamina E es primera línea farmacológica en NASH no diabético, pero no en diabéticos ni en cirróticos. Su uso es off-label en muchos países, pero avalado por guías AASLD/EASL.</p>"
-    },
-    {
-      "order": 11,
-      "foco": "Pioglitazona en diabetes tipo 2",
-      "title": "Pioglitazona en DM2",
-      "contentHtml": "<h2>Pioglitazona en diabetes tipo 2</h2><p>La <b>pioglitazona</b> (30 mg/día) es un agonista PPAR-γ indicado en pacientes con NASH comprobada y diabetes tipo 2 o prediabetes (ensayo PIVENS+). Mejora la esteatosis, inflamación y balonización, y puede reducir la fibrosis en algunos estudios. Efectos adversos: aumento de peso (2-4 kg), edema y riesgo de fracturas en mujeres. No se usa en pacientes sin diabetes por perfil de seguridad. Contraindicada en insuficiencia cardíaca (NYHA III-IV). En exámenes: preguntan que la pioglitazona es la opción farmacológica en NASH con DM2, mientras que la vitamina E se reserva para no diabéticos.</p>"
-    },
-    {
-      "order": 12,
-      "foco": "Riesgo de cirrosis y hepatocarcinoma",
-      "title": "Riesgo de cirrosis y CHC",
-      "contentHtml": "<h2>Riesgo de cirrosis y hepatocarcinoma</h2><p>El NAFLD es la causa más rápida de cirrosis en aumento global. El riesgo de progresión a cirrosis es del 15-25% en NASH en 10-15 años. El <b>carcinoma hepatocelular (CHC)</b> puede desarrollarse incluso en ausencia de cirrosis (hasta 30% de casos de CHC por NAFLD). Factores de riesgo: fibrosis F3-F4, diabetes tipo 2, obesidad, edad &gt;50 años, sexo masculino. El cribado de CHC con ecografía cada 6 meses se recomienda en cirrosis por NAFLD. Trampa: el CHC puede aparecer en NASH sin cirrosis, por lo que la vigilancia debe considerarse en pacientes con fibrosis avanzada (F3).</p>"
+      "foco": "Riesgo de progresión a cirrosis y hepatocarcinoma",
+      "title": "Riesgo de progresión a cirrosis y hepatocarcinoma",
+      "contentHtml": "<h2>Riesgo de progresión a cirrosis y hepatocarcinoma</h2><ul><li>La esteatosis simple tiene bajo riesgo de progresión; la <b>esteatohepatitis no alcohólica</b> puede progresar a fibrosis, cirrosis y hepatocarcinoma.</li><li>Se estima que <b>10-20%</b> de pacientes con esteatohepatitis no alcohólica desarrollan cirrosis en 10-20 años.</li><li>El <b>hepatocarcinoma</b> puede aparecer incluso sin cirrosis en la esteatosis hepática no alcohólica; el riesgo anual en cirrosis por esteatohepatitis no alcohólica es del <b>1-2%</b>.</li><li>La fibrosis avanzada (F3-F4) es el principal predictor de mortalidad hepática y cardiovascular.</li><li><b>Trampa de examen</b>: la esteatosis hepática no alcohólica no es benigna; es una causa creciente de hepatocarcinoma y de trasplante hepático.</li></ul>"
     }
   ]
 }

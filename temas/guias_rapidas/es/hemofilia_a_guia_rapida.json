@@ -4,74 +4,62 @@
     {
       "order": 1,
       "foco": "Herencia recesiva ligada al cromosoma X",
-      "title": "Herencia recesiva ligada al cromosoma X",
-      "contentHtml": "<h2>Herencia recesiva ligada al cromosoma X</h2><ul><li>La hemofilia A se hereda por un gen recesivo localizado en el brazo largo del cromosoma X (Xq28), que codifica el factor VIII de la coagulación.</li><li>Los varones portadores de la mutación expresan la enfermedad (hemicigotos); las mujeres son portadoras asintomáticas o con manifestaciones leves por lyonización.</li><li>El 30% de los casos no tiene antecedente familiar (mutación de novo), por lo que la ausencia de historia familiar no descarta el diagnóstico.</li><li>Trampa de examen: la transmisión es de madre portadora a hijo varón; no hay transmisión de padre a hijo varón (el padre aporta cromosoma Y).</li><li>El consejo genético incluye estudio molecular del gen del factor VIII en familiares femeninos.</li></ul>"
+      "title": "Patrón hereditario de la hemofilia A",
+      "contentHtml": "<h2>Herencia recesiva ligada al cromosoma X</h2><ul><li>La hemofilia A se hereda con patrón <b>recesivo ligado al cromosoma X</b>: el gen del factor VIII de coagulación reside en Xq28.</li><li>Los varones afectados tienen un único cromosoma X mutado (hemicigotos) y expresan la enfermedad; las mujeres portadoras (heterocigotas) suelen ser asintomáticas o tener manifestaciones leves por inactivación del cromosoma X.</li><li>Un padre afectado transmite el cromosoma X mutado a todas sus hijas (portadoras obligadas) y el cromosoma Y a todos sus hijos (no afectados).</li><li>Una madre portadora tiene 50% de probabilidad de transmitir el alelo mutado en cada gestación.</li><li>Trampa de examen: aproximadamente un tercio de los casos son esporádicos por mutación de novo sin antecedente familiar.</li></ul>"
     },
     {
       "order": 2,
       "foco": "Déficit de factor VIII coagulación",
-      "title": "Déficit de factor VIII",
-      "contentHtml": "<h2>Déficit de factor VIII</h2><ul><li>El factor VIII es una glucoproteína sintetizada en el hígado y en células endoteliales; actúa como cofactor del factor IX activado en la vía intrínseca de la coagulación.</li><li>Su déficit funcional o cuantitativo produce un defecto en la generación de trombina y en la formación de fibrina estable.</li><li>La hemofilia A representa el 80-85% de las hemofilias; la hemofilia B (déficit de factor IX) es menos frecuente.</li><li>El factor VIII es acarrear por el factor von Willebrand en plasma; su déficit aislado se distingue del déficit de factor von Willebrand (enfermedad de von Willebrand).</li><li>El sangrado es proporcional al nivel residual de factor VIII, no a la gravedad clínica aparente.</li></ul>"
+      "title": "Fisiopatología del déficit de factor VIII",
+      "contentHtml": "<h2>Déficit de factor VIII de coagulación</h2><ul><li>El factor VIII es un cofactor de la vía intrínseca que, activado por trombina, forma el complejo tenasa intrínseco con el factor IX activado para generar factor X activado.</li><li>Su déficit produce un fallo en la amplificación de la coagulación y un defecto en la formación de fibrina estable.</li><li>La hemofilia A representa el 80-85% de las hemofilias; la hemofilia B (déficit de factor IX) es menos frecuente.</li><li>Clasificación por actividad residual: <b>grave &lt;1%</b>, <b>moderada 1-5%</b>, <b>leve &gt;5-40%</b>.</li><li>El factor VIII circula unido al factor de von Willebrand, que lo protege de la degradación; por ello el déficit de factor de von Willebrand también reduce el factor VIII.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Prolongación del TTPa con TP normal",
-      "title": "Patrón coagulación: TTPa prolongado, TP normal",
-      "contentHtml": "<h2>Patrón de coagulación</h2><ul><li>Hallazgo clave: tiempo de tromboplastina parcial activado (TTPa) prolongado con tiempo de protrombina (TP) normal y plaquetas normales.</li><li>El TTPa explora la vía intrínseca (factores VIII, IX, XI, XII); el TP explora la vía extrínseca (factor VII).</li><li>La hemofilia A alarga el TTPa de forma proporcional a la severidad; en hemofilia leve el TTPa puede ser normal.</li><li>Diagnóstico diferencial de TTPa prolongado con TP normal: hemofilia A, hemofilia B, enfermedad de von Willebrand, déficit de factor XI, anticoagulante lúpico (TTPa prolongado que no corrige con plasma).</li><li>Prueba de mezcla: en hemofilia corrige con plasma normal; el anticoagulante lúpico no corrige.</li></ul>"
+      "foco": "Tiempo de tromboplastina parcial activado prolongado",
+      "title": "Tiempo de tromboplastina parcial activado prolongado",
+      "contentHtml": "<h2>Tiempo de tromboplastina parcial activado prolongado</h2><ul><li>El tiempo de tromboplastina parcial activado explora la vía intrínseca (factores VIII, IX, XI, XII) y la vía común; en hemofilia A está <b>prolongado</b>.</li><li>Es el primer tamizaje anormal en un paciente con sangrado y sospecha de hemofilia.</li><li>La prolongación es proporcional a la gravedad: en hemofilia grave suele superar el rango de referencia en más de 2 veces.</li><li>Diagnóstico diferencial de tiempo de tromboplastina parcial activado prolongado con tiempo de protrombina normal: déficit de factor VIII, IX, XI o XII, enfermedad de von Willebrand, inhibidor lúpico y anticoagulante circulante.</li><li>Trampa: el tiempo de tromboplastina parcial activado normal no descarta hemofilia leve.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Hemartrosis de rodilla recurrente",
-      "title": "Hemartrosis recurrente",
-      "contentHtml": "<h2>Hemartrosis recurrente</h2><ul><li>La hemartrosis es la manifestación hemorrágica más frecuente y característica de la hemofilia A grave.</li><li>La rodilla es la articulación más afectada, seguida de codo y tobillo; el sangrado intraarticular produce dolor, aumento de volumen y limitación funcional.</li><li>La hemartrosis recurrente desencadena sinovitis crónica, hipertrofia sinovial y artropatía hemofílica con destrucción cartilaginosa.</li><li>Hallazgo clave: derrame articular con densidad hemática en la artrocentesis; se recomienda no puncionar si el diagnóstico es claro y se puede tratar con factor.</li><li>Trampa: la hemartrosis espontánea en varón joven obliga a descartar hemofilia.</li></ul>"
+      "foco": "Tiempo de protrombina y plaquetas normales",
+      "title": "Tiempo de protrombina y plaquetas normales",
+      "contentHtml": "<h2>Tiempo de protrombina y plaquetas normales</h2><ul><li>El tiempo de protrombina explora la vía extrínseca (factor VII) y la vía común; en hemofilia A es <b>normal</b> porque el factor VIII no participa en ella.</li><li>El recuento de plaquetas y la morfología plaquetaria son normales; no hay trombocitopenia ni disfunción plaquetaria primaria.</li><li>El tiempo de sangría es normal en hemofilia A, a diferencia de los trastornos plaquetarios o de von Willebrand.</li><li>Patrón de laboratorio clásico: <b>tiempo de tromboplastina parcial activado prolongado con tiempo de protrombina y plaquetas normales</b>.</li><li>Trampa de examen: un tiempo de protrombina prolongado con plaquetas normales orienta a déficit de factor VII o warfarina, no a hemofilia A.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Diagnóstico: factor VIII disminuido",
-      "title": "Confirmación diagnóstica",
-      "contentHtml": "<h2>Confirmación diagnóstica</h2><ul><li>El diagnóstico se confirma con la medición de la actividad del factor VIII coagulante (factor VIII:C) mediante prueba de coagulación.</li><li>Valor normal de factor VIII:C: 50-150% de la actividad normal.</li><li>En hemofilia A el factor VIII:C está disminuido de forma proporcional a la gravedad clínica.</li><li>Se debe descartar enfermedad de von Willebrand (déficit de factor von Willebrand) antes de etiquetar hemofilia A leve, pues puede cursar con factor VIII disminuido.</li><li>El estudio molecular del gen del factor VIII confirma la mutación y permite consejo genético.</li></ul>"
+      "foco": "Hemartrosis de rodilla presentación clásica",
+      "title": "Hemartrosis de rodilla como presentación clásica",
+      "contentHtml": "<h2>Hemartrosis de rodilla: presentación clásica</h2><ul><li>La <b>hemartrosis</b> (sangrado intraarticular) es la manifestación hemorrágica más característica y frecuente de la hemofilia A grave.</li><li>La <b>rodilla</b> es la articulación más afectada, seguida de codo y tobillo.</li><li>Clínica: dolor agudo, aumento de volumen, limitación funcional y posición antiálgica en flexión; puede haber fiebre leve por reabsorción de sangre.</li><li>El sangrado recurrente desencadena sinovitis crónica y <b>artropatía hemofílica</b> con destrucción cartilaginosa.</li><li>Hallazgo clave: derrame articular con densidad hemática en la artrocentesis; la radiografía inicial puede ser normal y la resonancia magnética detecta sinovitis y daño cartilaginoso precoz.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Clasificación según nivel de factor VIII",
-      "title": "Clasificación por severidad",
-      "contentHtml": "<h2>Clasificación según nivel de factor VIII</h2><ul><li>Hemofilia grave: actividad de factor VIII &lt;1% de lo normal; sangrados espontáneos y hemartrosis recurrentes.</li><li>Hemofilia moderada: actividad de factor VIII entre 1% y 5%; sangrados tras traumatismo menor o cirugía.</li><li>Hemofilia leve: actividad de factor VIII entre 5% y 40%; sangrados solo tras traumatismo mayor o procedimientos invasivos.</li><li>La clasificación orienta la profilaxis y el tratamiento a demanda.</li><li>Trampa: un nivel de factor VIII &gt;40% no descarta portadora; en mujeres portadoras el nivel puede ser normal.</li></ul>"
+      "foco": "Diagnóstico confirmado con niveles de factor VIII",
+      "title": "Confirmación diagnóstica con niveles de factor VIII",
+      "contentHtml": "<h2>Diagnóstico confirmado con niveles de factor VIII</h2><ul><li>El diagnóstico de hemofilia A se confirma con la <b>medición de la actividad del factor VIII de coagulación</b> (factor VIII:C), no con pruebas globales.</li><li>Se expresa como porcentaje de actividad respecto a un pool normal o en unidades internacionales por mililitro.</li><li>Clasificación: <b>grave &lt;1%</b>, <b>moderada 1-5%</b>, <b>leve &gt;5-40%</b> de actividad.</li><li>Debe descartarse enfermedad de von Willebrand (el factor de von Willebrand estabiliza el factor VIII) y descartar inhibidor con prueba de mezclas.</li><li>Trampa: en recién nacidos los valores de factor VIII son fisiológicamente bajos; interpretar con rangos por edad.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Tratamiento: concentrado de factor VIII",
-      "title": "Tratamiento con concentrado de factor VIII",
-      "contentHtml": "<h2>Tratamiento con concentrado de factor VIII</h2><ul><li>El tratamiento de elección en hemofilia A es la reposición con concentrado de factor VIII (plasmático o recombinante).</li><li>Dosis orientativa: 1 unidad/kg de factor VIII eleva la actividad aproximadamente 2% (0,02 UI/mL).</li><li>En hemartrosis aguda se busca nivel de factor VIII del 30-50%; en cirugía mayor se requieren niveles &gt;80-100%.</li><li>El tratamiento puede ser a demanda (episodios hemorrágicos) o profiláctico (infusiones periódicas para prevenir sangrados).</li><li>Trampa: el concentrado de factor VIII no corrige la hemofilia B (déficit de factor IX).</li></ul>"
+      "foco": "Crioprecipitado y desmopresina en tratamiento",
+      "title": "Crioprecipitado y desmopresina en el tratamiento",
+      "contentHtml": "<h2>Crioprecipitado y desmopresina en tratamiento</h2><ul><li>El <b>crioprecipitado</b> es rico en factor VIII, fibrinógeno y factor de von Willebrand; se usó históricamente para reponer factor VIII cuando no hay concentrado disponible.</li><li>La <b>desmopresina</b> (acetato de desmopresina) libera factor VIII y factor de von Willebrand desde los depósitos endoteliales; se administra por vía intravenosa, subcutánea o intranasal.</li><li>Dosis orientativa de desmopresina: <b>0,3 microgramos por kilogramo</b> intravenoso, con pico de factor VIII a los 30-60 minutos.</li><li>El tratamiento de primera línea actual es el <b>concentrado de factor VIII</b> (plasmático o recombinante) para reposición específica.</li><li>Trampa: el crioprecipitado no se recomienda de rutina por riesgo transfusional y por no permitir dosificación precisa del factor VIII.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Desmopresina en hemofilia A leve",
-      "title": "Desmopresina en hemofilia A leve",
-      "contentHtml": "<h2>Desmopresina en hemofilia A leve</h2><ul><li>La desmopresina (acetato de desmopresina) libera factor VIII y factor von Willebrand desde los depósitos endoteliales.</li><li>Indicada en hemofilia A leve (actividad de factor VIII &gt;5%) para sangrados menores o procedimientos odontológicos.</li><li>Dosis habitual: 0,3 microgramos/kg por vía intravenosa o subcutánea; también existe presentación intranasal.</li><li>No es eficaz en hemofilia grave ni en hemofilia moderada con niveles muy bajos de factor VIII.</li><li>Trampa: la desmopresina puede causar taquifilaxia e hiponatremia por retención hídrica; vigilar sodio en infusiones repetidas.</li></ul>"
+      "foco": "Desmopresina útil solo en hemofilia A leve",
+      "title": "Desmopresina útil solo en hemofilia A leve",
+      "contentHtml": "<h2>Desmopresina útil solo en hemofilia A leve</h2><ul><li>La <b>desmopresina</b> solo es eficaz en <b>hemofilia A leve</b> (actividad de factor VIII &gt;5-40%), donde eleva transitoriamente el factor VIII 2-4 veces.</li><li>En hemofilia A moderada y grave no hay depósitos suficientes de factor VIII que liberar, por lo que la respuesta es insuficiente.</li><li>Se usa para sangrados menores, procedimientos dentales y cirugía menor en pacientes respondedores.</li><li>Efectos adversos: taquifilaxia con dosis repetidas, hiponatremia por retención hídrica y rubor facial.</li><li>Trampa de examen: la desmopresina no es tratamiento de la hemofilia A grave ni sustituye al concentrado de factor VIII en sangrados mayores.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Inhibidores contra factor VIII complican tratamiento",
-      "title": "Inhibidores contra factor VIII",
-      "contentHtml": "<h2>Inhibidores contra factor VIII</h2><ul><li>Los inhibidores son aloanticuerpos IgG dirigidos contra el factor VIII exógeno que neutralizan su actividad.</li><li>Complican el tratamiento en 20-30% de pacientes con hemofilia A grave, especialmente en las primeras 50 exposiciones al concentrado.</li><li>Sospecha clínica: falta de respuesta a la dosis habitual de factor VIII o sangrado que no cede.</li><li>Diagnóstico: prueba de mezcla que no corrige el TTPa y cuantificación de inhibidores por unidades Bethesda.</li><li>Manejo: agentes bypass (factor VII activado recombinante o complejo protrombínico activado) e inducción de tolerancia inmune.</li></ul>"
+      "foco": "Profilaxis con factor VIII reduce artropatía",
+      "title": "Profilaxis con factor VIII reduce artropatía",
+      "contentHtml": "<h2>Profilaxis con factor VIII reduce artropatía</h2><ul><li>La <b>profilaxis primaria</b> consiste en la administración regular de concentrado de factor VIII para mantener actividad &gt;1% y prevenir hemartrosis.</li><li>Se inicia precozmente, idealmente tras el primer episodio de hemartrosis o antes de los 2-3 años en hemofilia grave.</li><li>Esquema habitual: <b>25-40 unidades internacionales por kilogramo</b> tres veces por semana o en días alternos.</li><li>Objetivo: reducir el número de hemartrosis, preservar la función articular y evitar la <b>artropatía hemofílica</b>.</li><li>Trampa: la profilaxis no erradica el riesgo de inhibidores; requiere vigilancia de la respuesta clínica y de laboratorio.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Evitar AINEs y punción arterial",
-      "title": "Precauciones: AINEs y punción arterial",
-      "contentHtml": "<h2>Precauciones en hemofilia A</h2><ul><li>Evitar antiinflamatorios no esteroideos (AINEs) por su efecto antiagregante plaquetario y riesgo de sangrado gastrointestinal.</li><li>Evitar la punción arterial por riesgo de hematoma y sangrado incontrolable; preferir vía venosa periférica.</li><li>Evitar inyecciones intramusculares; usar vía subcutánea o intravenosa cuando sea posible.</li><li>Antes de procedimientos invasivos (cirugía, endoscopia, extracción dental) se debe administrar factor VIII de forma profiláctica.</li><li>Trampa: el ácido acetilsalicílico está contraindicado por el mismo motivo que los AINEs.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Profilaxis para prevenir artropatía hemofílica",
-      "title": "Profilaxis y artropatía",
-      "contentHtml": "<h2>Profilaxis para prevenir artropatía hemofílica</h2><ul><li>La profilaxis primaria consiste en infusiones regulares de concentrado de factor VIII para mantener niveles &gt;1% y prevenir hemartrosis.</li><li>Se inicia en hemofilia grave antes de los 3 años o tras la primera hemartrosis, según guías.</li><li>Objetivo: prevenir la artropatía hemofílica (sinovitis crónica, destrucción articular y discapacidad).</li><li>La profilaxis secundaria se usa tras hemartrosis recurrentes para reducir el daño articular.</li><li>Trampa: la profilaxis no cura la enfermedad; reduce la frecuencia de sangrados y la progresión de la artropatía.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Crioprecipitado como alternativa de factor VIII",
-      "title": "Crioprecipitado como alternativa",
-      "contentHtml": "<h2>Crioprecipitado como alternativa de factor VIII</h2><ul><li>El crioprecipitado contiene factor VIII, factor von Willebrand, fibrinógeno y factor XIII.</li><li>Se usa como alternativa cuando no hay concentrado de factor VIII disponible.</li><li>Una unidad de crioprecipitado aporta aproximadamente 80-100 unidades de factor VIII.</li><li>Limitaciones: riesgo de transmisión de infecciones, sobrecarga de volumen y menor concentración que los concentrados.</li><li>Trampa: el plasma fresco congelado también aporta factor VIII pero en menor concentración; el crioprecipitado es más concentrado en factor VIII.</li></ul>"
+      "foco": "Complicación: inhibidores contra factor VIII",
+      "title": "Inhibidores contra factor VIII",
+      "contentHtml": "<h2>Complicación: inhibidores contra factor VIII</h2><ul><li>Los <b>inhibidores</b> son anticuerpos neutralizantes dirigidos contra el factor VIII que aparecen en un 20-30% de pacientes con hemofilia A grave.</li><li>Se sospechan cuando el paciente deja de responder al concentrado de factor VIII o presenta sangrados recurrentes pese a dosis adecuadas.</li><li>Se detectan y cuantifican con la <b>prueba de Bethesda</b> (título en unidades Bethesda); &gt;0,6 unidades Bethesda por mililitro define inhibidor.</li><li>Factores de riesgo: hemofilia grave, mutaciones nulas, edad temprana al inicio del tratamiento y antecedente familiar.</li><li>Manejo: agentes bypass (factor VII activado recombinante o complejo protrombínico activado) e inducción de tolerancia inmunológica.</li></ul>"
     }
   ]
 }

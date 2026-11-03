@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Fisiopatología del esfínter esofágico inferior",
-      "title": "Fisiopatología del EEI",
-      "contentHtml": "<h2>Fisiopatología del EEI</h2><ul><li>El <b>esfínter esofágico inferior</b> (EEI) es una zona de alta presión (10-30 mmHg) que previene el reflujo; su relajación transitoria inapropiada es el mecanismo predominante en la enfermedad por reflujo gastroesofágico.</li><li>La hipotonía basal del EEI (<10 mmHg) y el acortamiento intraabdominal del esófago (<1 cm) favorecen el reflujo patológico.</li><li>El <b>ángulo de His</b> (ángulo agudo entre esófago y estómago) y el <b>ligamento frenoesofágico</b> contribuyen a la competencia antirreflujo; su alteración (ej: hernia hiatal) predispone a enfermedad por reflujo gastroesofágico.</li><li>La <b>presión intraabdominal</b> elevada (obesidad, embarazo) y el vaciamiento gástrico retardado aumentan el gradiente gastroesofágico.</li></ul>"
+      "foco": "Pirosis y regurgitación como síntomas típicos",
+      "title": "Síntomas típicos de reflujo gastroesofágico",
+      "contentHtml": "<h2>Pirosis y regurgitación</h2><ul><li><b>Pirosis:</b> sensación de ardor retroesternal ascendente; síntoma cardinal, &gt;2 episodios/semana sugiere enfermedad por reflujo gastroesofágico.</li><li><b>Regurgitación:</b> retorno pasivo del contenido gástrico a la faringe; si es ácida, confirma reflujo, si es alimentaria indica vaciamiento gástrico alterado.</li><li>Diagnóstico diferencial: dolor torácico de origen coronario, esofagitis eosinofílica, acalasia, dispepsia funcional.</li><li>Trampa: la ausencia de pirosis no descarta reflujo; ancianos pueden presentar tos o disfagia como único síntoma.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Clasificación de Los Ángeles de esofagitis",
-      "title": "Clasificación de Los Ángeles",
-      "contentHtml": "<h2>Clasificación de Los Ángeles de esofagitis</h2><ul><li><b>Grado A:</b> una o más erosiones ≤5 mm en longitud, no confluyentes.</li><li><b>Grado B:</b> una o más erosiones >5 mm, no confluyentes.</li><li><b>Grado C:</b> erosiones confluyentes que afectan <75% de la circunferencia esofágica.</li><li><b>Grado D:</b> erosiones confluyentes que afectan ≥75% de la circunferencia esofágica.</li><li>La clasificación correlaciona con la severidad de la exposición ácida; grado C/D son predictores de falla a tratamiento médico y mayor riesgo de complicaciones.</li></ul>"
+      "foco": "ERGE erosiva vs no erosiva en endoscopia",
+      "title": "ERGE erosiva vs no erosiva",
+      "contentHtml": "<h2>Endoscopia en enfermedad por reflujo gastroesofágico</h2><ul><li><b>ERGE erosiva:</b> presencia de erosiones o úlceras en la unión gastroesofágica; se clasifica con <b>clasificación de Los Ángeles</b>.</li><li><b>ERGE no erosiva:</b> síntomas típicos sin lesiones endoscópicas; requiere confirmación con pH-metría o prueba terapéutica.</li><li>Hallazgo clave: <b>línea Z</b> irregular o ascenso de la unión escamocolumnar &gt;2 cm sugiere esófago de Barrett, no solo reflujo.</li><li>Trampa: endoscopia normal no descarta reflujo; hasta 70% de pacientes con síntomas tienen ERGE no erosiva.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Indicaciones de endoscopia en enfermedad por reflujo gastroesofágico",
-      "title": "Indicaciones de endoscopia",
-      "contentHtml": "<h2>Indicaciones de endoscopia en enfermedad por reflujo gastroesofágico</h2><ul><li>Síntomas de alarma: <b>disfagia</b>, <b>odinofagia</b>, <b>pérdida de peso involuntaria</b>, <b>anemia</b>, <b>hemorragia digestiva</b>, <b>masa epigástrica</b>.</li><li>Fracaso terapéutico tras 4-8 semanas de <b>IBP a dosis estándar</b>.</li><li>enfermedad por reflujo gastroesofágico crónica (>5 años) en varones >50 años con factores de riesgo para <b>esófago de Barrett</b> (obesidad, hernia hiatal, síntomas nocturnos).</li><li>Evaluación prequirúrgica para cirugía antirreflujo, para descartar complicaciones o esófago de Barrett.</li><li>No indicada en enfermedad por reflujo gastroesofágico típica sin síntomas de alarma ni factores de riesgo.</li></ul>"
+      "foco": "Manometría para descartar trastorno motor",
+      "title": "Manometría esofágica",
+      "contentHtml": "<h2>Manometría esofágica de alta resolución</h2><ul><li>Indicación: descartar trastorno motor antes de cirugía antirreflujo o en síntomas atípicos.</li><li>Hallazgo clave: <b>presión del esfínter esofágico inferior &lt;6 mmHg</b> o <b>peristalsis ausente</b> orientan a reflujo grave o acalasia.</li><li>Permite clasificar la motilidad con <b>clasificación de Chicago</b> (v4.0).</li><li>Trampa: no diagnostica reflujo; solo evalúa la barrera antirreflujo y descarta acalasia antes de cirugía.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Prueba de pH-metría de 24 horas",
-      "title": "pH-metría de 24 horas",
-      "contentHtml": "<h2>Prueba de pH-metría de 24 horas</h2><ul><li>Gold standard para diagnóstico de enfermedad por reflujo gastroesofágico en pacientes con síntomas típicos sin esofagitis (ERNE) o con síntomas atípicos.</li><li>Parámetro clave: <b>porcentaje de tiempo con pH <4</b>; patológico si >6% en 24 horas.</li><li>Se mide con catéter transnasal o cápsula inalámbrica (Bravo); la cápsula permite mayor tolerancia y registro prolongado (48-96 h).</li><li>Índice de <b>Symptom Association Probability (SAP)</b> >95% o <b>Índice de síntomas (SI)</b> >50% confirman relación temporal entre reflujo y síntomas.</li><li>Útil para evaluar respuesta a IBP (pH-metría on therapy) y candidatura quirúrgica.</li></ul>"
+      "foco": "pH-metría ambulatoria de 24 horas",
+      "title": "pH-metría ambulatoria",
+      "contentHtml": "<h2>pH-metría de 24 horas</h2><ul><li>Estándar de oro para cuantificar exposición ácida; se realiza sin inhibidor de bomba de protones al menos 7 días antes.</li><li>Hallazgo clave: <b>pH &lt;4 durante &gt;4.2% del tiempo total</b> (o &gt;6% en posición erecta) confirma reflujo patológico.</li><li>Se combina con impedanciometría para reflujo no ácido.</li><li>Trampa: un estudio normal no descarta reflujo si el paciente está con inhibidor de bomba de protones; suspenderlo antes.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Tratamiento con inhibidores de bomba de protones",
-      "title": "Tratamiento con IBP",
-      "contentHtml": "<h2>Tratamiento con inhibidores de bomba de protones</h2><ul><li><b>Primera línea</b> en enfermedad por reflujo gastroesofágico erosiva y no erosiva; dosis estándar: <b>omeprazol 20 mg</b>, <b>pantoprazol 40 mg</b>, <b>esomeprazol 40 mg</b> una vez al día, 30-60 min antes del desayuno.</li><li>En esofagitis severa (LA C/D) o síntomas refractarios: dosis doble (ej: omeprazol 20 mg cada 12 h) por 8-12 semanas.</li><li>No usar <b>IBP a demanda</b> en esofagitis erosiva; indicar mantenimiento con la menor dosis eficaz para prevenir recaídas.</li><li>Efectos adversos a largo plazo: <b>osteoporosis</b>, <b>deficiencia de vitamina B12</b>, <b>infección por Clostridium difficile</b>, <b>neumonía adquirida en la comunidad</b>; riesgo bajo pero considerar en terapia prolongada.</li></ul>"
+      "foco": "Prueba de inhibidor de bomba de protones",
+      "title": "Prueba terapéutica con inhibidor de bomba de protones",
+      "contentHtml": "<h2>Prueba de inhibidor de bomba de protones</h2><ul><li>Consiste en inhibidor de bomba de protones a dosis estándar por <b>8 semanas</b>; respuesta completa orienta a enfermedad por reflujo gastroesofágico.</li><li>Se considera positiva si hay remisión de pirosis &gt;50% en 2 semanas.</li><li>Útil en pacientes sin signos de alarma y endoscopia no realizada.</li><li>Trampa: no confirma diagnóstico; falsos positivos por efecto placebo y falsos negativos en ERGE no erosiva.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Diagnóstico diferencial: con dolor torácico",
-      "title": "Dolor torácico: diagnóstico diferencial",
-      "contentHtml": "<h2>Diagnóstico diferencial con dolor torácico</h2><ul><li>Descartar primero causa cardíaca: <b>angina</b> e <b>infarto agudo de miocardio</b> con ECG, troponinas y prueba de esfuerzo.</li><li>enfermedad por reflujo gastroesofágico produce dolor retroesternal quemante, postprandial o nocturno, que mejora con antiácidos o <b>IBP</b>.</li><li>Otras causas esofágicas: <b>espasmo esofágico difuso</b> (dolor opresivo, disfagia intermitente, manometría anormal), <b>acalasia</b> (disfagia, regurgitación, esofagograma con pico de pájaro).</li><li><b>Pericarditis</b>: dolor punzante, posición antálgica, roce pericárdico, elevación difusa del ST.</li><li><b>Dolor musculoesquelético</b>: reproducible a la palpación, sin relación con comidas.</li></ul>"
+      "foco": "IBP antes de las comidas por 8 semanas",
+      "title": "Pauta de inhibidor de bomba de protones",
+      "contentHtml": "<h2>Inhibidor de bomba de protones: administración</h2><ul><li>Primera línea: <b>omeprazol 20 mg</b>, <b>esomeprazol 20-40 mg</b> o <b>pantoprazol 40 mg</b> antes del desayuno.</li><li>Administrar <b>30-60 minutos antes de la comida</b> para máxima inhibición de la bomba de protones.</li><li>Duración inicial: <b>8 semanas</b>; luego retirar o mantener a la dosis mínima eficaz.</li><li>Trampa: no administrar con alimentos ni junto a antiácidos; el efecto depende de la activación de la bomba.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Esofagitis eosinofílica vs enfermedad por reflujo gastroesofágico",
-      "title": "Esofagitis eosinofílica vs enfermedad por reflujo gastroesofágico",
-      "contentHtml": "<h2>Esofagitis eosinofílica vs enfermedad por reflujo gastroesofágico</h2><ul><li><b>Esofagitis eosinofílica</b> (EoE): disfagia, impactación alimentaria, atopia; biopsia >15 eosinófilos/campo de gran aumento.</li><li>enfermedad por reflujo gastroesofágico: pirosis, regurgitación; biopsia <7 eos/CGA, con respuesta a <b>IBP</b>.</li><li>Prueba de <b>IBP</b>: en EoE no hay mejoría completa; la pH-metría puede mostrar reflujo ácido normal.</li><li>EoE se asocia a alergias alimentarias; tratamiento: <b>corticoides tópicos deglutidos</b> (fluticasona, budesonida) y dietas de exclusión.</li><li>Trampa examen: no confundir; la EoE puede coexistir con enfermedad por reflujo gastroesofágico, pero el tratamiento difiere.</li></ul>"
+      "foco": "Esofagitis por reflujo: clasificación de Los Ángeles",
+      "title": "Clasificación de Los Ángeles",
+      "contentHtml": "<h2>Esofagitis por reflujo: clasificación de Los Ángeles</h2><ul><li>Grado A: una o más erosiones &lt;5 mm que no se extienden entre pliegues.</li><li>Grado B: una o más erosiones &gt;5 mm que no se extienden entre pliegues.</li><li>Grado C: erosiones que se extienden entre dos o más pliegues pero &lt;75% de la circunferencia.</li><li>Grado D: erosiones que afectan &gt;75% de la circunferencia.</li><li>Trampa: el grado no correlaciona con la intensidad de los síntomas; el grado D tiene mayor riesgo de estenosis y esófago de Barrett.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Complicaciones: esófago de Barrett",
+      "foco": "Esófago de Barrett y vigilancia endoscópica",
       "title": "Esófago de Barrett",
-      "contentHtml": "<h2>Complicaciones: esófago de Barrett</h2><ul><li>Metaplasia intestinal en esófago distal (<b>epitelio columnar con células caliciformes</b>) como respuesta a reflujo crónico.</li><li>Factor de riesgo principal: enfermedad por reflujo gastroesofágico crónica (>5 años), varón, >50 años, hernia hiatal, obesidad central.</li><li>Clasificación de Praga: longitud circunferencial (C) y máxima (M) de metaplasia; ej: C2M5.</li><li>Riesgo de adenocarcinoma esofágico: 0.1-0.5% anual; displasia de bajo grado (LGD) y alto grado (HGD) aumentan el riesgo.</li><li>Vigilancia endoscópica: sin displasia cada 3-5 años; LGD cada 6-12 meses; HGD considerar resección endoscópica o esofaguectomía.</li></ul>"
+      "contentHtml": "<h2>Esófago de Barrett</h2><ul><li>Definición: metaplasia intestinal con células caliciformes en el esófago distal, confirmada por biopsia.</li><li>Vigilancia: sin displasia, endoscopia cada <b>3-5 años</b>; displasia de bajo grado, cada <b>6-12 meses</b>; displasia de alto grado, terapia ablativa o esofagectomía.</li><li>Hallazgo clave: <b>línea Z &gt;1 cm</b> por encima de la unión gastroesofágica obliga a biopsias.</li><li>Trampa: el reflujo crónico &gt;5 años es el principal factor de riesgo; la vigilancia no se hace en todos los pacientes con reflujo.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Síntomas atípicos y extraesofágicos",
-      "title": "Síntomas atípicos y extraesofágicos",
-      "contentHtml": "<h2>Síntomas atípicos y extraesofágicos</h2><ul><li>Manifestaciones extraesofágicas: <b>tos crónica</b>, <b>laringitis posterior</b>, <b>asma</b>, <b>erosiones dentales</b>, <b>sinusitis</b>, <b>globus faríngeo</b>.</li><li>Mecanismo: reflujo proximal con microaspiraciones o reflejo vagal esofagobronquial.</li><li>Diagnóstico: pH-metría de 24 horas con impedanciometría (detecta reflujo ácido y no ácido).</li><li>Tratamiento: <b>IBP a dosis doble</b> durante 2-3 meses; si no hay respuesta, revalorar (descartar otras causas como alergia o disfunción de cuerdas vocales).</li><li>Trampa: la respuesta a IBP en síntomas extraesofágicos es menos predecible que en síntomas típicos.</li></ul>"
+      "foco": "ERGE refractario: optimizar dosis de IBP",
+      "title": "ERGE refractario",
+      "contentHtml": "<h2>ERGE refractario</h2><ul><li>Definición: síntomas persistentes tras <b>8 semanas</b> de inhibidor de bomba de protones a dosis estándar.</li><li>Primer paso: verificar adherencia y administración <b>30-60 minutos antes de la comida</b>; luego duplicar dosis o cambiar a otro inhibidor de bomba de protones.</li><li>Si no responde: pH-metría con impedanciometría para diferenciar reflujo ácido, no ácido o funcional.</li><li>Trampa: no aumentar dosis sin confirmar adherencia; el reflujo biliar y la hipersensibilidad visceral no responden a inhibidor de bomba de protones.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Maniobra de Bernstein para diagnóstico",
-      "title": "Maniobra de Bernstein",
-      "contentHtml": "<h2>Maniobra de Bernstein para diagnóstico</h2><ul><li>Prueba de perfusión ácida: infundir alternativamente solución salina y ácido clorhídrico 0.1 N en esófago distal.</li><li>Positiva si el paciente reproduce el dolor torácico con la infusión de ácido y no con salina.</li><li>Sensibilidad ~80% y especificidad ~90% para enfermedad por reflujo gastroesofágico; actualmente en desuso por disponibilidad de pH-metría e impedanciometría.</li><li>Útil en contexto de dolor torácico no cardíaco cuando otras pruebas son no concluyentes.</li><li>No diferencia enfermedad por reflujo gastroesofágico de esofagitis eosinofílica ni cuantifica exposición ácida; solo evalúa sensibilidad esofágica al ácido.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Criterios de cirugía antirreflujo",
-      "title": "Criterios de cirugía antirreflujo",
-      "contentHtml": "<h2>Criterios de cirugía antirreflujo</h2><ul><li>Indicación principal: enfermedad por reflujo gastroesofágico confirmada por pH-metría con respuesta parcial o mala tolerancia a <b>IBP</b> a largo plazo.</li><li>Candidatos ideales: hernia hiatal grande (>5 cm), esofagitis erosiva LA C/D, regurgitación severa, deseo de evitar medicación crónica.</li><li>Contraindicaciones: trastorno de motilidad esofágica severo (ej: acalasia, esclerodermia), obesidad mórbida (preferir <b>bypass gástrico</b>), edad avanzada con comorbilidad.</li><li>Evaluación prequirúrgica obligatoria: endoscopia, pH-metría de 24 horas, manometría esofágica de alta resolución.</li><li>Procedimiento estándar: <b>funduplicatura de Nissen</b> (360°); alternativa: <b>Toupet</b> (270°) si hipomotilidad esofágica.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Papel de Helicobacter pylori en enfermedad por reflujo gastroesofágico",
-      "title": "Helicobacter pylori y enfermedad por reflujo gastroesofágico",
-      "contentHtml": "<h2>Papel de Helicobacter pylori en enfermedad por reflujo gastroesofágico</h2><ul><li><b>Helicobacter pylori</b> tiene efecto dual: cepas CagA+ reducen el reflujo al inducir gastritis atrófica (hipoclorhidria), mientras que su erradicación puede empeorar la enfermedad por reflujo gastroesofágico en pacientes con pangastritis.</li><li>No se recomienda erradicación rutinaria solo por enfermedad por reflujo gastroesofágico; se erradica según indicaciones de consenso (enfermedad ulcerosa, MALT, riesgo de cáncer gástrico).</li><li>En pacientes con enfermedad por reflujo gastroesofágico, la erradicación no mejora los síntomas y puede aumentar la incidencia de esofagitis erosiva a corto plazo.</li><li>La relación es controvertida; no hay evidencia para modificar el manejo de enfermedad por reflujo gastroesofágico basado en estado de H. pylori.</li></ul>"
+      "foco": "Complicaciones: estenosis péptica y hemorragia",
+      "title": "Complicaciones de la enfermedad por reflujo gastroesofágico",
+      "contentHtml": "<h2>Estenosis péptica y hemorragia</h2><ul><li><b>Estenosis péptica:</b> disfagia progresiva a sólidos; se trata con dilatación endoscópica y inhibidor de bomba de protones a dosis alta.</li><li><b>Hemorragia:</b> hematemesis o melena por esofagitis erosiva grave; endoscopia urgente y inhibidor de bomba de protones intravenoso.</li><li>Hallazgo clave: <b>estenosis &lt;1 cm</b> o irregular obliga a biopsias para descartar malignidad.</li><li>Trampa: la estenosis péptica es benigna pero requiere descartar cáncer esofágico en &gt;40 años con disfagia.</li></ul>"
     }
   ]
 }

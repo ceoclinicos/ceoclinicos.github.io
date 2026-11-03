@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Clasificación por TFG y albuminuria",
-      "title": "Clasificación por TFG y albuminuria",
-      "contentHtml": "<h2>Clasificación por TFG y albuminuria</h2><ul><li>La enfermedad renal crónica se clasifica según la tasa de filtración glomerular (TFG) en estadios: G1 (TFG ≥90 ml/min/1,73m²), G2 (TFG 60-89), G3a (TFG 45-59), G3b (TFG 30-44), G4 (TFG 15-29) y G5 (TFG &lt;15).</li><li>La albuminuria se categoriza en A1 (&lt;30 mg/g de creatinina), A2 (30-300 mg/g) y A3 (&gt;300 mg/g).</li><li>El riesgo de progresión y complicaciones se determina combinando el estadio G y la categoría A, según las guías <b>KDIGO</b>.</li><li>La albuminuria es un marcador de daño renal y predictor de eventos cardiovasculares, independientemente de la TFG.</li></ul>"
+      "foco": "TFGe <60 por >3 meses define ERC",
+      "title": "Definición de enfermedad renal crónica",
+      "contentHtml": "<h2>Definición de enfermedad renal crónica</h2><ul><li>Enfermedad renal crónica: anomalía estructural o funcional renal presente &gt;3 meses con implicaciones para la salud.</li><li>Criterio funcional: tasa de filtración glomerular estimada (TFGe) &lt;60 ml/min/1,73 m² durante &gt;3 meses.</li><li>Criterio estructural: albuminuria (cociente albúmina/creatinina urinaria &gt;30 mg/g), alteración del sedimento, imagen o biopsia, independientemente de la TFGe.</li><li>Trampa de examen: una TFGe &lt;60 aislada sin confirmación &gt;3 meses no define enfermedad renal crónica (puede ser lesión renal aguda o variación).</li><li>Estadificación por TFGe: G1 ≥90, G2 60-89, G3a 45-59, G3b 30-44, G4 15-29, G5 &lt;15 ml/min/1,73 m².</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Causas más frecuentes: diabetes e HTA",
-      "title": "Causas más frecuentes",
-      "contentHtml": "<h2>Causas más frecuentes: diabetes e hipertensión arterial</h2><ul><li>La <b>diabetes mellitus</b> es la causa principal de enfermedad renal crónica en el mundo, responsable hasta del 40% de los casos incidentes en diálisis.</li><li>La <b>hipertensión arterial</b> es la segunda causa más frecuente; el control estricto de la presión arterial (&lt;130/80 mmHg) retrasa la progresión.</li><li>La nefropatía diabética se caracteriza por albuminuria persistente y descenso progresivo de la TFG; el <b>control glucémico</b> intensivo reduce el riesgo de microalbuminuria.</li><li>En hipertensión arterial, la nefroangiosclerosis produce daño isquémico glomerular; los <b>inhibidores del sistema renina-angiotensina-aldosterona</b> son la primera línea para nefroprotección.</li></ul>"
+      "foco": "Albuminuria A2-A3 estratifica riesgo renal",
+      "title": "Albuminuria como estratificador de riesgo",
+      "contentHtml": "<h2>Albuminuria como estratificador de riesgo</h2><ul><li>Categorías de albuminuria por cociente albúmina/creatinina urinaria: A1 &lt;30 mg/g (normal), A2 30-300 mg/g (moderadamente aumentada), A3 &gt;300 mg/g (severamente aumentada).</li><li>La albuminuria A2-A3 confiere riesgo renal y cardiovascular independiente de la tasa de filtración glomerular estimada.</li><li>El mapa de calor KDIGO combina categoría G (filtrado) y A (albuminuria); A3G4-A3G5 son riesgo muy alto de progresión.</li><li>Primera línea para reducir albuminuria: inhibidor del sistema renina-angiotensina (IECA o ARA II) a dosis máxima tolerada, si no hay contraindicación.</li><li>Trampa: confirmar albuminuria persistente en ≥2 de 3 muestras en 3-6 meses; descartar ejercicio, fiebre, infección urinaria e insuficiencia cardíaca antes de etiquetar A2-A3.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Criterios de derivación a nefrología",
-      "title": "Derivación a nefrología",
-      "contentHtml": "<h2>Criterios de derivación a nefrología</h2><ul><li>Se debe derivar a nefrología cuando la tasa de filtración glomerular (TFG) es &lt;30 ml/min/1,73m² (estadio G4 o G5).</li><li>También cuando hay descenso rápido de la TFG (&gt;5 ml/min/1,73m²/año) o aumento significativo de albuminuria (&gt;300 mg/g).</li><li>Otras indicaciones: proteinuria nefrótica (&gt;3,5 g/24h), hematuria glomerular persistente, hipertensión arterial de difícil control, sospecha de glomerulonefritis rápidamente progresiva.</li><li>La derivación temprana mejora la planificación de terapia de reemplazo renal y reduce la mortalidad asociada a enfermedad renal crónica.</li></ul>"
+      "foco": "Causa más frecuente: diabetes mellitus",
+      "title": "Etiología más frecuente de enfermedad renal crónica",
+      "contentHtml": "<h2>Etiología más frecuente de enfermedad renal crónica</h2><ul><li>La diabetes mellitus es la causa más frecuente de enfermedad renal crónica y de enfermedad renal terminal en países desarrollados.</li><li>Nefropatía diabética: albuminuria persistente, retinopatía diabética asociada y descenso progresivo de la tasa de filtración glomerular estimada.</li><li>Tamizaje en diabetes mellitus: cociente albúmina/creatinina urinaria y tasa de filtración glomerular estimada al menos anual.</li><li>Primera línea de protección renal en diabetes mellitus tipo 2 con albuminuria: inhibidor del sistema renina-angiotensina; añadir inhibidor del cotransportador sodio-glucosa tipo 2 (iSGLT2) si tasa de filtración glomerular estimada ≥20 ml/min/1,73 m².</li><li>Trampa: la diabetes mellitus tipo 1 suele requerir 10-15 años de evolución para nefropatía; la tipo 2 puede presentarla al diagnóstico.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Anemia por déficit de eritropoyetina",
-      "title": "Anemia por déficit de eritropoyetina",
-      "contentHtml": "<h2>Anemia por déficit de eritropoyetina</h2><ul><li>La anemia en enfermedad renal crónica es normocítica normocrómica, por déficit de producción renal de <b>eritropoyetina</b>.</li><li>Se inicia tratamiento con <b>agentes estimulantes de la eritropoyesis</b> (ej. epoetina alfa) cuando la hemoglobina es &lt;10 g/dL, ajustando para mantener entre 10-12 g/dL.</li><li>Antes de iniciar, se deben descartar otras causas: déficit de hierro, vitamina B12, ácido fólico, sangrado oculto e inflamación.</li><li>El hierro intravenoso (sacarato de hierro) es la primera línea si la saturación de transferrina es &lt;30% o ferritina &lt;200 ng/mL.</li></ul>"
+      "foco": "Segunda causa: hipertensión arterial",
+      "title": "Hipertensión arterial como segunda causa",
+      "contentHtml": "<h2>Hipertensión arterial como segunda causa</h2><ul><li>La hipertensión arterial es la segunda causa de enfermedad renal crónica y la primera causa de enfermedad renal terminal después de la diabetes mellitus.</li><li>Nefroesclerosis hipertensiva: riñones de tamaño reducido, superficie irregular, sin albuminuria masiva ni retinopatía.</li><li>Diagnóstico diferencial con nefropatía diabética: en hipertensión arterial predomina daño vascular, sin retinopatía diabética ni neuropatía.</li><li>Meta de presión arterial en enfermedad renal crónica con albuminuria: &lt;130/80 mmHg, individualizando en ancianos y fragilidad.</li><li>Trampa: la hipertensión arterial maligna (presión diastólica &gt;120 mmHg con retinopatía grado III-IV) es una urgencia, no enfermedad renal crónica establecida.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Hiperpotasemia y acidosis metabólica",
-      "title": "Hiperpotasemia y acidosis metabólica",
-      "contentHtml": "<h2>Hiperpotasemia y acidosis metabólica</h2><ul><li>La hiperpotasemia (potasio &gt;5,5 mEq/L) en enfermedad renal crónica se debe a disminución de excreción renal y uso de fármacos como <b>inhibidores del sistema renina-angiotensina-aldosterona</b>.</li><li>Manejo agudo: gluconato de calcio intravenoso para estabilizar membrana cardíaca, insulina + glucosa, beta-agonistas inhalados y resinas de intercambio (p. ej. poliestireno sulfonato de sodio).</li><li>La acidosis metabólica con anión gap normal (hiperclorémica) es frecuente cuando la TFG &lt;30 ml/min; el bicarbonato sérico debe mantenerse &gt;22 mEq/L.</li><li>El tratamiento con bicarbonato de sodio oral (0,5-1 mEq/kg/día) retrasa la progresión de la enfermedad renal crónica y mejora el estado nutricional.</li></ul>"
+      "foco": "Fórmula CKD-EPI para estimar TFG",
+      "title": "Estimación de la tasa de filtración glomerular",
+      "contentHtml": "<h2>Estimación de la tasa de filtración glomerular</h2><ul><li>Fórmula CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration): usa creatinina sérica, edad, sexo y raza (versión 2009) o sin raza (versión 2021, preferida).</li><li>La ecuación CKD-EPI 2021 sin raza es la recomendada por KDIGO y la Sociedad Americana de Nefrología.</li><li>Ventaja frente a MDRD (Modification of Diet in Renal Disease): mayor precisión en tasas de filtración glomerular estimada &gt;60 ml/min/1,73 m².</li><li>No usar en lesión renal aguda, embarazo, niños, extremos de masa muscular ni amputados; en esos casos, aclaramiento de creatinina en orina de 24 horas o cistatina C.</li><li>Trampa: la fórmula CKD-EPI subestima la tasa de filtración glomerular en personas con masa muscular alta y la sobreestima en caquécticos.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Indicaciones de diálisis urgente",
-      "title": "Indicaciones de diálisis urgente",
-      "contentHtml": "<h2>Indicaciones de diálisis urgente</h2><ul><li>Las indicaciones absolutas de diálisis urgente son: <b>hiperpotasemia grave</b> (&gt;6,5 mEq/L) con cambios electrocardiográficos, <b>acidosis metabólica severa</b> (pH &lt;7,1) refractaria a tratamiento médico, <b>edema agudo de pulmón</b> resistente a diuréticos.</li><li>Otras indicaciones: <b>pericarditis urémica</b> (frote pericárdico, dolor torácico), <b>encefalopatía urémica</b> (confusión, asterixis, convulsiones), <b>hemorragia digestiva</b> por disfunción plaquetaria urémica.</li><li>En síndrome urémico, la urea sérica &gt;200 mg/dL suele acompañar a las indicaciones clínicas.</li><li>La diálisis peritoneal de urgencia está contraindicada si hay cirugía abdominal reciente o peritonitis activa.</li></ul>"
+      "foco": "Anemia normocítica por déficit de eritropoyetina",
+      "title": "Anemia de la enfermedad renal crónica",
+      "contentHtml": "<h2>Anemia de la enfermedad renal crónica</h2><ul><li>Anemia normocítica normocrómica por déficit relativo de eritropoyetina producida por fibroblastos peritubulares renales.</li><li>Aparece típicamente con tasa de filtración glomerular estimada &lt;60 ml/min/1,73 m²; es más frecuente e intensa en estadios G4-G5.</li><li>Estudio inicial: hemograma, ferritina, índice de saturación de transferencia, vitamina B12 y ácido fólico para descartar otras causas.</li><li>Tratamiento: corregir déficit de hierro (ferritina &lt;100 ng/ml o índice de saturación de transferencia &lt;20%) antes de agentes estimulantes de la eritropoyesis.</li><li>Trampa: no transfundir de forma rutinaria; la anemia normocítica en enfermedad renal crónica no responde a hierro oral si hay inflamación, usar hierro intravenoso.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Manejo de trastorno mineral óseo",
-      "title": "Trastorno mineral óseo",
-      "contentHtml": "<h2>Manejo de trastorno mineral óseo</h2><ul><li>El trastorno mineral óseo de la enfermedad renal crónica se caracteriza por alteraciones del calcio, fósforo, hormona paratiroidea (PTH) y vitamina D.</li><li>Se debe mantener el <b>fósforo sérico</b> entre 2,5-4,5 mg/dL; si está elevado, se indica restricción dietética y <b>quelantes de fósforo</b> (carbonato de calcio, sevelámero, lantano).</li><li>La <b>PTH intacta</b> debe mantenerse entre 2-9 veces el valor normal según el estadio; si está elevada, se usan <b>análogos de vitamina D</b> (calcitriol, paricalcitol) o calcimiméticos (cinacalcet).</li><li>Evitar hipercalcemia con quelantes cálcicos; en estadio G5 se prefiere sevelámero o lantano para evitar calcificación vascular.</li></ul>"
+      "foco": "Hiperfosfatemia con hipocalcemia en estadios avanzados",
+      "title": "Trastorno mineral óseo en estadios avanzados",
+      "contentHtml": "<h2>Trastorno mineral óseo en estadios avanzados</h2><ul><li>En estadios G4-G5, la reducción de la excreción renal de fósforo produce hiperfosfatemia.</li><li>La hiperfosfatemia se une al calcio iónico y forma fosfato cálcico, generando hipocalcemia.</li><li>La hipocalcemia estimula la secreción de hormona paratiroidea (hiperparatiroidismo secundario) y favorece osteítis fibrosa quística.</li><li>Manejo: restricción dietética de fósforo, quelantes de fósforo (carbonato cálcico, sevelamer) con las comidas y calcitriol o análogos en hiperparatiroidismo secundario.</li><li>Trampa: la hipocalcemia en enfermedad renal crónica avanzada no siempre requiere calcio intravenoso; priorizar control del fósforo y de la hormona paratiroidea.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Cálculo de TFG por CKD-EPI",
-      "title": "Cálculo de TFG por CKD-EPI",
-      "contentHtml": "<h2>Cálculo de TFG por CKD-EPI</h2><ul><li>La ecuación <b>CKD-EPI</b> (Chronic Kidney Disease Epidemiology Collaboration) estima la tasa de filtración glomerular (TFG) en ml/min/1,73m², siendo más precisa que MDRD en TFG &gt;60.</li><li>Se basa en creatinina sérica, edad, sexo y raza (afroamericano o no).</li><li>La fórmula es: TFG = 141 × min(Cr/κ, 1)^α × max(Cr/κ, 1)^(-1,209) × 0,993^edad × (1,018 si mujer) × (1,159 si raza negra), donde κ=0,7 (mujer) o 0,9 (hombre), α=-0,329 (mujer) o -0,411 (hombre).</li><li>Para reportar, se redondea al entero más cercano; valores &gt;90 no se notifican como exactos sino como '≥90'.</li></ul>"
+      "foco": "Acidosis metabólica con anion gap normal",
+      "title": "Acidosis metabólica hiperclorémica",
+      "contentHtml": "<h2>Acidosis metabólica hiperclorémica</h2><ul><li>Acidosis metabólica con anion gap normal (hiperclorémica) por reducción de la excreción renal de amonio e hidrogeniones.</li><li>Anion gap normal: 8-12 mEq/l; en enfermedad renal crónica avanzada puede aumentar por retención de fosfatos y sulfatos.</li><li>Consecuencias: catabolismo proteico, pérdida de masa ósea, hiperkalemia y progresión de la enfermedad renal crónica.</li><li>Tratamiento: bicarbonato de sodio oral si bicarbonato sérico &lt;22 mEq/l, con objetivo ≥22 mEq/l; dosis inicial 0,5-1 mEq/kg/día.</li><li>Trampa: no confundir con acidosis tubular renal tipo 1 (pH urinario &gt;5,5 con hipokalemia) ni con cetoacidosis (anion gap elevado).</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Prevención de nefrotoxicidad por contraste",
-      "title": "Prevención de nefrotoxicidad por contraste",
-      "contentHtml": "<h2>Prevención de nefrotoxicidad por contraste</h2><ul><li>La nefropatía por contraste se define como aumento de creatinina sérica &gt;0,3 mg/dL o &gt;50% del basal dentro de 48-72 horas tras administración de contraste yodado.</li><li>La principal medida preventiva es la <b>hidratación intravenosa</b> con solución salina isotónica (1 ml/kg/hora) 12 horas antes y después del procedimiento.</li><li>En pacientes con TFG &lt;30 ml/min/1,73m² se debe evitar el contraste yodado si es posible; si es indispensable, usar <b>contraste isoosmolar</b> y mínimo volumen.</li><li>La <b>N-acetilcisteína</b> (600 mg cada 12 horas, vía oral, antes y después) tiene evidencia controvertida; no se recomienda universalmente como estándar.</li></ul>"
+      "foco": "Hiperkalemia por acidosis y hipoaldosteronismo",
+      "title": "Hiperkalemia en la enfermedad renal crónica",
+      "contentHtml": "<h2>Hiperkalemia en la enfermedad renal crónica</h2><ul><li>Mecanismos: acidosis metabólica (intercambio celular de potasio por hidrogeniones), hipoaldosteronismo hiporreninémico y reducción de la excreción tubular distal de potasio.</li><li>Fármacos que agravan: inhibidores del sistema renina-angiotensina, espironolactona, bloqueadores beta y antiinflamatorios no esteroideos.</li><li>Electrocardiograma: ondas T picudas, ensanchamiento del QRS, pérdida de onda P y patrón sinusoidal con potasio &gt;7 mEq/l.</li><li>Tratamiento agudo: gluconato cálcico intravenoso (estabiliza membrana), insulina con glucosa, salbutamol nebulizado y resinas de intercambio iónico.</li><li>Trampa: la hiperkalemia refractaria a tratamiento médico es indicación de diálisis urgente, aunque no haya síntomas urémicos.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Ajuste de dosis de fármacos",
-      "title": "Ajuste de dosis de fármacos",
-      "contentHtml": "<h2>Ajuste de dosis de fármacos</h2><ul><li>En enfermedad renal crónica, la eliminación renal de fármacos está reducida; se debe ajustar la dosis según la tasa de filtración glomerular (TFG) estimada.</li><li>Fármacos de alto riesgo: <b>metformina</b> (contraindicada si TFG &lt;30 ml/min), <b>anticoagulantes directos</b> (dabigatrán contraindicado si TFG &lt;30), <b>aminoglucósidos</b> (ajuste por TFG y monitoreo de niveles).</li><li>Los <b>inhibidores del sistema renina-angiotensina-aldosterona</b> se mantienen hasta TFG &gt;15 ml/min, pero requieren monitoreo de potasio y creatinina.</li><li>Los opioides como <b>morfina</b> tienen metabolitos activos que se acumulan; se prefiere fentanilo o hidromorfona con ajuste de intervalo.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Nutrición: restricción de proteínas y potasio",
-      "title": "Nutrición: restricción de proteínas y potasio",
-      "contentHtml": "<h2>Nutrición: restricción de proteínas y potasio</h2><ul><li>La restricción de proteínas a 0,6-0,8 g/kg/día en pacientes con TFG &lt;30 ml/min retrasa la progresión de la enfermedad renal crónica y reduce la uremia.</li><li>La ingesta de potasio debe limitarse a &lt;2-3 g/día en hiperpotasemia o TFG &lt;30, evitando alimentos ricos: plátano, naranja, tomate, papas, legumbres.</li><li>El fósforo se restringe a &lt;800 mg/día cuando la PTH está elevada o el fósforo sérico &gt;4,5 mg/dL.</li><li>Se recomienda <b>suplementación de vitaminas hidrosolubles</b> (B1, B6, B12, ácido fólico) y evitar suplementos de vitamina A por riesgo de toxicidad.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Síndrome urémico y pericarditis",
-      "title": "Síndrome urémico y pericarditis",
-      "contentHtml": "<h2>Síndrome urémico y pericarditis</h2><ul><li>El <b>síndrome urémico</b> es el conjunto de síntomas y signos por acumulación de toxinas urémicas cuando la TFG &lt;15 ml/min: náuseas, anorexia, prurito, asterixis, neuropatía periférica, convulsiones.</li><li>La <b>pericarditis urémica</b> es una inflamación del pericardio por irritación química en uremia; se presenta con dolor torácico pleurítico, frote pericárdico y fiebre baja.</li><li>En el electrocardiograma puede haber elevación difusa del segmento ST; el ecocardiograma descarta derrame pericárdico y taponamiento cardíaco.</li><li>El tratamiento es la <b>diálisis urgente</b> (hemodiálisis o diálisis peritoneal); los antiinflamatorios no esteroideos están contraindicados por riesgo de sangrado.</li></ul>"
+      "foco": "Inicio de diálisis por síntomas urémicos o hiperkalemia refractaria",
+      "title": "Indicaciones de inicio de diálisis",
+      "contentHtml": "<h2>Indicaciones de inicio de diálisis</h2><ul><li>Indicaciones de diálisis: síntomas urémicos (náuseas, vómitos, pericarditis, encefalopatía), hiperkalemia refractaria, acidosis metabólica refractaria, sobrecarga de volumen refractaria y tasa de filtración glomerular estimada &lt;5-10 ml/min/1,73 m².</li><li>La urea elevada aislada no es indicación; el criterio es clínico (síntomas urémicos) o de complicación metabólica refractaria.</li><li>Pericarditis urémica y encefalopatía urémica son indicaciones absolutas de diálisis urgente.</li><li>Elección de modalidad: hemodiálisis intermitente o diálisis peritoneal, según preferencia, acceso vascular, función cardíaca y entorno familiar.</li><li>Trampa: iniciar diálisis solo por cifra de creatinina o urea sin síntomas ni complicaciones refractarias no está indicado; la decisión es individualizada.</li></ul>"
     }
   ]
 }

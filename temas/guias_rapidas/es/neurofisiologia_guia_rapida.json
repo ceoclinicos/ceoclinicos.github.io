@@ -1,0 +1,65 @@
+{
+  "id": "neurofisiologia",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Potencial de membrana en reposo y ecuación de Nernst",
+      "title": "Potencial de membrana en reposo y ecuación de Nernst",
+      "contentHtml": "<h2>Potencial de membrana en reposo y ecuación de Nernst</h2><ul><li><b>Potencial de membrana en reposo</b> típico en neurona: <b>-70 mV</b>; determinado por permeabilidad relativa (K+ &gt; Na+) y bomba Na+/K+ ATPasa (3 Na+ fuera / 2 K+ dentro).</li><li><b>Ecuación de Nernst</b>: Eion = (61/z) log([ion]ext/[ion]int) a 37 °C; para K+ ≈ <b>-90 mV</b>, Na+ ≈ <b>+60 mV</b>, Cl- ≈ <b>-70 mV</b>, Ca2+ ≈ <b>+130 mV</b>.</li><li><b>Ecuación de Goldman-Hodgkin-Katz</b> pondera permeabilidades; en reposo P(K+) &gt;&gt; P(Na+), por eso el potencial de membrana en reposo se acerca a E(K+).</li><li>Trampa: hipokalemia hiperpolariza (aumenta gradiente K+); hiperkalemia despolariza y inactiva canales de Na+.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Potencial de acción: despolarización por canales de sodio",
+      "title": "Potencial de acción: despolarización por canales de sodio",
+      "contentHtml": "<h2>Potencial de acción: despolarización por canales de sodio</h2><ul><li>Umbral ≈ <b>-55 mV</b>; apertura de <b>canales de sodio dependientes de voltaje</b> → entrada masiva de Na+ → despolarización rápida hasta ≈ <b>+30 mV</b>.</li><li>Inactivación de canales de Na+ (asas intracelulares) y activación de canales de K+ dependientes de voltaje → repolarización; hiperpolarización por K+ antes de volver al reposo.</li><li><b>Ley del todo o nada</b>: estímulo supraumbral genera potencial de acción completo; la amplitud no codifica intensidad, la frecuencia sí.</li><li>Trampa: tetrodotoxina bloquea canales de Na+; veratridina los mantiene abiertos; la despolarización sostenida causa inactivación y bloqueo de conducción.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Periodo refractario absoluto y relativo",
+      "title": "Periodo refractario absoluto y relativo",
+      "contentHtml": "<h2>Periodo refractario absoluto y relativo</h2><ul><li><b>Periodo refractario absoluto</b>: canales de Na+ inactivados; ningún estímulo genera nuevo potencial de acción; limita frecuencia máxima y asegura dirección unidireccional.</li><li><b>Periodo refractario relativo</b>: repolarización parcial; estímulo supraumbral mayor puede generar potencial de acción; coincide con hiperpolarización por K+.</li><li>La duración del periodo refractario determina la <b>frecuencia máxima de descarga</b>; en axones mielinizados es menor por conducción saltatoria.</li><li>Trampa: en el periodo refractario relativo el potencial de acción evocado tiene menor amplitud y umbral más alto; no confundir con periodo refractario absoluto.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Conducción saltatoria en fibras mielinizadas",
+      "title": "Conducción saltatoria en fibras mielinizadas",
+      "contentHtml": "<h2>Conducción saltatoria en fibras mielinizadas</h2><ul><li>La mielina (células de Schwann en sistema nervioso periférico, oligodendrocitos en sistema nervioso central) aumenta resistencia de membrana y disminuye capacitancia → conducción saltatoria entre <b>nodos de Ranvier</b>.</li><li>Canales de Na+ concentrados en nodos de Ranvier; velocidad ∝ diámetro axonal y grosor de mielina; fibras Aα (motoras/propiocepción) ≈ <b>70-120 m/s</b>.</li><li>Ventaja: menor gasto energético (menos Na+/K+ ATPasa activa) y mayor velocidad; bloqueo por desmielinización (esclerosis múltiple, síndrome de Guillain-Barré) → conducción lenta o bloqueada.</li><li>Trampa: la desmielinización alarga la constante de tiempo y dispersa la corriente; la conducción continua en fibras amielínicas es lenta (≈ <b>0.5-2 m/s</b>).</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Sinapsis química: liberación de neurotransmisor por calcio",
+      "title": "Sinapsis química: liberación de neurotransmisor por calcio",
+      "contentHtml": "<h2>Sinapsis química: liberación de neurotransmisor por calcio</h2><ul><li>Llegada del potencial de acción → apertura de <b>canales de calcio dependientes de voltaje</b> tipo P/Q y N en terminal presináptica → entrada de Ca2+ → fusión de vesículas mediada por <b>SNARE</b> (sinaptobrevina, sintaxina, SNAP-25).</li><li>Exocitosis del neurotransmisor a la hendidura sináptica (≈ <b>20-40 nm</b>); unión a receptores postsinápticos ionotrópicos o metabotrópicos.</li><li>Toxina botulínica cliva SNAP-25/sintaxina → inhibe liberación de acetilcolina; tétanos bloquea sinaptobrevina → espasmo.</li><li>Trampa: la liberación es dependiente de Ca2+ extracelular; déficit de calcio o bloqueo de canales reduce transmisión; la latencia sináptica es ≈ <b>0.5 ms</b>.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Sumación temporal y espacial en neurona postsinaptica",
+      "title": "Sumación temporal y espacial en neurona postsinaptica",
+      "contentHtml": "<h2>Sumación temporal y espacial en neurona postsinaptica</h2><ul><li><b>Sumación temporal</b>: potenciales postsinapticos excitatorios sucesivos en la misma sinapsis, con intervalo menor que la constante de tiempo de membrana, se suman hasta alcanzar umbral.</li><li><b>Sumación espacial</b>: potenciales postsinapticos excitatorios simultáneos en distintas sinapsis del mismo árbol dendrítico se suman en el cono axónico.</li><li>La integración ocurre en el <b>cono axónico</b> (zona de disparo); los potenciales postsinapticos excitatorios son graduados y decrecientes con la distancia.</li><li>Trampa: la inhibición postsinaptica (potenciales postsinapticos inhibitorios) puede cancelar la sumación excitatoria por hiperpolarización o cortocircuito; no confundir con inhibición presináptica.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Potenciales excitatorios e inhibitorios postsinapticos",
+      "title": "Potenciales excitatorios e inhibitorios postsinapticos",
+      "contentHtml": "<h2>Potenciales excitatorios e inhibitorios postsinapticos</h2><ul><li><b>Potencial postsinaptico excitatorio</b>: despolarización por apertura de canales catiónicos (Na+/K+), típicamente glutamato en receptores AMPA/NMDA; aumenta probabilidad de potencial de acción.</li><li><b>Potencial postsinaptico inhibitorio</b>: hiperpolarización por apertura de canales de Cl- (GABA-A) o K+ (GABA-B); disminuye probabilidad de potencial de acción.</li><li>Ambos son graduados, sumables y no propagados; su efecto depende del potencial de membrana y de la conductancia.</li><li>Trampa: el potencial de reversión del cloruro puede ser menos negativo que el reposo en algunas neuronas, generando efecto excitatorio paradójico; no asumir siempre inhibición.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Neurotransmisores: acetilcolina, dopamina y GABA",
+      "title": "Neurotransmisores: acetilcolina, dopamina y GABA",
+      "contentHtml": "<h2>Neurotransmisores: acetilcolina, dopamina y GABA</h2><ul><li><b>Acetilcolina</b>: síntesis por colina acetiltransferasa; degradada por acetilcolinesterasa; receptores nicotínicos (ionotrópicos) y muscarínicos (metabotrópicos M1-M5); en placa motora y sistema nervioso autónomo.</li><li><b>Dopamina</b>: síntesis desde tirosina → L-DOPA → dopamina; receptores D1-D5; vías nigroestriada, mesolímbica, mesocortical y tuberoinfundibular; déficit en enfermedad de Parkinson, exceso en psicosis.</li><li><b>Ácido gamma-aminobutírico</b>: principal inhibidor del sistema nervioso central; receptores GABA-A (canal de Cl-) y GABA-B (proteína G); benzodiacepinas y barbitúricos potencian GABA-A.</li><li>Trampa: inhibidores de acetilcolinesterasa aumentan acetilcolina (fármacos como donepezilo, neostigmina); no confundir con agonistas colinérgicos directos.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Sistema nervioso autónomo: receptores alfa y beta",
+      "title": "Sistema nervioso autónomo: receptores alfa y beta",
+      "contentHtml": "<h2>Sistema nervioso autónomo: receptores alfa y beta</h2><ul><li><b>Receptores alfa-1</b>: vasoconstricción, midriasis, contracción del esfínter uretral; acoplados a proteína Gq → aumento de calcio intracelular.</li><li><b>Receptores alfa-2</b>: inhibición presináptica de liberación de noradrenalina; sedación y analgesia; acoplados a proteína Gi.</li><li><b>Receptores beta-1</b>: aumento de frecuencia y contractilidad cardíaca; <b>beta-2</b>: broncodilatación, vasodilatación, relajación uterina; <b>beta-3</b>: lipólisis.</li><li>Trampa: agonistas beta-2 (salbutamol) causan taquicardia refleja y temblor; antagonistas beta-1 selectivos (atenolol) reducen riesgo broncoespasmo frente a no selectivos (propranolol).</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Reflejo miotático y órgano tendinoso de Golgi",
+      "title": "Reflejo miotático y órgano tendinoso de Golgi",
+      "contentHtml": "<h2>Reflejo miotático y órgano tendinoso de Golgi</h2><ul><li><b>Reflejo miotático</b>: estiramiento muscular activa husos musculares (fibras Ia) → contracción homónima y relajación antagonista; monosináptico; base del reflejo rotuliano (L2-L4).</li><li><b>Órgano tendinoso de Golgi</b>: receptor de tensión en unión miotendinosa, fibras Ib → inhibición de motoneurona alfa homónima (reflejo miotático inverso); protege de sobrecarga.</li><li>Huso muscular: fibras intrafusales con terminaciones anuloespirales (Ia) y en ramillete (II); motoneuronas gamma ajustan sensibilidad.</li><li>Trampa: lesión de neurona motora superior → hiperreflexia y clonus; neurona motora inferior → hiporreflexia y atrofia; el órgano tendinoso de Golgi media inhibición, no excitación.</li></ul>"
+    }
+  ]
+}

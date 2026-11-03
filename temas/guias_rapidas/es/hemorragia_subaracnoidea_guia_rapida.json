@@ -4,74 +4,62 @@
     {
       "order": 1,
       "foco": "Cefalea súbita en trueno, peor de la vida",
-      "title": "Cefalea en trueno: bandera roja",
-      "contentHtml": "<h2>Cefalea súbita en trueno</h2><ul><li><b>Cefalea en trueno:</b> dolor de intensidad máxima en &lt;1 minuto; la causa grave más frecuente es hemorragia subaracnoidea por ruptura de aneurisma sacular.</li><li><b>Diagnóstico diferencial:</b> hemorragia subaracnoidea, trombosis venosa cerebral, disección arterial cervical, síndrome de vasoconstricción cerebral reversible, apoplejía hipofisaria, hemorragia intracerebral.</li><li><b>Dato preguntable:</b> cefalea “peor de la vida” con rigidez de nuca, vómito y fotofobia; hasta 50% de hemorragias subaracnoideas menores no tienen déficit focal.</li><li><b>Trampa:</b> cefalea centinela días antes en 10-40% por sangrado leve; no tranquiliza una exploración neurológica normal.</li></ul>"
+      "title": "Cefalea en trueno: definición y abordaje",
+      "contentHtml": "<h2>Cefalea súbita en trueno, peor de la vida</h2><ul><li><b>Cefalea en trueno:</b> dolor de intensidad máxima en &lt;1 minuto; el paciente la refiere como <b>la peor de la vida</b> (bandera roja absoluta).</li><li>Diagnóstico diferencial: hemorragia subaracnoidea, trombosis venosa cerebral, disección arterial cervical, síndrome de vasoconstricción cerebral reversible, apoplejía hipofisaria, crisis hipertensiva.</li><li>Toda cefalea en trueno exige estudio urgente con tomografía computarizada sin contraste; si es negativa y persiste la sospecha, punción lumbar.</li><li>Trampa de examen: la cefalea centinela (días antes) es un dato clave de hemorragia subaracnoidea aneurismática.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Tomografía sin contraste es el estudio inicial",
-      "title": "Tomografía inicial sin contraste",
-      "contentHtml": "<h2>Tomografía sin contraste como primera prueba</h2><ul><li><b>Primera línea:</b> tomografía computarizada de cráneo sin contraste; detecta sangre subaracnoidea hiperdensa en cisuras, surcos y cisternas basales.</li><li><b>Sensibilidad:</b> &gt;95% en las primeras 6 horas; cae a ~50% a los 5 días por degradación de hemoglobina.</li><li><b>Hallazgo clave:</b> hiperdensidad en cisterna supraselar, silviana o interhemisférica; el patrón topográfico orienta al aneurisma.</li><li><b>Trampa:</b> tomografía normal no descarta hemorragia subaracnoidea si la clínica es típica; obliga a punción lumbar si no hay contraindicación.</li></ul>"
+      "foco": "TC sin contraste primera prueba diagnóstica",
+      "title": "Tomografía computarizada sin contraste",
+      "contentHtml": "<h2>Tomografía computarizada sin contraste como primera prueba</h2><ul><li><b>Tomografía computarizada sin contraste:</b> primera prueba diagnóstica en sospecha de hemorragia subaracnoidea; detecta sangre hiperdensa en cisternas, surcos y espacio subaracnoideo.</li><li>Sensibilidad &gt;95% en las primeras 6 horas; disminuye con el tiempo (aproximadamente 50% al día 7).</li><li>Escala de Fisher modificada: grado 1 sin sangre; grado 2 &lt;1 mm; grado 3 &gt;1 mm; grado 4 hematoma intraventricular o intraparenquimatoso; mayor grado, mayor riesgo de vasoespasmo.</li><li>Trampa: una tomografía computarizada sin contraste negativa en las primeras 6 horas con exploración neurológica normal puede permitir diferir la punción lumbar en centros con experiencia.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Líquido cefalorraquídeo xantocrómico confirma",
+      "foco": "Líquido cefalorraquídeo xantocrómico si TC negativa",
       "title": "Punción lumbar y xantocromía",
-      "contentHtml": "<h2>Líquido cefalorraquídeo xantocrómico</h2><ul><li><b>Xantocromía:</b> tinción amarillenta por bilirrubina tras degradación de hemoglobina; confirma hemorragia subaracnoidea cuando la tomografía no es diagnóstica.</li><li><b>Ventana:</b> aparece a las 6-12 horas y persiste hasta 2-4 semanas; es más sensible y específica que la simple presencia de hematíes.</li><li><b>Técnica:</b> punción lumbar tras descartar contraindicación; muestra con &gt;3 tubos que no aclaran o líquido xantocrómico apoya hemorragia.</li><li><b>Trampa:</b> punción traumática con hematíes que aclaran no confirma; la espectrofotometría para bilirrubina es la referencia.</li></ul>"
+      "contentHtml": "<h2>Líquido cefalorraquídeo xantocrómico si tomografía computarizada negativa</h2><ul><li>Si la tomografía computarizada sin contraste es negativa y la sospecha persiste, realizar punción lumbar &gt;12 horas tras el inicio del dolor.</li><li><b>Xantocromía:</b> pigmento amarillento por bilirrubina derivada de la degradación de hemoglobina; aparece a las 12 horas y persiste hasta 2 semanas; es el hallazgo más específico.</li><li>La punción lumbar traumática muestra eritrocitos que disminuyen en los tubos sucesivos y no genera xantocromía; la hemorragia subaracnoidea verdadera mantiene el mismo número de eritrocitos en todos los tubos.</li><li>Trampa: la espectrofotometría para bilirrubina es superior a la inspección visual para detectar xantocromía.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "TC negativa no descarta: punción lumbar",
-      "title": "Tomografía negativa: punción lumbar",
-      "contentHtml": "<h2>Tomografía negativa no descarta hemorragia</h2><ul><li><b>Regla:</b> si la tomografía computarizada sin contraste es negativa y la cefalea en trueno es reciente, se realiza punción lumbar a partir de las 6-12 horas del inicio.</li><li><b>Momento:</b> antes de 6 horas la xantocromía puede ser negativa; esperar reduce falsos negativos.</li><li><b>Hallazgo clave:</b> líquido cefalorraquídeo xantocrómico o hematíes que no aclaran en tubos sucesivos confirma; si es negativo y persiste sospecha, repetir tomografía o angiografía.</li><li><b>Trampa:</b> no iniciar punción lumbar antes de 6 horas ni sin descartar hipertensión intracraneal con riesgo de herniación.</li></ul>"
+      "foco": "Hemorragia subaracnoidea aneurismática por aneurisma sacular",
+      "title": "Aneurisma sacular y hemorragia subaracnoidea",
+      "contentHtml": "<h2>Hemorragia subaracnoidea aneurismática por aneurisma sacular</h2><ul><li><b>Aneurisma sacular:</b> dilatación focal de la pared arterial por defecto de la capa media; causa más frecuente de hemorragia subaracnoidea no traumática (aproximadamente 80%).</li><li>Localización habitual en polígono de Willis: arteria comunicante anterior, arteria comunicante posterior, arteria cerebral media y bifurcación de arteria basilar.</li><li>Factores de riesgo: tabaquismo, hipertensión arterial, consumo de cocaína, poliquistosis renal autosómica dominante, síndrome de Marfan, antecedente familiar.</li><li>Trampa: la hemorragia subaracnoidea perimesencefálica no aneurismática tiene buen pronóstico y no requiere angiografía repetida si el patrón es típico.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Hemorragia por ruptura de aneurisma sacular",
-      "title": "Aneurisma sacular roto",
-      "contentHtml": "<h2>Ruptura de aneurisma sacular</h2><ul><li><b>Causa:</b> 80-85% de hemorragias subaracnoideas no traumáticas por ruptura de aneurisma sacular; típico en bifurcaciones del polígono de Willis.</li><li><b>Localización:</b> arteria comunicante anterior la más frecuente, seguida de comunicante posterior y arteria cerebral media.</li><li><b>Fisiopatología:</b> sangre en espacio subaracnoideo eleva presión intracraneal y produce irritación meníngea; el resangrado precoz es la complicación más temida.</li><li><b>Trampa:</b> aneurismas micóticos, traumáticos o disecciones son causas menos frecuentes; la distribución de sangre en tomografía orienta la arteria afectada.</li></ul>"
+      "foco": "Ruptura de aneurisma de arteria comunicante anterior",
+      "title": "Aneurisma de arteria comunicante anterior",
+      "contentHtml": "<h2>Ruptura de aneurisma de arteria comunicante anterior</h2><ul><li><b>Aneurisma de arteria comunicante anterior:</b> localización más frecuente de aneurisma intracraneal roto; se asocia a mayor riesgo de resangrado precoz.</li><li>Clínica: hemiparesia contralateral por compromiso de arterias lenticuloestriadas, alteración del estado mental, mutismo acinético por lesión frontal.</li><li>Puede producir hematoma intraparenquimatoso frontal y hemorragia intraventricular con hidrocefalia aguda.</li><li>Trampa: la arteria comunicante anterior irriga ambos lóbulos frontales; la lesión puede causar déficit frontal (desinhibición, abulia) sin focalidad motora evidente.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Hipertensión arterial como principal factor de riesgo",
-      "title": "Hipertensión: factor de riesgo",
-      "contentHtml": "<h2>Hipertensión arterial como principal factor de riesgo</h2><ul><li><b>Factor de riesgo:</b> hipertensión arterial es el modificable más importante; también tabaquismo, alcohol, cocaína y poliquistosis renal autosómica dominante.</li><li><b>Riesgo no modificable:</b> edad avanzada, sexo femenino, antecedente familiar de aneurisma y síndrome de Marfan o displasia fibromuscular.</li><li><b>Fisiopatología:</b> presión arterial elevada crónica degrada la pared arterial y favorece formación y ruptura del aneurisma sacular.</li><li><b>Trampa:</b> el control tensional reduce riesgo de ruptura, pero no lo anula; la cefalea en trueno exige estudio urgente aunque la presión arterial sea normal.</li></ul>"
+      "foco": "Nimodipino previene vasoespasmo y déficit isquémico",
+      "title": "Nimodipino en hemorragia subaracnoidea",
+      "contentHtml": "<h2>Nimodipino previene vasoespasmo y déficit isquémico</h2><ul><li><b>Nimodipino:</b> antagonista de canales de calcio dihidropiridínico que mejora el pronóstico neurológico en hemorragia subaracnoidea aneurismática.</li><li>Dosis: <b>60 mg por vía oral o enteral cada 4 horas durante 21 días</b>; en paciente no colaborador, 0.5-1 mg/kg/hora intravenoso (preferible por vía oral para evitar hipotensión).</li><li>No previene la angiografía de vasoespasmo de grandes arterias, pero reduce el déficit isquémico y la mortalidad.</li><li>Trampa: la hipotensión arterial por nimodipino intravenoso puede agravar la isquemia cerebral; vigilar presión arterial.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Riesgo de resangrado máximo en primeras 24 horas",
-      "title": "Resangrado precoz",
-      "contentHtml": "<h2>Resangrado en las primeras 24 horas</h2><ul><li><b>Riesgo:</b> máximo en las primeras 24 horas, hasta 4-15%; mortalidad del resangrado &gt;50%.</li><li><b>Manejo:</b> estabilización, control estricto de presión arterial y tratamiento precoz del aneurisma (clipaje quirúrgico o embolización endovascular) para prevenirlo.</li><li><b>Escala:</b> el resangrado empeora la escala de Hunt y Hess y la escala de Fisher; condiciona pronóstico.</li><li><b>Trampa:</b> el resangrado no se previene solo con nimodipino; este fármaco previene vasoespasmo, no resangrado.</li></ul>"
+      "foco": "Vasoespasmo entre días 3 y 14, pico día 7",
+      "title": "Vasoespasmo cerebral: cronología",
+      "contentHtml": "<h2>Vasoespasmo entre días 3 y 14, pico día 7</h2><ul><li><b>Vasoespasmo cerebral:</b> estrechamiento arterial por contracción del músculo liso y proliferación de la íntima; aparece entre los días 3 y 14, con pico al día 7.</li><li>Es la principal causa de déficit isquémico diferido y de mortalidad en pacientes que sobreviven al evento inicial.</li><li>Vigilancia: Doppler transcraneal con velocidades medias &gt;120 cm/s en arteria cerebral media sugieren vasoespasmo; confirmar con angiografía.</li><li>Trampa: el vasoespasmo angiográfico puede ser asintomático; solo el déficit isquémico diferido tiene impacto clínico.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Nimodipino previene vasoespasmo y déficit isquémico",
-      "title": "Nimodipino: prevención de vasoespasmo",
-      "contentHtml": "<h2>Nimodipino</h2><ul><li><b>Indicación:</b> todo paciente con hemorragia subaracnoidea por aneurisma; reduce déficit isquémico tardío y mejora pronóstico.</li><li><b>Dosis:</b> <b>60 mg vía oral cada 4 horas durante 21 días</b>; si no tolera vía oral, <b>15 mg/hora intravenoso</b>.</li><li><b>Mecanismo:</b> antagonista de calcio con preferencia cerebrovascular; previene vasoespasmo y déficit isquémico.</li><li><b>Trampa:</b> no revierte vasoespasmo establecido ni previene resangrado; hipotensión es su efecto adverso relevante.</li></ul>"
+      "foco": "Hidrocefalia aguda por obstrucción del flujo LCR",
+      "title": "Hidrocefalia aguda en hemorragia subaracnoidea",
+      "contentHtml": "<h2>Hidrocefalia aguda por obstrucción del flujo de líquido cefalorraquídeo</h2><ul><li><b>Hidrocefalia aguda:</b> complicación por obstrucción del flujo de líquido cefalorraquídeo por coágulos en ventrículos o cisternas basales; ocurre en las primeras 24-72 horas.</li><li>Clínica: deterioro del estado de conciencia, cefalea persistente, vómitos; la tomografía computarizada muestra dilatación ventricular con edema transependimario.</li><li>Tratamiento: derivación ventricular externa para drenaje de líquido cefalorraquídeo; no retrasar la reparación del aneurisma.</li><li>Trampa: la hidrocefalia aguda por hemorragia subaracnoidea puede ser el motivo de deterioro neurológico antes que el vasoespasmo.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Vasoespasmo típico entre días 3 y 14",
-      "title": "Vasoespasmo: días 3 a 14",
-      "contentHtml": "<h2>Vasoespasmo entre los días 3 y 14</h2><ul><li><b>Ventana:</b> vasoespasmo típico entre días 3 y 14, máximo en días 6-8; causa déficit isquémico tardío.</li><li><b>Clínica:</b> deterioro neurológico nuevo o fluctuante, confusión o déficit focal; fiebre y leucocitosis pueden precederlo.</li><li><b>Diagnóstico:</b> Doppler transcraneal con velocidades elevadas y angiografía cerebral; tomografía de perfusión muestra hipoperfusión.</li><li><b>Trampa:</b> el vasoespasmo angiográfico no siempre es sintomático; el tratamiento es hemodinámico y endovascular, no solo nimodipino.</li></ul>"
+      "foco": "Reparación precoz del aneurisma reduce resangrado",
+      "title": "Reparación precoz del aneurisma",
+      "contentHtml": "<h2>Reparación precoz del aneurisma reduce resangrado</h2><ul><li><b>Reparación precoz del aneurisma:</b> obliteración del aneurisma en las primeras 24-72 horas mediante clipaje quirúrgico o embolización endovascular con coils.</li><li>Objetivo: reducir el riesgo de resangrado precoz y permitir tratamiento agresivo del vasoespasmo con hemodinamia.</li><li>Elección según localización, tamaño, edad y estado clínico; la embolización endovascular es preferible en aneurismas de circulación posterior y en pacientes de alto riesgo quirúrgico.</li><li>Trampa: el clipaje o la embolización no eliminan el vasoespasmo; el nimodipino se mantiene 21 días.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Hidrocefalia aguda por obstrucción del flujo",
-      "title": "Hidrocefalia aguda",
-      "contentHtml": "<h2>Hidrocefalia aguda</h2><ul><li><b>Mecanismo:</b> obstrucción del flujo de líquido cefalorraquídeo por sangre en ventrículos o cisternas; dilatación ventricular precoz.</li><li><b>Clínica:</b> deterioro del nivel de conciencia, cefalea y vómito; puede aparecer en las primeras 24-72 horas.</li><li><b>Tratamiento:</b> derivación ventricular externa urgente si hay deterioro; la hidrocefalia crónica puede requerir derivación permanente.</li><li><b>Trampa:</b> la dilatación ventricular en tomografía sin deterioro clínico no siempre exige derivación inmediata; correlacionar con escala de Hunt y Hess.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Escala de Hunt y Hess para gravedad clínica",
-      "title": "Escala de Hunt y Hess",
-      "contentHtml": "<h2>Escala de Hunt y Hess</h2><ul><li><b>Grado I:</b> asintomático o cefalea leve y rigidez de nuca leve.</li><li><b>Grado II:</b> cefalea moderada a severa, rigidez de nuca, sin déficit focal salvo parálisis de nervio craneal.</li><li><b>Grado III:</b> somnolencia, confusión o déficit focal leve.</li><li><b>Grado IV:</b> estupor, hemiparesia moderada a severa.</li><li><b>Grado V:</b> coma, postura de descerebración.</li><li><b>Uso:</b> gravedad clínica y pronóstico; se complementa con escala de Fisher o modificada de Fisher en tomografía.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Angiografía cerebral para localizar el aneurisma",
-      "title": "Angiografía cerebral",
-      "contentHtml": "<h2>Angiografía cerebral</h2><ul><li><b>Indicación:</b> localizar el aneurisma sacular y planificar clipaje quirúrgico o embolización endovascular; es el patrón de referencia.</li><li><b>Momento:</b> precoz tras confirmar hemorragia subaracnoidea; la angiografía por tomografía computarizada es alternativa inicial no invasiva.</li><li><b>Hallazgo clave:</b> saco aneurismático en bifurcación del polígono de Willis; la distribución de sangre en tomografía orienta la arteria.</li><li><b>Trampa:</b> angiografía inicial negativa no descarta aneurisma; repetir en 1-2 semanas por vasoespasmo o trombosis del saco.</li></ul>"
+      "foco": "Resangrado precoz con alta mortalidad en primeras 24 horas",
+      "title": "Resangrado precoz: alta mortalidad",
+      "contentHtml": "<h2>Resangrado precoz con alta mortalidad en primeras 24 horas</h2><ul><li><b>Resangrado precoz:</b> nueva ruptura del aneurisma en las primeras 24 horas; incidencia máxima en las primeras 6 horas (aproximadamente 4-15%).</li><li>Mortalidad del resangrado &gt;50-80%; es la complicación más letal y prevenible con reparación precoz del aneurisma.</li><li>Clínica: recurrencia de cefalea en trueno, deterioro del estado de conciencia, nuevas focalidades; confirmar con tomografía computarizada.</li><li>Trampa: el resangrado puede ocurrir antes de la angiografía; no retrasar la reparación por estudios adicionales.</li></ul>"
     }
   ]
 }

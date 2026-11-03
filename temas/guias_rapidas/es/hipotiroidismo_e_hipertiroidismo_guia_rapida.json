@@ -4,74 +4,62 @@
     {
       "order": 1,
       "foco": "TSH elevada con T4 libre baja confirma hipotiroidismo primario",
-      "title": "Diagnóstico de hipotiroidismo primario",
-      "contentHtml": "<h2>Hipotiroidismo primario: TSH elevada + T4 libre baja</h2><ul><li><b>Perfil tiroideo confirmatorio:</b> hormona estimulante de la tiroides (TSH) elevada con tiroxina libre (T4 libre) baja establece hipotiroidismo primario (falla tiroidea).</li><li><b>Fisiopatología:</b> pérdida del retrocontrol negativo tiroideo → hipófisis aumenta TSH; la T4 libre cae por déficit de síntesis.</li><li><b>Diferencial:</b> hipotiroidismo secundario (central) muestra TSH baja o normal con T4 libre baja; no confundir.</li><li><b>Trampa de examen:</b> TSH aislada alta con T4 libre normal = hipotiroidismo subclínico, no primario manifiesto.</li><li><b>Hallazgo clave:</b> en primario, TSH &gt; límite superior y T4 libre &lt; límite inferior del rango del laboratorio.</li></ul>"
+      "title": "Confirmación de hipotiroidismo primario",
+      "contentHtml": "<h2>Hipotiroidismo primario: perfil tiroideo</h2><ul><li><b>TSH elevada con T4 libre baja</b> confirma hipotiroidismo primario.</li><li>La <b>TSH</b> es el marcador más sensible; su elevación precede a la caída de <b>T4 libre</b>.</li><li>Fallo tiroideo primario: la hipófisis aumenta <b>TSH</b> por retroalimentación negativa reducida.</li><li>Si <b>TSH elevada</b> pero <b>T4 libre</b> normal: hipotiroidismo subclínico.</li><li>Si <b>TSH baja o normal</b> con <b>T4 libre baja</b>: sospechar hipotiroidismo central (hipofisario/hipotalámico).</li><li>Trampa: en enfermedad grave no tiroidea, <b>TSH</b> y <b>T4 libre</b> pueden alterarse sin hipotiroidismo verdadero.</li></ul>"
     },
     {
       "order": 2,
       "foco": "Hipotiroidismo subclínico: TSH alta con T4 libre normal",
       "title": "Hipotiroidismo subclínico",
-      "contentHtml": "<h2>Hipotiroidismo subclínico: TSH alta, T4 libre normal</h2><ul><li><b>Definición bioquímica:</b> hormona estimulante de la tiroides (TSH) elevada con tiroxina libre (T4 libre) normal; paciente habitualmente asintomático o con síntomas inespecíficos.</li><li><b>Conducta:</b> repetir perfil en 6-8 semanas antes de etiquetar; descartar causas transitorias (fármacos, enfermedad aguda, embarazo).</li><li><b>Tratamiento:</b> levotiroxina si TSH &gt;10 mUI/L; si TSH 4-10 mUI/L individualizar (síntomas, edad, embarazo, anticuerpos).</li><li><b>Trampa:</b> no tratar solo por TSH limítrofe sin confirmar; el riesgo es sobretratamiento y yatrogenia.</li><li><b>Hallazgo clave:</b> T4 libre dentro de rango con TSH persistentemente alta define subclínico, no manifiesto.</li></ul>"
+      "contentHtml": "<h2>Hipotiroidismo subclínico</h2><ul><li>Definición: <b>TSH alta con T4 libre normal</b>.</li><li>Prevalencia mayor en mujeres y ancianos; frecuente causa autoinmune (tiroiditis de Hashimoto).</li><li>Preguntable: <b>TSH &gt;10 mUI/L</b> suele indicar tratamiento con levotiroxina.</li><li><b>TSH entre 4 y 10 mUI/L</b>: individualizar; tratar si síntomas, embarazo, bocio, anticuerpos anti-TPO positivos o riesgo cardiovascular.</li><li>Repetir perfil en 6-8 semanas antes de decidir, salvo embarazo.</li><li>Trampa: no confundir con hipotiroidismo central, donde <b>TSH</b> no está alta.</li></ul>"
     },
     {
       "order": 3,
       "foco": "Hashimoto: anticuerpos anti-TPO positivos y bocio",
       "title": "Tiroiditis de Hashimoto",
-      "contentHtml": "<h2>Tiroiditis de Hashimoto</h2><ul><li><b>Causa más frecuente</b> de hipotiroidismo primario en áreas con suficiencia de yodo; predominio en mujeres.</li><li><b>Marcador serológico:</b> anticuerpos anti-tiroperoxidasa (anti-TPO) positivos en &gt;90%; anticuerpos anti-tiroglobulina pueden coexistir.</li><li><b>Clínica:</b> bocio difuso no doloroso, consistencia firme; puede evolucionar a atrofia tiroidea.</li><li><b>Diagnóstico:</b> TSH elevada con T4 libre baja (o subclínico) + anti-TPO positivos; ecografía muestra heterogeneidad difusa.</li><li><b>Trampa:</b> anti-TPO negativos no excluyen Hashimoto; el diagnóstico es clínico-serológico.</li><li><b>Hallazgo clave:</b> bocio + anti-TPO positivos + hipotiroidismo = Hashimoto.</li></ul>"
+      "contentHtml": "<h2>Tiroiditis de Hashimoto</h2><ul><li>Causa más común de hipotiroidismo en zonas con yodo suficiente.</li><li>Marcador serológico: <b>anticuerpos anti-TPO positivos</b> (antiperoxidasa tiroidea).</li><li>Puede haber <b>anticuerpos antitiroglobulina</b>, menos específicos.</li><li>Clínica: <b>bocio</b> difuso, firme, indoloro; puede ser atrófico en fases avanzadas.</li><li>Ecografía: tiroides heterogénea, hipoecogénica, con septos fibrosos.</li><li>Trampa: anticuerpos pueden ser negativos en 5-10%; el diagnóstico es clínico-serológico.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Levotiroxina en ayunas 30-60 min antes del desayuno",
-      "title": "Administración de levotiroxina",
-      "contentHtml": "<h2>Levotiroxina: técnica de administración</h2><ul><li><b>Pauta correcta:</b> tomar en ayunas <b>30-60 minutos antes del desayuno</b> con agua; esperar ese intervalo para ingerir alimentos.</li><li><b>Alternativa:</b> al acostarse, al menos 3 horas después de la última comida, si no se tolera la mañana.</li><li><b>Interacciones:</b> calcio, hierro, antiácidos, sucralfato y soja reducen absorción; separar ≥4 horas.</li><li><b>Dosis inicial:</b> adulto joven sano 1.6 mcg/kg/día; anciano o cardiopatía iniciar 12.5-25 mcg/día y titular.</li><li><b>Trampa:</b> tomar con el desayuno o café reduce absorción y simula resistencia; no cambiar marca sin control de TSH.</li></ul>"
+      "foco": "Triada de Hashimoto: bocio, hipotiroidismo y anti-TPO",
+      "title": "Tríada de Hashimoto",
+      "contentHtml": "<h2>Tríada clásica de Hashimoto</h2><ul><li><b>Bocio</b> + <b>hipotiroidismo</b> + <b>anti-TPO</b> positivos.</li><li>El <b>hipotiroidismo</b> puede ser subclínico al inicio: <b>TSH alta con T4 libre normal</b>.</li><li>El <b>bocio</b> es difuso e indoloro; puede evolucionar a atrofia.</li><li>Los <b>anti-TPO</b> confirman autoinmunidad, pero no predicen gravedad.</li><li>Asociación con otras enfermedades autoinmunes: vitíligo, anemia perniciosa, insuficiencia suprarrenal.</li><li>Trampa: la tríada no exige anticuerpos antitiroglobulina.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Ajustar dosis de levotiroxina según TSH cada 6-8 semanas",
-      "title": "Titulación de levotiroxina",
-      "contentHtml": "<h2>Ajuste de dosis de levotiroxina</h2><ul><li><b>Intervalo de control:</b> medir hormona estimulante de la tiroides (TSH) cada <b>6-8 semanas</b> tras iniciar o cambiar dosis; la vida media de la tiroxina exige ese plazo para equilibrio.</li><li><b>Meta:</b> TSH dentro de rango (habitualmente 0.4-4.0 mUI/L); en embarazo y postiroidectomía por cáncer metas específicas.</li><li><b>Ajuste:</b> incrementos de 12.5-25 mcg/día según TSH y clínica; en ancianos cambios más pequeños.</li><li><b>Una vez estable:</b> control anual o antes si síntomas, embarazo o cambio de peso/fármacos.</li><li><b>Trampa:</b> no ajustar por T4 libre aislada si TSH es el parámetro de seguimiento en hipotiroidismo primario.</li></ul>"
+      "foco": "Hipertiroidismo: TSH suprimida con T4/T3 libres altas",
+      "title": "Perfil de hipertiroidismo",
+      "contentHtml": "<h2>Hipertiroidismo: confirmación bioquímica</h2><ul><li><b>TSH suprimida con T4 libre y/o T3 libre altas</b> confirma hipertiroidismo primario.</li><li>La <b>TSH suprimida</b> refleja retroalimentación negativa por exceso de hormona tiroidea.</li><li>Hipertiroidismo por <b>T3</b>: <b>TSH suprimida</b> con <b>T4 libre normal</b> y <b>T3 libre alta</b>.</li><li>Si <b>TSH suprimida</b> con <b>T4 libre y T3 libre normales</b>: hipertiroidismo subclínico.</li><li>Trampa: <b>TSH suprimida</b> con hormonas normales también ocurre en enfermedad grave no tiroidea o uso de glucocorticoides.</li><li>En hipertiroidismo central, <b>TSH</b> no está suprimida (raro).</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Mixedema y coma mixedematoso: emergencia con hipotermia",
-      "title": "Coma mixedematoso",
-      "contentHtml": "<h2>Coma mixedematoso: emergencia endocrina</h2><ul><li><b>Definición:</b> descompensación grave de hipotiroidismo con alteración del estado mental, hipotermia e hipoventilación; mortalidad alta sin tratamiento.</li><li><b>Desencadenantes:</b> infección, cirugía, sedantes, frío, abandono de levotiroxina, insuficiencia cardíaca.</li><li><b>Clínica:</b> hipotermia (&lt;35 °C), bradicardia, hiponatremia, hipoglucemia, edema mixedematoso, íleo, coma.</li><li><b>Tratamiento:</b> levotiroxina intravenosa con carga y mantenimiento + hidrocortisona hasta descartar insuficiencia suprarrenal; soporte ventilatorio y térmico; tratar desencadenante.</li><li><b>Trampa:</b> no esperar resultados hormonales para iniciar tratamiento; la hydrocortisona previa evita crisis suprarrenal.</li></ul>"
+      "foco": "Enfermedad de Graves: oftalmopatía y bocio difuso",
+      "title": "Enfermedad de Graves",
+      "contentHtml": "<h2>Enfermedad de Graves</h2><ul><li>Causa más frecuente de hipertiroidismo.</li><li>Clínica cardinal: <b>oftalmopatía</b> (exoftalmos, retracción palpebral, diplopía) y <b>bocio difuso</b>.</li><li>La <b>oftalmopatía</b> es específica de Graves; no aparece en bocio multinodular tóxico.</li><li>Puede asociar dermopatía pretibial y acropaquia.</li><li>Gammagrafía: captación difusa aumentada.</li><li>Trampa: el <b>bocio difuso</b> con oftalmopatía permite diagnóstico clínico sin anticuerpos.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Hipotiroidismo secundario: TSH baja o normal con T4 baja",
-      "title": "Hipotiroidismo central",
-      "contentHtml": "<h2>Hipotiroidismo secundario (central)</h2><ul><li><b>Perfil:</b> tiroxina libre (T4 libre) baja con hormona estimulante de la tiroides (TSH) baja o inapropiadamente normal; la TSH puede ser bioinactiva.</li><li><b>Causas:</b> adenoma hipofisario, cirugía/radioterapia hipofisaria, síndrome de Sheehan, traumatismo, infiltraciones; a nivel hipotalámico, déficit de hormona liberadora de tirotropina.</li><li><b>Diferencial:</b> en primario la TSH está elevada; en central nunca se guía solo por TSH.</li><li><b>Asociación:</b> buscar otros déficits hipofisarios (suprarrenal, gonadal, hormona de crecimiento) antes de tratar.</li><li><b>Trampa:</b> iniciar levotiroxina sin corregir insuficiencia suprarrenal puede precipitar crisis adrenal.</li></ul>"
+      "foco": "Graves: anticuerpos anti-receptor de TSH positivos",
+      "title": "Anticuerpos anti-receptor de TSH",
+      "contentHtml": "<h2>Graves: autoinmunidad</h2><ul><li><b>Anticuerpos anti-receptor de TSH positivos</b> confirman enfermedad de Graves.</li><li>Son anticuerpos estimulantes que activan el receptor de TSH y producen hipertiroidismo.</li><li>Sensibilidad alta; útiles en embarazo y en oftalmopatía eutiroidea.</li><li>También explican la oftalmopatía por reacción cruzada en fibroblastos orbitarios.</li><li>Trampa: los <b>anti-TPO</b> pueden ser positivos en Graves, pero no son específicos.</li><li>La captación tiroidea elevada diferencia Graves de tiroiditis.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Hipertiroidismo: TSH suprimida con T4 y/o T3 elevadas",
-      "title": "Diagnóstico de hipertiroidismo",
-      "contentHtml": "<h2>Hipertiroidismo: TSH suprimida con T4 y/o T3 elevadas</h2><ul><li><b>Perfil confirmatorio:</b> hormona estimulante de la tiroides (TSH) suprimida (&lt;0.1 mUI/L) con tiroxina libre (T4 libre) y/o triyodotironina (T3) elevadas.</li><li><b>Variantes:</b> hipertiroidismo T3 predominante (T4 libre normal, T3 alta) frecuente en enfermedad de Graves inicial y nódulo tóxico.</li><li><b>Diferencial:</b> TSH suprimida con T4 y T3 normales = hipertiroidismo subclínico; TSH baja con T4 baja = hipotiroidismo central, no hipertiroidismo.</li><li><b>Etiología:</b> enfermedad de Graves, bocio multinodular tóxico, adenoma tóxico, tiroiditis.</li><li><b>Trampa:</b> en embarazo usar rangos gestacionales; la gonadotropina coriónica humana puede suprimir TSH fisiológicamente.</li></ul>"
+      "foco": "Tormenta tiroidea: fiebre, taquicardia y alteración mental",
+      "title": "Tormenta tiroidea",
+      "contentHtml": "<h2>Tormenta tiroidea</h2><ul><li>Emergencia: <b>fiebre</b> alta, <b>taquicardia</b> desproporcionada y <b>alteración mental</b> (agitación, delirio, coma).</li><li>Criterios de Burch-Wartofsky: puntuación &gt;45 sugiere tormenta tiroidea.</li><li>Puede añadir insuficiencia cardíaca, vómitos, diarrea e ictericia.</li><li>Desencadenantes: infección, cirugía, parto, suspensión de antitiroideos, contraste yodado.</li><li>Tratamiento: betabloqueante, tiamazol o propiltiouracilo, yodo tras 1 hora, glucocorticoides y soporte.</li><li>Trampa: no esperar resultados hormonales para iniciar tratamiento.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Enfermedad de Graves: anticuerpos anti-receptor de TSH",
-      "title": "Enfermedad de Graves",
-      "contentHtml": "<h2>Enfermedad de Graves</h2><ul><li><b>Marcador:</b> anticuerpos anti-receptor de hormona estimulante de la tiroides (anti-TSH) positivos; confirman diagnóstico y predicen recaída.</li><li><b>Clínica:</b> bocio difuso, oftalmopatía (exoftalmos, retracción palpebral), mixedema pretibial; puede asociar acropaquia.</li><li><b>Diagnóstico:</b> TSH suprimida con T4 libre/T3 elevadas + anti-TSH positivos; gammagrafía con captación difusa aumentada.</li><li><b>Tratamiento:</b> antitiroideos (tiamazol primera línea), radioyodo o cirugía; betabloqueantes para síntomas adrenérgicos.</li><li><b>Trampa:</b> la oftalmopatía puede empeorar tras radioyodo; considerar corticoides profilácticos en enfermedad ocular activa.</li></ul>"
+      "foco": "Tratamiento de elección en hipotiroidismo: levotiroxina",
+      "title": "Levotiroxina en hipotiroidismo",
+      "contentHtml": "<h2>Tratamiento del hipotiroidismo</h2><ul><li><b>Levotiroxina</b> es el tratamiento de elección (T4 sintética).</li><li>Dosis inicial habitual en adulto joven: <b>1,6 microgramos/kg/día</b>.</li><li>En ancianos o cardiopatía: iniciar <b>25-50 microgramos/día</b> y titular cada 6-8 semanas.</li><li>Tomar en ayunas, 30-60 minutos antes del desayuno; separar de hierro, calcio y antiácidos.</li><li>Control con <b>TSH</b> a las 6-8 semanas; objetivo <b>TSH</b> normal.</li><li>Trampa: en embarazo aumentar dosis 20-30% y controlar <b>TSH</b> cada 4 semanas.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Tormenta tiroidea: taquicardia, fiebre y alteración mental",
-      "title": "Tormenta tiroidea",
-      "contentHtml": "<h2>Tormenta tiroidea</h2><ul><li><b>Definición:</b> hipertiroidismo grave descompensado con disfunción multiorgánica; diagnóstico clínico, no esperar hormonas.</li><li><b>Criterios (escala de Burch-Wartofsky):</b> fiebre &gt;38 °C, taquicardia &gt;130 lpm, alteración del estado mental, insuficiencia cardíaca o gastrointestinal, agitación; puntuación ≥45 sugiere tormenta.</li><li><b>Desencadenantes:</b> infección, cirugía, trauma, parto, suspensión de antitiroideos, contraste yodado.</li><li><b>Tratamiento:</b> tiamazol o propiltiouracilo (este último bloquea conversión periférica), yodo tras 1 hora del antitiroideo, betabloqueante (propranolol), hidrocortisona, soporte y tratar causa.</li><li><b>Trampa:</b> nunca administrar yodo antes del antitiroideo; empeora la hormonogénesis.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Tiamazol como antitiroideo de primera línea; PTU en embarazo",
-      "title": "Antitiroideos: elección",
-      "contentHtml": "<h2>Antitiroideos: tiamazol y propiltiouracilo</h2><ul><li><b>Primera línea (no embarazo):</b> tiamazol por menor hepatotoxicidad y vida media más larga; dosis inicial 10-30 mg/día según severidad.</li><li><b>Embarazo:</b> propiltiouracilo (PTU) en primer trimestre por riesgo de embriopatía con tiamazol; cambiar a tiamazol en segundo trimestre si se requiere.</li><li><b>Tormenta tiroidea:</b> PTU preferido por bloquear conversión periférica de T4 a T3.</li><li><b>Efectos adversos:</b> agranulocitosis (fiebre/sore throat → suspender y hemograma), hepatotoxicidad, rash, artralgias.</li><li><b>Trampa:</b> tiamazol y PTU no se usan en crisis por yodo; el yodo se da después del antitiroideo.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Efecto Jod-Basedow y amiodarona causan disfunción tiroidea",
-      "title": "Yodo y amiodarona",
-      "contentHtml": "<h2>Efecto Jod-Basedow y amiodarona</h2><ul><li><b>Efecto Jod-Basedow:</b> hipertiroidismo inducido por carga de yodo en pacientes con bocio multinodular o adenoma tóxico; el yodo es sustrato de hormonas tiroideas.</li><li><b>Amiodarona:</b> rica en yodo; puede causar hipotiroidismo (efecto Wolff-Chaikoff prolongado) o hipertiroidismo (tipo 1 por yodo, tipo 2 por tiroiditis destructiva).</li><li><b>Diagnóstico diferencial en amiodarona:</b> tipo 1 captación baja/normal con tirotoxicosis; tipo 2 captación baja con tiroiditis; ecografía Doppler ayuda.</li><li><b>Tratamiento:</b> tipo 1 antitiroideos + yodo; tipo 2 corticoides; valorar suspender amiodarona según riesgo cardíaco.</li><li><b>Trampa:</b> contraste yodado y amiodarona pueden desencadenar disfunción tiroidea semanas o meses después.</li></ul>"
+      "foco": "Tiamazol es primera línea en hipertiroidismo por Graves",
+      "title": "Tiamazol en Graves",
+      "contentHtml": "<h2>Antitiroideos en enfermedad de Graves</h2><ul><li><b>Tiamazol</b> es primera línea en hipertiroidismo por Graves (excepto primer trimestre del embarazo).</li><li>Mecanismo: inhibe la peroxidasa tiroidea y la síntesis hormonal.</li><li>Dosis inicial: <b>10-30 mg/día</b>; mantenimiento <b>5-10 mg/día</b>.</li><li>Efecto adverso grave: agranulocitosis (fiebre o odinofagia → suspender y hemograma).</li><li>Propiltiouracilo se prefiere en tormenta tiroidea y primer trimestre.</li><li>Trampa: el betabloqueante controla síntomas pero no la síntesis hormonal.</li></ul>"
     }
   ]
 }

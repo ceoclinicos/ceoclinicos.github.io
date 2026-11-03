@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Prueba de tuberculina positiva indica infección latente",
-      "title": "Tuberculina: interpretación y trampas",
-      "contentHtml": "<h2>Prueba de tuberculina positiva</h2><ul><li><b>Prueba de tuberculina</b> (derivado proteico purificado) mide respuesta de hipersensibilidad tipo IV; positiva indica infección por <b>Mycobacterium tuberculosis</b>, no enfermedad activa.</li><li>Punto de corte &ge;5 mm: personas con infección por virus de la inmunodeficiencia humana, contactos íntimos, cambios fibróticos en radiografía de tórax, trasplante o inmunosupresión.</li><li>&ge;10 mm: inmigrantes de zonas endémicas, usuarios de drogas intravenosas, personal sanitario, niños &lt;4 años, comorbilidades (diabetes, silicosis).</li><li><b>Trampa:</b> vacuna con bacilo de Calmette-Guérin puede dar falso positivo; anergia en inmunosupresión avanzada da falso negativo.</li></ul>"
+      "foco": "Prueba de tuberculina positiva no indica enfermedad activa",
+      "title": "Tuberculina positiva: infección, no enfermedad",
+      "contentHtml": "<h2>Prueba de tuberculina positiva no indica enfermedad activa</h2><ul><li><b>Prueba de tuberculina</b> (derivado proteico purificado, PPD) mide hipersensibilidad retardada tipo IV contra <i>Mycobacterium tuberculosis</i>; positiva = infección previa o latente, no enfermedad activa.</li><li>Umbral de positividad: <b>≥5 mm</b> en inmunosuprimidos, contactos íntimos, radiografía compatible; <b>≥10 mm</b> en grupos de riesgo; <b>≥15 mm</b> en población general sin riesgo.</li><li>Falsos positivos: vacuna BCG previa, micobacterias no tuberculosas.</li><li>Falsos negativos: anergia (VIH avanzado, desnutrición, sarcoidosis, corticoides).</li><li>Trampa de examen: tuberculina positiva aislada no justifica tratamiento antituberculoso; requiere descartar enfermedad activa con baciloscopia, cultivo e imagen.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "BAAR en esputo confirma diagnóstico presuntivo",
-      "title": "Baciloscopia en esputo",
-      "contentHtml": "<h2>BAAR en esputo</h2><ul><li><b>BAAR en esputo</b> (bacilos ácido-alcohol resistentes) confirma diagnóstico presuntivo, no definitivo: sensibilidad &lt;60% en tuberculosis pulmonar, menor en extrapulmonar e infección por virus de la inmunodeficiencia humana.</li><li>Requiere &ge;2 muestras seriadas de esputo matutino; tinción de Ziehl-Neelsen o auramina-rodamina.</li><li><b>Confirmación definitiva:</b> cultivo en medio de Löwenstein-Jensen o líquido (estándar de oro), o prueba molecular Xpert MTB/RIF.</li><li><b>Trampa:</b> BAAR positivo también en micobacterias no tuberculosas y Nocardia; no distingue especie ni resistencia.</li></ul>"
+      "foco": "Baciloscopia de esputo: estándar diagnóstico en tuberculosis pulmonar",
+      "title": "Baciloscopia de esputo: estándar diagnóstico",
+      "contentHtml": "<h2>Baciloscopia de esputo: estándar diagnóstico en tuberculosis pulmonar</h2><ul><li><b>Baciloscopia de esputo</b> con tinción de Ziehl-Neelsen o auramina-rodamina es el estándar diagnóstico inicial en tuberculosis pulmonar; detecta bacilos ácido-alcohol resistentes.</li><li>Se requieren <b>2 muestras</b> de esputo (idealmente matutinas) en programas actuales; sensibilidad menor en VIH y en enfermedad paucibacilar.</li><li>No distingue <i>Mycobacterium tuberculosis</i> de micobacterias no tuberculosas; el cultivo confirma.</li><li>Hallazgo clave: baciloscopia positiva en paciente con síntomas respiratorios &gt;2 semanas y radiografía compatible establece diagnóstico presuntivo y permite inicio de tratamiento.</li><li>Trampa: baciloscopia negativa no excluye tuberculosis; repetir muestras y solicitar cultivo y prueba molecular.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Aislamiento en gotas con presión negativa",
-      "title": "Aislamiento respiratorio",
-      "contentHtml": "<h2>Aislamiento en gotas con presión negativa</h2><ul><li><b>Aislamiento en gotas con presión negativa</b>: habitación con &ge;6 recambios de aire/hora y presión negativa respecto al pasillo; puerta cerrada.</li><li>Precauciones de transmisión por gotas (mascarilla quirúrgica al paciente) más precaución aérea con respirador N95 para el personal.</li><li>Duración: hasta negativizar baciloscopia en 3 muestras seriadas o &ge;2 semanas de tratamiento eficaz.</li><li><b>Trampa:</b> la tuberculosis no se transmite por fómites; el aislamiento es por vía aérea (núcleos de gotitas &lt;5 &micro;m), no solo gotas.</li></ul>"
+      "foco": "Cultivo en Löwenstein-Jensen confirma diagnóstico",
+      "title": "Cultivo en Löwenstein-Jensen: confirmación",
+      "contentHtml": "<h2>Cultivo en Löwenstein-Jensen confirma diagnóstico</h2><ul><li><b>Cultivo en Löwenstein-Jensen</b> es el medio sólido de referencia para confirmar tuberculosis; crecimiento lento de colonias rugosas en <b>3-8 semanas</b>.</li><li>Confirma diagnóstico, permite identificación de especie y pruebas de sensibilidad a fármacos antituberculosos.</li><li>Medios líquidos (MGIT) reducen tiempo a <b>10-14 días</b> y aumentan sensibilidad, pero el Löwenstein-Jensen sigue siendo patrón histórico de examen.</li><li>Hallazgo clave: colonias no pigmentadas, rugosas, color crema; prueba de niacina positiva para <i>Mycobacterium tuberculosis</i>.</li><li>Trampa: cultivo negativo no descarta tuberculosis si la muestra fue inadecuada o el paciente recibió antibióticos previos.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Radiografía con infiltrado apical y cavernas",
-      "title": "Radiografía de tórax en tuberculosis",
-      "contentHtml": "<h2>Radiografía con infiltrado apical y cavernas</h2><ul><li><b>Radiografía con infiltrado apical y cavernas</b>: patrón clásico de tuberculosis pulmonar reactivada en lóbulos superiores (segmentos apical y posterior) y segmento superior del lóbulo inferior.</li><li>Cavernas por necrosis caseosa con pared gruesa; puede haber diseminación endobronquial (lesiones satélite) y adenopatías.</li><li><b>Hallazgo clave:</b> en infección por virus de la inmunodeficiencia humana avanzada predominan infiltrados difusos, adenopatías mediastínicas y patrón miliar, sin cavernas.</li><li><b>Trampa:</b> radiografía normal no descarta tuberculosis; en sospecha usar tomografía computarizada.</li></ul>"
+      "foco": "Tuberculosis miliar: patrón micronodular difuso en radiografía",
+      "title": "Tuberculosis miliar: patrón micronodular difuso",
+      "contentHtml": "<h2>Tuberculosis miliar: patrón micronodular difuso en radiografía</h2><ul><li><b>Tuberculosis miliar</b> resulta de diseminación hematógena de <i>Mycobacterium tuberculosis</i>; afecta múltiples órganos, especialmente pulmón, hígado, bazo y médula ósea.</li><li>Hallazgo clave: radiografía de tórax con <b>patrón micronodular difuso</b> bilateral de nódulos &lt;3 mm, distribuidos uniformemente en ambos campos pulmonares.</li><li>Clínica: fiebre prolongada, pérdida de peso, sudoración nocturna, hepatosplenomegalia; puede haber síndrome de dificultad respiratoria aguda.</li><li>Diagnóstico: baciloscopia frecuentemente negativa; requiere cultivo, biopsia de médula ósea o hepática, y prueba molecular.</li><li>Trampa: confundir con neumonía viral o metástasis miliares; la tuberculosis miliar es una forma grave que requiere tratamiento antituberculoso inmediato.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Tratamiento con esquema RIPE por seis meses",
-      "title": "Esquema RIPE",
-      "contentHtml": "<h2>Tratamiento con esquema RIPE</h2><ul><li><b>Esquema RIPE</b> (rifampicina, isoniacida, pirazinamida, etambutol) por seis meses: fase intensiva 2 meses con los 4 fármacos, fase de continuación 4 meses con rifampicina e isoniacida.</li><li>Dosis diaria: rifampicina 10 mg/kg (máx 600 mg), isoniacida 5 mg/kg (máx 300 mg), pirazinamida 25 mg/kg, etambutol 15 mg/kg.</li><li>Control: baciloscopia mensual; negativización esperada al 2.º mes; si persiste positiva, sospechar resistencia o mala adherencia.</li><li><b>Trampa:</b> etambutol produce neuritis óptica (vigilar visión de colores); isoniacida, neuropatía periférica (prevenir con piridoxina).</li></ul>"
+      "foco": "Adenopatía cervical caseificante sugiere tuberculosis ganglionar",
+      "title": "Adenopatía cervical caseificante: tuberculosis ganglionar",
+      "contentHtml": "<h2>Adenopatía cervical caseificante sugiere tuberculosis ganglionar</h2><ul><li><b>Tuberculosis ganglionar</b> es la forma extrapulmonar más frecuente; afecta cadenas cervicales (escrófula) y supraclaviculares.</li><li>Hallazgo clave: adenopatía cervical indolora, de crecimiento lento, con <b>caseificación</b> en la biopsia (granulomas con necrosis central).</li><li>Diagnóstico diferencial: linfoma, metástasis, infección por micobacterias no tuberculosas, enfermedad por arañazo de gato.</li><li>Diagnóstico: punción aspiración con aguja fina para baciloscopia, cultivo y prueba molecular; biopsia excisional si persiste duda.</li><li>Trampa: adenopatía cervical caseificante no siempre implica tuberculosis pulmonar activa; puede ser forma extrapulmonar aislada.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Fiebre vespertina y sudoración nocturna",
-      "title": "Síntomas constitucionales",
-      "contentHtml": "<h2>Fiebre vespertina y sudoración nocturna</h2><ul><li><b>Fiebre vespertina y sudoración nocturna</b>: síntomas cardinales de tuberculosis activa, junto con tos &gt;2 semanas, hemoptisis, pérdida de peso y astenia.</li><li>Fiebre de bajo grado (&lt;38.5 &deg;C) de predominio vespertino por liberación de citocinas (factor de necrosis tumoral alfa, interleucina-1).</li><li><b>Diagnóstico diferencial:</b> linfoma (fiebre de Pel-Ebstein), brucelosis (fiebre ondulante), absceso oculto, endocarditis.</li><li><b>Trampa:</b> en ancianos e inmunosuprimidos la fiebre puede estar ausente; la sudoración nocturna no es específica.</li></ul>"
+      "foco": "Tuberculosis meníngea: LCR con glucosa baja y linfocitos",
+      "title": "Tuberculosis meníngea: líquido cefalorraquídeo",
+      "contentHtml": "<h2>Tuberculosis meníngea: líquido cefalorraquídeo con glucosa baja y linfocitos</h2><ul><li><b>Tuberculosis meníngea</b> es una forma grave de tuberculosis extrapulmonar; cursa con cefalea, fiebre, rigidez de nuca y alteración del estado mental.</li><li>Hallazgo clave: líquido cefalorraquídeo con <b>glucosa baja</b> (&lt;40 mg/dL o &lt;50% de la glucemia), <b>proteínas elevadas</b> (&gt;100 mg/dL) y <b>linfocitosis</b> (&gt;50%), a diferencia de la meningitis bacteriana con neutrofilia.</li><li>Diagnóstico: baciloscopia y cultivo del líquido cefalorraquídeo tienen baja sensibilidad; la prueba molecular (GeneXpert) mejora detección.</li><li>Tratamiento: esquema antituberculoso con <b>4 fármacos</b> y corticoides (dexametasona) para reducir mortalidad.</li><li>Trampa: no confundir con meningitis viral (glucosa normal) ni bacteriana (neutrofilia, glucosa muy baja).</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Miliar diseminada en inmunosuprimidos",
-      "title": "Tuberculosis miliar",
-      "contentHtml": "<h2>Miliar diseminada en inmunosuprimidos</h2><ul><li><b>Miliar diseminada en inmunosuprimidos</b>: diseminación hematógena con granulomas de 1-2 mm (&ldquo;mijo&rdquo;) en pulmón, hígado, bazo, médula ósea y retina.</li><li>Radiografía de tórax: patrón micronodular difuso bilateral; puede ser normal en fases iniciales o en infección por virus de la inmunodeficiencia humana avanzada.</li><li>Frecuente en infección por virus de la inmunodeficiencia humana con recuento de linfocitos T CD4+ &lt;200 c&eacute;lulas/&micro;L, desnutrición, uso de corticoides.</li><li><b>Trampa:</b> baciloscopia de esputo a menudo negativa; requiere biopsia de médula ósea o hepática, o cultivo.</li></ul>"
+      "foco": "Mal de Pott: tuberculosis vertebral con destrucción de discos",
+      "title": "Mal de Pott: tuberculosis vertebral",
+      "contentHtml": "<h2>Mal de Pott: tuberculosis vertebral con destrucción de discos</h2><ul><li><b>Mal de Pott</b> es la tuberculosis vertebral, generalmente por diseminación hematógena; afecta con mayor frecuencia la columna dorsal baja y lumbar.</li><li>Hallazgo clave: radiografía o tomografía con <b>destrucción de dos vértebras adyacentes y del disco intervertebral</b>, con colapso vertebral y posible absceso paravertebral (absceso frío).</li><li>Clínica: dolor dorsal crónico, fiebre, sudoración nocturna, deformidad cifótica; déficit neurológico si comprime médula.</li><li>Diagnóstico: biopsia vertebral para cultivo y prueba molecular; imagen por resonancia magnética para evaluar extensión.</li><li>Trampa: diferenciar de metástasis vertebral (respeta disco) y de espondilodiscitis piógena (afecta disco pero con neutrofilia y cultivo bacteriano).</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Tuberculosis meníngea con ADA elevado en LCR",
-      "title": "Tuberculosis meníngea",
-      "contentHtml": "<h2>Tuberculosis meníngea con ADA elevado en líquido cefalorraquídeo</h2><ul><li><b>Tuberculosis meníngea con ADA elevado en líquido cefalorraquídeo</b> (adenosín deaminasa &gt;10 U/L): líquido cefalorraquídeo claro, presión elevada, proteínas &gt;100 mg/dL, glucosa &lt;45 mg/dL o &lt;50% de la glucemia, leucocitos 100-500/&micro;L con predominio linfocitario.</li><li>Clínica: cefalea, fiebre, rigidez de nuca, parálisis de pares craneales (VI), confusión; hidrocefalia en tomografía.</li><li>Tratamiento: esquema RIPE más dexametasona 0.3-0.4 mg/kg/día con descenso en 6-8 semanas.</li><li><b>Trampa:</b> ADA también eleva en linfoma y brucelosis; la prueba molecular en líquido cefalorraquídeo tiene baja sensibilidad.</li></ul>"
+      "foco": "Tuberculosis renal: piuria estéril con hematuria",
+      "title": "Tuberculosis renal: piuria estéril",
+      "contentHtml": "<h2>Tuberculosis renal: piuria estéril con hematuria</h2><ul><li><b>Tuberculosis renal</b> es la forma extrapulmonar más frecuente después de la ganglionar; resulta de diseminación hematógena y afecta parénquima renal y vías urinarias.</li><li>Hallazgo clave: <b>piuria estéril</b> (leucocitos en orina sin crecimiento bacteriano en cultivo convencional) con <b>hematuria</b> microscópica o macroscópica.</li><li>Síntomas: disuria, polaquiuria, dolor lumbar; puede progresar a hidronefrosis y insuficiencia renal.</li><li>Diagnóstico: cultivo de orina para micobacterias (3 muestras matutinas) y prueba molecular; urotomografía para evaluar lesiones cavitarias.</li><li>Trampa: piuria estéril persistente con hematuria debe hacer sospechar tuberculosis renal, especialmente en áreas endémicas.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Mal de Pott afecta vértebras torácicas",
-      "title": "Mal de Pott",
-      "contentHtml": "<h2>Mal de Pott afecta vértebras torácicas</h2><ul><li><b>Mal de Pott afecta vértebras torácicas</b> (espondilodiscitis tuberculosa): destrucción del cuerpo vertebral anterior, colapso y cifosis (giba de Pott); afecta con mayor frecuencia la unión toracolumbar.</li><li>Clínica: dolor dorsal crónico, fiebre, sudoración nocturna, déficit neurológico por compresión medular o absceso paravertebral (absceso frío).</li><li>Imagen: resonancia magnética con edema y realce vertebral y de disco, absceso epidural; radiografía muestra pérdida de altura vertebral y escoliosis.</li><li><b>Trampa:</b> a diferencia de la espondilodiscitis piógena, respeta el disco hasta fases tardías y produce abscesos calcificados.</li></ul>"
+      "foco": "Rifampicina, isoniazida, pirazinamida y etambutol: esquema inicial",
+      "title": "Esquema inicial: rifampicina, isoniazida, pirazinamida y etambutol",
+      "contentHtml": "<h2>Rifampicina, isoniazida, pirazinamida y etambutol: esquema inicial</h2><ul><li><b>Esquema inicial</b> de tuberculosis activa: <b>rifampicina</b>, <b>isoniazida</b>, <b>pirazinamida</b> y <b>etambutol</b> durante <b>2 meses</b> (fase intensiva), seguido de rifampicina e isoniazida durante <b>4 meses</b> (fase de continuación).</li><li>Dosis: rifampicina 10 mg/kg/día, isoniazida 5 mg/kg/día, pirazinamida 25 mg/kg/día, etambutol 15 mg/kg/día.</li><li>Efectos adversos: hepatotoxicidad (isoniazida, rifampicina, pirazinamida), neuritis periférica (isoniazida, prevenir con piridoxina), hiperuricemia (pirazinamida), neuritis óptica (etambutol).</li><li>Trampa: el esquema inicial no incluye estreptomicina ni fluoroquinolonas; estas se reservan para resistencia o formas graves.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Linfadenitis cervical escrofuloderma",
-      "title": "Escrofuloderma",
-      "contentHtml": "<h2>Linfadenitis cervical escrofuloderma</h2><ul><li><b>Linfadenitis cervical escrofuloderma</b>: tuberculosis ganglionar cervical (escrófula) con adenopatías indoloras, matted, que fistulizan y drenan material caseoso; piel suprayacente violácea.</li><li>Forma extrapulmonar más frecuente en niños y en infección por virus de la inmunodeficiencia humana; ganglios cervicales posteriores y submandibulares.</li><li>Diagnóstico: punción aspiración con aguja fina para baciloscopia, cultivo y prueba molecular; biopsia con granulomas caseificantes.</li><li><b>Trampa:</b> diagnóstico diferencial con linfoma, enfermedad por arañazo de gato y micobacterias no tuberculosas; no confundir con adenopatía reactiva.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Genexpert detecta resistencia a rifampicina",
-      "title": "Xpert MTB/RIF",
-      "contentHtml": "<h2>Genexpert detecta resistencia a rifampicina</h2><ul><li><b>Genexpert detecta resistencia a rifampicina</b> (Xpert MTB/RIF): prueba molecular en esputo con resultado en &lt;2 horas; sensibilidad &gt;95% en tuberculosis pulmonar con baciloscopia positiva y &gt;70% con baciloscopia negativa.</li><li>Detecta mutaciones en el gen rpoB; la resistencia a rifampicina es marcador subrogado de tuberculosis multirresistente (resistencia a isoniacida y rifampicina).</li><li>Indicada en sospecha de tuberculosis pulmonar, contacto de caso multirresistente e infección por virus de la inmunodeficiencia humana.</li><li><b>Trampa:</b> no sustituye al cultivo para pruebas de sensibilidad completas; resultado negativo no descarta tuberculosis.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Profilaxis con isoniacida en contacto positivo",
-      "title": "Profilaxis con isoniacida",
-      "contentHtml": "<h2>Profilaxis con isoniacida en contacto positivo</h2><ul><li><b>Profilaxis con isoniacida en contacto positivo</b>: tratamiento de infección latente con isoniacida 5 mg/kg/día (máx 300 mg) durante 6-9 meses, o rifampicina 4 meses en alternativa.</li><li>Indicada en contactos íntimos de tuberculosis pulmonar activa con prueba de tuberculina positiva, personas con infección por virus de la inmunodeficiencia humana, cambios fibróticos en radiografía y usuarios de anti-factor de necrosis tumoral.</li><li>Antes de iniciar: descartar enfermedad activa (radiografía de tórax y síntomas); vigilar hepatotoxicidad (transaminasas basales en mayores de 35 años).</li><li><b>Trampa:</b> la profilaxis no se da a contactos con prueba de tuberculina negativa sin factores de riesgo; repetir prueba a las 8-12 semanas.</li></ul>"
+      "foco": "Prueba IGRA no distingue infección latente de activa",
+      "title": "Prueba IGRA: infección latente vs activa",
+      "contentHtml": "<h2>Prueba IGRA no distingue infección latente de activa</h2><ul><li><b>Prueba IGRA</b> (ensayo de liberación de interferón gamma) detecta respuesta inmune contra antígenos específicos de <i>Mycobacterium tuberculosis</i> (ESAT-6, CFP-10).</li><li>No distingue entre <b>infección latente</b> y <b>enfermedad activa</b>; su utilidad es identificar infección tuberculosa latente.</li><li>Ventajas: no se afecta por vacuna BCG previa ni por la mayoría de micobacterias no tuberculosas; requiere una sola visita.</li><li>Limitaciones: falsos negativos en inmunosuprimidos; no sustituye baciloscopia, cultivo ni prueba molecular para diagnóstico de enfermedad activa.</li><li>Trampa: IGRA positiva en paciente asintomático con radiografía normal indica infección latente, no tuberculosis activa; no requiere tratamiento antituberculoso completo, sino valorar tratamiento de infección latente.</li></ul>"
     }
   ]
 }

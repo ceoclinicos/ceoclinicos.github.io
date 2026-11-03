@@ -1,0 +1,65 @@
+{
+  "id": "anestesicos_intravenosos",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Propofol: hipotensión y apnea en inducción",
+      "title": "Propofol: hipotensión y apnea en inducción",
+      "contentHtml": "<h2>Propofol: hipotensión y apnea en inducción</h2><ul><li><b>Hipotensión</b> por vasodilatación arterial y venosa + depresión miocárdica leve; mayor caída de presión arterial media con hipovolemia, edad avanzada o bolo rápido.</li><li><b>Apnea</b> en inducción en hasta 25-30% con dosis 2-2.5 mg/kg; riesgo aumenta con opioides coadministrados y velocidad de inyección &gt;30 segundos.</li><li>Dosis de inducción: <b>1.5-2.5 mg/kg</b> intravenoso en adulto sano; reducir 30-50% en anciano o paciente con reserva cardiovascular limitada.</li><li>Trampa de examen: no es broncodilatador ni mantiene reflejos de vía aérea; produce depresión respiratoria dosis-dependiente.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Etomidato: estable hemodinámicamente, suprime cortisol",
+      "title": "Etomidato: estabilidad hemodinámica y supresión adrenal",
+      "contentHtml": "<h2>Etomidato: estabilidad hemodinámica y supresión adrenal</h2><ul><li><b>Estable hemodinámicamente</b>: mínimo cambio de presión arterial y frecuencia cardíaca; útil en hipovolemia, shock o trauma.</li><li><b>Suprime cortisol</b> por inhibición reversible de la 11-beta-hidroxilasa suprarrenal; tras dosis única la supresión dura 24-48 horas y es clínicamente relevante en sepsis o shock.</li><li>Dosis de inducción: <b>0.2-0.3 mg/kg</b> intravenoso.</li><li>Trampa: no es seguro en paciente séptico por la supresión adrenal; preferir otro agente si hay inestabilidad con sospecha de sepsis.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Ketamina: disociativa, broncodilatadora, mantiene reflejos",
+      "title": "Ketamina: anestesia disociativa y broncodilatación",
+      "contentHtml": "<h2>Ketamina: anestesia disociativa y broncodilatación</h2><ul><li><b>Disociativa</b>: antagonismo del receptor N-metil-D-aspartato; produce analgesia, amnesia y catalepsia con reflejos de vía aérea conservados.</li><li><b>Broncodilatadora</b>: útil en asma grave o broncoespasmo refractario; dosis de inducción <b>1-2 mg/kg</b> intravenoso.</li><li>Mantiene reflejos laríngeos y drive respiratorio, pero puede causar apnea con bolo rápido o dosis alta.</li><li>Trampa: no usar como único agente en hipertensión intracraneal no controlada ni en cardiopatía isquémica por el estímulo simpático.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Tiopental: barbitúrico, contraindicado en porfiria",
+      "title": "Tiopental: barbitúrico y porfiria",
+      "contentHtml": "<h2>Tiopental: barbitúrico y porfiria</h2><ul><li>Barbitúrico de acción ultracorta; induce el citocromo hepático y la síntesis de porfirinas, por lo que está <b>contraindicado en porfiria</b>.</li><li>Dosis de inducción: <b>3-5 mg/kg</b> intravenoso; produce hipotensión por vasodilatación y depresión miocárdica.</li><li>Reduce la presión intracraneal y el consumo cerebral de oxígeno; útil en neuroprotección, pero no es primera línea en inducción rutinaria.</li><li>Trampa: no confundir con propofol; el tiopental es el barbitúrico clásico asociado a porfiria.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Midazolam: benzodiacepina, amnesia anterógrada, reversión con flumazenil",
+      "title": "Midazolam: amnesia anterógrada y flumazenil",
+      "contentHtml": "<h2>Midazolam: amnesia anterógrada y flumazenil</h2><ul><li>Benzodiacepina de acción corta; produce <b>amnesia anterógrada</b> por acción sobre receptores GABA-A.</li><li>Reversión específica con <b>flumazenil</b>; dosis inicial 0.2 mg intravenoso, repetible hasta 1 mg.</li><li>Dosis de sedación: <b>0.02-0.05 mg/kg</b> intravenoso; reducir en anciano y en insuficiencia hepática.</li><li>Trampa: el flumazenil puede precipitar convulsiones en usuario crónico de benzodiacepinas; no es un antagonista opioide.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Fentanilo: opioide, rigidez torácica en bolo rápido",
+      "title": "Fentanilo: rigidez torácica en bolo rápido",
+      "contentHtml": "<h2>Fentanilo: rigidez torácica en bolo rápido</h2><ul><li>Opioide sintético potente; el <b>bolo rápido</b> (&lt;30 segundos) puede producir <b>rigidez torácica</b> que dificulta la ventilación.</li><li>Prevención: administrar lento, en 1-2 minutos, y evitar dosis alta en paciente no premedicado con benzodiacepina.</li><li>Dosis analgésica: <b>1-2 mcg/kg</b> intravenoso; en inducción rápida usar dosis menor y titulada.</li><li>Trampa: la rigidez torácica no es broncoespasmo; se maneja con ventilación asistida y, si es grave, relajante neuromuscular.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Dexmedetomidina: agonista alfa-2, sedación sin depresión respiratoria",
+      "title": "Dexmedetomidina: sedación sin depresión respiratoria",
+      "contentHtml": "<h2>Dexmedetomidina: sedación sin depresión respiratoria</h2><ul><li>Agonista selectivo de receptores alfa-2 adrenérgicos; produce sedación y analgesia con <b>mínima depresión respiratoria</b>.</li><li>Infusión: <b>0.2-1 mcg/kg/hora</b>; bolo de carga puede causar hipertensión transitoria y bradicardia.</li><li>Útil en sedación de unidad de cuidados intensivos y despertar cooperativo; no es inductor anestésico único.</li><li>Trampa: no produce amnesia ni relajación muscular; la bradicardia y la hipotensión son sus efectos adversos frecuentes.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Propofol: dolor en venas pequeñas, usar lidocaína",
+      "title": "Propofol: dolor en venas pequeñas y lidocaína",
+      "contentHtml": "<h2>Propofol: dolor en venas pequeñas y lidocaína</h2><ul><li><b>Dolor en venas pequeñas</b> por irritación endotelial; incidencia alta en venas de mano o antebrazo.</li><li>Prevención: <b>lidocaína</b> 0.5-1 mg/kg intravenoso con torniquete previo, o mezclar 20-40 mg de lidocaína con propofol.</li><li>La lidocaína también reduce la respuesta hemodinámica a la laringoscopia si se administra 90 segundos antes.</li><li>Trampa: no usar lidocaína con epinefrina para este fin; la dosis debe ser sin vasoconstrictor.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Etomidato: mioclonías y náuseas postoperatorias",
+      "title": "Etomidato: mioclonías y náuseas postoperatorias",
+      "contentHtml": "<h2>Etomidato: mioclonías y náuseas postoperatorias</h2><ul><li><b>Mioclonías</b> en inducción hasta 30-60% de pacientes; no son convulsiones y se atenúan con benzodiacepina u opioide previo.</li><li><b>Náuseas postoperatorias</b> más frecuentes que con propofol; profilaxis con ondansetrón 4 mg intravenoso.</li><li>Dosis de inducción: <b>0.2-0.3 mg/kg</b> intravenoso; no produce analgesia ni relajación muscular.</li><li>Trampa: las mioclonías no contraindican su uso; el problema mayor es la supresión adrenal en paciente crítico.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Ketamina: aumenta presión intracraneal y secreciones",
+      "title": "Ketamina: presión intracraneal y secreciones",
+      "contentHtml": "<h2>Ketamina: presión intracraneal y secreciones</h2><ul><li><b>Aumenta la presión intracraneal</b> por estímulo simpático y aumento del flujo cerebral; evitar en hipertensión intracraneal no controlada.</li><li><b>Aumenta secreciones</b> salivales y bronquiales; premedicar con antisialagogo como atropina 0.01 mg/kg o glicopirrolato 0.2 mg intravenoso.</li><li>Dosis de inducción: <b>1-2 mg/kg</b> intravenoso; puede causar reacciones de emergencia con alucinaciones.</li><li>Trampa: no es el agente de elección en trauma craneoencefálico con hipertensión intracraneal; la ketamina no reduce la presión intracraneal.</li></ul>"
+    }
+  ]
+}

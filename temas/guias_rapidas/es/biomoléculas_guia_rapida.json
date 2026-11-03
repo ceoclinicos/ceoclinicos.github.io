@@ -1,0 +1,65 @@
+{
+  "id": "biomoléculas",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Aminoácidos esenciales y no esenciales",
+      "title": "Aminoácidos: esenciales vs no esenciales",
+      "contentHtml": "<h2>Aminoácidos esenciales y no esenciales</h2><ul><li><b>Esenciales (no sintetizables, dieta obligatoria):</b> histidina, isoleucina, leucina, lisina, metionina, fenilalanina, treonina, triptófano, valina. Regla mnemotécnica <b>PVT TIM HALL</b>.</li><li><b>Condicionalmente esenciales:</b> arginina, cisteína, glutamina, glicina, prolina, tirosina (síntesis insuficiente en estrés o prematuridad).</li><li><b>No esenciales:</b> alanina, aspartato, asparagina, glutamato, serina.</li><li><b>Trampa de examen:</b> tirosina deriva de fenilalanina (fenilcetonuria si falla fenilalanina hidroxilasa); cisteína deriva de metionina.</li><li><b>Hallazgo clave:</b> en fenilcetonuria, fenilalanina &gt;1200 µmol/L al nacer; déficit de tetrahidrobiopterina simula el cuadro.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Enlace peptídico y estructura proteica",
+      "title": "Enlace peptídico y estructura primaria/secundaria",
+      "contentHtml": "<h2>Enlace peptídico y estructura proteica</h2><ul><li><b>Enlace peptídico:</b> unión covalente entre grupo carboxilo de un aminoácido y grupo amino del siguiente; libera agua; carácter parcialmente doble por resonancia, plano y rígido (no rotación libre).</li><li><b>Estructura primaria:</b> secuencia de aminoácidos desde extremo N-terminal al C-terminal; determina el plegamiento.</li><li><b>Estructura secundaria:</b> alfa-hélice (puentes de hidrógeno intracatenarios cada 4 residuos) y lámina beta (puentes intercatenarios).</li><li><b>Trampa:</b> la prolina rompe alfa-hélices (iminoácido cíclico); la glicina flexible favorece giros.</li><li><b>Hallazgo clave:</b> anemia falciforme por sustitución glutamato→valina en posición 6 de cadena beta (estructura primaria alterada).</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Niveles de organización de proteínas",
+      "title": "Niveles de organización proteica",
+      "contentHtml": "<h2>Niveles de organización de proteínas</h2><ul><li><b>Primaria:</b> secuencia lineal de aminoácidos unidos por enlaces peptídicos.</li><li><b>Secundaria:</b> plegamientos locales (alfa-hélice, lámina beta) estabilizados por puentes de hidrógeno.</li><li><b>Terciaria:</b> conformación tridimensional global; estabilizada por puentes disulfuro (cisteína), interacciones hidrofóbicas, iónicas y de van der Waals.</li><li><b>Cuaternaria:</b> asociación de ≥2 cadenas polipeptídicas (hemoglobina tetrámero alfa2beta2).</li><li><b>Trampa:</b> la desnaturalización altera secundaria, terciaria y cuaternaria, pero <b>no la primaria</b>.</li><li><b>Hallazgo clave:</b> enfermedad de Alzheimer, placas de beta-amiloide con alta proporción de lámina beta.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Enzimas: cinética de Michaelis-Menten",
+      "title": "Cinética de Michaelis-Menten",
+      "contentHtml": "<h2>Enzimas: cinética de Michaelis-Menten</h2><ul><li><b>Ecuación:</b> velocidad = (velocidad máxima × [sustrato]) / (constante de Michaelis + [sustrato]).</li><li><b>Constante de Michaelis:</b> concentración de sustrato a la que la velocidad es la mitad de la velocidad máxima; refleja afinidad inversa (menor constante = mayor afinidad).</li><li><b>Velocidad máxima:</b> se alcanza a saturación enzimática; proporcional a concentración de enzima.</li><li><b>Gráfica de Lineweaver-Burk:</b> doble recíproco; pendiente = constante de Michaelis / velocidad máxima; corte en eje x = -1/constante de Michaelis.</li><li><b>Trampa:</b> la constante de Michaelis no varía con la concentración de enzima, pero la velocidad máxima sí.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Inhibición enzimática competitiva y no competitiva",
+      "title": "Inhibición competitiva vs no competitiva",
+      "contentHtml": "<h2>Inhibición enzimática competitiva y no competitiva</h2><ul><li><b>Competitiva:</b> inhibidor se une al sitio activo; compite con sustrato; aumenta la constante de Michaelis; la velocidad máxima no cambia; se revierte aumentando [sustrato].</li><li><b>No competitiva:</b> inhibidor se une a sitio alostérico; no compite con sustrato; constante de Michaelis no cambia; disminuye la velocidad máxima; no se revierte con más sustrato.</li><li><b>Acompetitiva:</b> se une solo al complejo enzima-sustrato; disminuyen constante de Michaelis y velocidad máxima.</li><li><b>Trampa:</b> metanol en intoxicación se trata con etanol (inhibición competitiva de alcohol deshidrogenasa).</li><li><b>Hallazgo clave:</b> Lineweaver-Burk competitiva: rectas cruzan en eje y; no competitiva: cruzan en eje x.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Carbohidratos: aldosas vs cetosas",
+      "title": "Aldosas vs cetosas",
+      "contentHtml": "<h2>Carbohidratos: aldosas vs cetosas</h2><ul><li><b>Aldosas:</b> grupo aldehído en carbono 1 (glucosa, galactosa, ribosa, gliceraldehído).</li><li><b>Cetosas:</b> grupo cetona en carbono 2 (fructosa, ribulosa, dihidroxiacetona).</li><li><b>Clasificación:</b> por número de carbonos: triosas, tetrosas, pentosas, hexosas.</li><li><b>Epímeros:</b> difieren en un solo carbono asimétrico (glucosa y galactosa en carbono 4; glucosa y manosa en carbono 2).</li><li><b>Enantiómeros:</b> imagen especular (serie D y L); en humanos predomina serie D.</li><li><b>Trampa:</b> fructosa es cetosa y no reduce directamente reactivo de Fehling/Benedict salvo en medio alcalino (se isomeriza).</li><li><b>Hallazgo clave:</b> glucosa oxidasa es específica para beta-D-glucosa.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Enlace glucosídico y disacáridos",
+      "title": "Enlace glucosídico y disacáridos",
+      "contentHtml": "<h2>Enlace glucosídico y disacáridos</h2><ul><li><b>Enlace glucosídico:</b> unión covalente entre carbono anomérico de un azúcar y grupo hidroxilo de otro; libera agua; puede ser alfa o beta.</li><li><b>Maltosa:</b> glucosa alfa-1,4-glucosa; producto de digestión del almidón; reductor.</li><li><b>Lactosa:</b> galactosa beta-1,4-glucosa; reductor; déficit de lactasa causa intolerancia.</li><li><b>Sacarosa:</b> glucosa alfa-1,2-fructosa; no reductor (ambos carbonos anoméricos comprometidos).</li><li><b>Trampa:</b> sacarosa no da positivo en Benedict; hidrólisis ácida la convierte en glucosa y fructosa reductoras.</li><li><b>Hallazgo clave:</b> celulosa beta-1,4-glucosa no digerible por humanos (falta beta-glucosidasa).</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Lípidos: saturación de ácidos grasos",
+      "title": "Saturación de ácidos grasos",
+      "contentHtml": "<h2>Lípidos: saturación de ácidos grasos</h2><ul><li><b>Saturados:</b> sin dobles enlaces; cadena lineal; sólidos a temperatura ambiente; mayor punto de fusión (ácido palmítico C16:0, esteárico C18:0).</li><li><b>Insaturados:</b> ≥1 doble enlace; cis genera curvatura y menor punto de fusión; líquidos (oleico C18:1, linoleico C18:2).</li><li><b>Esenciales:</b> linoleico (omega-6) y alfa-linolénico (omega-3); no sintetizables por falta de desaturasas más allá del carbono 9.</li><li><b>Trans:</b> hidrogenación parcial; configuración trans lineal; aumentan riesgo cardiovascular.</li><li><b>Trampa:</b> doble enlace cis disminuye empaquetamiento y punto de fusión; trans lo eleva.</li><li><b>Hallazgo clave:</b> índice de yodo mide insaturaciones; mayor índice = más insaturado.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Nucleótidos: bases púricas y pirimídicas",
+      "title": "Bases púricas y pirimídicas",
+      "contentHtml": "<h2>Nucleótidos: bases púricas y pirimídicas</h2><ul><li><b>Púricas:</b> adenina y guanina; estructura de dos anillos (purina); se unen a pentosa en nitrógeno 9.</li><li><b>Pirimídicas:</b> citosina, timina (ADN) y uracilo (ARN); un anillo; se unen a pentosa en nitrógeno 1.</li><li><b>Nucleósido:</b> base + pentosa (adenosina, guanosina, citidina, timidina, uridina).</li><li><b>Nucleótido:</b> nucleósido + uno o más fosfatos (adenosín trifosfato).</li><li><b>Trampa:</b> timina solo en ADN; uracilo solo en ARN; cafeína y teobromina son metilxantinas derivadas de purinas.</li><li><b>Hallazgo clave:</b> ácido úrico es producto final del catabolismo de purinas en humanos (gota).</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Estructura del ADN y apareamiento de bases",
+      "title": "Estructura del ADN y apareamiento de bases",
+      "contentHtml": "<h2>Estructura del ADN y apareamiento de bases</h2><ul><li><b>Doble hélice:</b> dos cadenas antiparalelas dextrógiras; esqueleto de fosfato y desoxirribosa; bases hacia el interior.</li><li><b>Apareamiento:</b> adenina-timina con 2 puentes de hidrógeno; guanina-citosina con 3 puentes de hidrógeno.</li><li><b>Reglas de Chargaff:</b> adenina = timina; guanina = citosina; purinas = pirimidinas.</li><li><b>Surco mayor y menor:</b> el mayor expone más bases y es sitio de unión de proteínas reguladoras.</li><li><b>Trampa:</b> mayor contenido de guanina-citosina aumenta temperatura de fusión (desnaturalización térmica).</li><li><b>Hallazgo clave:</b> ADN tipo B (forma fisiológica, 10 pares de bases por vuelta, paso 3,4 nm).</li></ul>"
+    }
+  ]
+}

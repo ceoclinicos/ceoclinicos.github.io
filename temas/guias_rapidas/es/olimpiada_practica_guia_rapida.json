@@ -1,0 +1,65 @@
+{
+  "id": "olimpiada_practica",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Práctica clínica basada en evidencia",
+      "title": "Práctica clínica basada en evidencia: niveles y trampas",
+      "contentHtml": "<h2>Práctica clínica basada en evidencia</h2><ul><li><b>Jerarquía de evidencia:</b> revisión sistemática de ensayos aleatorizados &gt; ensayo aleatorizado &gt; cohorte &gt; casos y controles &gt; serie de casos &gt; opinión de expertos.</li><li><b>Pregunta clínica PICO:</b> Paciente, Intervención, Comparación, Outcome (desenlace).</li><li><b>Número necesario a tratar:</b> 1/riesgo absoluto reducido; <b>número necesario a dañar:</b> 1/riesgo absoluto aumentado.</li><li><b>Sesgo de publicación:</b> estudios negativos no publicados; detectar con embudo de funnel plot.</li><li><b>Trampa de examen:</b> un ensayo aleatorizado pequeño con desenlace subrogado no equivale a beneficio clínico; exigir desenlaces duros (mortalidad, eventos).</li><li><b>Guías de práctica clínica:</b> usar AGREE II para valorar calidad metodológica.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Calidad y seguridad del paciente",
+      "title": "Calidad y seguridad del paciente: modelos y eventos",
+      "contentHtml": "<h2>Calidad y seguridad del paciente</h2><ul><li><b>Modelo de Reason (queso suizo):</b> los errores latentes en el sistema permiten que fallos activos atraviesen las barreras.</li><li><b>Evento adverso:</b> daño relacionado con la atención sanitaria, no con la enfermedad de base.</li><li><b>Evento centinela:</b> daño grave o muerte inesperada; obliga a análisis causa-raíz.</li><li><b>Cultura de seguridad:</b> notificación no punitiva; mayor notificación voluntaria se asocia a mejor seguridad.</li><li><b>Escala de comunicación SBAR:</b> Situación, Background (antecedentes), Assessment (evaluación), Recommendation (recomendación).</li><li><b>Cinco momentos de la higiene de manos de la Organización Mundial de la Salud:</b> antes de tocar al paciente, antes de tarea aséptica, tras riesgo de fluidos, tras tocar al paciente, tras contacto con entorno.</li><li><b>Trampa:</b> el análisis causa-raíz no busca culpables individuales sino fallos del sistema.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Prevención de errores de medicación",
+      "title": "Errores de medicación: alta alerta y prevención",
+      "contentHtml": "<h2>Prevención de errores de medicación</h2><ul><li><b>Medicamentos de alto riesgo:</b> insulina, anticoagulantes, opioides, potasio concentrado, quimioterápicos, sedantes.</li><li><b>Error de prescripción más frecuente:</b> dosis incorrecta; en pediatría, error de cálculo por peso.</li><li><b>Doble comprobación:</b> obligatoria en administración de insulina y potasio concentrado; nunca administrar cloruro de potasio en bolo intravenoso.</li><li><b>Abreviaturas prohibidas:</b> evitar \"U\" por unidades, \"QD\" por cada día, \"µg\" manuscrito; usar \"unidades\", \"cada 24 horas\", \"microgramos\".</li><li><b>Conciliación medicamentosa:</b> al ingreso, traslado y alta; reduce errores de omisión y duplicación.</li><li><b>Trampa:</b> la notificación espontánea subestima la incidencia real; usar farmacovigilancia y auditoría de prescripciones.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Adherencia terapéutica del paciente",
+      "title": "Adherencia terapéutica: medición e intervención",
+      "contentHtml": "<h2>Adherencia terapéutica del paciente</h2><ul><li><b>Definición:</b> grado en que el comportamiento del paciente coincide con la recomendación del profesional.</li><li><b>Métodos de medición:</b> indirectos (cuestionario de Morisky-Green, recuento de comprimidos, registro de dispensación) y directos (observación, nivel plasmático).</li><li><b>Cuestionario de Morisky-Green:</b> 4 preguntas; &lt;4 respuestas correctas sugiere baja adherencia.</li><li><b>Factores de no adherencia:</b> régimen complejo, efectos adversos, olvido, creencias, coste, depresión.</li><li><b>Intervenciones eficaces:</b> simplificar pauta, recordatorios, educación, implicar a familia, entrevista motivacional.</li><li><b>Trampa:</b> preguntar \"¿toma la medicación?\" genera sesgo de deseabilidad; usar pregunta neutra y no judgmental.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Comunicación médico-paciente efectiva",
+      "title": "Comunicación médico-paciente: técnicas clave",
+      "contentHtml": "<h2>Comunicación médico-paciente efectiva</h2><ul><li><b>Modelo Calgary-Cambridge:</b> iniciar sesión, recoger información, explorar, explicar y planificar, cerrar.</li><li><b>Escucha activa:</b> parafrasear, reflejar, resumir; preguntas abiertas al inicio y cerradas al final.</li><li><b>Comunicación no verbal:</b> contacto visual, postura abierta, distancia 0,6-1 m en consulta.</li><li><b>Malas noticias:</b> protocolo SPIKES (Setting, Perception, Invitation, Knowledge, Emotions, Strategy).</li><li><b>Barreras:</b> jerga técnica, interrupciones, lenguaje no adaptado a bajo nivel de alfabetización sanitaria.</li><li><b>Trampa:</b> la satisfacción del paciente no equivale a comprensión; verificar con teach-back (repetir con sus palabras).</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Toma de decisiones compartida",
+      "title": "Decisión compartida: modelo y herramientas",
+      "contentHtml": "<h2>Toma de decisiones compartida</h2><ul><li><b>Definición:</b> proceso colaborativo donde profesional y paciente eligen entre opciones razonables según evidencia y preferencias.</li><li><b>Elementos:</b> explicar opciones, beneficios, riesgos, incertidumbre y valores del paciente.</li><li><b>Herramientas de apoyo:</b> ayudas decisionales (folletos, videos) que mejoran conocimiento y reducen conflicto decisional.</li><li><b>Escala de conflicto decisional:</b> valora incertidumbre; &gt;25 puntos sugiere conflicto significativo.</li><li><b>Indicación típica:</b> cribado de cáncer de próstata con antígeno prostático específico, donde el beneficio absoluto es pequeño.</li><li><b>Trampa:</b> decisión compartida no es dejar decidir solo al paciente ni imponer la preferencia del médico; requiere información bidireccional.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Registro clínico adecuado en expediente",
+      "title": "Registro clínico: requisitos y valor legal",
+      "contentHtml": "<h2>Registro clínico adecuado en expediente</h2><ul><li><b>Requisitos:</b> veraz, legible, cronológico, completo, firmado con nombre y número de colegiado, sin abreviaturas ambiguas.</li><li><b>Contenido mínimo de nota de ingreso:</b> motivo, antecedentes, exploración, diagnóstico diferencial, plan.</li><li><b>Consentimiento informado:</b> documentar información dada, alternativas, riesgos y decisión del paciente.</li><li><b>Valor legal:</b> el expediente es prueba documental; las enmiendas se hacen con fecha y firma, nunca borrando.</li><li><b>Registro electrónico:</b> trazabilidad de accesos; alertas de interacciones reducen errores.</li><li><b>Trampa:</b> \"si no está registrado, no se hizo\"; la omisión de datos en la historia clínica es un error frecuente en exámenes.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Medicina preventiva y tamizajes",
+      "title": "Tamizajes: criterios y ejemplos preguntables",
+      "contentHtml": "<h2>Medicina preventiva y tamizajes</h2><ul><li><b>Criterios de tamizaje (Wilson-Jungner):</b> enfermedad importante, historia natural conocida, prueba sensible y específica, tratamiento eficaz, coste aceptable.</li><li><b>Sesgo de adelanto diagnóstico:</b> el tamizaje alarga el tiempo de supervivencia sin prolongar la vida.</li><li><b>Sesgo de sobrediagnóstico:</b> detección de lesiones que no causarían daño.</li><li><b>Ejemplos:</b> mamografía bienal 50-69 años; citología cervical desde 25 años; colonoscopia o sangre oculta en heces 50-75 años.</li><li><b>Vacunación:</b> revisar calendario por edad y comorbilidad; la gripe anual en mayores de 65 años y embarazadas.</li><li><b>Trampa:</b> el antígeno prostático específico no se recomienda como cribado poblacional universal; decisión individualizada.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Manejo de enfermedades crónicas",
+      "title": "Enfermedades crónicas: modelo y metas",
+      "contentHtml": "<h2>Manejo de enfermedades crónicas</h2><ul><li><b>Modelo de atención crónica:</b> sistema de salud, autocuidado, apoyo a la decisión, sistemas de información, organización del equipo, recursos comunitarios.</li><li><b>Entrevista motivacional:</b> explorar ambivalencia, evitar confrontación, fomentar autoeficacia.</li><li><b>Metas típicas:</b> hemoglobina glucosilada &lt;7 % en diabetes mellitus; presión arterial &lt;140/90 mmHg en hipertensión arterial; colesterol unido a lipoproteínas de baja densidad &lt;70 mg/dL en alto riesgo cardiovascular.</li><li><b>Automonitorización:</b> glucemia capilar, presión arterial domiciliaria, peso diario en insuficiencia cardiaca.</li><li><b>Revisión anual:</b> fondo de ojo, función renal, pie diabético, vacunación.</li><li><b>Trampa:</b> metas más estrictas no siempre benefician; individualizar en ancianos frágiles y comorbilidad.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Trabajo en equipo multidisciplinario",
+      "title": "Equipo multidisciplinario: roles y barreras",
+      "contentHtml": "<h2>Trabajo en equipo multidisciplinario</h2><ul><li><b>Equipo multidisciplinario:</b> médico, enfermería, farmacia, fisioterapia, trabajo social, nutrición, psicología.</li><li><b>Briefing y debriefing:</b> reunión breve antes y después de tareas críticas; mejora comunicación y detección de riesgos.</li><li><b>Liderazgo situacional:</b> el líder cambia según la tarea; en emergencias, líder clínico claro y comunicación en bucle cerrado.</li><li><b>Barreras:</b> jerarquía excesiva, roles ambiguos, falta de protocols, comunicación deficiente.</li><li><b>Escala de clima de seguridad:</b> cuestionarios tipo Safety Attitudes Questionnaire; puntuaciones bajas predicen eventos adversos.</li><li><b>Trampa:</b> la comunicación en bucle cerrado exige confirmación verbal de la orden recibida, no solo escuchar.</li></ul>"
+    }
+  ]
+}

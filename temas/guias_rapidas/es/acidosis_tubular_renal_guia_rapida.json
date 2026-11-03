@@ -1,0 +1,77 @@
+{
+  "id": "acidosis_tubular_renal",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Acidosis tubular renal tipo 1: orina pH >5.5",
+      "title": "Tipo 1: pH urinario inadecuadamente alto",
+      "contentHtml": "<h2>Acidosis tubular renal tipo 1: orina pH &gt;5.5</h2><ul><li><b>Defecto:</b> incapacidad del túbulo colector cortical para secretar iones hidrógeno (H+) contra gradiente, con pH urinario &gt;5.5 pese a acidosis metabólica sistémica.</li><li><b>Diagnóstico:</b> acidosis metabólica hiperclorémica con anión gap normal, hipokalemia y pH urinario &gt;5.5; el pH urinario no baja de 5.5 ni con sobrecarga ácida.</li><li><b>Prueba confirmatoria:</b> furosemida o sulfato de sodio no logran acidificar la orina por debajo de 5.5.</li><li><b>Trampa de examen:</b> un pH urinario &gt;5.5 en acidosis metabólica sin otra causa orienta a tipo 1; en tipo 2 el pH urinario puede ser &lt;5.5 una vez superado el umbral de reabsorción.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Tipo 1 por defecto de secreción de H+ en túbulo colector",
+      "title": "Tipo 1: fallo de la célula intercalada alfa",
+      "contentHtml": "<h2>Tipo 1 por defecto de secreción de H+ en túbulo colector</h2><ul><li><b>Fisiopatología:</b> disfunción de la célula intercalada alfa del túbulo colector cortical, con fallo de la bomba H+-ATPasa y/o del intercambiador H+/K+-ATPasa.</li><li><b>Consecuencia:</b> retención de iones hidrógeno (H+) y bicarbonato sérico bajo; la orina no se acidifica y el pH urinario permanece &gt;5.5.</li><li><b>Causas:</b> formas hereditarias (mutaciones de ATP6V1B1 o ATP6V0A4), anfotericina B, litio, obstrucción urinaria, nefrocalcinosis, síndrome de Sjögren.</li><li><b>Respuesta-tipo-examen:</b> el defecto está en el túbulo colector, no en el proximal; por eso el bicarbonato urinario no es masivamente elevado con bicarbonemia normal.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Tipo 2 por reabsorción proximal de bicarbonato disminuida",
+      "title": "Tipo 2: defecto proximal del bicarbonato",
+      "contentHtml": "<h2>Tipo 2 por reabsorción proximal de bicarbonato disminuida</h2><ul><li><b>Defecto:</b> disminución de la reabsorción de bicarbonato en el túbulo contorneado proximal, con bicarbonato sérico por debajo del umbral de reabsorción.</li><li><b>Diagnóstico:</b> acidosis metabólica hiperclorémica con anión gap normal e hipokalemia; el pH urinario es &lt;5.5 cuando la bicarbonemia es baja, pero se eleva &gt;7.5 al administrar bicarbonato.</li><li><b>Prueba clave:</b> con bicarbonemia normal, el bicarbonato urinario es elevado (fracción excretada de bicarbonato &gt;15%).</li><li><b>Trampa:</b> no confundir con tipo 1; en tipo 2 el defecto acidificante distal está intacto y el pH urinario puede acidificarse en acidosis establecida.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Tipo 2 asociada a síndrome de Fanconi",
+      "title": "Tipo 2 y síndrome de Fanconi",
+      "contentHtml": "<h2>Tipo 2 asociada a síndrome de Fanconi</h2><ul><li><b>Asociación:</b> la acidosis tubular renal tipo 2 suele formar parte del síndrome de Fanconi, disfunción generalizada del túbulo proximal.</li><li><b>Hallazgos del síndrome de Fanconi:</b> glucosuria con normoglucemia, aminoaciduria, fosfaturia, uricosuria, proteinuria tubular y pérdida de bicarbonato.</li><li><b>Clínica:</b> raquitismo u osteomalacia por hipofosfatemia, hipokalemia, poliuria y deshidratación.</li><li><b>Causas:</b> cistinosis, galactosemia, tirosinemia, enfermedad de Wilson, mieloma múltiple, fármacos (tenofovir, ifosfamida, aminoglucósidos).</li><li><b>Trampa:</b> si hay glucosuria con glucemia normal, buscar síndrome de Fanconi y no diabetes mellitus.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Tipo 4 por hipoaldosteronismo o resistencia a aldosterona",
+      "title": "Tipo 4: hipoaldosteronismo o resistencia",
+      "contentHtml": "<h2>Tipo 4 por hipoaldosteronismo o resistencia a aldosterona</h2><ul><li><b>Defecto:</b> déficit de aldosterona o resistencia a su acción en el túbulo colector, con menor secreción de iones hidrógeno (H+) y de potasio.</li><li><b>Causas:</b> hipoaldosteronismo hiporreninémico (nefropatía diabética, enfermedad renal crónica, antiinflamatorios no esteroideos), enfermedad de Addison, hiperplasia suprarrenal congénita, fármacos (espironolactona, amilorida, trimetoprima).</li><li><b>Diagnóstico:</b> acidosis metabólica hiperclorémica con anión gap normal e hiperkalemia; aldosterona baja o renina baja según la causa.</li><li><b>Trampa:</b> es la única acidosis tubular renal que cursa con hiperkalemia; si hay hiperkalemia con acidosis hiperclorémica, pensar en tipo 4.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Tipo 4 cursa con hiperkalemia",
+      "title": "Tipo 4: hiperkalemia característica",
+      "contentHtml": "<h2>Tipo 4 cursa con hiperkalemia</h2><ul><li><b>Mecanismo:</b> la aldosterona estimula la secreción de potasio e iones hidrógeno (H+) en el túbulo colector; su déficit o resistencia produce retención de potasio e hidrogeniones.</li><li><b>Consecuencia:</b> hiperkalemia con acidosis metabólica hiperclorémica y anión gap normal.</li><li><b>Diferencial:</b> la hiperkalemia también aparece en insuficiencia renal, pero en tipo 4 la acidosis es desproporcionada para el filtrado glomerular.</li><li><b>Manejo:</b> corregir la causa, restringir potasio, usar diuréticos de asa o tiazidas y, si hay hipoaldosteronismo, fludrocortisona.</li><li><b>Respuesta-tipo-examen:</b> hiperkalemia + acidosis hiperclorémica = acidosis tubular renal tipo 4.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Tipos 1 y 2 cursan con hipokalemia",
+      "title": "Tipos 1 y 2: hipokalemia",
+      "contentHtml": "<h2>Tipos 1 y 2 cursan con hipokalemia</h2><ul><li><b>Mecanismo en tipo 1:</b> menor secreción de iones hidrógeno (H+) en el túbulo colector aumenta la secreción de potasio; además, el hiperaldosteronismo secundario favorece la pérdida de potasio.</li><li><b>Mecanismo en tipo 2:</b> la pérdida proximal de bicarbonato y la mayor carga distal de sodio aumentan la pérdida de potasio.</li><li><b>Clínica:</b> debilidad muscular, calambres, arritmias, poliuria y nefrocalcinosis (más en tipo 1).</li><li><b>Trampa:</b> la hipokalemia es típica de tipos 1 y 2, pero no de tipo 4; en tipo 4 la hiperkalemia es la regla.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Nefrocalcinosis y litiasis en tipo 1",
+      "title": "Tipo 1: nefrocalcinosis y litiasis",
+      "contentHtml": "<h2>Nefrocalcinosis y litiasis en tipo 1</h2><ul><li><b>Mecanismo:</b> la acidosis crónica y el pH urinario &gt;5.5 favorecen la precipitación de fosfato cálcico y la formación de litiasis.</li><li><b>Hallazgo imagen:</b> <b>Nefrocalcinosis medular:</b> depósitos calcificados en pirámides renales visibles en ecografía o tomografía computarizada.</li><li><b>Clínica:</b> cólico renal, hematuria, infecciones urinarias recurrentes y progresión a enfermedad renal crónica.</li><li><b>Trampa:</b> la nefrocalcinosis es más frecuente en tipo 1 que en tipo 2; en tipo 2 predomina el síndrome de Fanconi.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Acidosis tubular renal distal: hipocitraturia",
+      "title": "Tipo 1 distal: hipocitraturia",
+      "contentHtml": "<h2>Acidosis tubular renal distal: hipocitraturia</h2><ul><li><b>Mecanismo:</b> la acidosis intracelular aumenta la reabsorción proximal de citrato y reduce su excreción urinaria.</li><li><b>Consecuencia:</b> hipocitraturia, que disminuye la inhibición de la cristalización de sales de calcio y favorece litiasis y nefrocalcinosis.</li><li><b>Asociación:</b> la hipocitraturia es típica de la acidosis tubular renal distal (tipo 1).</li><li><b>Manejo:</b> alcalinización con bicarbonato de sodio o citrato de potasio; el citrato de potasio corrige acidosis e hipocitraturia.</li><li><b>Trampa:</b> la hipocitraturia no es exclusiva, pero es un marcador de acidosis tubular renal distal crónica.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Tipo 2: bicarbonato urinario elevado con bicarbonemia normal",
+      "title": "Tipo 2: bicarbonato urinario elevado",
+      "contentHtml": "<h2>Tipo 2: bicarbonato urinario elevado con bicarbonemia normal</h2><ul><li><b>Prueba:</b> cuando la bicarbonemia se eleva a valores normales, el túbulo proximal defectuoso no reabsorbe bicarbonato y aparece bicarbonato urinario elevado.</li><li><b>Criterio:</b> fracción excretada de bicarbonato &gt;15% con bicarbonemia normal; en acidosis establecida puede ser normal.</li><li><b>Diagnóstico diferencial:</b> en tipo 1 el bicarbonato urinario es bajo con bicarbonemia normal; en tipo 2 es elevado.</li><li><b>Trampa:</b> la prueba requiere corregir la acidosis con bicarbonato para desenmascarar el defecto proximal.</li></ul>"
+    },
+    {
+      "order": 11,
+      "foco": "Tipo 4: hiperkalemia con acidosis hiperclorémica",
+      "title": "Tipo 4: hiperkalemia + acidosis hiperclorémica",
+      "contentHtml": "<h2>Tipo 4: hiperkalemia con acidosis hiperclorémica</h2><ul><li><b>Patrón:</b> acidosis metabólica hiperclorémica con anión gap normal e hiperkalemia.</li><li><b>Mecanismo:</b> déficit de aldosterona o resistencia a aldosterona reduce la secreción de potasio e iones hidrógeno (H+) en el túbulo colector.</li><li><b>Causas frecuentes:</b> nefropatía diabética, enfermedad renal crónica, antiinflamatorios no esteroideos, espironolactona, amilorida, trimetoprima, enfermedad de Addison.</li><li><b>Manejo:</b> corregir la causa, restringir potasio, diuréticos de asa o tiazidas, fludrocortisona en hipoaldosteronismo.</li><li><b>Trampa:</b> no confundir con acidosis tubular renal tipo 1 o 2, que cursan con hipokalemia.</li></ul>"
+    },
+    {
+      "order": 12,
+      "foco": "Anión gap normal en todas las acidosis tubulares renales",
+      "title": "Anión gap normal en todas las acidosis tubulares renales",
+      "contentHtml": "<h2>Anión gap normal en todas las acidosis tubulares renales</h2><ul><li><b>Regla:</b> todas las acidosis tubulares renales producen acidosis metabólica hiperclorémica con anión gap normal.</li><li><b>Mecanismo:</b> se pierde bicarbonato o no se excreta iones hidrógeno (H+), y el cloro compensa la carga aniónica; no se acumulan aniones no medidos.</li><li><b>Diferencial:</b> si el anión gap está elevado, pensar en cetoacidosis, acidosis láctica, insuficiencia renal o tóxicos.</li><li><b>Trampa:</b> anión gap normal no descarta acidosis tubular renal; es un rasgo común a los tipos 1, 2 y 4.</li></ul>"
+    }
+  ]
+}

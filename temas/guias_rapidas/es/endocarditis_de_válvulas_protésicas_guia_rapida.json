@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Clasificación precoz vs tardía según tiempo de cirugía",
-      "title": "Clasificación precoz vs tardía",
-      "contentHtml": "<h2>Clasificación precoz vs tardía</h2><ul><li><b>Endocarditis protésica precoz:</b> &lt;1 año tras el recambio valvular (algunos textos &lt;12 meses); etiología nosocomial/quirúrgica, predominan estafilococos coagulasa negativos y Staphylococcus aureus.</li><li><b>Endocarditis protésica tardía:</b> &gt;1 año tras la cirugía; microbiología similar a válvula nativa (estreptococos viridans, enterococos, HACEK).</li><li>Trampa de examen: el punto de corte clásico es <b>1 año</b>, no 60 días ni 6 meses.</li><li>La clasificación orienta la antibioticoterapia empírica inicial.</li></ul>"
+      "foco": "Diferenciar endocarditis protésica precoz vs tardía",
+      "title": "Endocarditis protésica: precoz vs tardía",
+      "contentHtml": "<h2>Endocarditis protésica: precoz vs tardía</h2><ul><li><b>Precoz:</b> &lt;12 meses tras el recambio (algunos textos &lt;60 días para infección nosocomial); predomina <b>Staphylococcus epidermidis</b> y otros estafilococos coagulasa-negativos; mecanismo: contaminación intraoperatoria.</li><li><b>Tardía:</b> &gt;12 meses; microbiología similar a válvula nativa (<b>Staphylococcus aureus</b>, estreptococos, enterococos); mecanismo hematógeno.</li><li>Trampa de examen: la fiebre persistente &gt;72 h postoperatorio obliga a descartar precoz, no atribuirla a inflamación quirúrgica.</li><li>Pronóstico: precoz con mayor tasa de absceso perivalvular y dehiscencia.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Agentes precoces: estafilococos coagulasa negativos",
-      "title": "Agentes precoces",
-      "contentHtml": "<h2>Agentes precoces</h2><ul><li><b>Estafilococos coagulasa negativos</b> (sobre todo Staphylococcus epidermidis) son la causa más frecuente de endocarditis protésica precoz (&lt;1 año).</li><li>Mecanismo: contaminación intraoperatoria y adhesión al material protésico con formación de biopelícula.</li><li>Otros agentes precoces: Staphylococcus aureus, bacilos gramnegativos y Candida.</li><li>Diagnóstico diferencial: endocarditis por estafilococos coagulasa negativos vs contaminante de hemocultivo; exige hemocultivos seriados positivos y clínica.</li><li>Trampa: la biopelícula reduce la penetración antibiótica y favorece recaídas.</li></ul>"
+      "foco": "Staphylococcus epidermidis en prótesis precoz",
+      "title": "Staphylococcus epidermidis en prótesis precoz",
+      "contentHtml": "<h2>Staphylococcus epidermidis en prótesis precoz</h2><ul><li>Estafilococo coagulasa-negativo, comensal cutáneo; produce <b>biopelícula</b> que dificulta la penetración antibiótica y favorece recaída.</li><li>Es el microorganismo más frecuente en endocarditis protésica <b>precoz</b> (&lt;12 meses).</li><li>Hemocultivos: crecimiento lento; solicitar <b>3 juegos de hemocultivos seriados</b> antes de antibióticos.</li><li>Tratamiento de elección: <b>vancomicina</b> asociada a <b>rifampicina</b> y <b>gentamicina</b>; la rifampicina solo tras esterilizar hemocultivos por riesgo de resistencia.</li><li>Trampa: la resistencia a meticilina es frecuente; no usar oxacilina empírica.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Agentes tardíos similares a válvula nativa",
-      "title": "Agentes tardíos",
-      "contentHtml": "<h2>Agentes tardíos</h2><ul><li><b>Endocarditis protésica tardía</b> (&gt;1 año) comparte microbiología con la válvula nativa: estreptococos viridans, enterococos, grupo HACEK (Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella) y Staphylococcus aureus.</li><li>Fisiopatología: bacteriemia comunitaria sobre endotelio protésico ya endotelizado.</li><li>Diagnóstico diferencial con endocarditis de válvula nativa: mismo espectro, pero mayor riesgo de absceso perianular y dehiscencia.</li><li>Trampa: no asumir estafilococo coagulasa negativo solo por portar prótesis; el tiempo desde cirugía define el espectro.</li></ul>"
+      "foco": "Staphylococcus aureus en prótesis tardía",
+      "title": "Staphylococcus aureus en prótesis tardía",
+      "contentHtml": "<h2>Staphylococcus aureus en prótesis tardía</h2><ul><li>En endocarditis protésica <b>tardía</b> (&gt;12 meses), <b>Staphylococcus aureus</b> es el patógeno más frecuente y de mayor virulencia.</li><li>Asociación clásica: bacteriemia por <b>Staphylococcus aureus</b> + prótesis valvular = endocarditis hasta demostrar lo contrario.</li><li>Complicaciones: absceso perivalvular, dehiscencia de prótesis, insuficiencia cardíaca aguda.</li><li>Tratamiento: <b>oxacilina</b> o <b>cefazolina</b> si sensible a meticilina; <b>vancomicina</b> si resistente; añadir <b>rifampicina</b> y <b>gentamicina</b> en prótesis.</li><li>Trampa: no retrasar cirugía si hay insuficiencia cardíaca o absceso.</li></ul>"
     },
     {
       "order": 4,
       "foco": "Fiebre persistente tras recambio valvular",
-      "title": "Fiebre persistente tras recambio",
-      "contentHtml": "<h2>Fiebre persistente tras recambio valvular</h2><ul><li>Fiebre &gt;48-72 horas tras el recambio valvular obliga a descartar <b>endocarditis protésica</b> frente a causas no infecciosas (fiebre postpericardiotomía, reacción a fármacos, tromboembolia).</li><li>Hallazgo clave: fiebre persistente + hemocultivos positivos + nuevo soplo regurgitante = alta sospecha.</li><li>Antes de antibióticos: obtener <b>3 sets de hemocultivos</b> de venopunciones distintas.</li><li>Trampa: la fiebre postoperatoria precoz no es sinónimo de endocarditis; exige evaluación sistemática.</li></ul>"
+      "title": "Fiebre persistente tras recambio valvular",
+      "contentHtml": "<h2>Fiebre persistente tras recambio valvular</h2><ul><li>Fiebre &gt;72 h postoperatorio o recurrente debe hacer descartar <b>endocarditis protésica precoz</b>.</li><li>Diagnóstico diferencial: neumonía, infección de herida esternal, infección urinaria, trombosis venosa profunda, reacción a fármacos, fiebre postpericardiotomía.</li><li>Actitud: <b>hemocultivos seriados antes de antibióticos</b> (3 juegos), ecocardiograma transesofágico y valorar criterios de Duke modificados.</li><li>Trampa: la fiebre postpericardiotomía suele aparecer en la primera semana y no requiere antibióticos si no hay bacteriemia.</li><li>No atribuir fiebre persistente a la cirugía sin descartar endocarditis.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Hemocultivos seriados antes de antibióticos",
-      "title": "Hemocultivos seriados",
-      "contentHtml": "<h2>Hemocultivos seriados antes de antibióticos</h2><ul><li>Obtener <b>3 sets de hemocultivos</b> (cada set: aerobio y anaerobio) de sitios de venopunción diferentes antes de iniciar antibióticos.</li><li>En endocarditis protésica, la bacteriemia suele ser continua; no requiere picos febriles.</li><li>Si el paciente está inestable, extraer 2-3 sets y no retrasar la antibioticoterapia empírica.</li><li>Trampa: hemocultivos obtenidos tras antibióticos reducen el rendimiento y pueden negativizar la etiología.</li></ul>"
+      "foco": "Ecocardiograma transesofágico de elección",
+      "title": "Ecocardiograma transesofágico de elección",
+      "contentHtml": "<h2>Ecocardiograma transesofágico de elección</h2><ul><li><b>Ecocardiograma transesofágico</b> es de elección en endocarditis protésica por mayor sensibilidad (&gt;90%) frente al transtorácico (&lt;50%).</li><li>Indicado ante sospecha clínica, hemocultivos positivos o fiebre persistente tras recambio valvular.</li><li>Hallazgos: vegetación, absceso perivalvular, dehiscencia de prótesis, fístula.</li><li>Repetir si el primero es negativo y la sospecha persiste (&gt;5-7 días).</li><li>Trampa: el transtorácico normal no descarta endocarditis protésica.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Ecocardiograma transesofágico primera línea diagnóstica",
-      "title": "Ecocardiograma transesofágico",
-      "contentHtml": "<h2>Ecocardiograma transesofágico</h2><ul><li><b>Ecocardiograma transesofágico</b> es la primera línea diagnóstica en endocarditis protésica por su mayor sensibilidad para vegetaciones pequeñas, absceso perianular y dehiscencia.</li><li>Ecocardiograma transtorácico inicial es útil, pero un resultado negativo no descarta endocarditis protésica.</li><li>Hallazgo clave: vegetación móvil sobre prótesis, absceso perianular o nueva dehiscencia.</li><li>Trampa: repetir ecocardiograma transesofágico si la sospecha persiste y el primero fue negativo.</li></ul>"
+      "foco": "Hemocultivos seriados antes de antibióticos",
+      "title": "Hemocultivos seriados antes de antibióticos",
+      "contentHtml": "<h2>Hemocultivos seriados antes de antibióticos</h2><ul><li>Obtener <b>3 juegos de hemocultivos seriados</b> de venopunciones distintas antes de iniciar antibióticos; cada juego con aerobio y anaerobio.</li><li>No retrasar antibióticos en sepsis o inestabilidad hemodinámica: extraer y tratar.</li><li>En prótesis precoz, los estafilococos coagulasa-negativos pueden ser contaminantes: exigir &gt;2 cultivos positivos del mismo microorganismo.</li><li>Trampa: no tomar hemocultivos a través de catéter si hay venopunción periférica disponible.</li><li>Repetir hemocultivos cada 24-48 h hasta negativizar.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Criterios de Duke modificados para prótesis",
+      "foco": "Criterios de Duke modificados para diagnóstico",
       "title": "Criterios de Duke modificados",
-      "contentHtml": "<h2>Criterios de Duke modificados para prótesis</h2><ul><li>Criterios mayores: hemocultivos positivos típicos y evidencia de afectación endocárdica en ecocardiograma (vegetación, absceso, dehiscencia de prótesis).</li><li>Criterios menores: predisposición (prótesis valvular), fiebre &gt;38 °C, fenómenos vasculares, fenómenos inmunológicos y hemocultivos positivos no mayores.</li><li>Endocarditis definitiva: 2 criterios mayores, 1 mayor + 3 menores, o 5 menores.</li><li>Trampa: la prótesis valvular es criterio menor de predisposición, no criterio mayor por sí sola.</li></ul>"
+      "contentHtml": "<h2>Criterios de Duke modificados</h2><ul><li><b>Criterios mayores:</b> hemocultivos positivos típicos (2 positivos para microorganismo típico) y evidencia de afectación endocárdica por ecocardiograma (vegetación, absceso, dehiscencia de prótesis, nueva regurgitación).</li><li><b>Criterios menores:</b> predisposición, fiebre &gt;38 °C, fenómenos vasculares, fenómenos inmunológicos, hemocultivos positivos no mayores, hallazgos ecocardiográficos no mayores.</li><li>Diagnóstico definitivo: 2 mayores, 1 mayor + 3 menores, o 5 menores.</li><li>Posible: 1 mayor + 1 menor o 3 menores.</li><li>Trampa: en prótesis, la dehiscencia de prótesis es criterio mayor ecocardiográfico.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Absceso perianular y dehiscencia de prótesis",
-      "title": "Absceso perianular y dehiscencia",
-      "contentHtml": "<h2>Absceso perianular y dehiscencia de prótesis</h2><ul><li><b>Absceso perianular</b> es complicación temida de endocarditis protésica; se manifiesta con fiebre persistente, bloqueo auriculoventricular nuevo o soplo regurgitante.</li><li><b>Dehiscencia de prótesis</b> produce regurgitación paravalvular y puede causar insuficiencia cardíaca.</li><li>Hallazgo clave: ecocardiograma transesofágico muestra colección perianular o movimiento anómalo del anillo protésico.</li><li>Trampa: absceso perianular o dehiscencia con disfunción valvular es indicación de cirugía urgente.</li></ul>"
+      "foco": "Absceso perivalvular y dehiscencia de prótesis",
+      "title": "Absceso perivalvular y dehiscencia",
+      "contentHtml": "<h2>Absceso perivalvular y dehiscencia de prótesis</h2><ul><li><b>Absceso perivalvular:</b> colección purulenta en el anillo valvular; complicación típica de endocarditis protésica precoz por estafilococos.</li><li><b>Dehiscencia de prótesis:</b> movimiento anormal del anillo protésico; signo ecocardiográfico de infección avanzada.</li><li>Clínica: fiebre persistente, insuficiencia cardíaca, bloqueo auriculoventricular nuevo, soplo nuevo.</li><li>Diagnóstico: <b>ecocardiograma transesofágico</b> de elección.</li><li>Trampa: el absceso perivalvular es indicación quirúrgica urgente.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Nuevo soplo regurgitante en prótesis",
-      "title": "Nuevo soplo regurgitante",
-      "contentHtml": "<h2>Nuevo soplo regurgitante en prótesis</h2><ul><li>La aparición de un <b>nuevo soplo regurgitante</b> en portador de prótesis valvular sugiere dehiscencia paravalvular o vegetación con disfunción.</li><li>Debe correlacionarse con ecocardiograma transesofágico y hemocultivos.</li><li>Diagnóstico diferencial: regurgitación paravalvular por dehiscencia vs trombosis protésica vs disfunción estructural.</li><li>Trampa: un soplo nuevo en prótesis no es hallazgo benigno; obliga a descartar endocarditis complicada.</li></ul>"
+      "foco": "Cirugía urgente si insuficiencia cardíaca o absceso",
+      "title": "Cirugía urgente en endocarditis protésica",
+      "contentHtml": "<h2>Cirugía urgente en endocarditis protésica</h2><ul><li>Indicaciones de cirugía urgente: <b>insuficiencia cardíaca</b> por disfunción protésica, <b>absceso perivalvular</b>, dehiscencia de prótesis, fístula, infección no controlada con antibióticos &gt;7-10 días, microorganismo virulento o resistente.</li><li>La insuficiencia cardíaca es la principal causa de muerte; no retrasar cirugía.</li><li>En prótesis precoz por estafilococos, valorar recambio valvular precoz.</li><li>Trampa: la cirugía no se contraindica por fiebre persistente si hay insuficiencia cardíaca o absceso.</li><li>Antibioterapia postoperatoria completa según microorganismo.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Vancomicina más rifampicina y gentamicina empírico",
-      "title": "Tratamiento empírico",
-      "contentHtml": "<h2>Tratamiento empírico</h2><ul><li>Endocarditis protésica precoz empírica: <b>vancomicina</b> + <b>rifampicina</b> + <b>gentamicina</b>, cubriendo estafilococos coagulasa negativos, Staphylococcus aureus y bacilos gramnegativos.</li><li>Vancomicina cubre grampositivos resistentes a meticilina; rifampicina penetra la biopelícula protésica; gentamicina aporta sinergia frente a estafilococos.</li><li>Ajustar según hemocultivos y función renal.</li><li>Trampa: la rifampicina no se usa en monoterapia por riesgo de resistencia.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Rifampicina solo en infección por estafilococos",
-      "title": "Rifampicina en estafilococos",
-      "contentHtml": "<h2>Rifampicina solo en infección por estafilococos</h2><ul><li><b>Rifampicina</b> se reserva para endocarditis protésica por estafilococos (sobre todo Staphylococcus aureus y estafilococos coagulasa negativos) por su actividad sobre biopelícula.</li><li>Debe asociarse siempre a otro fármaco antestafilocócico para evitar resistencia.</li><li>No está indicada de forma rutinaria en endocarditis por estreptococos viridans o enterococos.</li><li>Trampa: rifampicina no es tratamiento empírico aislado; su uso dirigido depende del aislamiento de estafilococos.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Cirugía urgente si disfunción o absceso",
-      "title": "Cirugía urgente",
-      "contentHtml": "<h2>Cirugía urgente si disfunción o absceso</h2><ul><li>Indicación de <b>cirugía urgente</b> en endocarditis protésica: insuficiencia cardíaca por disfunción protésica, absceso perianular, dehiscencia de prótesis o infección no controlada.</li><li>También considerar cirugía si vegetación persistente o embolias recurrentes.</li><li>Hallazgo clave: absceso perianular o dehiscencia con regurgitación significativa = cirugía.</li><li>Trampa: la antibioticoterapia sola no resuelve absceso perianular ni dehiscencia con disfunción.</li></ul>"
+      "foco": "Profilaxis antibiótica antes de procedimientos dentales",
+      "title": "Profilaxis antibiótica dental",
+      "contentHtml": "<h2>Profilaxis antibiótica dental</h2><ul><li>Indicada en portadores de prótesis valvular ante procedimientos dentales que impliquen manipulación gingival o perforación de mucosa.</li><li>Pauta: <b>amoxicilina 2 g</b> oral 30-60 min antes; si alergia a penicilina, <b>clindamicina 600 mg</b> o <b>azitromicina 500 mg</b>.</li><li>No indicada en procedimientos dentales de bajo riesgo (caries superficial, ajuste de ortodoncia).</li><li>Trampa: la profilaxis no sustituye la higiene dental; la bacteriemia espontánea es más frecuente que la procedimental.</li><li>En prótesis precoz reciente, extremar higiene y control odontológico.</li></ul>"
     }
   ]
 }

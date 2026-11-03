@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Criterios diagnósticos: glucemia >250, cetonemia y acidosis",
+      "foco": "Criterios diagnósticos: glucemia >250, pH <7.3, HCO3 <18",
       "title": "Criterios diagnósticos de cetoacidosis diabética",
-      "contentHtml": "<h2>Criterios diagnósticos</h2><ul><li><b>Glucemia &gt;250 mg/dL</b> (aunque puede ser menor en cetoacidosis euglucémica).</li><li><b>Cetonemia</b> o cetonuria positiva (beta-hidroxibutirato &gt;3 mmol/L es el estándar actual).</li><li><b>Acidosis metabólica</b>: pH &lt;7.30 o bicarbonato sérico &lt;18 mEq/L.</li><li><b>Anión gap elevado</b> (&gt;12 mEq/L) por cetoácidos.</li><li>Diagnóstico diferencial: acidosis láctica (lactato elevado, cetonas negativas), acidosis urémica (falla renal, cetonas negativas), acidosis por tóxicos (salicilatos, metanol, etilenglicol).</li><li>Trampa de examen: glucemia puede estar &lt;250 mg/dL en cetoacidosis euglucémica asociada a inhibidores del cotransportador sodio-glucosa tipo 2.</li></ul>"
+      "contentHtml": "<h2>Criterios diagnósticos</h2><ul><li><b>Glucemia &gt;250 mg/dL</b>, <b>pH arterial &lt;7.3</b> y <b>bicarbonato sérico &lt;18 mEq/L</b>.</li><li>La tríada bioquímica define el trastorno; la gravedad se estratifica por pH: leve 7.25-7.30, moderada 7.00-7.24, grave &lt;7.00.</li><li>El anión gap elevado y las cetonas positivas confirman el componente cetósico.</li><li>Trampa de examen: glucemia puede ser normal en cetoacidosis diabética euglucémica por inhibidores del cotransportador sodio-glucosa tipo 2.</li><li>No exigir cetonemia para iniciar tratamiento si la clínica y la acidosis son compatibles.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Anión gap elevado con cetonas positivas",
+      "foco": "Anión gap elevado y cetonas séricas o urinarias positivas",
       "title": "Anión gap y cetonas",
-      "contentHtml": "<h2>Anión gap elevado con cetonas positivas</h2><ul><li><b>Anión gap</b> = sodio - (cloro + bicarbonato); valor normal <b>8-12 mEq/L</b>.</li><li>En cetoacidosis diabética el gap es <b>&gt;12 mEq/L</b> por acumulación de beta-hidroxibutirato y acetoacetato.</li><li><b>Cetonas positivas</b> en sangre u orina confirman el origen cetósico de la acidosis.</li><li>El método con nitroprusiato detecta acetoacetato pero no beta-hidroxibutirato (falso negativo en cetoacidosis incipiente); preferir medición de <b>beta-hidroxibutirato</b>.</li><li>Trampa: el gap puede persistir elevado tras resolver la cetoacidosis por hipercloremia de la reanimación con solución salina isotónica.</li><li>Diagnóstico diferencial de gap elevado sin cetonas: acidosis láctica, falla renal, tóxicos (salicilatos, metanol, etilenglicol).</li></ul>"
+      "contentHtml": "<h2>Anión gap y cetonas</h2><ul><li><b>Anión gap elevado</b> (fórmula: sodio menos cloro menos bicarbonato; valor normal 8-12 mEq/L) por acumulación de beta-hidroxibutirato y acetoacetato.</li><li><b>Cetonas séricas o urinarias positivas</b> confirman cetosis; la beta-hidroxibutirato es el cetón más abundante y el método preferido.</li><li>La prueba con nitroprusiato en orina detecta acetoacetato, no beta-hidroxibutirato: puede ser falsamente negativa en cetoacidosis inicial o falsamente positiva tras el tratamiento.</li><li>El anión gap se usa para monitorizar la resolución; se cierra antes que las cetonas.</li><li>Trampa: acidosis metabólica con anión gap elevado sin cetonas obliga a descartar acidosis láctica, uremia o tóxicos.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Pseudohiponatremia por hiperglucemia corregida",
-      "title": "Sodio corregido por hiperglucemia",
-      "contentHtml": "<h2>Pseudohiponatremia por hiperglucemia</h2><ul><li>La hiperglucemia produce <b>pseudohiponatremia</b> por dilución: el sodio medido es falsamente bajo.</li><li><b>Sodio corregido</b> = sodio medido + 1.6 mEq/L por cada 100 mg/dL de glucemia &gt;100 mg/dL (factor 1.6; algunos usan 2.4 en hiperglucemia severa).</li><li>Ejemplo: sodio 130 mEq/L con glucemia 600 mg/dL → sodio corregido ≈ 138 mEq/L.</li><li>El sodio corregido es clave para valorar el déficit real de agua libre y guiar la fluidoterapia.</li><li>Trampa de examen: no tratar la hiponatremia con solución salina hipertónica si es pseudohiponatremia por hiperglucemia; primero corregir la glucemia.</li><li>Si el sodio corregido es &gt;135 mEq/L indica déficit de agua libre importante y puede requerir solución hipotónica tras la reanimación inicial.</li></ul>"
+      "foco": "CAD euglucémica con iSGLT2: glucemia normal pero acidosis",
+      "title": "Cetoacidosis diabética euglucémica por iSGLT2",
+      "contentHtml": "<h2>Cetoacidosis diabética euglucémica</h2><ul><li>Los <b>inhibidores del cotransportador sodio-glucosa tipo 2</b> (iSGLT2) pueden desencadenar cetoacidosis diabética con <b>glucemia &lt;250 mg/dL</b> e incluso normal.</li><li>Mecanismo: glucosuria sostenida, depleción de volumen, aumento de glucagón y cetogénesis con menor umbral de glucosa para cetosis.</li><li>Se presenta con <b>pH &lt;7.3</b>, <b>bicarbonato &lt;18 mEq/L</b> y cetonas positivas pese a glucemia normal.</li><li>Factores precipitantes: cirugía, ayuno, infección, reducción de insulina, embarazo.</li><li>Trampa de examen: no descartar cetoacidosis diabética por glucemia normal en paciente con iSGLT2; suspender el fármaco y tratar la acidosis.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Potasio sérico puede estar normal o alto pese a déficit total",
-      "title": "Potasio en cetoacidosis diabética",
-      "contentHtml": "<h2>Potasio sérico normal o alto con déficit total</h2><ul><li>En cetoacidosis diabética el <b>déficit total de potasio</b> es de <b>3-5 mEq/kg</b> por diuresis osmótica y vómitos.</li><li>El potasio sérico puede ser <b>normal o alto</b> por acidosis (salida de potasio intracelular) e insulinopenia.</li><li><b>Potasio &lt;3.3 mEq/L</b> contraindica iniciar insulina hasta reponerlo (riesgo de arritmias).</li><li><b>Potasio 3.3-5.2 mEq/L</b>: iniciar insulina y reponer potasio 20-30 mEq/L en la solución.</li><li><b>Potasio &gt;5.2 mEq/L</b>: no reponer inicialmente; monitorizar cada 2-4 horas.</li><li>Trampa: no confiar en el potasio sérico inicial; siempre asumir déficit total y monitorizar.</li></ul>"
+      "foco": "Potasio sérico inicial guía la reposición antes de insulina",
+      "title": "Potasio inicial y decisión de insulina",
+      "contentHtml": "<h2>Potasio sérico inicial</h2><ul><li>El <b>potasio sérico inicial</b> determina la secuencia: si <b>potasio &lt;3.3 mEq/L</b>, reponer potasio antes de iniciar insulina.</li><li>Si potasio 3.3-5.2 mEq/L, iniciar insulina y reponer potasio simultáneamente (20-30 mEq/L de líquido).</li><li>Si potasio &gt;5.2 mEq/L, iniciar insulina sin potasio y monitorizar cada 2 horas.</li><li>La insulina desplaza potasio al interior celular y puede precipitar arritmias graves si hay depleción previa.</li><li>Trampa: no iniciar infusión de insulina con potasio &lt;3.3 mEq/L aunque la acidosis sea grave.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Reposición de potasio antes de insulina si K <3.3",
-      "title": "Reposición de potasio antes de insulina",
-      "contentHtml": "<h2>Reposición de potasio antes de insulina si potasio &lt;3.3 mEq/L</h2><ul><li><b>Potasio &lt;3.3 mEq/L</b>: <b>no iniciar insulina</b> hasta reponer potasio (la insulina desplaza potasio al interior celular y puede causar arritmias graves).</li><li>Reponer <b>20-30 mEq/L</b> de potasio en solución salina isotónica y monitorizar cada 1-2 horas.</li><li>Iniciar insulina cuando potasio &gt;3.3 mEq/L.</li><li>Si potasio &gt;5.2 mEq/L, no reponer y monitorizar; la insulina reducirá el potasio sérico.</li><li>Trampa de examen: la insulina nunca se retrasa por potasio normal o alto; solo se retrasa si potasio &lt;3.3 mEq/L.</li><li>El potasio debe medirse cada 2-4 horas durante el tratamiento.</li></ul>"
+      "foco": "Déficit corporal total de potasio pese a kaliemia normal o alta",
+      "title": "Déficit corporal total de potasio",
+      "contentHtml": "<h2>Déficit corporal total de potasio</h2><ul><li>En cetoacidosis diabética el <b>déficit corporal total de potasio</b> es de 3-5 mEq/kg, aunque la kaliemia inicial sea normal o alta.</li><li>La acidosis y la hiperglucemia desplazan potasio al espacio extracelular, enmascarando la depleción intracelular.</li><li>La kaliemia normal o alta no descarta déficit; al corregir la acidosis y administrar insulina el potasio sérico desciende rápidamente.</li><li>Monitorizar potasio cada 2-4 horas durante las primeras 24 horas.</li><li>Trampa de examen: asumir que kaliemia normal significa potasio corporal normal es un error frecuente.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Insulina IV en bolo seguida de infusión continua",
-      "title": "Insulina intravenosa en cetoacidosis diabética",
-      "contentHtml": "<h2>Insulina intravenosa: bolo e infusión continua</h2><ul><li><b>Bolo inicial de insulina regular</b> 0.1 U/kg intravenoso (opcional según protocolo) seguido de <b>infusión continua 0.1 U/kg/hora</b>.</li><li>Objetivo: reducir glucemia <b>50-75 mg/dL por hora</b>.</li><li>Cuando glucemia &lt;200-250 mg/dL, añadir <b>dextrosa al 5%</b> a la solución y mantener insulina para resolver la cetosis.</li><li>No suspender la insulina hasta que el <b>anión gap</b> sea &lt;12 mEq/L y las cetonas negativas.</li><li>Trampa: la insulina subcutánea no se usa en cetoacidosis; solo intravenosa en infusión continua.</li><li>En niños: infusión <b>0.05-0.1 U/kg/hora</b> sin bolo para evitar edema cerebral.</li></ul>"
+      "foco": "Hidratación con solución salina isotónica como primer paso",
+      "title": "Hidratación inicial",
+      "contentHtml": "<h2>Hidratación inicial</h2><ul><li>El <b>primer paso</b> es la <b>hidratación con solución salina isotónica</b> (cloruro de sodio al 0.9%) a 15-20 mL/kg en la primera hora o 1-1.5 L.</li><li>Objetivo: restaurar volumen intravascular, mejorar perfusión y filtrar glucosa.</li><li>Tras la primera hora, continuar con solución salina isotónica a 250-500 mL/h según estado hemodinámico y electrolitos.</li><li>Cuando la glucemia &lt;250 mg/dL, cambiar a solución glucosada al 5% con solución salina para permitir insulina continua sin hipoglucemia.</li><li>Trampa: la hidratación precede a la insulina, salvo hiperkalemia grave o compromiso vital inmediato.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Hidratación con solución salina isotónica inicial",
-      "title": "Hidratación inicial con solución salina isotónica",
-      "contentHtml": "<h2>Hidratación con solución salina isotónica inicial</h2><ul><li><b>Solución salina isotónica (cloruro de sodio al 0.9%)</b>: 15-20 mL/kg en la primera hora (1-1.5 L en adultos).</li><li>El déficit de agua libre es de <b>5-10% del peso corporal</b>; reponer en 24-48 horas.</li><li>Tras la reanimación inicial, si sodio corregido &gt;135 mEq/L, cambiar a solución salina al 0.45%.</li><li>Evitar solución salina isotónica excesiva para no causar <b>acidosis hiperclorémica</b>.</li><li>Trampa: no usar soluciones hipotónicas en la primera hora; el objetivo inicial es restaurar volumen intravascular.</li><li>En niños: 10-20 mL/kg en 1-2 horas; evitar sobrecarga hídrica rápida por riesgo de edema cerebral.</li></ul>"
+      "foco": "Insulina IV en bolo seguida de infusión continua",
+      "title": "Insulina intravenosa",
+      "contentHtml": "<h2>Insulina intravenosa</h2><ul><li><b>Insulina intravenosa en bolo</b> de 0.1 U/kg seguida de <b>infusión continua</b> de 0.1 U/kg/h.</li><li>En cetoacidosis leve puede omitirse el bolo e iniciar infusión continua.</li><li>Objetivo: descenso de glucemia 50-75 mg/dL/h y resolución de la acidosis (pH &gt;7.3, bicarbonato &gt;18 mEq/L).</li><li>Si la glucemia no desciende, verificar hidratación y permeabilidad de la vía; considerar duplicar la infusión.</li><li>Trampa: no suspender la insulina cuando la glucemia &lt;250 mg/dL; añadir glucosa y mantener la infusión hasta cerrar el anión gap.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Bicarbonato solo si pH <6.9",
-      "title": "Bicarbonato en cetoacidosis diabética",
-      "contentHtml": "<h2>Bicarbonato solo si pH &lt;6.9</h2><ul><li><b>Bicarbonato de sodio</b> solo se indica si <b>pH &lt;6.9</b> (algunos protocolos &lt;7.0).</li><li>Dosis: <b>100 mEq</b> de bicarbonato de sodio en 400 mL de agua destilada con 20 mEq de potasio, infundir en 2 horas.</li><li>No usar bicarbonato de rutina: puede causar alcalosis metabólica, hipopotasemia e hipocalcemia.</li><li>El bicarbonato no mejora el pronóstico en pH &gt;6.9 y puede empeorar la cetosis.</li><li>Trampa de examen: la mayoría de guías no recomiendan bicarbonato incluso con pH &lt;6.9; solo en casos seleccionados con compromiso hemodinámico.</li><li>Monitorizar potasio y calcio tras administrar bicarbonato.</li></ul>"
+      "foco": "No iniciar insulina si K <3.3 mEq/L: reponer primero",
+      "title": "Contraindicación de insulina con hipokalemia",
+      "contentHtml": "<h2>Insulina y potasio &lt;3.3 mEq/L</h2><ul><li><b>No iniciar insulina si potasio &lt;3.3 mEq/L</b>: reponer potasio primero.</li><li>La insulina introduce potasio a la célula y puede causar hipokalemia grave, arritmias ventriculares y paro cardíaco.</li><li>Reponer con cloruro de potasio intravenoso (20-40 mEq/h) hasta potasio &gt;3.3 mEq/L, luego iniciar insulina.</li><li>Monitorizar electrocardiograma si hay hipokalemia grave.</li><li>Trampa: la hipokalemia es la única contraindicación absoluta para iniciar insulina en cetoacidosis diabética.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Buscar factor precipitante: infección, omisión de insulina",
-      "title": "Factores precipitantes de cetoacidosis diabética",
-      "contentHtml": "<h2>Buscar factor precipitante</h2><ul><li><b>Infección</b> es el factor precipitante más frecuente (neumonía, infección urinaria, sepsis).</li><li><b>Omisión de insulina</b> es la segunda causa más común, especialmente en diabetes tipo 1.</li><li>Otros: infarto agudo de miocardio, accidente cerebrovascular, pancreatitis, fármacos (corticosteroides, inhibidores del cotransportador sodio-glucosa tipo 2), drogas.</li><li>Realizar <b>hemograma, cultivos, radiografía de tórax, electrocardiograma y enzimas cardíacas</b> en todos los pacientes.</li><li>Trampa: no atribuir la cetoacidosis solo a la diabetes; siempre buscar el factor desencadenante.</li><li>En pacientes jóvenes con cetoacidosis recurrente, considerar problemas psicosociales o trastornos alimentarios.</li></ul>"
+      "foco": "Bicarbonato solo si pH <6.9 con inestabilidad hemodinámica",
+      "title": "Bicarbonato en cetoacidosis diabética",
+      "contentHtml": "<h2>Bicarbonato</h2><ul><li><b>Bicarbonato solo si pH &lt;6.9 con inestabilidad hemodinámica</b>.</li><li>Dosis: 50-100 mEq de bicarbonato de sodio en 400 mL de agua estéril con 20 mEq de cloruro de potasio, infundido en 2 horas.</li><li>No se recomienda bicarbonato de rutina: puede causar alcalosis metabólica, hipokalemia, edema cerebral y desviación de la curva de hemoglobina.</li><li>La mayoría de guías reservan su uso para pH &lt;6.9 con compromiso hemodinámico o hiperkalemia grave.</li><li>Trampa: el bicarbonato no acelera la resolución de la cetoacidosis y no mejora mortalidad en pH &gt;6.9.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Cetoacidosis euglucémica con iSGLT2",
-      "title": "Cetoacidosis euglucémica por inhibidores del cotransportador sodio-glucosa tipo 2",
-      "contentHtml": "<h2>Cetoacidosis euglucémica con inhibidores del cotransportador sodio-glucosa tipo 2</h2><ul><li><b>Cetoacidosis euglucémica</b>: glucemia &lt;250 mg/dL pero con cetonemia y acidosis metabólica.</li><li>Asociada a <b>inhibidores del cotransportador sodio-glucosa tipo 2</b> (empagliflozina, dapagliflozina, canagliflozina).</li><li>Mecanismo: glucosuria persistente, insulinopenia relativa y aumento de glucagón.</li><li>Puede ocurrir con glucemia normal o solo moderadamente elevada; retrasa el diagnóstico.</li><li>Trampa de examen: suspender los inhibidores del cotransportador sodio-glucosa tipo 2 al menos 3 días antes de cirugía mayor (4 días para ertugliflozina).</li><li>Tratamiento: igual que cetoacidosis diabética (insulina intravenosa, fluidos, potasio) pero con mayor aporte de dextrosa.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Edema cerebral complicación grave en niños",
-      "title": "Edema cerebral en cetoacidosis diabética pediátrica",
-      "contentHtml": "<h2>Edema cerebral: complicación grave en niños</h2><ul><li><b>Edema cerebral</b> es la complicación más grave y causa principal de muerte en cetoacidosis diabética pediátrica.</li><li>Ocurre en <b>0.3-1%</b> de los episodios en niños; mortalidad <b>20-25%</b>.</li><li>Factores de riesgo: edad &lt;5 años, cetoacidosis de novo, hipocapnia, sobrecarga hídrica rápida, bicarbonato.</li><li>Signos: cefalea, bradicardia, hipertensión, deterioro del estado mental, parálisis de pares craneales.</li><li>Tratamiento: <b>manitol 0.5-1 g/kg intravenoso</b> en 10-15 minutos o <b>solución salina hipertónica al 3%</b> (2.5-5 mL/kg) y restricción de líquidos.</li><li>Trampa: evitar descensos rápidos de glucemia (&gt;100 mg/dL/hora) y cambios bruscos de osmolaridad.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "No suspender insulina basal durante el tratamiento",
-      "title": "Manejo de insulina basal en cetoacidosis diabética",
-      "contentHtml": "<h2>No suspender insulina basal durante el tratamiento</h2><ul><li>En pacientes con <b>diabetes tipo 1</b> o <b>diabetes tipo 2 insulinorrequirientes</b>, continuar la <b>insulina basal</b> (glargina, detemir, degludec) durante el tratamiento intravenoso.</li><li>La insulina basal previene la cetosis de rebote y la hiperglucemia al suspender la infusión.</li><li>Al resolver la cetoacidosis, iniciar <b>insulina subcutánea</b> antes de suspender la infusión intravenosa (solapamiento de 1-2 horas).</li><li>En pacientes sin insulina basal previa, iniciar insulina subcutánea al menos 2 horas antes de suspender la infusión.</li><li>Trampa: no suspender la insulina basal aunque el paciente esté en ayuno; la infusión intravenosa no sustituye la basal.</li><li>La transición a insulina subcutánea requiere que el paciente tolere vía oral y tenga el anión gap corregido.</li></ul>"
+      "foco": "Causas precipitantes: infección, mala adherencia, debut diabético",
+      "title": "Causas precipitantes",
+      "contentHtml": "<h2>Causas precipitantes</h2><ul><li><b>Infección</b> es la causa más frecuente (neumonía, infección urinaria, sepsis).</li><li><b>Mala adherencia</b> al tratamiento insulínico o error en la dosis.</li><li><b>Debut diabético</b> en diabetes mellitus tipo 1 o tipo 2 descompensada.</li><li>Otras: infarto agudo de miocardio, pancreatitis, fármacos (corticoides, iSGLT2), drogas, embarazo.</li><li>Siempre buscar el factor desencadenante: cultivos, radiografía de tórax, electrocardiograma, análisis de orina.</li><li>Trampa: no olvidar la infección como causa; tratarla es parte del manejo.</li></ul>"
     }
   ]
 }

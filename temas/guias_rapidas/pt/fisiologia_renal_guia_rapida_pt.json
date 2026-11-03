@@ -1,0 +1,65 @@
+{
+  "id": "fisiologia_renal",
+  "items": [
+    {
+      "order": 1,
+      "foco": "TFG y clearance de creatinina como mejor marcador de filtrado",
+      "title": "TFG y aclaramiento de creatinina",
+      "contentHtml": "<h2>TFG y aclaramiento de creatinina</h2><ul><li><b>Tasa de filtración glomerular</b> (TFG) es el mejor índice global de función renal; normal <b>120-130 mL/min/1.73 m²</b>.</li><li>El <b>aclaramiento de creatinina</b> es el mejor marcador práctico de filtrado: la creatinina se filtra libremente y se secreta poco; su aclaramiento sobreestima la TFG en ~10-20%.</li><li>Fórmula de Cockcroft-Gault: <b>CrCl = [(140-edad) × peso] / (72 × creatinina sérica)</b>; en mujeres ×0.85.</li><li>Ecuación CKD-EPI (2021) sin raza: preferida para estimar TFG; usa creatinina y edad.</li><li>TFG &lt;60 mL/min/1.73 m² por &gt;3 meses define enfermedad renal crónica.</li><li>Trampa: cistatina C no depende de masa muscular; útil cuando creatinina es engañosa (amputados, cirróticos, obesos).</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Reabsorción de sodio en túbulo proximal acoplada a glucosa y aminoácidos",
+      "title": "Reabsorción proximal de sodio",
+      "contentHtml": "<h2>Reabsorción proximal de sodio</h2><ul><li>El túbulo proximal reabsorbe <b>60-70% del sodio filtrado</b>; es isosmótico (agua sigue al sodio).</li><li>El sodio entra por el borde en cepillo acoplado a glucosa (cotransportador <b>SGLT2</b>) y aminoácidos; sale por la bomba <b>Na+/K+-ATPasa</b> basolateral.</li><li>La glucosa se reabsorbe en proximal: SGLT2 (segmento S1-S2, alta capacidad) y SGLT1 (S3, alta afinidad).</li><li>Los inhibidores de SGLT2 (gliflozinas) bloquean esta reabsorción y producen glucosuria y natriuresis.</li><li>Trampa: la anhidrasa carbónica IV facilita la reabsorción de bicarbonato; la acetazolamida inhibe y causa acidosis tubular renal proximal.</li><li>El sodio proximal también se acopla a fosfato (regulado por hormona paratiroidea) y a ácidos orgánicos.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Asa de Henle: bomba Na-K-2Cl y mecanismo de contracorriente",
+      "title": "Asa de Henle y contracorriente",
+      "contentHtml": "<h2>Asa de Henle: bomba Na-K-2Cl y contracorriente</h2><ul><li>Rama ascendente gruesa es impermeable al agua y reabsorbe sodio por el cotransportador <b>Na+-K+-2Cl-</b> (NKCC2), accionado por la Na+/K+-ATPasa basolateral.</li><li>El mecanismo de contracorriente genera el gradiente medular hiperosmótico (hasta <b>1200 mOsm/kg</b>) necesario para concentrar la orina.</li><li>La <b>furosemida</b> inhibe NKCC2 en la rama ascendente gruesa: diurético de asa, produce hipocalemia, hipocalcemia e hipomagnesemia.</li><li>La rama descendente delgada es permeable al agua (acuarporina 1) y reabsorbe sodio pasivamente.</li><li>Trampa: la bomba NKCC2 es el sitio de acción de la <b>furosemida</b>; su inhibición elimina el gradiente y reduce la capacidad de concentrar la orina.</li><li>El potasio reciclado por el canal ROMK en la rama ascendente gruesa mantiene la actividad de NKCC2.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Túbulo distal: cotransportador Na-Cl sensible a tiazidas",
+      "title": "Túbulo distal y tiazidas",
+      "contentHtml": "<h2>Túbulo distal: cotransportador Na-Cl</h2><ul><li>El túbulo distal contorneado reabsorbe <b>5-10% del sodio</b> mediante el cotransportador <b>Na+-Cl-</b> (NCC), sensible a <b>tiazidas</b>.</li><li>Las tiazidas (hidroclorotiazida, clortalidona) inhiben NCC: diuréticos de techo bajo, producen hipocalemia, hipocalcemia e hiperglucemia.</li><li>La hormona paratiroidea estimula la reabsorción de calcio en este segmento; las tiazidas aumentan la reabsorción de calcio (útil en litiasis cálcica).</li><li>El síndrome de Gitelman: mutación de NCC, hipocalemia, hipomagnesemia, hipocalciuria y alcalosis metabólica.</li><li>Trampa: las tiazidas son primera línea en hipertensión y en osteoporosis; a diferencia de la furosemida, reducen la calciuria.</li><li>La aldosterona también actúa en este segmento aumentando la reabsorción de sodio.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Túbulo colector: células principales con ENaC regulado por aldosterona",
+      "title": "Células principales y ENaC",
+      "contentHtml": "<h2>Túbulo colector: células principales y ENaC</h2><ul><li>Las <b>células principales</b> del túbulo colector reabsorben sodio por el canal <b>ENaC</b> (canal epitelial de sodio) y secretan potasio por el canal ROMK.</li><li>La <b>aldosterona</b> aumenta la expresión de ENaC y de la Na+/K+-ATPasa, y estimula la secreción de potasio.</li><li>La <b>espironolactona</b> y la <b>eplerenona</b> antagonizan el receptor de aldosterona: retienen potasio (hipercalemia) y son ahorradores de potasio.</li><li>El <b>amilorida</b> y el <b>triamtereno</b> bloquean directamente ENaC: también ahorradores de potasio.</li><li>El síndrome de Liddle: mutación activadora de ENaC, hipertensión, hipocalemia y alcalosis metabólica, con aldosterona baja.</li><li>Trampa: la aldosterona regula ENaC; el exceso causa hipertensión e hipocalemia; el déficit causa hipercalemia.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Células intercaladas tipo A secretan H+ y reabsorben K+",
+      "title": "Células intercaladas tipo A",
+      "contentHtml": "<h2>Células intercaladas tipo A</h2><ul><li>Las <b>células intercaladas tipo A</b> del túbulo colector secretan <b>H+</b> por la bomba H+-ATPasa y reabsorben <b>K+</b> por la H+/K+-ATPasa.</li><li>Son responsables de la acidificación urinaria final; su actividad aumenta en acidosis metabólica.</li><li>La acidosis estimula la secreción de H+ y la reabsorción de potasio; la alcalosis hace lo contrario.</li><li>En la acidosis tubular renal distal (tipo 1) hay defecto de estas células: pH urinario &gt;5.5, hipocalemia y nefrocalcinosis.</li><li>Las células intercaladas tipo B secretan bicarbonato y reabsorben H+ (opuestas a las tipo A).</li><li>Trampa: la hipercalemia inhibe la secreción de H+ y contribuye a acidosis metabólica (acidosis tubular renal tipo 4).</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Regulación del volumen: osmorreceptores y ADH en colector",
+      "title": "Osmorreceptores y ADH",
+      "contentHtml": "<h2>Regulación del volumen: osmorreceptores y ADH</h2><ul><li>Los <b>osmorreceptores</b> hipotalámicos detectan cambios de osmolaridad plasmática &gt;1-2%; estimulan la liberación de <b>hormona antidiurética</b> (ADH) desde la neurohipófisis.</li><li>La ADH actúa en el túbulo colector insertando <b>acuarporina 2</b> en la membrana apical: aumenta la reabsorción de agua y concentra la orina.</li><li>La sed se activa con osmolaridad plasmática &gt;290 mOsm/kg; la ADH se secreta con &gt;280 mOsm/kg.</li><li>La <b>diabetes insípida central</b>: déficit de ADH; la <b>nefrogénica</b>: resistencia renal a ADH; ambas cursan con poliuria hipoosmolar.</li><li>El <b>tolevaptán</b> antagoniza los receptores V2 de ADH; útil en hiponatremia euvolémica.</li><li>Trampa: la ADH también aumenta la reabsorción de sodio y la secreción de potasio en el colector.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Sistema renina-angiotensina-aldosterona y presión de perfusión",
+      "title": "Sistema renina-angiotensina-aldosterona",
+      "contentHtml": "<h2>Sistema renina-angiotensina-aldosterona</h2><ul><li>La <b>renina</b> se libera de las células yuxtaglomerulares por: disminución de la presión de perfusión renal, disminución de sodio en la mácula densa y estimulación simpática (β1).</li><li>La renina convierte angiotensinógeno en angiotensina I; la enzima convertidora de angiotensina (ECA) la convierte en <b>angiotensina II</b>.</li><li>La angiotensina II: vasoconstricción eferente (aumenta TFG), estimula la sed, libera aldosterona y retiene sodio.</li><li>La <b>aldosterona</b> aumenta la reabsorción de sodio y la secreción de potasio en el túbulo colector.</li><li>Los <b>inhibidores de la ECA</b> y los <b>antagonistas del receptor de angiotensina II</b> bloquean el sistema; los primeros causan tos seca por bradicinina.</li><li>Trampa: la presión de perfusión renal &lt;80 mmHg activa la renina; la angiotensina II mantiene la TFG por vasoconstricción eferente.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Umbral renal de glucosa y transporte máximo (Tm)",
+      "title": "Umbral renal de glucosa y Tm",
+      "contentHtml": "<h2>Umbral renal de glucosa y Tm</h2><ul><li>El <b>umbral renal de glucosa</b> es ~<b>180 mg/dL</b>; por encima aparece glucosuria.</li><li>El <b>transporte máximo (Tm)</b> de glucosa es ~<b>375 mg/min</b> en el hombre y ~300 mg/min en la mujer.</li><li>La glucosa se reabsorbe en el túbulo proximal por SGLT2 y SGLT1; cuando se saturan, la glucosa aparece en orina.</li><li>La glucosuria osmótica produce poliuria y deshidratación en la diabetes mellitus descompensada.</li><li>Los inhibidores de SGLT2 reducen el umbral y producen glucosuria a concentraciones menores.</li><li>Trampa: el umbral es la concentración plasmática a la que aparece glucosa en orina; el Tm es la capacidad máxima de reabsorción.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Manejo renal del potasio: secreción distal regulada por aldosterona y flujo",
+      "title": "Manejo renal del potasio",
+      "contentHtml": "<h2>Manejo renal del potasio</h2><ul><li>El riñón excreta <b>90-95% del potasio</b>; la mayor parte se reabsorbe en el túbulo proximal y en la rama ascendente gruesa.</li><li>La <b>secreción distal</b> de potasio ocurre en las células principales del túbulo colector, regulada por <b>aldosterona</b> y por el <b>flujo distal</b>.</li><li>La aldosterona aumenta la actividad de ENaC y ROMK; el flujo distal alto (diuréticos, osmóticos) arrastra potasio y aumenta su secreción.</li><li>La hipercalemia estimula la aldosterona; la hipocalemia la suprime.</li><li>Los diuréticos de asa y tiazidas aumentan la secreción de potasio (hipocalemia); los ahorradores de potasio la reducen (hipercalemia).</li><li>Trampa: la acidosis inhibe la secreción de potasio; la alcalosis la estimula.</li></ul>"
+    }
+  ]
+}

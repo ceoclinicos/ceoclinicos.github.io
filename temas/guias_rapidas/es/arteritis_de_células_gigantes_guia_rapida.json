@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Cefalea temporal en mayor de 50 años",
-      "title": "Cefalea temporal: sospecha en mayores de 50 años",
-      "contentHtml": "<h2>Cefalea temporal en mayor de 50 años</h2><ul><li>Edad &gt;50 años es criterio clave: la <b>arteritis de células gigantes</b> es la vasculitis primaria más frecuente en adultos mayores.</li><li>Cefalea de inicio reciente, unilateral o bilateral, en región temporal, sorda, continua, con hipersensibilidad del cuero cabelludo.</li><li>Preguntable: en &gt;50 años con cefalea nueva + <b>velocidad de sedimentación globular elevada</b>, iniciar corticoides sin esperar biopsia.</li><li>Diferencial: cefalea tensional, migraña de inicio tardío, neuralgia del trigémino, tumor, hematoma subdural, arteritis de Takayasu (más joven).</li><li>Trampa: cefalea occipital o difusa no excluye; la ausencia de cefalea no descarta.</li></ul>"
+      "foco": "Cefalea temporal nueva en mayor de 50 años",
+      "title": "Cefalea temporal de novo en el adulto mayor: sospecha de arteritis de células gigantes",
+      "contentHtml": "<h2>Cefalea temporal nueva en mayor de 50 años</h2><ul><li>Dolor de inicio reciente en región temporal, sordo o pulsátil, con frecuencia continuo y de intensidad moderada-severa; puede ser unilateral o bilateral.</li><li>Es el síntoma de presentación más común (70-90%) de la <b>arteritis de células gigantes</b>.</li><li>Puede acompañarse de hipersensibilidad del cuero cabelludo, claudicación mandibular o síntomas visuales.</li><li>Diagnóstico diferencial: migraña de inicio tardío, cefalea tensional, neuralgia del trigémino, cefalea por abuso de analgésicos, tumor cerebral, hematoma subdural, polimialgia reumática sin arteritis.</li><li>Ante toda cefalea nueva en &gt;50 años, solicitar <b>velocidad de sedimentación globular</b> y <b>proteína C reactiva</b>.</li><li>Trampa de examen: no atribuir a \"cefalea tensional\" sin descartar arteritis de células gigantes.</li></ul>"
     },
     {
       "order": 2,
       "foco": "Claudicación mandibular síntoma cardinal",
-      "title": "Claudicación mandibular: síntoma cardinal",
-      "contentHtml": "<h2>Claudicación mandibular</h2><ul><li>Dolor mandibular al masticar o hablar que cede con el reposo: isquemia de músculos masticadores por arteritis de ramas de la <b>arteria maxilar interna</b>.</li><li>Es el síntoma más específico; aparece hasta en 50% de casos.</li><li>Otros craneales: claudicación lingual, disfagia, sordera súbita, amaurosis fugaz.</li><li>Preguntable: claudicación mandibular + cefalea temporal + &gt;50 años = arteritis de células gigantes hasta demostrar lo contrario.</li><li>Trampa: no confundir con disfunción temporomandibular; la claudicación es muscular por isquemia, no articular.</li></ul>"
+      "title": "Claudicación mandibular: síntoma cardinal y altamente específico",
+      "contentHtml": "<h2>Claudicación mandibular como síntoma cardinal</h2><ul><li>Dolor o fatiga en los músculos maseteros y temporales al masticar, hablar o bostezar, que cede con el reposo mandibular.</li><li>Es el síntoma <b>más específico</b> de la <b>arteritis de células gigantes</b> (especificidad &gt;90%), aunque su sensibilidad es baja (aproximadamente 30-50%).</li><li>Refleja isquemia de las ramas de la arteria maxilar interna, rama de la carótida externa.</li><li>Su presencia acelera el diagnóstico y obliga a iniciar tratamiento esteroideo inmediato.</li><li>Diagnóstico diferencial: disfunción temporomandibular, parotiditis, artritis de la articulación temporomandibular, neuralgia del trigémino.</li><li>Trampa: la claudicación mandibular puede preceder a la ceguera; no esperar biopsia para tratar.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "VSG muy elevada mayor de 100",
-      "title": "Velocidad de sedimentación globular &gt;100",
-      "contentHtml": "<h2>Velocidad de sedimentación globular muy elevada</h2><ul><li><b>Velocidad de sedimentación globular</b> &gt;100 mm/h es marcador de inflamación sistémica y orienta a arteritis de células gigantes en el contexto clínico.</li><li>Sensibilidad alta, especificidad baja: también elevada en infecciones, mieloma, neoplasias, polimialgia reumática.</li><li>Proteína C reactiva suele estar elevada y correlaciona mejor con actividad.</li><li>Preguntable: &gt;50 años + cefalea + <b>velocidad de sedimentación globular &gt;100 mm/h</b> = iniciar <b>prednisona</b>.</li><li>Trampa: velocidad de sedimentación globular normal no excluye (hasta 5-10% de casos), sobre todo con proteína C reactiva elevada.</li></ul>"
+      "foco": "VSG muy elevada mayor de 50 mm/h",
+      "title": "Velocidad de sedimentación globular muy elevada: umbral y utilidad",
+      "contentHtml": "<h2>Velocidad de sedimentación globular muy elevada (&gt;50 mm/h)</h2><ul><li>La <b>velocidad de sedimentación globular</b> suele estar &gt;50 mm/h y con frecuencia &gt;100 mm/h en la arteritis de células gigantes activa.</li><li>Es un marcador inflamatorio inespecífico; su elevación apoya el diagnóstico pero no lo confirma.</li><li>La <b>proteína C reactiva</b> es más sensible y se correlaciona mejor con la actividad inflamatoria.</li><li>Un valor normal de velocidad de sedimentación globular no excluye el diagnóstico (hasta 5-10% de casos comprobados).</li><li>Otras causas de velocidad de sedimentación globular &gt;100 mm/h: infecciones, neoplasias, mieloma múltiple, polimialgia reumática, tuberculosis, endocarditis.</li><li>Trampa: la velocidad de sedimentación globular puede descender por anemia, hipofibrinogenemia o tratamiento esteroideo previo.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Biopsia de arteria temporal diagnóstica",
-      "title": "Biopsia de arteria temporal: patrón de referencia",
-      "contentHtml": "<h2>Biopsia de arteria temporal</h2><ul><li>Prueba diagnóstica de referencia: biopsia de la <b>arteria temporal superficial</b> unilateral, segmento de 2-3 cm.</li><li>Hallazgo: arteritis granulomatosa con células gigantes, fragmentación de la <b>lámina elástica interna</b>.</li><li>Sensibilidad limitada por parches discontinuos: biopsia negativa no excluye; considerar contralateral o biopsia de arteria axilar.</li><li>Preguntable: el tratamiento con corticoides no invalida la biopsia si se realiza en las primeras 2 semanas.</li><li>Trampa: no retrasar corticoides por esperar biopsia si hay riesgo visual.</li></ul>"
+      "foco": "Biopsia de arteria temporal es gold standard",
+      "title": "Biopsia de la arteria temporal: estándar de referencia diagnóstico",
+      "contentHtml": "<h2>Biopsia de arteria temporal: gold standard</h2><ul><li>Es el <b>estándar de referencia</b> para el diagnóstico de la <b>arteritis de células gigantes</b>.</li><li>Debe realizarse del lado sintomático o, si es bilateral, de un segmento de al menos 3-5 cm para evitar falsos negativos por afectación segmentaria.</li><li>Hallazgo histológico: infiltrado inflamatorio mononuclear con células gigantes multinucleadas, fragmentación de la lámina elástica interna y engrosamiento de la íntima.</li><li>La sensibilidad de una sola biopsia es del 70-90%; un resultado negativo no descarta el diagnóstico.</li><li>No retrasar el inicio de corticoides por esperar la biopsia; los cambios histológicos persisten hasta 2-4 semanas tras iniciar tratamiento.</li><li>Trampa: la biopsia puede ser negativa por afectación parcheada o por tratamiento esteroideo prolongado previo.</li></ul>"
     },
     {
       "order": 5,
       "foco": "Arteritis de células gigantes y polimialgia reumática",
-      "title": "Asociación con polimialgia reumática",
-      "contentHtml": "<h2>Arteritis de células gigantes y polimialgia reumática</h2><ul><li>Hasta 50% de pacientes con arteritis de células gigantes tienen <b>polimialgia reumática</b>; 10-20% de polimialgia reumática desarrollan arteritis de células gigantes.</li><li>Polimialgia reumática: dolor y rigidez de cintura escapular y pélvica &gt;30 minutos matinal, &gt;50 años, velocidad de sedimentación globular elevada, respuesta rápida a <b>prednisona 15-20 mg/día</b>.</li><li>Preguntable: polimialgia reumática refractaria o con cefalea, fiebre o anemia = buscar arteritis de células gigantes.</li><li>Trampa: la polimialgia reumática no causa ceguera; la arteritis de células gigantes sí.</li></ul>"
+      "title": "Asociación con polimialgia reumática: frecuencia y significado",
+      "contentHtml": "<h2>Arteritis de células gigantes y polimialgia reumática</h2><ul><li>La <b>polimialgia reumática</b> se asocia a la <b>arteritis de células gigantes</b> en un 40-60% de los casos.</li><li>La polimialgia reumática se caracteriza por dolor y rigidez en cintura escapular y pélvica de inicio subagudo en &gt;50 años, con velocidad de sedimentación globular elevada.</li><li>Hasta un 10-20% de pacientes con polimialgia reumática desarrollan arteritis de células gigantes; a la inversa, un 40-50% de pacientes con arteritis de células gigantes tienen polimialgia reumática.</li><li>La respuesta rápida a dosis bajas de corticoides (prednisona 12,5-25 mg/día) es típica de la polimialgia reumática.</li><li>La presencia de cefalea, claudicación mandibular o síntomas visuales en un paciente con polimialgia reumática obliga a descartar arteritis de células gigantes.</li><li>Trampa: no confundir polimialgia reumática con artritis reumatoide del anciano (afecta articulaciones periféricas, factor reumatoide positivo).</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Amaurosis fugaz y riesgo de ceguera",
-      "title": "Amaurosis fugaz: emergencia visual",
-      "contentHtml": "<h2>Amaurosis fugaz y riesgo de ceguera</h2><ul><li>Amaurosis fugaz: pérdida visual monocular transitoria por isquemia de la <b>arteria oftálmica</b> o <b>arteria central de la retina</b>.</li><li>Es signo de alarma: riesgo de ceguera irreversible por <b>neuritis óptica isquémica anterior</b>; puede ser bilateral y permanente.</li><li>Preguntable: amaurosis fugaz en &gt;50 años con cefalea = arteritis de células gigantes y corticoides inmediatos, no esperar biopsia.</li><li>Trampa: la ceguera establecida suele ser irreversible; el objetivo es prevenir el ojo contralateral.</li></ul>"
+      "foco": "Ceguera por neuropatía óptica isquémica anterior",
+      "title": "Ceguera por neuropatía óptica isquémica anterior: complicación temida",
+      "contentHtml": "<h2>Ceguera por neuropatía óptica isquémica anterior</h2><ul><li>Es la complicación más temida de la <b>arteritis de células gigantes</b>; ocurre en un 15-20% de los pacientes no tratados.</li><li>Mecanismo: isquemia de la porción anterior del nervio óptico por oclusión de las arterias ciliares posteriores, ramas de la arteria oftálmica.</li><li>Clínica: pérdida visual monocular indolora, súbita o progresiva en horas-días, con defecto pupilar aferente relativo y edema papilar en fondo de ojo.</li><li>Puede precederse de amaurosis fugaz (pérdida visual transitoria) en un 10-20% de casos.</li><li>El riesgo de afectación del ojo contralateral es alto (hasta 50%) si no se instaura tratamiento esteroideo inmediato.</li><li>Trampa: la ceguera por neuropatía óptica isquémica anterior en la arteritis de células gigantes suele ser irreversible; la prevención es la clave.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Corticoides inmediatos sin esperar biopsia",
-      "title": "Corticoides inmediatos sin esperar biopsia",
-      "contentHtml": "<h2>Corticoides inmediatos sin esperar biopsia</h2><ul><li>Ante sospecha con síntomas visuales o claudicación mandibular, iniciar <b>prednisona</b> de inmediato sin esperar confirmación histológica.</li><li>El tratamiento precoz previene la ceguera; la biopsia puede realizarse hasta 2 semanas después sin perder rendimiento.</li><li>Preguntable: la decisión terapéutica es clínica, no histológica, cuando hay riesgo visual.</li><li>Trampa: retrasar corticoides para biopsiar es error grave; el daño visual es irreversible.</li></ul>"
+      "foco": "Corticoide inmediato sin esperar biopsia",
+      "title": "Corticoide inmediato: no esperar la biopsia",
+      "contentHtml": "<h2>Corticoide inmediato sin esperar biopsia</h2><ul><li>Ante sospecha clínica de <b>arteritis de células gigantes</b> con síntomas visuales o claudicación mandibular, iniciar <b>prednisona</b> a dosis altas de inmediato (1 mg/kg/día, habitualmente 40-60 mg/día) sin esperar la biopsia.</li><li>Si hay pérdida visual aguda o amaurosis fugaz, administrar <b>metilprednisolona</b> intravenosa 1 g/día durante 3 días y luego prednisona oral.</li><li>La biopsia de arteria temporal puede realizarse hasta 2-4 semanas después de iniciado el tratamiento sin perder sensibilidad diagnóstica.</li><li>El retraso en el inicio del corticoide aumenta el riesgo de ceguera irreversible.</li><li>Antes de iniciar corticoides, valorar cribado de tuberculosis latente, hepatitis B y osteoporosis según riesgo.</li><li>Trampa de examen: nunca posponer el tratamiento por esperar la confirmación histológica.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Trombocitosis y anemia normocítica",
-      "title": "Trombocitosis y anemia normocítica",
-      "contentHtml": "<h2>Trombocitosis y anemia normocítica</h2><ul><li>Reactantes de fase aguda: <b>trombocitosis</b> reactiva y <b>anemia normocítica normocrómica</b> de trastorno crónico.</li><li>Puede haber leucocitosis leve; no hay eosinofilia ni trombocitopenia significativa.</li><li>Preguntable: anemia + trombocitosis + velocidad de sedimentación globular muy elevada en &gt;50 años refuerzan el diagnóstico.</li><li>Trampa: trombocitosis no es trombocitemia esencial; es reactiva y no requiere estudio medular.</li></ul>"
+      "foco": "Afecta ramas extracraneales de la carótida",
+      "title": "Afectación de ramas extracraneales de la carótida",
+      "contentHtml": "<h2>Afecta ramas extracraneales de la carótida</h2><ul><li>La <b>arteritis de células gigantes</b> es una vasculitis granulomatosa de grandes y medianos vasos que afecta preferentemente las ramas extracraneales de la <b>arteria carótida</b>.</li><li>Ramas típicamente afectadas: temporal superficial, maxilar interna, occipital, oftálmica, vertebral y, menos frecuente, la aorta y sus ramas mayores.</li><li>La afectación de la arteria oftálmica y sus ramas ciliares posteriores explica la neuropatía óptica isquémica anterior.</li><li>La afectación de la arteria maxilar interna produce claudicación mandibular.</li><li>La afectación de la arteria vertebral puede causar síntomas neurológicos centrales (vértigo, ataxia, ictus).</li><li>Trampa: la arteritis de células gigantes puede afectar la aorta torácica y provocar aneurisma o disección años después del diagnóstico.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Arteria temporal engrosada y dolorosa",
-      "title": "Arteria temporal engrosada y dolorosa",
-      "contentHtml": "<h2>Arteria temporal engrosada y dolorosa</h2><ul><li>Exploración: <b>arteria temporal superficial</b> engrosada, nodular, sin pulso y dolorosa a la palpación.</li><li>Hallazgo clave: <b>arteria temporal engrosada y dolorosa</b> con sensibilidad aumentada del cuero cabelludo.</li><li>Preguntable: signo clínico de apoyo, pero su ausencia no descarta; el diagnóstico es clínico-patológico.</li><li>Trampa: no confundir con arteria temporal normal palpable; la nodularidad y ausencia de pulso son orientadoras.</li></ul>"
+      "foco": "Trombosis o estenosis de arteria temporal",
+      "title": "Trombosis o estenosis de la arteria temporal: hallazgos y técnica",
+      "contentHtml": "<h2>Trombosis o estenosis de arteria temporal</h2><ul><li>La <b>arteritis de células gigantes</b> produce engrosamiento de la pared arterial con estenosis u oclusión trombótica de la arteria temporal superficial y sus ramas.</li><li>La ecografía Doppler de la arteria temporal muestra el signo del <b>halo</b> (engrosamiento hipoecoico de la pared) y estenosis u oclusión del lumen.</li><li>El signo del halo tiene una sensibilidad del 70-80% y una especificidad del 90-95% en manos expertas.</li><li>La angiografía por resonancia magnética o tomografía computarizada puede mostrar estenosis, oclusión o irregularidad de las ramas extracraneales de la carótida.</li><li>La biopsia de arteria temporal sigue siendo el <b>estándar de referencia</b>; la imagen no lo sustituye.</li><li>Trampa: el signo del halo en ecografía puede desaparecer tras 2-4 semanas de tratamiento esteroideo.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Prednisona dosis alta 40-60 mg",
-      "title": "Prednisona 40-60 mg: primera línea",
-      "contentHtml": "<h2>Prednisona dosis alta 40-60 mg</h2><ul><li>Tratamiento inicial: <b>prednisona 40-60 mg/día</b> (1 mg/kg/día) por 2-4 semanas, luego descenso lento guiado por clínica y velocidad de sedimentación globular/proteína C reactiva.</li><li>Si hay amaurosis fugaz o pérdida visual: <b>prednisona</b> en dosis altas o <b>metilprednisolona</b> intravenosa 1 g/día por 3 días.</li><li>Preguntable: no usar dosis bajas; la dosis de polimialgia reumática (15-20 mg) es insuficiente para arteritis de células gigantes.</li><li>Trampa: el descenso demasiado rápido causa recaída; duración habitual 12-18 meses o más.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Riesgo de aneurisma de aorta torácica",
-      "title": "Riesgo de aneurisma de aorta torácica",
-      "contentHtml": "<h2>Riesgo de aneurisma de aorta torácica</h2><ul><li>Complicación tardía: <b>aneurisma de aorta torácica</b> y disección, por aortitis con debilidad de la pared.</li><li>También estenosis de grandes vasos, infarto, ictus.</li><li>Preguntable: seguimiento con imagen (ecografía o tomografía) por riesgo de aneurisma aórtico.</li><li>Trampa: no confundir con arteritis de Takayasu, que afecta aorta y ramas en &lt;40 años.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Diagnóstico diferencial con arteritis de Takayasu",
-      "title": "Diferencial con arteritis de Takayasu",
-      "contentHtml": "<h2>Diagnóstico diferencial con arteritis de Takayasu</h2><ul><li><b>Arteritis de Takayasu</b>: vasculitis de grandes vasos en &lt;40 años, afecta aorta y ramas, claudicación de extremidades, ausencia de pulsos, diferencia de tensión arterial entre brazos.</li><li>Arteritis de células gigantes: &gt;50 años, ramas craneales (temporal, oftálmica), asociación con polimialgia reumática.</li><li>Preguntable: edad &lt;40 años con claudicación de brazos y soplo subclavio = arteritis de Takayasu.</li><li>Trampa: ambas son granulomatosas con células gigantes; la edad y el territorio vascular las distinguen.</li></ul>"
+      "foco": "Respuesta rápida a esteroides apoya diagnóstico",
+      "title": "Respuesta rápida a esteroides: criterio de apoyo diagnóstico",
+      "contentHtml": "<h2>Respuesta rápida a esteroides apoya diagnóstico</h2><ul><li>La mejoría clínica rápida (en 24-72 horas) de la cefalea, la claudicación mandibular y los síntomas sistémicos tras iniciar <b>prednisona</b> a dosis altas apoya el diagnóstico de <b>arteritis de células gigantes</b>.</li><li>La respuesta a esteroides forma parte de los criterios diagnósticos clásicos de la arteritis de células gigantes (criterios de la American College of Rheumatology de 1990).</li><li>La velocidad de sedimentación globular y la proteína C reactiva descienden rápidamente tras el tratamiento, pero no deben usarse solas para ajustar la dosis.</li><li>La respuesta incompleta o la recaída obligan a reconsiderar el diagnóstico o buscar complicaciones (aneurisma aórtico, afectación de grandes vasos).</li><li>El tratamiento debe mantenerse durante 12-18 meses con descenso gradual; las recaídas son frecuentes (40-60%).</li><li>Trampa: la respuesta a esteroides no es patognomónica; otras vasculitis y la polimialgia reumática también responden.</li></ul>"
     }
   ]
 }

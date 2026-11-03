@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Clasificación del estrabismo",
-      "title": "Clasificación del estrabismo",
-      "contentHtml": "<h2>Clasificación del estrabismo</h2><ul><li>Según dirección: <b>endotropia</b> (desviación nasal), <b>exotropia</b> (temporal), hipertropia/hipotropia (vertical).</li><li>Según latencia: <b>tropia</b> (desviación constante) vs <b>foria</b> (latente, solo en oclusión).</li><li>Según etiología: <b>acomodativo</b> (asociado a hipermetropía no corregida), <b>no acomodativo</b> (mecánico, neurológico).</li><li>Según fijación: <b>alternante</b> (fija con cualquier ojo) o <b>monocular</b> (siempre el mismo ojo desviado).</li></ul>"
+      "foco": "Test de Hirschberg estima desviación gruesa",
+      "title": "Test de Hirschberg: estimación gruesa de la desviación",
+      "contentHtml": "<h2>Test de Hirschberg</h2><ul><li><b>Test de Hirschberg</b>: prueba de reflejo luminoso corneal para estimar el ángulo de desviación ocular de forma gruesa.</li><li>Técnica: se proyecta una luz a 33 cm; se observa la posición del reflejo respecto al centro pupilar.</li><li>Estimación: <b>1 mm de desplazamiento del reflejo equivale a ~7° (15 dioptrías prismáticas)</b>.</li><li>Interpretación: reflejo nasal en el ojo desviado indica esotropía; reflejo temporal indica exotropía.</li><li>Limitación: no distingue tropía de foria ni mide con precisión; útil en niños no colaboradores.</li><li>Trampa de examen: el <b>Test de Hirschberg</b> no sustituye al cover test alternante para diferenciar tropía de foria.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Reflejo corneal de Hirschberg",
-      "title": "Reflejo corneal de Hirschberg",
-      "contentHtml": "<h2>Reflejo corneal de Hirschberg</h2><ul><li>Evalúa alineación ocular observando el reflejo luminoso en ambas córneas.</li><li>Reflejo centrado en ambos ojos = ortotropía; descentrado = estrabismo.</li><li><b>Desviación de 1 mm</b> desde el centro pupilar equivale aproximadamente a <b>7° (15 dioptrías prismáticas)</b> de desviación.</li><li>Si el reflejo está en el borde pupilar: ~15°; en el iris medio: ~30°; en el limbo: ~45°.</li><li>Útil en niños no colaboradores y como screening rápido.</li></ul>"
+      "foco": "Cover test alternante revela tropia vs foria",
+      "title": "Cover test alternante: tropía vs foria",
+      "contentHtml": "<h2>Cover test alternante</h2><ul><li><b>Cover test alternante</b>: prueba de referencia para diferenciar tropía (desviación manifiesta) de foria (desviación latente).</li><li>Técnica: ocluir un ojo y observar el movimiento de fijación del ojo destapado; alternar la oclusión rápidamente.</li><li>Tropía: el ojo destapado se mueve para fijar tras retirar el oclusor; desviación presente sin disociación.</li><li>Foria: no hay movimiento con ambos ojos abiertos; aparece movimiento al ocluir y desocluir (desviación latente).</li><li>Cover test alternante revela tropía vs foria: en foria el movimiento se recupera al desocluir; en tropía persiste la desviación.</li><li>Trampa: el cover test alternante no cuantifica el ángulo; para medir usar prismas (test de Krimsky o prismas alternantes).</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Test de oclusión alternante",
-      "title": "Test de oclusión alternante",
-      "contentHtml": "<h2>Test de oclusión alternante</h2><ul><li>Detecta <b>forias</b> (desviación latente) al romper la fusión.</li><li>Se ocluye un ojo, luego se pasa rápidamente al otro; si el ojo destapado se mueve para fijar, existe desviación.</li><li>Movimiento nasal a temporal = <b>exoforia</b>; temporal a nasal = <b>endoforia</b>.</li><li>No mide magnitud exacta; requiere <b>prismas de barra</b> para cuantificar (prism cover test).</li><li>En estrabismo manifiesto (<b>tropia</b>) el ojo desviado no se mueve al destapar porque ya está en desviación constante.</li></ul>"
+      "foco": "Test de Worth cuatro luces discrimina supresión",
+      "title": "Test de Worth cuatro luces: supresión y fusión",
+      "contentHtml": "<h2>Test de Worth cuatro luces</h2><ul><li><b>Test de Worth cuatro luces</b>: prueba dicóptica que discrimina supresión, diplopía y fusión binocular.</li><li>Técnica: gafas con filtro rojo en un ojo y verde en el otro; se observan cuatro luces (roja, verde, dos blancas) a 33 cm (visión próxima) o 6 m (visión lejana).</li><li>Resultados: <b>4 luces</b> = fusión binocular; <b>2 luces rojas</b> = supresión del ojo verde; <b>3 luces verdes</b> = supresión del ojo rojo; <b>5 luces</b> = diplopía.</li><li>La supresión en visión lejana sugiere desviación de gran ángulo o ambliopía.</li><li>Trampa: el <b>Test de Worth cuatro luces</b> no mide el ángulo de desviación; solo evalúa presencia de supresión o diplopía.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Causas de ambliopía",
-      "title": "Causas de ambliopía",
-      "contentHtml": "<h2>Causas de ambliopía</h2><ul><li><b>Ambliopía por estrabismo</b>: supresión cortical de la imagen del ojo desviado para evitar diplopía.</li><li><b>Ambliopía refractiva</b>: por anisometropía (diferencia &gt;1.5 D de equivalente esférico o &gt;1 D de astigmatismo) o ametropía bilateral alta.</li><li><b>Ambliopía por deprivación</b>: obstrucción del eje visual (catarata congénita, ptosis severa, opacidad corneal).</li><li><b>Ambliopía por oclusión</b>: iatrogénica por parche excesivo en ojo sano.</li></ul>"
+      "foco": "Ambliopía por deprivación requiere tratamiento urgente",
+      "title": "Ambliopía por deprivación: urgencia terapéutica",
+      "contentHtml": "<h2>Ambliopía por deprivación</h2><ul><li><b>Ambliopía por deprivación</b>: pérdida visual por obstrucción del eje visual (catarata congénita, ptosis severa, opacidad corneal) durante el período crítico.</li><li>Es la forma de ambliopía con peor pronóstico y requiere tratamiento urgente: la catarata congénita unilateral debe operarse antes de las <b>6-8 semanas de vida</b>; bilateral antes de las <b>10 semanas</b>.</li><li>Fisiopatología: deprivación de estimulación visual cortical durante la plasticidad del período crítico (hasta ~7-8 años, máxima hasta los 2-3 años).</li><li>Diagnóstico diferencial: descartar retinoblastoma, toxocariasis, persistencia de vítreo primario hiperplásico.</li><li>Trampa: la ambliopía por deprivación no mejora solo con oclusión; requiere primero eliminar la causa obstructiva.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Ambliopía por estrabismo",
-      "title": "Ambliopía por estrabismo",
-      "contentHtml": "<h2>Ambliopía por estrabismo</h2><ul><li>Mecanismo: <b>supresión cortical activa</b> de la imagen del ojo desviado para evitar diplopía.</li><li>Se desarrolla en <b>estrabismo monocular constante</b> (no alternante).</li><li>Más frecuente en <b>endotropia</b> que en exotropia por menor capacidad de supresión.</li><li>La agudeza visual del ojo ambliope no mejora con corrección refractiva sola.</li><li>Tratamiento: oclusión del ojo sano (parche) o penalización farmacológica (atropina 1% en ojo sano) para forzar uso del ojo ambliope.</li></ul>"
+      "foco": "Oclusión terapéutica: primera línea en ambliopía",
+      "title": "Oclusión terapéutica: primera línea",
+      "contentHtml": "<h2>Oclusión terapéutica</h2><ul><li><b>Oclusión terapéutica</b>: primera línea de tratamiento de la ambliopía refractiva y estrábica; consiste en parche en el ojo sano para forzar el uso del ojo ambliope.</li><li>Dosis según edad (estudio PEDIG): <b>2 horas/día</b> en ambliopía moderada (20/40-20/100) y <b>6 horas/día</b> en ambliopía severa (&lt;20/100) en niños de 3-7 años.</li><li>Alternativa: atropina al <b>1%</b> una gota diaria en el ojo sano (penalización farmacológica) en ambliopía moderada.</li><li>Monitorización: agudeza visual cada 4-8 semanas; vigilar ambliopía por oclusión inversa.</li><li>Trampa: la oclusión terapéutica no corrige el defecto refractivo; siempre asociar corrección óptica previa.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Tratamiento de ambliopía en niños",
-      "title": "Tratamiento de ambliopía en niños",
-      "contentHtml": "<h2>Tratamiento de ambliopía en niños</h2><ul><li><b>Primera línea</b>: corrección óptica completa (gafas) durante 4-8 semanas antes de iniciar oclusión.</li><li><b>Oclusión (parche)</b>: en ojo sano, horas/día según edad y severidad (ej. 2-6 h/día).</li><li><b>Penalización farmacológica</b>: <b>atropina 1%</b> en ojo sano (1 gota/día), alternativa a parche.</li><li>Duración: hasta alcanzar agudeza visual igual o mejoría estable; luego mantenimiento hasta los 8-10 años.</li><li>Riesgo de ambliopía por oclusión iatrogénica si se excede tiempo en ojo sano.</li></ul>"
+      "foco": "Estrabismo convergente acomodativo mejora con lentes",
+      "title": "Esotropía acomodativa: respuesta a lentes",
+      "contentHtml": "<h2>Estrabismo convergente acomodativo</h2><ul><li><b>Estrabismo convergente acomodativo</b>: esotropía desencadenada por la acomodación, típicamente entre los 2-3 años, asociada a hipermetropía.</li><li>Fisiopatología: hipermetropía no corregida → acomodación excesiva → convergencia refleja (relación acomodación-convergencia aumentada).</li><li>Diagnóstico: esotropía intermitente o constante, mayor en visión próxima; cicloplejía revela hipermetropía de <b>+2.00 a +6.00 dioptrías</b>.</li><li>Tratamiento: <b>corrección óptica completa con lentes hipermetrópicas</b> (primera línea); mejora o resuelve la esotropía.</li><li>Si persiste: añadir oclusión o cirugía; el <b>estrabismo convergente acomodativo</b> responde a lentes en la mayoría.</li><li>Trampa: no operar antes de corregir la hipermetropía con cicloplejía.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Prismas en estrabismo",
-      "title": "Prismas en estrabismo",
-      "contentHtml": "<h2>Prismas en estrabismo</h2><ul><li>Indicados para <b>diplopía</b> en estrabismos de pequeño ángulo (&lt;20 dioptrías prismáticas).</li><li>Base del prisma orientada hacia la desviación: base nasal en <b>exotropia</b>, base temporal en <b>endotropia</b>.</li><li>Uso diagnóstico: <b>prism cover test</b> para medir ángulo de desviación.</li><li>Uso terapéutico: alivio sintomático en parálisis de nervios craneales (ej. VI par) o estrabismo residual postquirúrgico.</li><li>No corrigen la causa ni mejoran la fusión; solo compensan ópticamente la desviación.</li></ul>"
+      "foco": "Esotropía congénita requiere cirugía precoz",
+      "title": "Esotropía congénita: cirugía precoz",
+      "contentHtml": "<h2>Esotropía congénita</h2><ul><li><b>Esotropía congénita</b>: esotropía de gran ángulo (&gt;30 dioptrías prismáticas), constante, presente antes de los 6 meses de vida.</li><li>Características: gran ángulo, fijación cruzada, limitación de abducción, nistagmo horizontal, error refractivo habitualmente bajo.</li><li>Diagnóstico diferencial: descartar parálisis del VI par, síndrome de Duane, esotropía acomodativa (aparece después de los 6 meses).</li><li>Tratamiento: <b>cirugía precoz antes de los 12-24 meses</b> para preservar visión binocular; retraso produce supresión y ambliopía.</li><li>Trampa: la esotropía congénita no mejora con lentes; requiere cirugía.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Cirugía de músculos extraoculares",
-      "title": "Cirugía de músculos extraoculares",
-      "contentHtml": "<h2>Cirugía de músculos extraoculares</h2><ul><li>Indicación: estrabismo no acomodativo, ángulo estable, falla de tratamiento conservador.</li><li>Técnicas: <b>resección</b> (acorta el músculo, aumenta su acción) y <b>recesión</b> (retroinserción, debilita el músculo).</li><li>En <b>endotropia</b> se realiza recesión del recto medial y/o resección del recto lateral.</li><li>En <b>exotropia</b> se realiza recesión del recto lateral y/o resección del recto medial.</li><li>Complicaciones: hipo/hipocorrección, perforación escleral, síndrome de adherencia, pérdida del músculo.</li></ul>"
+      "foco": "Leucocoria descarta retinoblastoma antes de estrabismo",
+      "title": "Leucocoria: descartar retinoblastoma",
+      "contentHtml": "<h2>Leucocoria</h2><ul><li><b>Leucocoria</b>: reflejo pupilar blanco; signo de alarma que obliga a descartar retinoblastoma antes de atribuirlo a estrabismo.</li><li>Causas: retinoblastoma (la más grave), catarata congénita, toxocariasis, persistencia de vítreo primario hiperplásico, desprendimiento de retina, enfermedad de Coats.</li><li>Retinoblastoma: tumor intraocular maligno más frecuente en la infancia (&lt;5 años); puede presentarse con leucocoria o estrabismo.</li><li>Estudio: fondo de ojo bajo midriasis, ecografía ocular, tomografía computarizada o resonancia magnética; envío urgente a oftalmología/oncología.</li><li>Trampa: todo niño con leucocoria y estrabismo debe descartarse retinoblastoma antes de iniciar tratamiento ortóptico.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Parálisis del VI par craneal",
-      "title": "Parálisis del VI par craneal",
-      "contentHtml": "<h2>Parálisis del VI par craneal</h2><ul><li><b>Nervio abducens</b>: inerva el recto lateral; falla produce <b>endotropia</b> por acción no contrarrestada del recto medial.</li><li>Causas: microvascular (HTA, DM), trauma, hipertensión intracraneal, tumores (troncoencéfalo, seno cavernoso).</li><li>Clínica: <b>diplopía binocular horizontal</b> que empeora en mirada lateral ipsilateral; limitación de abducción.</li><li>Manejo agudo: oclusión alternante, prismas base temporal, toxina botulínica en recto medial para contractura.</li><li>Si no resuelve en 6-12 meses: cirugía de transposición muscular (Hummelsheim).</li></ul>"
+      "foco": "Estrabismo divergente intermitente frecuente en niños",
+      "title": "Exotropía intermitente",
+      "contentHtml": "<h2>Estrabismo divergente intermitente</h2><ul><li><b>Estrabismo divergente intermitente</b>: exotropía que alterna entre fijación binocular y desviación; frecuente en niños de 2-6 años.</li><li>Presentación: desviación al mirar de lejos o al fatigarse; el niño cierra un ojo con la luz solar (signo de la monocularización).</li><li>Clasificación: exotropía intermitente básica, de lejos o de cerca; puede progresar a constante con supresión.</li><li>Tratamiento: corrección de errores refractivos, oclusión parcial, ejercicios de convergencia; cirugía si descompensa o hay supresión.</li><li>Trampa: el <b>estrabismo divergente intermitente</b> puede simular una foria; el cover test alternante prolongado desenmascara la tropía.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Estrabismo acomodativo y su manejo",
-      "title": "Estrabismo acomodativo y su manejo",
-      "contentHtml": "<h2>Estrabismo acomodativo y su manejo</h2><ul><li>Asociado a <b>hipermetropía no corregida</b>: el exceso de acomodación genera convergencia acomodativa excesiva → <b>endotropia</b>.</li><li>Se corrige con <b>gafas de hipermetropía completa</b> (cicloplejía previa para determinar refracción).</li><li><b>Relación CA/A</b> (convergencia acomodativa/acomodación) alta: desviación mayor en cerca que en lejos.</li><li>Manejo: gafas bifocales (adición para cerca) o lentes progresivos si CA/A alta.</li><li>Si persiste desviación con corrección óptica completa, considerar componente no acomodativo y cirugía.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Síndrome de Duane",
-      "title": "Síndrome de Duane",
-      "contentHtml": "<h2>Síndrome de Duane</h2><ul><li>Trastorno congénito por <b>inervación anómala</b> del VI par craneal (falla de desarrollo del núcleo abducens).</li><li>Tipo I: limitación de abducción con <b>retracción del globo</b> y estrechamiento de la hendidura palpebral en aducción.</li><li>Tipo II: limitación de aducción con retracción en abducción.</li><li>Tipo III: limitación de abducción y aducción.</li><li>Manejo: si hay <b>endotropia</b> en posición primaria o tortícolis significativo, cirugía (recesión de recto medial, transposición).</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Método de Worth y prueba de estereopsis",
-      "title": "Método de Worth y prueba de estereopsis",
-      "contentHtml": "<h2>Método de Worth y prueba de estereopsis</h2><ul><li><b>Test de Worth (4 puntos)</b>: evalúa fusión y supresión con gafas rojo-verde; ve 4 puntos = fusión; 2 rojos = supresión del ojo verde; 3 verdes = supresión del ojo rojo.</li><li><b>Prueba de estereopsis</b>: mide visión binocular tridimensional; se realiza con <b>láminas de Titmus</b> (mosca, círculos) o <b>Randot</b>.</li><li>Umbral normal: <b>40 segundos de arco</b> (Titmus).</li><li>Estereopsis fina alterada en estrabismo y ambliopía; es el mejor test de fusión sensorial.</li><li>Útil para monitorear respuesta al tratamiento y detectar supresión.</li></ul>"
+      "foco": "Visión binocular ausente tras periodo crítico",
+      "title": "Período crítico y visión binocular",
+      "contentHtml": "<h2>Visión binocular y período crítico</h2><ul><li><b>Período crítico</b>: ventana de plasticidad visual cortical (aproximadamente hasta los 7-8 años, máxima hasta los 2-3 años) en la que se establece la visión binocular.</li><li>Si el estrabismo o la deprivación persisten más allá del período crítico, la visión binocular no se recupera aunque se corrija la desviación.</li><li>Consecuencias: supresión, ambliopía, correspondencia retinal anómala, pérdida de estereopsis.</li><li>Tratamiento: corrección óptica, oclusión y cirugía antes del cierre del período crítico para preservar fusión y estereopsis.</li><li>Trampa: la cirugía estética tardía corrige la desviación pero no restaura la visión binocular ausente tras el período crítico.</li></ul>"
     }
   ]
 }

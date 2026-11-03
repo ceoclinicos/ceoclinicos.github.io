@@ -1,0 +1,65 @@
+{
+  "id": "fisiologia_metabolismo",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Insulina estimula GLUT4 en músculo y tejido adiposo",
+      "title": "Insulina y GLUT4",
+      "contentHtml": "<h2>Insulina estimula GLUT4 en músculo y tejido adiposo</h2><ul><li>La insulina se une a su receptor tirosina cinasa y activa la vía <b>PI3K/Akt</b>, que promueve la translocación de <b>GLUT4</b> a la membrana plasmática en músculo esquelético y tejido adiposo.</li><li><b>GLUT4</b> es el transportador insulinosensible; su defecto funcional explica la hiperglucemia de la resistencia a la insulina.</li><li>El músculo y el tejido adiposo son los únicos tejidos que dependen de insulina para captar glucosa; el cerebro, hígado y eritrocitos usan transportadores no insulinosensibles (<b>GLUT1</b>, <b>GLUT2</b>, <b>GLUT3</b>).</li><li>Trampa de examen: la insulina no solo capta glucosa; también estimula glucógeno sintasa, glucólisis y lipogénesis, e inhibe la gluconeogénesis hepática.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Glucagón activa glucogenólisis y gluconeogénesis hepática",
+      "title": "Glucagón hepático",
+      "contentHtml": "<h2>Glucagón activa glucogenólisis y gluconeogénesis hepática</h2><ul><li>El glucagón se une a receptores hepáticos acoplados a proteína Gs, eleva el <b>AMPc</b> y activa la <b>proteína cinasa A</b>.</li><li>La proteína cinasa A fosforila y activa la <b>glucógeno fosforilasa</b> (glucogenólisis) e inactiva la <b>glucógeno sintasa</b>.</li><li>También fosforila la <b>fructosa-2,6-bisfosfatasa</b>, reduciendo la fructosa-2,6-bisfosfato y favoreciendo la gluconeogénesis.</li><li>El glucagón inhibe la glucólisis hepática y estimula la exportación de glucosa vía <b>GLUT2</b>.</li><li>Trampa: el glucagón no actúa sobre el músculo esquelético porque este carece de receptores de glucagón funcionales para glucogenólisis.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Glucólisis: fosfofructoquinasa-1 es paso limitante",
+      "title": "Paso limitante de la glucólisis",
+      "contentHtml": "<h2>Glucólisis: fosfofructoquinasa-1 es paso limitante</h2><ul><li>La <b>fosfofructoquinasa-1</b> cataliza la conversión de <b>fructosa-6-fosfato</b> a <b>fructosa-1,6-bisfosfato</b>; es el paso limitante y punto de regulación principal de la glucólisis.</li><li>Activadores: <b>AMP</b>, <b>ADP</b> y <b>fructosa-2,6-bisfosfato</b>; inhibidores: <b>ATP</b>, <b>citrato</b> y <b>pH bajo</b>.</li><li>La <b>hexocinasa</b> (glucocinasa en hígado) es el primer paso, pero no el limitante.</li><li>Trampa: la <b>piruvato cinasa</b> es el último paso y también regulable, pero el paso limitante clásico es la <b>fosfofructoquinasa-1</b>.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Ciclo de Krebs genera NADH y FADH2 para cadena respiratoria",
+      "title": "Ciclo de Krebs y poder reductor",
+      "contentHtml": "<h2>Ciclo de Krebs genera NADH y FADH2 para cadena respiratoria</h2><ul><li>Por cada acetil-CoA que entra al <b>ciclo de Krebs</b> se producen <b>3 NADH</b>, <b>1 FADH2</b>, <b>1 GTP/ATP</b> y <b>2 CO2</b>.</li><li>El <b>NADH</b> y el <b>FADH2</b> donan electrones a la <b>cadena respiratoria</b> mitocondrial; el NADH entra en el complejo I y el FADH2 en el complejo II.</li><li>La energía del gradiente de protones genera <b>ATP</b> por la <b>ATP sintasa</b> (fosforilación oxidativa).</li><li>Trampa: el ciclo de Krebs es aerobio indirecto; sin oxígeno se detiene porque el NADH no se reoxida.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Glucólisis anaerobia produce lactato y regenera NAD+",
+      "title": "Glucólisis anaerobia y lactato",
+      "contentHtml": "<h2>Glucólisis anaerobia produce lactato y regenera NAD+</h2><ul><li>En ausencia de oxígeno, el <b>piruvato</b> se reduce a <b>lactato</b> por la <b>lactato deshidrogenasa</b>, regenerando <b>NAD+</b> para que la glucólisis continúe.</li><li>Rendimiento neto: <b>2 ATP</b> por glucosa en glucólisis anaerobia frente a ~<b>30-32 ATP</b> en aerobia.</li><li>El lactato se transporta al hígado y se reconvierte en glucosa mediante el <b>ciclo de Cori</b>.</li><li>Trampa: el lactato no es un desecho; es un combustible y sustrato gluconeogénico.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Cetogénesis hepática durante ayuno prolongado",
+      "title": "Cetogénesis hepática",
+      "contentHtml": "<h2>Cetogénesis hepática durante ayuno prolongado</h2><ul><li>En ayuno prolongado (&gt;12-24 h), el hígado convierte <b>acetil-CoA</b> en <b>cuerpos cetónicos</b>: <b>acetoacetato</b>, <b>beta-hidroxibutirato</b> y <b>acetona</b>.</li><li>La <b>carnitina palmitoiltransferasa I</b> es el paso limitante de la beta-oxidación y de la cetogénesis.</li><li>La cetogénesis hepática es estimulada por glucagón y cortisol, e inhibida por insulina.</li><li>Trampa: el hígado produce cuerpos cetónicos pero no los utiliza; carece de <b>tioforasa</b>.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Cuerpos cetónicos usados por cerebro en ayuno",
+      "title": "Cuerpos cetónicos y cerebro",
+      "contentHtml": "<h2>Cuerpos cetónicos usados por cerebro en ayuno</h2><ul><li>Tras ayuno prolongado (&gt;3-4 días), el cerebro sustituye parte de la glucosa por <b>beta-hidroxibutirato</b> y <b>acetoacetato</b> como combustible.</li><li>El <b>beta-hidroxibutirato</b> es el cuerpo cetónico más abundante en sangre y el principal usado por el cerebro.</li><li>El transporte al cerebro ocurre por el transportador monocarboxilato <b>MCT1</b>.</li><li>Trampa: el cerebro no puede usar ácidos grasos libres porque no atraviesan la barrera hematoencefálica; los cuerpos cetónicos sí.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Gluconeogénesis: sustratos lactato, glicerol y aminoácidos",
+      "title": "Sustratos de la gluconeogénesis",
+      "contentHtml": "<h2>Gluconeogénesis: sustratos lactato, glicerol y aminoácidos</h2><ul><li>La gluconeogénesis ocurre principalmente en hígado (y en menor medida en corteza renal).</li><li>Sustratos principales: <b>lactato</b> (ciclo de Cori), <b>glicerol</b> (lipólisis) y <b>aminoácidos</b> (alanina del ciclo glucosa-alanina).</li><li>La <b>fructosa-1,6-bisfosfatasa</b> y la <b>glucosa-6-fosfatasa</b> son enzimas clave exclusivas de la gluconeogénesis.</li><li>Trampa: los ácidos grasos no son sustrato gluconeogénico en humanos; solo aportan ATP y acetil-CoA.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Insulina inhibe lipólisis y favorece lipogénesis",
+      "title": "Insulina y metabolismo lipídico",
+      "contentHtml": "<h2>Insulina inhibe lipólisis y favorece lipogénesis</h2><ul><li>La insulina activa la <b>lipoproteína lipasa</b> endotelial y estimula la captación de ácidos grasos en tejido adiposo.</li><li>Inhibe la <b>lipasa sensible a hormonas</b> del adipocito, reduciendo la lipólisis y la liberación de ácidos grasos libres.</li><li>Estimula la <b>acetil-CoA carboxilasa</b> y la <b>ácido graso sintasa</b>, favoreciendo la lipogénesis hepática y adipocitaria.</li><li>Trampa: la insulina favorece el depósito graso; su exceso crónico contribuye a esteatosis hepática y obesidad.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Cortisol promueve gluconeogénesis y proteólisis",
+      "title": "Cortisol y catabolismo",
+      "contentHtml": "<h2>Cortisol promueve gluconeogénesis y proteólisis</h2><ul><li>El cortisol (glucocorticoide) estimula la gluconeogénesis hepática e induce las enzimas <b>fosfoenolpiruvato carboxicinasa</b> y <b>glucosa-6-fosfatasa</b>.</li><li>Promueve proteólisis muscular para liberar aminoácidos gluconeogénicos y lipólisis para liberar glicerol.</li><li>Produce hiperglucemia por resistencia a la insulina en tejidos periféricos.</li><li>Trampa: el cortisol no solo es un glucocorticoide; también tiene efecto mineralocorticoide a dosis altas, causando hipertensión e hipocalemia.</li></ul>"
+    }
+  ]
+}

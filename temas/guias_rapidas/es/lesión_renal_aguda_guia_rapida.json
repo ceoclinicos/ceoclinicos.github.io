@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Fármacos nefrotóxicos más frecuentes",
-      "title": "Nefrotoxicidad farmacológica",
-      "contentHtml": "<h2>Fármacos nefrotóxicos más frecuentes</h2><ul><li><b>Antiinflamatorios no esteroideos</b>: inhiben prostaglandinas vasodilatadoras, precipitan lesión prerrenal en hipovolemia; riesgo aumenta con edad &gt;60 años, enfermedad renal crónica y uso concomitante de <b>inhibidores de la enzima convertidora de angiotensina</b> o <b>diuréticos</b>.</li><li><b>Contraste yodado</b>: causa vasoconstricción renal y toxicidad tubular directa; prevenir con hidratación (solución salina 1 ml/kg/h 12 h pre y post) y evitar en tasa de filtración glomerular &lt;30 ml/min/1.73 m².</li><li><b>Aminoglucósidos</b>: nefrotoxicidad dosis-dependiente; acumulación en túbulo proximal, necrosis tubular aguda; monitorizar concentraciones valle (&lt;2 μg/ml para gentamicina).</li><li><b>Vancomicina</b>: lesión tubular por estrés oxidativo; riesgo con niveles valle &gt;15-20 μg/ml y duración &gt;7 días.</li></ul>"
+      "foco": "Criterios KDIGO: creatinina y diuresis",
+      "title": "Criterios KDIGO para lesión renal aguda",
+      "contentHtml": "<h2>Criterios KDIGO para lesión renal aguda</h2><ul><li><b>Definición KDIGO:</b> aumento de creatinina sérica &gt;0.3 mg/dL en 48 horas, o &gt;1.5 veces el valor basal en 7 días, o diuresis &lt;0.5 mL/kg/h durante 6 horas.</li><li><b>Estadio 1:</b> creatinina 1.5-1.9 veces basal o aumento &gt;0.3 mg/dL; diuresis &lt;0.5 mL/kg/h durante 6-12 horas.</li><li><b>Estadio 2:</b> creatinina 2.0-2.9 veces basal; diuresis &lt;0.5 mL/kg/h durante &gt;12 horas.</li><li><b>Estadio 3:</b> creatinina &gt;3.0 veces basal o &gt;4.0 mg/dL con aumento &gt;0.5 mg/dL, o inicio de terapia de reemplazo renal; diuresis &lt;0.3 mL/kg/h durante &gt;24 horas o anuria &gt;12 horas.</li><li><b>Trampa:</b> la creatinina basal debe ser reciente y conocida; si no, usar el menor valor disponible.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Clasificación prerrenal, renal, posrenal",
-      "title": "Clasificación etiológica",
-      "contentHtml": "<h2>Clasificación prerrenal, renal, posrenal</h2><ul><li><b>Prerrenal</b>: hipoperfusión renal (hipovolemia, insuficiencia cardíaca, cirrosis); relación <b>BUN/creatinina &gt;20</b>, fracción de excreción de sodio &lt;1%, sedimento urinario normal o con cilindros hialinos; reversible si se corrige la causa.</li><li><b>Renal (intrínseca)</b>: daño parenquimatoso; principal causa <b>necrosis tubular aguda</b> (isquémica o tóxica), seguida de <b>nefritis intersticial aguda</b> (fármacos), glomerulonefritis y vasculitis; fracción de excreción de sodio &gt;2%, sedimento con cilindros granulosos o eritrocitarios.</li><li><b>Posrrenal</b>: obstrucción del tracto urinario (hiperplasia prostática, cálculos, tumores); anuria/oliguria alternante, dilatación pielocalicial en ecografía; resolución al descomprimir la vía urinaria.</li></ul>"
+      "foco": "Prerrenal vs renal: índice urea/creatinina",
+      "title": "Índice urea/creatinina en lesión renal aguda",
+      "contentHtml": "<h2>Índice urea/creatinina: prerrenal vs renal</h2><ul><li><b>Índice urea/creatinina &gt;40:</b> orienta a lesión prerrenal (hipoperfusión) por reabsorción tubular de urea conservada.</li><li><b>Índice urea/creatinina &lt;20:</b> sugiere lesión renal intrínseca (necrosis tubular aguda) con menor reabsorción de urea.</li><li><b>Fisiopatología:</b> en hipovolemia, la urea se reabsorbe en túbulo proximal junto con sodio y agua; la creatinina no se reabsorbe.</li><li><b>Limitación:</b> dieta rica en proteínas, sangrado digestivo, corticoides o catabolismo elevan urea y falsamente el índice.</li><li><b>Trampa:</b> diuréticos pueden alterar el índice; interpretar junto con fracción excretada de sodio y respuesta a volumen.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Criterios KDIGO para diagnóstico",
-      "title": "Criterios KDIGO",
-      "contentHtml": "<h2>Criterios KDIGO para diagnóstico</h2><ul><li>Definición: aumento de <b>creatinina sérica</b> &ge;0.3 mg/dl en 48 horas, o aumento &ge;1.5 veces el valor basal en 7 días, o <b>diuresis &lt;0.5 ml/kg/h</b> durante 6 horas.</li><li><b>Estadios</b>: Estadio 1: creatinina 1.5-1.9 veces basal o &ge;0.3 mg/dl; diuresis &lt;0.5 ml/kg/h 6-12 h. Estadio 2: creatinina 2.0-2.9 veces basal; diuresis &lt;0.5 ml/kg/h &ge;12 h. Estadio 3: creatinina 3.0 veces basal o &ge;4.0 mg/dl, o inicio de terapia de reemplazo renal, o diuresis &lt;0.3 ml/kg/h &ge;24 h o anuria &ge;12 h.</li><li>Utilizar el criterio más grave (creatinina o diuresis) para estadificar.</li></ul>"
+      "foco": "Necrosis tubular aguda: cilindros marrones",
+      "title": "Necrosis tubular aguda y cilindros marrones",
+      "contentHtml": "<h2>Necrosis tubular aguda: cilindros marrones</h2><ul><li><b>Cilindros marrones granulosos:</b> hallazgo en sedimento urinario de necrosis tubular aguda; corresponden a células tubulares necróticas pigmentadas.</li><li><b>Sedimento:</b> cilindros granulosos, células epiteliales tubulares y detritos; puede haber cilindros hialinos inespecíficos.</li><li><b>Fracción excretada de sodio &gt;2%:</b> típica de necrosis tubular aguda por pérdida de capacidad de reabsorción tubular.</li><li><b>Fisiopatología:</b> isquemia o toxina produce lesión del epitelio tubular, obstrucción luminal y retorno del filtrado.</li><li><b>Trampa:</b> en necrosis tubular aguda por contraste o pigmento, la fracción excretada de sodio puede ser baja inicialmente.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Elevación de creatinina y oliguria",
-      "title": "Creatinina y oliguria",
-      "contentHtml": "<h2>Elevación de creatinina y oliguria</h2><ul><li>La <b>creatinina sérica</b> no es marcador precoz de lesión renal aguda; se eleva cuando la tasa de filtración glomerular ha caído &gt;50% y alcanza meseta en 3-7 días.</li><li><b>Oliguria</b> (&lt;400 ml/día) es un signo de alarma; la anuria (&lt;100 ml/día) sugiere obstrucción completa o necrosis cortical bilateral.</li><li>La <b>lesión renal aguda oligúrica</b> tiene peor pronóstico que la no oligúrica (mayor mortalidad y necesidad de diálisis).</li><li>La <b>diuresis horaria</b> (medir con sonda vesical) es más sensible que la creatinina para detectar lesión renal aguda en las primeras 6 horas.</li></ul>"
+      "foco": "FE Na bajo en lesión prerrenal",
+      "title": "Fracción excretada de sodio en lesión prerrenal",
+      "contentHtml": "<h2>Fracción excretada de sodio baja en lesión prerrenal</h2><ul><li><b>Fracción excretada de sodio &lt;1%:</b> orienta a lesión prerrenal por hipoperfusión con reabsorción tubular de sodio conservada.</li><li><b>Fórmula:</b> (sodio urinario × creatinina plasmática) / (sodio plasmático × creatinina urinaria) × 100.</li><li><b>Fisiopatología:</b> el túbulo proximal y distal reabsorben sodio avidamente ante hipovolemia o bajo gasto cardiaco.</li><li><b>Limitación:</b> diuréticos, enfermedad renal crónica, contraste, sepsis o insuficiencia cardiaca pueden elevar la fracción excretada de sodio.</li><li><b>Trampa:</b> una fracción excretada de sodio baja no descarta lesión renal intrínseca si hay diuréticos o contraste reciente.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Necrosis tubular aguda vs nefritis intersticial",
-      "title": "Diagnóstico diferencial NTA vs NIA",
-      "contentHtml": "<h2>Necrosis tubular aguda vs nefritis intersticial</h2><ul><li><b>Necrosis tubular aguda</b>: causa isquémica o tóxica; sedimento con <b>cilindros granulosos</b> y células tubulares; fracción de excreción de sodio &gt;2%; curso oligúrico típico; recuperación espontánea en 1-3 semanas.</li><li><b>Nefritis intersticial aguda</b>: asociada a fármacos (antibióticos beta-lactámicos, inhibidores de la bomba de protones, antiinflamatorios no esteroideos); sedimento con leucocitos, <b>cilindros leucocitarios</b> y eosinofiluria; fiebre, rash y eosinofilia (tríada clásica, presente en &lt;30%).</li><li>La <b>biopsia renal</b> es gold standard; en nefritis intersticial aguda el tratamiento es suspender el fármaco causal y considerar corticoides si no hay mejoría en 7 días.</li></ul>"
+      "foco": "FE urea útil con diuréticos",
+      "title": "Fracción excretada de urea con diuréticos",
+      "contentHtml": "<h2>Fracción excretada de urea en lesión renal aguda</h2><ul><li><b>Fracción excretada de urea &lt;35%:</b> sugiere lesión prerrenal, incluso con diuréticos que alteran la fracción excretada de sodio.</li><li><b>Fórmula:</b> (urea urinaria × creatinina plasmática) / (urea plasmática × creatinina urinaria) × 100.</li><li><b>Ventaja:</b> los diuréticos no modifican sustancialmente la reabsorción tubular de urea, por lo que es útil cuando la fracción excretada de sodio es poco fiable.</li><li><b>Limitación:</b> estados catabólicos, sangrado digestivo o dieta rica en proteínas elevan la urea plasmática y alteran el cociente.</li><li><b>Trampa:</b> en sepsis o necrosis tubular aguda la fracción excretada de urea puede ser &gt;35%.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Índice de FENa y urea fraccional",
-      "title": "Índices urinarios",
-      "contentHtml": "<h2>Índice de FENa y urea fraccional</h2><ul><li><b>Fracción de excreción de sodio</b> (FENa) = (sodio urinario × creatinina plasmática) / (sodio plasmático × creatinina urinaria) × 100. Valor &lt;1% sugiere <b>lesión prerrenal</b>; &gt;2% sugiere necrosis tubular aguda.</li><li>La <b>fracción de excreción de urea</b> (FEUrea) es útil cuando se usan diuréticos: FEUrea &lt;35% indica causa prerrenal; &gt;50% indica necrosis tubular aguda.</li><li>En <b>glomerulonefritis</b> y <b>nefritis intersticial aguda</b> la FENa puede ser &lt;1% simulando origen prerrenal; la FEUrea es más fiable en estos casos.</li><li>Interpretar siempre con el contexto clínico y el sedimento urinario.</li></ul>"
+      "foco": "Nefrotóxico: aminoglucósidos y contraste",
+      "title": "Nefrotóxicos: aminoglucósidos y contraste",
+      "contentHtml": "<h2>Nefrotóxicos: aminoglucósidos y contraste</h2><ul><li><b>Aminoglucósidos:</b> producen necrosis tubular aguda dosis-dependiente, no oligúrica, con fracción excretada de sodio elevada y cilindros granulosos.</li><li><b>Contraste yodado:</b> nefropatía por contraste típicamente en 24-72 horas, con creatinina que alcanza pico a los 3-5 días y recuperación en 7-10 días.</li><li><b>Prevención de nefropatía por contraste:</b> hidratación con solución salina isotónica y usar la mínima dosis de contraste; no hay fármaco farmacológico universalmente eficaz.</li><li><b>Fisiopatología:</b> vasoconstricción medular, toxicidad tubular directa y estrés oxidativo.</li><li><b>Trampa:</b> la fracción excretada de sodio puede ser baja en nefropatía por contraste inicialmente, simulando lesión prerrenal.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Sedimento urinario con cilindros granulosos",
-      "title": "Sedimento urinario",
-      "contentHtml": "<h2>Sedimento urinario con cilindros granulosos</h2><ul><li>Los <b>cilindros granulosos</b> son característicos de <b>necrosis tubular aguda</b>; se forman por agregación de células tubulares descamadas y proteínas de Tamm-Horsfall.</li><li>La presencia de <b>cilindros eritrocitarios</b> sugiere glomerulonefritis o vasculitis; los <b>cilindros leucocitarios</b> orientan a nefritis intersticial aguda o pielonefritis.</li><li>Los <b>cilindros hialinos</b> son inespecíficos y pueden verse en lesión prerrenal o en individuos sanos.</li><li>El sedimento urinario debe examinarse en <b>orina fresca</b> (dentro de 2 horas) para evitar lisis de elementos formes; la tinción de Wright puede identificar eosinófilos.</li></ul>"
+      "foco": "Síndrome hepatorrenal: criterios y vasoconstricción",
+      "title": "Síndrome hepatorrenal: criterios y vasoconstricción",
+      "contentHtml": "<h2>Síndrome hepatorrenal: criterios y vasoconstricción</h2><ul><li><b>Criterios:</b> cirrosis con ascitis, lesión renal aguda, ausencia de respuesta a albúmina (1 g/kg/día durante 2 días), sin shock, sin nefrotóxicos, sin enfermedad renal estructural (proteinuria &lt;500 mg/día, hematuria &lt;50 hematíes/campo, ecografía renal normal).</li><li><b>Fisiopatología:</b> vasodilatación esplácnica con activación del sistema renina-angiotensina-aldosterona y vasoconstricción renal intensa.</li><li><b>Tratamiento:</b> terlipresina más albúmina; la vasoconstricción esplácnica reduce la activación simpática y del sistema renina-angiotensina-aldosterona.</li><li><b>Trampa:</b> la fracción excretada de sodio puede ser &lt;1% y el sedimento suele ser benigno; excluir necrosis tubular aguda y obstrucción.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Hiperpotasemia y acidosis metabólica",
-      "title": "Complicaciones metabólicas",
-      "contentHtml": "<h2>Hiperpotasemia y acidosis metabólica</h2><ul><li>La <b>hiperpotasemia</b> en lesión renal aguda se debe a disminución de excreción renal y liberación celular por acidosis; puede causar arritmias letales. Tratamiento: gluconato de calcio (protección cardíaca), insulina + dextrosa, beta-agonistas, resinas de intercambio, y diálisis si refractaria.</li><li>La <b>acidosis metabólica</b> es por retención de ácidos no volátiles (anión gap normal o elevado según la causa); el bicarbonato sérico &lt;15 mmol/L o pH &lt;7.2 es indicación de terapia de reemplazo renal.</li><li>En la <b>fase oligúrica</b> la hiperpotasemia puede progresar rápido; monitorizar cada 4-6 horas y electrocardiograma (ondas T picudas, QRS ancho).</li></ul>"
+      "foco": "Rabdomiólisis: CK elevada y orina oscura",
+      "title": "Rabdomiólisis: creatina cinasa elevada y orina oscura",
+      "contentHtml": "<h2>Rabdomiólisis: creatina cinasa elevada y orina oscura</h2><ul><li><b>Creatina cinasa &gt;5 veces el límite superior normal:</b> confirma rabdomiólisis; el riesgo de lesión renal aguda aumenta con creatina cinasa &gt;5,000 U/L.</li><li><b>Orina oscura:</b> por mioglobina; la tira reactiva de orina da positivo para sangre sin hematíes en el sedimento.</li><li><b>Fisiopatología:</b> mioglobina precipita en túbulos, genera obstrucción y toxicidad directa con vasoconstricción renal.</li><li><b>Tratamiento:</b> hidratación agresiva con solución salina isotónica; considerar bicarbonato para alcalinizar la orina si hay acidosis.</li><li><b>Trampa:</b> la creatina cinasa puede normalizarse antes que la función renal; vigilar potasio, calcio y fósforo por riesgo de hiperkalemia e hipocalcemia.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Indicaciones de terapia de reemplazo renal",
-      "title": "Indicaciones de diálisis",
-      "contentHtml": "<h2>Indicaciones de terapia de reemplazo renal</h2><ul><li>Indicaciones absolutas (nemotecnia <b>AEIOU</b>): <b>A</b>cidosis metabólica refractaria (pH &lt;7.15 o bicarbonato &lt;12 mmol/L), <b>E</b>lectrolitos (hiperpotasemia &gt;6.5 mmol/L o que no responde a tratamiento médico), <b>I</b>ntoxicación (por dializable), <b>O</b>liguria (diuresis &lt;200 ml/12 h o anuria), <b>U</b>remia (síntomas urémicos: pericarditis, encefalopatía, náuseas/vómitos).</li><li>La <b>sobrecarga de volumen</b> refractaria a diuréticos es otra indicación frecuente.</li><li>La <b>terapia de reemplazo renal continua</b> está indicada en pacientes hemodinámicamente inestables; la hemodiálisis intermitente se usa en estables.</li></ul>"
+      "foco": "Indicaciones absolutas de diálisis urgente",
+      "title": "Indicaciones absolutas de diálisis urgente",
+      "contentHtml": "<h2>Indicaciones absolutas de diálisis urgente</h2><ul><li><b>Indicaciones absolutas:</b> hiperkalemia refractaria, acidosis metabólica grave refractaria, edema pulmonar refractario, uremia con encefalopatía o pericarditis, y intoxicación dializable.</li><li><b>Hiperkalemia refractaria:</b> potasio &gt;6.5 mmol/L con cambios electrocardiográficos o arritmias que no responden a tratamiento médico.</li><li><b>Acidosis metabólica grave:</b> pH &lt;7.1 o bicarbonato &lt;10 mmol/L refractario a tratamiento.</li><li><b>Edema pulmonar:</b> por sobrecarga de volumen refractario a diuréticos y soporte ventilatorio.</li><li><b>Trampa:</b> la creatinina elevada aislada no es indicación absoluta; valorar contexto clínico y complicaciones.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Fase de mantenimiento y recuperación",
-      "title": "Fases de la LRA",
-      "contentHtml": "<h2>Fase de mantenimiento y recuperación</h2><ul><li><b>Fase de mantenimiento</b>: dura 1-3 semanas; oliguria persistente, elevación de creatinina, riesgo de hiperpotasemia, acidosis y sobrecarga de volumen; manejo conservador (restricción de líquidos, sodio, potasio, fósforo) y diálisis según indicaciones.</li><li><b>Fase de recuperación</b>: diuresis progresiva (&gt;400 ml/día) seguida de poliuria (hasta 2-3 L/día) por excreción de urea acumulada y disfunción tubular; puede causar hipopotasemia e hipomagnesemia; requiere reposición de líquidos y electrolitos.</li><li>La <b>creatinina sérica</b> desciende lentamente; la función tubular se recupera en semanas a meses; algunos pacientes quedan con enfermedad renal crónica.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Relación BUN/creatinina en prerrenal",
-      "title": "Relación BUN/creatinina",
-      "contentHtml": "<h2>Relación BUN/creatinina en prerrenal</h2><ul><li>La relación <b>BUN/creatinina</b> normal es 10-15:1. En lesión prerrenal &gt;20:1 por reabsorción aumentada de urea en túbulo proximal debido a bajo flujo tubular.</li><li>Otras causas de relación &gt;20:1: sangrado gastrointestinal, dieta rica en proteínas, uso de corticoides, catabolismo elevado.</li><li>Relación &lt;10:1 se ve en enfermedad hepática, desnutrición, y <b>necrosis tubular aguda</b> (por daño tubular que impide reabsorción de urea).</li><li>La relación no es diagnóstica por sí sola; debe integrarse con fracción de excreción de sodio y sedimento urinario.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Contraste yodado como causa prevenible",
-      "title": "Nefropatía por contraste",
-      "contentHtml": "<h2>Contraste yodado como causa prevenible</h2><ul><li>La <b>nefropatía inducida por contraste</b> se define como aumento de creatinina &ge;0.5 mg/dl o &ge;25% del basal dentro de 48-72 horas tras administración de contraste yodado.</li><li>Factores de riesgo: tasa de filtración glomerular &lt;30 ml/min/1.73 m², diabetes mellitus, deshidratación, uso concomitante de antiinflamatorios no esteroideos, mieloma múltiple.</li><li>Prevención: <b>hidratación con solución salina 0.9%</b> (1 ml/kg/h 12 h pre y post procedimiento), suspender antiinflamatorios no esteroideos y metformina 48 h antes, usar la menor dosis posible de contraste isoosmolar.</li><li>La <b>N-acetilcisteína</b> y el bicarbonato de sodio no han demostrado beneficio consistente en ensayos recientes; la hidratación es la única medida comprobada.</li></ul>"
+      "foco": "Recuperación: fase poliúrica y riesgo hipokalemia",
+      "title": "Fase poliúrica y riesgo de hipopotasemia",
+      "contentHtml": "<h2>Fase poliúrica de recuperación y riesgo de hipopotasemia</h2><ul><li><b>Fase poliúrica:</b> tras la recuperación de la lesión renal aguda, diuresis &gt;3 L/día por diuresis osmótica y recuperación de la capacidad de concentración.</li><li><b>Riesgo:</b> hipopotasemia, hiponatremia, hipomagnesemia y deshidratación por pérdidas urinarias.</li><li><b>Manejo:</b> reposición de volumen y electrolitos según diuresis y analítica; monitorizar potasio sérico.</li><li><b>Fisiopatología:</b> los túbulos recuperan la reabsorción de sodio pero aún no concentran la orina, generando pérdidas de agua y electrolitos.</li><li><b>Trampa:</b> no restringir líquidos en esta fase; la oliguria ya se resolvió y la poliuria puede causar hipovolemia grave.</li></ul>"
     }
   ]
 }

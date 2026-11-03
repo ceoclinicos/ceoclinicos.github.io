@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Clasificación según ETDRS",
-      "title": "Clasificación ETDRS",
-      "contentHtml": "<h2>Clasificación según ETDRS</h2><ul><li><b>ETDRS</b> (Early Treatment Diabetic Retinopathy Study) clasifica en <b>NPDR</b> (no proliferativa) leve, moderada, severa y muy severa, y <b>PDR</b> (proliferativa) con o sin características de alto riesgo.</li><li>NPDR severa: regla <b>4-2-1</b>: hemorragias/MA en 4 cuadrantes, arrosariamiento venoso en ≥2 cuadrantes, IRMA en ≥1 cuadrante.</li><li>NPDR muy severa: ≥2 de los criterios de severa.</li><li>PDR de alto riesgo: <b>neovascularización del disco (NVD)</b> ≥1/3 del área del disco, o <b>neovascularización en otro lugar (NVE)</b> ≥1/2 del área del disco con hemorragia vítrea/prerretiniana.</li></ul>"
+      "foco": "Tamizaje anual desde diagnóstico de DM2",
+      "title": "Tamizaje inicial en diabetes mellitus tipo 2",
+      "contentHtml": "<h2>Tamizaje anual desde diagnóstico de DM2</h2><ul><li><b>Diabetes mellitus tipo 2</b>: el tamizaje oftalmológico se realiza <b>al momento del diagnóstico</b> y luego <b>cada año</b>.</li><li>Fundamento: la hiperglucemia puede preceder años al diagnóstico, por lo que puede existir retinopatía al debut.</li><li>Método inicial: <b>fondo de ojo</b> con dilatación pupilar por oftalmología o retinografía validada.</li><li>Trampa de examen: no esperar 5 años en diabetes mellitus tipo 2; eso aplica a diabetes mellitus tipo 1.</li><li>Si el tamizaje inicial es normal, repetir en <b>1-2 años</b> según riesgo y control metabólico.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Hemoglobina glucosilada como factor de riesgo",
-      "title": "HbA1c como factor de riesgo",
-      "contentHtml": "<h2>Hemoglobina glucosilada como factor de riesgo</h2><ul><li>La <b>HbA1c</b> es el principal factor de riesgo modificable para desarrollo y progresión de retinopatía diabética.</li><li>Estudio <b>DCCT</b> (Diabetes Control and Complications Trial) demostró que reducir HbA1c a <b>&lt;7%</b> disminuye riesgo de retinopatía en tipo 1 en <b>76%</b>.</li><li>En tipo 2, <b>UKPDS</b> mostró beneficio con HbA1c &lt;7%.</li><li>Cada descenso de 1% en HbA1c reduce riesgo de retinopatía en ~35-40%.</li><li>Trampa: descenso brusco de HbA1c puede empeorar temporalmente la retinopatía (fenómeno de <b>worsening</b>).</li></ul>"
+      "foco": "DM1: tamizaje a los 5 años de diagnóstico",
+      "title": "Tamizaje en diabetes mellitus tipo 1",
+      "contentHtml": "<h2>DM1: tamizaje a los 5 años de diagnóstico</h2><ul><li><b>Diabetes mellitus tipo 1</b>: iniciar tamizaje de retinopatía a los <b>5 años</b> del diagnóstico o al inicio de la pubertad, lo que ocurra primero.</li><li>Luego del primer tamizaje, repetir <b>cada año</b>.</li><li>En diabetes mellitus tipo 1 de inicio prepuberal, el tamizaje puede diferirse hasta los <b>5 años</b> de evolución o pubertad.</li><li>Trampa: en diabetes mellitus tipo 2 el tamizaje es <b>al diagnóstico</b>, no a los 5 años.</li><li>Método: <b>fondo de ojo</b> dilatado o retinografía validada.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Tratamiento con anti-VEGF",
-      "title": "Anti-VEGF en RD",
-      "contentHtml": "<h2>Tratamiento con anti-VEGF</h2><ul><li>Indicación principal: <b>edema macular diabético (EMD)</b> con compromiso foveal y <b>retinopatía diabética proliferativa (PDR)</b> como alternativa a fotocoagulación panretiniana.</li><li>Fármacos aprobados: <b>ranibizumab</b> (Lucentis, 0.3 mg/0.05 mL), <b>aflibercept</b> (Eylea, 2 mg/0.05 mL), <b>bevacizumab</b> (Avastin, 1.25 mg/0.05 mL, off-label).</li><li>Régimen: dosis mensual inicial, luego según necesidad (PRN) o treat-and-extend.</li><li>Estudio <b>DRCR.net Protocol T</b>: aflibercept superior a ranibizumab y bevacizumab en agudeza visual inicial &lt;20/50.</li><li>Efectos adversos: endoftalmitis, desprendimiento de retina, aumento de presión intraocular.</li></ul>"
+      "foco": "Fondo de ojo es el estándar diagnóstico",
+      "title": "Estándar diagnóstico: fondo de ojo",
+      "contentHtml": "<h2>Fondo de ojo es el estándar diagnóstico</h2><ul><li><b>Fondo de ojo</b> con dilatación pupilar es el estándar para diagnosticar y clasificar retinopatía diabética.</li><li>La retinografía digital validada puede usarse para tamizaje; si es anormal, derivar a oftalmología.</li><li>La tomografía de coherencia óptica detecta <b>edema macular diabético</b> y engrosamiento retiniano, pero no sustituye la clasificación clínica.</li><li>La angiografía fluoresceínica identifica isquemia y neovasos, útil en retinopatía proliferativa.</li><li>Trampa: la agudeza visual normal no descarta retinopatía; el examen de fondo de ojo es obligatorio.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Edema macular diabético",
-      "title": "Edema macular diabético",
-      "contentHtml": "<h2>Edema macular diabético</h2><ul><li>Definido como engrosamiento retiniano dentro de <b>1 diámetro de disco</b> del centro de la mácula.</li><li>Clasificación: <b>EMD con compromiso central</b> (foveal) vs <b>sin compromiso central</b>.</li><li>Diagnóstico por <b>OCT</b> (tomografía de coherencia óptica) que muestra engrosamiento y quistes intrarretinianos.</li><li>Tratamiento de primera línea: <b>anti-VEGF intravítreo</b>; corticoides intravítreos (triamcinolona, implante de dexametasona) como segunda línea.</li><li>Trampa: EMD puede presentarse en cualquier estadio de RD, no solo en PDR.</li><li>Factor de riesgo: <b>HbA1c elevada</b>, hipertensión, dislipidemia.</li></ul>"
+      "foco": "No retinopatía: repetir cada 1-2 años",
+      "title": "Sin retinopatía: seguimiento",
+      "contentHtml": "<h2>No retinopatía: repetir cada 1-2 años</h2><ul><li>Si el <b>fondo de ojo</b> no muestra retinopatía diabética, repetir tamizaje en <b>1-2 años</b>.</li><li>Intervalo más corto si mal control glucémico, hipertensión arterial o dislipidemia.</li><li>En diabetes mellitus tipo 1 sin retinopatía tras 5 años de evolución, repetir anualmente.</li><li>El tamizaje debe continuar aunque la agudeza visual sea normal.</li><li>Trampa: no dar el alta oftalmológica definitiva; la retinopatía puede aparecer después.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Fotocoagulación panretiniana",
-      "title": "Fotocoagulación panretiniana",
-      "contentHtml": "<h2>Fotocoagulación panretiniana</h2><ul><li>Indicada en <b>PDR de alto riesgo</b> (NVD ≥1/3 del disco o NVE con hemorragia vítrea) y en NPDR severa con mal control glucémico o falta de seguimiento.</li><li>Objetivo: ablación de retina isquémica periférica para reducir producción de <b>VEGF</b>.</li><li>Técnica: 1200-1600 quemaduras de 200-500 µm, separadas por 1 diámetro de quemadura, en retina periférica, respetando mácula y papila.</li><li>Efectos adversos: pérdida de visión periférica, empeoramiento de edema macular, <b>nictalopía</b>, desprendimiento de retina exudativo.</li><li>Estudio <b>DRS</b> (Diabetic Retinopathy Study) demostró reducción de pérdida visual severa en PDR de alto riesgo.</li></ul>"
+      "foco": "Retinopatía no proliferativa: microaneurismas y exudados",
+      "title": "Retinopatía no proliferativa",
+      "contentHtml": "<h2>Retinopatía no proliferativa: microaneurismas y exudados</h2><ul><li><b>Retinopatía no proliferativa</b>: lesiones iniciales son <b>microaneurismas</b>, hemorragias intrarretinianas y exudados duros.</li><li>Clasificación: leve (solo microaneurismas), moderada (hemorragias/exudados), grave (hemorragias en &gt;20 cuadrantes, arrosariamiento venoso, anomalías microvasculares intrarretinianas).</li><li>Exudados algodonosos indican isquemia retiniana.</li><li>Sin neovasos; el riesgo de hemorragia vítrea es bajo.</li><li>Trampa: la retinopatía no proliferativa grave puede progresar a proliferativa; requiere vigilancia estrecha.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Hemorragia vítrea",
-      "title": "Hemorragia vítrea",
-      "contentHtml": "<h2>Hemorragia vítrea</h2><ul><li>Causa más frecuente: <b>rotura de neovasos</b> en PDR, por tracción vítrea.</li><li>Presentación: pérdida súbita indolora de visión, miodesopsias, visión de niebla rojiza.</li><li>Diagnóstico: <b>ecografía B-scan</b> si hemorragia densa impide ver fondo de ojo; descartar desprendimiento de retina asociado.</li><li>Manejo inicial: reposo, control de HbA1c y PA; si no se aclara en 4-6 semanas, considerar <b>vitrectomía pars plana</b>.</li><li>Indicaciones de vitrectomía temprana: hemorragia vítrea densa que no se aclara, presencia de desprendimiento de retina traccional, glaucoma hemolítico.</li></ul>"
+      "foco": "Retinopatía proliferativa: neovasos y riesgo de hemorragia",
+      "title": "Retinopatía proliferativa",
+      "contentHtml": "<h2>Retinopatía proliferativa: neovasos y riesgo de hemorragia</h2><ul><li><b>Retinopatía proliferativa</b>: presencia de <b>neovasos</b> en disco óptico o retina.</li><li>Los neovasos son frágiles y causan <b>hemorragia vítrea</b>, desprendimiento de retina por tracción y glaucoma neovascular.</li><li>Alto riesgo: neovasos en disco &gt;1/3 de área, neovasos retinianos &gt;1/2 de área, o hemorragia vítrea/prerretiniana.</li><li>Requiere derivación urgente a oftalmología para <b>fotocoagulación panretiniana</b>.</li><li>Trampa: la retinopatía proliferativa puede ser asintomática hasta que ocurre hemorragia vítrea.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Desprendimiento de retina traccional",
-      "title": "DR traccional",
-      "contentHtml": "<h2>Desprendimiento de retina traccional</h2><ul><li>Complicación de <b>PDR</b> avanzada por contracción de membranas fibrovasculares en interfaz vítreo-retiniana.</li><li>Mecanismo: tracción tangencial y anteroposterior, elevando retina sin desgarro.</li><li>Síntomas: disminución progresiva de visión, metamorfopsias, escotoma central si afecta mácula.</li><li>Diagnóstico: <b>OCT</b> y <b>ecografía B-scan</b> muestran retina elevada con tracción.</li><li>Tratamiento quirúrgico: <b>vitrectomía pars plana</b> con disección de membranas y endoláser; si compromete mácula, cirugía urgente.</li><li>Trampa: puede combinarse con desgarro retiniano (DR traccional-regmatógeno).</li></ul>"
+      "foco": "Edema macular diabético: principal causa de pérdida visual",
+      "title": "Edema macular diabético",
+      "contentHtml": "<h2>Edema macular diabético: principal causa de pérdida visual</h2><ul><li><b>Edema macular diabético</b>: principal causa de pérdida visual en retinopatía diabética.</li><li>Se define por engrosamiento retiniano o exudados duros en la mácula; puede ocurrir en cualquier etapa.</li><li>Diagnóstico: <b>tomografía de coherencia óptica</b> es el estándar para edema macular; la angiografía fluoresceínica muestra fuga.</li><li>Tratamiento de primera línea: <b>antiangiogénicos intravítreos</b> (p. ej., ranibizumab, aflibercept, bevacizumab).</li><li>Trampa: el edema macular diabético no siempre se acompaña de retinopatía proliferativa.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Microaneurismas como hallazgo inicial",
-      "title": "Microaneurismas iniciales",
-      "contentHtml": "<h2>Microaneurismas como hallazgo inicial</h2><ul><li>Primer signo clínico de <b>retinopatía diabética</b>, visible como pequeños puntos rojos en retina (usualmente en polo posterior).</li><li>Fisiopatología: debilidad de la pared capilar por <b>pérdida de pericitos</b> y engrosamiento de membrana basal.</li><li>En <b>angiografía con fluoresceína</b> aparecen como puntos hiperfluorescentes con fuga tardía.</li><li>Localización típica: capas plexiformes interna y externa, con mayor densidad en región macular temporal.</li><li>Diagnóstico diferencial: <b>hemorragias puntiformes</b> (puntos rojos que no hiperfluorecen en angiografía).</li><li>Su presencia aislada define <b>NPDR leve</b>.</li></ul>"
+      "foco": "HbA1c y presión arterial controlan progresión",
+      "title": "Control metabólico y presión arterial",
+      "contentHtml": "<h2>HbA1c y presión arterial controlan progresión</h2><ul><li><b>Hemoglobina glucosilada (HbA1c)</b> &lt;7% reduce progresión de retinopatía diabética.</li><li><b>Presión arterial</b> &lt;130/80 mmHg en diabetes mellitus reduce progresión.</li><li>Control de dislipidemia y cese del tabaquismo también benefician.</li><li>El control intensivo puede empeorar transitoriamente la retinopatía en diabetes mellitus tipo 1 con mal control previo (fenómeno de Early Worsening).</li><li>Trampa: el control glucémico no revierte lesiones establecidas; previene progresión.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Neovascularización del disco óptico",
-      "title": "NVD",
-      "contentHtml": "<h2>Neovascularización del disco óptico</h2><ul><li>Definición: <b>neovascularización</b> en o dentro de 1 diámetro de disco del borde del nervio óptico.</li><li>Marcador de <b>PDR de alto riesgo</b> según <b>DRS</b> si ocupa ≥1/3 del área del disco.</li><li>Fisiopatología: isquemia retiniana severa libera <b>VEGF</b> estimulando crecimiento de vasos anómalos en la papila.</li><li>Riesgo de hemorragia vítrea masiva y desprendimiento de retina traccional.</li><li>Tratamiento: <b>fotocoagulación panretiniana</b> o <b>anti-VEGF intravítreo</b> de primera línea.</li><li>Trampa: NVD puede ser difícil de detectar con hemorragia vítrea; usar <b>angiografía con fluoresceína</b> para confirmar.</li></ul>"
+      "foco": "Embarazo acelera retinopatía: control oftalmológico",
+      "title": "Embarazo y retinopatía diabética",
+      "contentHtml": "<h2>Embarazo acelera retinopatía: control oftalmológico</h2><ul><li>El <b>embarazo</b> acelera la progresión de retinopatía diabética, especialmente con mal control previo.</li><li>Realizar <b>fondo de ojo</b> antes de la concepción o en el primer trimestre.</li><li>Repetir cada trimestre en diabetes mellitus tipo 1 o tipo 2 con retinopatía; cada trimestre o según criterio si no hay retinopatía.</li><li>El edema macular diabético puede empeorar durante el embarazo.</li><li>Trampa: la retinopatía proliferativa requiere tratamiento con fotocoagulación panretiniana incluso durante el embarazo si es de alto riesgo.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Retinopatía diabética proliferativa",
-      "title": "PDR",
-      "contentHtml": "<h2>Retinopatía diabética proliferativa</h2><ul><li>Definida por presencia de <b>neovascularización</b> retiniana o del disco, o hemorragia vítrea/prerretiniana.</li><li>Estadio avanzado de RD, con alto riesgo de pérdida visual severa.</li><li>Factores de riesgo: <b>HbA1c elevada</b>, hipertensión, duración de diabetes, embarazo, nefropatía.</li><li>Tratamiento: <b>fotocoagulación panretiniana</b> (estándar histórico) o <b>anti-VEGF</b> (ranibizumab, aflibercept) como alternativa.</li><li>Estudio <b>DRCR.net Protocol S</b>: ranibizumab no inferior a PRP para PDR, con menor pérdida de campo visual periférico.</li><li>Complicaciones: hemorragia vítrea, desprendimiento de retina traccional, glaucoma neovascular.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Angiografía con fluoresceína",
-      "title": "Angiografía con fluoresceína",
-      "contentHtml": "<h2>Angiografía con fluoresceína</h2><ul><li>Técnica de imagen con contraste intravenoso (<b>fluoresceína sódica</b>) para evaluar microvasculatura retiniana.</li><li>Fases: coroidea (10-15 s), arterial, arteriovenosa, venosa (30 s - 2 min), tardía (5-10 min).</li><li>Hallazgos en RD: <b>microaneurismas</b> como puntos hiperfluorescentes, <b>fuga</b> en edema macular, <b>neovascularización</b> con fuga progresiva, <b>áreas de no perfusión</b> (hipofluorescencia).</li><li>Indicaciones: evaluar edema macular clínicamente significativo, guiar fotocoagulación, diferenciar neovasos de IRMA.</li><li>Contraindicaciones: alergia a fluoresceína, asma severa, insuficiencia renal (aclaramiento de creatinina &lt;30 mL/min).</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Control estricto de presión arterial",
-      "title": "Control PA en RD",
-      "contentHtml": "<h2>Control estricto de presión arterial</h2><ul><li>La <b>hipertensión arterial</b> acelera la progresión de retinopatía diabética, independientemente de HbA1c.</li><li>Estudio <b>UKPDS</b> mostró que reducir PA a <b>&lt;150/85 mmHg</b> disminuyó progresión de RD y necesidad de fotocoagulación.</li><li>Guías actuales recomiendan objetivo <b>&lt;130/80 mmHg</b> en pacientes con diabetes y retinopatía.</li><li>Fármacos de elección: <b>IECA</b> o <b>ARA-II</b> por efecto renoprotector independiente de la reducción de PA.</li><li>Trampa: descenso brusco de PA puede empeorar perfusión retiniana en isquemia severa.</li><li>Monitorización: <b>medición ambulatoria de PA</b> (MAPA) para confirmar control.</li></ul>"
+      "foco": "Fotocoagulación panretiniana en retinopatía proliferativa de alto riesgo",
+      "title": "Fotocoagulación panretiniana",
+      "contentHtml": "<h2>Fotocoagulación panretiniana en retinopatía proliferativa de alto riesgo</h2><ul><li><b>Fotocoagulación panretiniana</b>: tratamiento de elección en retinopatía proliferativa de alto riesgo.</li><li>Indicaciones: neovasos en disco &gt;1/3 de área, neovasos retinianos &gt;1/2 de área, hemorragia vítrea o prerretiniana.</li><li>Mecanismo: ablación de retina isquémica para reducir factores angiogénicos.</li><li>Puede requerir sesiones múltiples; los antiangiogénicos intravítreos son alternativa en casos seleccionados.</li><li>Trampa: la fotocoagulación panretiniana no trata el edema macular diabético; este requiere antiangiogénicos o láser focal.</li></ul>"
     }
   ]
 }

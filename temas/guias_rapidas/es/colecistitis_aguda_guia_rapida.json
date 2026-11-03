@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Criterios de Tokio para diagnóstico",
-      "title": "Criterios de Tokio 2018: diagnóstico",
-      "contentHtml": "<h2>Criterios de Tokio 2018</h2><ul><li><b>A. Inflamación local:</b> signo de Murphy, dolor en hipocondrio derecho, masa/puño percusión.</li><li><b>B. Inflamación sistémica:</b> fiebre &gt;38°C, proteína C reactiva elevada, leucocitosis.</li><li><b>C. Imagen:</b> engrosamiento mural &gt;4 mm, vesícula distendida, signo de Murphy ecográfico, absceso perivesicular.</li><li><b>Diagnóstico definitivo:</b> un ítem de A + uno de B + C positivo.</li><li><b>Sospecha:</b> A + B sin C.</li></ul>"
+      "foco": "Dolor en hipocondrio derecho posprandial",
+      "title": "Dolor biliar posprandial",
+      "contentHtml": "<h2>Dolor en hipocondrio derecho posprandial</h2><ul><li><b>Mecanismo:</b> distensión vesical por colecistoquínina tras comida grasa; dolor cólico &gt;30 min sugiere colecistitis, &lt;6 h típico de cólico biliar simple.</li><li><b>Diferencial:</b> cólico biliar, colecistitis, coledocolitiasis, pancreatitis, hepatitis, absceso hepático, neumonía basal derecha, síndrome coronario agudo.</li><li><b>Dato examen:</b> dolor continuo &gt;6 h con irradiación a escápula derecha = colecistitis aguda hasta demostrar lo contrario.</li><li><b>Trampa:</b> anciano o diabético puede presentar dolor mínimo con sepsis.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Triada de Murphy, fiebre y leucocitosis",
-      "title": "Triada clásica y su valor",
-      "contentHtml": "<h2>Triada clásica</h2><ul><li><b>Triada de Murphy:</b> dolor en hipocondrio derecho, fiebre y leucocitosis; presente en ~50% de casos, su ausencia no excluye.</li><li><b>Signo de Murphy clínico:</b> pausa inspiratoria por dolor a la palpación subcostal derecha; sensibilidad ~65%, especificidad ~87%.</li><li>Leucocitosis &gt;10,000/µL con desviación izquierda; en ancianos e inmunodeprimidos puede no aparecer.</li><li>Fiebre &gt;38°C orienta a colecistitis aguda, pero la ausencia de fiebre no descarta el diagnóstico.</li></ul>"
+      "foco": "Signo de Murphy positivo",
+      "title": "Signo de Murphy",
+      "contentHtml": "<h2>Signo de Murphy positivo</h2><ul><li><b>Técnica:</b> presión subcostal derecha en espiración profunda; detención inspiratoria por dolor = <b>Signo de Murphy positivo</b>.</li><li><b>Rendimiento:</b> sensibilidad ~65%, especificidad ~87%; su ausencia no descarta colecistitis.</li><li><b>Diferencial:</b> puede ser positivo en hepatitis, absceso hepático, pielonefritis derecha; integrar con ecografía y leucocitosis.</li><li><b>Examen:</b> Murphy ecográfico (dolor focal bajo transductor) refuerza el diagnóstico.</li><li><b>Trampa:</b> colecistitis complicada puede abolirlo por defensa o perforación.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Signo de Murphy ecográfico",
-      "title": "Signo de Murphy ecográfico",
-      "contentHtml": "<h2>Signo de Murphy ecográfico</h2><ul><li><b>Definición:</b> dolor máximo con el transductor sobre la vesícula durante la inspiración profunda.</li><li>Es el hallazgo más específico para colecistitis aguda (especificidad ~90%).</li><li>Su ausencia en ancianos o diabéticos no excluye; puede haber perforación.</li><li>Combinado con engrosamiento mural &gt;4 mm y líquido perivesicular, valor predictivo positivo alto.</li></ul>"
+      "foco": "Ecografía abdominal como estudio inicial",
+      "title": "Ecografía inicial",
+      "contentHtml": "<h2>Ecografía abdominal como estudio inicial</h2><ul><li><b>Indicación:</b> estudio de imagen de primera línea ante sospecha de colecistitis aguda.</li><li><b>Hallazgo clave:</b> sensibilidad &gt;90% y especificidad &gt;80% con criterios combinados.</li><li><b>Criterios mayores:</b> <ul><li>Engrosamiento parietal &gt;3 mm.</li><li>Cálculo impactado en bacinete o infundíbulo.</li><li><b>Signo de Murphy positivo</b> ecográfico.</li></ul></li><li><b>Criterios menores:</b> líquido perivesicular, pared hiperecogénica, vesícula distendida &gt;8 cm.</li><li><b>Trampa:</b> ecografía normal no excluye colecistitis al inicio; repetir o avanzar a tomografía o gammagrafía.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Engrosamiento mural vesicular mayor 4 mm",
-      "title": "Engrosamiento mural >4 mm",
-      "contentHtml": "<h2>Engrosamiento mural &gt;4 mm</h2><ul><li><b>Umbral ecográfico:</b> &gt;4 mm sugiere colecistitis aguda; &gt;7 mm es más específico.</li><li>El engrosamiento puede ser difuso o focal; la asimetría sugiere tumor.</li><li>Otros signos: vesícula distendida (&gt;8 cm longitudinal), líquido perivesicular, gas intramural (enfisematosa).</li><li>El engrosamiento no es exclusivo: cirrosis, hipoalbuminemia, insuficiencia cardíaca derecha lo causan.</li></ul>"
+      "foco": "Engrosamiento parietal mayor a 3 mm",
+      "title": "Engrosamiento parietal &gt;3 mm",
+      "contentHtml": "<h2>Engrosamiento parietal mayor a 3 mm</h2><ul><li><b>Umbral:</b> pared vesicular &gt;3 mm en ecografía = criterio mayor de colecistitis aguda.</li><li><b>Fisiopatología:</b> edema e inflamación transmural por obstrucción del conducto cístico.</li><li><b>Diferencial:</b> cirrosis, insuficiencia cardiaca derecha, hipoalbuminemia, hepatitis aguda, adenomiomatosis; buscar cálculos y Murphy.</li><li><b>Signo asociado:</b> pared en capas o \"doble contorno\" sugiere inflamación aguda.</li><li><b>Trampa:</b> medir en zona perpendicular y evitar pared focal engrosada por contracción.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Colecistolitiasis en el 90% de casos",
-      "title": "Colecistolitiasis como causa",
-      "contentHtml": "<h2>Colecistolitiasis</h2><ul><li><b>90%</b> de colecistitis aguda se asocia a litos; la impactación en el conducto cístico produce obstrucción y distensión.</li><li>La isquemia de la pared por aumento de presión intramural favorece la translocación bacteriana.</li><li>En la colecistitis alitiásica (10%) hay barro biliar, ayuno prolongado, ventilación mecánica o diabetes.</li><li>La presencia de litos no confirma colecistitis; se requieren signos inflamatorios.</li></ul>"
+      "foco": "Cálculo impactado en bacinete o infundíbulo",
+      "title": "Cálculo impactado",
+      "contentHtml": "<h2>Cálculo impactado en bacinete o infundíbulo</h2><ul><li><b>Hallazgo clave:</b> sombra acústica en cuello vesicular o infundíbulo = obstrucción del conducto cístico.</li><li><b>Fisiopatología:</b> estasis biliar, distensión, isquemia de pared y liberación de mediadores inflamatorios.</li><li><b>Ecografía:</b> cálculo impactado + pared engrosada &gt;3 mm + Murphy positivo = alta probabilidad.</li><li><b>Trampa:</b> cálculo en bacinete sin inflamación es portador asintomático, no colecistitis.</li><li><b>Complicación:</b> impactación persistente favorece piocolecisto, empiema o perforación.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Elevación de fosfatasa alcalina y bilirrubina",
-      "title": "Pruebas hepáticas en colecistitis",
-      "contentHtml": "<h2>Elevación de fosfatasa alcalina y bilirrubina</h2><ul><li>La <b>fosfatasa alcalina</b> y la <b>bilirrubina</b> pueden elevarse levemente por inflamación pericoledociana o edema.</li><li>Elevaciones marcadas sugieren coledocolitiasis o síndrome de Mirizzi (compresión por litos en cístico).</li><li>En colecistitis aguda no complicada, transaminasas suelen estar normales o mínimamente elevadas.</li><li>Si hay colangitis, predominan ictericia, fiebre y dolor; se requiere colangiopancreatografía retrógrada endoscópica.</li></ul>"
+      "foco": "Leucocitosis con neutrofilia",
+      "title": "Leucocitosis neutrofílica",
+      "contentHtml": "<h2>Leucocitosis con neutrofilia</h2><ul><li><b>Dato:</b> leucocitos &gt;10 000/µL con neutrofilia &gt;75% apoya inflamación aguda; no es específico.</li><li><b>Marcadores:</b> proteína C reactiva elevada &gt;10 mg/L; procalcitonina alta sugiere complicación bacteriana.</li><li><b>Diferencial:</b> colangitis, pancreatitis, apendicitis, absceso hepático, pielonefritis.</li><li><b>Examen:</b> leucocitosis marcada &gt;15 000/µL o desviación izquierda orienta a colecistitis complicada.</li><li><b>Trampa:</b> anciano o inmunosuprimido puede no presentar leucocitosis.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Colecistitis alitiásica postquirúrgica",
-      "title": "Colecistitis alitiásica",
-      "contentHtml": "<h2>Colecistitis alitiásica</h2><ul><li>Ocurre en pacientes críticos: postoperatorio de cirugía mayor, trauma, quemaduras, nutrición parenteral total, ayuno prolongado.</li><li>Mecanismo: estasis biliar e hipoperfusión de la pared vesicular; mayor riesgo de gangrena y perforación.</li><li>El diagnóstico es difícil: la clínica puede estar enmascarada; usar ecografía con doppler o tomografía computarizada.</li><li>La mortalidad es alta (~30-50%); requiere drenaje percutáneo o colecistectomía precoz.</li></ul>"
+      "foco": "Fiebre y defensa en cuadro complicado",
+      "title": "Fiebre y defensa",
+      "contentHtml": "<h2>Fiebre y defensa en cuadro complicado</h2><ul><li><b>Dato:</b> fiebre &gt;38 °C con defensa abdominal y Murphy positivo sugiere colecistitis complicada (empiema, perforación, absceso).</li><li><b>Signos de alarma:</b> hipotensión, taquicardia, alteración del estado mental, ictericia, masa palpable.</li><li><b>Escala:</b> criterios de Tokio 2018 grado III (disfunción orgánica) exige drenaje urgente y antibióticos intravenosos.</li><li><b>Diferencial:</b> colangitis aguda, sepsis de otro origen, pancreatitis necrótica.</li><li><b>Trampa:</b> fiebre alta persistente tras 48 h de antibióticos obliga a imagen y drenaje.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Antibióticos de amplio espectro iniciales",
-      "title": "Antibioticoterapia inicial",
-      "contentHtml": "<h2>Antibióticos de amplio espectro</h2><ul><li>Iniciar empíricamente contra gramnegativos y anaerobios: <b>piperacilina-tazobactam</b> 4.5 g IV cada 6 horas, o <b>ceftriaxona</b> 1-2 g IV cada 24 horas más <b>metronidazol</b> 500 mg IV cada 8 horas.</li><li>Alternativa en alergia a betalactámicos: <b>ciprofloxacino</b> 400 mg IV cada 12 horas más metronidazol.</li><li>Duración: 4-7 días si hay control del foco; si no se opera, prolongar según respuesta.</li><li>En gravedad moderada-severa (Tokio II-III) cubrir enterococos y resistencias.</li></ul>"
+      "foco": "Colecistectomía laparoscópica de elección",
+      "title": "Colecistectomía laparoscópica",
+      "contentHtml": "<h2>Colecistectomía laparoscópica de elección</h2><ul><li><b>Indicación:</b> tratamiento definitivo de colecistitis aguda; realizar idealmente dentro de las primeras 72 h o hasta 7 días.</li><li><b>Ventajas:</b> menor estancia, menor dolor y complicaciones que cirugía abierta.</li><li><b>Conversión:</b> sospecha de lesión de vía biliar, sangrado incontrolable, dificultad anatómica o perforación.</li><li><b>Alternativa:</b> colecistostomía percutánea en paciente crítico no candidato a cirugía.</li><li><b>Trampa:</b> no retrasar cirugía por \"enfriar\" el cuadro; la demora aumenta complicaciones.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Colecistectomía laparoscópica temprana en 72 horas",
-      "title": "Colecistectomía temprana",
-      "contentHtml": "<h2>Colecistectomía laparoscópica temprana</h2><ul><li>La colecistectomía laparoscópica temprana (dentro de <b>72 horas</b> del inicio de síntomas) es el estándar de oro.</li><li>Reduce estancia hospitalaria y costos sin aumentar morbilidad comparada con la tardía (6-8 semanas).</li><li>La ventana segura es hasta 10 días desde el inicio, pero preferible en las primeras 72 horas.</li><li>La colecistectomía temprana no se contraindica en ancianos; la demora aumenta riesgo de complicaciones.</li></ul>"
+      "foco": "Piocolecisto y empiema como complicaciones",
+      "title": "Piocolecisto y empiema",
+      "contentHtml": "<h2>Piocolecisto y empiema como complicaciones</h2><ul><li><b>Definición:</b> piocolecisto = pus en vesícula; empiema = inflamación purulenta con pared necrótica.</li><li><b>Clínica:</b> fiebre alta, dolor intenso, leucocitosis marcada, defensa; puede evolucionar a perforación y peritonitis biliar.</li><li><b>Imagen:</b> ecografía con ecos internos, pared engrosada &gt;3 mm y Murphy positivo; tomografía confirma colección.</li><li><b>Tratamiento:</b> antibióticos intravenosos + colecistectomía urgente o drenaje percutáneo si inestable.</li><li><b>Trampa:</b> empiema puede simular colangitis; ictericia y dilatación de vía biliar orientan a colangitis.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Escala de gravedad de Tokio grados I-III",
-      "title": "Gravedad de Tokio",
-      "contentHtml": "<h2>Escala de gravedad de Tokio 2018</h2><ul><li><b>Grado I (leve):</b> sin disfunción orgánica, cambios inflamatorios leves en vesícula.</li><li><b>Grado II (moderado):</b> leucocitosis &gt;18,000/µL, masa palpable en hipocondrio derecho, duración &gt;72 horas, absceso perivesicular, gangrena, enfisema.</li><li><b>Grado III (grave):</b> disfunción cardiovascular, neurológica, respiratoria, renal, hepática o hematológica.</li><li>El grado III requiere soporte de órganos y drenaje o colecistectomía de urgencia.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Drenaje percutáneo en pacientes de alto riesgo",
-      "title": "Drenaje percutáneo",
-      "contentHtml": "<h2>Drenaje percutáneo</h2><ul><li>Indicado en pacientes con <b>Tokio III</b> o comorbilidades graves que contraindican anestesia general.</li><li>Se realiza colecistostomía percutánea guiada por ecografía o tomografía; drena la bilis infectada y reduce presión.</li><li>Alternativa en Tokio II si la colecistectomía temprana no es factible por riesgo quirúrgico extremo.</li><li>La colecistectomía diferida se programa tras resolución del cuadro agudo (4-6 semanas).</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Complicación: perforación y absceso perivesicular",
-      "title": "Complicaciones: perforación y absceso",
-      "contentHtml": "<h2>Perforación y absceso perivesicular</h2><ul><li>La <b>perforación</b> ocurre en ~10% de colecistitis aguda; se asocia a gangrena y diabetes.</li><li>Tipos: perforación libre (peritonitis biliar), perforación contenida (absceso perivesicular) y fístula colecistoentérica.</li><li>El <b>absceso perivesicular</b> se ve como colección líquida adyacente a la vesícula; requiere drenaje percutáneo o quirúrgico.</li><li>La peritonitis biliar difusa es una urgencia: laparotomía o laparoscopia de urgencia con lavado y colecistectomía.</li></ul>"
+      "foco": "Antibióticos sin analgesia opiácea por Oddi",
+      "title": "Antibióticos y analgesia",
+      "contentHtml": "<h2>Antibióticos sin analgesia opiácea por Oddi</h2><ul><li><b>Antibiótico:</b> primera línea ceftriaxona 2 g/día intravenosa + metronidazol 500 mg/8 h; alternativa piperacilina-tazobactam 4,5 g/6 h.</li><li><b>Duración:</b> 4-7 días tras control del foco; colecistectomía temprana reduce recaídas.</li><li><b>Analgesia:</b> evitar opioides por espasmo del esfínter de Oddi; preferir antiinflamatorios no esteroideos o ketorolaco 30 mg intravenoso.</li><li><b>Trampa:</b> la morfina puede aumentar presión del esfínter de Oddi y agravar dolor; no es contraindicación absoluta si es necesaria.</li><li><b>Examen:</b> antibiótico no sustituye colecistectomía en candidato quirúrgico.</li></ul>"
     }
   ]
 }

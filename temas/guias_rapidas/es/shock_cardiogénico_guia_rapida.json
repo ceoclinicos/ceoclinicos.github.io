@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Definición y criterios hemodinámicos",
-      "title": "Criterios hemodinámicos de shock cardiogénico",
-      "contentHtml": "<h2>Definición y criterios</h2><ul><li><b>Shock cardiogénico</b> es un estado de <b>hipoperfusión tisular</b> por <b>gasto cardíaco insuficiente</b> a pesar de <b>volumen intravascular adecuado</b>.</li><li>Criterios clásicos (ensayos SHOCK): <b>presión arterial sistólica &lt;90 mmHg</b> durante ≥30 minutos o necesidad de <b>vasopresores</b> para mantenerla, con <b>índice cardíaco &lt;2,2 L/min/m²</b> y <b>presión de enclavamiento pulmonar &gt;15 mmHg</b>.</li><li>Definición actual (SCAI 2019): estadios A–E; el shock establecido corresponde a <b>estadio C</b> (hipoperfusión que requiere intervención) y <b>estadio D</b> (refractario).</li><li>La <b>presión arterial media</b> no forma parte de los criterios diagnósticos, pero es objetivo terapéutico.</li></ul>"
+      "foco": "Criterios hemodinámicos: IC bajo y presiones de llenado altas",
+      "title": "Criterios hemodinámicos del shock cardiogénico",
+      "contentHtml": "<h2>Criterios hemodinámicos del shock cardiogénico</h2><ul><li><b>Índice cardíaco</b> &lt;2.2 L/min/m² (o &lt;1.8 sin soporte) con presiones de llenado elevadas.</li><li><b>Presión capilar pulmonar en cuña</b> &gt;15 mmHg (o presión de oclusión de arteria pulmonar &gt;18 mmHg).</li><li><b>Presión arterial media</b> &lt;65 mmHg o presión sistólica &lt;90 mmHg sostenida.</li><li><b>Gasto cardíaco bajo</b> con <b>resistencias vasculares sistémicas elevadas</b> (&gt;1200 dyn·s/cm⁵) por vasoconstricción compensadora.</li><li>Trampa de examen: presión de llenado alta descarta shock hipovolémico; índice cardíaco bajo descarta shock distributivo.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Causas más frecuentes: IAM",
-      "title": "Infarto agudo de miocardio como causa principal",
-      "contentHtml": "<h2>Infarto agudo de miocardio (IAM)</h2><ul><li>La causa más frecuente es el <b>infarto agudo de miocardio</b> (IAM), especialmente con <b>elevación del segmento ST</b> (IAMCEST) de cara anterior.</li><li>La disfunción ventricular izquierda aguda por pérdida de miocardio >40% del ventrículo izquierdo suele precipitar el shock.</li><li>Complicaciones mecánicas del IAM (rotura de pared libre, rotura de tabique interventricular, insuficiencia mitral aguda por rotura de músculo papilar) son causas secundarias que requieren cirugía urgente.</li><li>El diagnóstico se confirma con <b>electrocardiograma</b> (elevación del ST) y <b>biomarcadores</b> (troponina elevada).</li><li>La <b>reperfusión temprana</b> es el pilar del tratamiento (ver foco específico).</li></ul>"
+      "foco": "Gasto cardíaco bajo con resistencias vasculares sistémicas elevadas",
+      "title": "Perfil hemodinámico: gasto bajo y resistencias altas",
+      "contentHtml": "<h2>Perfil hemodinámico: gasto bajo y resistencias altas</h2><ul><li><b>Gasto cardíaco bajo</b> por falla de bomba (disfunción sistólica o diastólica) con <b>resistencias vasculares sistémicas elevadas</b> como respuesta compensadora adrenérgica.</li><li>Diferencia clave con shock séptico: en séptico el gasto cardíaco es alto y las resistencias vasculares sistémicas están disminuidas.</li><li>Diferencia con hipovolémico: en hipovolémico las presiones de llenado son bajas, no altas.</li><li>Pregunta típica: ¿qué perfil hemodinámico define shock cardiogénico? <b>Gasto cardíaco bajo con resistencias vasculares sistémicas elevadas</b> y presiones de llenado altas.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Diferencia con shock obstructivo",
-      "title": "Shock cardiogénico vs obstructivo",
-      "contentHtml": "<h2>Diferencias clave</h2><ul><li>En el <b>shock cardiogénico</b> el problema es <b>fallo de bomba</b> (disminución de contractilidad o llenado por causa intrínseca cardíaca).</li><li>En el <b>shock obstructivo</b> existe una obstrucción mecánica al flujo sanguíneo, con <b>gasto cardíaco bajo</b> pero función miocárdica intrínsecamente normal.</li><li>Causas de obstructivo: <b>tromboembolia pulmonar masiva</b>, <b>taponamiento cardíaco</b>, <b>neumotórax a tensión</b>, <b>estenosis aórtica crítica</b>.</li><li>La <b>ecocardiografía</b> es esencial: en el cardiogénico se ve hipocinesia difusa o segmentaria; en el obstructivo se ve derrame pericárdico, signos de sobrecarga derecha o hipertrofia ventricular izquierda con gradiente aórtico.</li><li>El tratamiento del obstructivo es específico (pericardiocentesis, trombolisis, etc.), no inotrópicos como primera línea.</li></ul>"
+      "foco": "IAM extenso como causa más frecuente de shock cardiogénico",
+      "title": "Infarto agudo de miocardio extenso: causa principal",
+      "contentHtml": "<h2>Infarto agudo de miocardio extenso: causa principal</h2><ul><li><b>Infarto agudo de miocardio</b> con afectación &gt;40% de la masa ventricular izquierda es la causa más frecuente de shock cardiogénico.</li><li>Localización típica: infarto anterior extenso por oclusión proximal de la arteria descendente anterior izquierda.</li><li>Fisiopatología: pérdida de contractilidad, remodelado agudo y respuesta neurohormonal que eleva las resistencias vasculares sistémicas y empeora la perfusión.</li><li>Trampa: no todo shock en infarto agudo de miocardio es por falla de bomba; descartar causa mecánica antes de asumir disfunción global.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Signos de hipoperfusión tisular",
-      "title": "Reconocer hipoperfusión",
-      "contentHtml": "<h2>Signos clínicos y de laboratorio</h2><ul><li>Hipoperfusión cutánea: piel <b>fría, pálida, sudorosa</b>, con <b>llenado capilar &gt;3 segundos</b>.</li><li>Alteración del estado mental: <b>confusión, agitación</b> o <b>somnolencia</b>.</li><li>Oliguria: <b>diuresis &lt;0,5 mL/kg/hora</b> durante al menos 2 horas.</li><li>Laboratorio: <b>lactato sérico elevado</b> (&gt;2 mmol/L), <b>déficit de bases</b> negativo en gasometría, <b>creatinina en aumento</b>, <b>transaminasas elevadas</b> por congestión hepática.</li><li>La presencia de <b>hipoperfusión</b> distingue el shock de la <b>hipotensión aislada</b>.</li></ul>"
+      "foco": "Shock cardiogénico por falla ventricular derecha: PVC elevada",
+      "title": "Falla ventricular derecha: presión venosa central elevada",
+      "contentHtml": "<h2>Falla ventricular derecha: presión venosa central elevada</h2><ul><li><b>Presión venosa central</b> elevada (&gt;15 mmHg) con presión capilar pulmonar en cuña normal o baja y gasto cardíaco bajo define falla ventricular derecha.</li><li>Causas: infarto de ventrículo derecho (suele acompañar a infarto inferior), tromboembolia pulmonar masiva, hipertensión pulmonar aguda.</li><li>Clínica: ingurgitación yugular, hepatomegalia, edema, sin congestión pulmonar significativa.</li><li>Trampa de examen: en infarto inferior con hipotensión, sospechar extensión a ventrículo derecho; evitar nitratos y diuréticos.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Presión arterial media objetivo",
-      "title": "Meta de presión arterial media",
-      "contentHtml": "<h2>Objetivo de presión arterial media (PAM)</h2><ul><li>Objetivo inicial de <b>presión arterial media (PAM)</b> ≥<b>65 mmHg</b> en la mayoría de los pacientes con shock cardiogénico.</li><li>En pacientes con <b>hipertensión arterial crónica</b> o <b>estenosis aórtica</b>, puede requerirse una PAM más alta (70–75 mmHg) para mantener perfusión coronaria y cerebral.</li><li>La PAM se calcula como: <b>PAM = (presión arterial sistólica + 2 × presión arterial diastólica) / 3</b>.</li><li>Se prefiere monitorización invasiva con <b>catéter arterial</b> para ajuste continuo.</li><li>La PAM objetivo debe ajustarse según marcadores de perfusión (lactato, diuresis, estado mental).</li></ul>"
+      "foco": "Diferencial con shock séptico: RVS elevadas vs disminuidas",
+      "title": "Shock cardiogénico frente a shock séptico",
+      "contentHtml": "<h2>Shock cardiogénico frente a shock séptico</h2><ul><li><b>Shock cardiogénico</b>: gasto cardíaco bajo, <b>resistencias vasculares sistémicas elevadas</b>, presiones de llenado altas, extremidades frías, pulsos débiles.</li><li><b>Shock séptico</b>: gasto cardíaco alto (fase inicial), <b>resistencias vasculares sistémicas disminuidas</b>, presiones de llenado bajas o normales, piel caliente, pulsos amplios.</li><li>Dato de examen: la piel caliente y las resistencias vasculares sistémicas disminuidas orientan a distributivo; la piel fría y las resistencias vasculares sistémicas elevadas orientan a cardiogénico.</li><li>Ambos pueden coexistir (shock mixto); el ecocardiograma y el catéter pulmonar ayudan a diferenciar.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Uso de inotrópicos: noradrenalina",
-      "title": "Noradrenalina y otros agentes",
-      "contentHtml": "<h2>Inotrópicos y vasopresores</h2><ul><li>La <b>noradrenalina</b> es el <b>vasopresor de primera línea</b> en shock cardiogénico, a dosis de <b>0,05–0,5 µg/kg/min</b>, por su perfil alfa y beta.</li><li>La <b>dobutamina</b> (inotrópico) se añade si hay <b>gasto cardíaco bajo</b> con presión arterial adecuada o como adyuvante a noradrenalina; dosis <b>2,5–10 µg/kg/min</b>.</li><li>La <b>adrenalina</b> se reserva para casos refractarios o paro cardíaco, no como primera línea.</li><li>La <b>levosimendán</b> (sensibilizador al calcio) es alternativa en pacientes con <b>betabloqueantes</b> o <b>disfunción diastólica</b>.</li><li>Evitar <b>noradrenalina</b> en dosis altas sin inotrópico si hay <b>gasto cardíaco muy bajo</b> para no aumentar poscarga excesivamente.</li></ul>"
+      "foco": "Ecocardiograma urgente para descartar causa mecánica",
+      "title": "Ecocardiograma urgente: descartar causa mecánica",
+      "contentHtml": "<h2>Ecocardiograma urgente: descartar causa mecánica</h2><ul><li><b>Ecocardiograma transtorácico urgente</b> es obligatorio en todo shock cardiogénico para evaluar función ventricular y descartar causa mecánica.</li><li>Busca: rotura de músculo papilar con insuficiencia mitral aguda, rotura de septo interventricular, rotura de pared libre, taponamiento, disección aórtica.</li><li><b>Hallazgo clave:</b> insuficiencia mitral severa aguda con flujo sistólico reverso en venas pulmonares sugiere rotura de músculo papilar.</li><li>Trampa: la causa mecánica exige cirugía urgente; el tratamiento médico solo es puente.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Balón de contrapulsación intraaórtico",
-      "title": "Balón de contrapulsación intraaórtico (BCIA)",
-      "contentHtml": "<h2>Balón de contrapulsación intraaórtico (BCIA)</h2><ul><li>El <b>balón de contrapulsación intraaórtico (BCIA)</b> es un dispositivo percutáneo que se coloca en <b>aorta descendente</b> y se infla en <b>diástole</b>, aumentando la <b>presión diastólica coronaria</b> y la perfusión miocárdica.</li><li>Se desinfla en <b>sístole</b>, reduciendo la <b>poscarga</b> y el trabajo ventricular.</li><li>Indicado en shock cardiogénico por <b>infarto agudo de miocardio</b> con complicaciones mecánicas (insuficiencia mitral, comunicación interventricular) o como puente a revascularización.</li><li>No ha demostrado reducción de mortalidad en el ensayo IABP-SHOCK II como uso rutinario; su uso es selectivo.</li><li><b>Contraindicaciones</b>: <b>insuficiencia aórtica moderada/severa</b>, <b>disección aórtica</b>, <b>enfermedad vascular periférica severa</b>, <b>coagulopatía</b>.</li></ul>"
+      "foco": "Complicaciones mecánicas del IAM: rotura de músculo papilar",
+      "title": "Rotura de músculo papilar tras infarto",
+      "contentHtml": "<h2>Rotura de músculo papilar tras infarto</h2><ul><li><b>Rotura de músculo papilar</b> ocurre típicamente a los 3-5 días del infarto agudo de miocardio, más frecuente en infarto inferior por afectación del papilar posteromedial.</li><li>Produce insuficiencia mitral aguda severa con edema pulmonar fulminante y shock cardiogénico.</li><li><b>Hallazgo clave:</b> ecocardiograma muestra valva mitral sin soporte (flail) y chorro regurgitante excéntrico.</li><li>Tratamiento: cirugía de reemplazo o reparación valvular urgente; balón de contrapulsación intraaórtico como puente.</li><li>Trampa: el soporte inotrópico puede empeorar la regurgitación al aumentar la presión sistólica; usar con cautela.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Dispositivos de asistencia ventricular",
-      "title": "Asistencia ventricular mecánica",
-      "contentHtml": "<h2>Dispositivos de soporte circulatorio</h2><ul><li>Los <b>dispositivos de asistencia ventricular</b> (DAV) se usan en shock cardiogénico refractario a fármacos y balón.</li><li><b>Impella</b> (bomba axial percutánea) proporciona flujo de hasta <b>5 L/min</b> (Impella 5.0), descargando el ventrículo izquierdo y mejorando perfusión coronaria.</li><li><b>Oxigenación por membrana extracorpórea (ECMO)</b> venoarterial (VA-ECMO) ofrece soporte completo cardiopulmonar; se considera en paro o shock muy severo.</li><li>La elección depende de la <b>disponibilidad</b>, la <b>causa</b> y el <b>pronóstico neurológico</b>.</li><li>Complicaciones: <b>hemólisis</b>, <b>trombosis</b>, <b>sangrado</b>, <b>infección</b>.</li><li>El <b>trasplante cardíaco</b> o el <b>ventrículo artificial</b> son opciones a largo plazo.</li></ul>"
+      "foco": "Inotrópicos de elección: dobutamina en primer escalón",
+      "title": "Dobutamina como inotrópico de primera línea",
+      "contentHtml": "<h2>Dobutamina como inotrópico de primera línea</h2><ul><li><b>Dobutamina</b> es el inotrópico de elección inicial en shock cardiogénico con presión arterial suficiente: dosis <b>2.5-20 µg/kg/min</b> intravenosa.</li><li>Efecto: agonista beta-1 con efecto inotrópico y cronotrópico; puede reducir las resistencias vasculares sistémicas por vasodilatación beta-2.</li><li>Si hay hipotensión persistente pese a inotrópicos, asociar <b>noradrenalina</b>.</li><li>Trampa: la dobutamina puede provocar taquicardia e hipotensión; en pacientes hipotensos iniciar noradrenalina primero.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Estenosis aórtica crítica contraindicación",
-      "title": "Estenosis aórtica crítica: contraindicaciones",
-      "contentHtml": "<h2>Estenosis aórtica crítica</h2><ul><li>La <b>estenosis aórtica crítica</b> (área valvular &lt;1,0 cm²) es <b>contraindicación relativa</b> para el uso de <b>balón de contrapulsación intraaórtico (BCIA)</b> porque la reducción de la poscarga no beneficia y puede causar hipotensión severa.</li><li>También contraindica el uso de <b>Impella</b> (el catéter no puede cruzar la válvula estenótica sin riesgo de daño).</li><li>En shock cardiogénico por <b>estenosis aórtica</b> (p. ej., tras reemplazo valvular fallido), el tratamiento es <b>quirúrgico</b> o <b>valvuloplastia aórtica percutánea</b> urgente.</li><li>Los <b>vasodilatadores</b> (nitroprusiato) están contraindicados porque disminuyen la presión de perfusión coronaria.</li><li>La <b>noradrenalina</b> puede usarse para mantener la presión arterial media, pero no corrige el obstáculo.</li></ul>"
+      "foco": "Noradrenalina si hipotensión persistente pese a inotrópicos",
+      "title": "Noradrenalina en hipotensión persistente",
+      "contentHtml": "<h2>Noradrenalina en hipotensión persistente</h2><ul><li><b>Noradrenalina</b> se indica si la hipotensión persiste pese a inotrópicos: dosis <b>0.05-0.5 µg/kg/min</b> intravenosa, titulada a presión arterial media &gt;65 mmHg.</li><li>Efecto: agonista alfa-1 potente con efecto beta-1; eleva las resistencias vasculares sistémicas y la presión arterial.</li><li>Puede asociarse a dobutamina para sostener gasto cardíaco y presión arterial.</li><li>Trampa: la noradrenalina sola no mejora la contractilidad; en falla de bomba severa requiere inotrópico asociado.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Tratamiento de reperfusión temprana",
-      "title": "Reperfusión temprana en IAM",
-      "contentHtml": "<h2>Reperfusión temprana</h2><ul><li>En shock cardiogénico por <b>infarto agudo de miocardio</b> (IAM), la <b>reperfusión temprana</b> es el tratamiento más importante, con <b>intervención coronaria percutánea (ICP)</b> primaria dentro de las primeras <b>2 horas</b> del diagnóstico si es posible.</li><li>El ensayo SHOCK demostró que la revascularización temprana (ICP o cirugía) reduce la mortalidad a 6 meses comparada con tratamiento médico inicial.</li><li>La <b>fibrinólisis</b> está contraindicada en shock cardiogénico si no hay acceso a ICP inmediata; se prefiere ICP.</li><li>Si la ICP no es factible, se considera <b>cirugía de revascularización</b> urgente.</li><li>El soporte circulatorio con <b>balón de contrapulsación intraaórtico</b> o <b>Impella</b> puede iniciarse antes de la ICP si hay inestabilidad extrema.</li></ul>"
-    },
-    {
-      "order": 11,
-      "foco": "Líquidos: restricción y monitorización",
-      "title": "Manejo de líquidos y monitorización",
-      "contentHtml": "<h2>Líquidos en shock cardiogénico</h2><ul><li>La mayoría de los pacientes tienen <b>congestión pulmonar</b> y <b>presión de enclavamiento pulmonar elevada</b>; por lo tanto, se debe <b>restringir la administración de líquidos</b> y usar <b>diuréticos</b> (furosemida intravenosa) si hay sobrecarga.</li><li>Solo se administran <b>bolos de cristaloides</b> (250–500 mL) si hay signos de <b>hipovolemia</b> (presión venosa central baja, respuesta a volumen previa).</li><li>La monitorización con <b>catéter de arteria pulmonar</b> puede guiar el llenado, pero no mejora la supervivencia en uso rutinario.</li><li>Se prefiere la <b>ecocardiografía</b> seriada para evaluar <b>volumen intravascular</b> y <b>contractilidad</b>.</li><li>El objetivo es mantener <b>presión arterial media ≥65 mmHg</b> con la menor cantidad de volumen posible.</li></ul>"
-    },
-    {
-      "order": 12,
-      "foco": "Pronóstico: mortalidad elevada",
-      "title": "Pronóstico y mortalidad",
-      "contentHtml": "<h2>Pronóstico</h2><ul><li>La mortalidad del <b>shock cardiogénico</b> sigue siendo <b>elevada</b>, entre <b>40–50%</b> a 30 días en ensayos recientes.</li><li>La mortalidad es mayor si hay <b>paro cardíaco</b> previo, <b>lactato &gt;10 mmol/L</b>, <b>disfunción renal</b> o <b>edad avanzada</b>.</li><li>La <b>reperfusión temprana</b> y el uso de <b>dispositivos de asistencia ventricular</b> pueden mejorar la supervivencia, pero no la normalizan.</li><li>La <b>causa subyacente</b> es determinante: el shock por <b>miocarditis</b> tiene mejor pronóstico que el post-infarto extenso.</li><li>La evaluación con <b>escala SCAI</b> (estadio E) predice mortalidad casi del 100% sin soporte avanzado.</li></ul>"
+      "foco": "Balón de contrapulsación intraaórtico como puente a revascularización",
+      "title": "Balón de contrapulsación intraaórtico",
+      "contentHtml": "<h2>Balón de contrapulsación intraaórtico</h2><ul><li><b>Balón de contrapulsación intraaórtico</b> se usa como puente a revascularización o cirugía en shock cardiogénico refractario.</li><li>Mecanismo: inflado en diástole aumenta la perfusión coronaria; desinflado en sístole reduce la poscarga y el trabajo cardíaco.</li><li>Indicaciones: insuficiencia mitral aguda por rotura de músculo papilar, rotura de septo interventricular, shock refractario previo a angioplastia.</li><li>Trampa: no mejora la mortalidad por sí solo; la revascularización urgente es la piedra angular del tratamiento.</li></ul>"
     }
   ]
 }

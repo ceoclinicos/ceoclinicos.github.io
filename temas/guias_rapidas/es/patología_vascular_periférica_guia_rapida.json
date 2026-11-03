@@ -3,75 +3,63 @@
   "items": [
     {
       "order": 1,
-      "foco": "Enfermedad arterial periférica: claudicación intermitente",
-      "title": "Enfermedad Arterial Periférica: Claudicación Intermitente",
-      "contentHtml": "<h2>Enfermedad Arterial Periférica (EAP): Claudicación Intermitente</h2><br/>La <b>enfermedad arterial periférica</b> (EAP) se manifiesta con claudicación intermitente, dolor muscular inducido por el ejercicio y que se alivia con el reposo. La arteria más comúnmente afectada es la femoral superficial. El diagnóstico se sospecha clínicamente y se confirma con el <b>índice tobillo-brazo (ITB)</b>. El tratamiento inicial es conservador: control de factores de riesgo cardiovascular (cese del tabaquismo, control de diabetes mellitus, hipertensión arterial y dislipidemia), programa de ejercicio supervisado y fármacos como el <b>cilostazol</b>. La revascularización se reserva para la claudicación grave o isquemia crítica."
+      "foco": "Claudicación intermitente vs dolor en reposo",
+      "title": "Claudicación intermitente frente a dolor en reposo",
+      "contentHtml": "<h2>Claudicación intermitente frente a dolor en reposo</h2><ul><li><b>Claudicación intermitente</b>: dolor muscular desencadenado por el ejercicio (distancia fija) y aliviado en &lt;10 minutos con el reposo; indica enfermedad arterial periférica estable y limita la deambulación.</li><li><b>Dolor en reposo</b>: dolor isquémico nocturno, distal (dedos/pie), que mejora con el pie colgando; traduce isquemia crítica con presión arterial en el tobillo &lt;50 mmHg o presión digital &lt;30 mmHg.</li><li>La claudicación se localiza según el nivel de estenosis: pantorrilla (femoral superficial), muslo/glúteo (ilíaca).</li><li>Trampa: claudicación neurogénica (estenosis de canal lumbar) mejora al flexionar el tronco y se acompaña de parestesias; la vascular no.</li></ul>"
     },
     {
       "order": 2,
-      "foco": "Índice tobillo-brazo: diagnóstico de isquemia crónica",
-      "title": "Índice Tobillo-Brazo: Isquemia Crónica",
-      "contentHtml": "<h2>Índice Tobillo-Brazo (ITB): Diagnóstico</h2><br/>El <b>índice tobillo-brazo</b> (ITB) es la prueba diagnóstica de elección para la enfermedad arterial periférica. Se calcula dividiendo la presión arterial sistólica del tobillo (la más alta de la tibial posterior o pedia) entre la presión arterial sistólica más alta de ambos brazos. Un ITB <b>&lt;0.90</b> es diagnóstico de <b>enfermedad arterial periférica</b>. Valores de <b>0.91 a 0.99</b> se consideran límite, y <b>&gt;1.30</b> sugiere calcificación arterial medial, común en diabéticos o con insuficiencia renal crónica, pudiendo dar falsos negativos."
+      "foco": "Índice tobillo-brazo menor de 0.9 diagnóstico",
+      "title": "Índice tobillo-brazo &lt;0.9",
+      "contentHtml": "<h2>Índice tobillo-brazo &lt;0.9</h2><ul><li><b>Índice tobillo-brazo</b> = presión arterial sistólica del tobillo (arteria dorsal del pie o tibial posterior) dividida entre la presión arterial sistólica braquial mayor.</li><li><b>Índice tobillo-brazo &lt;0.9</b>: criterio diagnóstico de enfermedad arterial periférica, con sensibilidad &gt;90% y especificidad &gt;95% frente a arteriografía.</li><li>Interpretación: 0.90-1.00 normal; 0.50-0.89 claudicación; &lt;0.40 isquemia crítica; &gt;1.30 falsamente normal por calcificación medial (diabetes, insuficiencia renal) → usar índice dedo-brazo o presión transcutánea de oxígeno.</li><li>Técnica: manguito en tobillo, Doppler continuo; medir ambas piernas y repetir tras ejercicio si basal normal con clínica sospechosa.</li></ul>"
     },
     {
       "order": 3,
-      "foco": "Trombosis venosa profunda: factores de riesgo (triada de Virchow)",
-      "title": "Trombosis Venosa Profunda: Factores de Riesgo",
-      "contentHtml": "<h2>Trombosis Venosa Profunda (TVP): Triada de Virchow</h2><br/>La <b>trombosis venosa profunda</b> (TVP) es la formación de un coágulo en una vena profunda, típicamente de las extremidades inferiores. Sus factores de riesgo se resumen en la <b>triada de Virchow</b>:<ul><li><b>Estasis venosa:</b> inmovilización prolongada, cirugía mayor, insuficiencia cardíaca.</li><li><b>Lesión endotelial:</b> trauma, cirugía, catéteres venosos centrales.</li><li><b>Hipercoagulabilidad:</b> cáncer, trombofilias hereditarias (factor V Leiden, deficiencia de antitrombina, proteína C o S), embarazo, anticonceptivos orales.</li></ul>El principal riesgo de la TVP es la <b>embolia pulmonar</b>."
+      "foco": "Isquemia crítica: dolor reposo, úlcera o gangrena",
+      "title": "Isquemia crítica de la extremidad",
+      "contentHtml": "<h2>Isquemia crítica de la extremidad</h2><ul><li><b>Isquemia crítica</b>: dolor en reposo, úlcera o gangrena de origen arterial con duración &gt;2 semanas y presión arterial en el tobillo &lt;50 mmHg (o presión digital &lt;30 mmHg, o presión transcutánea de oxígeno &lt;30 mmHg).</li><li>Marcador de riesgo cardiovascular extremo: mortalidad cardiovascular &gt;20% a 1 año y riesgo de amputación mayor del 25%.</li><li>Primera línea: revascularización urgente (angioplastia o cirugía de bypass) + control intensivo de factores de riesgo, antiagregación y estatina.</li><li>Trampa: la úlcera arterial es dolorosa, distal, con pulsos ausentes; no confundir con úlcera neuropática diabética indolora en puntos de presión.</li></ul>"
     },
     {
       "order": 4,
-      "foco": "Embolia arterial aguda: las seis P de la isquemia",
-      "title": "Embolia Arterial Aguda: Seis P de la Isquemia",
-      "contentHtml": "<h2>Embolia Arterial Aguda: Las Seis P</h2><br/>La <b>embolia arterial aguda</b> es una emergencia vascular, con inicio súbito de isquemia severa. La fuente más común de embolismo son las fibrilación auricular o el trombo mural post-infarto agudo de miocardio. Los síntomas clásicos son las <b>seis P</b>: <b>Pain (dolor)</b>, <b>Pulselessness (ausencia de pulso)</b>, <b>Pallor (palidez)</b>, <b>Paresthesias (parestesias)</b>, <b>Paralysis (parálisis)</b> y <b>Poikilothermia (poiquilotermia)</b>. El diagnóstico es clínico y se confirma con ecografía Doppler o angiotomografía. El tratamiento es la <b>revascularización urgente</b>, típicamente embolectomía o trombólisis local."
+      "foco": "Enfermedad arterial periférica factor de riesgo cardiovascular",
+      "title": "Enfermedad arterial periférica como equivalente coronario",
+      "contentHtml": "<h2>Enfermedad arterial periférica como equivalente coronario</h2><ul><li>La <b>enfermedad arterial periférica</b> es un marcador independiente de riesgo cardiovascular: &gt;50% presenta enfermedad coronaria o cerebrovascular concomitante y mortalidad cardiovascular elevada.</li><li>Se considera equivalente de riesgo coronario: objetivo de colesterol unido a lipoproteínas de baja densidad &lt;55 mg/dL y presión arterial &lt;130/80 mmHg.</li><li>Tratamiento de base: antiagregante (ácido acetilsalicílico 75-100 mg/día o clopidogrel 75 mg/día), estatina de alta intensidad, inhibidor del sistema renina-angiotensina, cese del tabaco y programa de ejercicio supervisado.</li><li>Trampa: el ejercicio mejora la distancia de claudicación y la supervivencia; no está contraindicado en claudicación estable.</li></ul>"
     },
     {
       "order": 5,
-      "foco": "Insuficiencia venosa crónica: úlceras maleolares internas",
-      "title": "Insuficiencia Venosa Crónica: Úlceras",
-      "contentHtml": "<h2>Insuficiencia Venosa Crónica (IVC): Úlceras</h2><br/>La <b>insuficiencia venosa crónica</b> (IVC) se produce por disfunción valvular o obstrucción venosa, llevando a hipertensión venosa. Las úlceras venosas son la manifestación más grave, localizadas típicamente en la <b>región maleolar interna</b> (supramaleolar). Son indoloras o poco dolorosas, superficiales, con bordes irregulares, exudativas y rodeadas de hiperpigmentación (dermatitis ocre) y lipodermatoesclerosis. El tratamiento incluye compresión elástica, elevación de piernas, cuidado de la herida y, en ocasiones, ablación venosa."
+      "foco": "Pulsos disminuidos y soplos femorales",
+      "title": "Exploración vascular: pulsos y soplos",
+      "contentHtml": "<h2>Exploración vascular: pulsos y soplos</h2><ul><li>Palpar y graduar pulsos femoral, poplíteo, tibial posterior y dorsal del pie (0 ausente, 1 disminuido, 2 normal, 3 aumentado); asimetría o ausencia orienta a estenosis proximal.</li><li><b>Soplo femoral</b>: ruido audible con el manguito por encima de la arteria femoral común; sugiere estenosis ilíaca o femoral común y obliga a medir índice tobillo-brazo.</li><li>Ausencia de pulso poplíteo con femoral presente: sospecha de oclusión de arteria femoral superficial (claudicación de pantorrilla).</li><li>Trampa: en la oclusión ilíaca crónica puede haber soplo femoral contralateral por flujo cruzado; no descarta lesión ipsilateral.</li></ul>"
     },
     {
       "order": 6,
-      "foco": "Aneurisma de aorta abdominal: cribado en varones mayores",
-      "title": "Aneurisma Aorta Abdominal: Cribado",
-      "contentHtml": "<h2>Aneurisma de Aorta Abdominal (AAA): Cribado</h2><br/>Un <b>aneurisma de aorta abdominal</b> (AAA) es una dilatación localizada de la aorta de al menos <b>1.5 veces</b> el diámetro normal o un diámetro absoluto <b>&gt;3 cm</b>. El principal factor de riesgo es el <b>tabaquismo</b>. Se recomienda el cribado con <b>ecografía abdominal</b> una única vez en <b>varones de 65 a 75 años</b> con antecedente de tabaquismo. El umbral para reparación electiva es un diámetro <b>&gt;5.5 cm</b> en varones o crecimiento rápido (<b>&gt;0.5 cm en 6 meses</b>)."
+      "foco": "Test de Buerger para diferenciar claudicación",
+      "title": "Test de Buerger (prueba de elevación y rubor)",
+      "contentHtml": "<h2>Test de Buerger (prueba de elevación y rubor)</h2><ul><li><b>Test de Buerger</b>: elevar la extremidad 45° durante 1-2 minutos → palidez cadavérica si isquemia; después sentar al paciente con las piernas colgando → rubor reactivo &gt;1 minuto (rubor de declive) y congestión venosa.</li><li>Positivo en enfermedad arterial periférica avanzada; ayuda a diferenciar claudicación vascular de la neurogénica (esta no produce cambios de color).</li><li>Se complementa con llenado venoso retrasado &gt;20 segundos y frialdad distal.</li><li>Trampa: el rubor de declive también aparece en eritromelalgia y en insuficiencia venosa; interpretar junto con pulsos e índice tobillo-brazo.</li></ul>"
     },
     {
       "order": 7,
-      "foco": "Tromboangeítis obliterante (Buerger): tabaquismo y amputación",
-      "title": "Tromboangeítis Obliterante (Buerger)",
-      "contentHtml": "<h2>Tromboangeítis Obliterante (Enfermedad de Buerger)</h2><br/>La <b>tromboangeítis obliterante</b> (TAO), o enfermedad de <b>Buerger</b>, es una vasculitis inflamatoria segmentaria y oclusiva de arterias y venas de pequeño y mediano calibre en extremidades distales. Afecta casi exclusivamente a <b>fumadores jóvenes</b> (hombres, &lt;45 años). Se caracteriza por isquemia distal, que puede progresar a úlceras tróficas y <b>amputaciones</b>. El tratamiento más importante y único que frena la progresión es el <b>cese completo e inmediato del tabaquismo</b>. No existe tratamiento farmacológico específico."
+      "foco": "Úlceras arteriales: bordes definidos, fondo pálido",
+      "title": "Úlcera arterial",
+      "contentHtml": "<h2>Úlcera arterial</h2><ul><li><b>Úlcera arterial</b>: bordes definidos y punched-out (sacabocados), fondo pálido o necrótico, piel perilesional fina, brillante, sin vello y fría; localización distal (dedos, talón, maléolo lateral) y muy dolorosa.</li><li>Pulsos distales ausentes e índice tobillo-brazo &lt;0.9; curación imposible sin revascularización.</li><li>Manejo: revascularización, desbridamiento conservador, apósito no adherente, evitar compresión y control del dolor.</li><li>Trampa: la compresión elástica está contraindicada en úlcera arterial pura; solo se usa si índice tobillo-brazo &gt;0.8 y componente venoso predominante.</li></ul>"
     },
     {
       "order": 8,
-      "foco": "Fenómeno de Raynaud: diferenciación primario/secundario",
-      "title": "Fenómeno de Raynaud: Primario vs. Secundario",
-      "contentHtml": "<h2>Fenómeno de Raynaud: Diferenciación</h2><br/>El <b>fenómeno de Raynaud</b> es un vasoespasmo paroxístico de las arteriolas digitales en respuesta al frío o estrés emocional, causando cambios de color trifásicos (palidez, cianosis, eritema). Se diferencia en:<ul><li><b>Primario:</b> El más común, benigno, sin causa subyacente. Inicia en jóvenes, es bilateral y simétrico, sin úlceras.</li><li><b>Secundario:</b> Asociado a enfermedades del tejido conectivo (esclerodermia sistémica, lupus eritematoso sistémico), fármacos, oclusiones arteriales. Suele ser unilateral, asimétrico, y puede cursar con <b>úlcera o gangrena</b> digital. Se investiga con anticuerpos antinucleares y capilaroscopia.</li></ul>"
+      "foco": "Úlceras venosas: bordes irregulares, exudativas",
+      "title": "Úlcera venosa",
+      "contentHtml": "<h2>Úlcera venosa</h2><ul><li><b>Úlcera venosa</b>: bordes irregulares y poco definidos, fondo rojo granulante y muy exudativo, piel perilesional con dermatitis ocre, lipodermatoesclerosis y edema; localización típica en maléolo medial (región supramaleolar).</li><li>Pulsos distales presentes e índice tobillo-brazo &gt;0.8; dolor que mejora con la elevación y empeora al final del día.</li><li>Primera línea: compresión multicapa (30-40 mmHg), elevación, ejercicio y tratamiento de la insuficiencia venosa; antibiótico solo si infección.</li><li>Trampa: úlcera venosa de larga evolución puede malignizarse (carcinoma espinocelular) si no cicatriza en 3 meses → biopsia.</li></ul>"
     },
     {
       "order": 9,
-      "foco": "Tratamiento de TVP: anticoagulación de inicio y duración",
-      "title": "Tratamiento de TVP: Anticoagulación",
-      "contentHtml": "<h2>Tratamiento de Trombosis Venosa Profunda (TVP)</h2><br/>El tratamiento de la <b>trombosis venosa profunda</b> (TVP) se basa en la <b>anticoagulación</b>. Inicialmente, se utilizan <b>anticoagulantes orales de acción directa (DOAC)</b> como rivaroxabán o apixabán, o heparina de bajo peso molecular (HBPM) seguida de DOAC o antagonistas de la vitamina K. La duración estándar es de <b>3 meses</b> para TVP provocada por un factor de riesgo transitorio. Para TVP no provocada o asociada a cáncer, la duración es <b>&gt;3 meses</b>, pudiendo ser indefinida en casos de alto riesgo de recurrencia."
+      "foco": "Trombosis venosa profunda: signo de Homans",
+      "title": "Trombosis venosa profunda y signo de Homans",
+      "contentHtml": "<h2>Trombosis venosa profunda y signo de Homans</h2><ul><li><b>Signo de Homans</b>: dolor en la pantorrilla con la dorsiflexión pasiva del pie; tiene baja sensibilidad y especificidad, por lo que no confirma ni excluye trombosis venosa profunda.</li><li>Clínica: edema unilateral, dolor, empastamiento y circulación colateral; riesgo de embolia pulmonar.</li><li>Diagnóstico: probabilidad clínica (Wells) + dímero D (negativo &lt;500 ng/mL descarta en baja probabilidad) + ecografía Doppler compresiva como prueba de elección.</li><li>Tratamiento: anticoagulación con heparina de bajo peso molecular o anticoagulante directo; trombólisis solo en trombosis masiva con compromiso arterial.</li></ul>"
     },
     {
       "order": 10,
-      "foco": "Complicación más grave de AAA: rotura y hemorragia",
-      "title": "Complicación de AAA: Rotura",
-      "contentHtml": "<h2>Complicación más Grave de Aneurisma de Aorta Abdominal (AAA)</h2><br/>La complicación más grave del <b>aneurisma de aorta abdominal</b> (AAA) es la <b>rotura</b>, una emergencia quirúrgica con una mortalidad muy elevada (<b>&gt;80%</b>). La presentación clásica incluye <b>dolor abdominal o lumbar intenso y súbito</b>, masa pulsátil palpable y <b>choque hipovolémico</b>. Otros síntomas incluyen síncope o hipotensión inexplicada. La confirmación diagnóstica en pacientes estables es con angiotomografía computarizada; en inestables, el traslado inmediato a quirófano para reparación abierta o endovascular (EVAR) es prioritario."
-    },
-    {
-      "order": 11,
-      "foco": "Linfedema primario: causa genética o idiopática",
-      "title": "Linfedema Primario",
-      "contentHtml": "<h2>Linfedema Primario: Etiología y Tipos</h2><br/>El <b>linfedema primario</b> es una alteración en el desarrollo o función del sistema linfático, resultando en un acúmulo de linfa y edema. Su causa es genética o idiopática. Se clasifica según la edad de inicio:<ul><li><b>Congénito:</b> presente al nacer o antes del año de vida (ej. <b>Enfermedad de Milroy</b>).</li><li><b>Precoz (praecox):</b> aparece antes de los 35 años, más común en mujeres y suele debutar en la pubertad o embarazo.</li><li><b>Tardío (tarda):</b> después de los 35 años.</li></ul>Clínicamente, es un edema blando que no deja fóvea inicialmente, se endurece con el tiempo y afecta típicamente al dorso del pie y dedos (<b>signo de Stemmer positivo</b>)."
-    },
-    {
-      "order": 12,
-      "foco": "Isquemia crítica crónica: dolor en reposo y úlceras tróficas",
-      "title": "Isquemia Crítica Crónica",
-      "contentHtml": "<h2>Isquemia Crítica Crónica (ICC): Dolor en Reposo y Úlceras</h2><br/>La <b>isquemia crítica crónica</b> (ICC) representa la forma más avanzada y grave de la enfermedad arterial periférica. Se define por la presencia de <b>dolor isquémico en reposo</b>, que empeora con la elevación de la extremidad y mejora al colgarla, o la presencia de <b>úlceras tróficas no curativas</b> o gangrena, con una duración <b>&gt;2 semanas</b>. El diagnóstico se confirma con un <b>índice tobillo-brazo (ITB) &lt;0.40</b> o presión arterial sistólica del tobillo &lt;50 mmHg. La revascularización es el pilar del tratamiento para preservar la extremidad."
+      "foco": "Insuficiencia venosa crónica: edema y cambios tróficos",
+      "title": "Insuficiencia venosa crónica",
+      "contentHtml": "<h2>Insuficiencia venosa crónica</h2><ul><li><b>Insuficiencia venosa crónica</b>: hipertensión venosa ambulatoria &gt;90 mmHg por incompetencia valvular; edema vespertino, varices, hiperpigmentación ocre, lipodermatoesclerosis y úlcera supramaleolar medial.</li><li>Clasificación clínica, etiológica, anatómica y fisiopatológica (CEAP) de C0 a C6; C6 = úlcera activa.</li><li>Primera línea: compresión gradual 20-30 mmHg (30-40 mmHg si úlcera), elevación de piernas, ejercicio y ablación endovenosa (láser o radiofrecuencia) de la vena safena incompetente.</li><li>Trampa: el edema bilateral simétrico obliga a descartar causa sistémica (insuficiencia cardíaca, renal, hipoalbuminemia) antes de atribuirlo a insuficiencia venosa crónica.</li></ul>"
     }
   ]
 }

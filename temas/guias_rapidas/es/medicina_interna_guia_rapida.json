@@ -1,0 +1,65 @@
+{
+  "id": "medicina_interna",
+  "items": [
+    {
+      "order": 1,
+      "foco": "Criterios diagnósticos de diabetes ADA",
+      "title": "Diabetes mellitus: criterios ADA",
+      "contentHtml": "<h2>Diabetes mellitus: criterios diagnósticos ADA</h2><ul><li>Diagnóstico si cualquiera: glucemia en ayunas &ge;<b>126 mg/dL</b>; glucemia 2 h en prueba de tolerancia oral a la glucosa &ge;<b>200 mg/dL</b>; hemoglobina glucosilada &ge;<b>6.5%</b>; glucemia aleatoria &ge;<b>200 mg/dL</b> con síntomas clásicos (poliuria, polidipsia, pérdida de peso).</li><li>Sin síntomas hiperglucémicos, se requiere <b>confirmación en segunda muestra</b> (mismo o distinto criterio).</li><li>Prediabetes: glucosa en ayunas <b>100-125 mg/dL</b>; 2 h <b>140-199 mg/dL</b>; hemoglobina glucosilada <b>5.7-6.4%</b>.</li><li>Trampa: hemoglobina glucosilada no válida en anemia, hemoglobinopatías, embarazo o enfermedad renal avanzada.</li></ul>"
+    },
+    {
+      "order": 2,
+      "foco": "Clasificación de insuficiencia cardiaca FEVI",
+      "title": "Insuficiencia cardiaca según fracción de eyección",
+      "contentHtml": "<h2>Insuficiencia cardiaca según fracción de eyección</h2><ul><li><b>Fracción de eyección reducida</b>: &le;<b>40%</b>; primera línea con inhibidor de neprilisina y receptor de angiotensina (sacubitrilo/valsartán), betabloqueante, antagonista mineralocorticoide e inhibidor de cotransportador sodio-glucosa tipo 2.</li><li><b>Fracción de eyección levemente reducida</b>: <b>41-49%</b>; tratar como reducida si hay síntomas.</li><li><b>Fracción de eyección preservada</b>: &ge;<b>50%</b>; pilar: inhibidor de cotransportador sodio-glucosa tipo 2 y diurético por congestión.</li><li>Trampa: el diagnóstico de preservada exige síntomas, péptidos natriuréticos elevados y evidencia de presión de llenado elevada.</li></ul>"
+    },
+    {
+      "order": 3,
+      "foco": "Criterios CURB-65 en neumonía",
+      "title": "Neumonía: CURB-65",
+      "contentHtml": "<h2>Neumonía adquirida en la comunidad: CURB-65</h2><ul><li>Cinco variables (1 punto cada una): <b>Confusión</b>, <b>Urea</b> &gt;<b>7 mmol/L</b> (&gt;19 mg/dL), <b>Frecuencia respiratoria</b> &ge;<b>30/min</b>, <b>Presión arterial</b> sistólica &lt;<b>90 mmHg</b> o diastólica &le;<b>60 mmHg</b>, edad &ge;<b>65 años</b>.</li><li>0-1: tratamiento ambulatorio; 2: hospitalización; &ge;3: valorar unidad de cuidados intensivos.</li><li>Trampa: no sustituye juicio clínico ni saturación de oxígeno; el <b>PSI</b> es más sensible para identificar bajo riesgo.</li></ul>"
+    },
+    {
+      "order": 4,
+      "foco": "Metabolismo ácido-base interpretación arterial",
+      "title": "Gasometría arterial: interpretación ácido-base",
+      "contentHtml": "<h2>Interpretación ácido-base en gasometría arterial</h2><ul><li>Paso 1: pH &lt;<b>7.35</b> acidemia; &gt;<b>7.45</b> alcalemia. Paso 2: presión parcial de dióxido de carbono &gt;<b>45 mmHg</b> = componente respiratorio; bicarbonato &lt;<b>22 mEq/L</b> = componente metabólico.</li><li>Paso 3: compensación esperada. Metabólica: presión parcial de dióxido de carbono esperada = <b>1.5 × bicarbonato + 8 ± 2</b> (Winter). Respiratoria aguda: bicarbonato cambia <b>0.1 por cada 10 mmHg</b>; crónica <b>0.35</b>.</li><li>Paso 4: exceso de bases y anión gap = sodio − (cloro + bicarbonato); normal <b>8-12 mEq/L</b>; corregir por albúmina.</li><li>Trampa: en acidosis metabólica con anión gap elevado, calcular delta-delta para detectar trastorno mixto.</li></ul>"
+    },
+    {
+      "order": 5,
+      "foco": "Diagnóstico de tromboembolia pulmonar Wells",
+      "title": "Tromboembolia pulmonar: escala de Wells",
+      "contentHtml": "<h2>Tromboembolia pulmonar: probabilidad clínica de Wells</h2><ul><li>Criterios (puntos): signos de trombosis venosa profunda <b>3</b>; diagnóstico alternativo menos probable <b>3</b>; frecuencia cardiaca &gt;<b>100/min</b> <b>1.5</b>; inmovilización/cirugía reciente <b>1.5</b>; tromboembolia previa <b>1.5</b>; hemoptisis <b>1</b>; cáncer activo <b>1</b>.</li><li>Probabilidad: &le;<b>4</b> baja; <b>4.5-6</b> moderada; &ge;<b>6.5</b> alta (modelo de tres niveles).</li><li>Estrategia: baja probabilidad + dímero D negativo descarta; alta probabilidad → angiotomografía pulmonar.</li><li>Trampa: el dímero D no se usa en alta probabilidad ni en embarazo con criterios de imagen directa.</li></ul>"
+    },
+    {
+      "order": 6,
+      "foco": "Manejo de crisis hipertensiva vs urgencia",
+      "title": "Crisis hipertensiva: emergencia vs urgencia",
+      "contentHtml": "<h2>Crisis hipertensiva: emergencia vs urgencia</h2><ul><li><b>Emergencia hipertensiva</b>: presión arterial &ge;<b>180/120 mmHg</b> con <b>daño agudo de órgano diana</b> (encefalopatía, síndrome coronario agudo, edema pulmonar, disección aórtica, insuficiencia renal aguda). Ingreso y descenso controlado: <b>25% en primera hora</b>; en disección aórtica, frecuencia cardiaca &lt;<b>60/min</b> y presión sistólica &lt;<b>120 mmHg</b>.</li><li><b>Urgencia hipertensiva</b>: sin daño agudo; ajuste oral ambulatorio, no descenso brusco.</li><li>Trampa: no usar nifedipino sublingual; evitar descenso rápido que cause isquemia.</li></ul>"
+    },
+    {
+      "order": 7,
+      "foco": "Criterios de Light en derrame pleural",
+      "title": "Derrame pleural: criterios de Light",
+      "contentHtml": "<h2>Derrame pleural: criterios de Light</h2><ul><li>Exudado si cumple al menos uno: proteínas pleurales/proteínas séricas &gt;<b>0.5</b>; lactato deshidrogenasa pleural/lactato deshidrogenasa sérica &gt;<b>0.6</b>; lactato deshidrogenasa pleural &gt;<b>2/3 del límite superior normal sérico</b>.</li><li>Trasudado: insuficiencia cardiaca, cirrosis, síndrome nefrótico. Exudado: infección, malignidad, tromboembolia pulmonar.</li><li><b>Hallazgo clave:</b> pH pleural &lt;<b>7.20</b> en empiema indica drenaje torácico.</li><li>Trampa: diuréticos pueden convertir trasudado en exudado; usar gradiente de albúmina sérica-pleural &gt;<b>1.2 g/dL</b> sugiere trasudado.</li></ul>"
+    },
+    {
+      "order": 8,
+      "foco": "Escalas Child-Pugh y MELD en cirrosis",
+      "title": "Cirrosis: Child-Pugh y MELD",
+      "contentHtml": "<h2>Cirrosis: escalas Child-Pugh y MELD</h2><ul><li><b>Child-Pugh</b>: bilirrubina, albúmina, tiempo de protrombina/INR, ascitis y encefalopatía. Clases: A <b>5-6</b>, B <b>7-9</b>, C <b>10-15</b>; predice mortalidad quirúrgica.</li><li><b>MELD</b>: bilirrubina, INR, creatinina (y sodio en MELD-Na); prioriza trasplante hepático; MELD &ge;<b>15</b> indica derivación a trasplante.</li><li>Trampa: Child-Pugh incluye variables subjetivas (ascitis, encefalopatía); MELD es más objetivo y reproducible.</li></ul>"
+    },
+    {
+      "order": 9,
+      "foco": "Diagnóstico de anemia ferropénica vs talasemia",
+      "title": "Anemia microcítica: ferropenia vs talasemia",
+      "contentHtml": "<h2>Anemia microcítica: ferropenia vs talasemia</h2><ul><li><b>Ferropenia</b>: ferritina baja (&lt;<b>30 ng/mL</b>), hierro sérico bajo, capacidad de fijación de hierro elevada, saturación de transferrina &lt;<b>20%</b>; índice de Mentzer (volumen corpuscular medio/hematíes) &gt;<b>13</b>.</li><li><b>Talasemia</b>: ferritina normal/alta, índice de Mentzer &lt;<b>13</b>, electroforesis con hemoglobina A2 elevada en beta talasemia; antecedente familiar.</li><li>Trampa: en inflamación, ferritina puede ser normal con ferropenia; usar receptor soluble de transferrina.</li></ul>"
+    },
+    {
+      "order": 10,
+      "foco": "Criterios de sepsis y shock séptico",
+      "title": "Sepsis y shock séptico: criterios",
+      "contentHtml": "<h2>Sepsis y shock séptico: criterios</h2><ul><li><b>Sepsis</b>: infección documentada o sospechada + disfunción orgánica; SOFA &ge;<b>2 puntos</b> (respiratorio, coagulación, hígado, cardiovascular, sistema nervioso central, renal).</li><li><b>Shock séptico</b>: sepsis con necesidad de vasopresor para presión arterial media &ge;<b>65 mmHg</b> y lactato &gt;<b>2 mmol/L</b> tras reanimación con cristaloides <b>30 mL/kg</b>.</li><li>Primera hora: hemocultivos, antibiótico de amplio espectro y cristaloides; noradrenalina primera línea.</li><li>Trampa: qSOFA no define sepsis; solo criba riesgo.</li></ul>"
+    }
+  ]
+}
